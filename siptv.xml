@@ -176,6 +176,37 @@
     <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
+  <channel id="| DIRECTV SPORTS 1 HD">
+    <display-name lang="en">| DIRECTV SPORTS 1 HD</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="AR | DIRECTV SPORT 2">
+    <display-name lang="en">AR | DIRECTV SPORT 2</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="AR | DIRECTV SPORTS PLUS">
+    <display-name lang="en">AR | DIRECTV SPORTS PLUS</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="AR | ESPN 1">
+    <display-name lang="es">AR | ESPN 1</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AR | ESPN 1 HD">
+    <display-name lang="es">AR | ESPN 1 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_espn-1_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AR | ESPN 2">
+    <display-name lang="es">AR | ESPN 2</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_espn-2_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AR | ESPN 3 Arg">
+    <display-name lang="es">AR | ESPN 3 Arg</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_espn-3_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
   <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | CDO BASICO FHD">
     <title lang="es">Municipal Puente Alto vs. Municipal Quilicura</title>
     <sub-title lang="es">Básquet</sub-title>
@@ -11448,6 +11479,1832 @@
     <icon src="https://cdn.mitvstatic.com/programs/cl_la-ruta-del-agua_l_l.jpg" />
     <rating system="IMdb">
       <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618020000 +0000" stop="20210618030000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618030000 +0000" stop="20210618040000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">De fútbol se habla así</title>
+    <desc lang="en">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618040000 +0000" stop="20210618043000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Conexión DIRECTV Argentina</title>
+    <desc lang="en">Noticiero que repasa la actualidad de todo lo que acontece en el mundo futbolístico y demás disciplinas deportivas en Argentina. Desde la atractiva Primera División, pasando por el apasionante Ascenso y las noticias polideportivas más relevantes.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618043000 +0000" stop="20210618050000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618050000 +0000" stop="20210618060000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">The LaLiga Santander Champions</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618090000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Dinamarca vs. Bélgica : UEFA Eurocopa 2020 - Dinamarca vs. Bélgica</title>
+    <desc lang="en">El único partido en un gran torneo entre Dinamarca y Bélgica fue en la fase de grupos de la Eurocopa de 1984. Los daneses ganaron 3 a 2 en Estrasburgo y pasaron a la fase eliminatoria. Preben Elkjær marcó el gol de la victoria en el minuto 84.(n)</desc>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618093000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618093000 +0000" stop="20210618113000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Colombia vs. Venezuela : CONMEBOL Copa América 2021 - Colombia vs. Venezuela</title>
+    <desc lang="en">Jornada 2 del Grupo B. Colombia enfrenta a Venezuela en el estadio Olímpico, en Goiania. Los cafeteros vienen de vencer por 1-0 a Ecuador con gol de Edwin Cardona, mientras que la Vinotinto cayó con Brasil por 3-0.(n)</desc>
+  </programme>
+  <programme start="20210618113000 +0000" stop="20210618120000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618124800 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618124800 +0000" stop="20210618150000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Suecia vs. Eslovaquia : UEFA Eurocopa 2020 - Suecia vs. Eslovaquia</title>
+    <desc lang="en">Eslovaquia no ha ganado ninguno de los cinco partidos oficiales contra Suecia (tres empates y dos derrotas). El más reciente fue un empate amistoso 1-1 en 2018. Albert Rusnák empató después de que John Giudetti diera la ventaja a los anfitriones.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618154800 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618154800 +0000" stop="20210618180000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Croacia vs. República Checa : UEFA Eurocopa 2020 - Croacia vs. República Checa</title>
+    <desc lang="en">Croacia y República Checa se enfrentan en la fase de grupos por segunda vez consecutiva en la Eurocopa. En 2016 empataron 2-2. Ivan Perišic e Ivan Rakitic pusieron a Croacia 2 a 0 arriba, pero Milan Škoda y Tomáš Necid dieron un punto a los checos.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618200000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">De fútbol se habla así</title>
+    <desc lang="en">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618204500 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618204500 +0000" stop="20210618230000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Chile vs. Bolivia : CONMEBOL Copa América 2021 - Chile vs. Bolivia</title>
+    <desc lang="en">Jornada 2 del Grupo A. Chile enfrenta a Bolivia en el Arena Pantanal, en Cuiabá. La Roja viene de igualar 1-1 ante Argentina con gol de Eduardo Vargas, mientras que el equipo de César Farías perdió 3-1 con Paraguay.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210618234500 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618234500 +0000" stop="20210619020000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">De fútbol se habla así</title>
+    <desc lang="en">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619043000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Conexión DIRECTV Argentina</title>
+    <desc lang="en">Noticiero que repasa la actualidad de todo lo que acontece en el mundo futbolístico y demás disciplinas deportivas en Argentina. Desde la atractiva Primera División, pasando por el apasionante Ascenso y las noticias polideportivas más relevantes.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619043000 +0000" stop="20210619050000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619050000 +0000" stop="20210619060000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">LaLiga Post Season</title>
+    <desc lang="en">LaLiga 2020/2021 fue única e inolvidable. El repaso de los mejores momentos de esta temporada.(n)</desc>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619090000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Inglaterra vs. Escocia : UEFA Eurocopa 2020 - Inglaterra vs. Escocia</title>
+    <desc lang="en">En este partido se cumplen 25 años del único encuentro entre Inglaterra y Escocia en un gran torneo. Inglaterra se impuso por 2-0 en Wembley en la fase de grupos de la Eurocopa 1996 con goles de Alan Shearer y Paul Gascoigne.(n)</desc>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619093000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619093000 +0000" stop="20210619113000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+  </programme>
+  <programme start="20210619113000 +0000" stop="20210619120000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619124800 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619124800 +0000" stop="20210619150000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Hungría vs. Francia : UEFA Eurocopa 2020 - Hungría vs. Francia</title>
+    <desc lang="en">Fecha 2 del Grupo F. Hungría y Francia se enfrentan en el Puskás Aréna, de Budapest. Será el primer duelo oficial entre ambos desde el Mundial de 1986, cuando les Bleus ganaron 3-0 con goles de Yannick Stopyra, Jean Tigana y Dominique Rocheteau.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619150000 +0000" stop="20210619154800 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619154800 +0000" stop="20210619180000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Portugal vs. Alemania : UEFA Eurocopa 2020 - Portugal vs. Alemania</title>
+    <desc lang="en">Fecha 2 del Grupo F. Portugal y Alemania se enfrentan en el Allianz Arena, de Múnich. Los germanos ganaron 4 de los últimos 5 duelos ante los lusos en competiciones oficiales. La única excepción de esa racha fue un 3-0 para Portugal, en la EURO 2000.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619184800 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619184800 +0000" stop="20210619210000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">España vs. Polonia : UEFA Eurocopa 2020 - España vs. Polonia</title>
+    <desc lang="en">Fecha 2 del Grupo E. España y Polonia se enfrentan en Sevilla. La Roja triunfó en 8 de sus 10 duelos previos ante los polacos, incluyendo un triunfo 6-0 en el duelo más reciente, un amistoso disputado en Murcia en 2010.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619210000 +0000" stop="20210619220000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619220000 +0000" stop="20210619230000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620010000 +0000" channel="| DIRECTV SPORTS 1 HD">
+    <title lang="en">Portugal vs. Alemania : UEFA Eurocopa 2020 - Portugal vs. Alemania</title>
+    <desc lang="en">Fecha 2 del Grupo F. Portugal y Alemania se enfrentan en el Allianz Arena, de Múnich. Los germanos ganaron 4 de los últimos 5 duelos ante los lusos en competiciones oficiales. La única excepción de esa racha fue un 3-0 para Portugal, en la EURO 2000.(n)</desc>
+  </programme>
+  <programme start="20210618010000 +0000" stop="20210618030000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Puerto Rico vs. Colombia</title>
+    <desc lang="en">Cuartos de final. Puerto Rico enfrenta a Colombia. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618030000 +0000" stop="20210618050000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes de los equipos del fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20210618050000 +0000" stop="20210618053000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20210618053000 +0000" stop="20210618060000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618090000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Barca TV - 2011: Santos vs. Barcelona</title>
+    <desc lang="en">Barcelona y Santos disputan la final del Mundial de Clubes de la FIFA. Del 18 de diciembre de 2011, desde el International Stadium Yokohama, en Japón.(n)</desc>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618100000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618120000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Estados Unidos vs. Islas Vírgenes</title>
+    <desc lang="en">Cuartos de final. Estados Unidos enfrenta a Islas Vírgenes. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618123000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618133000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210618133000 +0000" stop="20210618140000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">MLR Highlights</title>
+    <desc lang="en">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618160000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">El chiringuito de jugones</title>
+  </programme>
+  <programme start="20210618160000 +0000" stop="20210618180000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Puerto Rico vs. Colombia</title>
+    <desc lang="en">Cuartos de final. Puerto Rico enfrenta a Colombia. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618184800 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618184800 +0000" stop="20210618210000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Inglaterra vs. Escocia : UEFA Eurocopa 2020 - Inglaterra vs. Escocia</title>
+    <desc lang="en">En este partido se cumplen 25 años del único encuentro entre Inglaterra y Escocia en un gran torneo. Inglaterra se impuso por 2-0 en Wembley en la fase de grupos de la Eurocopa 1996 con goles de Alan Shearer y Paul Gascoigne.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618220000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210619000000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619010000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">De ciclismo se habla así</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20210619010000 +0000" stop="20210619030000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619033000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">MLR Highlights</title>
+    <desc lang="en">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+  </programme>
+  <programme start="20210619033000 +0000" stop="20210619040000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Hilos</title>
+    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619060000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619090000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Barca TV - 2012-2013: Barcelona vs. Real Madrid</title>
+    <desc lang="en">Acción del Clásico de LaLiga por la Jornada 7 de la temporada 2012-2013. Disputado el 7 de octubre de 2012.(n)</desc>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619100000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619120000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619123000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas, y las noticias del mejor básquet del planeta las podrás disfrutar en Diario NBA.(n)</desc>
+  </programme>
+  <programme start="20210619123000 +0000" stop="20210619143000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Italia vs. Suiza : UEFA Eurocopa 2020 - Italia vs. Suiza</title>
+    <desc lang="en">Italia y Suiza se enfrentan en un torneo importante por primera vez desde la fase de grupos del Mundial de 1962. Los azzurri ganaron 3 a 0 con goles de Giacomo Bulgarelli (2) y Bruno Mora. Ninguno de los dos equipos pasó a la fase eliminatoria.(n)</desc>
+  </programme>
+  <programme start="20210619143000 +0000" stop="20210619153000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210619153000 +0000" stop="20210619180000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Colo-Colo vs. Universidad de Concepción : Fútbol Chileno Femenino Primera División - Colo-Colo vs. Universidad de Concepción</title>
+    <desc lang="en">Acción por la Fecha 6 del Grupo A. Colo-Colo recibe a Universidad de Concepción.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619183000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210619183000 +0000" stop="20210619190000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20210619190000 +0000" stop="20210619210000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210619210000 +0000" stop="20210619220000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210619220000 +0000" stop="20210620000000 +0000" channel="AR | DIRECTV SPORT 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Tercer lugar: equipos a confirmar</title>
+    <desc lang="en">From Coliseo Roberto Clemente in San Juan, Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618020000 +0000" stop="20210618023000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">LaLiga Top Scorer: 2020-2021</title>
+    <desc lang="en">Repaso de los máximo goleadores de la temporada 2020-2021 de LaLiga.(n)</desc>
+  </programme>
+  <programme start="20210618023000 +0000" stop="20210618030000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">MLR Highlights</title>
+    <desc lang="en">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+  </programme>
+  <programme start="20210618030000 +0000" stop="20210618033000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Vamos a la Caye : Luis Alberto Carranza - Luis Alberto Carranza</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210618033000 +0000" stop="20210618053000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Colombia vs. Venezuela : CONMEBOL Copa América 2021 - Colombia vs. Venezuela</title>
+    <desc lang="en">Jornada 2 del Grupo B. Colombia enfrenta a Venezuela en el estadio Olímpico, en Goiania. Los cafeteros vienen de vencer por 1-0 a Ecuador con gol de Edwin Cardona, mientras que la Vinotinto cayó con Brasil por 3-0.(n)</desc>
+  </programme>
+  <programme start="20210618053000 +0000" stop="20210618060000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">LaLiga Talking Football - Aritz Aduriz</title>
+    <desc lang="en">T2020  E08 Entrevista con el exdelantero español nacido en San Sebastián, Aritz \"El Zorro\" Aduriz. Temporada:2020,Episodio:08.(n)</desc>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618090000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Perú vs. Brasil : CONMEBOL Copa América 2021 - Perú vs. Brasil</title>
+    <desc lang="en">Jornada 2 del Grupo B. Perú enfrenta a Brasil en el estadio Olímpico Nilton Santos. La Blanquirroja hace su debut en el torneo tras quedar libre en la primera fecha, mientras que la Canarinha venció por 3-0 a Venezuela.(n)</desc>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618110000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Brasil vs. Venezuela</title>
+    <desc lang="en">Cuartos de final. Brasil enfrenta a Venezuela. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618150000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618160000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">LaLiga Talking Football - Aritz Aduriz</title>
+    <desc lang="en">T2020  E08 Entrevista con el exdelantero español nacido en San Sebastián, Aritz \"El Zorro\" Aduriz. Temporada:2020,Episodio:08.(n)</desc>
+  </programme>
+  <programme start="20210618160000 +0000" stop="20210618180000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Perú vs. Brasil : CONMEBOL Copa América 2021 - Perú vs. Brasil</title>
+    <desc lang="en">Jornada 2 del Grupo B. Perú enfrenta a Brasil en el estadio Olímpico Nilton Santos. La Blanquirroja hace su debut en el torneo tras quedar libre en la primera fecha, mientras que la Canarinha venció por 3-0 a Venezuela.(n)</desc>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">LaLiga Talking Football - Aritz Aduriz</title>
+    <desc lang="en">T2020  E08 Entrevista con el exdelantero español nacido en San Sebastián, Aritz \"El Zorro\" Aduriz. Temporada:2020,Episodio:08.(n)</desc>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618210000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Colombia vs. Venezuela : CONMEBOL Copa América 2021 - Colombia vs. Venezuela</title>
+    <desc lang="en">Jornada 2 del Grupo B. Colombia enfrenta a Venezuela en el estadio Olímpico, en Goiania. Los cafeteros vienen de vencer por 1-0 a Ecuador con gol de Edwin Cardona, mientras que la Vinotinto cayó con Brasil por 3-0.(n)</desc>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Vamos a la Caye : Sebastián Simonet - Sebastián Simonet</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210619000000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Suecia vs. Eslovaquia : UEFA Eurocopa 2020 - Suecia vs. Eslovaquia</title>
+    <desc lang="en">Eslovaquia no ha ganado ninguno de los cinco partidos oficiales contra Suecia (tres empates y dos derrotas). El más reciente fue un empate amistoso 1-1 en 2018. Albert Rusnák empató después de que John Giudetti diera la ventaja a los anfitriones.(n)</desc>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Inglaterra vs. Escocia : UEFA Eurocopa 2020 - Inglaterra vs. Escocia</title>
+    <desc lang="en">En este partido se cumplen 25 años del único encuentro entre Inglaterra y Escocia en un gran torneo. Inglaterra se impuso por 2-0 en Wembley en la fase de grupos de la Eurocopa 1996 con goles de Alan Shearer y Paul Gascoigne.(n)</desc>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">The LaLiga Santander Champions</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619033000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Vamos a la Caye : Sebastián Simonet - Sebastián Simonet</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210619033000 +0000" stop="20210619053000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+  </programme>
+  <programme start="20210619053000 +0000" stop="20210619060000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">LaLiga Talking Football - Levante´s Method</title>
+    <desc lang="en">T2020  E09 Entrevistas con personalidades destacadas de LaLiga. Temporada:2020,Episodio:09.(n)</desc>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619090000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Chile vs. Bolivia : CONMEBOL Copa América 2021 - Chile vs. Bolivia</title>
+    <desc lang="en">Jornada 2 del Grupo A. Chile enfrenta a Bolivia en el Arena Pantanal, en Cuiabá. La Roja viene de igualar 1-1 ante Argentina con gol de Eduardo Vargas, mientras que el equipo de César Farías perdió 3-1 con Paraguay.(n)</desc>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619110000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Croacia vs. República Checa : UEFA Eurocopa 2020 - Croacia vs. República Checa</title>
+    <desc lang="en">Croacia y República Checa se enfrentan en la fase de grupos por segunda vez consecutiva en la Eurocopa. En 2016 empataron 2-2. Ivan Perišic e Ivan Rakitic pusieron a Croacia 2 a 0 arriba, pero Milan Škoda y Tomáš Necid dieron un punto a los checos.(n)</desc>
+  </programme>
+  <programme start="20210619110000 +0000" stop="20210619130000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">De fútbol se habla así</title>
+    <desc lang="en">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+  </programme>
+  <programme start="20210619130000 +0000" stop="20210619140000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210619140000 +0000" stop="20210619160000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Chile vs. Bolivia : CONMEBOL Copa América 2021 - Chile vs. Bolivia</title>
+    <desc lang="en">Jornada 2 del Grupo A. Chile enfrenta a Bolivia en el Arena Pantanal, en Cuiabá. La Roja viene de igualar 1-1 ante Argentina con gol de Eduardo Vargas, mientras que el equipo de César Farías perdió 3-1 con Paraguay.(n)</desc>
+  </programme>
+  <programme start="20210619160000 +0000" stop="20210619180000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619183000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Rugby Highlights</title>
+    <desc lang="en">Destacados del rugby.(n)</desc>
+  </programme>
+  <programme start="20210619183000 +0000" stop="20210619203000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Major League Rugby : Utah Warriors vs. Rugby United New York - Utah Warriors vs. Rugby United New York</title>
+    <desc lang="en">Jornada de la Major League Rugby. Utah Warriors enfrenta a Rugby United New York.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619203000 +0000" stop="20210619223000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Major League Rugby : NOLA Gold vs. Toronto Arrows - NOLA Gold vs. Toronto Arrows</title>
+    <desc lang="en">Jornada de la Major League Rugby. NOLA Gold enfrenta a Toronto Arrows. Desde el estadio Alumni Field, en Toronto.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619223000 +0000" stop="20210619230000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210619233000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">Vamos a la Caye : Montenegro - Montenegro</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210619233000 +0000" stop="20210620000000 +0000" channel="AR | DIRECTV SPORTS PLUS">
+    <title lang="en">LaLiga Top Scorer: 2020-2021</title>
+    <desc lang="en">Repaso de los máximo goleadores de la temporada 2020-2021 de LaLiga.(n)</desc>
+  </programme>
+  <programme start="20210618010000 -0400" stop="20210618020000 -0400" channel="AR | ESPN 1">
+    <title lang="es">FINA</title>
+  </programme>
+  <programme start="20210618020000 -0400" stop="20210618031500 -0400" channel="AR | ESPN 1">
+    <title lang="es">FINA</title>
+  </programme>
+  <programme start="20210618031500 -0400" stop="20210618033000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Villarreal campeón</title>
+  </programme>
+  <programme start="20210618033000 -0400" stop="20210618040000 -0400" channel="AR | ESPN 1">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20210618040000 -0400" stop="20210618043000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210618043000 -0400" stop="20210618050000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210618050000 -0400" stop="20210618053000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20210618053000 -0400" stop="20210618060000 -0400" channel="AR | ESPN 1">
+    <title lang="es">A.T.P. Tour Uncovered</title>
+  </programme>
+  <programme start="20210618060000 -0400" stop="20210618082500 -0400" channel="AR | ESPN 1">
+    <title lang="es">NCAA Outdoor Track &amp; Field Ch</title>
+  </programme>
+  <programme start="20210618082500 -0400" stop="20210618085500 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Polo</title>
+  </programme>
+  <programme start="20210618085500 -0400" stop="20210618110000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Springboks Legend vs. Uruguay</title>
+  </programme>
+  <programme start="20210618110000 -0400" stop="20210618113000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Esto es PGA Tour Latinoamérica</title>
+  </programme>
+  <programme start="20210618113000 -0400" stop="20210618123000 -0400" channel="AR | ESPN 1">
+    <title lang="es">PGA Tour Highlights</title>
+  </programme>
+  <programme start="20210618123000 -0400" stop="20210618130000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Lo mejor de MotoGP</title>
+  </programme>
+  <programme start="20210618130000 -0400" stop="20210618133000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20210618133000 -0400" stop="20210618160000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Nets vs. Bucks</title>
+  </programme>
+  <programme start="20210618160000 -0400" stop="20210618163000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Último Tren a Tokyo</title>
+  </programme>
+  <programme start="20210618163000 -0400" stop="20210618170000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Último Tren a Tokyo</title>
+  </programme>
+  <programme start="20210618170000 -0400" stop="20210618173000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Polo</title>
+  </programme>
+  <programme start="20210618173000 -0400" stop="20210618183000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Scrum</title>
+  </programme>
+  <programme start="20210618183000 -0400" stop="20210618190000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20210618190000 -0400" stop="20210618210000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Tennis ATP 500</title>
+  </programme>
+  <programme start="20210618210000 -0400" stop="20210618213000 -0400" channel="AR | ESPN 1">
+    <title lang="es">A.T.P. Tour Uncovered</title>
+  </programme>
+  <programme start="20210618213000 -0400" stop="20210618223000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20210618223000 -0400" stop="20210618233000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Espn Tenis</title>
+  </programme>
+  <programme start="20210618233000 -0400" stop="20210619020000 -0400" channel="AR | ESPN 1">
+    <title lang="es">U.S. Open Golf Championship</title>
+  </programme>
+  <programme start="20210619020000 -0400" stop="20210619030000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Playroom</title>
+  </programme>
+  <programme start="20210619030000 -0400" stop="20210619040000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20210619040000 -0400" stop="20210619043000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Último Tren a Tokyo</title>
+  </programme>
+  <programme start="20210619043000 -0400" stop="20210619050000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Último Tren a Tokyo</title>
+  </programme>
+  <programme start="20210619050000 -0400" stop="20210619053000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210619053000 -0400" stop="20210619060000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210619060000 -0400" stop="20210619090000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Athletics vs. Yankees</title>
+  </programme>
+  <programme start="20210619090000 -0400" stop="20210619100000 -0400" channel="AR | ESPN 1">
+    <title lang="es">SailGP Highlights</title>
+  </programme>
+  <programme start="20210619100000 -0400" stop="20210619103000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Aguas Arriba</title>
+  </programme>
+  <programme start="20210619103000 -0400" stop="20210619130000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Utah Jazz vs. LA Clippers</title>
+  </programme>
+  <programme start="20210619130000 -0400" stop="20210619140000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20210619140000 -0400" stop="20210619150000 -0400" channel="AR | ESPN 1">
+    <title lang="es">MotoGP Qualifying</title>
+  </programme>
+  <programme start="20210619150000 -0400" stop="20210619170000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Tennis ATP 500</title>
+  </programme>
+  <programme start="20210619170000 -0400" stop="20210619190000 -0400" channel="AR | ESPN 1">
+    <title lang="es">Blues vs. Highlanders</title>
+  </programme>
+  <programme start="20210619190000 -0400" stop="20210619200000 -0400" channel="AR | ESPN 1">
+    <title lang="es">ESPN Playroom</title>
+  </programme>
+  <programme start="20210619200000 -0400" stop="20210619220000 -0400" channel="AR | ESPN 1">
+    <title lang="es">D.C. United vs. Inter Miami CF</title>
+  </programme>
+  <programme start="20210619220000 -0400" stop="20210619230000 -0400" channel="AR | ESPN 1">
+    <title lang="es">SailGP Highlights</title>
+  </programme>
+  <programme start="20210619230000 -0400" stop="20210620020000 -0400" channel="AR | ESPN 1">
+    <title lang="es">U.S. Open Golf Championship</title>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618071500 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">FINA: Artistic Swimming Qualification Tournament</title>
+    <sub-title lang="es">Natación</sub-title>
+    <desc lang="es">Esta competición completará el camino de clasificación para las nadadoras artísticas que quieran participar en los Juegos Olímpicos de Tokio.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_natacion-fina-artistic-swimming-qualification-tournament_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618071500 +0000" stop="20210618073000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Villarreal campeón - UEFA Europa League 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618073000 +0000" stop="20210618080000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Acción de la N.B.A.</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_basquet-accion-de-la-n-b-a-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618083000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN W</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-espn-w_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618083000 +0000" stop="20210618090000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Run</title>
+    <sub-title lang="es">Atletismo</sub-title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_atletismo-espn-run_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618093000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Planet Speed</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Las novedades del automovilismo y motociclismo internacional.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-planet-speed_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618093000 +0000" stop="20210618100000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">A.T.P. Tour Magazine</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_a-t-p-tour-magazine_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618122500 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">NCAA Outdoor Track &amp; Field Championships</title>
+    <sub-title lang="es">Atletismo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_atletismo-ncaa-outdoor-track-field-championships_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618122500 +0000" stop="20210618125500 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Polo</title>
+    <sub-title lang="es">Polo</sub-title>
+    <desc lang="es">Los mejores torneos de un deporte en el que la Argentina es líder indiscutido en el mundo.(n)</desc>
+    <credits>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Martín Garrahan</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_polo-espn-polo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618125500 +0000" stop="20210618150000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Springboks vs. Uruguay</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">El International Series de 2021 será un torneo internacional de rugby juvenil que se disputará en el Estadio Markötter de Stellenbosch en Sudáfrica.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618153000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Esto es PGA Tour Latinoamérica</title>
+    <sub-title lang="es">Golf</sub-title>
+    <desc lang="es">Un magazine dentro de las cuerdas en donde usted podrá ver a las futuras estrellas y su intento por llegar al PGA Tour mientras compiten por quedar entre "Los Cinco" y avanzar al Web.com Tour. Culturas, gastronomía y diferentes historias.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_golf-esto-es-pga-tour-latinoamerica_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618153000 +0000" stop="20210618163000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">PGA Tour - Charles Schwab Challenge Highlights</title>
+    <sub-title lang="es">Golf</sub-title>
+    <desc lang="es">Desde el Colonial Country Club (70-7,209), Fort Worth, Texas, revivimos todo lo que fue un nuevo evento del PGA TOUR y el triunfo del norteamericano Jason Kokrak. Highlights, entrevistas y mucho más.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_golf-pga-tour-charles-schwab-challenge-highlights_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618163000 +0000" stop="20210618170000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Previa del GP de Alemania</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618173000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Planet Speed</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Las novedades del automovilismo y motociclismo internacional.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-planet-speed_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618173000 +0000" stop="20210618200000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Brooklyn Nets vs. Milwaukee Bucks, Juego 6, Semifinales de conferencia, Fiserv Forum, Milwaukee, WI</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_basquet-brooklyn-nets-vs-milwaukee-bucks-juego-6-semifinales-de-conferencia-fiserv-forum-milwaukee-wi_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618203000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Fukuoka y Nagasaki</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <credits>
+      <actor>Martín Ainstein</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fukuoka-y-nagasaki_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618203000 +0000" stop="20210618210000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Hiroshima</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <credits>
+      <actor>Martín Ainstein</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-hiroshima_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Polo</title>
+    <sub-title lang="es">Polo</sub-title>
+    <desc lang="es">Los mejores torneos de un deporte en el que la Argentina es líder indiscutido en el mundo.(n)</desc>
+    <credits>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Martín Garrahan</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_polo-espn-polo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618223000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Scrum</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-scrum_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618223000 +0000" stop="20210618230000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Aguas arriba</title>
+    <sub-title lang="es">Caza y Pesca</sub-title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_caza-y-pesca-aguas-arriba_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619010000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Cuartos de final</title>
+    <sub-title lang="es">Tenis</sub-title>
+    <desc lang="es">La serie ATP World Tour 500 es el tercer nivel más alto del torneo masculino de tenis, en una serie de trece competencias, con 500 puntos de clasificación otorgados para los campeones de singles.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tenis-cuartos-de-final-29_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619010000 +0000" stop="20210619013000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">A.T.P. Tour Magazine</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_a-t-p-tour-magazine_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619013000 +0000" stop="20210619023000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Knockout</title>
+    <sub-title lang="es">Boxeo</sub-title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_boxeo-espn-knockout_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619023000 +0000" stop="20210619033000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Tenis</title>
+    <sub-title lang="es">Tenis</sub-title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tenis-espn-tenis-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619033000 +0000" stop="20210619060000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Segunda ronda, Torrey Pines Golf Club (South), San Diego, CA, USA</title>
+    <sub-title lang="es">Golf</sub-title>
+    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_golf-segunda-ronda-torrey-pines-golf-club-south-san-diego-ca-usa-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Playroom</title>
+    <desc lang="es">Un formato innovador conducido por Migue Granados, en compañía de artistas, músicos y deportistas. El Playroom de Migue busca captar a los protagonistas de cada show, las mejores anécdotas, la música en vivo y a la tribuna virtual.(n)</desc>
+    <credits>
+      <actor>Migue Granados</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_espn-playroom_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Knockout</title>
+    <sub-title lang="es">Boxeo</sub-title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_boxeo-espn-knockout_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619080000 +0000" stop="20210619083000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Fukuoka y Nagasaki</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <credits>
+      <actor>Martín Ainstein</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fukuoka-y-nagasaki_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619083000 +0000" stop="20210619090000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Hiroshima</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <credits>
+      <actor>Martín Ainstein</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-hiroshima_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619093000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Run</title>
+    <sub-title lang="es">Atletismo</sub-title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_atletismo-espn-run_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619093000 +0000" stop="20210619100000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN X</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">La experiencia de los mejores snowboarders, la velocidad del surf y la creatividad de los skaters desafiando los límites. Además, los mejores momentos de los X Games y Winter X Games a lo largo de la historia.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-espn-x_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619130000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Oakland Athletics vs. New York Yankees, Yankee Stadium, Bronx, NY, USA</title>
+    <sub-title lang="es">Béisbol</sub-title>
+    <desc lang="es">Disfruta de los partidos de la temporada del mejor béisbol del mundo, en la "Mayor Baseball League" de Estados Unidos. En esta operan las dos ligas más importantes: la Nacional y la Americana.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_beisbol-oakland-athletics-vs-new-york-yankees-yankee-stadium-bronx-ny-usa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619130000 +0000" stop="20210619140000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">SailGP Highlights: Taranto, Italy 2021</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619140000 +0000" stop="20210619143000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Aguas arriba</title>
+    <sub-title lang="es">Caza y Pesca</sub-title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_caza-y-pesca-aguas-arriba_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619143000 +0000" stop="20210619170000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Utah Jazz vs. LA Clippers, Juego 6, Semifinales de conferencia, STAPLES Center, Los Angeles, CA</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_basquet-utah-jazz-vs-la-clippers-juego-6-semifinales-de-conferencia-staples-center-los-angeles-ca_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619170000 +0000" stop="20210619180000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Knockout</title>
+    <sub-title lang="es">Boxeo</sub-title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_boxeo-espn-knockout_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619190000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Liqui Moly Motorrad Grand Prix Deutschland, Sachsenring, Germany</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Es la máxima competición mundial de motociclismo de velocidad. Este certamen está regido por la Federación Internacional de Motociclismo y se divide en tres categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_motociclismo-liqui-moly-motorrad-grand-prix-deutschland-sachsenring-germany_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619190000 +0000" stop="20210619210000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Semifinales, The Queen's Club, London, England</title>
+    <sub-title lang="es">Tenis</sub-title>
+    <desc lang="es">La serie ATP World Tour 500 es el tercer nivel más alto del torneo masculino de tenis, en una serie de trece competencias, con 500 puntos de clasificación otorgados para los campeones de singles.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tenis-semifinales-the-queen-s-club-london-england-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619210000 +0000" stop="20210619230000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">Blues vs. Highlanders</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">Es el campeonato profesional de rugby más importante del Hemisferio Sur. En el torneo compiten 18 equipos: 5 de Australia, 6 de Sudáfrica, 5 de Nueva Zelanda, 1 de Argentina y 1 de Japón.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-blues-vs-highlanders-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620000000 +0000" channel="AR | ESPN 1 HD">
+    <title lang="es">ESPN Playroom</title>
+    <desc lang="es">Un formato innovador conducido por Migue Granados, en compañía de artistas, músicos y deportistas. El Playroom de Migue busca captar a los protagonistas de cada show, las mejores anécdotas, la música en vivo y a la tribuna virtual.(n)</desc>
+    <credits>
+      <actor>Migue Granados</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_espn-playroom_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="AR | ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618100000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618110000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618150000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618160000 +0000" channel="AR | ESPN 2">
+    <title lang="es">ESPN F12</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.(n)</desc>
+    <credits>
+      <actor>Mariano Closs</actor>
+      <actor>Luciana Rubinska</actor>
+      <actor>Leonardo Gabes</actor>
+      <actor>Javier Castrilli</actor>
+      <actor>Leonardo Paradizo</actor>
+      <actor>Juan Simón</actor>
+      <actor>Mariano Juan</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-espn-f12_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618160000 +0000" stop="20210618180000 +0000" channel="AR | ESPN 2">
+    <title lang="es">ESPN F90 - Primera edición</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.(n)</desc>
+    <credits>
+      <actor>Oscar Ruggeri</actor>
+      <actor>Sebastián Vignolo</actor>
+      <actor>Daniel Arcucci</actor>
+      <actor>Carlos Aimar</actor>
+      <actor>Marcelo Sottile</actor>
+      <actor>Diego Fucks</actor>
+      <actor>Federico Bulos</actor>
+      <actor>Sebastián Domínguez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-espn-f90-primera-edicion_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618200000 +0000" channel="AR | ESPN 2">
+    <title lang="es">ESPN F360</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <credits>
+      <actor>Gustavo López</actor>
+      <actor>Guillermo Poggi</actor>
+      <actor>Martín Palermo</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Leonardo Gentili</actor>
+      <actor>Gustavo Yarroch</actor>
+      <actor>Agostina Larocca</actor>
+      <actor>Patricio Muzzio</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-espn-f360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618220000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210619000000 +0000" channel="AR | ESPN 2">
+    <title lang="es">ESPN F90 - Segunda edición</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.(n)</desc>
+    <credits>
+      <actor>Marcelo Benedetto</actor>
+      <actor>Sebastián Vignolo</actor>
+      <actor>Marcelo Sottile</actor>
+      <actor>Vito De Palma</actor>
+      <actor>Pablo Ladaga</actor>
+      <actor>Damián Manusovich</actor>
+      <actor>Morena Beltrán</actor>
+      <actor>Renato Della Paolera</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-espn-f90-segunda-edicion_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619010000 +0000" channel="AR | ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619010000 +0000" stop="20210619020000 +0000" channel="AR | ESPN 2">
+    <title lang="es">Mejores goles 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-mejores-goles-2020-2021-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619033000 +0000" channel="AR | ESPN 2">
+    <title lang="es">ESPN F90 - Segunda edición</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.(n)</desc>
+    <credits>
+      <actor>Marcelo Benedetto</actor>
+      <actor>Sebastián Vignolo</actor>
+      <actor>Marcelo Sottile</actor>
+      <actor>Vito De Palma</actor>
+      <actor>Pablo Ladaga</actor>
+      <actor>Damián Manusovich</actor>
+      <actor>Morena Beltrán</actor>
+      <actor>Renato Della Paolera</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-espn-f90-segunda-edicion_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619033000 +0000" stop="20210619043000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619043000 +0000" stop="20210619050000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619050000 +0000" stop="20210619060000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619080000 +0000" stop="20210619085500 +0000" channel="AR | ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619085500 +0000" stop="20210619095500 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619095500 +0000" stop="20210619110500 +0000" channel="AR | ESPN 2">
+    <title lang="es">Gran Premio de Francia, Práctica 3</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-gran-premio-de-francia-practica-3-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619110500 +0000" stop="20210619120000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619125500 +0000" channel="AR | ESPN 2">
+    <title lang="es">Liqui Moly Motorrad Grand Prix Deutschland, Sachsenring, Sachsenring, Germany</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Es la máxima competición mundial de motociclismo de velocidad. Este certamen está regido por la Federación Internacional de Motociclismo y se divide en tres categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_motociclismo-liqui-moly-motorrad-grand-prix-deutschland-sachsenring-sachsenring-germany_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619125500 +0000" stop="20210619141500 +0000" channel="AR | ESPN 2">
+    <title lang="es">Gran Premio de Francia</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-gran-premio-de-francia-1988_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619141500 +0000" stop="20210619200000 +0000" channel="AR | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(n)</desc>
+    <credits>
+      <actor>Miguel Simón</actor>
+      <actor>Pablo Ferreira</actor>
+      <actor>Alejandro Coccia</actor>
+      <actor>Pablo Stecco</actor>
+      <actor>Marcelo López</actor>
+      <actor>Gustavo Sgalla</actor>
+      <actor>Cecilia Bonelli</actor>
+      <actor>Quique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619200000 +0000" stop="20210619230000 +0000" channel="AR | ESPN 2">
+    <title lang="es">Fight Night</title>
+    <sub-title lang="es">Artes Marciales</sub-title>
+    <desc lang="es">Disfruta de los encuentros preliminares de la Ultimate Fight Champions, que reúne a los mejores luchadores del mundo para enfrentarse y avanzar hasta las finales.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-fight-night-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620020000 +0000" channel="AR | ESPN 2">
+    <title lang="es">Fight Night: The Korean Zombie vs. Dan Ige</title>
+    <sub-title lang="es">Artes Marciales</sub-title>
+    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-fight-night-the-korean-zombie-vs-dan-ige_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618063000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Previa del GP de Alemania</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618063000 +0000" stop="20210618070000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">GP1</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Un programa con todo lo que la gente no puede ver de la Fórmula Uno. Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.(n)</desc>
+    <credits>
+      <actor>Juan Fossaroli</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-gp1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Circuito</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.(n)</desc>
+    <credits>
+      <actor>Mauricio Gallardo</actor>
+      <actor>Ayrton Ruiz</actor>
+      <actor>Cacho López</actor>
+      <actor>Pablo Vignone</actor>
+      <actor>Martín Ponte</actor>
+      <actor>Enrico Tornello</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-circuito_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618083000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Planet Speed</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Las novedades del automovilismo y motociclismo internacional.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-planet-speed_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618083000 +0000" stop="20210618085800 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">A.T.P. Tour Magazine</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_a-t-p-tour-magazine_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618085800 +0000" stop="20210618092500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">ESPN Run</title>
+    <sub-title lang="es">Atletismo</sub-title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_atletismo-espn-run_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618092500 +0000" stop="20210618103000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Gran Premio de Francia, Práctica 1</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-gran-premio-de-francia-practica-1-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618103000 +0000" stop="20210618105500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Previa del GP de Alemania</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618105500 +0000" stop="20210618125000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Georgia vs. Argentina</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618125000 +0000" stop="20210618140500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Gran Premio de Francia, Práctica 2</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-gran-premio-de-francia-practica-2-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618140500 +0000" stop="20210618163000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Brooklyn Nets vs. Milwaukee Bucks, Juego 6, Semifinales de conferencia, Fiserv Forum, Milwaukee, WI</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_basquet-brooklyn-nets-vs-milwaukee-bucks-juego-6-semifinales-de-conferencia-fiserv-forum-milwaukee-wi_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618163000 +0000" stop="20210618170000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Aguas arriba</title>
+    <sub-title lang="es">Caza y Pesca</sub-title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_caza-y-pesca-aguas-arriba_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618175500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Circuito</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.(n)</desc>
+    <credits>
+      <actor>Mauricio Gallardo</actor>
+      <actor>Ayrton Ruiz</actor>
+      <actor>Cacho López</actor>
+      <actor>Pablo Vignone</actor>
+      <actor>Martín Ponte</actor>
+      <actor>Enrico Tornello</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-circuito_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618175500 +0000" stop="20210618181000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Resumen Tri Nations 2020</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-resumen-tri-nations-2020_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618181000 +0000" stop="20210618184000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Rugby de Inglaterra - Premiership - Highlights</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-rugby-de-inglaterra-premiership-highlights-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618184000 +0000" stop="20210618204500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">LA Rochelle vs. Racing 92</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-la-rochelle-vs-racing-92_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618204500 +0000" stop="20210618214500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-uefa-champions-league-weekly_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618214500 +0000" stop="20210618230000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Goles de Europa</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.(n)</desc>
+    <credits>
+      <actor>Diego Muñoz</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Pedro Wolff</actor>
+      <actor>Agustín Belachur</actor>
+      <actor>Juan Simón</actor>
+      <actor>Nacho Meroni</actor>
+      <actor>Diego Cánepa</actor>
+      <actor>Geraldine Carrasquero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-goles-de-europa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619020000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Oakland Athletics vs. New York Yankees, Yankee Stadium, Bronx, NY, USA</title>
+    <sub-title lang="es">Béisbol</sub-title>
+    <desc lang="es">Disfruta de los partidos de la temporada del mejor béisbol del mundo, en la "Mayor Baseball League" de Estados Unidos. En esta operan las dos ligas más importantes: la Nacional y la Americana.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_beisbol-oakland-athletics-vs-new-york-yankees-yankee-stadium-bronx-ny-usa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-uefa-champions-league-weekly_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Goles de Europa</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.(n)</desc>
+    <credits>
+      <actor>Diego Muñoz</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Pedro Wolff</actor>
+      <actor>Agustín Belachur</actor>
+      <actor>Juan Simón</actor>
+      <actor>Nacho Meroni</actor>
+      <actor>Diego Cánepa</actor>
+      <actor>Geraldine Carrasquero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-goles-de-europa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619043000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Lionel Messi, Pichichi 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-lionel-messi-pichichi-2020-2021_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619043000 +0000" stop="20210619053000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">ESPN Knockout</title>
+    <sub-title lang="es">Boxeo</sub-title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_boxeo-espn-knockout_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619053000 +0000" stop="20210619060000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Acción de la N.B.A.</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_basquet-accion-de-la-n-b-a-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619090000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Blues vs. Highlanders</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">Es el campeonato profesional de rugby más importante del Hemisferio Sur. En el torneo compiten 18 equipos: 5 de Australia, 6 de Sudáfrica, 5 de Nueva Zelanda, 1 de Argentina y 1 de Japón.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-blues-vs-highlanders-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619100000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">ESPN Playroom</title>
+    <desc lang="es">Un formato innovador conducido por Migue Granados, en compañía de artistas, músicos y deportistas. El Playroom de Migue busca captar a los protagonistas de cada show, las mejores anécdotas, la música en vivo y a la tribuna virtual.(n)</desc>
+    <credits>
+      <actor>Migue Granados</actor>
+    </credits>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_espn-playroom_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619103000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Lionel Messi, Pichichi 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-lionel-messi-pichichi-2020-2021_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619103000 +0000" stop="20210619113000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Goles de Europa</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.(n)</desc>
+    <credits>
+      <actor>Diego Muñoz</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Pedro Wolff</actor>
+      <actor>Agustín Belachur</actor>
+      <actor>Juan Simón</actor>
+      <actor>Nacho Meroni</actor>
+      <actor>Diego Cánepa</actor>
+      <actor>Geraldine Carrasquero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-goles-de-europa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619113000 +0000" stop="20210619122500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">ESPN Knockout</title>
+    <sub-title lang="es">Boxeo</sub-title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_boxeo-espn-knockout_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619122500 +0000" stop="20210619143000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Bristol Rugby vs. Harlequins</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-bristol-rugby-vs-harlequins_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619143000 +0000" stop="20210619152500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Scrum</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-scrum_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619152500 +0000" stop="20210619173000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Exeter Chiefs vs. Sale Sharks</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-exeter-chiefs-vs-sale-sharks_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619173000 +0000" stop="20210619184000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Clasificación - Fórmula 1</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-clasificacion-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619184000 +0000" stop="20210619204500 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Toulouse vs. Bordeaux</title>
+    <sub-title lang="es">Rugby</sub-title>
+    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.(n)</desc>
+    <credits>
+      <actor>Laurent Bellet</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rugby-toulouse-vs-bordeaux-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619204500 +0000" stop="20210619214000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">The 16th Man</title>
+    <title lang="en">30 for 30</title>
+    <sub-title lang="es">30 for 30</sub-title>
+    <desc lang="es">Un año después de que Sudáfrica terminó con el apartheid, el equipo de rugby casi blanco organizó la Copa Mundial de Rugby y Nelson Mandela fue su mayor fanático.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_30-for-30-the-16th-man_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619214000 +0000" stop="20210619233000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">This Magic Moment</title>
+    <title lang="en">30 for 30</title>
+    <sub-title lang="es">30 for 30</sub-title>
+    <desc lang="es">Serie de documentales presentado por los mejores narradores deportivos, con información del panorama competitivo desde 1979 hasta la actualidad.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_30-for-30-this-magic-moment_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619233000 +0000" stop="20210620010000 +0000" channel="AR | ESPN 3 Arg">
+    <title lang="es">Believeland</title>
+    <title lang="en">30 for 30</title>
+    <sub-title lang="es">30 for 30</sub-title>
+    <desc lang="es">Hay un lugar especial en la orilla sur del lago Erie, en la desembocadura del río Cuyahoga, donde vive un grupo especial de fanáticos y no importa lo que les hagan la tribu, los Cavs y los Browns, siempre creen.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_30-for-30-believeland_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Todas las edades</value>
     </rating>
   </programme>
 </tv>
