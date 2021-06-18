@@ -5,6 +5,58 @@
     <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-basico_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
+  <channel id="CH | CDO Basico">
+    <display-name lang="es">CH | CDO Basico</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-basico_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | CDO PREMIUN HD">
+    <display-name lang="es">CH | CDO PREMIUN HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | CDO Premium SD">
+    <display-name lang="es">CH | CDO Premium SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | DIRECT TV SPORT +">
+    <display-name lang="en">CH | DIRECT TV SPORT +</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="CH | DIRECTV SPORTS 1">
+    <display-name lang="en">CH | DIRECTV SPORTS 1</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="CH | DIRECTV SPORTS 2">
+    <display-name lang="en">CH | DIRECTV SPORTS 2</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
+  <channel id="CH | ESPN">
+    <display-name lang="es">CH | ESPN</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_espn-4_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | ESPN 2">
+    <display-name lang="es">CH | ESPN 2</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_espn-2_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | FOX SPORTS 3 HD">
+    <display-name lang="es">CH | FOX SPORTS 3 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | TNT SPORTS 3">
+    <display-name lang="es">CH | TNT SPORTS 3</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="CH | TNT SPORTS HD">
+    <display-name lang="es">CH | TNT SPORTS HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
   <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | CDO BASICO FHD">
     <title lang="es">Municipal Puente Alto vs. Municipal Quilicura</title>
     <sub-title lang="es">Básquet</sub-title>
@@ -194,6 +246,2461 @@
     <sub-title lang="es">Deportivo</sub-title>
     <desc lang="es">El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.(n)</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Municipal Puente Alto vs. Municipal Quilicura</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-municipal-puente-alto-vs-municipal-quilicura_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618110000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Panamericanos Toronto 2015</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-panamericanos-toronto-2015_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618120000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618123000 +0000" channel="CH | CDO Basico">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e320_l_l.jpg" />
+    <episode-num system="onscreen">E320</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618140000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Natación</title>
+    <sub-title lang="es">Olímpicos</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_olimpicos-natacion-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618150000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618165500 +0000" channel="CH | CDO Basico">
+    <title lang="es">Circuito nacional de vóleibol playa</title>
+    <sub-title lang="es">Voley</sub-title>
+    <desc lang="es">Retransmisión del Circuito nacional de Vóleibol playa en Chile. Un espacio para que los amantes del deporte disfruten de los mejors enfrentamientos entre los equipos nacionales más destacados.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_voley-circuito-nacional-de-voleibol-playa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618165500 +0000" stop="20210618170000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Enfoque deportivo</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Metrópolis</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618203000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Hola deportes</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618203000 +0000" stop="20210618210000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Deportivo escolar</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El programa insignia del deporte colegial regresa a tu pantalla para recordar los mejores momentos de tu colegio en un estilo único.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-deportivo-escolar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Conexión Tokio</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexion-tokio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="CH | CDO Basico">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e321_l_l.jpg" />
+    <episode-num system="onscreen">E321</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Municipal Español de Talca vs. Municipal Puente Alto</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-municipal-espanol-de-talca-vs-municipal-puente-alto_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619040000 +0000" channel="CH | CDO Basico">
+    <title lang="es">Circuito nacional de vóleibol playa</title>
+    <sub-title lang="es">Voley</sub-title>
+    <desc lang="es">Retransmisión del Circuito nacional de Vóleibol playa en Chile. Un espacio para que los amantes del deporte disfruten de los mejors enfrentamientos entre los equipos nacionales más destacados.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_voley-circuito-nacional-de-voleibol-playa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619160000 +0000" channel="CH | CDO Basico">
+    <title lang="es">CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619160000 +0000" stop="20210620040000 +0000" channel="CH | CDO Basico">
+    <title lang="es">CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Colegio Los Leones vs. Basquet UC</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-colegio-los-leones-vs-basquet-uc_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618110000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Panamericanos Toronto 2015</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-panamericanos-toronto-2015_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618120000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618123000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e320_l_l.jpg" />
+    <episode-num system="onscreen">E320</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618140000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Halterofilia varones</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Lo mejor de los Juegos Suramericanos Cochabamba 2018, el evento polideportivo más importante de la región sur del continente.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-halterofilia-varones_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618150000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618165500 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Atlético Puerto Varas vs. CD Las Animas</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-atletico-puerto-varas-vs-cd-las-animas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618165500 +0000" stop="20210618170000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Enfoque deportivo</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Metrópolis</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618203000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Hola deportes</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618203000 +0000" stop="20210618210000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Deportivo escolar</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El programa insignia del deporte colegial regresa a tu pantalla para recordar los mejores momentos de tu colegio en un estilo único.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-deportivo-escolar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Conexión Tokio</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexion-tokio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e321_l_l.jpg" />
+    <episode-num system="onscreen">E321</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Municipal Español de Talca vs. Municipal Puente Alto</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-municipal-espanol-de-talca-vs-municipal-puente-alto_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619040000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">Panamericanos Lima 2019</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-panamericanos-lima-2019_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619160000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">CDO Premium</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Una amplia variedad de programas para todos los gustos accesibles con acceso Premium.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo-premium_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619160000 +0000" stop="20210620040000 +0000" channel="CH | CDO PREMIUN HD">
+    <title lang="es">CDO Premium</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Una amplia variedad de programas para todos los gustos accesibles con acceso Premium.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo-premium_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Colegio Los Leones vs. Basquet UC</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-colegio-los-leones-vs-basquet-uc_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618110000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Panamericanos Toronto 2015</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-panamericanos-toronto-2015_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618120000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618123000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e320_l_l.jpg" />
+    <episode-num system="onscreen">E320</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618140000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Halterofilia varones</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Lo mejor de los Juegos Suramericanos Cochabamba 2018, el evento polideportivo más importante de la región sur del continente.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-halterofilia-varones_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618150000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618165500 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Atlético Puerto Varas vs. CD Las Animas</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-atletico-puerto-varas-vs-cd-las-animas_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618165500 +0000" stop="20210618170000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Enfoque deportivo</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Metrópolis</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618203000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Hola deportes</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618203000 +0000" stop="20210618210000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Deportivo escolar</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El programa insignia del deporte colegial regresa a tu pantalla para recordar los mejores momentos de tu colegio en un estilo único.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-deportivo-escolar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Conexión Tokio</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexion-tokio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e321_l_l.jpg" />
+    <episode-num system="onscreen">E321</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Municipal Español de Talca vs. Municipal Puente Alto</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-municipal-espanol-de-talca-vs-municipal-puente-alto_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619040000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">Panamericanos Lima 2019</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-panamericanos-lima-2019_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619160000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">CDO Premium</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Una amplia variedad de programas para todos los gustos accesibles con acceso Premium.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo-premium_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619160000 +0000" stop="20210620040000 +0000" channel="CH | CDO Premium SD">
+    <title lang="es">CDO Premium</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Una amplia variedad de programas para todos los gustos accesibles con acceso Premium.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo-premium_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618053000 +0000" stop="20210618060000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">LaLiga Talking Football - Aritz Aduriz</title>
+    <desc lang="en">T2020  E08 Entrevista con el exdelantero español nacido en San Sebastián, Aritz \"El Zorro\" Aduriz. Temporada:2020,Episodio:08.(n)</desc>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618090000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Perú vs. Brasil : CONMEBOL Copa América 2021 - Perú vs. Brasil</title>
+    <desc lang="en">Jornada 2 del Grupo B. Perú enfrenta a Brasil en el estadio Olímpico Nilton Santos. La Blanquirroja hace su debut en el torneo tras quedar libre en la primera fecha, mientras que la Canarinha venció por 3-0 a Venezuela.(n)</desc>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618110000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Brasil vs. Venezuela</title>
+    <desc lang="en">Cuartos de final. Brasil enfrenta a Venezuela. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618150000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618160000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">LaLiga Talking Football - Aritz Aduriz</title>
+    <desc lang="en">T2020  E08 Entrevista con el exdelantero español nacido en San Sebastián, Aritz \"El Zorro\" Aduriz. Temporada:2020,Episodio:08.(n)</desc>
+  </programme>
+  <programme start="20210618160000 +0000" stop="20210618180000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Perú vs. Brasil : CONMEBOL Copa América 2021 - Perú vs. Brasil</title>
+    <desc lang="en">Jornada 2 del Grupo B. Perú enfrenta a Brasil en el estadio Olímpico Nilton Santos. La Blanquirroja hace su debut en el torneo tras quedar libre en la primera fecha, mientras que la Canarinha venció por 3-0 a Venezuela.(n)</desc>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">LaLiga Talking Football - Aritz Aduriz</title>
+    <desc lang="en">T2020  E08 Entrevista con el exdelantero español nacido en San Sebastián, Aritz \"El Zorro\" Aduriz. Temporada:2020,Episodio:08.(n)</desc>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618210000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Colombia vs. Venezuela : CONMEBOL Copa América 2021 - Colombia vs. Venezuela</title>
+    <desc lang="en">Jornada 2 del Grupo B. Colombia enfrenta a Venezuela en el estadio Olímpico, en Goiania. Los cafeteros vienen de vencer por 1-0 a Ecuador con gol de Edwin Cardona, mientras que la Vinotinto cayó con Brasil por 3-0.(n)</desc>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Vamos a la Caye : Sebastián Simonet - Sebastián Simonet</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210619000000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Suecia vs. Eslovaquia : UEFA Eurocopa 2020 - Suecia vs. Eslovaquia</title>
+    <desc lang="en">Eslovaquia no ha ganado ninguno de los cinco partidos oficiales contra Suecia (tres empates y dos derrotas). El más reciente fue un empate amistoso 1-1 en 2018. Albert Rusnák empató después de que John Giudetti diera la ventaja a los anfitriones.(n)</desc>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Inglaterra vs. Escocia : UEFA Eurocopa 2020 - Inglaterra vs. Escocia</title>
+    <desc lang="en">En este partido se cumplen 25 años del único encuentro entre Inglaterra y Escocia en un gran torneo. Inglaterra se impuso por 2-0 en Wembley en la fase de grupos de la Eurocopa 1996 con goles de Alan Shearer y Paul Gascoigne.(n)</desc>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">The LaLiga Santander Champions</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619033000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Vamos a la Caye : Sebastián Simonet - Sebastián Simonet</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210619033000 +0000" stop="20210619053000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+  </programme>
+  <programme start="20210619053000 +0000" stop="20210619060000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">LaLiga Talking Football - Levante´s Method</title>
+    <desc lang="en">T2020  E09 Entrevistas con personalidades destacadas de LaLiga. Temporada:2020,Episodio:09.(n)</desc>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619090000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Chile vs. Bolivia : CONMEBOL Copa América 2021 - Chile vs. Bolivia</title>
+    <desc lang="en">Jornada 2 del Grupo A. Chile enfrenta a Bolivia en el Arena Pantanal, en Cuiabá. La Roja viene de igualar 1-1 ante Argentina con gol de Eduardo Vargas, mientras que el equipo de César Farías perdió 3-1 con Paraguay.(n)</desc>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619110000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Croacia vs. República Checa : UEFA Eurocopa 2020 - Croacia vs. República Checa</title>
+    <desc lang="en">Croacia y República Checa se enfrentan en la fase de grupos por segunda vez consecutiva en la Eurocopa. En 2016 empataron 2-2. Ivan Perišic e Ivan Rakitic pusieron a Croacia 2 a 0 arriba, pero Milan Škoda y Tomáš Necid dieron un punto a los checos.(n)</desc>
+  </programme>
+  <programme start="20210619110000 +0000" stop="20210619130000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">De fútbol se habla así</title>
+    <desc lang="en">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+  </programme>
+  <programme start="20210619130000 +0000" stop="20210619140000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210619140000 +0000" stop="20210619160000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Chile vs. Bolivia : CONMEBOL Copa América 2021 - Chile vs. Bolivia</title>
+    <desc lang="en">Jornada 2 del Grupo A. Chile enfrenta a Bolivia en el Arena Pantanal, en Cuiabá. La Roja viene de igualar 1-1 ante Argentina con gol de Eduardo Vargas, mientras que el equipo de César Farías perdió 3-1 con Paraguay.(n)</desc>
+  </programme>
+  <programme start="20210619160000 +0000" stop="20210619180000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619183000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Rugby Highlights</title>
+    <desc lang="en">Destacados del rugby.(n)</desc>
+  </programme>
+  <programme start="20210619183000 +0000" stop="20210619203000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Major League Rugby : Utah Warriors vs. Rugby United New York - Utah Warriors vs. Rugby United New York</title>
+    <desc lang="en">Jornada de la Major League Rugby. Utah Warriors enfrenta a Rugby United New York.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619203000 +0000" stop="20210619223000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Major League Rugby : NOLA Gold vs. Toronto Arrows - NOLA Gold vs. Toronto Arrows</title>
+    <desc lang="en">Jornada de la Major League Rugby. NOLA Gold enfrenta a Toronto Arrows. Desde el estadio Alumni Field, en Toronto.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619223000 +0000" stop="20210619230000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210619233000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">Vamos a la Caye : Montenegro - Montenegro</title>
+    <desc lang="en">El programa de entrevistas más descontracturado y particular, con los testimonios más originales. Las principales figuras del mundo del deporte repasan su carrera, relatan las mejores anécdotas y cuentan historias, hasta entonces, inéditas.(n)</desc>
+  </programme>
+  <programme start="20210619233000 +0000" stop="20210620000000 +0000" channel="CH | DIRECT TV SPORT +">
+    <title lang="en">LaLiga Top Scorer: 2020-2021</title>
+    <desc lang="en">Repaso de los máximo goleadores de la temporada 2020-2021 de LaLiga.(n)</desc>
+  </programme>
+  <programme start="20210618040000 +0000" stop="20210618050000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">De fútbol se habla así, Chile</title>
+    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.(n)</desc>
+  </programme>
+  <programme start="20210618050000 +0000" stop="20210618060000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">The LaLiga Santander Champions</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618090000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Dinamarca vs. Bélgica : UEFA Eurocopa 2020 - Dinamarca vs. Bélgica</title>
+    <desc lang="en">El único partido en un gran torneo entre Dinamarca y Bélgica fue en la fase de grupos de la Eurocopa de 1984. Los daneses ganaron 3 a 2 en Estrasburgo y pasaron a la fase eliminatoria. Preben Elkjær marcó el gol de la victoria en el minuto 84.(n)</desc>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618093000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618093000 +0000" stop="20210618113000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Colombia vs. Venezuela : CONMEBOL Copa América 2021 - Colombia vs. Venezuela</title>
+    <desc lang="en">Jornada 2 del Grupo B. Colombia enfrenta a Venezuela en el estadio Olímpico, en Goiania. Los cafeteros vienen de vencer por 1-0 a Ecuador con gol de Edwin Cardona, mientras que la Vinotinto cayó con Brasil por 3-0.(n)</desc>
+  </programme>
+  <programme start="20210618113000 +0000" stop="20210618120000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618124800 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618124800 +0000" stop="20210618150000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Suecia vs. Eslovaquia : UEFA Eurocopa 2020 - Suecia vs. Eslovaquia</title>
+    <desc lang="en">Eslovaquia no ha ganado ninguno de los cinco partidos oficiales contra Suecia (tres empates y dos derrotas). El más reciente fue un empate amistoso 1-1 en 2018. Albert Rusnák empató después de que John Giudetti diera la ventaja a los anfitriones.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618154800 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618154800 +0000" stop="20210618180000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Croacia vs. República Checa : UEFA Eurocopa 2020 - Croacia vs. República Checa</title>
+    <desc lang="en">Croacia y República Checa se enfrentan en la fase de grupos por segunda vez consecutiva en la Eurocopa. En 2016 empataron 2-2. Ivan Perišic e Ivan Rakitic pusieron a Croacia 2 a 0 arriba, pero Milan Škoda y Tomáš Necid dieron un punto a los checos.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618200000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">De fútbol se habla así</title>
+    <desc lang="en">Un grupo de experimentados periodistas repasan el presente del fútbol argentino y de su Selección, con las primicias que marcarán la agenda del día. Notas exclusivas, móviles en vivo, informes especiales y las secciones más divertidas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618204500 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618204500 +0000" stop="20210618230000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Chile vs. Bolivia : CONMEBOL Copa América 2021 - Chile vs. Bolivia</title>
+    <desc lang="en">Jornada 2 del Grupo A. Chile enfrenta a Bolivia en el Arena Pantanal, en Cuiabá. La Roja viene de igualar 1-1 ante Argentina con gol de Eduardo Vargas, mientras que el equipo de César Farías perdió 3-1 con Paraguay.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210618234500 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618234500 +0000" stop="20210619020000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">De fútbol se habla así, Chile</title>
+    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/16899645/p16899645_b_v5_v1_cmd2.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619050000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">De fútbol se habla así, Chile</title>
+    <desc lang="en">Programa de debate y opinión, con la actualidad del fútbol chileno. Toda la información y una manera distinta de analizar el fútbol local.(n)</desc>
+  </programme>
+  <programme start="20210619050000 +0000" stop="20210619060000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">LaLiga Post Season</title>
+    <desc lang="en">LaLiga 2020/2021 fue única e inolvidable. El repaso de los mejores momentos de esta temporada.(n)</desc>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619090000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Inglaterra vs. Escocia : UEFA Eurocopa 2020 - Inglaterra vs. Escocia</title>
+    <desc lang="en">En este partido se cumplen 25 años del único encuentro entre Inglaterra y Escocia en un gran torneo. Inglaterra se impuso por 2-0 en Wembley en la fase de grupos de la Eurocopa 1996 con goles de Alan Shearer y Paul Gascoigne.(n)</desc>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619093000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619093000 +0000" stop="20210619113000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Argentina vs. Uruguay : CONMEBOL Copa América 2021 - Argentina vs. Uruguay</title>
+    <desc lang="en">Jornada 2 del Grupo A. Argentina enfrenta a Uruguay en el estadio Mané Garrincha, en Brasilia. La Albiceleste viene de igualar 1-1 ante Chile con gol de Lionel Messi de tiro libre, mientras que la Celeste hace su debut en el certamen.(n)</desc>
+  </programme>
+  <programme start="20210619113000 +0000" stop="20210619120000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619124800 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619124800 +0000" stop="20210619150000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Hungría vs. Francia : UEFA Eurocopa 2020 - Hungría vs. Francia</title>
+    <desc lang="en">Fecha 2 del Grupo F. Hungría y Francia se enfrentan en el Puskás Aréna, de Budapest. Será el primer duelo oficial entre ambos desde el Mundial de 1986, cuando les Bleus ganaron 3-0 con goles de Yannick Stopyra, Jean Tigana y Dominique Rocheteau.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619150000 +0000" stop="20210619154800 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619154800 +0000" stop="20210619180000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Portugal vs. Alemania : UEFA Eurocopa 2020 - Portugal vs. Alemania</title>
+    <desc lang="en">Fecha 2 del Grupo F. Portugal y Alemania se enfrentan en el Allianz Arena, de Múnich. Los germanos ganaron 4 de los últimos 5 duelos ante los lusos en competiciones oficiales. La única excepción de esa racha fue un 3-0 para Portugal, en la EURO 2000.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619184800 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619184800 +0000" stop="20210619210000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">España vs. Polonia : UEFA Eurocopa 2020 - España vs. Polonia</title>
+    <desc lang="en">Fecha 2 del Grupo E. España y Polonia se enfrentan en Sevilla. La Roja triunfó en 8 de sus 10 duelos previos ante los polacos, incluyendo un triunfo 6-0 en el duelo más reciente, un amistoso disputado en Murcia en 2010.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619210000 +0000" stop="20210619220000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619220000 +0000" stop="20210619230000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620010000 +0000" channel="CH | DIRECTV SPORTS 1">
+    <title lang="en">Portugal vs. Alemania : UEFA Eurocopa 2020 - Portugal vs. Alemania</title>
+    <desc lang="en">Fecha 2 del Grupo F. Portugal y Alemania se enfrentan en el Allianz Arena, de Múnich. Los germanos ganaron 4 de los últimos 5 duelos ante los lusos en competiciones oficiales. La única excepción de esa racha fue un 3-0 para Portugal, en la EURO 2000.(n)</desc>
+  </programme>
+  <programme start="20210618050000 +0000" stop="20210618053000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20210618053000 +0000" stop="20210618060000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618090000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Barca TV - 2011: Santos vs. Barcelona</title>
+    <desc lang="en">Barcelona y Santos disputan la final del Mundial de Clubes de la FIFA. Del 18 de diciembre de 2011, desde el International Stadium Yokohama, en Japón.(n)</desc>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618100000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618120000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Estados Unidos vs. Islas Vírgenes</title>
+    <desc lang="en">Cuartos de final. Estados Unidos enfrenta a Islas Vírgenes. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618123000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618133000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210618133000 +0000" stop="20210618140000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">MLR Highlights</title>
+    <desc lang="en">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618160000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">El chiringuito de jugones</title>
+  </programme>
+  <programme start="20210618160000 +0000" stop="20210618180000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Puerto Rico vs. Colombia</title>
+    <desc lang="en">Cuartos de final. Puerto Rico enfrenta a Colombia. Desde el Coliseo Roberto Clemente, en San Juan de Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618184800 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">La previa del partido</title>
+    <desc lang="en">Toda la información en vivo de los mejores partidos, con notas, análisis, estadísticas y el comentario de los especialistas.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618184800 +0000" stop="20210618210000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Inglaterra vs. Escocia : UEFA Eurocopa 2020 - Inglaterra vs. Escocia</title>
+    <desc lang="en">En este partido se cumplen 25 años del único encuentro entre Inglaterra y Escocia en un gran torneo. Inglaterra se impuso por 2-0 en Wembley en la fase de grupos de la Eurocopa 1996 con goles de Alan Shearer y Paul Gascoigne.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618220000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210619000000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619010000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">De ciclismo se habla así</title>
+    <desc lang="en">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20210619010000 +0000" stop="20210619030000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619033000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">MLR Highlights</title>
+    <desc lang="en">Lo más destacado de los partidos de la Major League Rugby.(n)</desc>
+  </programme>
+  <programme start="20210619033000 +0000" stop="20210619040000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Hilos</title>
+    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619060000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619090000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Barca TV - 2012-2013: Barcelona vs. Real Madrid</title>
+    <desc lang="en">Acción del Clásico de LaLiga por la Jornada 7 de la temporada 2012-2013. Disputado el 7 de octubre de 2012.(n)</desc>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619100000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619120000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619123000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas, y las noticias del mejor básquet del planeta las podrás disfrutar en Diario NBA.(n)</desc>
+  </programme>
+  <programme start="20210619123000 +0000" stop="20210619143000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Italia vs. Suiza : UEFA Eurocopa 2020 - Italia vs. Suiza</title>
+    <desc lang="en">Italia y Suiza se enfrentan en un torneo importante por primera vez desde la fase de grupos del Mundial de 1962. Los azzurri ganaron 3 a 0 con goles de Giacomo Bulgarelli (2) y Bruno Mora. Ninguno de los dos equipos pasó a la fase eliminatoria.(n)</desc>
+  </programme>
+  <programme start="20210619143000 +0000" stop="20210619153000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210619153000 +0000" stop="20210619180000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Colo-Colo vs. Universidad de Concepción : Fútbol Chileno Femenino Primera División - Colo-Colo vs. Universidad de Concepción</title>
+    <desc lang="en">Acción por la Fecha 6 del Grupo A. Colo-Colo recibe a Universidad de Concepción.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210619180000 +0000" stop="20210619183000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210619183000 +0000" stop="20210619190000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20210619190000 +0000" stop="20210619210000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021</title>
+    <desc lang="en">Toda la acción de la AmeriCup femenina FIBA de 2021. Desde Puerto Rico.(n)</desc>
+  </programme>
+  <programme start="20210619210000 +0000" stop="20210619220000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210619220000 +0000" stop="20210620000000 +0000" channel="CH | DIRECTV SPORTS 2">
+    <title lang="en">FIBA AmeriCup femenina 2021 - Tercer lugar: equipos a confirmar</title>
+    <desc lang="en">From Coliseo Roberto Clemente in San Juan, Puerto Rico.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618063000 +0000" channel="CH | ESPN">
+    <title lang="es">GP1</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Un programa con todo lo que la gente no puede ver de la Fórmula Uno. Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.(n)</desc>
+    <credits>
+      <actor>Juan Fossaroli</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gp1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618063000 +0000" stop="20210618070000 +0000" channel="CH | ESPN">
+    <title lang="es">Lionel Messi, Pichichi 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-lionel-messi-pichichi-2020-2021_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="CH | ESPN">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Pichu Straneo</actor>
+      <actor>Chechu Bonelli</actor>
+      <actor>Tronco Figliuolo</actor>
+      <actor>Agustín Belachur</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_espn-f-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="CH | ESPN">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618093000 +0000" channel="CH | ESPN">
+    <title lang="es">Acción de la N.B.A.</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-accion-de-la-n-b-a-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618093000 +0000" stop="20210618100000 +0000" channel="CH | ESPN">
+    <title lang="es">Lionel Messi, Pichichi 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-lionel-messi-pichichi-2020-2021_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618103000 +0000" channel="CH | ESPN">
+    <title lang="es">Previa del GP de Alemania</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618103000 +0000" stop="20210618110000 +0000" channel="CH | ESPN">
+    <title lang="es">A.T.P. Tour Magazine</title>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-t-p-tour-magazine_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618170000 +0000" channel="CH | ESPN">
+    <title lang="es">Cuartos de final</title>
+    <sub-title lang="es">Tenis</sub-title>
+    <desc lang="es">Disfrute de uno de los ocho torneos sobre césped del calendario.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tenis-cuartos-de-final-7_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="CH | ESPN">
+    <title lang="es">Resumen de temporada</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-resumen-de-temporada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | ESPN">
+    <title lang="es">ESPN Tenis</title>
+    <sub-title lang="es">Tenis</sub-title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tenis-espn-tenis-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618220000 +0000" channel="CH | ESPN">
+    <title lang="es">Segunda ronda, Torrey Pines Golf Club (South), San Diego, CA, USA</title>
+    <sub-title lang="es">Golf</sub-title>
+    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_golf-segunda-ronda-torrey-pines-golf-club-south-san-diego-ca-usa-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | ESPN">
+    <title lang="es">PGA Tour Highlights: Palmetto Championship at Congaree</title>
+    <sub-title lang="es">Golf</sub-title>
+    <desc lang="es">Un evento de juego por golpes del PGA Tour.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_golf-pga-tour-highlights-palmetto-championship-at-congaree_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210618233000 +0000" channel="CH | ESPN">
+    <title lang="es">N.B.A. esta noche</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Durante las noches es el momento ideal para disfrutar de un encuentro de la NBA. Una manera de sumergirse en el planeta de los gigantes a través de esta emocionante transmisión que te llevará cada punto y cada jugada.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-n-b-a-esta-noche-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618233000 +0000" stop="20210619020000 +0000" channel="CH | ESPN">
+    <title lang="es">Semifinal de Conferencia, Juego 6</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-semifinal-de-conferencia-juego-6_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619043000 +0000" channel="CH | ESPN">
+    <title lang="es">Utah Jazz vs. LA Clippers, Juego 6, Semifinales de conferencia, STAPLES Center, Los Angeles, CA</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-utah-jazz-vs-la-clippers-juego-6-semifinales-de-conferencia-staples-center-los-angeles-ca_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619043000 +0000" stop="20210619070000 +0000" channel="CH | ESPN">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-confirmar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="CH | ESPN">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Pichu Straneo</actor>
+      <actor>Chechu Bonelli</actor>
+      <actor>Tronco Figliuolo</actor>
+      <actor>Agustín Belachur</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_espn-f-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619080000 +0000" stop="20210619090000 +0000" channel="CH | ESPN">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619093000 +0000" channel="CH | ESPN">
+    <title lang="es">Aguas arriba</title>
+    <sub-title lang="es">Caza y Pesca</sub-title>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caza-y-pesca-aguas-arriba_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619093000 +0000" stop="20210619100000 +0000" channel="CH | ESPN">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-confirmar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619153000 +0000" channel="CH | ESPN">
+    <title lang="es">Semifinales, The Queen's Club, London, England</title>
+    <sub-title lang="es">Tenis</sub-title>
+    <desc lang="es">La serie ATP World Tour 500 es el tercer nivel más alto del torneo masculino de tenis, en una serie de trece competencias, con 500 puntos de clasificación otorgados para los campeones de singles.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tenis-semifinales-the-queen-s-club-london-england-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619153000 +0000" stop="20210619170000 +0000" channel="CH | ESPN">
+    <title lang="es">Gran Premio de Francia</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-1988_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619170000 +0000" stop="20210620010000 +0000" channel="CH | ESPN">
+    <title lang="es">Tercera ronda, Torrey Pines Golf Club (South), San Diego, CA, USA</title>
+    <sub-title lang="es">Golf</sub-title>
+    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_golf-tercera-ronda-torrey-pines-golf-club-south-san-diego-ca-usa-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618050000 +0000" stop="20210618063000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Pichu Straneo</actor>
+      <actor>Chechu Bonelli</actor>
+      <actor>Tronco Figliuolo</actor>
+      <actor>Agustín Belachur</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_espn-f-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618063000 +0000" stop="20210618070000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN W</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-espn-w_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618100000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618110000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618123000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F360</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <credits>
+      <actor>Gustavo López</actor>
+      <actor>Guillermo Poggi</actor>
+      <actor>Martín Palermo</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Leonardo Gentili</actor>
+      <actor>Gustavo Yarroch</actor>
+      <actor>Agostina Larocca</actor>
+      <actor>Patricio Muzzio</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618133000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618133000 +0000" stop="20210618143000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618143000 +0000" stop="20210618160000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F360</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <credits>
+      <actor>Gustavo López</actor>
+      <actor>Guillermo Poggi</actor>
+      <actor>Martín Palermo</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Leonardo Gentili</actor>
+      <actor>Gustavo Yarroch</actor>
+      <actor>Agostina Larocca</actor>
+      <actor>Patricio Muzzio</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618160000 +0000" stop="20210618170000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618210000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F90</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.(n)</desc>
+    <credits>
+      <actor>Sebastián Vignolo</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f90_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Fukuoka y Nagasaki</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <credits>
+      <actor>Martín Ainstein</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-fukuoka-y-nagasaki_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Hiroshima</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <credits>
+      <actor>Martín Ainstein</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hiroshima_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-simplemente-futbol_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619003000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F360</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <credits>
+      <actor>Gustavo López</actor>
+      <actor>Guillermo Poggi</actor>
+      <actor>Martín Palermo</actor>
+      <actor>Francisco Cánepa</actor>
+      <actor>Leonardo Gentili</actor>
+      <actor>Gustavo Yarroch</actor>
+      <actor>Agostina Larocca</actor>
+      <actor>Patricio Muzzio</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f360_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619003000 +0000" stop="20210619020000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Pichu Straneo</actor>
+      <actor>Chechu Bonelli</actor>
+      <actor>Tronco Figliuolo</actor>
+      <actor>Agustín Belachur</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_espn-f-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619050000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619050000 +0000" stop="20210619063000 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <credits>
+      <actor>Alejandro Fantino</actor>
+      <actor>Pichu Straneo</actor>
+      <actor>Chechu Bonelli</actor>
+      <actor>Tronco Figliuolo</actor>
+      <actor>Agustín Belachur</actor>
+    </credits>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_espn-f-show_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619063000 +0000" stop="20210619070000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Lionel Messi, Pichichi 2020-2021</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-lionel-messi-pichichi-2020-2021_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619080000 +0000" stop="20210619085500 +0000" channel="CH | ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+    <sub-title lang="es">Boxeo</sub-title>
+    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_boxeo-espn-knockout_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619085500 +0000" stop="20210619095500 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619095500 +0000" stop="20210619110500 +0000" channel="CH | ESPN 2">
+    <title lang="es">Gran Premio de Francia, Práctica 3</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-practica-3-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619110500 +0000" stop="20210619113300 +0000" channel="CH | ESPN 2">
+    <title lang="es">+Motor</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Lo mejor del automovilismo y motociclismo latinoamericano y las últimas novedades de la industria internacional.(n)</desc>
+    <credits>
+      <actor>Felipe Horta</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-motor_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619113300 +0000" stop="20210619120000 +0000" channel="CH | ESPN 2">
+    <title lang="es">Previa del GP de Alemania</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619125500 +0000" channel="CH | ESPN 2">
+    <title lang="es">Liqui Moly Motorrad Grand Prix Deutschland, Sachsenring, Sachsenring, Germany</title>
+    <sub-title lang="es">Motociclismo</sub-title>
+    <desc lang="es">Es la máxima competición mundial de motociclismo de velocidad. Este certamen está regido por la Federación Internacional de Motociclismo y se divide en tres categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-liqui-moly-motorrad-grand-prix-deutschland-sachsenring-sachsenring-germany_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619125500 +0000" stop="20210619141500 +0000" channel="CH | ESPN 2">
+    <title lang="es">Gran Premio de Francia</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-1988_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619141500 +0000" stop="20210619200000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619200000 +0000" stop="20210619220000 +0000" channel="CH | ESPN 2">
+    <title lang="es">A confirmar</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-a-confirmar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619220000 +0000" stop="20210619230000 +0000" channel="CH | ESPN 2">
+    <title lang="es">SportsCenter</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <credits>
+      <actor>Tito Puccetti</actor>
+      <actor>Yanjane Meneses</actor>
+      <actor>David Gutiérrez</actor>
+      <actor>Andrés Lacouture</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620030000 +0000" channel="CH | ESPN 2">
+    <title lang="es">A confirmar</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-a-confirmar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Italia - Misano, carrera 1</title>
+    <sub-title lang="es">Ciclismo</sub-title>
+    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciclismo-italia-misano-carrera-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Italia - Misano, carrera 2</title>
+    <sub-title lang="es">Ciclismo</sub-title>
+    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciclismo-italia-misano-carrera-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618100000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Gran Premio de Japón</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Es la competición automovilística internacional más popular. A cada carrera, en diferentes países alrededor del mundo, se la denomina Gran Premio y la competición que las agrupa se denomina Campeonato Mundial de Fórmula 1.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-japon_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618120000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Detroit</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Cobertura del IMSA SportsCar Championship, torneo de automovilismo de alta velocidad para prototipos deportivos y gran turismo que se disputa en América del Norte. Un análisis detallado de las carreras, circuitos, conductores y resultados.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-detroit_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618130000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">+Motor</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Lo mejor del automovilismo y motociclismo latinoamericano y las últimas novedades de la industria internacional.(n)</desc>
+    <credits>
+      <actor>Felipe Horta</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-motor_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618143000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Magazine - Extreme E</title>
+    <sub-title lang="es">Rally</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rally-magazine-extreme-e_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618143000 +0000" stop="20210618150000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Magazine - Extreme E</title>
+    <sub-title lang="es">Rally</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rally-magazine-extreme-e_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618170000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Gran Premio de México</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Es la competición automovilística internacional más popular. A cada carrera, en diferentes países alrededor del mundo, se la denomina Gran Premio y la competición que las agrupa se denomina Campeonato Mundial de Fórmula 1.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-mexico_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618190000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Texas</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Transmisión de la categoría de automovilismo de velocidad organizada por la NASCAR desde el año 1995, que se corre con pickups de calle modificadas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-texas-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618203000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Magazine - Extreme E</title>
+    <sub-title lang="es">Rally</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rally-magazine-extreme-e_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618203000 +0000" stop="20210618213000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Italia - Misano, carrera 1</title>
+    <sub-title lang="es">Ciclismo</sub-title>
+    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciclismo-italia-misano-carrera-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618223000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Italia - Misano, carrera 2</title>
+    <sub-title lang="es">Ciclismo</sub-title>
+    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciclismo-italia-misano-carrera-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618223000 +0000" stop="20210618233000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">8 horas de Portimao</title>
+    <sub-title lang="es">Artes Marciales</sub-title>
+    <desc lang="es">Promoción de artes marciales mixtas estadounidense.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-8-horas-de-portimao_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618233000 +0000" stop="20210619000000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">+Motor</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Lo mejor del automovilismo y motociclismo latinoamericano y las últimas novedades de la industria internacional.(n)</desc>
+    <credits>
+      <actor>Felipe Horta</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-motor_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619023000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Nashville</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Transmisión de la categoría de automovilismo de velocidad organizada por la NASCAR desde el año 1995, que se corre con pickups de calle modificadas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-nashville_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619023000 +0000" stop="20210619030000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Magazine - Extreme E</title>
+    <sub-title lang="es">Rally</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rally-magazine-extreme-e_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">8 horas de Portimao</title>
+    <sub-title lang="es">Artes Marciales</sub-title>
+    <desc lang="es">Promoción de artes marciales mixtas estadounidense.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-8-horas-de-portimao_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619060000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">WWE Smackdown</title>
+    <sub-title lang="es">Lucha</sub-title>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-wwe-smackdown_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Italia - Misano, carrera 1</title>
+    <sub-title lang="es">Ciclismo</sub-title>
+    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciclismo-italia-misano-carrera-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Italia - Misano, carrera 2</title>
+    <sub-title lang="es">Ciclismo</sub-title>
+    <desc lang="es">Campeonato mundial de motociclismo de velocidad, no te pierdas lo mejor del Motul FIM Superbike World Championship.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciclismo-italia-misano-carrera-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619080000 +0000" stop="20210619090000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Le Castellet, carrera 1</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Es un campeonato de automovilismo de velocidad que se disputa desde el año 2010 como un escalón por debajo de la categoría de monoplazas GP2 Series.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-le-castellet-carrera-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619090000 +0000" stop="20210619100000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">8 horas de Portimao</title>
+    <sub-title lang="es">Artes Marciales</sub-title>
+    <desc lang="es">Promoción de artes marciales mixtas estadounidense.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-8-horas-de-portimao_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619110000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Circuito</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.(n)</desc>
+    <credits>
+      <actor>Mauricio Gallardo</actor>
+      <actor>Ayrton Ruiz</actor>
+      <actor>Cacho López</actor>
+      <actor>Pablo Vignone</actor>
+      <actor>Martín Ponte</actor>
+      <actor>Enrico Tornello</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-circuito_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619110000 +0000" stop="20210619113000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Rally on Board</title>
+    <sub-title lang="es">Rally</sub-title>
+    <desc lang="es">Vamos a recorrer el mundo del rally desde adentro y, con la participación de los pilotos, mecánicos y toda la gente que trabaja en el rally, mostraremos cómo se vive, cómo se maneja y qué pasa en las carreras.(n)</desc>
+    <credits>
+      <actor>Carolina Di Nezio</actor>
+      <actor>Pablo Schillaci</actor>
+      <actor>Marcos Ligato</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rally-rally-on-board_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619113000 +0000" stop="20210619120000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">+Motor</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Lo mejor del automovilismo y motociclismo latinoamericano y las últimas novedades de la industria internacional.(n)</desc>
+    <credits>
+      <actor>Felipe Horta</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-motor_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619120000 +0000" stop="20210619130000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619130000 +0000" stop="20210619140000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619140000 +0000" stop="20210619150000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Circuito</title>
+    <sub-title lang="es">Automovilismo</sub-title>
+    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.(n)</desc>
+    <credits>
+      <actor>Mauricio Gallardo</actor>
+      <actor>Ayrton Ruiz</actor>
+      <actor>Cacho López</actor>
+      <actor>Pablo Vignone</actor>
+      <actor>Martín Ponte</actor>
+      <actor>Enrico Tornello</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-circuito_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619150000 +0000" stop="20210619170000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619170000 +0000" stop="20210619200000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619200000 +0000" stop="20210619203000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619203000 +0000" stop="20210619210000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619210000 +0000" stop="20210619230000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620000000 +0000" channel="CH | FOX SPORTS 3 HD">
+    <title lang="es">Fox Sports 3 Cono Sur Diferencial</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618045500 +0000" stop="20210618072500 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Holanda vs. Austria, Grupo C - Fecha 2, Johan Cruyff ArenA, Ámsterdam</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La decimosexta edición del torneo europeo de selecciones nacionales.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-holanda-vs-austria-grupo-c-fecha-2-johan-cruyff-arena-amsterdam_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618072500 +0000" stop="20210618081000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Claudio Bravo</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La historia detrás del éxito de los mejores jugadores del fútbol chileno.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-claudio-bravo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618081000 +0000" stop="20210618100000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Pelota parada</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.(n)</desc>
+    <credits>
+      <actor>Ignacio Valenzuela</actor>
+      <actor>Claudio Bustíos</actor>
+      <actor>Nahla Hassan</actor>
+      <actor>Marcelo Díaz</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618120000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.(n)</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618143000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Brasil vs. Perú, Grupo B - Fecha 2, Río de Janeiro</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-brasil-vs-peru-grupo-b-fecha-2-rio-de-janeiro_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618143000 +0000" stop="20210618153000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Resumen de la jornada</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un magazine para estar siempre informado de todo lo que ocurre en la Eurocopa 2020 y de las últimas novedades de la Selección en la Copa América.(n)</desc>
+    <credits>
+      <actor>Gonzalo Rey</actor>
+      <actor>Maximiliano Grillo</actor>
+      <actor>Ignacio Fusco</actor>
+      <actor>Florencia Maignon</actor>
+      <actor>Arturo Bulián</actor>
+      <actor>Iris Otero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-resumen-de-la-jornada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618153000 +0000" stop="20210618181500 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Croacia vs. República Checa, Grupo D - Fecha 2, Hampden Park, Glasgow</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La decimosexta edición del torneo europeo de selecciones nacionales.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-croacia-vs-republica-checa-grupo-d-fecha-2-hampden-park-glasgow_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618181500 +0000" stop="20210618200000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Pelota parada</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.(n)</desc>
+    <credits>
+      <actor>Ignacio Valenzuela</actor>
+      <actor>Claudio Bustíos</actor>
+      <actor>Nahla Hassan</actor>
+      <actor>Marcelo Díaz</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618210000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Chile vs. Bolivia, Grupo A - Fecha 2, Cuaibá</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Toda la previa de los encuentros de la Copa América 2021, que tendrá lugar en Brasil y que será la cuadragésima séptima edición del torneo.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chile-vs-bolivia-grupo-a-fecha-2-cuaiba_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618230000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Chile vs. Bolivia, Grupo A - Fecha 2, Cuaibá</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chile-vs-bolivia-grupo-a-fecha-2-cuaiba-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210618233000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Chile vs. Bolivia, Grupo A - Fecha 2, Cuaibá</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">El análisis de los encuentros de La Copa América 2021, que tendrá lugar en Brasil y que será la cuadragésima séptima edición del torneo.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chile-vs-bolivia-grupo-a-fecha-2-cuaiba-2_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618233000 +0000" stop="20210619013000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.(n)</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619013000 +0000" stop="20210619041000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Chile vs. Bolivia, Grupo A - Fecha 2, Cuaibá</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chile-vs-bolivia-grupo-a-fecha-2-cuaiba-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619041000 +0000" stop="20210619051000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Resumen de la jornada</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un magazine para estar siempre informado de todo lo que ocurre en la Eurocopa 2020 y de las últimas novedades de la Selección en la Copa América.(n)</desc>
+    <credits>
+      <actor>Gonzalo Rey</actor>
+      <actor>Maximiliano Grillo</actor>
+      <actor>Ignacio Fusco</actor>
+      <actor>Florencia Maignon</actor>
+      <actor>Arturo Bulián</actor>
+      <actor>Iris Otero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-resumen-de-la-jornada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619051000 +0000" stop="20210619073500 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Argentina vs. Uruguay, Grupo A - Fecha 2, Brasilia</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-argentina-vs-uruguay-grupo-a-fecha-2-brasilia-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619073500 +0000" stop="20210619093500 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.(n)</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619093500 +0000" stop="20210619100000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">La UC, el más campeón de la Liga</title>
+    <title lang="en">La década</title>
+    <sub-title lang="es">La década</sub-title>
+    <desc lang="es">Los hitos más importantes del entretenimiento, noticias y deportes. Revisamos los momentos más importantes que han ocurrido en los últimos 10 años.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-decada-la-uc-el-mas-campeon-de-la-liga_l_l.jpg" />
+    <episode-num system="onscreen">E0</episode-num>
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619220000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">TNT Sports 3</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports-3_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619220000 +0000" stop="20210620100000 +0000" channel="CH | TNT SPORTS 3">
+    <title lang="es">TNT Sports 3</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports-3_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618045500 +0000" stop="20210618072500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Holanda vs. Austria, Grupo C - Fecha 2, Johan Cruyff ArenA, Ámsterdam</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La decimosexta edición del torneo europeo de selecciones nacionales.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-holanda-vs-austria-grupo-c-fecha-2-johan-cruyff-arena-amsterdam_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618072500 +0000" stop="20210618081000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Claudio Bravo</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La historia detrás del éxito de los mejores jugadores del fútbol chileno.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-claudio-bravo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618081000 +0000" stop="20210618100000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Pelota parada</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.(n)</desc>
+    <credits>
+      <actor>Ignacio Valenzuela</actor>
+      <actor>Claudio Bustíos</actor>
+      <actor>Nahla Hassan</actor>
+      <actor>Marcelo Díaz</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618100000 +0000" stop="20210618120000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.(n)</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618143000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Brasil vs. Perú, Grupo B - Fecha 2, Río de Janeiro</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-brasil-vs-peru-grupo-b-fecha-2-rio-de-janeiro_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618143000 +0000" stop="20210618153000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Resumen de la jornada</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un magazine para estar siempre informado de todo lo que ocurre en la Eurocopa 2020 y de las últimas novedades de la Selección en la Copa América.(n)</desc>
+    <credits>
+      <actor>Gonzalo Rey</actor>
+      <actor>Maximiliano Grillo</actor>
+      <actor>Ignacio Fusco</actor>
+      <actor>Florencia Maignon</actor>
+      <actor>Arturo Bulián</actor>
+      <actor>Iris Otero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-resumen-de-la-jornada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618153000 +0000" stop="20210618181500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Croacia vs. República Checa, Grupo D - Fecha 2, Hampden Park, Glasgow</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La decimosexta edición del torneo europeo de selecciones nacionales.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-croacia-vs-republica-checa-grupo-d-fecha-2-hampden-park-glasgow_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618181500 +0000" stop="20210618200000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Pelota parada</title>
+    <sub-title lang="es">Magazine</sub-title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.(n)</desc>
+    <credits>
+      <actor>Ignacio Valenzuela</actor>
+      <actor>Claudio Bustíos</actor>
+      <actor>Nahla Hassan</actor>
+      <actor>Marcelo Díaz</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618200000 +0000" stop="20210618233000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Chile vs. Bolivia, Grupo A - Fecha 2, Cuaibá</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chile-vs-bolivia-grupo-a-fecha-2-cuaiba-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618233000 +0000" stop="20210619021500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Argentina vs. Uruguay, Grupo A - Fecha 2, Brasilia</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-argentina-vs-uruguay-grupo-a-fecha-2-brasilia-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619021500 +0000" stop="20210619041500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.(n)</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619041500 +0000" stop="20210619065500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Chile vs. Bolivia, Grupo A - Fecha 2, Cuaibá</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La Copa América 2021 tendrá lugar en Brasil y será la cuadragésima séptima edición de este torneo, la principal competencia futbolística entre las selecciones nacionales de América del Sur, organizada por la CONMEBOL.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chile-vs-bolivia-grupo-a-fecha-2-cuaiba-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619065500 +0000" stop="20210619075500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Resumen de la jornada</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un magazine para estar siempre informado de todo lo que ocurre en la Eurocopa 2020 y de las últimas novedades de la Selección en la Copa América.(n)</desc>
+    <credits>
+      <actor>Gonzalo Rey</actor>
+      <actor>Maximiliano Grillo</actor>
+      <actor>Ignacio Fusco</actor>
+      <actor>Florencia Maignon</actor>
+      <actor>Arturo Bulián</actor>
+      <actor>Iris Otero</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-resumen-de-la-jornada_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619075500 +0000" stop="20210619100000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Todos somos técnicos</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.(n)</desc>
+    <credits>
+      <actor>Manuel De Tezanos</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619100000 +0000" stop="20210619110000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">TNT Data Sports</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.(n)</desc>
+    <credits>
+      <actor>Hernán Feler</actor>
+      <actor>Florencia Maignon</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg" />
+    <rating system="IMdb">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20210619110000 +0000" stop="20210619153000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">TNT Sports HD</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619153000 +0000" stop="20210619181500 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">Portugal vs. Alemania, Grupo F - Fecha 2, Fubball Arena Munchen, Múnich</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">La decimosexta edición del torneo europeo de selecciones nacionales.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-portugal-vs-alemania-grupo-f-fecha-2-fubball-arena-munchen-munich_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619181500 +0000" stop="20210619230000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">TNT Sports HD</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619230000 +0000" stop="20210620110000 +0000" channel="CH | TNT SPORTS HD">
+    <title lang="es">TNT Sports HD</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
     </rating>
