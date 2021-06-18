@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CH | CDO BASICO FHD">
+    <display-name lang="es">CH | CDO BASICO FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-basico_l.png" />
+    <url>http://www.mi.tv</url>
+  </channel>
+  <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Municipal Puente Alto vs. Municipal Quilicura</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-municipal-puente-alto-vs-municipal-quilicura_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618090000 +0000" stop="20210618110000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Panamericanos Toronto 2015</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-panamericanos-toronto-2015_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618110000 +0000" stop="20210618120000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618120000 +0000" stop="20210618123000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e320_l_l.jpg" />
+    <episode-num system="onscreen">E320</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618123000 +0000" stop="20210618140000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Natación</title>
+    <sub-title lang="es">Olímpicos</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_olimpicos-natacion-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618140000 +0000" stop="20210618150000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618150000 +0000" stop="20210618165500 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Circuito nacional de vóleibol playa</title>
+    <sub-title lang="es">Voley</sub-title>
+    <desc lang="es">Retransmisión del Circuito nacional de Vóleibol playa en Chile. Un espacio para que los amantes del deporte disfruten de los mejors enfrentamientos entre los equipos nacionales más destacados.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_voley-circuito-nacional-de-voleibol-playa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618165500 +0000" stop="20210618170000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Enfoque deportivo</title>
+    <sub-title lang="es">Noticiero</sub-title>
+    <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Metrópolis</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618190000 +0000" stop="20210618203000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Hola deportes</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210618203000 +0000" stop="20210618210000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Deportivo escolar</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El programa insignia del deporte colegial regresa a tu pantalla para recordar los mejores momentos de tu colegio en un estilo único.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-deportivo-escolar_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Conexión Tokio</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexion-tokio_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">CDO Edición especial</title>
+    <title lang="en">CDO Edición especial</title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-edicion-especial-s00e321_l_l.jpg" />
+    <episode-num system="onscreen">E321</episode-num>
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Conexiones CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Sin información de rating</value>
+    </rating>
+  </programme>
+  <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Metrópolis: Segundo tiempo</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa.(n)</desc>
+    <credits>
+      <actor>Felipe Bianchi</actor>
+      <actor>Rodrigo Gómez</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Municipal Español de Talca vs. Municipal Puente Alto</title>
+    <sub-title lang="es">Básquet</sub-title>
+    <desc lang="es">La Liga Nacional de Básquetbol de Chile (LNB Chile) es la principal competencia de básquetbol profesional del país. Nace el 2008 y su origen y consolidación se explica en el vacío que produjo el término de la DIMAYOR.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-municipal-espanol-de-talca-vs-municipal-puente-alto_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619020000 +0000" stop="20210619040000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">Circuito nacional de vóleibol playa</title>
+    <sub-title lang="es">Voley</sub-title>
+    <desc lang="es">Retransmisión del Circuito nacional de Vóleibol playa en Chile. Un espacio para que los amantes del deporte disfruten de los mejors enfrentamientos entre los equipos nacionales más destacados.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_voley-circuito-nacional-de-voleibol-playa_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20210619040000 +0000" stop="20210619160000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20210619160000 +0000" stop="20210620040000 +0000" channel="CH | CDO BASICO FHD">
+    <title lang="es">CDO</title>
+    <sub-title lang="es">Deportivo</sub-title>
+    <desc lang="es">El deporte llega hasta tu pantalla, preparándote un sitial especial para que disfrutes de tus disciplinas olímpicas favoritas.(n)</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-cdo_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+</tv>
