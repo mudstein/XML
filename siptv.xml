@@ -10475,7 +10475,7 @@
     <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20210620150000 -0400" stop="20210620162000 -0400" channel="CH | TV Chile">
-    <title lang="es">Zoom Grandes momentos del deporte</title>
+    <title lang="es">Zoom: Grandes momentos del deporte</title>
   </programme>
   <programme start="20210620162000 -0400" stop="20210620173000 -0400" channel="CH | TV Chile">
     <title lang="es">Retro</title>
@@ -14738,7 +14738,7 @@
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618023000 -0400" stop="20210618043000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">Racing vs. Colón</title>
   </programme>
   <programme start="20210618043000 -0400" stop="20210618050000 -0400" channel="AR | TNT SPORTS">
     <title lang="es">Todo sobre Diego</title>
@@ -14750,7 +14750,7 @@
     <title lang="es">Todo sobre Diego</title>
   </programme>
   <programme start="20210618063000 -0400" stop="20210618083000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618083000 -0400" stop="20210618093000 -0400" channel="AR | TNT SPORTS">
     <title lang="es">TNT Euro América</title>
@@ -14761,14 +14761,11 @@
   <programme start="20210618100000 -0400" stop="20210618114500 -0400" channel="AR | TNT SPORTS">
     <title lang="es">Halcones y palomas</title>
   </programme>
-  <programme start="20210618114500 -0400" stop="20210618150000 -0400" channel="AR | TNT SPORTS">
+  <programme start="20210618114500 -0400" stop="20210618141500 -0400" channel="AR | TNT SPORTS">
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210618150000 -0400" stop="20210618153000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210618153000 -0400" stop="20210618160000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Show pádel</title>
+  <programme start="20210618141500 -0400" stop="20210618160000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618160000 -0400" stop="20210618190000 -0400" channel="AR | TNT SPORTS">
     <title lang="es">TNT Sports radio continental</title>
@@ -14792,40 +14789,55 @@
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210619023000 -0400" stop="20210619043000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">2021: Godoy Cruz vs. River</title>
   </programme>
-  <programme start="20210619050000 -0400" stop="20210619070000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619060000 -0400" stop="20210619080000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">2021: Gimnasia (LP) vs. Lanús</title>
   </programme>
-  <programme start="20210619070000 -0400" stop="20210619090000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619080000 -0400" stop="20210619090000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">Interior futbolero</title>
   </programme>
-  <programme start="20210619090000 -0400" stop="20210619120000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Femenino Primera División</title>
+  <programme start="20210619090000 -0400" stop="20210619093000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">Show pádel</title>
   </programme>
-  <programme start="20210619120000 -0400" stop="20210619150000 -0400" channel="AR | TNT SPORTS">
+  <programme start="20210619093000 -0400" stop="20210619100000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619100000 -0400" stop="20210619114500 -0400" channel="AR | TNT SPORTS">
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619150000 -0400" stop="20210619170000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619114500 -0400" stop="20210619142000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619170000 -0400" stop="20210619190000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619142000 -0400" stop="20210619161500 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619190000 -0400" stop="20210619210000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619161500 -0400" stop="20210619181000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619210000 -0400" stop="20210619230000 -0400" channel="AR | TNT SPORTS">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619181000 -0400" stop="20210619200500 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619230000 -0400" stop="20210620003000 -0400" channel="AR | TNT SPORTS">
+  <programme start="20210619200500 -0400" stop="20210619220000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619220000 -0400" stop="20210619223000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619223000 -0400" stop="20210619230000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619230000 -0400" stop="20210619233000 -0400" channel="AR | TNT SPORTS">
     <title lang="es">Artistas del K.O</title>
+  </programme>
+  <programme start="20210619233000 -0400" stop="20210620013000 -0400" channel="AR | TNT SPORTS">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618003000 -0400" stop="20210618023000 -0400" channel="AR | TNT Sports*">
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618023000 -0400" stop="20210618043000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">Racing vs. Colón</title>
   </programme>
   <programme start="20210618043000 -0400" stop="20210618050000 -0400" channel="AR | TNT Sports*">
     <title lang="es">Todo sobre Diego</title>
@@ -14837,7 +14849,7 @@
     <title lang="es">Todo sobre Diego</title>
   </programme>
   <programme start="20210618063000 -0400" stop="20210618083000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618083000 -0400" stop="20210618093000 -0400" channel="AR | TNT Sports*">
     <title lang="es">TNT Euro América</title>
@@ -14848,14 +14860,11 @@
   <programme start="20210618100000 -0400" stop="20210618114500 -0400" channel="AR | TNT Sports*">
     <title lang="es">Halcones y palomas</title>
   </programme>
-  <programme start="20210618114500 -0400" stop="20210618150000 -0400" channel="AR | TNT Sports*">
+  <programme start="20210618114500 -0400" stop="20210618141500 -0400" channel="AR | TNT Sports*">
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210618150000 -0400" stop="20210618153000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Todo sobre Diego</title>
-  </programme>
-  <programme start="20210618153000 -0400" stop="20210618160000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Show pádel</title>
+  <programme start="20210618141500 -0400" stop="20210618160000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618160000 -0400" stop="20210618190000 -0400" channel="AR | TNT Sports*">
     <title lang="es">TNT Sports radio continental</title>
@@ -14879,34 +14888,49 @@
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210619023000 -0400" stop="20210619043000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">2021: Godoy Cruz vs. River</title>
   </programme>
-  <programme start="20210619050000 -0400" stop="20210619070000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619060000 -0400" stop="20210619080000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">2021: Gimnasia (LP) vs. Lanús</title>
   </programme>
-  <programme start="20210619070000 -0400" stop="20210619090000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619080000 -0400" stop="20210619090000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">Interior futbolero</title>
   </programme>
-  <programme start="20210619090000 -0400" stop="20210619120000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Femenino Primera División</title>
+  <programme start="20210619090000 -0400" stop="20210619093000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">Show pádel</title>
   </programme>
-  <programme start="20210619120000 -0400" stop="20210619150000 -0400" channel="AR | TNT Sports*">
+  <programme start="20210619093000 -0400" stop="20210619100000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619100000 -0400" stop="20210619114500 -0400" channel="AR | TNT Sports*">
     <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619150000 -0400" stop="20210619170000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619114500 -0400" stop="20210619142000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619170000 -0400" stop="20210619190000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619142000 -0400" stop="20210619161500 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619190000 -0400" stop="20210619210000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619161500 -0400" stop="20210619181000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619210000 -0400" stop="20210619230000 -0400" channel="AR | TNT Sports*">
-    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+  <programme start="20210619181000 -0400" stop="20210619200500 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
-  <programme start="20210619230000 -0400" stop="20210620003000 -0400" channel="AR | TNT Sports*">
+  <programme start="20210619200500 -0400" stop="20210619220000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
+  </programme>
+  <programme start="20210619220000 -0400" stop="20210619223000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619223000 -0400" stop="20210619230000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20210619230000 -0400" stop="20210619233000 -0400" channel="AR | TNT Sports*">
     <title lang="es">Artistas del K.O</title>
+  </programme>
+  <programme start="20210619233000 -0400" stop="20210620013000 -0400" channel="AR | TNT Sports*">
+    <title lang="es">UEFA Eurocopa 2020</title>
   </programme>
   <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="AR | TyC Sports">
     <title lang="es">Copa América 2021</title>
@@ -15372,24 +15396,7 @@
     <desc lang="en">NBA Playoffs. Utah vs LA Clippers - Game 6.(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618000000 -0400" stop="20210618003000 -0400" channel="CA | TSN">
-    <title lang="en">Basketball</title>
-    <title lang="en">Basketball - NBA Playoffs. Utah vs LA Clippers - Game 6</title>
-    <sub-title lang="en">NBA Playoffs. Utah vs LA Clippers - Game 6</sub-title>
-    <desc lang="en">NBA Playoffs. Utah vs LA Clippers - Game 6.(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
   <programme start="20210618003000 -0400" stop="20210618010000 -0400" channel="CA | TSN">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20210618003000 -0400" stop="20210618010000 -0400" channel="CA | TSN">
-    <title lang="en">Sportscentre</title>
-    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
-    <category lang="en">Sports Program</category>
-  </programme>
-  <programme start="20210618010000 -0400" stop="20210618020000 -0400" channel="CA | TSN">
     <title lang="en">Sportscentre</title>
     <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
     <category lang="en">Sports Program</category>
@@ -15466,50 +15473,142 @@
     <desc lang="en">Preview and highlights of the 2020 Euro Soccer Tournament.</desc>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618144500 -0400" stop="20210618170000 -0400" channel="CA | TSN">
+  <programme start="20210618144500 -0400" stop="20210619000000 -0400" channel="CA | TSN">
     <title lang="en">UEFA Euro 2020</title>
     <title lang="en">2020 UEFA Euro - Spain vs. Poland</title>
     <sub-title lang="en">Spain vs. Poland</sub-title>
-    <desc lang="en">Spain vs. Poland.</desc>
+    <desc lang="en">Spain vs. Poland.(c)</desc>
     <date>2021</date>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618170000 -0400" stop="20210618173000 -0400" channel="CA | TSN">
+  <programme start="20210619000000 -0400" stop="20210619003000 -0400" channel="CA | TSN">
+    <title lang="en">Basketball</title>
+    <title lang="en">Basketball - NBA Playoffs. Utah vs LA Clippers - Game 6</title>
+    <sub-title lang="en">NBA Playoffs. Utah vs LA Clippers - Game 6</sub-title>
+    <desc lang="en">NBA Playoffs. Utah vs LA Clippers - Game 6.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619003000 -0400" stop="20210619010000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619010000 -0400" stop="20210619020000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619020000 -0400" stop="20210619030000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619030000 -0400" stop="20210619040000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619040000 -0400" stop="20210619050000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619050000 -0400" stop="20210619060000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619060000 -0400" stop="20210619070000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619070000 -0400" stop="20210619080000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619080000 -0400" stop="20210619083000 -0400" channel="CA | TSN">
+    <title lang="en">Sportscentre</title>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619083000 -0400" stop="20210619084500 -0400" channel="CA | TSN">
+    <title lang="en">Avant</title>
+    <title lang="en">2020 Euro Pre-game</title>
+    <desc lang="en">A look at the upcoming soccer game.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619084500 -0400" stop="20210619110000 -0400" channel="CA | TSN">
+    <title lang="en">UEFA Euro 2020</title>
+    <title lang="en">2020 UEFA Euro - Hungary vs. France</title>
+    <sub-title lang="en">Hungary vs. France</sub-title>
+    <desc lang="en">Hungary vs. France.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619110000 -0400" stop="20210619114500 -0400" channel="CA | TSN">
+    <title lang="en">2020 Euro Studio Show</title>
+    <desc lang="en">Preview and highlights of the 2020 Euro Soccer Tournament.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619114500 -0400" stop="20210619140000 -0400" channel="CA | TSN">
+    <title lang="en">UEFA Euro 2020</title>
+    <title lang="en">2020 UEFA Euro - Portugal vs. Germany</title>
+    <sub-title lang="en">Portugal vs. Germany</sub-title>
+    <desc lang="en">Portugal vs. Germany.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619140000 -0400" stop="20210619144500 -0400" channel="CA | TSN">
+    <title lang="en">2020 Euro Studio Show</title>
+    <desc lang="en">Preview and highlights of the 2020 Euro Soccer Tournament.(n)</desc>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619144500 -0400" stop="20210619170000 -0400" channel="CA | TSN">
+    <title lang="en">UEFA Euro 2020</title>
+    <title lang="en">2020 UEFA Euro - Spain vs. Poland</title>
+    <sub-title lang="en">Spain vs. Poland</sub-title>
+    <desc lang="en">Spain vs. Poland.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Sports Program</category>
+  </programme>
+  <programme start="20210619170000 -0400" stop="20210619173000 -0400" channel="CA | TSN">
     <title lang="en">Après</title>
     <title lang="en">2020 Euro Post-game</title>
-    <desc lang="en">Highlights of the last soccer game.</desc>
+    <desc lang="en">Highlights of the last soccer game.(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618173000 -0400" stop="20210618190000 -0400" channel="CA | TSN">
+  <programme start="20210619173000 -0400" stop="20210619190000 -0400" channel="CA | TSN">
     <title lang="en">Sportscentre</title>
-    <desc lang="en">TSN's flagship sports news and information program.</desc>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618190000 -0400" stop="20210618193000 -0400" channel="CA | TSN">
+  <programme start="20210619190000 -0400" stop="20210619193000 -0400" channel="CA | TSN">
     <title lang="en">Soccer de la MLS</title>
     <title lang="en">MLS Soccer - Pre-Game</title>
     <sub-title lang="en">Pre-Game</sub-title>
-    <desc lang="en">A look at upcoming game.</desc>
+    <desc lang="en">A look at upcoming game.(n)</desc>
     <date>2020</date>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618193000 -0400" stop="20210618213000 -0400" channel="CA | TSN">
+  <programme start="20210619193000 -0400" stop="20210619213000 -0400" channel="CA | TSN">
     <title lang="en">Soccer de la MLS</title>
     <title lang="en">MLS Soccer - Toronto FC vs Orlando</title>
     <sub-title lang="en">Toronto FC vs Orlando</sub-title>
-    <desc lang="en">Toronto FC vs Orlando.</desc>
+    <desc lang="en">Toronto FC vs Orlando.(n)</desc>
     <date>2020</date>
     <category lang="en">Sports Program</category>
   </programme>
-  <programme start="20210618213000 -0400" stop="20210618220000 -0400" channel="CA | TSN">
+  <programme start="20210619213000 -0400" stop="20210619220000 -0400" channel="CA | TSN">
     <title lang="en">Sportscentre</title>
-    <desc lang="en">TSN's flagship sports news and information program.</desc>
+    <desc lang="en">TSN's flagship sports news and information program.(n)</desc>
     <category lang="en">Sports Program</category>
   </programme>
   <programme start="20210618060000 +0000" stop="20210618080000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Chelsea (Ing) vs. Real Madrid (Esp), Semifinal - vuelta, Stamford Bridge</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">La Liga de Campeones de la UEFA 2020-21 es la 66 edición de la competición y la 29 temporada bajo su denominación actual. La final se jugará en el Estadio Olímpico Atatürk en Estambul, Turquía.(n)</desc>
+    <desc lang="es">La Liga de Campeones de la UEFA 2020-21 es la 66 edición de la competición y la 29 temporada bajo su denominación actual. La final se jugará en el Estadio Olímpico Atatürk en Estambul, Turquía.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-chelsea-ing-vs-real-madrid-esp-semifinal-vuelta-stamford-bridge_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15518,7 +15617,7 @@
   <programme start="20210618080000 +0000" stop="20210618093000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">UFC Clásicos</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.(n)</desc>
+    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-ufc-clasicos_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -15527,7 +15626,7 @@
   <programme start="20210618093000 +0000" stop="20210618103000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Gran Premio de Francia, Práctica 1</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-practica-1-2_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15536,7 +15635,7 @@
   <programme start="20210618103000 +0000" stop="20210618123000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">River Plate (Arg) vs. Tigres (Mex), Final - Vuelta, Estadio Monumental de Nuñez</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transminisión de los partidos de la Copa Libertadores de América. Evento oficial de la Confederación Sudamericana de Fútbol, la cual es conocido por su tradición y prestigio como el torneo más importante del continente americano.(n)</desc>
+    <desc lang="es">Transminisión de los partidos de la Copa Libertadores de América. Evento oficial de la Confederación Sudamericana de Fútbol, la cual es conocido por su tradición y prestigio como el torneo más importante del continente americano.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-river-plate-arg-vs-tigres-mex-final-vuelta-estadio-monumental-de-nunez-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15553,7 +15652,7 @@
   <programme start="20210618125000 +0000" stop="20210618140500 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Gran Premio de Francia, Práctica 2</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-practica-2-2_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15570,7 +15669,7 @@
   <programme start="20210618150000 +0000" stop="20210618170000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Boca Jrs. (Arg) vs. The Strongest (Bol), Fecha 6 - Grupo C, Estadio Alberto J. Armando</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transmisión de la sexagésima primera edición del torneo de clubes más importante de América, organizado por la CONMEBOL.(n)</desc>
+    <desc lang="es">Transmisión de la sexagésima primera edición del torneo de clubes más importante de América, organizado por la CONMEBOL.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-boca-jrs-arg-vs-the-strongest-bol-fecha-6-grupo-c-estadio-alberto-j-armando_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15587,7 +15686,7 @@
   <programme start="20210618180000 +0000" stop="20210618200000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">GP Singapur 2008</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Vive las mejores coberturas de las carreras de Fórmula 1 con las competiciones históricas.(n)</desc>
+    <desc lang="es">Vive las mejores coberturas de las carreras de Fórmula 1 con las competiciones históricas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gp-singapur-2008_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15596,7 +15695,7 @@
   <programme start="20210618200000 +0000" stop="20210618230000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Fight Night: Overeem vs. Harris, Florida</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.(n)</desc>
+    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-fight-night-overeem-vs-harris-florida-1_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -15605,7 +15704,7 @@
   <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">UFC Unleashed</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.(n)</desc>
+    <desc lang="es">Se presentan las mejores luchas de artes marciales mixtas tomadas de los archivos de la Ultimate Fighting Championship, para revivir, nuevamente, los triunfos y los fracasos más decisivos de esta famosa competencia.</desc>
     <credits>
       <director>Anthony Giordano</director>
       <actor>Mike Goldberg</actor>
@@ -15618,7 +15717,7 @@
   <programme start="20210619000000 +0000" stop="20210619020000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">WWE Smackdown</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.(n)</desc>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-wwe-smackdown_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15627,7 +15726,7 @@
   <programme start="20210619020000 +0000" stop="20210619040000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Boca Jrs. (Arg) vs. The Strongest (Bol), Fecha 6 - Grupo C, Estadio Alberto J. Armando</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transmisión de la sexagésima primera edición del torneo de clubes más importante de América, organizado por la CONMEBOL.(n)</desc>
+    <desc lang="es">Transmisión de la sexagésima primera edición del torneo de clubes más importante de América, organizado por la CONMEBOL.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-boca-jrs-arg-vs-the-strongest-bol-fecha-6-grupo-c-estadio-alberto-j-armando_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15636,7 +15735,7 @@
   <programme start="20210619040000 +0000" stop="20210619050000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">River Plate vs. Flamengo, Final, CONMEBOL Libertadores 2019</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Repaso de los mejores momentos del fútbol.(n)</desc>
+    <desc lang="es">Repaso de los mejores momentos del fútbol.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-river-plate-vs-flamengo-final-conmebol-libertadores-2019_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15645,7 +15744,7 @@
   <programme start="20210619050000 +0000" stop="20210619060000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Highlights - WWE Raw</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.(n)</desc>
+    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-highlights-wwe-raw_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15654,7 +15753,7 @@
   <programme start="20210619060000 +0000" stop="20210619080000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">Manchester City (Ing) vs. Chelsea (Ing), Final, Estadio do Dragão, Portugal</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">La Liga de Campeones de la UEFA 2020-21 es la 66 edición de la competición y la 29 temporada bajo su denominación actual. La final se jugará en el Estadio Olímpico Atatürk en Estambul, Turquía.(n)</desc>
+    <desc lang="es">La Liga de Campeones de la UEFA 2020-21 es la 66 edición de la competición y la 29 temporada bajo su denominación actual. La final se jugará en el Estadio Olímpico Atatürk en Estambul, Turquía.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-manchester-city-ing-vs-chelsea-ing-final-estadio-do-drag-o-portugal_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15663,7 +15762,7 @@
   <programme start="20210619080000 +0000" stop="20210619100000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">WWE Smackdown</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.(n)</desc>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-wwe-smackdown_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15736,7 +15835,7 @@
   <programme start="20210619210000 +0000" stop="20210619213000 +0000" channel="CH | FOX SPORTS 1">
     <title lang="es">UFC Ultimate Knockouts</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de "Ultimate Fighting Championship".(n)</desc>
+    <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de "Ultimate Fighting Championship".</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-ufc-ultimate-knockouts_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15753,7 +15852,7 @@
   <programme start="20210618060000 +0000" stop="20210618070000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">UEFA Champions League Classic</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">El torneo internacional oficial de fútbol más prestigioso a nivel de clubes entre los organizados por la Unión de Asociaciones Europeas de Fútbol.(n)</desc>
+    <desc lang="es">El torneo internacional oficial de fútbol más prestigioso a nivel de clubes entre los organizados por la Unión de Asociaciones Europeas de Fútbol.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-uefa-champions-league-classic_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15762,7 +15861,7 @@
   <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Expediente fútbol</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.(n)</desc>
+    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
     <credits>
       <actor>Walter Safarian</actor>
     </credits>
@@ -15774,7 +15873,7 @@
   <programme start="20210618080000 +0000" stop="20210618100000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Newell's Old Boys vs. Independiente, Fecha 23, Estadio Marcelo Bielsa</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transmisión de los partidos del campeonato de Primera División de fútbol argentino. Este es el torneo de máxima categoría en Argentina que cuenta con treinta clubes participantes.(n)</desc>
+    <desc lang="es">Transmisión de los partidos del campeonato de Primera División de fútbol argentino. Este es el torneo de máxima categoría en Argentina que cuenta con treinta clubes participantes.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-newell-s-old-boys-vs-independiente-fecha-23-estadio-marcelo-bielsa_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15783,7 +15882,7 @@
   <programme start="20210618100000 +0000" stop="20210618110000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">WWE Main Event</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">El espectáculo cuenta con las superestrellas de WWE y Divas, en este programa se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal.(n)</desc>
+    <desc lang="es">El espectáculo cuenta con las superestrellas de WWE y Divas, en este programa se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal.</desc>
     <credits>
       <actor>Michael Cole</actor>
       <actor>Byron Saxton</actor>
@@ -15796,7 +15895,7 @@
   <programme start="20210618110000 +0000" stop="20210618140000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Villarreal (Esp) vs. Manchester United (Ing), Final, Estadio Gdansk, Polonia</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transmisión del torneo continental de clubes, organizado por la Unión de Asociaciones Europeas de Fútbol. Será la 50va edición de la competición.(n)</desc>
+    <desc lang="es">Transmisión del torneo continental de clubes, organizado por la Unión de Asociaciones Europeas de Fútbol. Será la 50va edición de la competición.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-villarreal-esp-vs-manchester-united-ing-final-estadio-gdansk-polonia_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15805,7 +15904,7 @@
   <programme start="20210618140000 +0000" stop="20210618160000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Rentistas (Uru) vs. Sao Paulo (Bra), Fecha 4 - Grupo E, Estadio Complejo Rentistas</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transmisión de la sexagésima primera edición del torneo de clubes más importante de América, organizado por la CONMEBOL.(n)</desc>
+    <desc lang="es">Transmisión de la sexagésima primera edición del torneo de clubes más importante de América, organizado por la CONMEBOL.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-rentistas-uru-vs-sao-paulo-bra-fecha-4-grupo-e-estadio-complejo-rentistas_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15822,7 +15921,7 @@
   <programme start="20210618170000 +0000" stop="20210618200000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">WWE Raw</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.(n)</desc>
+    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
     <credits>
       <actor>Jerry Lawler</actor>
     </credits>
@@ -15834,7 +15933,7 @@
   <programme start="20210618200000 +0000" stop="20210618220000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">GP Canadá 2007</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Vive las mejores coberturas de las carreras de Fórmula 1 con las competiciones históricas.(n)</desc>
+    <desc lang="es">Vive las mejores coberturas de las carreras de Fórmula 1 con las competiciones históricas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gp-canada-2007_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15843,7 +15942,7 @@
   <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Highlights - WWE Raw</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.(n)</desc>
+    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-highlights-wwe-raw_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15852,7 +15951,7 @@
   <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Bayern Munich vs. PSG, Final, UCL 2019-2020</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Repaso de los mejores momentos del fútbol.(n)</desc>
+    <desc lang="es">Repaso de los mejores momentos del fútbol.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-bayern-munich-vs-psg-final-ucl-2019-2020_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15869,7 +15968,7 @@
   <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Highlights - WWE Raw</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.(n)</desc>
+    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-highlights-wwe-raw_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15878,7 +15977,7 @@
   <programme start="20210619040000 +0000" stop="20210619060000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">UFC Clásicos</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.(n)</desc>
+    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-ufc-clasicos_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -15887,7 +15986,7 @@
   <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">UEFA Champions League Classic</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">El torneo internacional oficial de fútbol más prestigioso a nivel de clubes entre los organizados por la Unión de Asociaciones Europeas de Fútbol.(n)</desc>
+    <desc lang="es">El torneo internacional oficial de fútbol más prestigioso a nivel de clubes entre los organizados por la Unión de Asociaciones Europeas de Fútbol.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-uefa-champions-league-classic_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15896,7 +15995,7 @@
   <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">Expediente fútbol</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.(n)</desc>
+    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
     <credits>
       <actor>Walter Safarian</actor>
     </credits>
@@ -15908,7 +16007,7 @@
   <programme start="20210619080000 +0000" stop="20210619100000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">San Lorenzo vs. Rosario Central, Fecha 23, Estadio Pedro Bidegain</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Transmisión de los partidos del campeonato de Primera División de fútbol argentino. Este es el torneo de máxima categoría en Argentina que cuenta con treinta clubes participantes.(n)</desc>
+    <desc lang="es">Transmisión de los partidos del campeonato de Primera División de fútbol argentino. Este es el torneo de máxima categoría en Argentina que cuenta con treinta clubes participantes.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-san-lorenzo-vs-rosario-central-fecha-23-estadio-pedro-bidegain_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -15925,7 +16024,7 @@
   <programme start="20210619120000 +0000" stop="20210619140000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">UFC Clásicos</title>
     <sub-title lang="es">Artes Marciales</sub-title>
-    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.(n)</desc>
+    <desc lang="es">Basado en el deporte de full contact vale todo en Brasil, el UFC fue creado en los Estados Unidos en 1993. Hoy es la organización principal de artes marciales mixtas, con más de 20 peleas por año y los mejores peleadores del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_artes-marciales-ufc-clasicos_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -15958,7 +16057,7 @@
   <programme start="20210619210000 +0000" stop="20210619230000 +0000" channel="CH | FOX SPORTS 2">
     <title lang="es">WWE Smackdown</title>
     <sub-title lang="es">Lucha</sub-title>
-    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.(n)</desc>
+    <desc lang="es">Las habilidades de los más versátiles y sorprendentes luchadores del peso crucero las puedes disfrutar en este espacio de la WWE. Un show en donde también se presentan algunas de las principales súper estrellas del mundo de la lucha libre.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lucha-wwe-smackdown_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15975,7 +16074,7 @@
   <programme start="20210618053000 +0000" stop="20210618070000 +0000" channel="CO | Win Sports">
     <title lang="es">Lo mejor de la fecha</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Al término de la Fecha llega el resumen más detallado de los partidos de la Liga. Análisis, relatos, reacciones y estadísticas con estilo dinámico y diferente.(n)</desc>
+    <desc lang="es">Al término de la Fecha llega el resumen más detallado de los partidos de la Liga. Análisis, relatos, reacciones y estadísticas con estilo dinámico y diferente.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/co_futbol-lo-mejor-de-la-fecha_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -15984,7 +16083,7 @@
   <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="CO | Win Sports">
     <title lang="es">Conexión deportes</title>
     <sub-title lang="es">Periodístico</sub-title>
-    <desc lang="es">Un espacio de análisis, debate, polémica y opinión de los acontecimientos deportivos del día de la mano de un panel de periodistas especializados.(n)</desc>
+    <desc lang="es">Un espacio de análisis, debate, polémica y opinión de los acontecimientos deportivos del día de la mano de un panel de periodistas especializados.</desc>
     <credits>
       <actor>Gabriel Meluk</actor>
       <actor>Hugo Illera</actor>
@@ -16002,7 +16101,7 @@
   <programme start="20210618080000 +0000" stop="20210618100000 +0000" channel="CO | Win Sports">
     <title lang="es">Once Caldas (Col) vs. Santa Fe (Col), Fecha 11, Estadio Palogrande</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Disfruta de los mejores partidos correspondientes a la Primera División del Fútbol Profesional de Colombia.(n)</desc>
+    <desc lang="es">Disfruta de los mejores partidos correspondientes a la Primera División del Fútbol Profesional de Colombia.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/co_futbol-once-caldas-col-vs-santa-fe-col-fecha-11-estadio-palogrande_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16011,7 +16110,7 @@
   <programme start="20210618100000 +0000" stop="20210618103000 +0000" channel="CO | Win Sports">
     <title lang="es">National Icons</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">El encuentro entre campeones del deporte, pasados versus actuales, en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, juegos olímpicos y más.(n)</desc>
+    <desc lang="es">El encuentro entre campeones del deporte, pasados versus actuales, en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, juegos olímpicos y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/co_deportivo-national-icons_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16019,7 +16118,7 @@
   </programme>
   <programme start="20210618103000 +0000" stop="20210618113000 +0000" channel="CO | Win Sports">
     <title lang="es">Win+ noticias noche</title>
-    <desc lang="es">Un completo recorrido por el deporte nacional e internacional en un show dinámico e informativo.(n)</desc>
+    <desc lang="es">Un completo recorrido por el deporte nacional e internacional en un show dinámico e informativo.</desc>
     <credits>
       <actor>Daniel Perez</actor>
       <actor>Carlos Zapata</actor>
@@ -16037,7 +16136,7 @@
   <programme start="20210618113000 +0000" stop="20210618130000 +0000" channel="CO | Win Sports">
     <title lang="es">Conexión deportes</title>
     <sub-title lang="es">Periodístico</sub-title>
-    <desc lang="es">Un espacio de análisis, debate, polémica y opinión de los acontecimientos deportivos del día de la mano de un panel de periodistas especializados.(n)</desc>
+    <desc lang="es">Un espacio de análisis, debate, polémica y opinión de los acontecimientos deportivos del día de la mano de un panel de periodistas especializados.</desc>
     <credits>
       <actor>Gabriel Meluk</actor>
       <actor>Hugo Illera</actor>
@@ -16055,7 +16154,7 @@
   <programme start="20210618130000 +0000" stop="20210618160000 +0000" channel="CO | Win Sports">
     <title lang="es">Primer toque</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">En este espacio el fútbol se vive desde muy temprano y con un estilo ameno, dinámico y diferente. Información, entrevistas y secciones alrededor del deporte rey para empezar el día con una sonrisa de gol.(n)</desc>
+    <desc lang="es">En este espacio el fútbol se vive desde muy temprano y con un estilo ameno, dinámico y diferente. Información, entrevistas y secciones alrededor del deporte rey para empezar el día con una sonrisa de gol.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/co_futbol-primer-toque_l_l.jpg" />
     <rating system="IMdb">
       <value>Sin información de rating</value>
@@ -16080,7 +16179,7 @@
   <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="CO | Win Sports">
     <title lang="es">Ciclismo entre grandes</title>
     <sub-title lang="es">Ciclismo</sub-title>
-    <desc lang="es">La actualidad de las principales competencias en disputa, el balance de cada jornada ciclística y el análisis de nuestros 'escarabajos' en las carreteras del mundo.(n)</desc>
+    <desc lang="es">La actualidad de las principales competencias en disputa, el balance de cada jornada ciclística y el análisis de nuestros 'escarabajos' en las carreteras del mundo.</desc>
     <credits>
       <actor>Carlos Julio Guzmán</actor>
       <actor>Héctor Urrego</actor>
@@ -16102,7 +16201,7 @@
   <programme start="20210618210000 +0000" stop="20210618230000 +0000" channel="CO | Win Sports">
     <title lang="es">Saque largo</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">Una manera diferente de ver y vivir el fútbol. Debate, entrevistas, análisis, fútbol y más, de la mano de Juan Felipe Cadavid, Eduardo Luis, Jorge Bolaño, El Patrón Bermúdez y Steven Arce.(n)</desc>
+    <desc lang="es">Una manera diferente de ver y vivir el fútbol. Debate, entrevistas, análisis, fútbol y más, de la mano de Juan Felipe Cadavid, Eduardo Luis, Jorge Bolaño, El Patrón Bermúdez y Steven Arce.</desc>
     <credits>
       <actor>Eduardo Luis</actor>
       <actor>Jorge Bermúdez</actor>
@@ -16118,7 +16217,7 @@
   <programme start="20210618230000 +0000" stop="20210619000000 +0000" channel="CO | Win Sports">
     <title lang="es">Conexión deportes</title>
     <sub-title lang="es">Periodístico</sub-title>
-    <desc lang="es">Un espacio de análisis, debate, polémica y opinión de los acontecimientos deportivos del día de la mano de un panel de periodistas especializados.(n)</desc>
+    <desc lang="es">Un espacio de análisis, debate, polémica y opinión de los acontecimientos deportivos del día de la mano de un panel de periodistas especializados.</desc>
     <credits>
       <actor>Gabriel Meluk</actor>
       <actor>Hugo Illera</actor>
@@ -16152,7 +16251,7 @@
   <programme start="20210619040000 +0000" stop="20210619050000 +0000" channel="CO | Win Sports">
     <title lang="es">Lo mejor de la fecha</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Al término de la Fecha llega el resumen más detallado de los partidos de la Liga. Análisis, relatos, reacciones y estadísticas con estilo dinámico y diferente.(n)</desc>
+    <desc lang="es">Al término de la Fecha llega el resumen más detallado de los partidos de la Liga. Análisis, relatos, reacciones y estadísticas con estilo dinámico y diferente.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/co_futbol-lo-mejor-de-la-fecha_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16169,7 +16268,7 @@
   <programme start="20210619120000 +0000" stop="20210619130000 +0000" channel="CO | Win Sports">
     <title lang="es">Ciclismo entre grandes</title>
     <sub-title lang="es">Ciclismo</sub-title>
-    <desc lang="es">La actualidad de las principales competencias en disputa, el balance de cada jornada ciclística y el análisis de nuestros 'escarabajos' en las carreteras del mundo.(n)</desc>
+    <desc lang="es">La actualidad de las principales competencias en disputa, el balance de cada jornada ciclística y el análisis de nuestros 'escarabajos' en las carreteras del mundo.</desc>
     <credits>
       <actor>Carlos Julio Guzmán</actor>
       <actor>Héctor Urrego</actor>
@@ -16207,7 +16306,7 @@
   <programme start="20210618060000 +0000" stop="20210618063000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">GP1</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Un programa con todo lo que la gente no puede ver de la Fórmula Uno. Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.(n)</desc>
+    <desc lang="es">Un programa con todo lo que la gente no puede ver de la Fórmula Uno. Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.</desc>
     <credits>
       <actor>Juan Fossaroli</actor>
     </credits>
@@ -16226,7 +16325,7 @@
   </programme>
   <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">ESPN F Show</title>
-    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.</desc>
     <credits>
       <actor>Alejandro Fantino</actor>
       <actor>Pichu Straneo</actor>
@@ -16243,7 +16342,7 @@
   <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16258,7 +16357,7 @@
   <programme start="20210618090000 +0000" stop="20210618093000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Acción de la N.B.A.</title>
     <sub-title lang="es">Básquet</sub-title>
-    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.(n)</desc>
+    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-accion-de-la-n-b-a-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16275,7 +16374,7 @@
   <programme start="20210618100000 +0000" stop="20210618103000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Previa del GP de Alemania</title>
     <sub-title lang="es">Motociclismo</sub-title>
-    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16283,7 +16382,7 @@
   </programme>
   <programme start="20210618103000 +0000" stop="20210618110000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">A.T.P. Tour Magazine</title>
-    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_a-t-p-tour-magazine_l_l.jpg" />
     <rating system="IMdb">
@@ -16293,7 +16392,7 @@
   <programme start="20210618110000 +0000" stop="20210618170000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Cuartos de final</title>
     <sub-title lang="es">Tenis</sub-title>
-    <desc lang="es">Disfrute de uno de los ocho torneos sobre césped del calendario.(n)</desc>
+    <desc lang="es">Disfrute de uno de los ocho torneos sobre césped del calendario.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tenis-cuartos-de-final-7_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16302,7 +16401,7 @@
   <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Resumen de temporada</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-resumen-de-temporada_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16311,7 +16410,7 @@
   <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">ESPN Tenis</title>
     <sub-title lang="es">Tenis</sub-title>
-    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.</desc>
     <credits>
       <actor>Pablo Stecco</actor>
     </credits>
@@ -16323,7 +16422,7 @@
   <programme start="20210618190000 +0000" stop="20210618220000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Segunda ronda, Torrey Pines Golf Club (South), San Diego, CA, USA</title>
     <sub-title lang="es">Golf</sub-title>
-    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.(n)</desc>
+    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_golf-segunda-ronda-torrey-pines-golf-club-south-san-diego-ca-usa-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16332,7 +16431,7 @@
   <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">PGA Tour Highlights: Palmetto Championship at Congaree</title>
     <sub-title lang="es">Golf</sub-title>
-    <desc lang="es">Un evento de juego por golpes del PGA Tour.(n)</desc>
+    <desc lang="es">Un evento de juego por golpes del PGA Tour.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_golf-pga-tour-highlights-palmetto-championship-at-congaree_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16341,7 +16440,7 @@
   <programme start="20210618230000 +0000" stop="20210618233000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">N.B.A. esta noche</title>
     <sub-title lang="es">Básquet</sub-title>
-    <desc lang="es">Durante las noches es el momento ideal para disfrutar de un encuentro de la NBA. Una manera de sumergirse en el planeta de los gigantes a través de esta emocionante transmisión que te llevará cada punto y cada jugada.(n)</desc>
+    <desc lang="es">Durante las noches es el momento ideal para disfrutar de un encuentro de la NBA. Una manera de sumergirse en el planeta de los gigantes a través de esta emocionante transmisión que te llevará cada punto y cada jugada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-n-b-a-esta-noche-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16350,7 +16449,7 @@
   <programme start="20210618233000 +0000" stop="20210619020000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Semifinal de Conferencia, Juego 6</title>
     <sub-title lang="es">Básquet</sub-title>
-    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <desc lang="es">Los mejores juegos y acción de la NBA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-semifinal-de-conferencia-juego-6_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16359,7 +16458,7 @@
   <programme start="20210619020000 +0000" stop="20210619043000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Utah Jazz vs. LA Clippers, Juego 6, Semifinales de conferencia, STAPLES Center, Los Angeles, CA</title>
     <sub-title lang="es">Básquet</sub-title>
-    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <desc lang="es">Los mejores juegos y acción de la NBA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-utah-jazz-vs-la-clippers-juego-6-semifinales-de-conferencia-staples-center-los-angeles-ca_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16375,7 +16474,7 @@
   </programme>
   <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">ESPN F Show</title>
-    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.</desc>
     <credits>
       <actor>Alejandro Fantino</actor>
       <actor>Pichu Straneo</actor>
@@ -16392,7 +16491,7 @@
   <programme start="20210619080000 +0000" stop="20210619090000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16407,7 +16506,7 @@
   <programme start="20210619090000 +0000" stop="20210619093000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Aguas arriba</title>
     <sub-title lang="es">Caza y Pesca</sub-title>
-    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_caza-y-pesca-aguas-arriba_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16424,7 +16523,7 @@
   <programme start="20210619100000 +0000" stop="20210619153000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Semifinales, The Queen's Club, London, England</title>
     <sub-title lang="es">Tenis</sub-title>
-    <desc lang="es">La serie ATP World Tour 500 es el tercer nivel más alto del torneo masculino de tenis, en una serie de trece competencias, con 500 puntos de clasificación otorgados para los campeones de singles.(n)</desc>
+    <desc lang="es">La serie ATP World Tour 500 es el tercer nivel más alto del torneo masculino de tenis, en una serie de trece competencias, con 500 puntos de clasificación otorgados para los campeones de singles.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tenis-semifinales-the-queen-s-club-london-england-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16433,7 +16532,7 @@
   <programme start="20210619153000 +0000" stop="20210619170000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Gran Premio de Francia</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-1988_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16442,7 +16541,7 @@
   <programme start="20210619170000 +0000" stop="20210620010000 +0000" channel="DE | ESPN 1 SUR FHD">
     <title lang="es">Tercera ronda, Torrey Pines Golf Club (South), San Diego, CA, USA</title>
     <sub-title lang="es">Golf</sub-title>
-    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.(n)</desc>
+    <desc lang="es">Se jugará en Torrey Pines GC (South, 71-7,652 yards), La Jolla, California. Repartirá una bolsa en premios de u$s 12,500,000. Bryson DeChambeau se quedó con el trofeo en 2020.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_golf-tercera-ronda-torrey-pines-golf-club-south-san-diego-ca-usa-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16450,7 +16549,7 @@
   </programme>
   <programme start="20210618050000 +0000" stop="20210618063000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F Show</title>
-    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.</desc>
     <credits>
       <actor>Alejandro Fantino</actor>
       <actor>Pichu Straneo</actor>
@@ -16467,7 +16566,7 @@
   <programme start="20210618063000 +0000" stop="20210618070000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN W</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.(n)</desc>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-espn-w_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16476,7 +16575,7 @@
   <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16491,7 +16590,7 @@
   <programme start="20210618080000 +0000" stop="20210618090000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Simplemente fútbol</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.</desc>
     <credits>
       <actor>Enrique Wolff</actor>
     </credits>
@@ -16503,7 +16602,7 @@
   <programme start="20210618090000 +0000" stop="20210618100000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16518,7 +16617,7 @@
   <programme start="20210618100000 +0000" stop="20210618110000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16533,7 +16632,7 @@
   <programme start="20210618110000 +0000" stop="20210618123000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F360</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.</desc>
     <credits>
       <actor>Gustavo López</actor>
       <actor>Guillermo Poggi</actor>
@@ -16552,7 +16651,7 @@
   <programme start="20210618123000 +0000" stop="20210618133000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16567,7 +16666,7 @@
   <programme start="20210618133000 +0000" stop="20210618143000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16582,7 +16681,7 @@
   <programme start="20210618143000 +0000" stop="20210618160000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F360</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.</desc>
     <credits>
       <actor>Gustavo López</actor>
       <actor>Guillermo Poggi</actor>
@@ -16601,7 +16700,7 @@
   <programme start="20210618160000 +0000" stop="20210618170000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16616,7 +16715,7 @@
   <programme start="20210618170000 +0000" stop="20210618180000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Simplemente fútbol</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.</desc>
     <credits>
       <actor>Enrique Wolff</actor>
     </credits>
@@ -16628,7 +16727,7 @@
   <programme start="20210618180000 +0000" stop="20210618190000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16643,7 +16742,7 @@
   <programme start="20210618190000 +0000" stop="20210618210000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F90</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.(n)</desc>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.</desc>
     <credits>
       <actor>Sebastián Vignolo</actor>
     </credits>
@@ -16655,7 +16754,7 @@
   <programme start="20210618210000 +0000" stop="20210618213000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Fukuoka y Nagasaki</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.</desc>
     <credits>
       <actor>Martín Ainstein</actor>
     </credits>
@@ -16667,7 +16766,7 @@
   <programme start="20210618213000 +0000" stop="20210618220000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Hiroshima</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.(n)</desc>
+    <desc lang="es">Martín Ainstein visita Nara, una de las ciudades más bellas de Japón.</desc>
     <credits>
       <actor>Martín Ainstein</actor>
     </credits>
@@ -16679,7 +16778,7 @@
   <programme start="20210618220000 +0000" stop="20210618230000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Simplemente fútbol</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.</desc>
     <credits>
       <actor>Enrique Wolff</actor>
     </credits>
@@ -16691,7 +16790,7 @@
   <programme start="20210618230000 +0000" stop="20210619003000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F360</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.(n)</desc>
+    <desc lang="es">Un espacio con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Un recorrido global por el mundo deportivo.</desc>
     <credits>
       <actor>Gustavo López</actor>
       <actor>Guillermo Poggi</actor>
@@ -16709,7 +16808,7 @@
   </programme>
   <programme start="20210619003000 +0000" stop="20210619020000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F Show</title>
-    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.</desc>
     <credits>
       <actor>Alejandro Fantino</actor>
       <actor>Pichu Straneo</actor>
@@ -16726,7 +16825,7 @@
   <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16741,7 +16840,7 @@
   <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16756,7 +16855,7 @@
   <programme start="20210619040000 +0000" stop="20210619050000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16770,7 +16869,7 @@
   </programme>
   <programme start="20210619050000 +0000" stop="20210619063000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN F Show</title>
-    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.(n)</desc>
+    <desc lang="es">Se trata de una reunión de amigos, en la que Alejandro Fantino distribuirá el juego con su equipo para disfrutar con la mejor onda, compartir charlas de todo tipo con invitados y conjugar el humor con los deportes y la actualidad.</desc>
     <credits>
       <actor>Alejandro Fantino</actor>
       <actor>Pichu Straneo</actor>
@@ -16795,7 +16894,7 @@
   <programme start="20210619070000 +0000" stop="20210619080000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16810,7 +16909,7 @@
   <programme start="20210619080000 +0000" stop="20210619085500 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">ESPN Knockout</title>
     <sub-title lang="es">Boxeo</sub-title>
-    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_boxeo-espn-knockout_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -16819,7 +16918,7 @@
   <programme start="20210619085500 +0000" stop="20210619095500 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16834,7 +16933,7 @@
   <programme start="20210619095500 +0000" stop="20210619110500 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Gran Premio de Francia, Práctica 3</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-practica-3-2_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16843,7 +16942,7 @@
   <programme start="20210619110500 +0000" stop="20210619113300 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">+Motor</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Lo mejor del automovilismo y motociclismo latinoamericano y las últimas novedades de la industria internacional.(n)</desc>
+    <desc lang="es">Lo mejor del automovilismo y motociclismo latinoamericano y las últimas novedades de la industria internacional.</desc>
     <credits>
       <actor>Felipe Horta</actor>
     </credits>
@@ -16855,7 +16954,7 @@
   <programme start="20210619113300 +0000" stop="20210619120000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Previa del GP de Alemania</title>
     <sub-title lang="es">Motociclismo</sub-title>
-    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16864,7 +16963,7 @@
   <programme start="20210619120000 +0000" stop="20210619125500 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Liqui Moly Motorrad Grand Prix Deutschland, Sachsenring, Sachsenring, Germany</title>
     <sub-title lang="es">Motociclismo</sub-title>
-    <desc lang="es">Es la máxima competición mundial de motociclismo de velocidad. Este certamen está regido por la Federación Internacional de Motociclismo y se divide en tres categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <desc lang="es">Es la máxima competición mundial de motociclismo de velocidad. Este certamen está regido por la Federación Internacional de Motociclismo y se divide en tres categorías: MotoGP, Moto2 y Moto3.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-liqui-moly-motorrad-grand-prix-deutschland-sachsenring-sachsenring-germany_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -16873,7 +16972,7 @@
   <programme start="20210619125500 +0000" stop="20210619141500 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">Gran Premio de Francia</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-1988_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16882,7 +16981,7 @@
   <programme start="20210619141500 +0000" stop="20210619200000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16905,7 +17004,7 @@
   <programme start="20210619220000 +0000" stop="20210619230000 +0000" channel="DE | ESPN 2 SUR FHD">
     <title lang="es">SportsCenter</title>
     <sub-title lang="es">Noticiero</sub-title>
-    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.(n)</desc>
+    <desc lang="es">Podrás ver un resumen informativo del acontecer deportivo en el mundo, con las mejores jugadas y resultados de los partidos. Además, presenta análisis y comentarios de las noticias más relevantes de las diferentes disciplinas competitivas.</desc>
     <credits>
       <actor>Tito Puccetti</actor>
       <actor>Yanjane Meneses</actor>
@@ -16928,7 +17027,7 @@
   <programme start="20210618060000 +0000" stop="20210618063000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Previa del GP de Alemania</title>
     <sub-title lang="es">Motociclismo</sub-title>
-    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16937,7 +17036,7 @@
   <programme start="20210618063000 +0000" stop="20210618070000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">GP1</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Un programa con todo lo que la gente no puede ver de la Fórmula Uno. Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.(n)</desc>
+    <desc lang="es">Un programa con todo lo que la gente no puede ver de la Fórmula Uno. Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.</desc>
     <credits>
       <actor>Juan Fossaroli</actor>
     </credits>
@@ -16949,7 +17048,7 @@
   <programme start="20210618070000 +0000" stop="20210618080000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Circuito</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.(n)</desc>
+    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.</desc>
     <credits>
       <actor>Mauricio Gallardo</actor>
       <actor>Ayrton Ruiz</actor>
@@ -16966,7 +17065,7 @@
   <programme start="20210618080000 +0000" stop="20210618083000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Planet Speed</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Las novedades del automovilismo y motociclismo internacional.(n)</desc>
+    <desc lang="es">Las novedades del automovilismo y motociclismo internacional.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-planet-speed_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16974,7 +17073,7 @@
   </programme>
   <programme start="20210618083000 +0000" stop="20210618085800 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">A.T.P. Tour Magazine</title>
-    <desc lang="es">La actualidad del circuito profesional masculino de tenis.(n)</desc>
+    <desc lang="es">La actualidad del circuito profesional masculino de tenis.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_a-t-p-tour-magazine_l_l.jpg" />
     <rating system="IMdb">
@@ -16984,7 +17083,7 @@
   <programme start="20210618085800 +0000" stop="20210618092500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">ESPN Run</title>
     <sub-title lang="es">Atletismo</sub-title>
-    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(n)</desc>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_atletismo-espn-run_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -16993,7 +17092,7 @@
   <programme start="20210618092500 +0000" stop="20210618103000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Gran Premio de Francia, Práctica 1</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-practica-1-2_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17002,7 +17101,7 @@
   <programme start="20210618103000 +0000" stop="20210618105500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Previa del GP de Alemania</title>
     <sub-title lang="es">Motociclismo</sub-title>
-    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.(n)</desc>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_motociclismo-previa-del-gp-de-alemania_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17019,7 +17118,7 @@
   <programme start="20210618125000 +0000" stop="20210618140500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Gran Premio de Francia, Práctica 2</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Prácticas de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Prácticas de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-gran-premio-de-francia-practica-2-2_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17028,7 +17127,7 @@
   <programme start="20210618140500 +0000" stop="20210618163000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Brooklyn Nets vs. Milwaukee Bucks, Juego 6, Semifinales de conferencia, Fiserv Forum, Milwaukee, WI</title>
     <sub-title lang="es">Básquet</sub-title>
-    <desc lang="es">Los mejores juegos y acción de la NBA.(n)</desc>
+    <desc lang="es">Los mejores juegos y acción de la NBA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-brooklyn-nets-vs-milwaukee-bucks-juego-6-semifinales-de-conferencia-fiserv-forum-milwaukee-wi_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -17037,7 +17136,7 @@
   <programme start="20210618163000 +0000" stop="20210618170000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Aguas arriba</title>
     <sub-title lang="es">Caza y Pesca</sub-title>
-    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.(n)</desc>
+    <desc lang="es">Viajamos a través de lugares increíbles donde conocemos a lugareños que muestran la simplicidad de su forma de vida y contemplamos las experiencias de pescadores expertos en la pesca con mosca.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_caza-y-pesca-aguas-arriba_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17046,7 +17145,7 @@
   <programme start="20210618170000 +0000" stop="20210618175500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Circuito</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.(n)</desc>
+    <desc lang="es">Un espacio que cuenta con todo el análisis, información y debate sobre el automovilismo argentino y mundial, de la mano de un panel de expertos y figuras de las pistas.</desc>
     <credits>
       <actor>Mauricio Gallardo</actor>
       <actor>Ayrton Ruiz</actor>
@@ -17063,7 +17162,7 @@
   <programme start="20210618175500 +0000" stop="20210618181000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Resumen Tri Nations 2020</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.(n)</desc>
+    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-resumen-tri-nations-2020_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17072,7 +17171,7 @@
   <programme start="20210618181000 +0000" stop="20210618184000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Rugby de Inglaterra - Premiership - Highlights</title>
     <sub-title lang="es">Rugby</sub-title>
-    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.(n)</desc>
+    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rugby-rugby-de-inglaterra-premiership-highlights-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17081,7 +17180,7 @@
   <programme start="20210618184000 +0000" stop="20210618204500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">LA Rochelle vs. Racing 92</title>
     <sub-title lang="es">Rugby</sub-title>
-    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.(n)</desc>
+    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rugby-la-rochelle-vs-racing-92_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17090,7 +17189,7 @@
   <programme start="20210618204500 +0000" stop="20210618214500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">UEFA Champions League Weekly</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-uefa-champions-league-weekly_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -17099,7 +17198,7 @@
   <programme start="20210618214500 +0000" stop="20210618230000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Goles de Europa</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.(n)</desc>
+    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.</desc>
     <credits>
       <actor>Diego Muñoz</actor>
       <actor>Francisco Cánepa</actor>
@@ -17118,7 +17217,7 @@
   <programme start="20210618230000 +0000" stop="20210619020000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Oakland Athletics vs. New York Yankees, Yankee Stadium, Bronx, NY, USA</title>
     <sub-title lang="es">Béisbol</sub-title>
-    <desc lang="es">Disfruta de los partidos de la temporada del mejor béisbol del mundo, en la "Mayor Baseball League" de Estados Unidos. En esta operan las dos ligas más importantes: la Nacional y la Americana.(n)</desc>
+    <desc lang="es">Disfruta de los partidos de la temporada del mejor béisbol del mundo, en la "Mayor Baseball League" de Estados Unidos. En esta operan las dos ligas más importantes: la Nacional y la Americana.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_beisbol-oakland-athletics-vs-new-york-yankees-yankee-stadium-bronx-ny-usa_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17127,7 +17226,7 @@
   <programme start="20210619020000 +0000" stop="20210619030000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">UEFA Champions League Weekly</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
+    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-uefa-champions-league-weekly_l_l.jpg" />
     <rating system="IMdb">
       <value>Guía parental sugerida</value>
@@ -17136,7 +17235,7 @@
   <programme start="20210619030000 +0000" stop="20210619040000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Goles de Europa</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.(n)</desc>
+    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.</desc>
     <credits>
       <actor>Diego Muñoz</actor>
       <actor>Francisco Cánepa</actor>
@@ -17163,7 +17262,7 @@
   <programme start="20210619043000 +0000" stop="20210619053000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">ESPN Knockout</title>
     <sub-title lang="es">Boxeo</sub-title>
-    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_boxeo-espn-knockout_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -17172,7 +17271,7 @@
   <programme start="20210619053000 +0000" stop="20210619060000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Acción de la N.B.A.</title>
     <sub-title lang="es">Básquet</sub-title>
-    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.(n)</desc>
+    <desc lang="es">Todos los protagonistas, los mejores momentos de la liga de básquet mas importante del mundo, la NBA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_basquet-accion-de-la-n-b-a-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17181,7 +17280,7 @@
   <programme start="20210619060000 +0000" stop="20210619070000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Simplemente fútbol</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.(n)</desc>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.</desc>
     <credits>
       <actor>Enrique Wolff</actor>
     </credits>
@@ -17193,7 +17292,7 @@
   <programme start="20210619070000 +0000" stop="20210619090000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Blues vs. Highlanders</title>
     <sub-title lang="es">Rugby</sub-title>
-    <desc lang="es">Es el campeonato profesional de rugby más importante del Hemisferio Sur. En el torneo compiten 18 equipos: 5 de Australia, 6 de Sudáfrica, 5 de Nueva Zelanda, 1 de Argentina y 1 de Japón.(n)</desc>
+    <desc lang="es">Es el campeonato profesional de rugby más importante del Hemisferio Sur. En el torneo compiten 18 equipos: 5 de Australia, 6 de Sudáfrica, 5 de Nueva Zelanda, 1 de Argentina y 1 de Japón.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rugby-blues-vs-highlanders-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17201,7 +17300,7 @@
   </programme>
   <programme start="20210619090000 +0000" stop="20210619100000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">ESPN Playroom</title>
-    <desc lang="es">Un formato innovador conducido por Migue Granados, en compañía de artistas, músicos y deportistas. El Playroom de Migue busca captar a los protagonistas de cada show, las mejores anécdotas, la música en vivo y a la tribuna virtual.(n)</desc>
+    <desc lang="es">Un formato innovador conducido por Migue Granados, en compañía de artistas, músicos y deportistas. El Playroom de Migue busca captar a los protagonistas de cada show, las mejores anécdotas, la música en vivo y a la tribuna virtual.</desc>
     <credits>
       <actor>Migue Granados</actor>
     </credits>
@@ -17222,7 +17321,7 @@
   <programme start="20210619103000 +0000" stop="20210619113000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Goles de Europa</title>
     <sub-title lang="es">Fútbol</sub-title>
-    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.(n)</desc>
+    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.</desc>
     <credits>
       <actor>Diego Muñoz</actor>
       <actor>Francisco Cánepa</actor>
@@ -17241,7 +17340,7 @@
   <programme start="20210619113000 +0000" stop="20210619122500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">ESPN Knockout</title>
     <sub-title lang="es">Boxeo</sub-title>
-    <desc lang="es">Los mejores combates de boxeo y MMA.(n)</desc>
+    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_boxeo-espn-knockout_l_l.jpg" />
     <rating system="IMdb">
       <value>14+</value>
@@ -17250,7 +17349,7 @@
   <programme start="20210619122500 +0000" stop="20210619143000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Bristol Rugby vs. Harlequins</title>
     <sub-title lang="es">Rugby</sub-title>
-    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.(n)</desc>
+    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rugby-bristol-rugby-vs-harlequins_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17259,7 +17358,7 @@
   <programme start="20210619143000 +0000" stop="20210619152500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Scrum</title>
     <sub-title lang="es">Deportivo</sub-title>
-    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.(n)</desc>
+    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-scrum_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17268,7 +17367,7 @@
   <programme start="20210619152500 +0000" stop="20210619173000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Exeter Chiefs vs. Sale Sharks</title>
     <sub-title lang="es">Rugby</sub-title>
-    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.(n)</desc>
+    <desc lang="es">La Premiership Inglesa (conocida como Aviva Premiership) es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rugby-exeter-chiefs-vs-sale-sharks_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17277,7 +17376,7 @@
   <programme start="20210619173000 +0000" stop="20210619184000 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Clasificación - Fórmula 1</title>
     <sub-title lang="es">Automovilismo</sub-title>
-    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.(n)</desc>
+    <desc lang="es">Carreras clasificatorias de la competición automovilística internacional más popular.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_automovilismo-clasificacion-formula-1_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -17286,7 +17385,7 @@
   <programme start="20210619184000 +0000" stop="20210619204500 +0000" channel="DE | ESPN 3 SUR FHD">
     <title lang="es">Toulouse vs. Bordeaux</title>
     <sub-title lang="es">Rugby</sub-title>
-    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.(n)</desc>
+    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.</desc>
     <credits>
       <actor>Laurent Bellet</actor>
     </credits>
@@ -17299,7 +17398,7 @@
     <title lang="es">The 16th Man</title>
     <title lang="en">30 for 30</title>
     <sub-title lang="es">30 for 30</sub-title>
-    <desc lang="es">Un año después de que Sudáfrica terminó con el apartheid, el equipo de rugby casi blanco organizó la Copa Mundial de Rugby y Nelson Mandela fue su mayor fanático.(n)</desc>
+    <desc lang="es">Un año después de que Sudáfrica terminó con el apartheid, el equipo de rugby casi blanco organizó la Copa Mundial de Rugby y Nelson Mandela fue su mayor fanático.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_30-for-30-the-16th-man_l_l.jpg" />
     <episode-num system="onscreen">E0</episode-num>
     <rating system="IMdb">
@@ -17310,7 +17409,7 @@
     <title lang="es">This Magic Moment</title>
     <title lang="en">30 for 30</title>
     <sub-title lang="es">30 for 30</sub-title>
-    <desc lang="es">Serie de documentales presentado por los mejores narradores deportivos, con información del panorama competitivo desde 1979 hasta la actualidad.(n)</desc>
+    <desc lang="es">Serie de documentales presentado por los mejores narradores deportivos, con información del panorama competitivo desde 1979 hasta la actualidad.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_30-for-30-this-magic-moment_l_l.jpg" />
     <episode-num system="onscreen">E0</episode-num>
     <rating system="IMdb">
@@ -17321,7 +17420,7 @@
     <title lang="es">Believeland</title>
     <title lang="en">30 for 30</title>
     <sub-title lang="es">30 for 30</sub-title>
-    <desc lang="es">Hay un lugar especial en la orilla sur del lago Erie, en la desembocadura del río Cuyahoga, donde vive un grupo especial de fanáticos y no importa lo que les hagan la tribu, los Cavs y los Browns, siempre creen.(n)</desc>
+    <desc lang="es">Hay un lugar especial en la orilla sur del lago Erie, en la desembocadura del río Cuyahoga, donde vive un grupo especial de fanáticos y no importa lo que les hagan la tribu, los Cavs y los Browns, siempre creen.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_30-for-30-believeland_l_l.jpg" />
     <episode-num system="onscreen">E0</episode-num>
     <rating system="IMdb">
