@@ -1,0 +1,3812 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CINE PREMIUM | HBO XTREME SD">
+    <display-name lang="es">CINE PREMIUM | HBO XTREME SD</display-name>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/hboxtreme.jpg" />
+    <url>http://www.zappingtv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO Signature SD">
+    <display-name lang="es">CINE PREMIUM | HBO Signature SD</display-name>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/hbosignature.jpg" />
+    <url>http://www.zappingtv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO SD">
+    <display-name lang="es">CINE PREMIUM | HBO SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO Pop SD">
+    <display-name lang="es">CINE PREMIUM | HBO Pop SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO Mundi SD">
+    <display-name lang="es">CINE PREMIUM | HBO Mundi SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO 2 SD">
+    <display-name lang="es">CINE PREMIUM | HBO 2 SD</display-name>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/hbo2.jpg" />
+    <url>http://www.zappingtv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO Family SD">
+    <display-name lang="es">CINE PREMIUM | HBO Family SD</display-name>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/hbofamily.jpg" />
+    <url>http://www.zappingtv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | HBO Plus SD">
+    <display-name lang="es">CINE PREMIUM | HBO Plus SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | STAR CHANNEL SD">
+    <display-name lang="es">CINE PREMIUM | STAR CHANNEL SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | STAR LIFE SD">
+    <display-name lang="es">CINE PREMIUM | STAR LIFE SD</display-name>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/star-life.jpg" />
+    <url>http://www.zappingtv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | A&amp;E SD">
+    <display-name lang="es">CINE PREMIUM | A&amp;E SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINE PREMIUM | Cinemax SD">
+    <display-name lang="es">CINE PREMIUM | Cinemax SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20220205194000 -0300" stop="20220205220000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Inquebrantable</title>
+    <desc lang="es">Durante la Segunda Guerra Mundial, el olímpico y héroe de guerra Louis Zamperini sobrevive 47 días en el mar en una balsa, solo para ser capturado por la armada japonesa y ser enviado a un campo de prisioneros. Durante la Segunda Guerra Mundial, el olímpico y héroe de guerra Louis Zamperini sobrevive 47 días en el mar en una balsa, solo para ser capturado por la armada japonesa y ser enviado a un campo de prisioneros.(n)</desc>
+    <credits>
+      <actor>Jack O'Connell</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Finn Wittrock</actor>
+      <actor>Maddalena Ischiale</actor>
+      <actor>John Magaro</actor>
+      <actor>Louis McIntosh</actor>
+      <actor>C.J. Valleroy</actor>
+      <actor>Alex Russell</actor>
+      <actor>Spencer Lofranco</actor>
+      <actor>Marcus Vanco</actor>
+      <producer>Matthew Baer</producer>
+      <producer>Clayton Townsend</producer>
+      <producer>Thomas Tull</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Biografía</category>
+    <icon src="https://milhouse.zapping.live/assets/p10570028_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220205220000 -0300" stop="20220205235900 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Let Him Go</title>
+    <desc lang="es">Tras la muerte de su único hijo, un sheriff jubilado y su esposa viajan a Dakota para asumir la custodia de su nieto, ya que la nuera se casó con otro hombre. Sin embargo, la poderosa familia que lo tutela se niega a entregárselo. Tras la muerte de su único hijo, un sheriff jubilado y su esposa viajan a Dakota para asumir la custodia de su nieto, ya que la nuera se casó con otro hombre. Sin embargo, la poderosa familia que lo tutela se niega a entregárselo.(n)</desc>
+    <credits>
+      <actor>Diane Lane</actor>
+      <actor>Kayli Carter</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Will Brittain</actor>
+      <actor>Greg Lawson</actor>
+      <producer>Paula Mazur</producer>
+      <producer>Thomas Bezucha</producer>
+      <producer>Josh McLaughlin</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p17721980_i_h8_af.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220205235900 -0300" stop="20220206015400 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Our Kind of Traitor</title>
+    <desc lang="es">Un hombre que lava dinero para la mafia rusa pide a una pareja inglesa que está de vacaciones en Marruecos que entregue información a un agente del MI6, el servicio secreto británico. Un hombre que lava dinero para la mafia rusa pide a una pareja inglesa que está de vacaciones en Marruecos que entregue información a un agente del MI6, el servicio secreto británico.(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Mark Gatiss</actor>
+      <actor>Alicia von Rittberg</actor>
+      <actor>Mark Stanley</actor>
+      <actor>Marek Oravec</actor>
+      <producer>John le Carré</producer>
+      <producer>Sam Lavender</producer>
+      <producer>Ron Halpern</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p12769591_i_h10_ae.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206015400 -0300" stop="20220206034200 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Sé lo que hicieron el verano pasado</title>
+    <desc lang="es">Cuatro chicos de Carolina del Norte sufren las consecuencias de que un asesino descubra sus secretos más íntimos. Cuatro chicos de Carolina del Norte sufren las consecuencias de que un asesino descubra sus secretos más íntimos.(n)</desc>
+    <credits>
+      <actor>Jennifer Hewitt</actor>
+      <actor>Ryan Phillippe</actor>
+      <actor>Muse Watson</actor>
+      <actor>Bridgette Wilson</actor>
+      <producer>Stokely Chaffin</producer>
+      <producer>Erik Feig</producer>
+      <producer>William Beasley</producer>
+    </credits>
+    <date>1997</date>
+    <category lang="es">Horror</category>
+    <icon src="https://milhouse.zapping.live/assets/p19990_i_h10_ab.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206034200 -0300" stop="20220206060000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Los federales</title>
+    <desc lang="es">El agente Mark Sheridan es arrestado por un presunto asesinato. Es trasladado en avión, pero se realiza un aterrizaje de emergencia en el río Ohio y Sheridan se escapa. El oficial federal Sam Gerard y su equipo inician la búsqueda del fugitivo. El agente Mark Sheridan es arrestado por un presunto asesinato. Es trasladado en avión, pero se realiza un aterrizaje de emergencia en el río Ohio y Sheridan se escapa. El oficial federal Sam Gerard y su equipo inician la búsqueda del fugitivo.(n)</desc>
+    <credits>
+      <actor>Tommy Jones</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Daniel Roebuck</actor>
+      <actor>LaTanya Richardson</actor>
+      <producer>Keith Barish</producer>
+      <producer>Glenn Côté</producer>
+      <producer>Roy Huggins</producer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p20797_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206081800 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Asesinos</title>
+    <desc lang="es">Robert Rath es un combatiente en un campo de batalla que la mayoría de la gente apenas sabe que existe, allí es donde practica un juego mortal en el que los jugadores están sentenciados y la única salida es una bala. Robert Rath es un combatiente en un campo de batalla que la mayoría de la gente apenas sabe que existe, allí es donde practica un juego mortal en el que los jugadores están sentenciados y la única salida es una bala.(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Muse Watson</actor>
+      <actor>Kelly Rowan</actor>
+      <actor>Kai Wulff</actor>
+      <producer>Dino De Laurentiis</producer>
+      <producer>Richard Donner</producer>
+      <producer>Andrew Lazar</producer>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p17229_i_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206081800 -0300" stop="20220206100100 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Asesino ninja</title>
+    <desc lang="es">Un asesino une fuerzas con una agente de la Europol a quien le había salvado la vida para atrapar al grupo de asesinos profesionales que lo entrenó. Un asesino une fuerzas con una agente de la Europol a quien le había salvado la vida para atrapar al grupo de asesinos profesionales que lo entrenó.(n)</desc>
+    <credits>
+      <actor>Rain</actor>
+      <actor>Ben Miles</actor>
+      <actor>Shô Kosugi</actor>
+      <actor>Stephen Marcus</actor>
+      <actor>Randall Kim</actor>
+      <actor>Eleonore Weisgerber</actor>
+      <actor>Kai Rieck</actor>
+      <actor>Sungwoong Yoon</actor>
+      <producer>Grant Hill</producer>
+      <producer>Andy Wachowski</producer>
+      <producer>Jon Jashni</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p182349_i_h10_aa.jpg" />
+    <rating>
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20220206100100 -0300" stop="20220206113200 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Lucy</title>
+    <desc lang="es">Lucy, una joven que ejerce de "mula" para unos narcotraficantes, adquiere poderes sobrenaturales tras romperse una de las bolsas de droga que transporta y absorber los estupefacientes. Lucy, una joven que ejerce de "mula" para unos narcotraficantes, adquiere poderes sobrenaturales tras romperse una de las bolsas de droga que transporta y absorber los estupefacientes.(n)</desc>
+    <credits>
+      <actor>Scarlett Johansson</actor>
+      <actor>Choi Min-sik</actor>
+      <actor>Julian Rhind-Tutt</actor>
+      <actor>Analeigh Tipton</actor>
+      <actor>Jan Schroeder</actor>
+      <producer>Virginie Besson-Silla</producer>
+      <producer>Simon Descamps</producer>
+      <producer>Marc Shmuger</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p10479310_i_h8_ab.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206113200 -0300" stop="20220206140700 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Wonder Woman 1984</title>
+    <desc lang="es">Diana Prince, conocida como Mujer Maravilla, se enfrenta a una villana que posee fuerza y agilidad sobrehumanas. Diana Prince, conocida como Mujer Maravilla, se enfrenta a una villana que posee fuerza y agilidad sobrehumanas.(n)</desc>
+    <credits>
+      <actor>Gal Gadot</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Robin Wright</actor>
+      <actor>Lilly Aspell</actor>
+      <actor>Kristoffer Polaha</actor>
+      <actor>Ravi Patel</actor>
+      <actor>Lucian Perez</actor>
+      <actor>Kelvin Yu</actor>
+      <actor>Shane Attwooll</actor>
+      <actor>Kevin Wallace</actor>
+      <actor>Doutzen Kroes</actor>
+      <actor>Betty Adewole</actor>
+      <producer>Charles Roven</producer>
+      <producer>Zack Snyder</producer>
+      <producer>Gal Gadot</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p14568836_i_h8_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206140700 -0300" stop="20220206160700 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Invasión del mundo - Batalla: Los Ángeles</title>
+    <desc lang="es">Después de la caída de las ciudades alrededor del mundo por parte de alienígenas invasores, un grupo de soldados estadounidenses hacen el último esfuerzo para vencerlos. Después de la caída de las ciudades alrededor del mundo por parte de alienígenas invasores, un grupo de soldados estadounidenses hacen el último esfuerzo para vencerlos.(n)</desc>
+    <credits>
+      <actor>Aaron Eckhart</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Ne-Yo</actor>
+      <actor>Lucas Till</actor>
+      <actor>Adetokumboh M'Cormack</actor>
+      <actor>Will Rothhaar</actor>
+      <actor>Noel Fisher</actor>
+      <actor>James Liao</actor>
+      <actor>Joey King</actor>
+      <actor>Jadin Gould</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>Jeffrey Chernov</producer>
+      <producer>Ori Marmur</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://milhouse.zapping.live/assets/p8288118_i_h10_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206160700 -0300" stop="20220206182200 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Battleship: batalla naval</title>
+    <desc lang="es">El descubrimiento de un planeta extrasolar con condiciones similares a las de la Tierra desencadena en una épica batalla con una armada de origen desconocido. El descubrimiento de un planeta extrasolar con condiciones similares a las de la Tierra desencadena en una épica batalla con una armada de origen desconocido.(n)</desc>
+    <credits>
+      <actor>Taylor Kitsch</actor>
+      <actor>Rihanna</actor>
+      <actor>Tadanobu Asano</actor>
+      <actor>Hamish Linklater</actor>
+      <actor>John Tui</actor>
+      <actor>Joji Yoshida</actor>
+      <actor>Adam Godley</actor>
+      <actor>Peter MacNicol</actor>
+      <producer>Scott Stuber</producer>
+      <producer>Sarah Aubrey</producer>
+      <producer>Bennett Schneir</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://milhouse.zapping.live/assets/p8777089_i_h8_ac.jpg" />
+    <rating>
+      <value>10+</value>
+    </rating>
+  </programme>
+  <programme start="20220206182200 -0300" stop="20220206203000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Oblivion: El tiempo del olvido</title>
+    <desc lang="es">Jack Harper y Victoria Olsen son los únicos habitantes de la Tierra, destruida hace sesenta años. Harper, un mecánico de aviación, rescata a una mujer antes de abandonar la Tierra para siempre e inicia una batalla para salvar a la humanidad. Jack Harper y Victoria Olsen son los únicos habitantes de la Tierra, destruida hace sesenta años. Harper, un mecánico de aviación, rescata a una mujer antes de abandonar la Tierra para siempre e inicia una batalla para salvar a la humanidad.(n)</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Olga Kurylenko</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Zoe Bell</actor>
+      <actor>David Madison</actor>
+      <producer>Dylan Clark</producer>
+      <producer>Duncan Henderson</producer>
+      <producer>Dave Morrison</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://milhouse.zapping.live/assets/p9344844_i_h8_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206203000 -0300" stop="20220206220100 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Lucy</title>
+    <desc lang="es">Lucy, una joven que ejerce de "mula" para unos narcotraficantes, adquiere poderes sobrenaturales tras romperse una de las bolsas de droga que transporta y absorber los estupefacientes. Lucy, una joven que ejerce de "mula" para unos narcotraficantes, adquiere poderes sobrenaturales tras romperse una de las bolsas de droga que transporta y absorber los estupefacientes.(n)</desc>
+    <credits>
+      <actor>Scarlett Johansson</actor>
+      <actor>Choi Min-sik</actor>
+      <actor>Julian Rhind-Tutt</actor>
+      <actor>Analeigh Tipton</actor>
+      <actor>Jan Schroeder</actor>
+      <producer>Virginie Besson-Silla</producer>
+      <producer>Simon Descamps</producer>
+      <producer>Marc Shmuger</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p10479310_i_h8_ab.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220205183300 -0300" stop="20220205195700 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Preguntas Frecuentes Sobre el Viaje en el Tiempo</title>
+    <desc lang="es">Tres inadaptados sociales intentan resolver el problema de un viaje por el tiempo en un bar local. Tres inadaptados sociales intentan resolver el problema de un viaje por el tiempo en un bar local.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Marc Wootton</actor>
+      <actor>Chris O'Dowd</actor>
+      <actor>Ray Gardner</actor>
+      <producer>Joe Oppenheimer</producer>
+      <producer>Justin Smith</producer>
+      <producer>Neil Peplow</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p3530335_i_h10_ae.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220205195700 -0300" stop="20220205210000 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Habla Now</title>
+    <desc lang="es">Celebridades y personalidades inspiradoras de Latinoamérica hablan sobre su identidad y sus experiencias. Celebridades y personalidades inspiradoras de Latinoamérica hablan sobre su identidad y sus experiencias.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p18664215_b_h11_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220205210000 -0300" stop="20220205220300 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Euphoria</title>
+    <desc lang="es">Un grupo de estudiantes de secundaria navega entre drogas, relaciones sexuales, traumas, redes sociales, amor y amistad. Un grupo de estudiantes de secundaria navega entre drogas, relaciones sexuales, traumas, redes sociales, amor y amistad.(n)</desc>
+    <credits>
+      <actor>Zendaya</actor>
+      <actor>Angus Cloud</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Barbie Ferreira</actor>
+      <actor>Storm Reid</actor>
+      <actor>Algee Smith</actor>
+      <producer>Drake</producer>
+      <producer>Sam Levinson</producer>
+      <producer>Kevin Turen</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p16792512_b_h8_ad.jpg" />
+    <rating>
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20220205220300 -0300" stop="20220205225800 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Mil colmillos</title>
+    <desc lang="es">Pardo lucha por sobrevivir. El grupo de Rojas se encuentra con un extraño temeroso cuando intenta salvar la vida de Trébol. Pardo lucha por sobrevivir. El grupo de Rojas se encuentra con un extraño temeroso cuando intenta salvar la vida de Trébol.(n)</desc>
+    <credits>
+      <actor>Carlos Marino</actor>
+      <actor>Alejandro Buitrago</actor>
+      <actor>Jarlín Martinez</actor>
+      <actor>Sebastián Carvajal</actor>
+      <producer>Federico Durán</producer>
+    </credits>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p17637741_b_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220205225800 -0300" stop="20220205234900 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">La edad dorada</title>
+    <desc lang="es">Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha. Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha.(n)</desc>
+    <credits>
+      <director>Julian Fellowes</director>
+      <actor>Christine Baranski</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Denée Benton</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Simon Jones</actor>
+      <actor>Thomas Cocquerel</actor>
+      <producer>Julian Fellowes</producer>
+      <producer>Michael Engler</producer>
+      <producer>David Crockett</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama Histórico</category>
+    <icon src="https://milhouse.zapping.live/assets/p15123309_b_h8_ah.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220205234900 -0300" stop="20220206004900 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Todos mienten</title>
+    <desc lang="es">La vida de los vecinos de Belmonte cambia radicalmente el día en que aparece en las redes un video sexual de Macarena, profesora de la escuela, con Iván, uno de sus alumnos mayor de edad. Las cosas se complican cuando aparece un cuerpo sin vida. La vida de los vecinos de Belmonte cambia radicalmente el día en que aparece en las redes un video sexual de Macarena, profesora de la escuela, con Iván, uno de sus alumnos mayor de edad. Las cosas se complican cuando aparece un cuerpo sin vida.(n)</desc>
+    <credits>
+      <actor>Juan Diego Botto</actor>
+      <actor>Leonardo Sbaraglia</actor>
+      <actor>Natalia Verbeke</actor>
+      <actor>Carmen Arrufat</actor>
+      <actor>Berta Castañé</actor>
+      <actor>Jorge Bosch</actor>
+      <actor>Lucas Nabor</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p21151061_b_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206004900 -0300" stop="20220206022800 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">El periodista: La vida de Ben Bradlee</title>
+    <desc lang="es">Material de archivo, películas caseras, fotografías y diferentes entrevistas proporcionan un vistazo a la vida y obra del periodista Ben Bradlee. Material de archivo, películas caseras, fotografías y diferentes entrevistas proporcionan un vistazo a la vida y obra del periodista Ben Bradlee.(n)</desc>
+    <credits>
+      <actor>Bob Woodward</actor>
+      <actor>Quinn Bradlee</actor>
+      <actor>David Maraniss</actor>
+      <actor>Don Graham</actor>
+      <actor>Henry Kissinger</actor>
+      <actor>Jim Hoagland</actor>
+      <actor>John Dean</actor>
+      <actor>Richard Cohen</actor>
+      <actor>Robert Redford</actor>
+      <actor>Sally Quinn</actor>
+      <actor>Tom Brokaw</actor>
+      <producer>Richard Cohen</producer>
+      <producer>George Kunhardt</producer>
+      <producer>Quinn Bradlee</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p14734646_b_h8_ao.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206022800 -0300" stop="20220206033900 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Lil Rel Howery: En vivo desde Crenshaw</title>
+    <desc lang="es">El actor y comediante, Lil Rel Howery relata sus experiencias personales y comenta sobre algunas de sus inquietudes más profundas. El actor y comediante, Lil Rel Howery relata sus experiencias personales y comenta sobre algunas de sus inquietudes más profundas.(n)</desc>
+    <credits>
+      <actor>Lil Rel Howery</actor>
+      <producer>Lil Rel Howery</producer>
+      <producer>Bo Burnham</producer>
+      <producer>Jeff Tomsic</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p17492023_b_h10_ag.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206033900 -0300" stop="20220206060000 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Cobain</title>
+    <desc lang="es">El cineasta Brett Morgen usa material de archivos personales de Kurt Cobain haciendo un examen en profundidad de la infancia, su carrera musical como cantante de Nirvana y su muerte prematura. El cineasta Brett Morgen usa material de archivos personales de Kurt Cobain haciendo un examen en profundidad de la infancia, su carrera musical como cantante de Nirvana y su muerte prematura.(n)</desc>
+    <credits>
+      <actor>Aaron Burckhard</actor>
+      <actor>Jenny Cobain</actor>
+      <actor>Jason Everman</actor>
+      <actor>Tracey Marander</actor>
+      <producer>Brett Morgen</producer>
+      <producer>Sheila Nevins</producer>
+      <producer>Lawrence Mestel</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p11479200_i_h8_ac.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206070500 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Here and Now</title>
+    <desc lang="es">Se aproxima el 60o. cumpleaños del profesor de Filosofía Greg Bishop y comienzan a verse las imperfecciones en su aparentemente perfecta familia interracial. Se aproxima el 60o. cumpleaños del profesor de Filosofía Greg Bishop y comienzan a verse las imperfecciones en su aparentemente perfecta familia interracial.(n)</desc>
+    <credits>
+      <actor>Holly Hunter</actor>
+      <actor>Jerrika Hinton</actor>
+      <actor>Daniel Zovatto</actor>
+      <actor>Joe Williamson</actor>
+      <actor>Peter Macdissi</actor>
+      <producer>Alan Ball</producer>
+      <producer>David Knoller</producer>
+      <producer>Peter Macdissi</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Comedia Dramática</category>
+    <icon src="https://milhouse.zapping.live/assets/p14947197_e_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206070500 -0300" stop="20220206082000 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Finales alternativos: Seis nuevas maneras de morir en los EE. UU.</title>
+    <desc lang="es">Seis historias de personas a punto de morir y de familiares de fallecidos recientes que eligieron formas no tradicionales para terminar con sus vidas. Seis historias de personas a punto de morir y de familiares de fallecidos recientes que eligieron formas no tradicionales para terminar con sus vidas.(n)</desc>
+    <credits>
+      <producer>Perri Peltz</producer>
+      <producer>Leah Williams</producer>
+      <producer>Sheila Nevins</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p17100447_i_h8_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206082000 -0300" stop="20220206100000 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">Los Últimos Días</title>
+    <desc lang="es">Una estrella (Michael Pitt) de rock de Seattle, adicto a las drogas, continúa con su destrucción. Una estrella (Michael Pitt) de rock de Seattle, adicto a las drogas, continúa con su destrucción.(n)</desc>
+    <credits>
+      <actor>Michael Pitt</actor>
+      <actor>Asia Argento</actor>
+      <actor>Nicole Vicius</actor>
+      <actor>Ryan Orion</actor>
+      <actor>Kim Gordon</actor>
+      <actor>Andy Friberg</actor>
+      <actor>Chip Marks</actor>
+      <producer>Gus Van Sant</producer>
+      <producer>Dany Wolf</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p36338_i_h10_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206100000 -0300" stop="20220206110200 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">Sarah separa a su esposa Maggie y su hijo adolescente Fraser de sus vidas en la ciudad de Nueva York para mudarse a Chioggia, Italia. Fraser no siente interés por acercarse a los otros adolescentes de su nuevo hogar hasta que conoce a Caitlin. Sarah separa a su esposa Maggie y su hijo adolescente Fraser de sus vidas en la ciudad de Nueva York para mudarse a Chioggia, Italia. Fraser no siente interés por acercarse a los otros adolescentes de su nuevo hogar hasta que conoce a Caitlin.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18605766_e_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206110200 -0300" stop="20220206115600 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">El período de Caitlin intensifica su deseo de experimentar con su expresión de género, probar los límites de la relación con su novio y entrenar con su padre. Fraser descubre el secreto de Caitlin y la naturaleza de su vínculo cambia definitivamente. El período de Caitlin intensifica su deseo de experimentar con su expresión de género, probar los límites de la relación con su novio y entrenar con su padre. Fraser descubre el secreto de Caitlin y la naturaleza de su vínculo cambia definitivamente.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18639964_e_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206115600 -0300" stop="20220206125700 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">Tras la ruptura de Caitlin y Sam, la amistad del grupo empieza a fragmentarse. La coronel Wilson decide movilizar a sus tropas antes de lo previsto, mientras la compleja relación que la une a Fraser se vuelve todavía más convulsa. Tras la ruptura de Caitlin y Sam, la amistad del grupo empieza a fragmentarse. La coronel Wilson decide movilizar a sus tropas antes de lo previsto, mientras la compleja relación que la une a Fraser se vuelve todavía más convulsa.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18639965_e_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206125700 -0300" stop="20220206135100 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">Dado que debe dejar la base antes de lo previsto, Craig le propone matrimonio a Valentina, su novia italiana. Los amigos de Craig celebran una boda temática hawaiana que desemboca en una noche de desenfrenos. Dado que debe dejar la base antes de lo previsto, Craig le propone matrimonio a Valentina, su novia italiana. Los amigos de Craig celebran una boda temática hawaiana que desemboca en una noche de desenfrenos.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18683500_e_h8_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206135100 -0300" stop="20220206145400 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">Mientras Sarah y Richard compiten por el poder, la relación entre sus esposas se vuelve cada vez más cercana. Caitlin le pide ayuda a Fraser. Danny le hace preguntas a Jenny sobre su padre biológico, y se acerca más al islam. Mientras Sarah y Richard compiten por el poder, la relación entre sus esposas se vuelve cada vez más cercana. Caitlin le pide ayuda a Fraser. Danny le hace preguntas a Jenny sobre su padre biológico, y se acerca más al islam.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18683502_e_h8_ad.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206145400 -0300" stop="20220206154700 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">Sarah se pone muy contenta cuando se entera de que Jonathan se está haciendo amigo de su hijo. Richard aprovecha un viaje de caza con Caitlin para intentar manipularla. Sarah recibe una llamada que va a cambiar la vida en la base para siempre. Sarah se pone muy contenta cuando se entera de que Jonathan se está haciendo amigo de su hijo. Richard aprovecha un viaje de caza con Caitlin para intentar manipularla. Sarah recibe una llamada que va a cambiar la vida en la base para siempre.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18683511_e_h8_ae.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206154700 -0300" stop="20220206170500 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">El grupo de amigos queda aún más dividido por su odio al coronel Wilson. Caitlin le pone pausa temporalmente a su viaje de autodescubrimiento, pero Danny está dispuesto a seguir con el suyo. La insubordinación de Richard llega al punto culmine. El grupo de amigos queda aún más dividido por su odio al coronel Wilson. Caitlin le pone pausa temporalmente a su viaje de autodescubrimiento, pero Danny está dispuesto a seguir con el suyo. La insubordinación de Richard llega al punto culmine.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18683545_e_h8_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206170500 -0300" stop="20220206181000 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">We Are Who We Are</title>
+    <desc lang="es">Para cerrar su estadía en Italia, Caitlin y Fraser se escapan para ir a un concierto en Bolonia. Fraser se siente cómodo contando un secreto impactante sobre Mark. Para cerrar su estadía en Italia, Caitlin y Fraser se escapan para ir a un concierto en Bolonia. Fraser se siente cómodo contando un secreto impactante sobre Mark.(n)</desc>
+    <credits>
+      <actor>Chloë Sevigny</actor>
+      <actor>Alice Braga</actor>
+      <actor>Spence Moore II</actor>
+      <actor>Faith Alabi</actor>
+      <actor>Ben Taylor</actor>
+      <actor>Tom Mercier</actor>
+      <actor>Beatrice Barichella</actor>
+      <producer>Lorenzo Mieli</producer>
+      <producer>Elena Recchia</producer>
+      <producer>Sean Conway</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18785475_e_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206181000 -0300" stop="20220206193400 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">La edad dorada</title>
+    <desc lang="es">Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha. Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha.(n)</desc>
+    <credits>
+      <director>Julian Fellowes</director>
+      <actor>Christine Baranski</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Denée Benton</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Simon Jones</actor>
+      <actor>Thomas Cocquerel</actor>
+      <producer>Julian Fellowes</producer>
+      <producer>Michael Engler</producer>
+      <producer>David Crockett</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama Histórico</category>
+    <icon src="https://milhouse.zapping.live/assets/p15123309_b_h8_ah.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206193400 -0300" stop="20220206203700 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">La edad dorada</title>
+    <desc lang="es">Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha. Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha.(n)</desc>
+    <credits>
+      <director>Julian Fellowes</director>
+      <actor>Christine Baranski</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Denée Benton</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Simon Jones</actor>
+      <actor>Thomas Cocquerel</actor>
+      <producer>Julian Fellowes</producer>
+      <producer>Michael Engler</producer>
+      <producer>David Crockett</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama Histórico</category>
+    <icon src="https://milhouse.zapping.live/assets/p15123309_b_h8_ah.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206203700 -0300" stop="20220206223500 -0300" channel="CINE PREMIUM | HBO Signature SD">
+    <title lang="es">El cuento</title>
+    <desc lang="es">La madre de una periodista encuentra una historia que la periodista escribió cuando tenía 13 años acerca de su primera relación sexual, lo que lleva a la periodista a regresar a donde nació y analizar sus recuerdos. La madre de una periodista encuentra una historia que la periodista escribió cuando tenía 13 años acerca de su primera relación sexual, lo que lleva a la periodista a regresar a donde nació y analizar sus recuerdos.(n)</desc>
+    <credits>
+      <actor>Laura Dern</actor>
+      <actor>Laura Allen</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Tina Parker</actor>
+      <actor>Isabelle Nélisse</actor>
+      <actor>Chelsea Alden</actor>
+      <producer>Laura Rister</producer>
+      <producer>Sol Bondy</producer>
+      <producer>Mynette Louie</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p15392341_i_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220205000500 -0300" stop="20220205010000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Batwoman</title>
+    <desc lang="es">Cuando Batman desaparece de ciudad Gótica, Kate Kane llega a la ciudad para proteger las calles como Batwoman y convertirse en una nueva esperanza.(n)</desc>
+    <credits>
+      <actor>Ruby Rose</actor>
+      <actor>Meagan Tandy</actor>
+      <actor>Camrus Johnson</actor>
+      <actor>Nicole Kang</actor>
+      <actor>Rachel Skarsten</actor>
+      <actor>Dougray Scott</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/batwoman.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220205010000 -0300" stop="20220205034000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Dune (2021)</title>
+    <title lang="xx">Dune</title>
+    <desc lang="es">Un joven brillante y talentoso con un gran destino debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su gente.(n)</desc>
+    <credits>
+      <actor>Timothée Chalamet</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Oscar Isaac</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Stephen McKinley Henderson</actor>
+      <actor>Zendaya</actor>
+      <writer>"Dune" de Frank Herbert</writer>
+      <producer>Cale Boyter</producer>
+      <producer>Joe Caracciolo Jr.</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/duna_2021.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Hungría</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205034000 -0300" stop="20220205054000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">El Conjuro 3: El Diablo me Obligó a Hacerlo</title>
+    <desc lang="es">Ed y Lorrain Warren, dos experimentados investigadores paranormales, son llevados a un caso que podría estar relacionado con una posesión demoniaca.(n)</desc>
+    <credits>
+      <actor>Vera Farmiga</actor>
+      <actor>Megan Ashley Brown</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Mitchell Hoog</actor>
+      <actor>Ruairi O'Connor</actor>
+      <actor>Sarah Catherine Hook</actor>
+      <actor>Julian Hilliard</actor>
+      <producer>James Wan</producer>
+      <producer>Peter Safran</producer>
+      <composer>Joseph Bishara</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_conjuro_3_el_diablo_me_obligo_a_hacerlo.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205054000 -0300" stop="20220205072500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Ruega por Nosotros</title>
+    <title lang="xx">The Unholy</title>
+    <desc lang="es">Un periodista busca entrevistar a una joven de un pequeño pueblo de Nueva Inglaterra que puede hacer milagros tras haber sido visitada por la Virgen María.(n)</desc>
+    <credits>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Katie Aselton</actor>
+      <actor>William Sadler</actor>
+      <actor>Diogo Morgado</actor>
+      <actor>Cricket Brown</actor>
+      <actor>Cary Elwes</actor>
+      <writer>"Shrine" de James Herbert</writer>
+      <producer>Sam Raimi</producer>
+      <producer>Robert Tapert</producer>
+      <composer>Joseph Bishara</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ruega_por_nosotros.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205072500 -0300" stop="20220205090000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Robos en los suburbios</title>
+  </programme>
+  <programme start="20220205090000 -0300" stop="20220205113000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Diamante de sangre</title>
+  </programme>
+  <programme start="20220205113000 -0300" stop="20220205133000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Godzilla vs. Kong</title>
+    <title lang="xx">Godzilla vs. Kong</title>
+    <desc lang="es">El choque entre estos dos titanes es inevitable cuando Godzilla se interpone en el viaje de Kong y sus protectores mientras buscan su verdadero hogar.(n)</desc>
+    <credits>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Millie Bobby Brown</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Shun Oguri</actor>
+      <actor>Eiza González</actor>
+      <actor>Julian Dennison</actor>
+      <actor>Kyle Chandler</actor>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <composer>Tom Holkenborg</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla_vs_kong.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205133000 -0300" stop="20220205152500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">El camino de regreso</title>
+  </programme>
+  <programme start="20220205152500 -0300" stop="20220205163000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">La Edad Dorada</title>
+    <title lang="xx">The Gilded Age</title>
+    <desc lang="es">Después de la muerte de su padre, una joven se muda de la zona rural de Pensilvania a la ciudad de Nueva York para vivir con sus viejas tías acaudaladas.(n)</desc>
+    <credits>
+      <actor>Christine Baranski</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Morgan Spector</actor>
+      <actor>Denée Benton</actor>
+      <actor>Louisa Jacobson</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Blake Ritson</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_edad_dorada.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220205163000 -0300" stop="20220205190500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Tenet</title>
+    <title lang="xx">Tenet</title>
+    <desc lang="es">Un hombre debe viajar a través de un mundo crepuscular de espionaje internacional en una misión que se desarrollará en algo más allá del tiempo real.(n)</desc>
+    <credits>
+      <actor>John David Washington</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Dimple Kapadia</actor>
+      <actor>Michael Caine</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Clémence Poésy</actor>
+      <producer>Emma Thomas</producer>
+      <producer>Christopher Nolan</producer>
+      <composer>Ludwig Göransson</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/tenet.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205190500 -0300" stop="20220205211500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <title lang="xx">Bad Boys for Life</title>
+    <desc lang="es">Los tenientes detectives Michael "Mike" Lowrey y Marcus Burnett vuelven a estar juntos para un último viaje en el muy esperado Bad Boys Para Siempre.(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Alexander Ludwig</actor>
+      <actor>Charles Melton</actor>
+      <actor>Paola Núñez</actor>
+      <actor>Kate del Castillo</actor>
+      <actor>Nicky Jam</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Will Smith</producer>
+      <composer>Lorne Balfe</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/bad_boys_para_siempre.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205211500 -0300" stop="20220205230000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Grandes Espías</title>
+    <title lang="xx">My Spy</title>
+    <desc lang="es">Un agente de la CIA se encuentra a merced de una niña de 9 años. A cambio de no revelar su identidad lo convence para que le enseñe a ser una espía.(n)</desc>
+    <credits>
+      <actor>Dave Bautista</actor>
+      <actor>Chloe Coleman</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>Parisa Fitz-Henley</actor>
+      <actor>Ken Jeong</actor>
+      <producer>Dave Bautista</producer>
+      <producer>Peter Segal</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/grandes_espias.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205230000 -0300" stop="20220206010000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Godzilla vs. Kong</title>
+    <title lang="xx">Godzilla vs. Kong</title>
+    <desc lang="es">El choque entre estos dos titanes es inevitable cuando Godzilla se interpone en el viaje de Kong y sus protectores mientras buscan su verdadero hogar.(n)</desc>
+    <credits>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Millie Bobby Brown</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Shun Oguri</actor>
+      <actor>Eiza González</actor>
+      <actor>Julian Dennison</actor>
+      <actor>Kyle Chandler</actor>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <composer>Tom Holkenborg</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla_vs_kong.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220206230000 -0300" stop="20220207010000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Godzilla vs. Kong</title>
+    <title lang="xx">Godzilla vs. Kong</title>
+    <desc lang="es">El choque entre estos dos titanes es inevitable cuando Godzilla se interpone en el viaje de Kong y sus protectores mientras buscan su verdadero hogar.(n)</desc>
+    <credits>
+      <actor>Alexander Skarsgård</actor>
+      <actor>Millie Bobby Brown</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Shun Oguri</actor>
+      <actor>Eiza González</actor>
+      <actor>Julian Dennison</actor>
+      <actor>Kyle Chandler</actor>
+      <producer>Thomas Tull</producer>
+      <producer>Jon Jashni</producer>
+      <composer>Tom Holkenborg</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/godzilla_vs_kong.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220207010000 -0300" stop="20220207030500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">El día del fin del mundo</title>
+  </programme>
+  <programme start="20220207030500 -0300" stop="20220207052500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Midway: Batalla en el Pacífico</title>
+    <title lang="xx">Midway</title>
+    <desc lang="es">Después de presenciar el devastador ataque sorpresa a Pearl Harbor, un piloto y su escuadrón planean un contrataque al imponente ejército japonés.(n)</desc>
+    <credits>
+      <actor>Ed Skrein</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Luke Evans</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Nick Jonas</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Woody Harrelson</actor>
+      <producer>Roland Emmerich</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Harald Kloser</composer>
+      <composer>Thomas Wander</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/midway_batalla_en_el_pacifico.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220207052500 -0300" stop="20220207073000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Bad Boys Para Siempre</title>
+    <title lang="xx">Bad Boys for Life</title>
+    <desc lang="es">Los tenientes detectives Michael "Mike" Lowrey y Marcus Burnett vuelven a estar juntos para un último viaje en el muy esperado Bad Boys Para Siempre.(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Alexander Ludwig</actor>
+      <actor>Charles Melton</actor>
+      <actor>Paola Núñez</actor>
+      <actor>Kate del Castillo</actor>
+      <actor>Nicky Jam</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Will Smith</producer>
+      <composer>Lorne Balfe</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/bad_boys_para_siempre.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220207073000 -0300" stop="20220207090000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Leatherface: The Texas Chainsaw Massacre III</title>
+  </programme>
+  <programme start="20220207090000 -0300" stop="20220207111000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">El gran pez</title>
+  </programme>
+  <programme start="20220207111000 -0300" stop="20220207125000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Un Jefe en Pañales</title>
+    <title lang="xx">The Boss Baby</title>
+    <desc lang="es">Tim es un niño normal hasta que sus papás decidieron le dan la sorpresa de llevar un hermanito a casa, un bebé que parece ser un jefe en pañales.(n)</desc>
+    <credits>
+      <actor>Alec Baldwin</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Jimmy Kimmel</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Tobey Maguire</actor>
+      <producer>Ramsey Ann Naito</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_jefe_en_panales.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220207125000 -0300" stop="20220207143000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Los Croods 2: Una Nueva Era</title>
+    <title lang="xx">The Croods: A New Age</title>
+    <desc lang="es">Los Croods se encuentran con una familia mas evolucionada que ellos, los Siemprebien, a pesar de sus diferencias se unen para enfrentar una nueva amenaza.(n)</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Emma Stone</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Clark Duke</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Peter Dinklage</actor>
+      <producer>Mark Swift</producer>
+      <producer>Rachel Zusser</producer>
+      <composer>Mark Mothersbaugh</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_croods_2_una_nueva_era.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220207143000 -0300" stop="20220207161000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Peter Rabbit Conejo en fuga</title>
+  </programme>
+  <programme start="20220207161000 -0300" stop="20220207175500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Tom y Jerry (2021)</title>
+    <title lang="xx">Tom and Jerry (2021)</title>
+    <desc lang="es">Una joven empleada del hotel Royal Gate en Nueva York debe ayudar al organizador de bodas a deshacerse de un molesto ratón y para ello contrata a un gato.(n)</desc>
+    <credits>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Michael Peña</actor>
+      <actor>Colin Jost</actor>
+      <actor>Rob Delaney</actor>
+      <actor>Ken Jeong</actor>
+      <producer>Chris DeFaria</producer>
+      <composer>Christopher Lennertz</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/tom_y_jerry_2021.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220207175500 -0300" stop="20220207194500 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Hombres de Negro 3</title>
+    <title lang="xx">Men in Black III</title>
+    <desc lang="es">Cuando el agente Kay desaparece, el agente Jay debe viajar al pasado para arreglar las cosas y descubrir secretos en el universo que Kay no le ha contado.(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Mike Colter</actor>
+      <actor>Nicole Scherzinger</actor>
+      <actor>Michael Chernus</actor>
+      <producer>Walter F. Parkes</producer>
+      <producer>Laurie MacDonald</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombres_de_negro_iii.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220207194500 -0300" stop="20220207212000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Escape Room 2: Reto Mortal</title>
+    <desc lang="es">Seis personas son llevadas al límite cuando se enfrentan a los desafíos de una nueva serie de salas de escape, ahora deben buscar una manera de sobrevivir.(n)</desc>
+    <credits>
+      <actor>Taylor Russell</actor>
+      <actor>Logan Miller</actor>
+      <actor>Deborah Ann Woll</actor>
+      <actor>Thomas Cocquerel</actor>
+      <actor>Holland Roden</actor>
+      <actor>Indya Moore</actor>
+      <actor>Carlito Olivero</actor>
+      <producer>Neal H. Moritz</producer>
+      <composer>Brian Tyler</composer>
+      <composer>John Carey</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/escape_room_2_reto_mortal.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220207212000 -0300" stop="20220208000000 -0300" channel="CINE PREMIUM | HBO SD">
+    <title lang="es">Dune (2021)</title>
+    <title lang="xx">Dune</title>
+    <desc lang="es">Un joven brillante y talentoso con un gran destino debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su gente.(n)</desc>
+    <credits>
+      <actor>Timothée Chalamet</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Oscar Isaac</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Stephen McKinley Henderson</actor>
+      <actor>Zendaya</actor>
+      <writer>"Dune" de Frank Herbert</writer>
+      <producer>Cale Boyter</producer>
+      <producer>Joe Caracciolo Jr.</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/duna_2021.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Hungría</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205010000 -0300" stop="20220205025500 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Quiero matar a mi jefe 2</title>
+  </programme>
+  <programme start="20220205025500 -0300" stop="20220205044500 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Hasta que la Muerte los Juntó</title>
+    <title lang="xx">This Is Where I Leave You</title>
+    <desc lang="es">Cuatro hermanos se ven obligados a volver a vivir en la casa de su niñez con su madre cuando tras la muerte de su padre.(n)</desc>
+    <credits>
+      <actor>Jason Bateman</actor>
+      <actor>Tina Fey</actor>
+      <actor>Adam Driver</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Corey Stoll</actor>
+      <actor>Kathryn Hahn</actor>
+      <actor>Connie Britton</actor>
+      <actor>Timothy Olyphant</actor>
+      <producer>Shawn Levy</producer>
+      <producer>Paula Weinstein</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hasta_que_la_muerte_los_junto.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205044500 -0300" stop="20220205063700 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Ricky Bobby loco por la</title>
+  </programme>
+  <programme start="20220205063700 -0300" stop="20220205081000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Ataque extraterrestre</title>
+  </programme>
+  <programme start="20220205081000 -0300" stop="20220205090000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">El estado de juego</title>
+  </programme>
+  <programme start="20220205090000 -0300" stop="20220205105000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Viejos Gruñones</title>
+  </programme>
+  <programme start="20220205105000 -0300" stop="20220205124000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Letra y música</title>
+  </programme>
+  <programme start="20220205124000 -0300" stop="20220205142500 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Si te casas... te mato</title>
+  </programme>
+  <programme start="20220205142500 -0300" stop="20220205161000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Dicen por ahí</title>
+  </programme>
+  <programme start="20220205161000 -0300" stop="20220205165000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">The Righteous Gemstones</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220205165000 -0300" stop="20220205173000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Somebody Somewhere</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220205173000 -0300" stop="20220205193300 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Reminiscencia</title>
+  </programme>
+  <programme start="20220205193300 -0300" stop="20220205211000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Largo fin de semana</title>
+  </programme>
+  <programme start="20220205211000 -0300" stop="20220205230000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Feliz novedad</title>
+  </programme>
+  <programme start="20220205230000 -0300" stop="20220206010000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Ritmo perfecto</title>
+  </programme>
+  <programme start="20220206230000 -0300" stop="20220207010000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Ritmo perfecto</title>
+  </programme>
+  <programme start="20220207010000 -0300" stop="20220207030000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Música, glamour y fama</title>
+  </programme>
+  <programme start="20220207030000 -0300" stop="20220207045000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Jefa por Accidente</title>
+    <title lang="xx">Second Act</title>
+    <desc lang="es">Una mujer de 40 años que lucha por sus sueños frustrados, tiene una segunda oportunidad para demostrar que no es demasiado tarde para alcanzar sus sueños.(n)</desc>
+    <credits>
+      <actor>Jennifer López</actor>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Leah Remini</actor>
+      <actor>Annaleigh Ashford</actor>
+      <actor>Freddie Stroma</actor>
+      <actor>Dan Bucatinsky</actor>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Treat Williams</actor>
+      <producer>Jennifer Lopez</producer>
+      <producer>Elaine Goldsmith-Thomas</producer>
+      <composer>Michael Andrews</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jefa_por_accidente.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220207045000 -0300" stop="20220207070500 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Más allá de la vida (Hereafter)</title>
+    <desc lang="es">Un obrero americano, una periodista francesa y un estudiante londinense son tres personas que han sido tocados por la muerte en tres diferentes maneras.(n)</desc>
+    <credits>
+      <actor>Matt Damon</actor>
+      <actor>Cécile De France</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <producer>Clint Eastwood</producer>
+      <producer>Kathleen Kennedy</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mas_alla_de_la_vida_hereafter.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220207070500 -0300" stop="20220207090000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Las vueltas de la vida</title>
+  </programme>
+  <programme start="20220207090000 -0300" stop="20220207103000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Amor en invierno</title>
+  </programme>
+  <programme start="20220207103000 -0300" stop="20220207114500 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Juan Luis Guerra 440</title>
+  </programme>
+  <programme start="20220207114500 -0300" stop="20220207133000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Los fantasmas de mi ex</title>
+  </programme>
+  <programme start="20220207133000 -0300" stop="20220207153500 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">La sonrisa de Mona Lisa</title>
+  </programme>
+  <programme start="20220207153500 -0300" stop="20220207173000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Palabras en las paredes</title>
+  </programme>
+  <programme start="20220207173000 -0300" stop="20220207181000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">The Righteous Gemstones</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220207181000 -0300" stop="20220207185000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Somebody Somewhere</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220207185000 -0300" stop="20220207205000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Bajo el mismo techo</title>
+  </programme>
+  <programme start="20220207205000 -0300" stop="20220207225000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Si fueras yo</title>
+  </programme>
+  <programme start="20220207225000 -0300" stop="20220208010000 -0300" channel="CINE PREMIUM | HBO Pop SD">
+    <title lang="es">Cincuenta Sombras de Grey</title>
+    <title lang="xx">Fifty Shades of Grey</title>
+    <desc lang="es">La vida de la estudiante de literatura Anastasia Steele cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(n)</desc>
+    <credits>
+      <actor>Dakota Johnson</actor>
+      <actor>Jamie Dornan</actor>
+      <actor>Eloise Mumford</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Rita Ora</actor>
+      <producer>Michael De Luca</producer>
+      <producer>Dana Brunetti</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2015</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_de_grey.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205010000 -0300" stop="20220205023000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Caminos no elegidos</title>
+  </programme>
+  <programme start="20220205023000 -0300" stop="20220205042500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Van Gogh en la puerta de</title>
+  </programme>
+  <programme start="20220205042500 -0300" stop="20220205063000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Pavarotti</title>
+  </programme>
+  <programme start="20220205063000 -0300" stop="20220205090000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Spielberg</title>
+  </programme>
+  <programme start="20220205090000 -0300" stop="20220205110500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">El hombre que sabia demasiado</title>
+  </programme>
+  <programme start="20220205110500 -0300" stop="20220205132000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">La amenaza de Andrómeda</title>
+  </programme>
+  <programme start="20220205132000 -0300" stop="20220205153500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Jinetes Del Espacio</title>
+  </programme>
+  <programme start="20220205153500 -0300" stop="20220205172000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">La cosa</title>
+  </programme>
+  <programme start="20220205172000 -0300" stop="20220205191000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Falsos millonarios</title>
+  </programme>
+  <programme start="20220205191000 -0300" stop="20220205205500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Una vez más</title>
+  </programme>
+  <programme start="20220205205500 -0300" stop="20220205224500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Nunca, rara vez, a veces</title>
+  </programme>
+  <programme start="20220205224500 -0300" stop="20220206010000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">El jardinero fiel</title>
+  </programme>
+  <programme start="20220206010000 -0300" stop="20220206024500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Una obra maestra</title>
+  </programme>
+  <programme start="20220206024500 -0300" stop="20220206045000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">La teoría del todo</title>
+  </programme>
+  <programme start="20220206045000 -0300" stop="20220206065500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Destrucción</title>
+    <title lang="xx">Destroyer</title>
+    <desc lang="es">Una detective que trabajó de manera encubierta con una pandilla dejando resultados trágicos, se ve obligada a reconectarse cuando reaparece el líder.(n)</desc>
+    <credits>
+      <actor>Nicole Kidman</actor>
+      <actor>Sebastian Stan</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Tatiana Maslany</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Scoot McNairy</actor>
+      <producer>Fred Berger</producer>
+      <producer>Phil Hay</producer>
+      <composer>Theodore Shapiro</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/destruccion.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206065500 -0300" stop="20220206090000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">El jinete eléctrico</title>
+  </programme>
+  <programme start="20220206090000 -0300" stop="20220206112000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Marnie</title>
+  </programme>
+  <programme start="20220206112000 -0300" stop="20220206130000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Escuela de mafia</title>
+  </programme>
+  <programme start="20220206130000 -0300" stop="20220206152500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Amor y mafia</title>
+  </programme>
+  <programme start="20220206152500 -0300" stop="20220206171000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">La Verónica</title>
+  </programme>
+  <programme start="20220206171000 -0300" stop="20220206181500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">The Gilded Age</title>
+    <title lang="xx">The Gilded Age</title>
+    <desc lang="es">Después de la muerte de su padre, una joven se muda de la zona rural de Pensilvania a la ciudad de Nueva York para vivir con sus viejas tías acaudaladas.(n)</desc>
+    <credits>
+      <actor>Christine Baranski</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Morgan Spector</actor>
+      <actor>Denée Benton</actor>
+      <actor>Louisa Jacobson</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Blake Ritson</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/la_edad_dorada.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220206181500 -0300" stop="20220206191500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Todos mienten</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220206191500 -0300" stop="20220206213500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">La búsqueda</title>
+  </programme>
+  <programme start="20220206213500 -0300" stop="20220206233000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Una buena mentira</title>
+  </programme>
+  <programme start="20220206233000 -0300" stop="20220207010000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Caminos no elegidos</title>
+  </programme>
+  <programme start="20220205201000 -0300" stop="20220205220000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">The Witches</title>
+    <desc lang="es">Historia de un pequeño huérfano que, a finales de 1967, se va a vivir con su abuela a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas. Historia de un pequeño huérfano que, a finales de 1967, se va a vivir con su abuela a Demopolis, un pueblo de Alabama. El niño y su abuela tienen extraños encuentros con algunas brujas aparentemente glamurosas pero absolutamente diabólicas.(n)</desc>
+    <credits>
+      <actor>Anne Hathaway</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Chris Rock</actor>
+      <actor>Codie-Lei Eastick</actor>
+      <actor>Morgana Robinson</actor>
+      <actor>Simon Manyonda</actor>
+      <producer>Robert Zemeckis</producer>
+      <producer>Guillermo del Toro</producer>
+      <producer>Luke Kelly</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fantasía</category>
+    <icon src="https://milhouse.zapping.live/assets/p18097220_i_h8_ab.jpg" />
+    <rating>
+      <value>10+</value>
+    </rating>
+  </programme>
+  <programme start="20220205220000 -0300" stop="20220205235500 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Blumhouse's Fantasy Island</title>
+    <desc lang="es">El enigmático señor Roarke hace realidad los sueños secretos de los invitados que recibe en su paraíso tropical, pero pronto se convierten en una pesadilla de la que quizá no salgan con vida. El enigmático señor Roarke hace realidad los sueños secretos de los invitados que recibe en su paraíso tropical, pero pronto se convierten en una pesadilla de la que quizá no salgan con vida.(n)</desc>
+    <credits>
+      <actor>Michael Peña</actor>
+      <actor>Lucy Hale</actor>
+      <actor>Jimmy Yang</actor>
+      <actor>Ryan Hansen</actor>
+      <actor>Charlotte McKinney</actor>
+      <actor>Evan Evagora</actor>
+      <actor>Robbie Jones</actor>
+      <producer>Jason Blum</producer>
+      <producer>Jeff Wadlow</producer>
+      <producer>Jeanette Volturno</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Horror</category>
+    <icon src="https://milhouse.zapping.live/assets/p17297485_i_h8_ae.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220205235500 -0300" stop="20220206014000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Those Who Wish Me Dead</title>
+    <desc lang="es">Un adolescente, testigo de un homicidio, huye por las regiones más agrestes de Montana de dos asesinos que quieren silenciarlo para siempre. Una mujer, experta en técnicas de supervivencia, es la única posibilidad que tiene de escapar vivo. Un adolescente, testigo de un homicidio, huye por las regiones más agrestes de Montana de dos asesinos que quieren silenciarlo para siempre. Una mujer, experta en técnicas de supervivencia, es la única posibilidad que tiene de escapar vivo.(n)</desc>
+    <credits>
+      <actor>Angelina Jolie</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Nicholas Hoult</actor>
+      <actor>Medina Senghore</actor>
+      <actor>Boots Southerland</actor>
+      <actor>James Jordan</actor>
+      <actor>Howard Ferguson Jr.</actor>
+      <actor>Laura Niemi</actor>
+      <producer>Steven Zaillian</producer>
+      <producer>Aaron Gilbert</producer>
+      <producer>Taylor Sheridan</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p18097727_i_h8_ab.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206014000 -0300" stop="20220206041000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Sex and the City: La película</title>
+    <desc lang="es">Carrie y Mr. Big van a casarse, pero el novio se pone nervioso y su actitud empeora cuando Miranda, tras un desengaño con su marido, le comenta a Mr. Big que el matrimonio lo estropea todo. Carrie y Mr. Big van a casarse, pero el novio se pone nervioso y su actitud empeora cuando Miranda, tras un desengaño con su marido, le comenta a Mr. Big que el matrimonio lo estropea todo.(n)</desc>
+    <credits>
+      <actor>Sarah Parker</actor>
+      <actor>Chris Noth</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Jason Lewis</actor>
+      <actor>Mario Cantone</actor>
+      <actor>Lynn Cohen</actor>
+      <producer>Michael Patrick King</producer>
+      <producer>John Melfi</producer>
+      <producer>Toby Emmerich</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Comendia Romántica</category>
+    <icon src="https://milhouse.zapping.live/assets/p173504_i_h10_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206041000 -0300" stop="20220206060000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Focus: Maestros de la estafa</title>
+    <desc lang="es">Un estafador veterano apoya a una joven y atractiva mujer, pero las cosas se complican cuando ellos se involucran románticamente. Un estafador veterano apoya a una joven y atractiva mujer, pero las cosas se complican cuando ellos se involucran románticamente.(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Adrian Martinez</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>Brennan Brown</actor>
+      <actor>Dotan Bonen</actor>
+      <actor>Stephanie Honore</actor>
+      <actor>Dominic Fumusa</actor>
+      <producer>Charlie Gogolak</producer>
+      <producer>Steven Mnuchin</producer>
+      <producer>Stan Wlodkowski</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Comedia Dramática</category>
+    <icon src="https://milhouse.zapping.live/assets/p10939169_i_h8_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206060000 -0300" stop="20220206074000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">The Boss Baby</title>
+    <desc lang="es">Tim, de 7 años, tiene celos de su hermano, un bebé que viste traje y corbata, hasta que descubre que el bebé puede hablar. Los hermanos protagonizan una misión secreta contra un villano que pretende acabar con el amor de los niños por las mascotas. Tim, de 7 años, tiene celos de su hermano, un bebé que viste traje y corbata, hasta que descubre que el bebé puede hablar. Los hermanos protagonizan una misión secreta contra un villano que pretende acabar con el amor de los niños por las mascotas.(n)</desc>
+    <credits>
+      <actor>Alec Baldwin</actor>
+      <actor>Tobey Maguire</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>ViviAnn Yee</actor>
+      <actor>Conrad Vernon</actor>
+      <producer>Ramsey Naito</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p13107896_i_h8_ac.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206074000 -0300" stop="20220206091500 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">The Croods: A New Age</title>
+    <desc lang="es">La familia prehistórica de los Crood enfrenta el desafío de una familia rival, los Betterman, quienes afirman estar más evolucionados. La familia prehistórica de los Crood enfrenta el desafío de una familia rival, los Betterman, quienes afirman estar más evolucionados.(n)</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Cloris Leachman</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Kelly Tran</actor>
+      <producer>Mark Swift</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p16126280_i_h8_ae.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206091500 -0300" stop="20220206110000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Monster Hunter</title>
+    <desc lang="es">En un mundo extraño, la teniente Artemis y su equipo de soldados de élite deben unir fuerzas con un misterioso cazador para luchar contra poderosos monstruos. En un mundo extraño, la teniente Artemis y su equipo de soldados de élite deben unir fuerzas con un misterioso cazador para luchar contra poderosos monstruos.(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Tony Jaa</actor>
+      <actor>Tip "T.I." Harris</actor>
+      <actor>Josh Helman</actor>
+      <actor>Jannik Schümann</actor>
+      <actor>Hirona Yamazaki</actor>
+      <producer>Paul W.S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <producer>Robert Kulzer</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fantasía</category>
+    <icon src="https://milhouse.zapping.live/assets/p18040511_i_h8_ah.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206110000 -0300" stop="20220206130000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Malignant</title>
+    <desc lang="es">Paralizada por aterradoras visiones, los tormentos de una mujer empeoran cuando descubre que sus pesadillas son reales. Paralizada por aterradoras visiones, los tormentos de una mujer empeoran cuando descubre que sus pesadillas son reales.(n)</desc>
+    <credits>
+      <actor>Annabelle Wallis</actor>
+      <actor>George Young</actor>
+      <actor>Jean Kelly</actor>
+      <actor>Jake Abel</actor>
+      <actor>Christian Clemenson</actor>
+      <actor>Mercedes Colon</actor>
+      <actor>Ruben Pla</actor>
+      <actor>Paula Marshall</actor>
+      <actor>Dan Ramos</actor>
+      <producer>James Wan</producer>
+      <producer>Eric McLeod</producer>
+      <producer>Ingrid Bisu</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Horror</category>
+    <icon src="https://milhouse.zapping.live/assets/p17542674_i_h10_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206130000 -0300" stop="20220206135500 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Mil colmillos</title>
+    <desc lang="es">Pardo lucha por sobrevivir. El grupo de Rojas se encuentra con un extraño temeroso cuando intenta salvar la vida de Trébol. Pardo lucha por sobrevivir. El grupo de Rojas se encuentra con un extraño temeroso cuando intenta salvar la vida de Trébol.(n)</desc>
+    <credits>
+      <actor>Carlos Marino</actor>
+      <actor>Alejandro Buitrago</actor>
+      <actor>Jarlín Martinez</actor>
+      <actor>Sebastián Carvajal</actor>
+      <producer>Federico Durán</producer>
+    </credits>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p17637741_b_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206135500 -0300" stop="20220206154000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">My Spy</title>
+    <desc lang="es">Sophie, una niña de nueve años, atrapa a JJ, un rudo agente de la CIA, espiando a su familia durante una operación de vigilancia. A cambio de no ser descubierto, JJ acepta a regañadientes mostrarle a la precoz chica cómo convertirse en espía. Sophie, una niña de nueve años, atrapa a JJ, un rudo agente de la CIA, espiando a su familia durante una operación de vigilancia. A cambio de no ser descubierto, JJ acepta a regañadientes mostrarle a la precoz chica cómo convertirse en espía.(n)</desc>
+    <credits>
+      <actor>Dave Bautista</actor>
+      <actor>Parisa Fitz-Henley</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Darrin Baker</actor>
+      <producer>Jake Weiner</producer>
+      <producer>Jonathan Meisner</producer>
+      <producer>Robert Simonds</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p16779380_i_h8_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206154000 -0300" stop="20220206181500 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Tenet</title>
+    <desc lang="es">Un agente secreto emprende una misión que se desarrolla más allá del tiempo real, para intentar prevenir una Tercera Guerra Mundial. Un agente secreto emprende una misión que se desarrolla más allá del tiempo real, para intentar prevenir una Tercera Guerra Mundial.(n)</desc>
+    <credits>
+      <actor>John Washington</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Dimple Kapadia</actor>
+      <actor>Himesh Patel</actor>
+      <actor>Michael Caine</actor>
+      <producer>Emma Thomas</producer>
+      <producer>Thomas Hayslip</producer>
+      <producer>Christopher Nolan</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p17758177_i_h8_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206181500 -0300" stop="20220206200000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Monster Hunter</title>
+    <desc lang="es">En un mundo extraño, la teniente Artemis y su equipo de soldados de élite deben unir fuerzas con un misterioso cazador para luchar contra poderosos monstruos. En un mundo extraño, la teniente Artemis y su equipo de soldados de élite deben unir fuerzas con un misterioso cazador para luchar contra poderosos monstruos.(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Tony Jaa</actor>
+      <actor>Tip "T.I." Harris</actor>
+      <actor>Josh Helman</actor>
+      <actor>Jannik Schümann</actor>
+      <actor>Hirona Yamazaki</actor>
+      <producer>Paul W.S. Anderson</producer>
+      <producer>Jeremy Bolt</producer>
+      <producer>Robert Kulzer</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fantasía</category>
+    <icon src="https://milhouse.zapping.live/assets/p18040511_i_h8_ah.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206200000 -0300" stop="20220206220000 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Greenland</title>
+    <desc lang="es">Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro. Una familia emprende un viaje para encontrar un refugio seguro cuando un gran cometa arremete contra la Tierra. A medida que el apocalipsis se acerca, la increíble travesía termina en una batalla de último minuto para llegar a puerto seguro.(n)</desc>
+    <credits>
+      <actor>Gerard Butler</actor>
+      <actor>Roger Floyd</actor>
+      <actor>David Denman</actor>
+      <actor>Andrew Bachelor</actor>
+      <actor>Claire Bronson</actor>
+      <producer>Nik Bower</producer>
+      <producer>Jonathan Fuhrman</producer>
+      <producer>Harold van Lier</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p18046609_i_h8_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206220000 -0300" stop="20220206230200 -0300" channel="CINE PREMIUM | HBO 2 SD">
+    <title lang="es">Euphoria</title>
+    <desc lang="es">Jules y Elliot se acercan más. Maddy celebra su cumpleaños. Cal repasa algunos recuerdos. Jules y Elliot se acercan más. Maddy celebra su cumpleaños. Cal repasa algunos recuerdos.(n)</desc>
+    <credits>
+      <actor>Zendaya</actor>
+      <actor>Sydney Sweeney</actor>
+      <actor>Maude Apatow</actor>
+      <actor>Barbie Ferreira</actor>
+      <actor>Algee Smith</actor>
+      <producer>Drake</producer>
+      <producer>Sam Levinson</producer>
+      <producer>Kevin Turen</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p21084313_e_h10_ae.jpg" />
+    <rating>
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20220205183400 -0300" stop="20220205202400 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Winter, el delfín 2</title>
+    <desc lang="es">Winter, la delfín sin cola, fue rescatada por el hospital acuario Clearwater Marine Aquarium. Winter es la estrella de los espectáculos del centro gracias a la prótesis que le permite seguir nadando, y el acuario busca un nuevo compañero para ella. Winter, la delfín sin cola, fue rescatada por el hospital acuario Clearwater Marine Aquarium. Winter es la estrella de los espectáculos del centro gracias a la prótesis que le permite seguir nadando, y el acuario busca un nuevo compañero para ella.(n)</desc>
+    <credits>
+      <actor>Harry Connick Jr.</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Nathan Gamble</actor>
+      <actor>Austin Stowell</actor>
+      <actor>Juliana Harkavy</actor>
+      <actor>Tom Nowicki</actor>
+      <actor>Denis Arndt</actor>
+      <actor>Bethany Hamilton</actor>
+      <actor>Lee Karlinsky</actor>
+      <producer>Broderick Johnson</producer>
+      <producer>Andrew Kosove</producer>
+      <producer>David Yates</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p10550550_i_h10_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220205202400 -0300" stop="20220205220000 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Mi villano favorito</title>
+    <desc lang="es">Mientras intenta cumplir su diabólico plan para robarse a la luna, un supervillano enfrenta su reto más grande, tres pequeñas huérfanas que desean convertirlo en su papá. Mientras intenta cumplir su diabólico plan para robarse a la luna, un supervillano enfrenta su reto más grande, tres pequeñas huérfanas que desean convertirlo en su papá.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Russell Brand</actor>
+      <actor>Will Arnett</actor>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Elsie Fisher</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+      <producer>Robert Taylor</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p8000398_i_h8_ac.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220205220000 -0300" stop="20220205234000 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Mi villano favorito 2</title>
+    <desc lang="es">Justo cuando Gru se instala en su nuevo papel como hombre de familia suburbano, la Liga Anti-Villanos lo envía en una misión para atrapar al autor de un robo espectacular. Justo cuando Gru se instala en su nuevo papel como hombre de familia suburbano, la Liga Anti-Villanos lo envía en una misión para atrapar al autor de un robo espectacular.(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Benjamin Bratt</actor>
+      <actor>Russell Brand</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Dana Gaier</actor>
+      <actor>Nasim Pedrad</actor>
+      <actor>Pierre Coffin</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p9680893_i_h10_ad.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220205234000 -0300" stop="20220206012300 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Dolittle</title>
+    <desc lang="es">El Dr. Dolittle tiene un don especial: puede hablar con los animales. El galeno y sus peludos amigos viajan a una isla legendaria en busca de la única cura que podría salvar la vida de la reina Victoria de Inglaterra. El Dr. Dolittle tiene un don especial: puede hablar con los animales. El galeno y sus peludos amigos viajan a una isla legendaria en busca de la única cura que podría salvar la vida de la reina Victoria de Inglaterra.(n)</desc>
+    <credits>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Michael Sheen</actor>
+      <actor>Jessie Buckley</actor>
+      <actor>Emma Thompson</actor>
+      <actor>John Cena</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Craig Robinson</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kasia Smutniak</actor>
+      <actor>Frances de la Tour</actor>
+      <actor>Ralph Ineson</actor>
+      <producer>Robert Downey Jr.</producer>
+      <producer>Zachary Roth</producer>
+      <producer>Jeff Kirschenbaum</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p16195223_i_h10_aa.jpg" />
+    <rating>
+      <value>10+</value>
+    </rating>
+  </programme>
+  <programme start="20220206012300 -0300" stop="20220206025700 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Los Japón</title>
+    <desc lang="es">La vida de Paco Japón y su familia cambia drásticamente cuando descubren que él es el heredero legítimo al trono japonés y se van a vivir al Palacio Imperial, lo que genera un cómico choque cultural. La vida de Paco Japón y su familia cambia drásticamente cuando descubren que él es el heredero legítimo al trono japonés y se van a vivir al Palacio Imperial, lo que genera un cómico choque cultural.(n)</desc>
+    <credits>
+      <actor>Dani Rovira</actor>
+      <actor>Antonio Dechent</actor>
+      <actor>Iker Castiñeira</actor>
+      <actor>Maya Murofushi</actor>
+      <actor>Paco Calavera</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p16972150_i_h8_aa.jpg" />
+    <rating>
+      <value>10+</value>
+    </rating>
+  </programme>
+  <programme start="20220206025700 -0300" stop="20220206042400 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Los calientabancas</title>
+    <desc lang="es">Un millonario ayuda a tres ineptos intelectuales a formar un equipo para competir contra pleitistas de las Ligas Menores. Un millonario ayuda a tres ineptos intelectuales a formar un equipo para competir contra pleitistas de las Ligas Menores.(n)</desc>
+    <credits>
+      <actor>David Spade</actor>
+      <actor>Jon Heder</actor>
+      <actor>Craig Kilborn</actor>
+      <actor>Joe Gnoffo</actor>
+      <actor>Jillian Henry</actor>
+      <actor>Brooke Langton</actor>
+      <producer>Barry Bernardi</producer>
+      <producer>Jack Giarraputo</producer>
+      <producer>Adam Sandler</producer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p159750_i_h10_ab.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206042400 -0300" stop="20220206055200 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Ace Ventura, un detective diferente</title>
+    <desc lang="es">La mascota de los Delfines de Miami es secuestrada y es buscada por un detective inepto. La mascota de los Delfines de Miami es secuestrada y es buscada por un detective inepto.(n)</desc>
+    <credits>
+      <actor>Jim Carrey</actor>
+      <actor>Sean Young</actor>
+      <actor>Dan Marino</actor>
+      <actor>Troy Evans</actor>
+      <actor>Raynor Scheine</actor>
+      <producer>James Robinson</producer>
+      <producer>Gary Barber</producer>
+    </credits>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p15388_i_h11_ab.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206055200 -0300" stop="20220206073300 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Una Navidad de locos</title>
+    <desc lang="es">Los Krank han decidido disfrutar de un crucero por el Caribe y no celebrar la Navidad. Sin embargo, el regreso inesperado de su hija, acompañada de su prometido, y un vecino tan bienintencionado como agobiante los obliga a cambiar el plan. Los Krank han decidido disfrutar de un crucero por el Caribe y no celebrar la Navidad. Sin embargo, el regreso inesperado de su hija, acompañada de su prometido, y un vecino tan bienintencionado como agobiante los obliga a cambiar el plan.(n)</desc>
+    <credits>
+      <actor>Tim Allen</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Elizabeth Franz</actor>
+      <actor>Cheech Marin</actor>
+      <actor>Austin Pendleton</actor>
+      <actor>Julie Gonzalo</actor>
+      <actor>Caroline Rhea</actor>
+      <actor>Patrick Breen</actor>
+      <actor>Bonita Friedericy</actor>
+      <actor>Kevin Chamberlin</actor>
+      <actor>Mark Lawrence</actor>
+      <actor>Vernée Watson-Johnson</actor>
+      <actor>Jan Hoag</actor>
+      <actor>David Lander</actor>
+      <producer>Michael Barnathan</producer>
+      <producer>Mark Radcliffe</producer>
+      <producer>Charles Newirth</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Festividad</category>
+    <icon src="https://milhouse.zapping.live/assets/p35128_i_h8_ae.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206073300 -0300" stop="20220206090000 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Sinbad: La leyenda de los siete mares</title>
+    <desc lang="es">Un marinero aventurero y una hermosa pasajera clandestina tienen 10 días para impedir que un príncipe sea ejecutado. Un marinero aventurero y una hermosa pasajera clandestina tienen 10 días para impedir que un príncipe sea ejecutado.(n)</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Dennis Haysbert</actor>
+      <actor>Adriano Giannini</actor>
+      <producer>Jeffrey Katzenberg</producer>
+      <producer>Mireille Soria</producer>
+    </credits>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p32276_i_h10_ad.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206090000 -0300" stop="20220206092800 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Bebés clásicos: la canción de cuna</title>
+    <desc lang="es">Canciones de diferentes culturas del mundo, como "Drume Negrita", "Suliram", "Little Willow", "Liebestraum No. 3", "Goodnight", "Gymnopedie No. 1", "White Seal Lullaby", "Hush-A-Bye" y "Dream Angus". Canciones de diferentes culturas del mundo, como "Drume Negrita", "Suliram", "Little Willow", "Liebestraum No. 3", "Goodnight", "Gymnopedie No. 1", "White Seal Lullaby", "Hush-A-Bye" y "Dream Angus".(n)</desc>
+    <credits>
+      <actor>Kelsy Villegas</actor>
+      <producer>Lynn Sadofsky</producer>
+      <producer>Sheila Nevins</producer>
+      <producer>Amy Schatz</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p14842627_i_h10_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206092800 -0300" stop="20220206104700 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Canguro Jack: Hola Estados Unidos</title>
+    <desc lang="es">Louis y Charlie colaboran para salvar a un canguro de unos cazadores. La verdadera aventura comienza cuando llegan a Las Vegas. Louis y Charlie colaboran para salvar a un canguro de unos cazadores. La verdadera aventura comienza cuando llegan a Las Vegas.(n)</desc>
+    <credits>
+      <actor>Josh Keaton</actor>
+      <actor>Kath Soucie</actor>
+      <actor>Jim Ward</actor>
+      <actor>Keith Diamond</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p85719_i_h10_ac.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206104700 -0300" stop="20220206121200 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">LEGO DC Shazam: Magia y monstruos</title>
+    <desc lang="es">El niño héroe Shazam recibe una invitación a la infame Liga de la Justicia. Aunque en un principio no quiere aceptar, su mirada cambia cuando la Liga se encuentra en peligro. El niño héroe Shazam recibe una invitación a la infame Liga de la Justicia. Aunque en un principio no quiere aceptar, su mirada cambia cuando la Liga se encuentra en peligro.(n)</desc>
+    <credits>
+      <actor>Sean Astin</actor>
+      <actor>Nolan North</actor>
+      <actor>Cristina Milizia</actor>
+      <actor>Imari Williams</actor>
+      <producer>Jason Cosler</producer>
+      <producer>Jill Wilfert</producer>
+      <producer>Rick Morales</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p18149742_i_h10_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206121200 -0300" stop="20220206140900 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad en un juego de baloncesto y salvar a su hijo. Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad en un juego de baloncesto y salvar a su hijo.(n)</desc>
+    <credits>
+      <actor>LeBron James</actor>
+      <actor>Cedric Joe</actor>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Harper Alexander</actor>
+      <actor>Stephen Kankole</actor>
+      <actor>Wood Harris</actor>
+      <actor>Anthony Davis</actor>
+      <actor>Klay Thompson</actor>
+      <actor>Diana Taurasi</actor>
+      <actor>Slink Johnson</actor>
+      <actor>Lil Rel Howery</actor>
+      <actor>Zendaya</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Bob Bergen</actor>
+      <producer>LeBron James</producer>
+      <producer>Duncan Henderson</producer>
+      <producer>Zinzi Coogler</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p17971915_i_h10_ad.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206140900 -0300" stop="20220206153900 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Spirit: El indomable</title>
+    <desc lang="es">Una joven abraza el legado de su madre, una amazona que hacía acrobacias a lomos de los caballos. De esta forma, establece un vínculo especial con un caballo salvaje. Una joven abraza el legado de su madre, una amazona que hacía acrobacias a lomos de los caballos. De esta forma, establece un vínculo especial con un caballo salvaje.(n)</desc>
+    <credits>
+      <actor>Isabela Merced</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Mckenna Grace</actor>
+      <actor>Andre Braugher</actor>
+      <producer>Karen Foster</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p19096431_i_h8_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206153900 -0300" stop="20220206170500 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Como perros y gatos 3: ¡Patas unidas!</title>
+    <desc lang="es">Un villano destruye la tregua de diez años entre perros y gatos. Ahora, un equipo de agentes con tecnología avanzada debe usar su instinto animal para restaurar la paz entre especies. Un villano destruye la tregua de diez años entre perros y gatos. Ahora, un equipo de agentes con tecnología avanzada debe usar su instinto animal para restaurar la paz entre especies.(n)</desc>
+    <credits>
+      <actor>George Lopez</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Garry Chalk</actor>
+      <actor>Ian Hanlin</actor>
+      <actor>Noel Johansen</actor>
+      <producer>David Fliegel</producer>
+      <producer>Sean McNamara</producer>
+      <producer>Charles Cooper</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p18610621_i_h8_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206170500 -0300" stop="20220206183900 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Nadando por el oro</title>
+    <desc lang="es">Envían a la joven y experimentada nadadora Claire a Australia para entrenar a un equipo de natación masculino, donde debe superar a un viejo rival, vencer un miedo secreto y evitar que el centro de natación cierre. Envían a la joven y experimentada nadadora Claire a Australia para entrenar a un equipo de natación masculino, donde debe superar a un viejo rival, vencer un miedo secreto y evitar que el centro de natación cierre.(n)</desc>
+    <credits>
+      <actor>Peyton List</actor>
+      <actor>Daniel Needs</actor>
+      <actor>Johrel Martschinke</actor>
+      <actor>Martin Dingle-Wall</actor>
+      <actor>Liam Yek Dodds</actor>
+      <actor>Steve Nation</actor>
+      <actor>Loren Arcadio</actor>
+      <producer>Larry Grimaldi</producer>
+      <producer>Phil Hunt</producer>
+      <producer>Hannah Pillemer</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p18455058_i_h10_aa.jpg" />
+    <rating>
+      <value>10+</value>
+    </rating>
+  </programme>
+  <programme start="20220206183900 -0300" stop="20220206203700 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Hairspray: Suéltate el pelo</title>
+    <desc lang="es">En el Baltimore de los años sesenta, una adolescente se convierte en una celebridad nocturna después de ganar un puesto en un programa de baile local llamado "The Corny Collins Show". En el Baltimore de los años sesenta, una adolescente se convierte en una celebridad nocturna después de ganar un puesto en un programa de baile local llamado "The Corny Collins Show".(n)</desc>
+    <credits>
+      <actor>John Travolta</actor>
+      <actor>Amanda Bynes</actor>
+      <actor>Zac Efron</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Brittany Snow</actor>
+      <actor>Allison Janney</actor>
+      <producer>Craig Zadan</producer>
+      <producer>Adam Shankman</producer>
+      <producer>Garrett Grant</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia Musical</category>
+    <icon src="https://milhouse.zapping.live/assets/p166459_i_h8_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206203700 -0300" stop="20220206220000 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">LEGO DC Shazam: Magia y monstruos</title>
+    <desc lang="es">El niño héroe Shazam recibe una invitación a la infame Liga de la Justicia. Aunque en un principio no quiere aceptar, su mirada cambia cuando la Liga se encuentra en peligro. El niño héroe Shazam recibe una invitación a la infame Liga de la Justicia. Aunque en un principio no quiere aceptar, su mirada cambia cuando la Liga se encuentra en peligro.(n)</desc>
+    <credits>
+      <actor>Sean Astin</actor>
+      <actor>Nolan North</actor>
+      <actor>Cristina Milizia</actor>
+      <actor>Imari Williams</actor>
+      <producer>Jason Cosler</producer>
+      <producer>Jill Wilfert</producer>
+      <producer>Rick Morales</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Animación</category>
+    <icon src="https://milhouse.zapping.live/assets/p18149742_i_h10_aa.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206220000 -0300" stop="20220206235700 -0300" channel="CINE PREMIUM | HBO Family SD">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad en un juego de baloncesto y salvar a su hijo. Atrapado en el espacio digital, la superestrella del baloncesto LeBron James se une a la banda de los Looney Tunes para derrotar al Goon Squad en un juego de baloncesto y salvar a su hijo.(n)</desc>
+    <credits>
+      <actor>LeBron James</actor>
+      <actor>Cedric Joe</actor>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Harper Alexander</actor>
+      <actor>Stephen Kankole</actor>
+      <actor>Wood Harris</actor>
+      <actor>Anthony Davis</actor>
+      <actor>Klay Thompson</actor>
+      <actor>Diana Taurasi</actor>
+      <actor>Slink Johnson</actor>
+      <actor>Lil Rel Howery</actor>
+      <actor>Zendaya</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Bob Bergen</actor>
+      <producer>LeBron James</producer>
+      <producer>Duncan Henderson</producer>
+      <producer>Zinzi Coogler</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p17971915_i_h10_ad.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220205003500 -0300" stop="20220205023000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Antebellum</title>
+    <title lang="xx">Antebellum</title>
+    <desc lang="es">La exitosa autora Verónica Hanley se encuentra atrapada en una realidad aterradora y debe descubrir el misterio alucinante antes de que sea demasiado tarde.(n)</desc>
+    <credits>
+      <actor>Janelle Monáe</actor>
+      <actor>Eric Lange</actor>
+      <actor>Jena Malone</actor>
+      <actor>Jack Huston</actor>
+      <actor>Kiersey Clemons</actor>
+      <actor>Gabourey Sidibe</actor>
+      <producer>Raymond Mansfield</producer>
+      <producer>Sean McKittrick</producer>
+      <composer>Nate Wonder</composer>
+      <composer>Roman Gianarthur</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/elegida.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205023000 -0300" stop="20220205040000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Child's play 2</title>
+  </programme>
+  <programme start="20220205040000 -0300" stop="20220205054500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Curse of Chucky</title>
+    <title lang="xx">Curse of Chucky</title>
+    <desc lang="es">Cuando una misteriosa caja llega a las manos de Nica, esta contiene un muñeco muy extraño, siendo la clave de las misteriosas muertes y caos que se avecina.(n)</desc>
+    <credits>
+      <actor>Brad Dourif</actor>
+      <actor>Fiona Dourif</actor>
+      <actor>Danielle Bisutti</actor>
+      <actor>Brennan Elliott</actor>
+      <actor>Maitland McConnell</actor>
+      <actor>Summer H. Howell</actor>
+      <actor>Chantal Quesnelle</actor>
+      <actor>A Martinez</actor>
+      <producer>David Kirschner</producer>
+      <producer>Don Mancini</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_maldicion_de_chucky.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205054500 -0300" stop="20220205064500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Euphoria (2019)</title>
+    <title lang="xx">Euphoria</title>
+    <desc lang="es">Sigue a un grupo de adolescentes de secundaria mientras navegan por amor, amistad, drogas, sexo, traumas psicológicos y redes sociales.(n)</desc>
+    <credits>
+      <actor>Zendaya</actor>
+      <actor>Maude Apatow</actor>
+      <actor>Angus Cloud</actor>
+      <actor>Eric Dane</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Barbie Ferreira</actor>
+      <actor>Nika King</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/euphoria_2019.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220205064500 -0300" stop="20220205090000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">The Suicide Squad</title>
+    <title lang="xx">The Suicide Squad</title>
+    <desc lang="es">Un escuadrón de supervillanos provenientes de la prisión Belle Reve es enviado a una misión de búsqueda y destrucción a la remota isla de Corto Maltese.(n)</desc>
+    <credits>
+      <actor>Margot Robbie</actor>
+      <actor>Sylvester Stallone</actor>
+      <actor>Taika Waititi</actor>
+      <actor>Joel Kinnaman</actor>
+      <actor>Idris Elba</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Alice Braga</actor>
+      <actor>John Cena</actor>
+      <producer>Charles Roven</producer>
+      <producer>Peter Safran</producer>
+      <composer>John Murphy</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_escuadron_suicida_2021.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205090000 -0300" stop="20220205102500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">La Horca</title>
+  </programme>
+  <programme start="20220205102500 -0300" stop="20220205120000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">El silencio de la muerte</title>
+  </programme>
+  <programme start="20220205120000 -0300" stop="20220205134000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">The Covenant</title>
+  </programme>
+  <programme start="20220205134000 -0300" stop="20220205154000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">El tiempo contigo (Weathering with You)</title>
+    <title lang="xx">Tenki no ko</title>
+    <desc lang="es">Un joven de secundaria que huyó a Tokio se hace amigo de una chica que tiene un poder extraño, al parecer es capaz de manipular la lluvia solo con rezar.(n)</desc>
+    <credits>
+      <actor>Kotaro Daigo</actor>
+      <actor>Nana Mori</actor>
+      <actor>Shun Oguri</actor>
+      <actor>Sei Hiraizumi</actor>
+      <actor>Yûki Kaji</actor>
+      <producer>Genki Kawamura</producer>
+      <composer>Radwimps</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_tiempo_contigo.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220205154000 -0300" stop="20220205175000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">El destino de Júpiter</title>
+  </programme>
+  <programme start="20220205175000 -0300" stop="20220205184000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220205184000 -0300" stop="20220205202000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">The Craft: Legacy</title>
+    <title lang="xx">The Craft: Legacy</title>
+    <desc lang="es">Frankie, Tabby, Lourdes y Lily, son cuatro jóvenes estudiantes de secundaria aspirantes a brujas que buscan obtener poderes sin saber las consecuencias.(n)</desc>
+    <credits>
+      <actor>Cailee Spaeny</actor>
+      <actor>Gideon Adlon</actor>
+      <actor>Lovie Simone</actor>
+      <actor>Zoey Luna</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>David Duchovny</actor>
+      <producer>Douglas Wick</producer>
+      <producer>Lucy Fisher</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jovenes_y_brujas_2020.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205202000 -0300" stop="20220205222000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Scott Pilgrim vs. los ex de la chica de sus sueños</title>
+  </programme>
+  <programme start="20220205222000 -0300" stop="20220206004500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Batman inicia</title>
+  </programme>
+  <programme start="20220206004500 -0300" stop="20220206022000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Justice League Dark Apokolips War</title>
+  </programme>
+  <programme start="20220206022000 -0300" stop="20220206040000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">The Craft: Legacy</title>
+    <title lang="xx">The Craft: Legacy</title>
+    <desc lang="es">Frankie, Tabby, Lourdes y Lily, son cuatro jóvenes estudiantes de secundaria aspirantes a brujas que buscan obtener poderes sin saber las consecuencias.(n)</desc>
+    <credits>
+      <actor>Cailee Spaeny</actor>
+      <actor>Gideon Adlon</actor>
+      <actor>Lovie Simone</actor>
+      <actor>Zoey Luna</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>David Duchovny</actor>
+      <producer>Douglas Wick</producer>
+      <producer>Lucy Fisher</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jovenes_y_brujas_2020.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220206040000 -0300" stop="20220206054500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Freaky</title>
+    <title lang="xx">Freaky</title>
+    <desc lang="es">Tras un intercambio de cuerpos con un asesino, una adolescente descubre que solo tiene 24 horas para recuperar su cuerpo antes que el cambio sea permanente.(n)</desc>
+    <credits>
+      <actor>Vince Vaughn</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>Katie Finneran</actor>
+      <actor>Celeste O'Connor</actor>
+      <actor>Alan Ruck</actor>
+      <actor>Uriah Shelton</actor>
+      <producer>Jason Blum</producer>
+      <composer>Bear McCreary</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/freaky_este_cuerpo_esta_para_matar.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206054500 -0300" stop="20220206071500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Jexi</title>
+    <title lang="xx">Jexi</title>
+    <desc lang="es">La vida de un joven introvertido adicto a su teléfono cambia cuando compra un nuevo celular que por error trae una aplicación de una asistente virtual.(n)</desc>
+    <credits>
+      <actor>Adam DeVine</actor>
+      <actor>Alexandra Shipp</actor>
+      <actor>Michael Peña</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Ron Funches</actor>
+      <actor>Charlyne Yi</actor>
+      <actor>Wanda Sykes</actor>
+      <producer>Suzanne Todd</producer>
+      <composer>Christopher Lennertz</composer>
+      <composer>Philip White</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jexi_un_celular_sin_filtros.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206071500 -0300" stop="20220206080500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220206080500 -0300" stop="20220206090500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Euphoria (2019)</title>
+    <title lang="xx">Euphoria</title>
+    <desc lang="es">Sigue a un grupo de adolescentes de secundaria mientras navegan por amor, amistad, drogas, sexo, traumas psicológicos y redes sociales.(n)</desc>
+    <credits>
+      <actor>Zendaya</actor>
+      <actor>Maude Apatow</actor>
+      <actor>Angus Cloud</actor>
+      <actor>Eric Dane</actor>
+      <actor>Alexa Demie</actor>
+      <actor>Jacob Elordi</actor>
+      <actor>Barbie Ferreira</actor>
+      <actor>Nika King</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/euphoria_2019.jpg" />
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220206090500 -0300" stop="20220206103000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">30 minutos o menos</title>
+  </programme>
+  <programme start="20220206103000 -0300" stop="20220206120000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">A Haunted House 2</title>
+  </programme>
+  <programme start="20220206120000 -0300" stop="20220206135000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Alerta en lo profundo</title>
+  </programme>
+  <programme start="20220206135000 -0300" stop="20220206153500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Resident Evil: El Huésped Maldito</title>
+    <title lang="xx">Resident Evil</title>
+    <desc lang="es">Cuando un virus letal es liberado accidentalmente, un equipo de élite altamente entrenado tratara de pasar las defensas de una computadora para contenerlo.(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Michelle Rodríguez</actor>
+      <actor>Colin Salmon</actor>
+      <actor>Eric Mabius</actor>
+      <actor>James Purefoy</actor>
+      <actor>Martin Crewes</actor>
+      <producer>Paul W. S. Anderson</producer>
+      <composer>Marco Beltrami</composer>
+      <composer>Marilyn Manson</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/resident_evil_el_huesped_maldito.jpg" />
+    <country lang="es">Alemania</country>
+    <country lang="es">Francia</country>
+    <country lang="es">Reino Unido</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206153500 -0300" stop="20220206175500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">El sorprendente hombre araña</title>
+  </programme>
+  <programme start="20220206175500 -0300" stop="20220206195000 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Mortal Kombat (2021)</title>
+    <title lang="xx">Mortal Kombat</title>
+    <desc lang="es">El luchador Cole Young, junto a otros campeones de la Tierra deben enfrentarse a los guerreros de Outworld en una batalla de alto riesgo por el universo.(n)</desc>
+    <credits>
+      <actor>Lewis Tan</actor>
+      <actor>Jessica McNamee</actor>
+      <actor>Josh Lawson</actor>
+      <actor>Tadanobu Asano</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Ludi Lin</actor>
+      <actor>Chin Han</actor>
+      <actor>Joe Taslim</actor>
+      <producer>James Wan</producer>
+      <producer>Todd Garner</producer>
+      <composer>Benjamin Wallfisch</composer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mortal_kombat_2021.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Australia</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206195000 -0300" stop="20220206211500 -0300" channel="CINE PREMIUM | HBO Plus SD">
+    <title lang="es">Isabelle</title>
+  </programme>
+  <programme start="20220205000100 -0300" stop="20220205002900 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S11 E8</episode-num>
+  </programme>
+  <programme start="20220205002900 -0300" stop="20220205005500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
+    <date>1989</date>
+    <category lang="es">Caricatura</category>
+    <category lang="es">Programa</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
+    <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme start="20220205005500 -0300" stop="20220205030400 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Una Esposa de Mentira</title>
+    <title lang="xx">Just Go with It</title>
+    <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Brooklyn Decker</actor>
+      <actor>Bailee Madison</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Carol Ann Susi</actor>
+      <actor>Griffin Gluck</actor>
+      <producer>Jack Giarraputo</producer>
+      <producer>Adam Sandler</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205030400 -0300" stop="20220205053600 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">El Primer Hombre en la Luna</title>
+    <title lang="xx">First Man (2018)</title>
+    <desc lang="es">La fascinante historia de la NASA en conseguir el primer hombre en la luna, explorando los sacrificios y el costo de una de las misiones más peligrosas.(n)</desc>
+    <credits>
+      <actor>Ryan Gosling</actor>
+      <actor>Claire Foy</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Kyle Chandler</actor>
+      <actor>Patrick Fugit</actor>
+      <actor>Ciaran Hinds</actor>
+      <actor>Ethan Embry</actor>
+      <actor>Shea Whigham</actor>
+      <producer>Wyck Godfrey</producer>
+      <producer>Marty Bowen</producer>
+      <composer>Justin Hurwitz</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_primer_hombre_en_la_luna.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205053600 -0300" stop="20220205073800 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Aliados</title>
+    <title lang="xx">Allied</title>
+    <desc lang="es">Un oficial de inteligencia y una mujer de la resistencia francesa se reúnen en Londres.  Ahora su relación se ve amenazada por la presión de la guerra.(n)</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Lizzy Caplan</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Jared Harris</actor>
+      <actor>Camille Cottin</actor>
+      <producer>Graham King</producer>
+      <producer>Steve Starkey</producer>
+      <composer>Alan Silvestri</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aliados.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220205073800 -0300" stop="20220205092800 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">La Quinta Ola</title>
+    <title lang="xx">The 5th Wave</title>
+    <desc lang="es">Cuatro holas de ataques alienígenas han dejado la tierra devastada. Cassie huye tratando de salvar la vida de su hermano de la próxima ola.(n)</desc>
+    <credits>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Nick Robinson</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Maggie Siff</actor>
+      <actor>Alex Roe</actor>
+      <actor>Maria Bello</actor>
+      <actor>Maika Monroe</actor>
+      <actor>Liev Schreiber</actor>
+      <writer>The 5th Wave de Rick Yancey</writer>
+      <producer>Graham King</producer>
+      <producer>Tobey Maguire</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2016</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_quinta_ola.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205092800 -0300" stop="20220205100000 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">How i met your mother</title>
+    <episode-num system="onscreen">S6 E1</episode-num>
+  </programme>
+  <programme start="20220205100000 -0300" stop="20220205115500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">El año del perro</title>
+  </programme>
+  <programme start="20220205115500 -0300" stop="20220205132500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Action Point</title>
+    <desc lang="es">Un propietario de un parque de diversiones de bajo presupuesto debe salvar su amado parque y su relación de su hija cuando se abre un mega parque cercano.(n)</desc>
+    <credits>
+      <actor>Johnny Knoxville</actor>
+      <actor>Chris Pontius</actor>
+      <actor>Aidan Whytock</actor>
+      <actor>Leon Clingman</actor>
+      <actor>Joe Vaz</actor>
+      <actor>Camilla Wolfson</actor>
+      <actor>Matthew Peterson</actor>
+      <actor>Johnny Pemberton</actor>
+      <producer>Bill Gerber</producer>
+      <producer>Johnny Knoxville</producer>
+      <composer>Deke Dickerson</composer>
+      <composer>Andrew Feltenstein</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/action_point.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205132500 -0300" stop="20220205153800 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">El Exótico Hotel Marigold 2</title>
+    <desc lang="es">Tras el éxito del primer Hotel Marigold, su dueño pone su vista en una propiedad para convertirla en el siguiente Hotel Marigold.(n)</desc>
+    <credits>
+      <actor>Judi Bench</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Celia Imrie</actor>
+      <actor>Penelope Wilton</actor>
+      <actor>Ronald Pickup</actor>
+      <actor>Dev Patel</actor>
+      <actor>Tina Desai</actor>
+      <producer>Peter Czernin</producer>
+      <composer>Thomas Newman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_exotico_hotel_marigold_2.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220205153800 -0300" stop="20220205175800 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Duro de Matar 3 - La Venganza</title>
+  </programme>
+  <programme start="20220205175800 -0300" stop="20220205202400 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Duro de Matar 4.0</title>
+    <title lang="xx">Live Free or Die Hard</title>
+    <desc lang="es">John McClane, un policía hecho a la antigua deberá detener un ataque terrorista de alta tecnología, antes de que su autor intelectual se salga con la suya.(n)</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Justin Long</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Maggie Q</actor>
+      <actor>Mary-Elizabeth Winstead</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Kevin Smith</actor>
+      <actor>Jonathan Sadowski</actor>
+      <producer>Michael Fottrell</producer>
+      <composer>Marco Beltrami</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/duro_de_matar_4_0.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Reino Unido</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205202400 -0300" stop="20220205225100 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+    <title lang="xx">Spider-Man: Homecoming</title>
+    <desc lang="es">Peter, vuelve a casa con su tía May, pero un nuevo villano llega a la ciudad de Nueva York, amenazando todo lo que es importante para el Hombre Araña.(n)</desc>
+    <credits>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Donald Glover</actor>
+      <actor>Zendaya</actor>
+      <actor>Jacob Batalon</actor>
+      <actor>Tony Revolori</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Tyne Daly</actor>
+      <writer>"Spider-Man" de Stan Lee</writer>
+      <producer>Kevin Feige</producer>
+      <producer>Amy Pascal</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_de_regreso_a_casa.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205225100 -0300" stop="20220206005500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">¡Mujeres al Ataque</title>
+  </programme>
+  <programme start="20220206005500 -0300" stop="20220206025000 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Son como niños</title>
+  </programme>
+  <programme start="20220206025000 -0300" stop="20220206044900 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Un espía y medio</title>
+  </programme>
+  <programme start="20220206044900 -0300" stop="20220206060800 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Addicted to Fresno</title>
+  </programme>
+  <programme start="20220206060800 -0300" stop="20220206081000 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Aliados</title>
+    <title lang="xx">Allied</title>
+    <desc lang="es">Un oficial de inteligencia y una mujer de la resistencia francesa se reúnen en Londres.  Ahora su relación se ve amenazada por la presión de la guerra.(n)</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Marion Cotillard</actor>
+      <actor>Lizzy Caplan</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Jared Harris</actor>
+      <actor>Camille Cottin</actor>
+      <producer>Graham King</producer>
+      <producer>Steve Starkey</producer>
+      <composer>Alan Silvestri</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aliados.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206081000 -0300" stop="20220206093700 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Wedding March 4 Something Old</title>
+  </programme>
+  <programme start="20220206093700 -0300" stop="20220206100000 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">How i met your mother</title>
+    <episode-num system="onscreen">S6 E2</episode-num>
+  </programme>
+  <programme start="20220206100000 -0300" stop="20220206102200 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Modern Family</title>
+    <title lang="xx">Modern Family</title>
+    <desc lang="es">Nos cuenta la historia de tres familias que aún con sus diferencias todos estarán unidos sin importar lo que piensen los demás.(n)</desc>
+    <credits>
+      <actor>Sofía Vergara</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Nolan Gould</actor>
+      <actor>Sarah Hyland</actor>
+      <producer>Christopher Lloyd</producer>
+      <producer>Steven Levitan</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/modern_family.jpg" />
+    <episode-num system="onscreen">S9 E1</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220206102200 -0300" stop="20220206104700 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Modern Family</title>
+    <title lang="xx">Modern Family</title>
+    <desc lang="es">Nos cuenta la historia de tres familias que aún con sus diferencias todos estarán unidos sin importar lo que piensen los demás.(n)</desc>
+    <credits>
+      <actor>Sofía Vergara</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Ty Burrell</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Jesse Tyler Ferguson</actor>
+      <actor>Eric Stonestreet</actor>
+      <actor>Nolan Gould</actor>
+      <actor>Sarah Hyland</actor>
+      <producer>Christopher Lloyd</producer>
+      <producer>Steven Levitan</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/modern_family.jpg" />
+    <episode-num system="onscreen">S9 E2</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220206104700 -0300" stop="20220206134500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">El Hobbit 2</title>
+  </programme>
+  <programme start="20220206134500 -0300" stop="20220206154000 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">S.O.S. Familia en apuros</title>
+  </programme>
+  <programme start="20220206154000 -0300" stop="20220206174700 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Chappie</title>
+  </programme>
+  <programme start="20220206174700 -0300" stop="20220206195500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">3 días para matar</title>
+  </programme>
+  <programme start="20220206195500 -0300" stop="20220206215500 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">27 Bodas</title>
+    <title lang="xx">27 Dresses</title>
+    <desc lang="es">Jane, la eterna dama de honor que cuando está a punto de confesarle su amor a su jefe George, se da cuenta que él a quien en realidad quiere es a su hermana Tess.(n)</desc>
+    <credits>
+      <actor>Katherine Heigl</actor>
+      <actor>James Marsden</actor>
+      <actor>Edward Burns</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Melora Hardin</actor>
+      <actor>Judy Greer</actor>
+      <producer>Gary Barber</producer>
+      <producer>Roger Birnbaum</producer>
+      <composer>Randy Edelman</composer>
+      <composer>Priscilla Nedd-Friendly</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/27_bodas.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220206215500 -0300" stop="20220207000200 -0300" channel="CINE PREMIUM | STAR CHANNEL SD">
+    <title lang="es">Una Esposa de Mentira</title>
+    <title lang="xx">Just Go with It</title>
+    <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Brooklyn Decker</actor>
+      <actor>Bailee Madison</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Carol Ann Susi</actor>
+      <actor>Griffin Gluck</actor>
+      <producer>Jack Giarraputo</producer>
+      <producer>Adam Sandler</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_esposa_de_mentira.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220205192200 -0300" stop="20220205212200 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Alfie: El seductor irresistible</title>
+    <desc lang="es">Un hombre de Londres aprende cuán peligrosas son sus acciones tras acosar a mujeres mientras trabaja como chofer en Nueva York. Un hombre de Londres aprende cuán peligrosas son sus acciones tras acosar a mujeres mientras trabaja como chofer en Nueva York.(n)</desc>
+    <credits>
+      <actor>Jude Law</actor>
+      <actor>Omar Epps</actor>
+      <actor>Jane Krakowski</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Dick Latessa</actor>
+      <actor>Gedde Watanabe</actor>
+      <actor>Finlay Robertson</actor>
+      <producer>Charles Shyer</producer>
+      <producer>Diana Phillips</producer>
+      <producer>Elaine Pope</producer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Comedia Dramática</category>
+    <icon src="https://milhouse.zapping.live/assets/p34949_i_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220205212200 -0300" stop="20220205230000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Marmaduke</title>
+    <desc lang="es">Un gran danés enorme ayuda a su familia a adaptarse a sus nuevas vidas en California mientras simultáneamente intenta adaptarse a sus nuevos amigos caninos. Un gran danés enorme ayuda a su familia a adaptarse a sus nuevas vidas en California mientras simultáneamente intenta adaptarse a sus nuevos amigos caninos.(n)</desc>
+    <credits>
+      <actor>Owen Wilson</actor>
+      <actor>Judy Greer</actor>
+      <actor>William Macy</actor>
+      <actor>Caroline Sunshine</actor>
+      <actor>George Lopez</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Damon Wayans Jr.</actor>
+      <producer>Derek Dauchy</producer>
+      <producer>Tariq Jalil</producer>
+      <producer>Jeffrey Stott</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Niños/as</category>
+    <icon src="https://milhouse.zapping.live/assets/p7938879_i_h10_ab.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220205230000 -0300" stop="20220206004900 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">El caza recompensas</title>
+    <desc lang="es">Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional. Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Christine Baranski</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Cathy Moriarty</actor>
+      <actor>Joel Garland</actor>
+      <actor>Siobhan Fallon Hogan</actor>
+      <actor>Adam Rose</actor>
+      <actor>Jason Kolotouros</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>Ori Marmur</producer>
+      <producer>Donald Lee Jr.</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Comendia Romántica</category>
+    <icon src="https://milhouse.zapping.live/assets/p7884722_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206004900 -0300" stop="20220206025300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Agente internacional</title>
+    <desc lang="es">Un agente de Interpol y una abogada de Nueva York unen fuerzas para terminar con el financiamiento ilegal de un banco a un grupo terrorista. Un agente de Interpol y una abogada de Nueva York unen fuerzas para terminar con el financiamiento ilegal de un banco a un grupo terrorista.(n)</desc>
+    <credits>
+      <actor>Clive Owen</actor>
+      <actor>Armin Mueller-Stahl</actor>
+      <actor>Brian O'Byrne</actor>
+      <actor>Patrick Baladi</actor>
+      <actor>Fabrice Scott</actor>
+      <actor>Luca Barbareschi</actor>
+      <actor>Felix Solis</actor>
+      <actor>Nilaja Sun</actor>
+      <actor>Tibor Feldman</actor>
+      <producer>Charles Roven</producer>
+      <producer>Lloyd Phillips</producer>
+      <producer>Ryan Kavanaugh</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p176365_i_h10_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206025300 -0300" stop="20220206050000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">La verdad desnuda</title>
+    <desc lang="es">Un famoso abogado defiende a un monaguillo que, aparentemente, es el culpable del asesinato de un respetado arzobispo. Un famoso abogado defiende a un monaguillo que, aparentemente, es el culpable del asesinato de un respetado arzobispo.(n)</desc>
+    <credits>
+      <actor>Richard Gere</actor>
+      <actor>Edward Norton</actor>
+      <actor>Alfre Woodard</actor>
+      <actor>Terry O'Quinn</actor>
+      <actor>Steven Bauer</actor>
+      <actor>Tony Plana</actor>
+      <actor>Maura Tierney</actor>
+      <producer>Robert McMinn</producer>
+      <producer>Gary Lucchesi</producer>
+      <producer>Hawk Koch</producer>
+    </credits>
+    <date>1996</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p17869_i_h10_af.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206050000 -0300" stop="20220206070000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Ojo por ojo</title>
+    <desc lang="es">Una madre furiosa hace justicia con sus propias manos cuando el hombre que violó y asesinó a su hija sale libre. Una madre furiosa hace justicia con sus propias manos cuando el hombre que violó y asesinó a su hija sale libre.(n)</desc>
+    <credits>
+      <actor>Sally Field</actor>
+      <actor>Ed Harris</actor>
+      <actor>Joe Mantegna</actor>
+      <actor>Olivia Burnette</actor>
+      <actor>Philip Hall</actor>
+      <producer>Michael Levy</producer>
+    </credits>
+    <date>1996</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p17573_i_h10_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206070000 -0300" stop="20220206073000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206073000 -0300" stop="20220206080000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206080000 -0300" stop="20220206083000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206083000 -0300" stop="20220206090000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206090000 -0300" stop="20220206093000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206093000 -0300" stop="20220206100500 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206100500 -0300" stop="20220206103000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220206103000 -0300" stop="20220206112000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Remedy</title>
+    <desc lang="es">Cuando Bruno sorprende a todos al hacer un diagnóstico oscuro que salva la vida de un paciente, se revela un secreto trascendental de su pasado. Cuando Bruno sorprende a todos al hacer un diagnóstico oscuro que salva la vida de un paciente, se revela un secreto trascendental de su pasado.(n)</desc>
+    <credits>
+      <actor>Dillon Casey</actor>
+      <actor>Enrico Colantoni</actor>
+      <actor>Genelle Williams</actor>
+      <actor>Diego Fuentes</actor>
+      <actor>Patrick McKenna</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p10576379_e_h10_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206112000 -0300" stop="20220206130400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">¿Qué voy a hacer con mi marido?</title>
+    <desc lang="es">Una mujer lleva a su esposo al retiro de un reconocido consejero matrimonial con la esperanza de renovar su relación. Una mujer lleva a su esposo al retiro de un reconocido consejero matrimonial con la esperanza de renovar su relación.(n)</desc>
+    <credits>
+      <actor>Meryl Streep</actor>
+      <actor>Steve Carell</actor>
+      <actor>Mimi Rogers</actor>
+      <actor>Jean Smart</actor>
+      <actor>Ben Rappaport</actor>
+      <actor>Patch Darragh</actor>
+      <actor>Charles Techman</actor>
+      <actor>Ann Harada</actor>
+      <producer>Todd Black</producer>
+      <producer>Steve Tisch</producer>
+      <producer>Nathan Kahane</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Comedia Dramática</category>
+    <icon src="https://milhouse.zapping.live/assets/p9076083_i_h10_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206130400 -0300" stop="20220206144600 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Elektra</title>
+    <desc lang="es">Una asesina es contratada para matar a un hombre y a su hija, pero decide protegerlos mientras lucha contra sus adversarios. Una asesina es contratada para matar a un hombre y a su hija, pero decide protegerlos mientras lucha contra sus adversarios.(n)</desc>
+    <credits>
+      <actor>Jennifer Garner</actor>
+      <actor>Kirsten Prout</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Natassia Malthe</actor>
+      <actor>Chris Ackerman</actor>
+      <actor>Hiro Kanagawa</actor>
+      <actor>Nathaniel Arcand</actor>
+      <producer>Mark Johnson</producer>
+      <producer>Kevin Feige</producer>
+      <producer>Brent O'Connor</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Acción</category>
+    <icon src="https://milhouse.zapping.live/assets/p35311_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220206144600 -0300" stop="20220206154000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">La Ley y El Orden: Intento Criminal</title>
+    <desc lang="es">Cuatro amigos de secundaria son chantajeados por la muerte de otro amigo. Cuatro amigos de secundaria son chantajeados por la muerte de otro amigo.(n)</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>William Mapother</actor>
+      <actor>Karl Bury</actor>
+      <actor>Erin Dilly</actor>
+      <actor>Curtiss Cook</actor>
+      <producer>Dick Wolf</producer>
+      <producer>Peter Jankowski</producer>
+      <producer>Warren Leight</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p8122067_e_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206154000 -0300" stop="20220206163200 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">La Ley y El Orden: Intento Criminal</title>
+    <desc lang="es">Un cuerpo descubierto en el sitio de una construcción sigue el modelo de asesino en serie ejecutado. Un cuerpo descubierto en el sitio de una construcción sigue el modelo de asesino en serie ejecutado.(n)</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Lorraine Bracco</actor>
+      <actor>Ryan O'Nan</actor>
+      <actor>Paul Calderon</actor>
+      <actor>Reathel Bean</actor>
+      <producer>Dick Wolf</producer>
+      <producer>Peter Jankowski</producer>
+      <producer>Warren Leight</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p8131410_e_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206163200 -0300" stop="20220206172300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">La Ley y El Orden: Intento Criminal</title>
+    <desc lang="es">Un oficial de nivel medio es asesinado luego de amenazar a dos doctores con chantajes. Un oficial de nivel medio es asesinado luego de amenazar a dos doctores con chantajes.(n)</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Adam Rothenberg</actor>
+      <actor>Kelly AuCoin</actor>
+      <actor>Lenny Venito</actor>
+      <actor>Vincent Curatola</actor>
+      <actor>Erin Fritch</actor>
+      <actor>Diane Davis</actor>
+      <actor>Cathy Moriarty</actor>
+      <producer>Dick Wolf</producer>
+      <producer>Peter Jankowski</producer>
+      <producer>Warren Leight</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p8156012_e_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206172300 -0300" stop="20220206181500 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">La Ley y El Orden: Intento Criminal</title>
+    <desc lang="es">Fantasmas del pasado de Nichols regresan cuando investigan el asesinato de un excéntrico de libros. Fantasmas del pasado de Nichols regresan cuando investigan el asesinato de un excéntrico de libros.(n)</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Mili Avital</actor>
+      <actor>Brennan Brown</actor>
+      <actor>Geraldine Hughes</actor>
+      <actor>Melanie Gray</actor>
+      <producer>Dick Wolf</producer>
+      <producer>Peter Jankowski</producer>
+      <producer>Warren Leight</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p8131497_e_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206181500 -0300" stop="20220206190800 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">La Ley y El Orden: Intento Criminal</title>
+    <desc lang="es">Las autoridades investigan a un boxeador al descubrir que él lidera peleas de perros clandestinas. Las autoridades investigan a un boxeador al descubrir que él lidera peleas de perros clandestinas.(n)</desc>
+    <credits>
+      <actor>Jeff Goldblum</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Ralph Macchio</actor>
+      <actor>Dan Lauria</actor>
+      <actor>Nicoye Banks</actor>
+      <actor>Xosha Roquemore</actor>
+      <actor>Terri Garber</actor>
+      <actor>Kareem Saviñon</actor>
+      <actor>Damiyr Shuford</actor>
+      <producer>Dick Wolf</producer>
+      <producer>Peter Jankowski</producer>
+      <producer>Warren Leight</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p8131491_e_h8_ad.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220206190800 -0300" stop="20220206211300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">¿Y dónde están los Morgan?</title>
+    <desc lang="es">A una pareja se les presenta una oportunidad inverosímil de salvar su matrimonio cuando, después de presenciar un asesinato, el FBI los oculta en un pequeño pueblo de Wyoming. A una pareja se les presenta una oportunidad inverosímil de salvar su matrimonio cuando, después de presenciar un asesinato, el FBI los oculta en un pequeño pueblo de Wyoming.(n)</desc>
+    <credits>
+      <actor>Hugh Grant</actor>
+      <actor>Sam Elliott</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Michael Kelly</actor>
+      <producer>Martin Shafer</producer>
+      <producer>Anthony Katagas</producer>
+      <producer>Liz Glotzer</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p3559035_i_h10_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220206211300 -0300" stop="20220206230000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+    <title lang="es">Frecuencia mortal</title>
+    <desc lang="es">Una broma tiene funestos resultados para dos hermanos cuando provocan la ira del psicótico operador de un trailer. Una broma tiene funestos resultados para dos hermanos cuando provocan la ira del psicótico operador de un trailer.(n)</desc>
+    <credits>
+      <actor>Steve Zahn</actor>
+      <actor>Leelee Sobieski</actor>
+      <actor>Stuart Stone</actor>
+      <actor>Brian Leckner</actor>
+      <producer>Chris Moore</producer>
+      <producer>Patrick Markey</producer>
+      <producer>J.J. Abrams</producer>
+    </credits>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p28262_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220205010000 -0300" stop="20220205014900 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">El Chapo</title>
+    <episode-num system="onscreen">S3 E304</episode-num>
+  </programme>
+  <programme start="20220205014900 -0300" stop="20220205033900 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">En la mente del asesino</title>
+  </programme>
+  <programme start="20220205033900 -0300" stop="20220205042900 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">El Chapo</title>
+    <episode-num system="onscreen">S3 E304</episode-num>
+  </programme>
+  <programme start="20220205042900 -0300" stop="20220205052100 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <episode-num system="onscreen">S12 E1204</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220205052100 -0300" stop="20220205061600 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Intervención El triángulo</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20220205061600 -0300" stop="20220205071100 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">60 días preso el experimento</title>
+    <episode-num system="onscreen">E74</episode-num>
+  </programme>
+  <programme start="20220205071100 -0300" stop="20220205080600 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Lo mejor de policias en Alaska</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220205080600 -0300" stop="20220205090000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Mi vida con sindrome de Down</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20220205090000 -0300" stop="20220205095300 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acusado Culpable o inocente</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220205095300 -0300" stop="20220205104600 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Máxima seguridad</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220205104600 -0300" stop="20220205113900 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Crímenes no resueltos</title>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20220205113900 -0300" stop="20220205120700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Alto! Frontera</title>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20220205120700 -0300" stop="20220205123100 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Super animales</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220205123100 -0300" stop="20220205125400 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Super animales</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220205125400 -0300" stop="20220205134500 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Top Dog</title>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20220205134500 -0300" stop="20220205143700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Top Dog</title>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20220205143700 -0300" stop="20220205153000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Esperanza en la frontera</title>
+  </programme>
+  <programme start="20220205153000 -0300" stop="20220205162000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acumuladores compulsivos</title>
+    <episode-num system="onscreen">S12 E137</episode-num>
+  </programme>
+  <programme start="20220205162000 -0300" stop="20220205171300 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acusado Culpable o inocente</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220205171300 -0300" stop="20220205180100 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Último día en libertad</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220205180100 -0300" stop="20220205182700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Court Cam Acción judici</title>
+    <episode-num system="onscreen">S3 E27</episode-num>
+  </programme>
+  <programme start="20220205182700 -0300" stop="20220205185200 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Court Cam Acción judici</title>
+    <episode-num system="onscreen">S3 E28</episode-num>
+  </programme>
+  <programme start="20220205185200 -0300" stop="20220205192000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Cam Alert Captura exitos</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220205192000 -0300" stop="20220205194800 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Cam Alert Captura exito</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220205194800 -0300" stop="20220205201700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Metropoli</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220205201700 -0300" stop="20220205204500 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Alto! Frontera</title>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20220205204500 -0300" stop="20220205213500 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <episode-num system="onscreen">S12 E1204</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220205213500 -0300" stop="20220205232500 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">En la mente del asesino</title>
+  </programme>
+  <programme start="20220205232500 -0300" stop="20220206010000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Amityville: El Despertar</title>
+    <title lang="xx">Amityville: The Awakening</title>
+    <desc lang="es">Una familia se muda a una casa para poder costear los tratamientos costosos de su hijo comatoso, pero sucesos extraños hacen perturbar la paz de la familia.(n)</desc>
+    <credits>
+      <actor>Bella Thorne</actor>
+      <actor>Lee Bane</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Thomas Mann</actor>
+      <actor>Taylor Spreitler</actor>
+      <producer>Jason Blum</producer>
+      <producer>Daniel Farrands</producer>
+      <composer>Robin Coudert</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_origen_del_terror_en_amityville.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206232500 -0300" stop="20220207010000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Amityville: El Despertar</title>
+    <title lang="xx">Amityville: The Awakening</title>
+    <desc lang="es">Una familia se muda a una casa para poder costear los tratamientos costosos de su hijo comatoso, pero sucesos extraños hacen perturbar la paz de la familia.(n)</desc>
+    <credits>
+      <actor>Bella Thorne</actor>
+      <actor>Lee Bane</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Thomas Mann</actor>
+      <actor>Taylor Spreitler</actor>
+      <producer>Jason Blum</producer>
+      <producer>Daniel Farrands</producer>
+      <composer>Robin Coudert</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_origen_del_terror_en_amityville.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220207010000 -0300" stop="20220207030200 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Espejos siniestros</title>
+  </programme>
+  <programme start="20220207030200 -0300" stop="20220207043400 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Plantación maldita</title>
+  </programme>
+  <programme start="20220207043400 -0300" stop="20220207052600 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">La vida pasada de mi hij</title>
+    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme>
+  <programme start="20220207052600 -0300" stop="20220207055400 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Alto! Frontera</title>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20220207055400 -0300" stop="20220207062300 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Metropoli</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220207062300 -0300" stop="20220207065200 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Metropoli</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220207065200 -0300" stop="20220207071700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Escuadrón de emergencias</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20220207071700 -0300" stop="20220207074300 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Escuadrón de emergencias</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20220207074300 -0300" stop="20220207081000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Rescate en acción</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220207081000 -0300" stop="20220207090000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acumuladores compulsivos</title>
+    <episode-num system="onscreen">S12 E137</episode-num>
+  </programme>
+  <programme start="20220207090000 -0300" stop="20220207093200 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Metropoli</title>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220207093200 -0300" stop="20220207102800 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Lo mejor de policias en Alaska</title>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20220207102800 -0300" stop="20220207112300 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acusado Culpable o inocente</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220207112300 -0300" stop="20220207115000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Super animales</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20220207115000 -0300" stop="20220207121600 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Super animales</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220207121600 -0300" stop="20220207130800 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Top Dog</title>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20220207130800 -0300" stop="20220207140000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Top Dog</title>
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20220207140000 -0300" stop="20220207145100 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Famosos y fantasmas</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220207145100 -0300" stop="20220207155100 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acumuladores compulsivos</title>
+    <episode-num system="onscreen">S12 E138</episode-num>
+  </programme>
+  <programme start="20220207155100 -0300" stop="20220207161900 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Alto! Frontera</title>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme start="20220207161900 -0300" stop="20220207164700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Alto! Frontera</title>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20220207164700 -0300" stop="20220207173900 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Top Dog</title>
+    <episode-num system="onscreen">S1 E105</episode-num>
+  </programme>
+  <programme start="20220207173900 -0300" stop="20220207180400 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Super animales</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220207180400 -0300" stop="20220207182700 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Super animales</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220207182700 -0300" stop="20220207192000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Lo mejor de policias en Alaska</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20220207192000 -0300" stop="20220207201300 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Acusado Culpable o inocente</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20220207201300 -0300" stop="20220207210600 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Crímenes no resueltos</title>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20220207210600 -0300" stop="20220207215800 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Top Dog</title>
+    <episode-num system="onscreen">S2 E19</episode-num>
+  </programme>
+  <programme start="20220207215800 -0300" stop="20220208000000 -0300" channel="CINE PREMIUM | A&amp;E SD">
+    <title lang="es">Espejos siniestros</title>
+  </programme>
+  <programme start="20220205000900 -0300" stop="20220205014900 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Wild card</title>
+  </programme>
+  <programme start="20220205014900 -0300" stop="20220205041600 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Battleship Batalla Naval</title>
+  </programme>
+  <programme start="20220205041600 -0300" stop="20220205061200 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Se busca</title>
+  </programme>
+  <programme start="20220205061200 -0300" stop="20220205082500 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Lone Survivor</title>
+  </programme>
+  <programme start="20220205082500 -0300" stop="20220205090000 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Lo que ocurrió el 11 de sept</title>
+  </programme>
+  <programme start="20220205090000 -0300" stop="20220205113900 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Molly's Game</title>
+    <title lang="xx">Molly's Game</title>
+    <desc lang="es">La verdadera historia de Molly Bloom, la esquiadora olímpica que dirigió uno de los juegos de póquer más exclusivos durante una década antes de ser detenida.(n)</desc>
+    <credits>
+      <actor>Jessica Chastain</actor>
+      <actor>Idris Elba</actor>
+      <actor>Kevin Costner</actor>
+      <actor>Samantha Isler</actor>
+      <producer>Mark Gordon</producer>
+      <producer>Amy Pascal</producer>
+      <composer>Daniel Pemberton</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/molly_s_game.jpg" />
+  </programme>
+  <programme start="20220205113900 -0300" stop="20220205132700 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">What If</title>
+  </programme>
+  <programme start="20220205132700 -0300" stop="20220205153600 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">La batalla de Riddick</title>
+  </programme>
+  <programme start="20220205153600 -0300" stop="20220205171500 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Shrek 2</title>
+    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros.(n)</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Jennifer Saunders</actor>
+      <producer>Aron Warner</producer>
+      <producer>John H. Williams</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2004</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220205171500 -0300" stop="20220205191900 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Love Happens</title>
+  </programme>
+  <programme start="20220205191900 -0300" stop="20220205220000 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Eternamente comprometidos</title>
+  </programme>
+  <programme start="20220205220000 -0300" stop="20220206000000 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Amigos con beneficios</title>
+  </programme>
+  <programme start="20220206000000 -0300" stop="20220206013900 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Shrek 2</title>
+    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros.(n)</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Jennifer Saunders</actor>
+      <producer>Aron Warner</producer>
+      <producer>John H. Williams</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2004</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220206013900 -0300" stop="20220206034900 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">La batalla de Riddick</title>
+  </programme>
+  <programme start="20220206034900 -0300" stop="20220206061400 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Dragón Rojo</title>
+  </programme>
+  <programme start="20220206061400 -0300" stop="20220206090000 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">The Vatican Tapes</title>
+  </programme>
+  <programme start="20220206090000 -0300" stop="20220206112500 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Más allá de la vida (Hereafter)</title>
+    <desc lang="es">Un obrero americano, una periodista francesa y un estudiante londinense son tres personas que han sido tocados por la muerte en tres diferentes maneras.(n)</desc>
+    <credits>
+      <actor>Matt Damon</actor>
+      <actor>Cécile De France</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <producer>Clint Eastwood</producer>
+      <producer>Kathleen Kennedy</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mas_alla_de_la_vida_hereafter.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220206112500 -0300" stop="20220206140500 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Hacksaw Ridge</title>
+    <title lang="xx">Hacksaw Ridge</title>
+    <desc lang="es">Un soldado mantuvo su juramento que jamás portaría un arma y asesinaría a nadie en la Segunda Guerra Mundial y que trataría de salvar a todos los que pudiera.(n)</desc>
+    <credits>
+      <actor>Andrew Garfield</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Sam Worthington</actor>
+      <actor>Luke Bracey</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Ryan Corr</actor>
+      <actor>Teresa Palmer</actor>
+      <actor>Richard Pyros</actor>
+      <producer>Paul Currie</producer>
+      <producer>Bruce Davey</producer>
+      <composer>Rupert Gregson-William</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hasta_el_ultimo_hombre_2016.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Australia</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220206140500 -0300" stop="20220206161600 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">The foreigner</title>
+  </programme>
+  <programme start="20220206161600 -0300" stop="20220206182200 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Ender's Game</title>
+  </programme>
+  <programme start="20220206182200 -0300" stop="20220206200600 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">Our House</title>
+  </programme>
+  <programme start="20220206200600 -0300" stop="20220206214800 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20220206214800 -0300" stop="20220207000000 -0300" channel="CINE PREMIUM | Cinemax SD">
+    <title lang="es">The foreigner</title>
+  </programme>
+</tv>
