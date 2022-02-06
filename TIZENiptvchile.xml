@@ -20,7 +20,8 @@
   </channel>
   <channel id="CINE PREMIUM | HBO Mundi SD">
     <display-name lang="es">CINE PREMIUM | HBO Mundi SD</display-name>
-    <url>http://www.gatotv.com</url>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/hbomundi.jpg" />
+    <url>http://www.zappingtv.com</url>
   </channel>
   <channel id="CINE PREMIUM | HBO 2 SD">
     <display-name lang="es">CINE PREMIUM | HBO 2 SD</display-name>
@@ -2172,17 +2173,274 @@
     <title lang="es">Todos mienten</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20220206191200 -0300" stop="20220206213100 -0300" channel="CINE PREMIUM | HBO Mundi SD">
-    <title lang="es">La búsqueda</title>
+  <programme start="20220206203000 -0300" stop="20220206220000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">The Roads Not Taken</title>
+    <desc lang="es">El viaje de un hombre por la ciudad de Nueva York toma un giro alucinatorio cuando comienza a pensar en las vidas alternativas que pudo haber tenido. Su hija lucha con su futuro. El viaje de un hombre por la ciudad de Nueva York toma un giro alucinatorio cuando comienza a pensar en las vidas alternativas que pudo haber tenido. Su hija lucha con su futuro.(c)</desc>
+    <credits>
+      <actor>Javier Bardem</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Laura Linney</actor>
+      <actor>Aaron Joshua</actor>
+      <producer>Christopher Sheppard</producer>
+      <producer>Stephen Dailey</producer>
+      <producer>Cristóbal García</producer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p17760795_i_h8_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
   </programme>
-  <programme start="20220206213100 -0300" stop="20220206233000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
-    <title lang="es">Una buena mentira</title>
+  <programme start="20220206220000 -0300" stop="20220206235000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Swan Song</title>
+    <desc lang="es">Cameron Turner es diagnosticado con una enfermedad terminal. Luego de dar con una solución experimental para proteger a su esposa e hijo del dolor, debe alterar su destino. Cameron Turner es diagnosticado con una enfermedad terminal. Luego de dar con una solución experimental para proteger a su esposa e hijo del dolor, debe alterar su destino.(c)</desc>
+    <credits>
+      <actor>Mahershala Ali</actor>
+      <actor>Glenn Close</actor>
+      <actor>Adam Beach</actor>
+      <actor>Dax Rey</actor>
+      <actor>JayR Tinaco</actor>
+      <producer>Mahershala Ali</producer>
+      <producer>Jonathan King</producer>
+      <producer>Adam Shulman</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p20664253_i_h8_ae.jpg" />
   </programme>
-  <programme start="20220206233000 -0300" stop="20220207010000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
-    <title lang="es">Caminos no elegidos</title>
+  <programme start="20220206235000 -0300" stop="20220207012700 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Honey Boy</title>
+    <desc lang="es">Otis, un niño de 12 años, se convierte en una estrella de la televisión. El violento y alcohólico padre del muchacho retorna a su vida para convertirse en su tutor legal y, durante diez años, entre ambos se establece una relación tormentosa. Otis, un niño de 12 años, se convierte en una estrella de la televisión. El violento y alcohólico padre del muchacho retorna a su vida para convertirse en su tutor legal y, durante diez años, entre ambos se establece una relación tormentosa.(c)</desc>
+    <credits>
+      <actor>Shia LaBeouf</actor>
+      <actor>Noah Jupe</actor>
+      <actor>Laura San Giacomo</actor>
+      <actor>Natasha Lyonne</actor>
+      <actor>Clifton Collins Jr.</actor>
+      <producer>Brian Kavanaugh-Jones</producer>
+      <producer>Anita Gou</producer>
+      <producer>Alma Har'el</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p16929786_i_h10_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
   </programme>
-  <programme start="20220207233000 -0300" stop="20220208010000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
-    <title lang="es">Caminos no elegidos</title>
+  <programme start="20220207012700 -0300" stop="20220207033600 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Cinema Paradiso</title>
+    <desc lang="es">Salvatore es un niño de un pueblo italiano, donde el único pasatiempo es ir al cine y Salvatore crece creyendo que el cine es magia. Salvatore es un niño de un pueblo italiano, donde el único pasatiempo es ir al cine y Salvatore crece creyendo que el cine es magia.(g)</desc>
+    <credits>
+      <actor>Salvatore Cascio</actor>
+      <actor>Marco Leonardi</actor>
+      <actor>Agnese Nano</actor>
+      <actor>Isa Danieli</actor>
+      <producer>Franco Cristaldi</producer>
+      <producer>Mino Barbera</producer>
+      <producer>Giovanna Romagnoli</producer>
+    </credits>
+    <date>1988</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p30077_i_h11_ab.jpg" />
+    <rating>
+      <value>10+</value>
+    </rating>
+  </programme>
+  <programme start="20220207033600 -0300" stop="20220207060000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Time of the Gypsies</title>
+    <desc lang="es">El sentido de moralidad de un joven es reemplazado por los malos consejos que recibe de un grupo de gitanos. El sentido de moralidad de un joven es reemplazado por los malos consejos que recibe de un grupo de gitanos.(g)</desc>
+    <credits>
+      <actor>Davor Dujmovic</actor>
+      <actor>Ljubica Adzovic</actor>
+      <actor>Sinolicka Trpkova</actor>
+      <producer>Harry Saltzman</producer>
+      <producer>Mirza Pasic</producer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p14506_i_h10_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220207060000 -0300" stop="20220207075000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Il giorno più bello del mondo</title>
+    <desc lang="es">Arturo es un empresario teatral sin talento para el arte y los negocios. Cuando un pariente lejano le confía la protección de su sobrino, el hombre descubre que está dotado de un poder fenomenal que podría cambiar el destino de su negocio. Arturo es un empresario teatral sin talento para el arte y los negocios. Cuando un pariente lejano le confía la protección de su sobrino, el hombre descubre que está dotado de un poder fenomenal que podría cambiar el destino de su negocio.(g)</desc>
+    <credits>
+      <actor>Alessandro Siani</actor>
+      <actor>Giovanni Esposito</actor>
+      <actor>Leone Riva</actor>
+      <actor>Roberto Bocchi</actor>
+      <producer>Giovanni Stabilini</producer>
+      <producer>Massimo Di Rocco</producer>
+      <producer>Marco Chimenz</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p17546893_i_h10_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220207075000 -0300" stop="20220207093500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">La Befana vien di notte</title>
+    <desc lang="es">Seis alumnos de primaria sospechan que su profesora desaparecida es en realidad la Befana, una bruja navideña que entrega regalos a los niños buenos, por lo que deciden rescatarla y al mismo tiempo salvar las fiestas. Seis alumnos de primaria sospechan que su profesora desaparecida es en realidad la Befana, una bruja navideña que entrega regalos a los niños buenos, por lo que deciden rescatarla y al mismo tiempo salvar las fiestas.(g)</desc>
+    <credits>
+      <actor>Paola Cortellesi</actor>
+      <actor>Fausto Sciarappa</actor>
+      <actor>Luca Avagliano</actor>
+      <actor>Odette Adado</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p17001859_i_h8_ag.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220207093500 -0300" stop="20220207125000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Spartacus</title>
+    <desc lang="es">La historia de Kubrick ganadora de un Óscar, sobre un gladiador que organizó a su pueblo contra la tiranía romana. La historia de Kubrick ganadora de un Óscar, sobre un gladiador que organizó a su pueblo contra la tiranía romana.(g)</desc>
+    <credits>
+      <actor>Kirk Douglas</actor>
+      <actor>Jean Simmons</actor>
+      <actor>Charles Laughton</actor>
+      <actor>John Gavin</actor>
+      <actor>Herbert Lom</actor>
+      <actor>Charles McGraw</actor>
+      <actor>Woody Strode</actor>
+      <actor>Peter Brocco</actor>
+      <producer>Kirk Douglas</producer>
+      <producer>Edward Lewis</producer>
+    </credits>
+    <category lang="es">Drama Histórico</category>
+    <icon src="https://milhouse.zapping.live/assets/p289_i_h11_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220207125000 -0300" stop="20220207144500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Official Secrets</title>
+    <desc lang="es">En el año 2003, mientras EE. UU. busca aliados para invadir Irak, la traductora y agente secreta británica Katherine Gunn recibe un mensaje de la NSA en el que pide la ayuda inglesa para extorsionar a la ONU y obtener el respaldo internacional. En el año 2003, mientras EE. UU. busca aliados para invadir Irak, la traductora y agente secreta británica Katherine Gunn recibe un mensaje de la NSA en el que pide la ayuda inglesa para extorsionar a la ONU y obtener el respaldo internacional.(g)</desc>
+    <credits>
+      <actor>Keira Knightley</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Adam Bakri</actor>
+      <actor>Indira Varma</actor>
+      <actor>MyAnna Buring</actor>
+      <actor>Tamsin Greig</actor>
+      <producer>Ged Doherty</producer>
+      <producer>Melissa Zuo</producer>
+      <producer>Elizabeth Fowler</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p16888110_i_h8_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220207144500 -0300" stop="20220207161000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Chacun chez soi</title>
+    <desc lang="es">Una pareja casada planeaba pasar el año viajando al extranjero. En cambio, su hija de 27 años y su novio pierden su departamento y se mudan a su casa, arruinando el plan para el gran viaje. Una pareja casada planeaba pasar el año viajando al extranjero. En cambio, su hija de 27 años y su novio pierden su departamento y se mudan a su casa, arruinando el plan para el gran viaje.(g)</desc>
+    <credits>
+      <actor>Stéphane de Groodt</actor>
+      <actor>Michèle Laroque</actor>
+      <actor>Laurence Bibot</actor>
+      <actor>Lionel Abelanski</actor>
+      <actor>Galice Gracci</actor>
+      <actor>Manuel Severi</actor>
+      <producer>Dominique Farrugia</producer>
+      <producer>Alain Terzian</producer>
+      <producer>Didier Lupfer</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p17557272_i_h8_ab.jpg" />
+  </programme>
+  <programme start="20220207161000 -0300" stop="20220207190000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">Boyhood: Momentos de una vida</title>
+    <desc lang="es">El proceso de maduración de un niño texano a lo largo de 12 años, mientras su madre, una mujer soltera, su hermana y él tratan de prosperar. El proceso de maduración de un niño texano a lo largo de 12 años, mientras su madre, una mujer soltera, su hermana y él tratan de prosperar.(g)</desc>
+    <credits>
+      <actor>Ellar Coltrane</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Tamara Jolaine</actor>
+      <actor>Jordan Howard</actor>
+      <producer>Richard Linklater</producer>
+      <producer>Jonathan Sehring</producer>
+      <producer>Cathleen Sutherland</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p10673530_i_h8_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220207190000 -0300" stop="20220207200500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">The Gilded Age</title>
+    <desc lang="es">Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha. Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha.(g)</desc>
+    <credits>
+      <director>Julian Fellowes</director>
+      <actor>Christine Baranski</actor>
+      <actor>Carrie Coon</actor>
+      <actor>Denée Benton</actor>
+      <actor>Taissa Farmiga</actor>
+      <actor>Simon Jones</actor>
+      <actor>Thomas Cocquerel</actor>
+      <producer>Julian Fellowes</producer>
+      <producer>Michael Engler</producer>
+      <producer>David Crockett</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Drama Histórico</category>
+    <icon src="https://milhouse.zapping.live/assets/p15123309_b_h8_ag.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220207200500 -0300" stop="20220207220000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">The Florida Project</title>
+    <desc lang="es">Halley vive con Moonee, su hija de 6 años, en el motel que regenta Bobby, un hombre de aspecto rudo pero de carácter compasivo. Pese a todos los problemas por los que pasan, para la pequeña Moonee cada día es una nueva oportunidad de ser feliz. Halley vive con Moonee, su hija de 6 años, en el motel que regenta Bobby, un hombre de aspecto rudo pero de carácter compasivo. Pese a todos los problemas por los que pasan, para la pequeña Moonee cada día es una nueva oportunidad de ser feliz.(g)</desc>
+    <credits>
+      <actor>Willem Dafoe</actor>
+      <actor>Bria Vinaite</actor>
+      <actor>Christopher Rivera</actor>
+      <actor>Macon Blair</actor>
+      <actor>Sandy Kane</actor>
+      <producer>Elayne Schneiderman Schmidt</producer>
+      <producer>Chris Bergoch</producer>
+      <producer>Andrew Duncan</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p14263302_i_h8_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220207220000 -0300" stop="20220207235500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
+    <title lang="es">At Eternity's Gate</title>
+    <desc lang="es">El reconocido y atormentado artista Vincent van Gogh pasa sus últimos años en Arlés, Francia, pintando obras maestras de la naturaleza que lo rodea. El reconocido y atormentado artista Vincent van Gogh pasa sus últimos años en Arlés, Francia, pintando obras maestras de la naturaleza que lo rodea.(c)</desc>
+    <credits>
+      <actor>Willem Dafoe</actor>
+      <actor>Oscar Isaac</actor>
+      <actor>Mathieu Amalric</actor>
+      <actor>Niels Arestrup</actor>
+      <actor>Vladimir Consigny</actor>
+      <actor>Alexis Michalik</actor>
+      <actor>Lolita Chammah</actor>
+      <producer>Nik Bower</producer>
+      <producer>Nicolas Lhermitte</producer>
+      <producer>Marc Schmidheiny</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Biografía</category>
+    <icon src="https://milhouse.zapping.live/assets/p15790672_i_h8_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
   </programme>
   <programme start="20220208010000 -0300" stop="20220208025000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
     <title lang="es">Swan song</title>
@@ -9173,7 +9431,7 @@
   </programme>
   <programme start="20220206190600 -0300" stop="20220206200400 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Guardianes del pantano</title>
-    <desc lang="es">Una pitón gigante escapa de las manos de Dusty y ahora él está obsesionado con atraparla. Una pitón gigante escapa de las manos de Dusty y ahora él está obsesionado con atraparla.(n)</desc>
+    <desc lang="es">Una pitón gigante escapa de las manos de Dusty y ahora él está obsesionado con atraparla. Una pitón gigante escapa de las manos de Dusty y ahora él está obsesionado con atraparla.</desc>
     <date>2019</date>
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p16873591_e_h10_aa.jpg" />
@@ -9183,7 +9441,7 @@
   </programme>
   <programme start="20220206200400 -0300" stop="20220206210200 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Desafío X 2</title>
-    <desc lang="es">Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos. Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos.(n)</desc>
+    <desc lang="es">Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos. Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos.</desc>
     <credits>
       <actor>Cody Lundin</actor>
       <actor>Paul Christie</actor>
@@ -9200,7 +9458,7 @@
   </programme>
   <programme start="20220206210200 -0300" stop="20220206220000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Desafío X 2</title>
-    <desc lang="es">Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero. Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero.(n)</desc>
+    <desc lang="es">Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero. Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero.</desc>
     <credits>
       <actor>Dave Canterbury</actor>
       <actor>Paul Christie</actor>
@@ -9217,7 +9475,7 @@
   </programme>
   <programme start="20220206220000 -0300" stop="20220206225800 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Supervivencia al desnudo</title>
-    <desc lang="es">En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro. En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro.(n)</desc>
+    <desc lang="es">En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro. En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <producer>David Garfinkle</producer>
@@ -9233,7 +9491,7 @@
   </programme>
   <programme start="20220206225800 -0300" stop="20220206235600 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Supervivencia al desnudo</title>
-    <desc lang="es">Samantha y Vincent quieren vivir una experiencia extrema en la selva filipina. La aventura llega en un momento crítico de sus vidas: Vincent pretende demostrarse que aún es joven; Samantha desea culminar un periplo vital de cuatro años. Samantha y Vincent quieren vivir una experiencia extrema en la selva filipina. La aventura llega en un momento crítico de sus vidas: Vincent pretende demostrarse que aún es joven; Samantha desea culminar un periplo vital de cuatro años.(n)</desc>
+    <desc lang="es">Samantha y Vincent quieren vivir una experiencia extrema en la selva filipina. La aventura llega en un momento crítico de sus vidas: Vincent pretende demostrarse que aún es joven; Samantha desea culminar un periplo vital de cuatro años. Samantha y Vincent quieren vivir una experiencia extrema en la selva filipina. La aventura llega en un momento crítico de sus vidas: Vincent pretende demostrarse que aún es joven; Samantha desea culminar un periplo vital de cuatro años.</desc>
     <date>2019</date>
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p17467603_e_h11_aa.jpg" />
@@ -9243,7 +9501,7 @@
   </programme>
   <programme start="20220206235600 -0300" stop="20220207005100 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Todos contra Ed Stafford</title>
-    <desc lang="es">Ed se enfrenta a Xinlei Wu en el desierto de Aksai, en el noroeste de China. Ellos encuentran enormes dunas de arena y laberintos de valles rocosos. Ed se enfrenta a Xinlei Wu en el desierto de Aksai, en el noroeste de China. Ellos encuentran enormes dunas de arena y laberintos de valles rocosos.(n)</desc>
+    <desc lang="es">Ed se enfrenta a Xinlei Wu en el desierto de Aksai, en el noroeste de China. Ellos encuentran enormes dunas de arena y laberintos de valles rocosos. Ed se enfrenta a Xinlei Wu en el desierto de Aksai, en el noroeste de China. Ellos encuentran enormes dunas de arena y laberintos de valles rocosos.</desc>
     <credits>
       <producer>Donovan Chan</producer>
       <producer>Benjamin Trueheart</producer>
@@ -9259,7 +9517,7 @@
   </programme>
   <programme start="20220207005100 -0300" stop="20220207005600 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Será anunciado</title>
-    <desc lang="es">Programación que se anunciará. Programación que se anunciará.(n)</desc>
+    <desc lang="es">Programación que se anunciará. Programación que se anunciará.</desc>
     <date>2004</date>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
     <rating>
@@ -9268,7 +9526,7 @@
   </programme>
   <programme start="20220207005600 -0300" stop="20220207015100 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">El camino de los espíritus</title>
-    <desc lang="es">Amy y Adam investigan un espejo embrujado en Gettysburg, Pensilvania. La actividad paranormal se vuelve más intensa cuando una entidad adquiere forma física. Amy y Adam sospechan que el espejo es un portal hacia otra realidad. Amy y Adam investigan un espejo embrujado en Gettysburg, Pensilvania. La actividad paranormal se vuelve más intensa cuando una entidad adquiere forma física. Amy y Adam sospechan que el espejo es un portal hacia otra realidad.(n)</desc>
+    <desc lang="es">Amy y Adam investigan un espejo embrujado en Gettysburg, Pensilvania. La actividad paranormal se vuelve más intensa cuando una entidad adquiere forma física. Amy y Adam sospechan que el espejo es un portal hacia otra realidad. Amy y Adam investigan un espejo embrujado en Gettysburg, Pensilvania. La actividad paranormal se vuelve más intensa cuando una entidad adquiere forma física. Amy y Adam sospechan que el espejo es un portal hacia otra realidad.</desc>
     <credits>
       <actor>Amy Bruni</actor>
       <actor>Adam Berry</actor>
@@ -9284,7 +9542,7 @@
   </programme>
   <programme start="20220207015100 -0300" stop="20220207024300 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Desafío X 2</title>
-    <desc lang="es">Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos. Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos.(n)</desc>
+    <desc lang="es">Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos. Joe y Cody son dejados en el matorral sudafricano y luchan contra depredadores mortales, animales y humanos.</desc>
     <credits>
       <actor>Cody Lundin</actor>
       <actor>Paul Christie</actor>
@@ -9301,7 +9559,7 @@
   </programme>
   <programme start="20220207024300 -0300" stop="20220207033400 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Desafío X 2</title>
-    <desc lang="es">Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero. Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero.(n)</desc>
+    <desc lang="es">Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero. Dos rancheros tratan de sobrevivir estando desampararados en las llanuras al final del invierno con sólo una cabeza de hacha, un cuero de bisonte, un frasco de vidrio, una caja de estaño y un ariete de acero.</desc>
     <credits>
       <actor>Dave Canterbury</actor>
       <actor>Paul Christie</actor>
@@ -9318,7 +9576,7 @@
   </programme>
   <programme start="20220207033400 -0300" stop="20220207042200 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Supervivencia al desnudo</title>
-    <desc lang="es">En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro. En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro.(n)</desc>
+    <desc lang="es">En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro. En la oscuridad de la selva de Belice, la experta en supervivencia Kim Kelley enfrenta lluvias torrenciales y monos aulladores. Además, Kim sufre privación de sueño, lo cual la expone aun más al peligro.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <producer>David Garfinkle</producer>
@@ -9334,7 +9592,7 @@
   </programme>
   <programme start="20220207042200 -0300" stop="20220207051000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Sobreviviendo Alaska</title>
-    <desc lang="es">La poca nieve caída es un problema para los habitantes de Alaska, porque las máquinas de nieve y los trineos tirados de perro no pueden funcionar en esas condiciones. La poca nieve caída es un problema para los habitantes de Alaska, porque las máquinas de nieve y los trineos tirados de perro no pueden funcionar en esas condiciones.(n)</desc>
+    <desc lang="es">La poca nieve caída es un problema para los habitantes de Alaska, porque las máquinas de nieve y los trineos tirados de perro no pueden funcionar en esas condiciones. La poca nieve caída es un problema para los habitantes de Alaska, porque las máquinas de nieve y los trineos tirados de perro no pueden funcionar en esas condiciones.</desc>
     <credits>
       <actor>Heimo Korth</actor>
       <actor>Bob Harte</actor>
@@ -9352,7 +9610,7 @@
   </programme>
   <programme start="20220207051000 -0300" stop="20220207060000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Expedientes paranormales</title>
-    <desc lang="es">Investigado actividad que amenaza con destruir una familia en Richmond Heights, Ohio. Investigado actividad que amenaza con destruir una familia en Richmond Heights, Ohio.(n)</desc>
+    <desc lang="es">Investigado actividad que amenaza con destruir una familia en Richmond Heights, Ohio. Investigado actividad que amenaza con destruir una familia en Richmond Heights, Ohio.</desc>
     <credits>
       <producer>Jim Casey</producer>
       <producer>David Gerber</producer>
@@ -9368,7 +9626,7 @@
   </programme>
   <programme start="20220207060000 -0300" stop="20220207070000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Hombres del Ártico</title>
-    <desc lang="es">La muerte del invierno llega; una crisis en el pueblo evita que Charlie vaya de cacería; Courtney se encuentra perdido en acción. La muerte del invierno llega; una crisis en el pueblo evita que Charlie vaya de cacería; Courtney se encuentra perdido en acción.(n)</desc>
+    <desc lang="es">La muerte del invierno llega; una crisis en el pueblo evita que Charlie vaya de cacería; Courtney se encuentra perdido en acción. La muerte del invierno llega; una crisis en el pueblo evita que Charlie vaya de cacería; Courtney se encuentra perdido en acción.</desc>
     <credits>
       <actor>Pat Duke</actor>
       <producer>Sumithrin David</producer>
@@ -9384,7 +9642,7 @@
   </programme>
   <programme start="20220207070000 -0300" stop="20220207080000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Mansiones en los árboles</title>
-    <desc lang="es">Peter Nelson construye una casa en los árboles para regalársela a su hija, Emily. Para ello utiliza una estructura que ya existía previamente. Peter Nelson construye una casa en los árboles para regalársela a su hija, Emily. Para ello utiliza una estructura que ya existía previamente.(n)</desc>
+    <desc lang="es">Peter Nelson construye una casa en los árboles para regalársela a su hija, Emily. Para ello utiliza una estructura que ya existía previamente. Peter Nelson construye una casa en los árboles para regalársela a su hija, Emily. Para ello utiliza una estructura que ya existía previamente.</desc>
     <credits>
       <producer>Mark Grove</producer>
       <producer>Troy Queen</producer>
@@ -9400,7 +9658,7 @@
   </programme>
   <programme start="20220207080000 -0300" stop="20220207084800 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Dinosaurios modernos</title>
-    <desc lang="es">El tuátara, un reptil que solo habita en la isla septentrional de Nueva Zelanda y es tan antiguo que convivió con los dinosaurios. El tuátara, un reptil que solo habita en la isla septentrional de Nueva Zelanda y es tan antiguo que convivió con los dinosaurios.(n)</desc>
+    <desc lang="es">El tuátara, un reptil que solo habita en la isla septentrional de Nueva Zelanda y es tan antiguo que convivió con los dinosaurios. El tuátara, un reptil que solo habita en la isla septentrional de Nueva Zelanda y es tan antiguo que convivió con los dinosaurios.</desc>
     <date>2017</date>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p13788844_e_h8_aa.jpg" />
@@ -9410,7 +9668,7 @@
   </programme>
   <programme start="20220207084800 -0300" stop="20220207094200 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Alaska: la última frontera</title>
-    <desc lang="es">Los Kilchers ultiman los preparativos de invierno; Eivin, Atz Lee, Jane y Shane cazan venado; Otto y Charlotte dan un regalo que cambia la vida; Atz Lee y Jane consideran dejar la granja. Los Kilchers ultiman los preparativos de invierno; Eivin, Atz Lee, Jane y Shane cazan venado; Otto y Charlotte dan un regalo que cambia la vida; Atz Lee y Jane consideran dejar la granja.(n)</desc>
+    <desc lang="es">Los Kilchers ultiman los preparativos de invierno; Eivin, Atz Lee, Jane y Shane cazan venado; Otto y Charlotte dan un regalo que cambia la vida; Atz Lee y Jane consideran dejar la granja. Los Kilchers ultiman los preparativos de invierno; Eivin, Atz Lee, Jane y Shane cazan venado; Otto y Charlotte dan un regalo que cambia la vida; Atz Lee y Jane consideran dejar la granja.</desc>
     <credits>
       <actor>Atz Kilcher</actor>
       <actor>Charlotte Kilcher</actor>
@@ -9427,7 +9685,7 @@
   </programme>
   <programme start="20220207094200 -0300" stop="20220207103600 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Pioneros de Polonia</title>
-    <desc lang="es">Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady. Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady.(n)</desc>
+    <desc lang="es">Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady. Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady.</desc>
     <date>2017</date>
     <category lang="es">Naturaleza</category>
     <icon src="https://milhouse.zapping.live/assets/p16182454_i_h10_aa.jpg" />
@@ -9437,7 +9695,7 @@
   </programme>
   <programme start="20220207103600 -0300" stop="20220207113000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Pioneros de Polonia</title>
-    <desc lang="es">Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady. Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady.(n)</desc>
+    <desc lang="es">Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady. Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady.</desc>
     <date>2017</date>
     <category lang="es">Naturaleza</category>
     <icon src="https://milhouse.zapping.live/assets/p16182454_i_h10_aa.jpg" />
@@ -9447,7 +9705,7 @@
   </programme>
   <programme start="20220207113000 -0300" stop="20220207122600 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Pioneros de Polonia</title>
-    <desc lang="es">Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady. Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady.(n)</desc>
+    <desc lang="es">Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady. Historias sobre madereros, ingenieros forestales y otros habitantes que viven en la región más inhóspita y salvaje de Polonia, las montañas de Bieszczady.</desc>
     <date>2017</date>
     <category lang="es">Naturaleza</category>
     <icon src="https://milhouse.zapping.live/assets/p16182454_i_h10_aa.jpg" />
@@ -9457,7 +9715,7 @@
   </programme>
   <programme start="20220207122600 -0300" stop="20220207132200 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Dra. Dee: Veterinaria de Alaska</title>
-    <desc lang="es">La Dra. Dee pone a su madre en un avión para ir a la clínica veterinaria en Manley Hot Springs; un Rottweiler podría tener cáncer de hueso; un conejo sufre por un enorme absceso. La Dra. Dee pone a su madre en un avión para ir a la clínica veterinaria en Manley Hot Springs; un Rottweiler podría tener cáncer de hueso; un conejo sufre por un enorme absceso.(n)</desc>
+    <desc lang="es">La Dra. Dee pone a su madre en un avión para ir a la clínica veterinaria en Manley Hot Springs; un Rottweiler podría tener cáncer de hueso; un conejo sufre por un enorme absceso. La Dra. Dee pone a su madre en un avión para ir a la clínica veterinaria en Manley Hot Springs; un Rottweiler podría tener cáncer de hueso; un conejo sufre por un enorme absceso.</desc>
     <credits>
       <actor>Dr. Thornell</actor>
       <producer>Jim Berger</producer>
@@ -9473,7 +9731,7 @@
   </programme>
   <programme start="20220207132200 -0300" stop="20220207142200 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Los planetas</title>
-    <desc lang="es">Brian aprende acerca del planeta más antiguo del sistema solar, Júpiter, el cual utiliza su tamaño para manipular otros planetas. Brian aprende acerca del planeta más antiguo del sistema solar, Júpiter, el cual utiliza su tamaño para manipular otros planetas.(n)</desc>
+    <desc lang="es">Brian aprende acerca del planeta más antiguo del sistema solar, Júpiter, el cual utiliza su tamaño para manipular otros planetas. Brian aprende acerca del planeta más antiguo del sistema solar, Júpiter, el cual utiliza su tamaño para manipular otros planetas.</desc>
     <credits>
       <producer>Andrew Cohen</producer>
       <producer>Gideon Bradshaw</producer>
@@ -9488,7 +9746,7 @@
   </programme>
   <programme start="20220207142200 -0300" stop="20220207151800 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Fiebre del oro</title>
-    <desc lang="es">Parker y su abuelo buscan una nueva concesión en Klondike; la operación de Tony fracasa cuando su excavadora se queda sin tornillos; el grupo de Tony descarta sacar mucho beneficio. Parker y su abuelo buscan una nueva concesión en Klondike; la operación de Tony fracasa cuando su excavadora se queda sin tornillos; el grupo de Tony descarta sacar mucho beneficio.(n)</desc>
+    <desc lang="es">Parker y su abuelo buscan una nueva concesión en Klondike; la operación de Tony fracasa cuando su excavadora se queda sin tornillos; el grupo de Tony descarta sacar mucho beneficio. Parker y su abuelo buscan una nueva concesión en Klondike; la operación de Tony fracasa cuando su excavadora se queda sin tornillos; el grupo de Tony descarta sacar mucho beneficio.</desc>
     <credits>
       <actor>Todd Hoffman</actor>
       <actor>Greg Remsburg</actor>
@@ -9506,7 +9764,7 @@
   </programme>
   <programme start="20220207151800 -0300" stop="20220207171000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Kilos mortales</title>
-    <desc lang="es">Justin ha engordado hasta límites inauditos y solo abandona su vivienda para comprar comida, aunque quiere volver a disfrutar de una vida productiva. La última esperanza de Justin es el programa de adelgazamiento del doctor Now. Justin ha engordado hasta límites inauditos y solo abandona su vivienda para comprar comida, aunque quiere volver a disfrutar de una vida productiva. La última esperanza de Justin es el programa de adelgazamiento del doctor Now.(n)</desc>
+    <desc lang="es">Justin ha engordado hasta límites inauditos y solo abandona su vivienda para comprar comida, aunque quiere volver a disfrutar de una vida productiva. La última esperanza de Justin es el programa de adelgazamiento del doctor Now. Justin ha engordado hasta límites inauditos y solo abandona su vivienda para comprar comida, aunque quiere volver a disfrutar de una vida productiva. La última esperanza de Justin es el programa de adelgazamiento del doctor Now.</desc>
     <credits>
       <actor>Younan Nowzaradan</actor>
       <producer>Graham Davidson</producer>
@@ -9521,7 +9779,7 @@
   </programme>
   <programme start="20220207171000 -0300" stop="20220207180600 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Alaska: la última frontera</title>
-    <desc lang="es">Los Kilchers tienen 48 horas para construir una gran valla de ganado y reedificar una cabaña o la traicionera marea del río atrapará su barcaza llena de equipo para otro mes. Los Kilchers tienen 48 horas para construir una gran valla de ganado y reedificar una cabaña o la traicionera marea del río atrapará su barcaza llena de equipo para otro mes.(n)</desc>
+    <desc lang="es">Los Kilchers tienen 48 horas para construir una gran valla de ganado y reedificar una cabaña o la traicionera marea del río atrapará su barcaza llena de equipo para otro mes. Los Kilchers tienen 48 horas para construir una gran valla de ganado y reedificar una cabaña o la traicionera marea del río atrapará su barcaza llena de equipo para otro mes.</desc>
     <credits>
       <actor>Atz Kilcher</actor>
       <actor>Charlotte Kilcher</actor>
@@ -9540,7 +9798,7 @@
   </programme>
   <programme start="20220207180600 -0300" stop="20220207190400 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Operación Alaska</title>
-    <desc lang="es">El equipo de Rich acelera el ritmo de trabajo para anticiparse a las entregas por helicóptero. Un nuevo constructor llega al emplazamiento de Tom, ¿deberían confiar en él o desconfiar? Un terremoto pone en problemas la construcción de Creig. El equipo de Rich acelera el ritmo de trabajo para anticiparse a las entregas por helicóptero. Un nuevo constructor llega al emplazamiento de Tom, ¿deberían confiar en él o desconfiar? Un terremoto pone en problemas la construcción de Creig.(n)</desc>
+    <desc lang="es">El equipo de Rich acelera el ritmo de trabajo para anticiparse a las entregas por helicóptero. Un nuevo constructor llega al emplazamiento de Tom, ¿deberían confiar en él o desconfiar? Un terremoto pone en problemas la construcción de Creig. El equipo de Rich acelera el ritmo de trabajo para anticiparse a las entregas por helicóptero. Un nuevo constructor llega al emplazamiento de Tom, ¿deberían confiar en él o desconfiar? Un terremoto pone en problemas la construcción de Creig.</desc>
     <credits>
       <actor>Dan Sheedy</actor>
       <producer>Chris Dorsey</producer>
@@ -9554,7 +9812,7 @@
   </programme>
   <programme start="20220207190400 -0300" stop="20220207200200 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Vidas remotas</title>
-    <desc lang="es">Un incendio que se aproxima amenaza el hogar que Stuart y Toni Rinker han construido en Idaho. Los Raney tienen que proteger contra el fuego la cabaña de los Rinker y preparar un cortafuegos, pero Stuart crea problemas constantemente. Un incendio que se aproxima amenaza el hogar que Stuart y Toni Rinker han construido en Idaho. Los Raney tienen que proteger contra el fuego la cabaña de los Rinker y preparar un cortafuegos, pero Stuart crea problemas constantemente.(n)</desc>
+    <desc lang="es">Un incendio que se aproxima amenaza el hogar que Stuart y Toni Rinker han construido en Idaho. Los Raney tienen que proteger contra el fuego la cabaña de los Rinker y preparar un cortafuegos, pero Stuart crea problemas constantemente. Un incendio que se aproxima amenaza el hogar que Stuart y Toni Rinker han construido en Idaho. Los Raney tienen que proteger contra el fuego la cabaña de los Rinker y preparar un cortafuegos, pero Stuart crea problemas constantemente.</desc>
     <credits>
       <actor>Marty Raney</actor>
       <actor>Matt Raney</actor>
@@ -9571,7 +9829,7 @@
   </programme>
   <programme start="20220207200200 -0300" stop="20220207210000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Alaska: Hombres primitivos</title>
-    <desc lang="es">Los Brown deben recuperar y poner en funcionamiento 75 toneladas de equipos de minería viejos. Los Brown deben recuperar y poner en funcionamiento 75 toneladas de equipos de minería viejos.(n)</desc>
+    <desc lang="es">Los Brown deben recuperar y poner en funcionamiento 75 toneladas de equipos de minería viejos. Los Brown deben recuperar y poner en funcionamiento 75 toneladas de equipos de minería viejos.</desc>
     <credits>
       <actor>Billy Brown</actor>
       <actor>Matt Brown</actor>
@@ -9591,7 +9849,7 @@
   </programme>
   <programme start="20220207210000 -0300" stop="20220207230000 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Fiebre del oro</title>
-    <desc lang="es">Parker regresa al Klondike y consigue el mayor botín de oro de su carrera. Rick se ve obligado a encontrar un mejor terreno. Fred hace un gran cambio para conseguir el oro. Parker regresa al Klondike y consigue el mayor botín de oro de su carrera. Rick se ve obligado a encontrar un mejor terreno. Fred hace un gran cambio para conseguir el oro.(n)</desc>
+    <desc lang="es">Parker regresa al Klondike y consigue el mayor botín de oro de su carrera. Rick se ve obligado a encontrar un mejor terreno. Fred hace un gran cambio para conseguir el oro. Parker regresa al Klondike y consigue el mayor botín de oro de su carrera. Rick se ve obligado a encontrar un mejor terreno. Fred hace un gran cambio para conseguir el oro.</desc>
     <credits>
       <actor>Parker Schnabel</actor>
       <actor>Tony Beets</actor>
@@ -9620,7 +9878,7 @@
   </programme>
   <programme start="20220207230000 -0300" stop="20220207235800 -0300" channel="CULTURA | Discovery Channel SD">
     <title lang="es">Supervivencia al desnudo</title>
-    <desc lang="es">Un hombre de la montaña y un ex policía sobreviven en Namibia, quien es hogar de depredadores peligrosos, pero demonios internos parecen causar más problemas. Un hombre de la montaña y un ex policía sobreviven en Namibia, quien es hogar de depredadores peligrosos, pero demonios internos parecen causar más problemas.(n)</desc>
+    <desc lang="es">Un hombre de la montaña y un ex policía sobreviven en Namibia, quien es hogar de depredadores peligrosos, pero demonios internos parecen causar más problemas. Un hombre de la montaña y un ex policía sobreviven en Namibia, quien es hogar de depredadores peligrosos, pero demonios internos parecen causar más problemas.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <producer>David Garfinkle</producer>
@@ -9673,7 +9931,7 @@
   <programme start="20220207000000 -0300" stop="20220207020700 -0300" channel="CULTURA | History SD">
     <title lang="es">E.T. El Extraterrestre</title>
     <title lang="xx">E.T. The Extra-Terrestrial</title>
-    <desc lang="es">Elliot es un niño que se topa con un extraterrestre perdido al que llama E.T.  Ahora Elliot trabaja con E.T. para ayudarlo a encontrar su camino a casa.(n)</desc>
+    <desc lang="es">Elliot es un niño que se topa con un extraterrestre perdido al que llama E.T.  Ahora Elliot trabaja con E.T. para ayudarlo a encontrar su camino a casa.</desc>
     <credits>
       <actor>Henry Thomas</actor>
       <actor>Dee Wallace</actor>
@@ -10226,7 +10484,7 @@
   </programme>
   <programme start="20220206182900 -0300" stop="20220206191900 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Secretos de Estado</title>
-    <desc lang="es">Si bien puede parecer ciencia ficción, se han registrado numerosos programas de control mental administrados por el Gobierno. Si bien puede parecer ciencia ficción, se han registrado numerosos programas de control mental administrados por el Gobierno.(n)</desc>
+    <desc lang="es">Si bien puede parecer ciencia ficción, se han registrado numerosos programas de control mental administrados por el Gobierno. Si bien puede parecer ciencia ficción, se han registrado numerosos programas de control mental administrados por el Gobierno.</desc>
     <credits>
       <producer>John Verhoff</producer>
       <producer>Kim Sheerin</producer>
@@ -10241,7 +10499,7 @@
   </programme>
   <programme start="20220206191900 -0300" stop="20220206200900 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Ciudades Ocultas</title>
-    <desc lang="es">Don se adentra en las profundidades de los Grandes Lagos y explora cuevas inundadas en busca de pruebas de una misteriosa sociedad cavernícola que podría haber sido la primera en poblar América. Don se adentra en las profundidades de los Grandes Lagos y explora cuevas inundadas en busca de pruebas de una misteriosa sociedad cavernícola que podría haber sido la primera en poblar América.(n)</desc>
+    <desc lang="es">Don se adentra en las profundidades de los Grandes Lagos y explora cuevas inundadas en busca de pruebas de una misteriosa sociedad cavernícola que podría haber sido la primera en poblar América. Don se adentra en las profundidades de los Grandes Lagos y explora cuevas inundadas en busca de pruebas de una misteriosa sociedad cavernícola que podría haber sido la primera en poblar América.</desc>
     <credits>
       <producer>Tom Rogan</producer>
       <producer>Sarah Wetherbee</producer>
@@ -10258,7 +10516,7 @@
   </programme>
   <programme start="20220206200900 -0300" stop="20220206210900 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Mundo de mil tesoros</title>
-    <desc lang="es">México es el hogar de civilizaciones avanzadas precolombinas, arquitectura colonial y la belleza de la naturaleza. Christopher Clark explora Palenque y Teotihuacán. México es el hogar de civilizaciones avanzadas precolombinas, arquitectura colonial y la belleza de la naturaleza. Christopher Clark explora Palenque y Teotihuacán.(n)</desc>
+    <desc lang="es">México es el hogar de civilizaciones avanzadas precolombinas, arquitectura colonial y la belleza de la naturaleza. Christopher Clark explora Palenque y Teotihuacán. México es el hogar de civilizaciones avanzadas precolombinas, arquitectura colonial y la belleza de la naturaleza. Christopher Clark explora Palenque y Teotihuacán.</desc>
     <credits>
       <actor>Christopher Clark</actor>
     </credits>
@@ -10271,7 +10529,7 @@
   </programme>
   <programme start="20220206210900 -0300" stop="20220206220000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Inventos legendarios</title>
-    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.(n)</desc>
+    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <actor>Klint Janulis</actor>
@@ -10286,7 +10544,7 @@
   </programme>
   <programme start="20220206220000 -0300" stop="20220206225200 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón. Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón.(n)</desc>
+    <desc lang="es">Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón. Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10303,7 +10561,7 @@
   </programme>
   <programme start="20220206225200 -0300" stop="20220206234400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.(n)</desc>
+    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10320,19 +10578,19 @@
   </programme>
   <programme start="20220206234400 -0300" stop="20220207001400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Grandes mitos griegos</title>
-    <desc lang="es">El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles. El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles.(n)</desc>
+    <desc lang="es">El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles. El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p16887466_i_h10_aa.jpg" />
   </programme>
   <programme start="20220207001400 -0300" stop="20220207004400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Grandes mitos griegos</title>
-    <desc lang="es">Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego. Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego.(n)</desc>
+    <desc lang="es">Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego. Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p16887466_i_h10_aa.jpg" />
   </programme>
   <programme start="20220207004400 -0300" stop="20220207013400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">El oro perdido de la Segunda Guerra Mundial</title>
-    <desc lang="es">El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro. El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro.(n)</desc>
+    <desc lang="es">El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro. El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro.</desc>
     <credits>
       <actor>Manny Paez</actor>
       <actor>John Casey</actor>
@@ -10349,7 +10607,7 @@
   </programme>
   <programme start="20220207013400 -0300" stop="20220207023400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Constructores de imperios</title>
-    <desc lang="es">Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga. Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga.(n)</desc>
+    <desc lang="es">Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga. Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga.</desc>
     <credits>
       <actor>Roger Crowley</actor>
       <actor>Jonathan Phillips</actor>
@@ -10364,7 +10622,7 @@
   </programme>
   <programme start="20220207023400 -0300" stop="20220207032400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón. Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón.(n)</desc>
+    <desc lang="es">Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón. Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10381,7 +10639,7 @@
   </programme>
   <programme start="20220207032400 -0300" stop="20220207041400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.(n)</desc>
+    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10398,7 +10656,7 @@
   </programme>
   <programme start="20220207041400 -0300" stop="20220207050400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Inventos legendarios</title>
-    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.(n)</desc>
+    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <actor>Klint Janulis</actor>
@@ -10413,19 +10671,19 @@
   </programme>
   <programme start="20220207050400 -0300" stop="20220207053400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Grandes mitos griegos</title>
-    <desc lang="es">El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles. El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles.(n)</desc>
+    <desc lang="es">El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles. El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p16887466_i_h10_aa.jpg" />
   </programme>
   <programme start="20220207053400 -0300" stop="20220207060400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Grandes mitos griegos</title>
-    <desc lang="es">Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego. Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego.(n)</desc>
+    <desc lang="es">Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego. Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p16887466_i_h10_aa.jpg" />
   </programme>
   <programme start="20220207060400 -0300" stop="20220207070000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">El oro perdido de la Segunda Guerra Mundial</title>
-    <desc lang="es">El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro. El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro.(n)</desc>
+    <desc lang="es">El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro. El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro.</desc>
     <credits>
       <actor>Manny Paez</actor>
       <actor>John Casey</actor>
@@ -10442,7 +10700,7 @@
   </programme>
   <programme start="20220207070000 -0300" stop="20220207080000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Sugestiones</title>
-    <desc lang="es">Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial. Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial.(n)</desc>
+    <desc lang="es">Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial. Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p12114710_b_h10_ab.jpg" />
     <rating>
@@ -10451,7 +10709,7 @@
   </programme>
   <programme start="20220207080000 -0300" stop="20220207090000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Inventos legendarios</title>
-    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.(n)</desc>
+    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <actor>Klint Janulis</actor>
@@ -10466,7 +10724,7 @@
   </programme>
   <programme start="20220207090000 -0300" stop="20220207093000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -10476,7 +10734,7 @@
   </programme>
   <programme start="20220207093000 -0300" stop="20220207100000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -10486,7 +10744,7 @@
   </programme>
   <programme start="20220207100000 -0300" stop="20220207103000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -10496,7 +10754,7 @@
   </programme>
   <programme start="20220207103000 -0300" stop="20220207110000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -10506,7 +10764,7 @@
   </programme>
   <programme start="20220207110000 -0300" stop="20220207115900 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Constructores de imperios</title>
-    <desc lang="es">Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga. Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga.(n)</desc>
+    <desc lang="es">Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga. Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga.</desc>
     <credits>
       <actor>Roger Crowley</actor>
       <actor>Jonathan Phillips</actor>
@@ -10521,7 +10779,7 @@
   </programme>
   <programme start="20220207115900 -0300" stop="20220207125300 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Exploración Azteca</title>
-    <desc lang="es">Búsqueda de los restos de los antiguos bergantines españoles y evaluación de los efectos del choque de esos dos mundos. Búsqueda de los restos de los antiguos bergantines españoles y evaluación de los efectos del choque de esos dos mundos.(n)</desc>
+    <desc lang="es">Búsqueda de los restos de los antiguos bergantines españoles y evaluación de los efectos del choque de esos dos mundos. Búsqueda de los restos de los antiguos bergantines españoles y evaluación de los efectos del choque de esos dos mundos.</desc>
     <date>2016</date>
     <category lang="es">Historia</category>
     <icon src="https://milhouse.zapping.live/assets/p8849938_i_h10_aa.jpg" />
@@ -10531,7 +10789,7 @@
   </programme>
   <programme start="20220207125300 -0300" stop="20220207134100 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Sugestiones</title>
-    <desc lang="es">Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial. Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial.(n)</desc>
+    <desc lang="es">Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial. Cómo emplean los magos la técnica de "misdirection", una manera de desviar la atención de los espectadores. Esta misma técnica fue utilizada por el ejército francés durante la Primera Guerra Mundial.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p12114710_b_h10_ab.jpg" />
     <rating>
@@ -10540,7 +10798,7 @@
   </programme>
   <programme start="20220207134100 -0300" stop="20220207143000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.(n)</desc>
+    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10557,7 +10815,7 @@
   </programme>
   <programme start="20220207143000 -0300" stop="20220207152000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">La Iglesia oculta</title>
-    <desc lang="es">Cómo las denuncias de Vatiliks exponen la increíble fortuna del banco del Vaticano a través de empresas millonarias que pertenecerían a la Iglesia Católica. ¿Qué hace la Iglesia para conseguir más seguidores y mantener a los de siempre? Cómo las denuncias de Vatiliks exponen la increíble fortuna del banco del Vaticano a través de empresas millonarias que pertenecerían a la Iglesia Católica. ¿Qué hace la Iglesia para conseguir más seguidores y mantener a los de siempre?(n)</desc>
+    <desc lang="es">Cómo las denuncias de Vatiliks exponen la increíble fortuna del banco del Vaticano a través de empresas millonarias que pertenecerían a la Iglesia Católica. ¿Qué hace la Iglesia para conseguir más seguidores y mantener a los de siempre? Cómo las denuncias de Vatiliks exponen la increíble fortuna del banco del Vaticano a través de empresas millonarias que pertenecerían a la Iglesia Católica. ¿Qué hace la Iglesia para conseguir más seguidores y mantener a los de siempre?</desc>
     <date>2017</date>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p13909711_e_h11_aa.jpg" />
@@ -10567,7 +10825,7 @@
   </programme>
   <programme start="20220207152000 -0300" stop="20220207161000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Inventos legendarios</title>
-    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.(n)</desc>
+    <desc lang="es">Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto. Las diez armas antiguas más mortíferas, donde se incluye el napalm antiguo y el arco compuesto.</desc>
     <credits>
       <actor>Michael Brown</actor>
       <actor>Klint Janulis</actor>
@@ -10582,7 +10840,7 @@
   </programme>
   <programme start="20220207161000 -0300" stop="20220207171000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Constructores de imperios</title>
-    <desc lang="es">Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga. Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga.(n)</desc>
+    <desc lang="es">Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga. Los imperios musulmanes dejaron su huella a lo largo de Europa, India, Asia Central y Oriente Medio. El arte musulmán aún brilla con esplendor en lugares como el palacio de Topkapi, el Fuerte de Agra y las ciudades de Granada, Córdoba y Málaga.</desc>
     <credits>
       <actor>Roger Crowley</actor>
       <actor>Jonathan Phillips</actor>
@@ -10597,7 +10855,7 @@
   </programme>
   <programme start="20220207171000 -0300" stop="20220207173600 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Un genio entre nosotros</title>
-    <desc lang="es">Terry agranda un rompecabezas de lógica clásica y miniaturiza un arma antigua para catapultarse a la victoria. Terry agranda un rompecabezas de lógica clásica y miniaturiza un arma antigua para catapultarse a la victoria.(n)</desc>
+    <desc lang="es">Terry agranda un rompecabezas de lógica clásica y miniaturiza un arma antigua para catapultarse a la victoria. Terry agranda un rompecabezas de lógica clásica y miniaturiza un arma antigua para catapultarse a la victoria.</desc>
     <credits>
       <actor>Guy Messenger</actor>
       <actor>Randy Rice</actor>
@@ -10611,19 +10869,19 @@
   </programme>
   <programme start="20220207173600 -0300" stop="20220207180600 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Grandes mitos griegos</title>
-    <desc lang="es">El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles. El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles.(n)</desc>
+    <desc lang="es">El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles. El gran coraje de Teseo no le impide descuidar sus deberes; llevado por su victoria, comete algunos descuidos irreversibles.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p16887466_i_h10_aa.jpg" />
   </programme>
   <programme start="20220207180600 -0300" stop="20220207183600 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Grandes mitos griegos</title>
-    <desc lang="es">Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego. Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego.(n)</desc>
+    <desc lang="es">Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego. Zeus y Prometeo chocan ferozmente, a pesar que comparten una naturaleza astuta. Prometeo quiere ayudar a la humanidad y logra convencer a Zeus para que permita el uso del fuego.</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p16887466_i_h10_aa.jpg" />
   </programme>
   <programme start="20220207183600 -0300" stop="20220207192400 -0300" channel="CULTURA | H2 SD">
     <title lang="es">El oro perdido de la Segunda Guerra Mundial</title>
-    <desc lang="es">El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro. El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro.(n)</desc>
+    <desc lang="es">El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro. El equipo llama a un experto en explosivos para inspeccionar la cueva que pudo ser usada como sede central por Yamashita durante la guerra. Dentro de ella, descubren una potencial trampa y la primera pista concreta sobre el tesoro.</desc>
     <credits>
       <actor>Manny Paez</actor>
       <actor>John Casey</actor>
@@ -10640,7 +10898,7 @@
   </programme>
   <programme start="20220207192400 -0300" stop="20220207201500 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón. Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón.(n)</desc>
+    <desc lang="es">Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón. Basándose en unos documentos desclasificados, Bob y John envían a sus equipos a Chile y Paraguay para investigar sobre Adolf Hitler. Piensan que éste se vio obligado a huir de Argentina cuando cayó el gobierno de Perón.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10657,7 +10915,7 @@
   </programme>
   <programme start="20220207201500 -0300" stop="20220207210600 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Persiguiendo a Hitler</title>
-    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.(n)</desc>
+    <desc lang="es">Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich. Bob y John investigan una comunidad alemana en Chile que podría tener vínculos con los nazis. Además, encuentran indicios de que tal vez se esté gestando un Cuarto Reich.</desc>
     <credits>
       <actor>Bob Baer</actor>
       <actor>John Cencich</actor>
@@ -10674,7 +10932,7 @@
   </programme>
   <programme start="20220207210600 -0300" stop="20220207220000 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Roma: Auge y Caída</title>
-    <desc lang="es">Los romanos resolvieron constituir sus propios ejércitos y nombrar a sus propios emperadores; así surge Aureliano, un hombre que iría desde soldado raso hasta convertirse en emperador de Roma. Los romanos resolvieron constituir sus propios ejércitos y nombrar a sus propios emperadores; así surge Aureliano, un hombre que iría desde soldado raso hasta convertirse en emperador de Roma.(n)</desc>
+    <desc lang="es">Los romanos resolvieron constituir sus propios ejércitos y nombrar a sus propios emperadores; así surge Aureliano, un hombre que iría desde soldado raso hasta convertirse en emperador de Roma. Los romanos resolvieron constituir sus propios ejércitos y nombrar a sus propios emperadores; así surge Aureliano, un hombre que iría desde soldado raso hasta convertirse en emperador de Roma.</desc>
     <credits>
       <actor>Leif Anders</actor>
       <actor>Paul Bicknell</actor>
@@ -10692,7 +10950,7 @@
   </programme>
   <programme start="20220207220000 -0300" stop="20220207225300 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Los secretos de La Biblia</title>
-    <desc lang="es">Examinando las contradicciones y las preguntas sobre una variedad de perspectivas históricas y teológicas que se han debatido durante siglos. Examinando las contradicciones y las preguntas sobre una variedad de perspectivas históricas y teológicas que se han debatido durante siglos.(n)</desc>
+    <desc lang="es">Examinando las contradicciones y las preguntas sobre una variedad de perspectivas históricas y teológicas que se han debatido durante siglos. Examinando las contradicciones y las preguntas sobre una variedad de perspectivas históricas y teológicas que se han debatido durante siglos.</desc>
     <credits>
       <actor>Robert Cargill</actor>
       <producer>Kevin Burns</producer>
@@ -10707,7 +10965,7 @@
   </programme>
   <programme start="20220207225300 -0300" stop="20220207234600 -0300" channel="CULTURA | H2 SD">
     <title lang="es">Los secretos de La Biblia</title>
-    <desc lang="es">Se lo considera el lugar más sagrado de la Tierra, y ha sido objeto de luchas, reparticiones y saqueos durante miles de años. Se lo considera el lugar más sagrado de la Tierra, y ha sido objeto de luchas, reparticiones y saqueos durante miles de años.(n)</desc>
+    <desc lang="es">Se lo considera el lugar más sagrado de la Tierra, y ha sido objeto de luchas, reparticiones y saqueos durante miles de años. Se lo considera el lugar más sagrado de la Tierra, y ha sido objeto de luchas, reparticiones y saqueos durante miles de años.</desc>
     <credits>
       <actor>Robert Cargill</actor>
       <producer>Kevin Burns</producer>
