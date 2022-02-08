@@ -41,8 +41,8 @@
     <display-name lang="es">CINE PREMIUM | STAR CHANNEL SD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="CINE PREMIUM | STAR LIFE SD">
-    <display-name lang="es">CINE PREMIUM | STAR LIFE SD</display-name>
+  <channel id="CINE PREMIUM | STAR LIFE  SD">
+    <display-name lang="es">CINE PREMIUM | STAR LIFE  SD</display-name>
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/star-life.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
@@ -231,10 +231,6 @@
   <channel id="CINE PREMIUM | TNT SERIES HD (A)">
     <display-name lang="es">CINE PREMIUM | TNT SERIES HD (A)</display-name>
     <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="CINE PREMIUM | WARNER TV (e)">
-    <display-name lang="es">CINE PREMIUM | WARNER TV (e)</display-name>
-    <url>http://www.movistar.co</url>
   </channel>
   <channel id="CINE PREMIUM | WARNER TV (T)">
     <display-name lang="es">CINE PREMIUM | WARNER TV (T)</display-name>
@@ -4700,311 +4696,9 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/los_simpson.png" />
     <episode-num system="onscreen">S11 E11</episode-num>
   </programme>
-  <programme start="20220207010800 -0300" stop="20220207025000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Ojo por ojo</title>
-    <desc lang="es">Una madre furiosa hace justicia con sus propias manos cuando el hombre que violó y asesinó a su hija sale libre. Una madre furiosa hace justicia con sus propias manos cuando el hombre que violó y asesinó a su hija sale libre.</desc>
-    <credits>
-      <actor>Sally Field</actor>
-      <actor>Ed Harris</actor>
-      <actor>Joe Mantegna</actor>
-      <actor>Olivia Burnette</actor>
-      <actor>Philip Hall</actor>
-      <producer>Michael Levy</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p17573_i_h10_aa.jpg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20220207025000 -0300" stop="20220207045600 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">La vida de David Gale</title>
-    <desc lang="es">Un activista que se opone a la pena de muerte será ejecutado, pero un reportero está convencido de su inocencia. Un activista que se opone a la pena de muerte será ejecutado, pero un reportero está convencido de su inocencia.</desc>
-    <credits>
-      <actor>Kevin Spacey</actor>
-      <actor>Laura Linney</actor>
-      <actor>Matt Craven</actor>
-      <actor>Leon Rippy</actor>
-      <actor>Cleo King</actor>
-      <actor>Lee Ritchey</actor>
-      <actor>Michael Crabtree</actor>
-      <producer>Nicolas Cage</producer>
-      <producer>Moritz Borman</producer>
-      <producer>Nigel Sinclair</producer>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p30688_i_h10_ab.jpg" />
-    <rating>
-      <value>18+</value>
-    </rating>
-  </programme>
-  <programme start="20220207045600 -0300" stop="20220207070000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Un amigo como tú</title>
-    <desc lang="es">Ben es un hombre vago e infantil que vive en el sofá de su amigo Steve, un hombre del tiempo de carácter superficial. Ambos retornan a su pueblo natal cuando el padre de Ben fallece, y este regreso cambiará sus vidas para siempre. Ben es un hombre vago e infantil que vive en el sofá de su amigo Steve, un hombre del tiempo de carácter superficial. Ambos retornan a su pueblo natal cuando el padre de Ben fallece, y este regreso cambiará sus vidas para siempre.</desc>
-    <credits>
-      <actor>Owen Wilson</actor>
-      <actor>Amy Poehler</actor>
-      <actor>Alana De La Garza</actor>
-      <actor>Paul Schulze</actor>
-      <actor>Peter Bogdanovich</actor>
-      <actor>Lauren Lapkus</actor>
-      <actor>Jenna Fischer</actor>
-      <producer>Gary Gilbert</producer>
-      <producer>Matthew Weiner</producer>
-      <producer>Keith Addis</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Comedia Dramática</category>
-    <icon src="https://milhouse.zapping.live/assets/p10210053_i_h10_aa.jpg" />
-    <rating>
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme start="20220207070000 -0300" stop="20220207073000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207073000 -0300" stop="20220207080000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207080000 -0300" stop="20220207083000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207083000 -0300" stop="20220207090000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207090000 -0300" stop="20220207093000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207093000 -0300" stop="20220207100000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207100000 -0300" stop="20220207100600 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207100600 -0300" stop="20220207101300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
-    <category lang="es">Variedad</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220207101300 -0300" stop="20220207101900 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
-    <category lang="es">Variedad</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220207101900 -0300" stop="20220207103100 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
-    <category lang="es">Variedad</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220207103100 -0300" stop="20220207112900 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Private Eyes</title>
-    <desc lang="es">Shade y Angie deben investigar un caso de vandalismo contra un negocio de motocicletas. Shade y Angie deben investigar un caso de vandalismo contra un negocio de motocicletas.</desc>
-    <credits>
-      <director>Tim Kilby</director>
-      <director>Shelley Eriksen</director>
-      <actor>Jason Priestley</actor>
-      <actor>Jordyn Negri</actor>
-      <actor>Clé Bennett</actor>
-      <actor>Sebastien Roberts</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p16941162_e_h10_aa.jpg" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20220207112900 -0300" stop="20220207122400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Remedy</title>
-    <desc lang="es">Allen trabaja para diagnosticar la enfermedad de una mujer joven que sufre migraña, mientras Griffin comienza a perder el control. Allen trabaja para diagnosticar la enfermedad de una mujer joven que sufre migraña, mientras Griffin comienza a perder el control.</desc>
-    <credits>
-      <actor>Dillon Casey</actor>
-      <actor>Enrico Colantoni</actor>
-      <actor>Genelle Williams</actor>
-      <actor>Diego Fuentes</actor>
-      <actor>Patrick McKenna</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p11645855_e_h10_aa.jpg" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20220207122400 -0300" stop="20220207132100 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">La Ley y El Orden: Intento Criminal</title>
-    <desc lang="es">Los detectives hallan a la reportera de un periódico asesinada quien tenía una relación amorosa con su editor y otro escritor y cuya coartada parece sospechosa. Los detectives hallan a la reportera de un periódico asesinada quien tenía una relación amorosa con su editor y otro escritor y cuya coartada parece sospechosa.</desc>
-    <credits>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Courtney Vance</actor>
-      <actor>Samantha Buck</actor>
-      <actor>Elżbieta Czyżewska</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Gameela Wright</actor>
-      <actor>Buzz Bovshow</actor>
-      <producer>Dick Wolf</producer>
-      <producer>Rene Balcer</producer>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Crimen Dramático</category>
-    <icon src="https://milhouse.zapping.live/assets/p2528827_e_h10_ab.jpg" />
-    <rating>
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme start="20220207132100 -0300" stop="20220207150300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Baile caliente: Noches de La Habana</title>
-    <desc lang="es">Durante los sucesos de 1958 en Cuba, una adolescente estadounidense y un joven cubano se enamoran gracias a su pasión por el baile, pero el amor no bastará para romper los límites y las prohibiciones sociales. Durante los sucesos de 1958 en Cuba, una adolescente estadounidense y un joven cubano se enamoran gracias a su pasión por el baile, pero el amor no bastará para romper los límites y las prohibiciones sociales.</desc>
-    <credits>
-      <actor>Diego Luna</actor>
-      <actor>Sela Ward</actor>
-      <actor>Jonathan Jackson</actor>
-      <actor>Mika Boorem</actor>
-      <actor>Patrick Swayze</actor>
-      <actor>Mýa</actor>
-      <producer>Lawrence Bender</producer>
-      <producer>Sarah Green</producer>
-      <producer>JoAnn Jansen</producer>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Romance</category>
-    <icon src="https://milhouse.zapping.live/assets/p33822_i_h10_ab.jpg" />
-    <rating>
-      <value>10+</value>
-    </rating>
-  </programme>
-  <programme start="20220207150300 -0300" stop="20220207165300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Elektra</title>
-    <desc lang="es">Una asesina es contratada para matar a un hombre y a su hija, pero decide protegerlos mientras lucha contra sus adversarios. Una asesina es contratada para matar a un hombre y a su hija, pero decide protegerlos mientras lucha contra sus adversarios.</desc>
-    <credits>
-      <actor>Jennifer Garner</actor>
-      <actor>Kirsten Prout</actor>
-      <actor>Cary-Hiroyuki Tagawa</actor>
-      <actor>Natassia Malthe</actor>
-      <actor>Chris Ackerman</actor>
-      <actor>Hiro Kanagawa</actor>
-      <actor>Nathaniel Arcand</actor>
-      <producer>Mark Johnson</producer>
-      <producer>Kevin Feige</producer>
-      <producer>Brent O'Connor</producer>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Acción</category>
-    <icon src="https://milhouse.zapping.live/assets/p35311_i_h10_ab.jpg" />
-    <rating>
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme start="20220207165300 -0300" stop="20220207190300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Las delicias de la vida</title>
-    <desc lang="es">Una cocinera cuida a su sobrina de ocho años después de que su hermana fallece en un accidente automovilístico. Una cocinera cuida a su sobrina de ocho años después de que su hermana fallece en un accidente automovilístico.</desc>
-    <credits>
-      <actor>Martina Gedeck</actor>
-      <actor>Maxime Foerste</actor>
-      <actor>Ulrich Thomsen</actor>
-      <actor>Katja Studt</actor>
-      <actor>Oliver Broumis</actor>
-      <actor>Diego Ribon</actor>
-      <producer>Karl Baumgartner</producer>
-      <producer>Christoph Friedel</producer>
-      <producer>Carlo Degli Esposti</producer>
-    </credits>
-    <category lang="es">Comedia Dramática</category>
-    <icon src="https://milhouse.zapping.live/assets/p29088_i_h10_ab.jpg" />
-    <rating>
-      <value>Todo Público</value>
-    </rating>
-  </programme>
-  <programme start="20220207190300 -0300" stop="20220207204800 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Crossword Mysteries</title>
-    <desc lang="es">Tess sumerge más profundamente en la investigación de su amiga sobre el asesinato de Logan. A medida que se acerca a la verdad, Tess teme arruinar el final feliz que todos obtuvieron. Tess sumerge más profundamente en la investigación de su amiga sobre el asesinato de Logan. A medida que se acerca a la verdad, Tess teme arruinar el final feliz que todos obtuvieron.</desc>
-    <credits>
-      <actor>Lacey Chabert</actor>
-      <actor>Brennan Elliott</actor>
-      <producer>Will Shortz</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p17341297_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220207204800 -0300" stop="20220207230000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
-    <title lang="es">Qué esperar cuando estás esperando</title>
-    <desc lang="es">Las hormonas del embarazo causan estragos en una escritora loca por los bebés en una de cinco historias entrelazadas acerca de los desafíos de la paternidad inminente. Las hormonas del embarazo causan estragos en una escritora loca por los bebés en una de cinco historias entrelazadas acerca de los desafíos de la paternidad inminente.</desc>
-    <credits>
-      <actor>Cameron Diaz</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Brooklyn Decker</actor>
-      <actor>Matthew Morrison</actor>
-      <actor>Chris Rock</actor>
-      <actor>Ben Falcone</actor>
-      <actor>Tom Lennon</actor>
-      <producer>Arnold Messer</producer>
-      <producer>Heidi Murkoff</producer>
-      <producer>Alan Nevins</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Comedia Dramática</category>
-    <icon src="https://milhouse.zapping.live/assets/p8915852_i_h10_ac.jpg" />
-    <rating>
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20220207230000 -0300" stop="20220208004500 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220207230000 -0300" stop="20220208004500 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Frecuencia mortal</title>
-    <desc lang="es">Una broma tiene funestos resultados para dos hermanos cuando provocan la ira del psicótico operador de un trailer. Una broma tiene funestos resultados para dos hermanos cuando provocan la ira del psicótico operador de un trailer.</desc>
+    <desc lang="es">Una broma tiene funestos resultados para dos hermanos cuando provocan la ira del psicótico operador de un trailer. Una broma tiene funestos resultados para dos hermanos cuando provocan la ira del psicótico operador de un trailer.(n)</desc>
     <credits>
       <actor>Steve Zahn</actor>
       <actor>Leelee Sobieski</actor>
@@ -5020,9 +4714,9 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220208004500 -0300" stop="20220208022400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208004500 -0300" stop="20220208022400 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">El tipo perfecto</title>
-    <desc lang="es">Leah lo tiene todo en la vida: un trabajo perfecto y un prometido que la ama. Pero conoce al atractivo Carter y se enamora perdidamente de él. Sin embargo, pronto descubre que Carter no es el hombre perfecto que ella creyó, al principio, que era. Leah lo tiene todo en la vida: un trabajo perfecto y un prometido que la ama. Pero conoce al atractivo Carter y se enamora perdidamente de él. Sin embargo, pronto descubre que Carter no es el hombre perfecto que ella creyó, al principio, que era.</desc>
+    <desc lang="es">Leah lo tiene todo en la vida: un trabajo perfecto y un prometido que la ama. Pero conoce al atractivo Carter y se enamora perdidamente de él. Sin embargo, pronto descubre que Carter no es el hombre perfecto que ella creyó, al principio, que era. Leah lo tiene todo en la vida: un trabajo perfecto y un prometido que la ama. Pero conoce al atractivo Carter y se enamora perdidamente de él. Sin embargo, pronto descubre que Carter no es el hombre perfecto que ella creyó, al principio, que era.(n)</desc>
     <credits>
       <actor>Sanaa Lathan</actor>
       <actor>Morris Chestnut</actor>
@@ -5043,9 +4737,9 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220208022400 -0300" stop="20220208041400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208022400 -0300" stop="20220208041400 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Un amigo como tú</title>
-    <desc lang="es">Ben es un hombre vago e infantil que vive en el sofá de su amigo Steve, un hombre del tiempo de carácter superficial. Ambos retornan a su pueblo natal cuando el padre de Ben fallece, y este regreso cambiará sus vidas para siempre. Ben es un hombre vago e infantil que vive en el sofá de su amigo Steve, un hombre del tiempo de carácter superficial. Ambos retornan a su pueblo natal cuando el padre de Ben fallece, y este regreso cambiará sus vidas para siempre.</desc>
+    <desc lang="es">Ben es un hombre vago e infantil que vive en el sofá de su amigo Steve, un hombre del tiempo de carácter superficial. Ambos retornan a su pueblo natal cuando el padre de Ben fallece, y este regreso cambiará sus vidas para siempre. Ben es un hombre vago e infantil que vive en el sofá de su amigo Steve, un hombre del tiempo de carácter superficial. Ambos retornan a su pueblo natal cuando el padre de Ben fallece, y este regreso cambiará sus vidas para siempre.(n)</desc>
     <credits>
       <actor>Owen Wilson</actor>
       <actor>Amy Poehler</actor>
@@ -5065,9 +4759,9 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220208041400 -0300" stop="20220208060100 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208041400 -0300" stop="20220208060100 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Tren nocturno a Lisboa</title>
-    <desc lang="es">El profesor suizo Raimund Gregorius abandona su vida para embarcarse en una emocionante aventura. El profesor suizo Raimund Gregorius abandona su vida para embarcarse en una emocionante aventura.</desc>
+    <desc lang="es">El profesor suizo Raimund Gregorius abandona su vida para embarcarse en una emocionante aventura. El profesor suizo Raimund Gregorius abandona su vida para embarcarse en una emocionante aventura.(n)</desc>
     <credits>
       <actor>Jeremy Irons</actor>
       <actor>Jack Huston</actor>
@@ -5087,9 +4781,9 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220208060100 -0300" stop="20220208064400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208060100 -0300" stop="20220208064400 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">La Ley y El Orden: Intento Criminal</title>
-    <desc lang="es">Los detectives hallan a la reportera de un periódico asesinada quien tenía una relación amorosa con su editor y otro escritor y cuya coartada parece sospechosa. Los detectives hallan a la reportera de un periódico asesinada quien tenía una relación amorosa con su editor y otro escritor y cuya coartada parece sospechosa.</desc>
+    <desc lang="es">Los detectives hallan a la reportera de un periódico asesinada quien tenía una relación amorosa con su editor y otro escritor y cuya coartada parece sospechosa. Los detectives hallan a la reportera de un periódico asesinada quien tenía una relación amorosa con su editor y otro escritor y cuya coartada parece sospechosa.(n)</desc>
     <credits>
       <actor>Vincent D'Onofrio</actor>
       <actor>Courtney Vance</actor>
@@ -5108,15 +4802,15 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220208064400 -0300" stop="20220208070000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208064400 -0300" stop="20220208070000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.(n)</desc>
     <category lang="es">Variedad</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
-  <programme start="20220208070000 -0300" stop="20220208073000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208070000 -0300" stop="20220208073000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5124,9 +4818,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208073000 -0300" stop="20220208080000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208073000 -0300" stop="20220208080000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5134,9 +4828,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208080000 -0300" stop="20220208083000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208080000 -0300" stop="20220208083000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5144,9 +4838,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208083000 -0300" stop="20220208090000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208083000 -0300" stop="20220208090000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5154,9 +4848,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208090000 -0300" stop="20220208093000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208090000 -0300" stop="20220208093000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5164,9 +4858,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208093000 -0300" stop="20220208100000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208093000 -0300" stop="20220208100000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5174,9 +4868,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208100000 -0300" stop="20220208100600 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208100000 -0300" stop="20220208100600 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -5184,27 +4878,27 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208100600 -0300" stop="20220208101300 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208100600 -0300" stop="20220208101300 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.(n)</desc>
     <category lang="es">Variedad</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
-  <programme start="20220208101300 -0300" stop="20220208101900 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208101300 -0300" stop="20220208101900 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.(n)</desc>
     <category lang="es">Variedad</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
-  <programme start="20220208101900 -0300" stop="20220208103200 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208101900 -0300" stop="20220208103200 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Programación especial</title>
-    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.(n)</desc>
     <category lang="es">Variedad</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
-  <programme start="20220208103200 -0300" stop="20220208112700 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208103200 -0300" stop="20220208112700 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Remedy</title>
-    <desc lang="es">Mel trata de salvar a un paciente cuya esposa ha fallecido. Griffin retoma el contacto con Hugh. Allen le pide a Kanaskie que le devuelva su puesto a Griff. Cutler intenta proteger a un explorador. Mel trata de salvar a un paciente cuya esposa ha fallecido. Griffin retoma el contacto con Hugh. Allen le pide a Kanaskie que le devuelva su puesto a Griff. Cutler intenta proteger a un explorador.</desc>
+    <desc lang="es">Mel trata de salvar a un paciente cuya esposa ha fallecido. Griffin retoma el contacto con Hugh. Allen le pide a Kanaskie que le devuelva su puesto a Griff. Cutler intenta proteger a un explorador. Mel trata de salvar a un paciente cuya esposa ha fallecido. Griffin retoma el contacto con Hugh. Allen le pide a Kanaskie que le devuelva su puesto a Griff. Cutler intenta proteger a un explorador.(n)</desc>
     <credits>
       <actor>Dillon Casey</actor>
       <actor>Enrico Colantoni</actor>
@@ -5219,9 +4913,9 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220208112700 -0300" stop="20220208122400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208112700 -0300" stop="20220208122400 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">La Ley y El Orden: Intento Criminal</title>
-    <desc lang="es">Al investigar a unos modernos Bonnie y Clyde, Goren deduce que uno de los sospechosos tiene un pie herido. Al investigar a unos modernos Bonnie y Clyde, Goren deduce que uno de los sospechosos tiene un pie herido.</desc>
+    <desc lang="es">Al investigar a unos modernos Bonnie y Clyde, Goren deduce que uno de los sospechosos tiene un pie herido. Al investigar a unos modernos Bonnie y Clyde, Goren deduce que uno de los sospechosos tiene un pie herido.(n)</desc>
     <credits>
       <actor>Vincent D'Onofrio</actor>
       <actor>Courtney Vance</actor>
@@ -5244,9 +4938,9 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220208122400 -0300" stop="20220208142800 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208122400 -0300" stop="20220208142800 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Las delicias de la vida</title>
-    <desc lang="es">Una cocinera cuida a su sobrina de ocho años después de que su hermana fallece en un accidente automovilístico. Una cocinera cuida a su sobrina de ocho años después de que su hermana fallece en un accidente automovilístico.</desc>
+    <desc lang="es">Una cocinera cuida a su sobrina de ocho años después de que su hermana fallece en un accidente automovilístico. Una cocinera cuida a su sobrina de ocho años después de que su hermana fallece en un accidente automovilístico.(n)</desc>
     <credits>
       <actor>Martina Gedeck</actor>
       <actor>Maxime Foerste</actor>
@@ -5264,9 +4958,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208142800 -0300" stop="20220208161400 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208142800 -0300" stop="20220208161400 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">Return to Christmas Creek</title>
-    <desc lang="es">Una joven CEO regresa a casa para pasar la Navidad en familia, luego de recibir críticas sobre la falta de espíritu navideño de su app. Una joven CEO regresa a casa para pasar la Navidad en familia, luego de recibir críticas sobre la falta de espíritu navideño de su app.</desc>
+    <desc lang="es">Una joven CEO regresa a casa para pasar la Navidad en familia, luego de recibir críticas sobre la falta de espíritu navideño de su app. Una joven CEO regresa a casa para pasar la Navidad en familia, luego de recibir críticas sobre la falta de espíritu navideño de su app.(n)</desc>
     <credits>
       <actor>Tori Anderson</actor>
       <actor>Steven Weber</actor>
@@ -5286,9 +4980,9 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220208161400 -0300" stop="20220208182800 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208161400 -0300" stop="20220208182800 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">La increíble vida de Walter Mitty</title>
-    <desc lang="es">Walter Mitty, editor fotográfico de la revista Life, evita el aburrimiento cotidiano con aventuras imaginarias, pero una misteriosa mujer lo hará vivir algo real. Walter Mitty, editor fotográfico de la revista Life, evita el aburrimiento cotidiano con aventuras imaginarias, pero una misteriosa mujer lo hará vivir algo real.</desc>
+    <desc lang="es">Walter Mitty, editor fotográfico de la revista Life, evita el aburrimiento cotidiano con aventuras imaginarias, pero una misteriosa mujer lo hará vivir algo real. Walter Mitty, editor fotográfico de la revista Life, evita el aburrimiento cotidiano con aventuras imaginarias, pero una misteriosa mujer lo hará vivir algo real.(n)</desc>
     <credits>
       <actor>Ben Stiller</actor>
       <actor>Shirley MacLaine</actor>
@@ -5306,9 +5000,9 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220208182800 -0300" stop="20220208204200 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208182800 -0300" stop="20220208204200 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">El caza recompensas</title>
-    <desc lang="es">Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional. Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional.</desc>
+    <desc lang="es">Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional. Milo Boyd, un cazarrecompensas que no pasa por su mejor momento, recibe el trabajo de sus sueños: debe encontrar a su exesposa, una reportera que ha violado su libertad condicional.(n)</desc>
     <credits>
       <actor>Jennifer Aniston</actor>
       <actor>Christine Baranski</actor>
@@ -5329,9 +5023,9 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220208204200 -0300" stop="20220208230000 -0300" channel="CINE PREMIUM | STAR LIFE SD">
+  <programme start="20220208204200 -0300" stop="20220208230000 -0300" channel="CINE PREMIUM | STAR LIFE  SD">
     <title lang="es">La mexicana</title>
-    <desc lang="es">Para saldar sus deudas con la mafia y casarse con Samantha, Jerry tiene que hacer un viaje a México en busca de una pistola antigua muy valiosa. Para saldar sus deudas con la mafia y casarse con Samantha, Jerry tiene que hacer un viaje a México en busca de una pistola antigua muy valiosa.</desc>
+    <desc lang="es">Para saldar sus deudas con la mafia y casarse con Samantha, Jerry tiene que hacer un viaje a México en busca de una pistola antigua muy valiosa. Para saldar sus deudas con la mafia y casarse con Samantha, Jerry tiene que hacer un viaje a México en busca de una pistola antigua muy valiosa.(n)</desc>
     <credits>
       <actor>Brad Pitt</actor>
       <actor>James Gandolfini</actor>
