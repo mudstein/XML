@@ -168,6 +168,11 @@
     <display-name lang="es">CINE PREMIUM | FX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="CINE PREMIUM | FXM FHD  (p)">
+    <display-name lang="es">CINE PREMIUM | FXM FHD  (p)</display-name>
+    <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/fxmovies.jpg" />
+    <url>http://www.zappingtv.com</url>
+  </channel>
   <channel id="CINE PREMIUM | GOLDEN EDGE">
     <display-name lang="es">CINE PREMIUM | GOLDEN EDGE</display-name>
     <url>http://www.gatotv.com</url>
@@ -244,8 +249,8 @@
     <display-name lang="es">CINE PREMIUM | WARNER TV (T)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="CINE PREMIUM | TNT SERIES HD">
-    <display-name lang="es">CINE PREMIUM | TNT SERIES HD</display-name>
+  <channel id="CINE PREMIUM | TNT Series HD">
+    <display-name lang="es">CINE PREMIUM | TNT Series HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="CINE PREMIUM | GOLDEN SD">
@@ -2533,7 +2538,7 @@
   </programme>
   <programme start="20220210155500 -0300" stop="20220210180000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
     <title lang="es">La teoría del todo</title>
-    <desc lang="es">Durante los años sesenta, el estudiante de la Universidad de Cambridge y futuro físico Stephen Hawking se enamora de su compañera Jane Wilde. A pesar de que le diagnostican una enfermedad devastadora, él y Jane abren nuevos caminos científicos. Durante los años sesenta, el estudiante de la Universidad de Cambridge y futuro físico Stephen Hawking se enamora de su compañera Jane Wilde. A pesar de que le diagnostican una enfermedad devastadora, él y Jane abren nuevos caminos científicos.(c)</desc>
+    <desc lang="es">Durante los años sesenta, el estudiante de la Universidad de Cambridge y futuro físico Stephen Hawking se enamora de su compañera Jane Wilde. A pesar de que le diagnostican una enfermedad devastadora, él y Jane abren nuevos caminos científicos. Durante los años sesenta, el estudiante de la Universidad de Cambridge y futuro físico Stephen Hawking se enamora de su compañera Jane Wilde. A pesar de que le diagnostican una enfermedad devastadora, él y Jane abren nuevos caminos científicos.</desc>
     <credits>
       <actor>Eddie Redmayne</actor>
       <actor>Emily Watson</actor>
@@ -2554,7 +2559,7 @@
   </programme>
   <programme start="20220210180000 -0300" stop="20220210201500 -0300" channel="CINE PREMIUM | HBO Mundi SD">
     <title lang="es">El jardinero fiel</title>
-    <desc lang="es">Un diplomático inglés emprende una misión intercontinental para descubrir la verdad sobre la muerte de su esposa. Un diplomático inglés emprende una misión intercontinental para descubrir la verdad sobre la muerte de su esposa.(c)</desc>
+    <desc lang="es">Un diplomático inglés emprende una misión intercontinental para descubrir la verdad sobre la muerte de su esposa. Un diplomático inglés emprende una misión intercontinental para descubrir la verdad sobre la muerte de su esposa.</desc>
     <credits>
       <actor>Ralph Fiennes</actor>
       <actor>Danny Huston</actor>
@@ -2578,7 +2583,7 @@
   </programme>
   <programme start="20220210201500 -0300" stop="20220210220000 -0300" channel="CINE PREMIUM | HBO Mundi SD">
     <title lang="es">Los secretos que guardamos</title>
-    <desc lang="es">Una superviviente de los crímenes de la Segunda Guerra Mundial ha rehecho su vida, junto a su esposo, en un suburbio estadounidense. Ella cree que su vecino la torturó durante la guerra y lo secuestra para vengar el sufrimiento padecido. Una superviviente de los crímenes de la Segunda Guerra Mundial ha rehecho su vida, junto a su esposo, en un suburbio estadounidense. Ella cree que su vecino la torturó durante la guerra y lo secuestra para vengar el sufrimiento padecido.(c)</desc>
+    <desc lang="es">Una superviviente de los crímenes de la Segunda Guerra Mundial ha rehecho su vida, junto a su esposo, en un suburbio estadounidense. Ella cree que su vecino la torturó durante la guerra y lo secuestra para vengar el sufrimiento padecido. Una superviviente de los crímenes de la Segunda Guerra Mundial ha rehecho su vida, junto a su esposo, en un suburbio estadounidense. Ella cree que su vecino la torturó durante la guerra y lo secuestra para vengar el sufrimiento padecido.</desc>
     <credits>
       <actor>Noomi Rapace</actor>
       <actor>Chris Messina</actor>
@@ -15419,6 +15424,377 @@
   <programme start="20220211225000 -0300" stop="20220212010000 -0300" channel="CINE PREMIUM | FX">
     <title lang="es">Protegiendo al enemigo</title>
   </programme>
+  <programme start="20220210162600 -0300" stop="20220210184400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Los intocables</title>
+    <desc lang="es">El agente federal Eliot Ness organiza un grupo especial para enfrentar a Al Capone, el rey del crimen organizado de Chicago. El agente federal Eliot Ness organiza un grupo especial para enfrentar a Al Capone, el rey del crimen organizado de Chicago.(n)</desc>
+    <credits>
+      <actor>Kevin Costner</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Charles Smith</actor>
+      <actor>Richard Bradford</actor>
+      <producer>Art Linson</producer>
+    </credits>
+    <date>1987</date>
+    <category lang="es">Crimen Dramático</category>
+    <icon src="https://milhouse.zapping.live/assets/p10067_i_h10_ae.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220210184400 -0300" stop="20220210211600 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">El hombre de la máscara de hierro</title>
+    <desc lang="es">Exmosqueteros tratan de derrocar al tiránico rey Luis XIV y utilizan a su encarcelado hermano gemelo en su plan. Exmosqueteros tratan de derrocar al tiránico rey Luis XIV y utilizan a su encarcelado hermano gemelo en su plan.(n)</desc>
+    <credits>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>John Malkovich</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Judith Godrèche</actor>
+      <actor>Peter Sarsgaard</actor>
+      <producer>Paul Hitchcock</producer>
+      <producer>Russell Smith</producer>
+      <producer>René Dupont</producer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Aventura</category>
+    <icon src="https://milhouse.zapping.live/assets/p20881_i_h10_aa.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220210211600 -0300" stop="20220210230000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Bandidas</title>
+    <desc lang="es">El destino une a Sara Sandoval, una bella y arrogante aristócrata mexicana, y a María Álvarez, la rebelde hija de un peón de campo. Ambas tienen un objetivo en común: vengar la muerte de sus familiares. El destino une a Sara Sandoval, una bella y arrogante aristócrata mexicana, y a María Álvarez, la rebelde hija de un peón de campo. Ambas tienen un objetivo en común: vengar la muerte de sus familiares.(n)</desc>
+    <credits>
+      <actor>Penélope Cruz</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Sam Shepard</actor>
+      <actor>Audra Blaser</actor>
+      <actor>Carlos Cervantes</actor>
+      <producer>Luc Besson</producer>
+      <producer>Ariel Zeitoun</producer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Oéste</category>
+    <icon src="https://milhouse.zapping.live/assets/p159541_i_h10_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220210230000 -0300" stop="20220211012400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infidelidad</title>
+    <desc lang="es">Una ama de casa sucumbe al encanto sexual de un francés encantador a quien por azares del destino conoció en Nueva York. Una ama de casa sucumbe al encanto sexual de un francés encantador a quien por azares del destino conoció en Nueva York.(n)</desc>
+    <credits>
+      <actor>Richard Gere</actor>
+      <actor>Olivier Martinez</actor>
+      <actor>Zeljko Ivanek</actor>
+      <actor>Kate Burton</actor>
+      <actor>Gary Basaraba</actor>
+      <actor>Larry Gleason</actor>
+      <producer>Arnon Milchan</producer>
+      <producer>Pierre Muller</producer>
+      <producer>G. Brown</producer>
+    </credits>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p29634_i_h10_ac.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220211012400 -0300" stop="20220211031400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Confesiones de una mente peligrosa</title>
+    <desc lang="es">El productor de TV y anfitrión Chuck Barris dice llevar doble vida como asesino de la CIA. Basada en el libro de Barris. El productor de TV y anfitrión Chuck Barris dice llevar doble vida como asesino de la CIA. Basada en el libro de Barris.(n)</desc>
+    <credits>
+      <actor>Sam Rockwell</actor>
+      <actor>George Clooney</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Kristen Wilson</actor>
+      <actor>Chuck Barris</actor>
+      <actor>Jaye Morgan</actor>
+      <actor>Murray Langston</actor>
+      <actor>Matt Damon</actor>
+      <producer>Andrew Lazar</producer>
+      <producer>Rand Ravich</producer>
+      <producer>George Clooney</producer>
+    </credits>
+    <category lang="es">Biografía</category>
+    <icon src="https://milhouse.zapping.live/assets/p29668_i_h10_ab.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220211031400 -0300" stop="20220211044400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Patinando a la gloria</title>
+    <desc lang="es">Varios años después de ser expulsados de una competencia para hombres, dos patinadores rivales aprovechan una disposición que les permite competir como pareja. Varios años después de ser expulsados de una competencia para hombres, dos patinadores rivales aprovechan una disposición que les permite competir como pareja.(n)</desc>
+    <credits>
+      <actor>Will Ferrell</actor>
+      <actor>Will Arnett</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Craig Nelson</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Andy Richter</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Ben Wilson</actor>
+      <producer>Ben Stiller</producer>
+      <producer>John Jacobs</producer>
+      <producer>Stuart Cornfeld</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p163576_i_h10_ac.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220211044400 -0300" stop="20220211060400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">El seductor</title>
+    <desc lang="es">Tras ser despedido de su trabajo por hacer comentarios inapropiados, Leon recibe una carta misteriosa de su verdadero amor, quien le pide que regrese a ella. Ahora solo debe averiguar de quién se trata. Tras ser despedido de su trabajo por hacer comentarios inapropiados, Leon recibe una carta misteriosa de su verdadero amor, quien le pide que regrese a ella. Ahora solo debe averiguar de quién se trata.(n)</desc>
+    <credits>
+      <actor>Tim Meadows</actor>
+      <actor>Billy Williams</actor>
+      <actor>Lee Evans</actor>
+      <actor>John Witherspoon</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Sean Thibodeau</actor>
+      <producer>Erin Fraser</producer>
+      <producer>Lorne Michaels</producer>
+      <producer>Thomas Levine</producer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p26081_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220211060400 -0300" stop="20220211070000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.(n)</desc>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220211070000 -0300" stop="20220211073000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211073000 -0300" stop="20220211080000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211080000 -0300" stop="20220211083000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211083000 -0300" stop="20220211090000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211090000 -0300" stop="20220211093000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211093000 -0300" stop="20220211100000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211100000 -0300" stop="20220211103000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211103000 -0300" stop="20220211105100 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211105100 -0300" stop="20220211122400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Superstar</title>
+    <desc lang="es">Mary Gallagher, estudiante de colegio católico, sueña con ganar un concurso de talento y besar a un futbolista famoso. Mary Gallagher, estudiante de colegio católico, sueña con ganar un concurso de talento y besar a un futbolista famoso.(n)</desc>
+    <credits>
+      <actor>Molly Shannon</actor>
+      <actor>Elaine Hendrix</actor>
+      <actor>Mark McKinney</actor>
+      <actor>Emmy Laybourne</actor>
+      <producer>Robert Weiss</producer>
+      <producer>Susan Cavan</producer>
+      <producer>Lorne Michaels</producer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p23952_i_h10_ab.jpg" />
+    <rating>
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20220211122400 -0300" stop="20220211150000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Por amor al juego</title>
+    <desc lang="es">Las sinuosidades del camino personal y profesional de un beisbolista hacen que recuerde importantes eventos en su vida. Las sinuosidades del camino personal y profesional de un beisbolista hacen que recuerde importantes eventos en su vida.(n)</desc>
+    <credits>
+      <actor>Kevin Costner</actor>
+      <actor>John Reilly</actor>
+      <actor>Brian Cox</actor>
+      <actor>Vin Scully</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Hugh Ross</actor>
+      <actor>Tracy Howe</actor>
+      <actor>Jonathan Marc McDonnell</actor>
+      <actor>Luis Moro</actor>
+      <actor>Michael Neeley</actor>
+      <actor>Kevin West</actor>
+      <actor>Phil Hawn</actor>
+      <producer>Ron Bozman</producer>
+      <producer>Armyan Bernstein</producer>
+      <producer>Marc Abraham</producer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p23868_i_h10_ab.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220211150000 -0300" stop="20220211170400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Un Día Muy Especial</title>
+    <desc lang="es">Dos enamorados desean dar lugar a su relación mientras enfrentan responsabilidades con los hijos y carreras de cada uno. Dos enamorados desean dar lugar a su relación mientras enfrentan responsabilidades con los hijos y carreras de cada uno.(n)</desc>
+    <credits>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Charles Durning</actor>
+      <actor>Ellen Greene</actor>
+      <actor>Pete Hamill</actor>
+      <actor>Gregory Jbara</actor>
+      <actor>Barry Kivel</actor>
+      <actor>George Martin</actor>
+      <actor>Amanda Peet</actor>
+      <actor>Holland Taylor</actor>
+      <producer>Kate Guinzburg</producer>
+      <producer>Lynda Obst</producer>
+      <producer>Michelle Pfeiffer</producer>
+    </credits>
+    <date>1996</date>
+    <category lang="es">Comendia Romántica</category>
+    <icon src="https://milhouse.zapping.live/assets/p18775_i_h11_ac.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
+  </programme>
+  <programme start="20220211170400 -0300" stop="20220211191900 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Jugando Sucio</title>
+    <desc lang="es">Una estrella (George Clooney) del fútbol de los años veinte intenta apoyar a su deporte, mientras él y un compañero (John Krasinski) de equipo compiten por el amor de una alegre periodista (Renée Zellweger). Una estrella (George Clooney) del fútbol de los años veinte intenta apoyar a su deporte, mientras él y un compañero (John Krasinski) de equipo compiten por el amor de una alegre periodista (Renée Zellweger).(n)</desc>
+    <credits>
+      <actor>George Clooney</actor>
+      <actor>John Krasinski</actor>
+      <actor>Stephen Root</actor>
+      <actor>Tommy Hinkley</actor>
+      <actor>Nick Paonessa</actor>
+      <actor>Matt Bushell</actor>
+      <actor>Keith Loneker</actor>
+      <producer>Casey Silver</producer>
+      <producer>Jeffrey Silver</producer>
+      <producer>Sydney Pollack</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Comendia Romántica</category>
+    <icon src="https://milhouse.zapping.live/assets/p170979_i_h10_aa.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220211191900 -0300" stop="20220211212200 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">¿Dónde estás hermano?</title>
+    <desc lang="es">Everest Ulyssess McGill, un delincuente de poca monta, es detenido y condenado a trabajos forzosos en el estado de Mississippi. Sus dificultades para adaptarse a la estricta disciplina de la prisión lo llevan a elaborar un plan de fuga. Everest Ulyssess McGill, un delincuente de poca monta, es detenido y condenado a trabajos forzosos en el estado de Mississippi. Sus dificultades para adaptarse a la estricta disciplina de la prisión lo llevan a elaborar un plan de fuga.(n)</desc>
+    <credits>
+      <actor>George Clooney</actor>
+      <actor>Tim Nelson</actor>
+      <actor>Holly Hunter</actor>
+      <actor>Charles Durning</actor>
+      <actor>Michael Badalucco</actor>
+      <actor>Brian Reddy</actor>
+      <actor>Ed Gale</actor>
+      <actor>Daniel Von Bargen</actor>
+      <actor>Frank Collison</actor>
+      <actor>Lee Weaver</actor>
+      <actor>Stephen Root</actor>
+      <actor>Gillian Welch</actor>
+      <actor>Mia Tate</actor>
+      <actor>Christy Taylor</actor>
+      <actor>Michael Finnell</actor>
+      <producer>Eric Fellner</producer>
+      <producer>John Cameron</producer>
+      <producer>Tim Bevan</producer>
+    </credits>
+    <category lang="es">Comedia Dramática</category>
+    <icon src="https://milhouse.zapping.live/assets/p25569_i_h10_ae.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220211212200 -0300" stop="20220211230000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Nacho Libre</title>
+    <desc lang="es">Un cocinero mexicano llamado Ignacio trabaja de noche como luchador profesional para recaudar dinero para un orfanato. Un cocinero mexicano llamado Ignacio trabaja de noche como luchador profesional para recaudar dinero para un orfanato.(n)</desc>
+    <credits>
+      <actor>Jack Black</actor>
+      <actor>Héctor Jiménez</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Lauro Chartrand</actor>
+      <actor>Carla Jimenez</actor>
+      <producer>Mike White</producer>
+      <producer>David Klawans</producer>
+      <producer>Damon Ross</producer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://milhouse.zapping.live/assets/p160705_i_h10_ac.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
   <programme start="20220210010000 -0300" stop="20220210023200 -0300" channel="CINE PREMIUM | GOLDEN EDGE">
     <title lang="es">Rambo: Regreso al Infierno</title>
     <title lang="xx">Rambo</title>
@@ -17125,10 +17501,10 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/617551.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210074300 -0300" stop="20220210092100 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210074300 -0300" stop="20220210091600 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">American Ninja Warrior</title>
     <sub-title lang="es">S.11-Ep.7 - Finales de Los Ángeles</sub-title>
-    <desc lang="es">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano. La competencia tiene varias etapas, que van incrementando su complejidad. Tanto profesionales como aficionados se presentan para intentar pasarlas en el menor tiempo posible. Todos quieren el título y el premio en dólares, pero ¿alguno será capaz de conseguirlo? Los 30 mejores competidores de la Clasificación de Los Angeles encaran el recorrido de las finales, incluyendo dos nuevos desafiantes obstáculos: 'Baton Pass' y 'Spider Trap.' Entre los competidores están: Tiana Webberley, Sean Bryan, Kevin Bull, Josh Levin y Flip Rodriguez.</desc>
+    <desc lang="es">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano. La competencia tiene varias etapas, que van incrementando su complejidad. Tanto profesionales como aficionados se presentan para intentar pasarlas en el menor tiempo posible. Todos quieren el título y el premio en dólares, pero ¿alguno será capaz de conseguirlo? Los 30 mejores competidores de la Clasificación de Los Angeles encaran el recorrido de las finales, incluyendo dos nuevos desafiantes obstáculos: 'Baton Pass' y 'Spider Trap.' Entre los competidores están: Tiana Webberley, Sean Bryan, Kevin Bull, Josh Levin y Flip Rodriguez.(c)</desc>
     <credits>
       <director>Patrick McManus</director>
       <actor>Matt Iseman</actor>
@@ -17141,13 +17517,13 @@
     </credits>
     <date>2009</date>
     <category lang="es">Entretenimientos</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2145664.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1585748.jpg" />
     <country lang="es">EE. UU.</country>
     <episode-num system="onscreen">S.11-Ep.7</episode-num>
   </programme>
-  <programme start="20220210092100 -0300" stop="20220210111900 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210091600 -0300" stop="20220210110700 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Jumanji</title>
-    <desc lang="es">Alan Parris, de 12 años, descubre el misterioso tablero Jumanji. Un día, se sienta a jugar con su amiga Sarah y de repente, cosas extrañas empiezan a ocurrir. Alan tira los dados y es transportado hasta el selvático reino de Jumanji, donde queda atrapado durante 26 años. Décadas después, otros dos niños, Judy y Peter, empiezan a jugar en el ático de la antigua casa de Alan y éste resulta liberado, emergiendo de Jumanji, convertido en un hombre de 38 años. Juntos deberán encontrar a Sarah,ya adulta, para terminar de una vez por todas el peligroso juego, antes de que acabe con ellos.</desc>
+    <desc lang="es">Alan Parris, de 12 años, descubre el misterioso tablero Jumanji. Un día, se sienta a jugar con su amiga Sarah y de repente, cosas extrañas empiezan a ocurrir. Alan tira los dados y es transportado hasta el selvático reino de Jumanji, donde queda atrapado durante 26 años. Décadas después, otros dos niños, Judy y Peter, empiezan a jugar en el ático de la antigua casa de Alan y éste resulta liberado, emergiendo de Jumanji, convertido en un hombre de 38 años. Juntos deberán encontrar a Sarah,ya adulta, para terminar de una vez por todas el peligroso juego, antes de que acabe con ellos.(c)</desc>
     <credits>
       <director>Joe Johnston</director>
       <actor>Robin Williams</actor>
@@ -17171,9 +17547,9 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/10592850.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210111900 -0300" stop="20220210134700 -0300" channel="CINE PREMIUM | Space FHD">
-    <title lang="es">La leyenda de Tarzán</title>
-    <desc lang="es">El Zorro está obligado a cumplir la promesa que le hizo a su mujer: llevar adelante una vida normal, abandonando su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.</desc>
+  <programme start="20220210110700 -0300" stop="20220210134000 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">La leyenda del Zorro</title>
+    <desc lang="es">El Zorro está obligado a cumplir la promesa que le hizo a su mujer: llevar adelante una vida normal, abandonando su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.(c)</desc>
     <credits>
       <director>Martin Campbell</director>
       <actor>Antonio Banderas</actor>
@@ -17197,12 +17573,12 @@
     </credits>
     <date>2005</date>
     <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10566070.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10566078.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210134700 -0300" stop="20220210155400 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210134000 -0300" stop="20220210154800 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Terminator: La salvación</title>
-    <desc lang="es">John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado por la aparición de Marcus Wright, mitad humano, mitad maquina. ¿De que lado está? ¿Puede confiar en él?</desc>
+    <desc lang="es">John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado por la aparición de Marcus Wright, mitad humano, mitad maquina. ¿De que lado está? ¿Puede confiar en él?(c)</desc>
     <credits>
       <director>McG</director>
       <actor>Christian Bale</actor>
@@ -17223,31 +17599,35 @@
     </credits>
     <date>2009</date>
     <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4687234.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4687238.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210155400 -0300" stop="20220210174900 -0300" channel="CINE PREMIUM | Space FHD">
-    <title lang="es">15:17 tren a París</title>
-    <desc lang="es">En la tarde del 21 de agosto de 2015, tres jóvenes americanos que viajaban por Europa se enfrentaron a un terrorista en un tren con destino a París, con quinientos pasajeros a bordo.</desc>
+  <programme start="20220210154800 -0300" stop="20220210173800 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">La venganza de Jane</title>
+    <desc lang="es">La joven Jane está casada con uno de los tipos más peligrosos del Oeste. Un día su marido regresa a casa con 8 heridas de bala. La banda del cruel Bishop lo ha acribillado. Sobrevive, pero sabe que es cuestión de tiempo que Bishop y sus chicos vengan a rematar la faena. Jane decidirá ir directamente a por ellos. Con la ayuda de un enemigo acérrimo de su marido, un hombre enamorado de ella y examante, se enfrentará a la banda de delincuentes.(c)</desc>
     <credits>
-      <director>Clint Eastwood</director>
-      <actor>Anthony Sadler</actor>
-      <actor>Spencer Stone</actor>
-      <actor>Alek Skarlatos</actor>
-      <actor>Judy Greer</actor>
-      <actor>Jenna Fischer</actor>
-      <actor>Irene White</actor>
-      <actor>William Jennings</actor>
-      <actor>Ray Corasani</actor>
+      <director>Gavin O'Connor</director>
+      <actor>Natalie Portman</actor>
+      <actor>Joel Edgerton</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>Noah Emmerich</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Todd Stashwick</actor>
+      <actor>River Shields</actor>
+      <actor>Jacob Browne</actor>
+      <actor>Sam Quinn</actor>
+      <actor>Alex Manette</actor>
+      <actor>Jenny Gabrielle</actor>
     </credits>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6924584.jpg" />
+    <date>2015</date>
+    <category lang="es">Western</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/3162458.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210174900 -0300" stop="20220210192900 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210173800 -0300" stop="20220210191900 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Asalto al camión blindado</title>
-    <desc lang="es">Un grupo de oficiales de una empresa de transporte de valores arriesgan sus vidas al enfrentar el más audaz atraco en contra de su propia compañía. Armados con un plan a prueba de balas, los hombres planean hacerse de una fortuna sin lastimar a nadie. Pero cuando un testigo inesperado interfiere y el plan rápidamente se trastorna.</desc>
+    <desc lang="es">Un grupo de oficiales de una empresa de transporte de valores arriesgan sus vidas al enfrentar el más audaz atraco en contra de su propia compañía. Armados con un plan a prueba de balas, los hombres planean hacerse de una fortuna sin lastimar a nadie. Pero cuando un testigo inesperado interfiere y el plan rápidamente se trastorna.(c)</desc>
     <credits>
       <director>Nimród Antal</director>
       <actor>Matt Dillon</actor>
@@ -17266,12 +17646,12 @@
     </credits>
     <date>2009</date>
     <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1867915.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1867927.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210192900 -0300" stop="20220210220000 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210191900 -0300" stop="20220210220000 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">En la línea de fuego</title>
-    <desc lang="es">Frank Horrigan es un veterano escolta, que conoció tiempos mejores cuando llegó a ser guardaespaldas del Presidente Kennedy. Muchos años después, a punto de retirarse, está atravesando una crisis profesional y personal, pero decide volver al servicio de la Casa Blanca cuando en una investigación rutinaria descubre que un psicópata llamado Mitch Leary está amenazando de muerte al primer mandatario de los Estados Unidos, quien recibe unas mil cuatrocientas amenazas cada año, pero estas parecen creíbles y provenientes de un tipo peligroso.</desc>
+    <desc lang="es">Frank Horrigan es un veterano escolta, que conoció tiempos mejores cuando llegó a ser guardaespaldas del Presidente Kennedy. Muchos años después, a punto de retirarse, está atravesando una crisis profesional y personal, pero decide volver al servicio de la Casa Blanca cuando en una investigación rutinaria descubre que un psicópata llamado Mitch Leary está amenazando de muerte al primer mandatario de los Estados Unidos, quien recibe unas mil cuatrocientas amenazas cada año, pero estas parecen creíbles y provenientes de un tipo peligroso.(c)</desc>
     <credits>
       <director>Wolfgang Petersen</director>
       <actor>Clint Eastwood</actor>
@@ -17295,9 +17675,9 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/10584715.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220210220000 -0300" stop="20220210235400 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210220000 -0300" stop="20220210235700 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">En modo asesino</title>
-    <desc lang="es">Reclutan a David, un antiguo miembro de un movimiento rebelde, para una misión que podría derribar a la empresa dueña del mundo, una corporación farmacéutica que distribuye el antiídoto contra un virus, pero cobra un alto precio por él.</desc>
+    <desc lang="es">Reclutan a David, un antiguo miembro de un movimiento rebelde, para una misión que podría derribar a la empresa dueña del mundo, una corporación farmacéutica que distribuye el antiídoto contra un virus, pero cobra un alto precio por él.(c)</desc>
     <credits>
       <director>Thijs Meuwese</director>
       <actor>Dave Mantel</actor>
@@ -17316,9 +17696,9 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15879528.jpg" />
     <country lang="es">Holanda</country>
   </programme>
-  <programme start="20220210235400 -0300" stop="20220211023500 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220210235700 -0300" stop="20220211023200 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Los juegos del hambre</title>
-    <desc lang="es">Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un imponente Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica de entre los doce y los dieciocho años para que participen en los Juegos del Hambre, que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciseis años, decide sustituir a su hermana en los juegos. Pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.</desc>
+    <desc lang="es">Lo que en el pasado fueron los Estados Unidos, ahora es una nación llamada Panem: un imponente Capitolio ejerce un control riguroso sobre los doce distritos que lo rodean y que están aislados entre sí. Cada distrito se ve obligado a enviar anualmente un chico y una chica de entre los doce y los dieciocho años para que participen en los Juegos del Hambre, que son transmitidos en directo por la televisión. Se trata de una lucha a muerte, en la que sólo puede haber un superviviente. Katniss Everdeen, una joven de dieciseis años, decide sustituir a su hermana en los juegos. Pero para ella, que ya ha visto la muerte de cerca, la lucha por la supervivencia es su segunda naturaleza.(c)</desc>
     <credits>
       <director>Gary Ross</director>
       <actor>Jennifer Lawrence</actor>
@@ -17340,12 +17720,12 @@
     </credits>
     <date>2012</date>
     <category lang="es">C.Ficción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1900663.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/382705.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220211023500 -0300" stop="20220211043500 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220211023200 -0300" stop="20220211042900 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Las crónicas del miedo</title>
-    <desc lang="es">Se trata de una antología de terror centrada en un grupo de matones degenerados que disfrutan violando mujeres y que son contratados por un misterioso sujeto para que vayan a una casa abandonada, donde encuentren una cinta con imágenes horribles y perturbadoras. Las instrucciones decían que tal video debía ser de fácil reconocimiento, pero cuando llegan a la casa encuentran una enorme biblioteca de ellos. Pero peor aún es lo que hay en las cintas. ¿Les costará más que lo que les pagarían?</desc>
+    <desc lang="es">Se trata de una antología de terror centrada en un grupo de matones degenerados que disfrutan violando mujeres y que son contratados por un misterioso sujeto para que vayan a una casa abandonada, donde encuentren una cinta con imágenes horribles y perturbadoras. Las instrucciones decían que tal video debía ser de fácil reconocimiento, pero cuando llegan a la casa encuentran una enorme biblioteca de ellos. Pero peor aún es lo que hay en las cintas. ¿Les costará más que lo que les pagarían?(c)</desc>
     <credits>
       <director>Adam Wingard</director>
       <director>Glenn McQuaid</director>
@@ -17370,12 +17750,12 @@
     </credits>
     <date>2012</date>
     <category lang="es">Terror</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1288958.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2025760.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220211043500 -0300" stop="20220211060000 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220211042900 -0300" stop="20220211060000 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Cacería</title>
-    <desc lang="es">Joseph y su familia viven en un lugar remoto como cazadores de pieles, hasta que su tranquilidad empieza a ser amenazada por un lobo.</desc>
+    <desc lang="es">Joseph y su familia viven en un lugar remoto como cazadores de pieles, hasta que su tranquilidad empieza a ser amenazada por un lobo.(c)</desc>
     <credits>
       <director>Shawn Linden</director>
       <actor>Camille Sullivan</actor>
@@ -17396,7 +17776,7 @@
   </programme>
   <programme start="20220211060000 -0300" stop="20220211075000 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">La leyenda del Zorro</title>
-    <desc lang="es">El Zorro está obligado a cumplir la promesa que le hizo a su mujer: llevar adelante una vida normal, abandonando su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.(c)</desc>
+    <desc lang="es">El Zorro está obligado a cumplir la promesa que le hizo a su mujer: llevar adelante una vida normal, abandonando su identidad secreta. Sin embargo, la aparición de nuevos villanos pondrán en jaque el acatamiento de su juramento.</desc>
     <credits>
       <director>Martin Campbell</director>
       <actor>Antonio Banderas</actor>
@@ -17445,7 +17825,7 @@
   </programme>
   <programme start="20220211092800 -0300" stop="20220211113400 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Terminator: La salvación</title>
-    <desc lang="es">John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado por la aparición de Marcus Wright, mitad humano, mitad maquina. ¿De que lado está? ¿Puede confiar en él?(c)</desc>
+    <desc lang="es">John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado por la aparición de Marcus Wright, mitad humano, mitad maquina. ¿De que lado está? ¿Puede confiar en él?</desc>
     <credits>
       <director>McG</director>
       <actor>Christian Bale</actor>
@@ -17471,7 +17851,7 @@
   </programme>
   <programme start="20220211113400 -0300" stop="20220211131800 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Ace Ventura 2: Cuando la naturaleza llama</title>
-    <desc lang="es">Intentando superar el trauma que le ha dejado el fracaso de su última misión, en la que no pudo evitar que muriera el mapache que tenía que rescatar, el inefable detective Ace Ventura se retira a un monasterio budista. Pero, una vez allí, un extraño personaje le ofrece una fuerte suma de dinero para que trate de encontrar al animal sagrado de una tribu.(c)</desc>
+    <desc lang="es">Intentando superar el trauma que le ha dejado el fracaso de su última misión, en la que no pudo evitar que muriera el mapache que tenía que rescatar, el inefable detective Ace Ventura se retira a un monasterio budista. Pero, una vez allí, un extraño personaje le ofrece una fuerte suma de dinero para que trate de encontrar al animal sagrado de una tribu.</desc>
     <credits>
       <director>Steve Oedekerk</director>
       <actor>Jim Carrey</actor>
@@ -17497,7 +17877,7 @@
   </programme>
   <programme start="20220211131800 -0300" stop="20220211145700 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Asalto al camión blindado</title>
-    <desc lang="es">Un grupo de oficiales de una empresa de transporte de valores arriesgan sus vidas al enfrentar el más audaz atraco en contra de su propia compañía. Armados con un plan a prueba de balas, los hombres planean hacerse de una fortuna sin lastimar a nadie. Pero cuando un testigo inesperado interfiere y el plan rápidamente se trastorna.(c)</desc>
+    <desc lang="es">Un grupo de oficiales de una empresa de transporte de valores arriesgan sus vidas al enfrentar el más audaz atraco en contra de su propia compañía. Armados con un plan a prueba de balas, los hombres planean hacerse de una fortuna sin lastimar a nadie. Pero cuando un testigo inesperado interfiere y el plan rápidamente se trastorna.</desc>
     <credits>
       <director>Nimród Antal</director>
       <actor>Matt Dillon</actor>
@@ -17521,7 +17901,7 @@
   </programme>
   <programme start="20220211145700 -0300" stop="20220211172800 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">En la línea de fuego</title>
-    <desc lang="es">Frank Horrigan es un veterano escolta, que conoció tiempos mejores cuando llegó a ser guardaespaldas del Presidente Kennedy. Muchos años después, a punto de retirarse, está atravesando una crisis profesional y personal, pero decide volver al servicio de la Casa Blanca cuando en una investigación rutinaria descubre que un psicópata llamado Mitch Leary está amenazando de muerte al primer mandatario de los Estados Unidos, quien recibe unas mil cuatrocientas amenazas cada año, pero estas parecen creíbles y provenientes de un tipo peligroso.(c)</desc>
+    <desc lang="es">Frank Horrigan es un veterano escolta, que conoció tiempos mejores cuando llegó a ser guardaespaldas del Presidente Kennedy. Muchos años después, a punto de retirarse, está atravesando una crisis profesional y personal, pero decide volver al servicio de la Casa Blanca cuando en una investigación rutinaria descubre que un psicópata llamado Mitch Leary está amenazando de muerte al primer mandatario de los Estados Unidos, quien recibe unas mil cuatrocientas amenazas cada año, pero estas parecen creíbles y provenientes de un tipo peligroso.</desc>
     <credits>
       <director>Wolfgang Petersen</director>
       <actor>Clint Eastwood</actor>
@@ -17547,7 +17927,7 @@
   </programme>
   <programme start="20220211172800 -0300" stop="20220211192300 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Máximo riesgo</title>
-    <desc lang="es">Después de que asesinan a su hermano gemelo, Alain Moreau toma su lugar y hereda sus problemas, incluyendo a su novia. En su camino, se verá forzado a pelear en busca de respuestas, mientras es perseguido por todo tipo de canallas.(c)</desc>
+    <desc lang="es">Después de que asesinan a su hermano gemelo, Alain Moreau toma su lugar y hereda sus problemas, incluyendo a su novia. En su camino, se verá forzado a pelear en busca de respuestas, mientras es perseguido por todo tipo de canallas.</desc>
     <credits>
       <director>Ringo Lam</director>
       <actor>Jean Claude Van Damme</actor>
@@ -17980,62 +18360,62 @@
   </programme>
   <programme start="20220211010000 -0800" stop="20220211030000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Pitch Black</title>
-    <desc lang="en">After crash landing on a distant planet, survivors (Radha Mitchell, Vin Diesel, Cole Hauser) must fight deadly creatures that come out only at night.(n)</desc>
+    <desc lang="en">After crash landing on a distant planet, survivors (Radha Mitchell, Vin Diesel, Cole Hauser) must fight deadly creatures that come out only at night.</desc>
     <date>2000</date>
   </programme>
   <programme start="20220211030000 -0800" stop="20220211050000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Reign of Fire</title>
-    <desc lang="en">A hotshot American (Matthew McConaughey) and a firefighter (Christian Bale) unite to fight a horde of dragons in post-apocalyptic London.(n)</desc>
+    <desc lang="en">A hotshot American (Matthew McConaughey) and a firefighter (Christian Bale) unite to fight a horde of dragons in post-apocalyptic London.</desc>
     <date>2002</date>
   </programme>
   <programme start="20220211050000 -0800" stop="20220211070000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Anacondas: Trail of Blood</title>
-    <desc lang="en">Dr. Amanda Hayes (Crystal Allen) fights with henchmen sent by a dying billionaire while avoiding a gigantic anaconda that regenerates.(n)</desc>
+    <desc lang="en">Dr. Amanda Hayes (Crystal Allen) fights with henchmen sent by a dying billionaire while avoiding a gigantic anaconda that regenerates.</desc>
     <date>2009</date>
   </programme>
   <programme start="20220211070000 -0800" stop="20220211090000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Anaconda 3: Offspring</title>
-    <desc lang="en">A mercenary (David Hasselhoff) and a scientist (Crystal Allen) join forces to stop a giant snake and its pregnant counterpart.(n)</desc>
+    <desc lang="en">A mercenary (David Hasselhoff) and a scientist (Crystal Allen) join forces to stop a giant snake and its pregnant counterpart.</desc>
     <date>2008</date>
   </programme>
   <programme start="20220211090000 -0800" stop="20220211110000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Anacondas: The Hunt for the Blood Orchid</title>
-    <desc lang="en">While exploring the jungles of Borneo, scientists (KaDee Strickland, Matthew Marsden) and their guide (Johnny Messner) encounter monstrous, man-eating snakes.(n)</desc>
+    <desc lang="en">While exploring the jungles of Borneo, scientists (KaDee Strickland, Matthew Marsden) and their guide (Johnny Messner) encounter monstrous, man-eating snakes.</desc>
     <date>2004</date>
   </programme>
   <programme start="20220211110000 -0800" stop="20220211130000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Anaconda</title>
-    <desc lang="en">A snake hunter (Jon Voight) commandeers a documentary crew (Jennifer Lopez, Ice Cube) in the Brazilian jungle, forcing them to battle a monster boa.(n)</desc>
+    <desc lang="en">A snake hunter (Jon Voight) commandeers a documentary crew (Jennifer Lopez, Ice Cube) in the Brazilian jungle, forcing them to battle a monster boa.</desc>
     <date>1997</date>
   </programme>
   <programme start="20220211130000 -0800" stop="20220211150000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Journey to the Center of the Earth</title>
-    <desc lang="en">A science professor (Brendan Fraser) and his nephew (Josh Hutcherson) encounter strange creatures and stranger lands as they travel beneath the Earth's surface.(n)</desc>
+    <desc lang="en">A science professor (Brendan Fraser) and his nephew (Josh Hutcherson) encounter strange creatures and stranger lands as they travel beneath the Earth's surface.</desc>
     <date>2008</date>
   </programme>
   <programme start="20220211150000 -0800" stop="20220211173000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">The Fifth Element</title>
-    <desc lang="en">A New York City cabdriver (Bruce Willis) tries to save 2259 Earth from impact with an onrushing anti-life force.(n)</desc>
+    <desc lang="en">A New York City cabdriver (Bruce Willis) tries to save 2259 Earth from impact with an onrushing anti-life force.</desc>
     <date>1997</date>
   </programme>
   <programme start="20220211173000 -0800" stop="20220211200000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Serenity</title>
-    <desc lang="en">Crew members (Nathan Fillion, Gina Torres, Alan Tudyk) aboard a transport vessel get caught in a deadly conflict in the wake of a galactic war.(n)</desc>
+    <desc lang="en">Crew members (Nathan Fillion, Gina Torres, Alan Tudyk) aboard a transport vessel get caught in a deadly conflict in the wake of a galactic war.</desc>
     <date>2005</date>
   </programme>
   <programme start="20220211200000 -0800" stop="20220211210000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Resident Alien</title>
     <sub-title lang="en">Girls' Night</sub-title>
-    <desc lang="en">Harry meets a woman unlike any other and realizes that she is the key to his new mission.(n)</desc>
+    <desc lang="en">Harry meets a woman unlike any other and realizes that she is the key to his new mission.</desc>
   </programme>
   <programme start="20220211210000 -0800" stop="20220211220000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Astrid &amp; Lilly Save the World</title>
     <sub-title lang="en">Amygdala</sub-title>
-    <desc lang="en">A monster manifesting everyone's worst fear terrorizes Pine Academy, including Astrid and Lilly.(n)</desc>
+    <desc lang="en">A monster manifesting everyone's worst fear terrorizes Pine Academy, including Astrid and Lilly.</desc>
   </programme>
   <programme start="20220211220000 -0800" stop="20220212010000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Hook</title>
-    <desc lang="en">Aided by Tinker Bell (Julia Roberts), a corporate lawyer (Robin Williams) turns into Peter Pan to rescue his children from Captain Hook (Dustin Hoffman).(n)</desc>
+    <desc lang="en">Aided by Tinker Bell (Julia Roberts), a corporate lawyer (Robin Williams) turns into Peter Pan to rescue his children from Captain Hook (Dustin Hoffman).</desc>
     <date>1991</date>
   </programme>
   <programme start="20220210010000 -0300" stop="20220210024500 -0300" channel="CINE PREMIUM | TBS *">
@@ -21948,10 +22328,10 @@
   <programme start="20220212225100 -0300" stop="20220213010000 -0300" channel="CINE PREMIUM | WARNER TV (T)">
     <title lang="es">La gran estafa</title>
   </programme>
-  <programme start="20220210005100 -0300" stop="20220210013900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210005100 -0300" stop="20220210013900 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -21972,9 +22352,9 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220210013900 -0300" stop="20220210023000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210013900 -0300" stop="20220210023000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -21993,9 +22373,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220210023000 -0300" stop="20220210031900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210023000 -0300" stop="20220210031900 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -22014,22 +22394,22 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220210031900 -0300" stop="20220210041000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210031900 -0300" stop="20220210041000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20220210041000 -0300" stop="20220210050100 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210041000 -0300" stop="20220210050100 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20220210050100 -0300" stop="20220210054900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210050100 -0300" stop="20220210054900 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20220210054900 -0300" stop="20220210063400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210054900 -0300" stop="20220210063400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22050,10 +22430,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220210063400 -0300" stop="20220210072000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210063400 -0300" stop="20220210072000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22074,10 +22454,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220210072000 -0300" stop="20220210080300 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210072000 -0300" stop="20220210080300 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">CSI: NY</title>
     <title lang="xx">CSI: NY</title>
-    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.</desc>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
     <credits>
       <actor>Gary Sinise</actor>
       <actor>Melina Kanakaredes</actor>
@@ -22097,41 +22477,41 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220210080300 -0300" stop="20220210090000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210080300 -0300" stop="20220210090000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20220210090000 -0300" stop="20220210093700 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210090000 -0300" stop="20220210093700 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20220210093700 -0300" stop="20220210102800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210093700 -0300" stop="20220210102800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E218</episode-num>
   </programme>
-  <programme start="20220210102800 -0300" stop="20220210111700 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210102800 -0300" stop="20220210111700 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E219</episode-num>
   </programme>
-  <programme start="20220210111700 -0300" stop="20220210120600 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210111700 -0300" stop="20220210120600 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20220210120600 -0300" stop="20220210125800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210120600 -0300" stop="20220210125800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E27</episode-num>
   </programme>
-  <programme start="20220210125800 -0300" stop="20220210135000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210125800 -0300" stop="20220210135000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E47</episode-num>
   </programme>
-  <programme start="20220210135000 -0300" stop="20220210143800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210135000 -0300" stop="20220210143800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E48</episode-num>
   </programme>
-  <programme start="20220210143800 -0300" stop="20220210152900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210143800 -0300" stop="20220210152900 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22152,10 +22532,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220210152900 -0300" stop="20220210162000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210152900 -0300" stop="20220210162000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22176,9 +22556,9 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220210162000 -0300" stop="20220210170800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210162000 -0300" stop="20220210170800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -22196,9 +22576,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220210170800 -0300" stop="20220210180000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210170800 -0300" stop="20220210180000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -22216,38 +22596,38 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220210180000 -0300" stop="20220210185300 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210180000 -0300" stop="20220210185300 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20220210185300 -0300" stop="20220210194400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210185300 -0300" stop="20220210194400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E27</episode-num>
   </programme>
-  <programme start="20220210194400 -0300" stop="20220210203500 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210194400 -0300" stop="20220210203500 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E47</episode-num>
   </programme>
-  <programme start="20220210203500 -0300" stop="20220210212800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210203500 -0300" stop="20220210212800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E48</episode-num>
   </programme>
-  <programme start="20220210212800 -0300" stop="20220210222000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210212800 -0300" stop="20220210222000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20220210222000 -0300" stop="20220210230800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210222000 -0300" stop="20220210230800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E218</episode-num>
   </programme>
-  <programme start="20220210230800 -0300" stop="20220211000000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220210230800 -0300" stop="20220211000000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E219</episode-num>
   </programme>
-  <programme start="20220211000000 -0300" stop="20220211005100 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211000000 -0300" stop="20220211005100 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22268,110 +22648,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220211005100 -0300" stop="20220211013800 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211005100 -0300" stop="20220211013800 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-      <actor>Rockmond Dunbar</actor>
-      <actor>Emily Swallow</actor>
-      <actor>Joe Adler</actor>
-      <producer>Charlie Goldstein</producer>
-      <producer>Ken Woodruff</producer>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
-    <episode-num system="onscreen">S6 E3</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220211013800 -0300" stop="20220211023000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
-    <credits>
-      <actor>Christopher Meloni</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Dann Florek</actor>
-      <actor>Michelle Hurd</actor>
-      <actor>Stephanie March</actor>
-      <actor>Ice-T</actor>
-      <actor>BD Wong</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ley_y_orden_unidad_de_victimas_especiales.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220211023000 -0300" stop="20220211032100 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
-    <credits>
-      <actor>Christopher Meloni</actor>
-      <actor>Mariska Hargitay</actor>
-      <actor>Richard Belzer</actor>
-      <actor>Dann Florek</actor>
-      <actor>Michelle Hurd</actor>
-      <actor>Stephanie March</actor>
-      <actor>Ice-T</actor>
-      <actor>BD Wong</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ley_y_orden_unidad_de_victimas_especiales.jpg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20220211032100 -0300" stop="20220211040900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">ER</title>
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20220211040900 -0300" stop="20220211050000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">ER</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20220211050000 -0300" stop="20220211054700 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">ER</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20220211054700 -0300" stop="20220211063200 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">The Mentalist</title>
-    <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
-    <credits>
-      <actor>Simon Baker</actor>
-      <actor>Robin Tunney</actor>
-      <actor>Tim Kang</actor>
-      <actor>Owain Yeoman</actor>
-      <actor>Amanda Righetti</actor>
-      <actor>Rockmond Dunbar</actor>
-      <actor>Emily Swallow</actor>
-      <actor>Joe Adler</actor>
-      <producer>Charlie Goldstein</producer>
-      <producer>Ken Woodruff</producer>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <rating>
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20220211063200 -0300" stop="20220211071900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
-    <title lang="es">The Mentalist</title>
-    <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22392,10 +22672,110 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220211071900 -0300" stop="20220211090000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211013800 -0300" stop="20220211023000 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">Law &amp; Order: SVU</title>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
+    <credits>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Dann Florek</actor>
+      <actor>Michelle Hurd</actor>
+      <actor>Stephanie March</actor>
+      <actor>Ice-T</actor>
+      <actor>BD Wong</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ley_y_orden_unidad_de_victimas_especiales.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220211023000 -0300" stop="20220211032100 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">Law &amp; Order: SVU</title>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
+    <credits>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Dann Florek</actor>
+      <actor>Michelle Hurd</actor>
+      <actor>Stephanie March</actor>
+      <actor>Ice-T</actor>
+      <actor>BD Wong</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ley_y_orden_unidad_de_victimas_especiales.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220211032100 -0300" stop="20220211040900 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">ER</title>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20220211040900 -0300" stop="20220211050000 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">ER</title>
+    <episode-num system="onscreen">S2 E218</episode-num>
+  </programme>
+  <programme start="20220211050000 -0300" stop="20220211054700 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">ER</title>
+    <episode-num system="onscreen">S2 E219</episode-num>
+  </programme>
+  <programme start="20220211054700 -0300" stop="20220211063200 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220211063200 -0300" stop="20220211071900 -0300" channel="CINE PREMIUM | TNT Series HD">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220211071900 -0300" stop="20220211090000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">CSI: NY</title>
     <title lang="xx">CSI: NY</title>
-    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.</desc>
+    <desc lang="es">Investigadores forenses expertos que vigilan la ciudad de Nueva York, usando técnicas forenses de alta tecnología para resolver los crímenes ocurridos.(n)</desc>
     <credits>
       <actor>Gary Sinise</actor>
       <actor>Melina Kanakaredes</actor>
@@ -22415,38 +22795,38 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220211090000 -0300" stop="20220211094400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211090000 -0300" stop="20220211094400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20220211094400 -0300" stop="20220211103300 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211094400 -0300" stop="20220211103300 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E221</episode-num>
   </programme>
-  <programme start="20220211103300 -0300" stop="20220211112400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211103300 -0300" stop="20220211112400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
-  <programme start="20220211112400 -0300" stop="20220211121400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211112400 -0300" stop="20220211121400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E28</episode-num>
   </programme>
-  <programme start="20220211121400 -0300" stop="20220211130500 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211121400 -0300" stop="20220211130500 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E29</episode-num>
   </programme>
-  <programme start="20220211130500 -0300" stop="20220211135700 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211130500 -0300" stop="20220211135700 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E49</episode-num>
   </programme>
-  <programme start="20220211135700 -0300" stop="20220211144900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211135700 -0300" stop="20220211144900 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E50</episode-num>
   </programme>
-  <programme start="20220211144900 -0300" stop="20220211153600 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211144900 -0300" stop="20220211153600 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22467,10 +22847,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220211153600 -0300" stop="20220211162400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211153600 -0300" stop="20220211162400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.(n)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -22491,9 +22871,9 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220211162400 -0300" stop="20220211171400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211162400 -0300" stop="20220211171400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -22511,9 +22891,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220211171400 -0300" stop="20220211180400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211171400 -0300" stop="20220211180400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones.(n)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -22531,31 +22911,31 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220211180400 -0300" stop="20220211185700 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211180400 -0300" stop="20220211185700 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E28</episode-num>
   </programme>
-  <programme start="20220211185700 -0300" stop="20220211195000 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211185700 -0300" stop="20220211195000 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Babil</title>
     <episode-num system="onscreen">S2 E29</episode-num>
   </programme>
-  <programme start="20220211195000 -0300" stop="20220211203900 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211195000 -0300" stop="20220211203900 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E49</episode-num>
   </programme>
-  <programme start="20220211203900 -0300" stop="20220211213200 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211203900 -0300" stop="20220211213200 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">Doctor Milagro</title>
     <episode-num system="onscreen">S2 E50</episode-num>
   </programme>
-  <programme start="20220211213200 -0300" stop="20220211222400 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211213200 -0300" stop="20220211222400 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20220211222400 -0300" stop="20220211231200 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211222400 -0300" stop="20220211231200 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E221</episode-num>
   </programme>
-  <programme start="20220211231200 -0300" stop="20220212000200 -0300" channel="CINE PREMIUM | TNT SERIES HD">
+  <programme start="20220211231200 -0300" stop="20220212000200 -0300" channel="CINE PREMIUM | TNT Series HD">
     <title lang="es">ER</title>
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
