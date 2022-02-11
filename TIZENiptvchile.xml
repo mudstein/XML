@@ -14357,10 +14357,34 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212020800 +0000" stop="20220212023300 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212003300 +0000" stop="20220212020600 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+    <title lang="es">Jumper</title>
+    <desc lang="es">Una anomalía genética le permite a Davey teletransportarse a su voluntad. De pronto, descubre que su don ha existido durante siglos en medio una lucha entre los jumpers y aquellos que juraron eliminarlos. Es aquí donde inicia una lucha por sobrevivir y mantener seguro a sus seres cercanos.(g)</desc>
+    <credits>
+      <director>Doug Liman</director>
+      <actor>AnnaSophia Robb</actor>
+      <actor>Diane Lane</actor>
+      <actor>Jesse James</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Rachel Bilson</actor>
+      <actor>Tom Hulce</actor>
+      <actor>Hayden Christensen</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Basado en novelas</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/74/9740160_A74F1F5CCF3F592D.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220212020600 +0000" stop="20220212023100 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">Solo nuevamentirijillo</sub-title>
-    <desc lang="es">Ned Flanders sufre la muerte de su esposa Maude, y Homero intenta encontrar una nueva mujer para su afligido vecino.</desc>
+    <desc lang="es">Ned Flanders sufre la muerte de su esposa Maude, y Homero intenta encontrar una nueva mujer para su afligido vecino.(c)</desc>
     <credits>
       <director>Jim Reardon</director>
       <actor>Pamela Hayden</actor>
@@ -14375,17 +14399,17 @@
     </credits>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/43/10435123_EA6FB2A0DB25B6E6.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/44/10446189_35FCBD4275BF5B21.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S11 E14</episode-num>
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212023300 +0000" stop="20220212030000 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212023100 +0000" stop="20220212030000 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">El turbio y oscuro mundo de Marge Simpson</sub-title>
-    <desc lang="es">Luego de ser expulsada de un Club de Inversiones, Marge entra en el negocio del pretzel. Sin embargo, fracasa y Homero recurre a la mafia.</desc>
+    <desc lang="es">Luego de ser expulsada de un Club de Inversiones, Marge entra en el negocio del pretzel. Sin embargo, fracasa y Homero recurre a la mafia.(c)</desc>
     <credits>
       <director>Chuck Sheetz</director>
       <actor>Yeardley Smith</actor>
@@ -14405,9 +14429,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212030000 +0000" stop="20220212054000 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212030000 +0000" stop="20220212053400 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">El sorprendente Hombre Araña 2La amenaza de Electro</title>
-    <desc lang="es">Peter Parker descubre que su mayor batalla está por comenzar. Con la aparición de Electro, el joven debe enfrentarse a un enemigo mucho más poderoso que él. Cuando su viejo amigo, Harry Osborn, regresa, Spider-man se da cuenta de que todos sus adversarios tienen una cosa en común: Oscorp.</desc>
+    <desc lang="es">Peter Parker descubre que su mayor batalla está por comenzar. Con la aparición de Electro, el joven debe enfrentarse a un enemigo mucho más poderoso que él. Cuando su viejo amigo, Harry Osborn, regresa, Spider-man se da cuenta de que todos sus adversarios tienen una cosa en común: Oscorp.(c)</desc>
     <credits>
       <director>Marc Webb</director>
       <actor>Colm Feore</actor>
@@ -14429,9 +14453,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212054000 +0000" stop="20220212072000 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212053400 +0000" stop="20220212071500 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">Rough night</title>
-    <desc lang="es">Jess esta a punto de casarse y para celebrar decide hacer una despedida de soltera en compañía de sus viejas amigas. Sin embargo, la noche parece estar llena de sorpresas cuando por error terminan matando a un stripper y estas deben huir rápidamente antes de ser incriminadas.</desc>
+    <desc lang="es">Jess esta a punto de casarse y para celebrar decide hacer una despedida de soltera en compañía de sus viejas amigas. Sin embargo, la noche parece estar llena de sorpresas cuando por error terminan matando a un stripper y estas deben huir rápidamente antes de ser incriminadas.(c)</desc>
     <credits>
       <director>Lucia Aniello</director>
       <actor>Jillian Bell</actor>
@@ -14447,9 +14471,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212072000 +0000" stop="20220212084500 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212071500 +0000" stop="20220212083900 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">Tierra de zombies</title>
-    <desc lang="es">Un tímido estudiante que trata de alcanzar a su familia en Ohio, un tipo duro con armas de fuego que intenta encontrar al último Twinkie y un par de hermanas que intentan llegar a un parque de diversiones unen fuerzas para viajar a través de una América llena de zombies.</desc>
+    <desc lang="es">Un tímido estudiante que trata de alcanzar a su familia en Ohio, un tipo duro con armas de fuego que intenta encontrar al último Twinkie y un par de hermanas que intentan llegar a un parque de diversiones unen fuerzas para viajar a través de una América llena de zombies.(c)</desc>
     <credits>
       <director>Ruben Fleischer</director>
       <director>Ruben Fleische</director>
@@ -14470,9 +14494,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212084500 +0000" stop="20220212102800 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212083900 +0000" stop="20220212103300 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">Star Trek sin límites</title>
-    <desc lang="es">El capitán Kirk deberá hacer un viaje para garantizar la seguridad del universo, pero en el camino encontrará un nuevo enemigo llamado Krall, al que solo podrá derrotar con apoyo de todo su equipo.</desc>
+    <desc lang="es">El capitán Kirk deberá hacer un viaje para garantizar la seguridad del universo, pero en el camino encontrará un nuevo enemigo llamado Krall, al que solo podrá derrotar con apoyo de todo su equipo.(c)</desc>
     <credits>
       <director>Justin Lin</director>
       <actor>Chris Pine</actor>
@@ -14490,9 +14514,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212102800 +0000" stop="20220212120000 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
+  <programme start="20220212103300 +0000" stop="20220212120000 +0000" channel="CINE PREMIUM | STAR CHANNEL FHD .">
     <title lang="es">Wedding march 4something old, something new</title>
-    <desc lang="es">La pensión romántica de Mick y Olivia se ha convertido en un lugar popular para bodas. Sin embargo, una novia llega temprano con una enorme lista de cambios. Además, la hija de Olivia y su novio hacen una visita sorpresa y anuncian que también están a punto de casarse.</desc>
+    <desc lang="es">La pensión romántica de Mick y Olivia se ha convertido en un lugar popular para bodas. Sin embargo, una novia llega temprano con una enorme lista de cambios. Además, la hija de Olivia y su novio hacen una visita sorpresa y anuncian que también están a punto de casarse.(c)</desc>
     <credits>
       <director>Peter DeLuise</director>
       <actor>Jack Wagner</actor>
@@ -15006,10 +15030,34 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212020800 +0000" stop="20220212023300 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212003300 +0000" stop="20220212020600 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+    <title lang="es">Jumper</title>
+    <desc lang="es">Una anomalía genética le permite a Davey teletransportarse a su voluntad. De pronto, descubre que su don ha existido durante siglos en medio una lucha entre los jumpers y aquellos que juraron eliminarlos. Es aquí donde inicia una lucha por sobrevivir y mantener seguro a sus seres cercanos.(g)</desc>
+    <credits>
+      <director>Doug Liman</director>
+      <actor>AnnaSophia Robb</actor>
+      <actor>Diane Lane</actor>
+      <actor>Jesse James</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Jamie Bell</actor>
+      <actor>Michael Rooker</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Rachel Bilson</actor>
+      <actor>Tom Hulce</actor>
+      <actor>Hayden Christensen</actor>
+    </credits>
+    <category lang="es">Acción</category>
+    <category lang="es">Basado en novelas</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/74/9740160_A74F1F5CCF3F592D.jpg" />
+    <country lang="es">US</country>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  <programme start="20220212020600 +0000" stop="20220212023100 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">Solo nuevamentirijillo</sub-title>
-    <desc lang="es">Ned Flanders sufre la muerte de su esposa Maude, y Homero intenta encontrar una nueva mujer para su afligido vecino.</desc>
+    <desc lang="es">Ned Flanders sufre la muerte de su esposa Maude, y Homero intenta encontrar una nueva mujer para su afligido vecino.(c)</desc>
     <credits>
       <director>Jim Reardon</director>
       <actor>Pamela Hayden</actor>
@@ -15024,17 +15072,17 @@
     </credits>
     <category lang="es">Animación</category>
     <category lang="es">Comedia</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/43/10435123_EA6FB2A0DB25B6E6.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/44/10446189_35FCBD4275BF5B21.jpg" />
     <country lang="es">US</country>
     <episode-num system="onscreen">S11 E14</episode-num>
     <rating system="MJColombia">
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212023300 +0000" stop="20220212030000 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212023100 +0000" stop="20220212030000 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">Los Simpson</title>
     <sub-title lang="es">El turbio y oscuro mundo de Marge Simpson</sub-title>
-    <desc lang="es">Luego de ser expulsada de un Club de Inversiones, Marge entra en el negocio del pretzel. Sin embargo, fracasa y Homero recurre a la mafia.</desc>
+    <desc lang="es">Luego de ser expulsada de un Club de Inversiones, Marge entra en el negocio del pretzel. Sin embargo, fracasa y Homero recurre a la mafia.(c)</desc>
     <credits>
       <director>Chuck Sheetz</director>
       <actor>Yeardley Smith</actor>
@@ -15054,9 +15102,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212030000 +0000" stop="20220212054000 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212030000 +0000" stop="20220212053400 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">El sorprendente Hombre Araña 2La amenaza de Electro</title>
-    <desc lang="es">Peter Parker descubre que su mayor batalla está por comenzar. Con la aparición de Electro, el joven debe enfrentarse a un enemigo mucho más poderoso que él. Cuando su viejo amigo, Harry Osborn, regresa, Spider-man se da cuenta de que todos sus adversarios tienen una cosa en común: Oscorp.</desc>
+    <desc lang="es">Peter Parker descubre que su mayor batalla está por comenzar. Con la aparición de Electro, el joven debe enfrentarse a un enemigo mucho más poderoso que él. Cuando su viejo amigo, Harry Osborn, regresa, Spider-man se da cuenta de que todos sus adversarios tienen una cosa en común: Oscorp.(c)</desc>
     <credits>
       <director>Marc Webb</director>
       <actor>Colm Feore</actor>
@@ -15078,9 +15126,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212054000 +0000" stop="20220212072000 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212053400 +0000" stop="20220212071500 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">Rough night</title>
-    <desc lang="es">Jess esta a punto de casarse y para celebrar decide hacer una despedida de soltera en compañía de sus viejas amigas. Sin embargo, la noche parece estar llena de sorpresas cuando por error terminan matando a un stripper y estas deben huir rápidamente antes de ser incriminadas.</desc>
+    <desc lang="es">Jess esta a punto de casarse y para celebrar decide hacer una despedida de soltera en compañía de sus viejas amigas. Sin embargo, la noche parece estar llena de sorpresas cuando por error terminan matando a un stripper y estas deben huir rápidamente antes de ser incriminadas.(c)</desc>
     <credits>
       <director>Lucia Aniello</director>
       <actor>Jillian Bell</actor>
@@ -15096,9 +15144,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212072000 +0000" stop="20220212084500 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212071500 +0000" stop="20220212083900 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">Tierra de zombies</title>
-    <desc lang="es">Un tímido estudiante que trata de alcanzar a su familia en Ohio, un tipo duro con armas de fuego que intenta encontrar al último Twinkie y un par de hermanas que intentan llegar a un parque de diversiones unen fuerzas para viajar a través de una América llena de zombies.</desc>
+    <desc lang="es">Un tímido estudiante que trata de alcanzar a su familia en Ohio, un tipo duro con armas de fuego que intenta encontrar al último Twinkie y un par de hermanas que intentan llegar a un parque de diversiones unen fuerzas para viajar a través de una América llena de zombies.(c)</desc>
     <credits>
       <director>Ruben Fleischer</director>
       <director>Ruben Fleische</director>
@@ -15119,9 +15167,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212084500 +0000" stop="20220212102800 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212083900 +0000" stop="20220212103300 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">Star Trek sin límites</title>
-    <desc lang="es">El capitán Kirk deberá hacer un viaje para garantizar la seguridad del universo, pero en el camino encontrará un nuevo enemigo llamado Krall, al que solo podrá derrotar con apoyo de todo su equipo.</desc>
+    <desc lang="es">El capitán Kirk deberá hacer un viaje para garantizar la seguridad del universo, pero en el camino encontrará un nuevo enemigo llamado Krall, al que solo podrá derrotar con apoyo de todo su equipo.(c)</desc>
     <credits>
       <director>Justin Lin</director>
       <actor>Chris Pine</actor>
@@ -15139,9 +15187,9 @@
       <value>+14</value>
     </rating>
   </programme>
-  <programme start="20220212102800 +0000" stop="20220212120000 +0000" channel="CINE PREMIUM | STAR CHANNEL">
+  <programme start="20220212103300 +0000" stop="20220212120000 +0000" channel="CINE PREMIUM | STAR CHANNEL">
     <title lang="es">Wedding march 4something old, something new</title>
-    <desc lang="es">La pensión romántica de Mick y Olivia se ha convertido en un lugar popular para bodas. Sin embargo, una novia llega temprano con una enorme lista de cambios. Además, la hija de Olivia y su novio hacen una visita sorpresa y anuncian que también están a punto de casarse.</desc>
+    <desc lang="es">La pensión romántica de Mick y Olivia se ha convertido en un lugar popular para bodas. Sin embargo, una novia llega temprano con una enorme lista de cambios. Además, la hija de Olivia y su novio hacen una visita sorpresa y anuncian que también están a punto de casarse.(c)</desc>
     <credits>
       <director>Peter DeLuise</director>
       <actor>Jack Wagner</actor>
@@ -18609,8 +18657,8 @@
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20220212084700 -0300" stop="20220212102800 -0300" channel="CINE PREMIUM | Space FHD">
-    <title lang="es">Ace Ventura: When Nature Calls</title>
-    <desc lang="es">Intentando superar el trauma que le ha dejado el fracaso de su última misión, en la que no pudo evitar que muriera el mapache que tenía que rescatar, el inefable detective Ace Ventura se retira a un monasterio budista. Pero, una vez allí, un extraño personaje le ofrece una fuerte suma de dinero para que trate de encontrar al animal sagrado de una tribu.</desc>
+    <title lang="es">Ace Ventura 2: Cuando la naturaleza llama</title>
+    <desc lang="es">Intentando superar el trauma que le ha dejado el fracaso de su última misión, en la que no pudo evitar que muriera el mapache que tenía que rescatar, el inefable detective Ace Ventura se retira a un monasterio budista. Pero, una vez allí, un extraño personaje le ofrece una fuerte suma de dinero para que trate de encontrar al animal sagrado de una tribu.(c)</desc>
     <credits>
       <director>Steve Oedekerk</director>
       <actor>Jim Carrey</actor>
@@ -18631,7 +18679,7 @@
     </credits>
     <date>1995</date>
     <category lang="es">Comedia</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2117379.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2117391.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20220212102800 -0300" stop="20220212122200 -0300" channel="CINE PREMIUM | Space FHD">
@@ -19094,72 +19142,6 @@
   <programme start="20220213230000 -0300" stop="20220214011000 -0300" channel="CINE PREMIUM | STUDIO UNIVERSAL *">
     <title lang="es">Jurassic World</title>
   </programme>
-  <programme start="20220210010000 -0800" stop="20220210013000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Men's Health - All-Natural Secret for Prostate Health</title>
-    <desc lang="en">Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.</desc>
-  </programme>
-  <programme start="20220210013000 -0800" stop="20220210020000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Keep Your Home Healthily and Never Worry About Replacement Filters!</title>
-    <desc lang="en">Enjoy a healthier air clean home free with Oxypure Air Purifier. Removes pollen, smoke, pet dander and more! 5-stage filter system with special offer from Nuwave means you never need to worry about extra cost of replacement filters for the future.</desc>
-  </programme>
-  <programme start="20220210020000 -0800" stop="20220210023000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Emeril Lagasse's Forever Pans!</title>
-    <desc lang="en">Emeril Lagasse's Forever Pans have exactly what you need to sear, simmer, broil, fry and more - they do it all!</desc>
-  </programme>
-  <programme start="20220210023000 -0800" stop="20220210030000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Keep Your Home Healthily and Never Worry About Replacement Filters!</title>
-    <desc lang="en">Enjoy a healthier air clean home free with Oxypure Air Purifier. Removes pollen, smoke, pet dander and more! 5-stage filter system with special offer from Nuwave means you never need to worry about extra cost of replacement filters for the future.</desc>
-  </programme>
-  <programme start="20220210030000 -0800" stop="20220210050000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Repo Men</title>
-    <desc lang="en">A man (Jude Law) who repossesses organs from indebted transplant patients goes on the run when he cannot make the payments on his own artificial heart.</desc>
-    <date>2010</date>
-  </programme>
-  <programme start="20220210050000 -0800" stop="20220210082000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">A.I.: Artificial Intelligence</title>
-    <desc lang="en">In the future a cutting-edge android in the form of a boy (Haley Joel Osment) embarks on a journey to discover his true nature.</desc>
-    <date>2001</date>
-  </programme>
-  <programme start="20220210082000 -0800" stop="20220210102500 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Pitch Black</title>
-    <desc lang="en">After crash landing on a distant planet, survivors (Radha Mitchell, Vin Diesel, Cole Hauser) must fight deadly creatures that come out only at night.</desc>
-    <date>2000</date>
-  </programme>
-  <programme start="20220210102500 -0800" stop="20220210123000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">London Has Fallen</title>
-    <desc lang="en">Secret Service agent Mike Banning (Gerard Butler) springs into action to save captive U.S. President Benjamin Asher (Aaron Eckhart) from the terrorists who attacked London.</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20220210123000 -0800" stop="20220210150000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Chronicles of Riddick</title>
-    <desc lang="en">On the run from mercenaries, a fugitive (Vin Diesel) lands on a planet endangered by an invading ruler (Colm Feore) and his bloodthirsty army.</desc>
-    <date>2004</date>
-  </programme>
-  <programme start="20220210150000 -0800" stop="20220210170000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Journey to the Center of the Earth</title>
-    <desc lang="en">A science professor (Brendan Fraser) and his nephew (Josh Hutcherson) encounter strange creatures and stranger lands as they travel beneath the Earth's surface.</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20220210170000 -0800" stop="20220210190000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Anaconda</title>
-    <desc lang="en">A snake hunter (Jon Voight) commandeers a documentary crew (Jennifer Lopez, Ice Cube) in the Brazilian jungle, forcing them to battle a monster boa.</desc>
-    <date>1997</date>
-  </programme>
-  <programme start="20220210190000 -0800" stop="20220210210000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Anacondas: The Hunt for the Blood Orchid</title>
-    <desc lang="en">While exploring the jungles of Borneo, scientists (KaDee Strickland, Matthew Marsden) and their guide (Johnny Messner) encounter monstrous, man-eating snakes.</desc>
-    <date>2004</date>
-  </programme>
-  <programme start="20220210210000 -0800" stop="20220210230000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Anaconda 3: Offspring</title>
-    <desc lang="en">A mercenary (David Hasselhoff) and a scientist (Crystal Allen) join forces to stop a giant snake and its pregnant counterpart.</desc>
-    <date>2008</date>
-  </programme>
-  <programme start="20220210230000 -0800" stop="20220211010000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Anacondas: Trail of Blood</title>
-    <desc lang="en">Dr. Amanda Hayes (Crystal Allen) fights with henchmen sent by a dying billionaire while avoiding a gigantic anaconda that regenerates.</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20220211010000 -0800" stop="20220211030000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Pitch Black</title>
     <desc lang="en">After crash landing on a distant planet, survivors (Radha Mitchell, Vin Diesel, Cole Hauser) must fight deadly creatures that come out only at night.</desc>
@@ -19219,6 +19201,67 @@
     <title lang="en">Hook</title>
     <desc lang="en">Aided by Tinker Bell (Julia Roberts), a corporate lawyer (Robin Williams) turns into Peter Pan to rescue his children from Captain Hook (Dustin Hoffman).</desc>
     <date>1991</date>
+  </programme>
+  <programme start="20220212010000 -0800" stop="20220212030000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Reign of Fire</title>
+    <desc lang="en">A hotshot American (Matthew McConaughey) and a firefighter (Christian Bale) unite to fight a horde of dragons in post-apocalyptic London.(n)</desc>
+    <date>2002</date>
+  </programme>
+  <programme start="20220212030000 -0800" stop="20220212033000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.(n)</desc>
+  </programme>
+  <programme start="20220212033000 -0800" stop="20220212040000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Parkinson's Disease Risk</title>
+    <desc lang="en">If you or someone you love has been diagnosed with Parkinson's Disease after exposure to Paraquat, you may be entitled to compensation.(n)</desc>
+  </programme>
+  <programme start="20220212040000 -0800" stop="20220212043000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Total Gym; the most effective way to stay your best, without leaving home!</title>
+    <desc lang="en">Total Gym is the only piece of equipment you need get into the best shape of your life! 30 Day Risk-Free Trial.(n)</desc>
+  </programme>
+  <programme start="20220212043000 -0800" stop="20220212050000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">NEW Easiest &amp; Fastest Way to do Makeup</title>
+    <desc lang="en">NEW GetBreeze.com Look younger instantly w/ using 10 times less makeup, best coverage &amp; color match.(n)</desc>
+  </programme>
+  <programme start="20220212050000 -0800" stop="20220212073000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Conan the Barbarian</title>
+    <desc lang="en">The Cimmerian warrior (Jason Momoa) slashes his way across Hyboria on a mission that begins as a personal vendetta but turns into an epic battle against a supernatural evil.(n)</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220212073000 -0800" stop="20220212093000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Resident Evil</title>
+    <desc lang="en">Commandos infiltrate a research facility after a deadly virus turns the entire staff into ravenous zombies.(n)</desc>
+    <date>2002</date>
+  </programme>
+  <programme start="20220212093000 -0800" stop="20220212120000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Fifth Element</title>
+    <desc lang="en">A New York City cabdriver (Bruce Willis) tries to save 2259 Earth from impact with an onrushing anti-life force.(n)</desc>
+    <date>1997</date>
+  </programme>
+  <programme start="20220212120000 -0800" stop="20220212143000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Serenity</title>
+    <desc lang="en">Crew members (Nathan Fillion, Gina Torres, Alan Tudyk) aboard a transport vessel get caught in a deadly conflict in the wake of a galactic war.(n)</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220212143000 -0800" stop="20220212170500 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Bad Boys</title>
+    <desc lang="en">Undercover Miami detectives (Martin Lawrence, Will Smith) switch lives while investigating murders linked to stolen heroin.(n)</desc>
+    <date>1995</date>
+  </programme>
+  <programme start="20220212170500 -0800" stop="20220212200500 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Bad Boys II</title>
+    <desc lang="en">Two detectives (Martin Lawrence, Will Smith) uncover a conspiracy involving a drug kingpin (Jordi Mollà) while trying to stop the trafficking of Ecstasy in Miami.(n)</desc>
+    <date>2003</date>
+  </programme>
+  <programme start="20220212200500 -0800" stop="20220212230500 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Enemy of the State</title>
+    <desc lang="en">A former NSA operative (Gene Hackman) aids the innocent victim (Will Smith) of a politically motivated assassination cover-up.(n)</desc>
+    <date>1998</date>
+  </programme>
+  <programme start="20220212230500 -0800" stop="20220213013000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Conan the Barbarian</title>
+    <desc lang="en">The Cimmerian warrior (Jason Momoa) slashes his way across Hyboria on a mission that begins as a personal vendetta but turns into an epic battle against a supernatural evil.(n)</desc>
+    <date>2011</date>
   </programme>
   <programme start="20220211010000 -0300" stop="20220211025900 -0300" channel="CINE PREMIUM | TBS *">
     <title lang="es">Super cool</title>
@@ -33375,25 +33418,12 @@
     <category lang="es">Boxeo</category>
     <icon src="https://milhouse.zapping.live/assets/p16919782_b_h8_aa.jpg" />
   </programme>
-  <programme start="20220211230000 -0300" stop="20220212013000 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
+  <programme start="20220211230000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
     <title lang="es">Cristian Medina vs. Ángel Avilés</title>
-    <desc lang="es">Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México. Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México.</desc>
+    <desc lang="es">Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México. Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México.(c)</desc>
     <date>2022</date>
     <category lang="es">Boxeo</category>
     <icon src="https://milhouse.zapping.live/assets/p21577062_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220212013000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
-    <title lang="es">UEFA Champions League Magazine</title>
-    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
-    <credits>
-      <actor>Fernando Torres</actor>
-      <actor>Luis Figo</actor>
-      <actor>Kaká</actor>
-      <producer>Nairn Salter</producer>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Fútbol</category>
-    <icon src="https://milhouse.zapping.live/assets/p308750_b_h8_ag.jpg" />
   </programme>
   <programme start="20220212020000 -0300" stop="20220212030000 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
     <title lang="es">SportsCenter</title>
@@ -33458,12 +33488,18 @@
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p19683982_b_h10_ab.jpg" />
   </programme>
-  <programme start="20220212113000 -0300" stop="20220212142000 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
+  <programme start="20220212113000 -0300" stop="20220212132500 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
     <title lang="es">Cristian Medina vs. Ángel Avilés</title>
-    <desc lang="es">Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México. Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México.</desc>
+    <desc lang="es">Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México. Toda la acción de la pelea de peso gallo del CMB. Cristian Medina (18-3-0, 13 Ko's) enfrenta a Ángel Avilés (20-6-1, 6 Ko's). Desde Jalisco, en México.(c)</desc>
     <date>2022</date>
     <category lang="es">Boxeo</category>
     <icon src="https://milhouse.zapping.live/assets/p21577062_b_h8_aa.jpg" />
+  </programme>
+  <programme start="20220212132500 -0300" stop="20220212142000 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos. Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(c)</desc>
+    <category lang="es">Charla Deportiva</category>
+    <icon src="https://milhouse.zapping.live/assets/p20636202_b_h8_aa.jpg" />
   </programme>
   <programme start="20220212142000 -0300" stop="20220212162500 -0300" channel="DEPORTES EUR | ESPN 2 HD SUR (e)">
     <title lang="es">Norwich vs. Manchester City</title>
@@ -34131,42 +34167,42 @@
   </programme>
   <programme start="20220211020000 -0300" stop="20220211030000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">HL #5</title>
-    <desc lang="es">El repaso de los mejores momentos del evento. El repaso de los mejores momentos del evento.(n)</desc>
+    <desc lang="es">El repaso de los mejores momentos del evento. El repaso de los mejores momentos del evento.</desc>
     <date>2022</date>
     <category lang="es">Deportes de Acción</category>
     <icon src="https://milhouse.zapping.live/assets/p1001104_b_h10_aa.jpg" />
   </programme>
   <programme start="20220211030000 -0300" stop="20220211053000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Brooklyn Nets vs. Washington Wizards</title>
-    <desc lang="es">Los Nets intentan cerrar la serie de la temporada con su cuarta victoria en fila sobre los Wizards. Brooklyn ha derrotado a Washington dos veces en 2021-22, incluyendo el 119-118 del 19 de enero en la capital del país. Los Nets intentan cerrar la serie de la temporada con su cuarta victoria en fila sobre los Wizards. Brooklyn ha derrotado a Washington dos veces en 2021-22, incluyendo el 119-118 del 19 de enero en la capital del país.(n)</desc>
+    <desc lang="es">Los Nets intentan cerrar la serie de la temporada con su cuarta victoria en fila sobre los Wizards. Brooklyn ha derrotado a Washington dos veces en 2021-22, incluyendo el 119-118 del 19 de enero en la capital del país. Los Nets intentan cerrar la serie de la temporada con su cuarta victoria en fila sobre los Wizards. Brooklyn ha derrotado a Washington dos veces en 2021-22, incluyendo el 119-118 del 19 de enero en la capital del país.</desc>
     <date>2022</date>
     <category lang="es">Basketball</category>
     <icon src="https://milhouse.zapping.live/assets/p20542066_tb2_h8_ad.jpg" />
   </programme>
   <programme start="20220211053000 -0300" stop="20220211080000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Milwaukee Bucks vs. Phoenix Suns</title>
-    <desc lang="es">Bucks y Suns se enfrentan por primera vez desde que Milwaukee batió a Phoenix en las Finales, en 6 partidos. Giannis Antetokounmpo promedió 35,2 puntos y 13,2 rebotes en esa serie para llevar a los Bucks a su primer campeonato en 50 años. Bucks y Suns se enfrentan por primera vez desde que Milwaukee batió a Phoenix en las Finales, en 6 partidos. Giannis Antetokounmpo promedió 35,2 puntos y 13,2 rebotes en esa serie para llevar a los Bucks a su primer campeonato en 50 años.(n)</desc>
+    <desc lang="es">Bucks y Suns se enfrentan por primera vez desde que Milwaukee batió a Phoenix en las Finales, en 6 partidos. Giannis Antetokounmpo promedió 35,2 puntos y 13,2 rebotes en esa serie para llevar a los Bucks a su primer campeonato en 50 años. Bucks y Suns se enfrentan por primera vez desde que Milwaukee batió a Phoenix en las Finales, en 6 partidos. Giannis Antetokounmpo promedió 35,2 puntos y 13,2 rebotes en esa serie para llevar a los Bucks a su primer campeonato en 50 años.</desc>
     <date>2022</date>
     <category lang="es">Basketball</category>
     <icon src="https://milhouse.zapping.live/assets/p20542075_tb2_h8_ae.jpg" />
   </programme>
   <programme start="20220211080000 -0300" stop="20220211090000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">HL #7</title>
-    <desc lang="es">El repaso de los mejores momentos del evento. El repaso de los mejores momentos del evento.(n)</desc>
+    <desc lang="es">El repaso de los mejores momentos del evento. El repaso de los mejores momentos del evento.</desc>
     <date>2022</date>
     <category lang="es">Deportes de Acción</category>
     <icon src="https://milhouse.zapping.live/assets/p1001104_b_h10_aa.jpg" />
   </programme>
   <programme start="20220211090000 -0300" stop="20220211100000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">HL #7</title>
-    <desc lang="es">El repaso de los mejores momentos del evento. El repaso de los mejores momentos del evento.(n)</desc>
+    <desc lang="es">El repaso de los mejores momentos del evento. El repaso de los mejores momentos del evento.</desc>
     <date>2022</date>
     <category lang="es">Deportes de Acción</category>
     <icon src="https://milhouse.zapping.live/assets/p1001104_b_h10_aa.jpg" />
   </programme>
   <programme start="20220211100000 -0300" stop="20220211110000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Revista del turf</title>
-    <desc lang="es">Carrera de caballos en Argentina y Sudamérica. Carrera de caballos en Argentina y Sudamérica.(n)</desc>
+    <desc lang="es">Carrera de caballos en Argentina y Sudamérica. Carrera de caballos en Argentina y Sudamérica.</desc>
     <credits>
       <presenter>Marcelo Durán</presenter>
       <presenter>Norberto Laterza</presenter>
@@ -34177,20 +34213,20 @@
   </programme>
   <programme start="20220211110000 -0300" stop="20220211120000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">AT&amp;T Pebble Beach Pro-Am 2022</title>
-    <desc lang="es">Desde el Pebble Beach Golf Links, Spyglass Hill Golf Course, Monterey Peninsula CC, Pebble Beach, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del norteamericano Tom Hoge. Highlights, entrevistas y mucho más. Desde el Pebble Beach Golf Links, Spyglass Hill Golf Course, Monterey Peninsula CC, Pebble Beach, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del norteamericano Tom Hoge. Highlights, entrevistas y mucho más.(n)</desc>
+    <desc lang="es">Desde el Pebble Beach Golf Links, Spyglass Hill Golf Course, Monterey Peninsula CC, Pebble Beach, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del norteamericano Tom Hoge. Highlights, entrevistas y mucho más. Desde el Pebble Beach Golf Links, Spyglass Hill Golf Course, Monterey Peninsula CC, Pebble Beach, California, repaso de todo lo que fue un nuevo evento del PGA Tour y el triunfo del norteamericano Tom Hoge. Highlights, entrevistas y mucho más.</desc>
     <date>2022</date>
     <category lang="es">Evento Deportivo Clásico</category>
     <icon src="https://milhouse.zapping.live/assets/p9060599_b_h10_ad.jpg" />
   </programme>
   <programme start="20220211120000 -0300" stop="20220211130000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">ESPN Tenis</title>
-    <desc lang="es">Toda la información del tenis a nivel mundial, las novedades de los jugadores latinoamericanos y mucho más. Toda la información del tenis a nivel mundial, las novedades de los jugadores latinoamericanos y mucho más.(n)</desc>
+    <desc lang="es">Toda la información del tenis a nivel mundial, las novedades de los jugadores latinoamericanos y mucho más. Toda la información del tenis a nivel mundial, las novedades de los jugadores latinoamericanos y mucho más.</desc>
     <category lang="es">Tenis</category>
     <icon src="https://milhouse.zapping.live/assets/p15597645_b_h10_ac.jpg" />
   </programme>
   <programme start="20220211130000 -0300" stop="20220211133000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Aguas arriba</title>
-    <desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe. La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.(n)</desc>
+    <desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe. La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.</desc>
     <credits>
       <actor>Pablo Pérez</actor>
     </credits>
@@ -34199,20 +34235,20 @@
   </programme>
   <programme start="20220211133000 -0300" stop="20220211140000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Goles del fútbol de Italia</title>
-    <desc lang="es">Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano. Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano.(n)</desc>
+    <desc lang="es">Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano. Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano.</desc>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p240662_b_h8_ab.jpg" />
   </programme>
   <programme start="20220211140000 -0300" stop="20220211160000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Juventus vs. Sassuolo</title>
-    <desc lang="es">Cuartos de final. Juventus enfrenta a Sassuolo. Desde el Allianz Stadium, en Turín. Cuartos de final. Juventus enfrenta a Sassuolo. Desde el Allianz Stadium, en Turín.(n)</desc>
+    <desc lang="es">Cuartos de final. Juventus enfrenta a Sassuolo. Desde el Allianz Stadium, en Turín. Cuartos de final. Juventus enfrenta a Sassuolo. Desde el Allianz Stadium, en Turín.</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p21501209_tb2_h8_ae.jpg" />
   </programme>
   <programme start="20220211160000 -0300" stop="20220211170000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Simplemente fútbol</title>
-    <desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista. La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.(n)</desc>
+    <desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista. La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.</desc>
     <credits>
       <presenter>Quique Wolff</presenter>
       <presenter>Pedro Wolff</presenter>
@@ -34223,20 +34259,20 @@
   </programme>
   <programme start="20220211170000 -0300" stop="20220211210000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">WM Phoenix Open, segunda ronda</title>
-    <desc lang="es">Acción de la segunda ronda del torneo. Desde el TPC Scottsdale, en Arizona. Acción de la segunda ronda del torneo. Desde el TPC Scottsdale, en Arizona.(n)</desc>
+    <desc lang="es">Acción de la segunda ronda del torneo. Desde el TPC Scottsdale, en Arizona. Acción de la segunda ronda del torneo. Desde el TPC Scottsdale, en Arizona.</desc>
     <date>2022</date>
     <category lang="es">Golf</category>
     <icon src="https://milhouse.zapping.live/assets/p21337944_b_h10_ab.jpg" />
   </programme>
   <programme start="20220211210000 -0300" stop="20220211220000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Goles de Europa</title>
-    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana. El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.(n)</desc>
+    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana. El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.</desc>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p3501934_b_h10_ad.jpg" />
   </programme>
   <programme start="20220211220000 -0300" stop="20220211223000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">NBA Tonight</title>
-    <desc lang="es">Destacados, análisis y actualizaciones de juegos a través del país. Destacados, análisis y actualizaciones de juegos a través del país.(n)</desc>
+    <desc lang="es">Destacados, análisis y actualizaciones de juegos a través del país. Destacados, análisis y actualizaciones de juegos a través del país.</desc>
     <credits>
       <presenter>Cassidy Hubbarth</presenter>
       <presenter>Kevin Connors</presenter>
@@ -34251,13 +34287,13 @@
   </programme>
   <programme start="20220211223000 -0300" stop="20220211230000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Vuelta del Porvenir, etapa 3</title>
-    <desc lang="es">Toda la acción de la tercera etapa de la Vuelta del Porvenir. Contrarreloj en Estancia Grande, San Luis. Toda la acción de la tercera etapa de la Vuelta del Porvenir. Contrarreloj en Estancia Grande, San Luis.(n)</desc>
+    <desc lang="es">Toda la acción de la tercera etapa de la Vuelta del Porvenir. Contrarreloj en Estancia Grande, San Luis. Toda la acción de la tercera etapa de la Vuelta del Porvenir. Contrarreloj en Estancia Grande, San Luis.</desc>
     <category lang="es">Ciclismo</category>
     <icon src="https://milhouse.zapping.live/assets/p21565952_b_h10_aa.jpg" />
   </programme>
   <programme start="20220211230000 -0300" stop="20220211233000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">UEFA Champions League Magazine</title>
-    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
     <credits>
       <actor>Fernando Torres</actor>
       <actor>Luis Figo</actor>
@@ -34270,27 +34306,27 @@
   </programme>
   <programme start="20220211233000 -0300" stop="20220212000000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Goles del fútbol de Italia</title>
-    <desc lang="es">Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano. Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano.(n)</desc>
+    <desc lang="es">Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano. Todos los goles, las mejores jugadas y momentos destacados de los partidos de la Serie A del fútbol italiano.</desc>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p240662_b_h8_ab.jpg" />
   </programme>
   <programme start="20220212000000 -0300" stop="20220212000000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Lux Fight League 20</title>
-    <desc lang="es">Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún. Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún.(n)</desc>
+    <desc lang="es">Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún. Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún.</desc>
     <date>2022</date>
     <category lang="es">Artes Marciales</category>
     <icon src="https://milhouse.zapping.live/assets/p21516606_b_h10_aa.jpg" />
   </programme>
   <programme start="20220212000000 -0300" stop="20220212030000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Lux Fight League 20</title>
-    <desc lang="es">Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún. Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún.(n)</desc>
+    <desc lang="es">Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún. Toda la acción de la pelea por el título de peso pluma. Erik Silva enfrenta a Edgar Cabello. Desde la Plaza de Toros, en Cancún.</desc>
     <date>2022</date>
     <category lang="es">Artes Marciales</category>
     <icon src="https://milhouse.zapping.live/assets/p21516606_b_h10_aa.jpg" />
   </programme>
   <programme start="20220212030000 -0300" stop="20220212040000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">ESPN KnockOut</title>
-    <desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN. Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.(n)</desc>
+    <desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN. Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.</desc>
     <credits>
       <presenter>Renato Bermúdez</presenter>
     </credits>
@@ -34299,20 +34335,20 @@
   </programme>
   <programme start="20220212040000 -0300" stop="20220212050000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Goles de Europa</title>
-    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana. El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.(n)</desc>
+    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana. El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.</desc>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p3501934_b_h10_ad.jpg" />
   </programme>
   <programme start="20220212050000 -0300" stop="20220212053000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">LaLiga World</title>
-    <desc lang="es">Reportajes y entrevistas relacionados con LaLiga. El lado más íntimo de los jugadores, las opiniones de aficionados, con una muestra de otra cara del fútbol español. Reportajes y entrevistas relacionados con LaLiga. El lado más íntimo de los jugadores, las opiniones de aficionados, con una muestra de otra cara del fútbol español.(n)</desc>
+    <desc lang="es">Reportajes y entrevistas relacionados con LaLiga. El lado más íntimo de los jugadores, las opiniones de aficionados, con una muestra de otra cara del fútbol español. Reportajes y entrevistas relacionados con LaLiga. El lado más íntimo de los jugadores, las opiniones de aficionados, con una muestra de otra cara del fútbol español.</desc>
     <date>2015</date>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p12043305_b_h10_aw.jpg" />
   </programme>
   <programme start="20220212053000 -0300" stop="20220212060000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">UEFA Champions League Magazine</title>
-    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
     <credits>
       <actor>Fernando Torres</actor>
       <actor>Luis Figo</actor>
@@ -34325,20 +34361,20 @@
   </programme>
   <programme start="20220212060000 -0300" stop="20220212063000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">LaLiga Show</title>
-    <desc lang="es">Un repaso a los partidos de LaLiga, la máxima división del fútbol español. Un repaso a los partidos de LaLiga, la máxima división del fútbol español.(n)</desc>
+    <desc lang="es">Un repaso a los partidos de LaLiga, la máxima división del fútbol español. Un repaso a los partidos de LaLiga, la máxima división del fútbol español.</desc>
     <date>2014</date>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p12043329_b_h8_av.jpg" />
   </programme>
   <programme start="20220212063000 -0300" stop="20220212073000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Goles de Europa</title>
-    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana. El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.(n)</desc>
+    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana. El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.</desc>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p3501934_b_h10_ad.jpg" />
   </programme>
   <programme start="20220212073000 -0300" stop="20220212080000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Aguas arriba</title>
-    <desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe. La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.(n)</desc>
+    <desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe. La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.</desc>
     <credits>
       <actor>Pablo Pérez</actor>
     </credits>
@@ -34347,7 +34383,7 @@
   </programme>
   <programme start="20220212080000 -0300" stop="20220212083000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">NBA Action</title>
-    <desc lang="es">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados. Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+    <desc lang="es">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados. Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
     <date>1996</date>
     <category lang="es">Basketball</category>
     <icon src="https://milhouse.zapping.live/assets/p448615_b_h10_ai.jpg" />
@@ -34357,7 +34393,7 @@
   </programme>
   <programme start="20220212083000 -0300" stop="20220212090000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">NBA Tonight</title>
-    <desc lang="es">Destacados, análisis y actualizaciones de juegos a través del país. Destacados, análisis y actualizaciones de juegos a través del país.(n)</desc>
+    <desc lang="es">Destacados, análisis y actualizaciones de juegos a través del país. Destacados, análisis y actualizaciones de juegos a través del país.</desc>
     <credits>
       <presenter>Cassidy Hubbarth</presenter>
       <presenter>Kevin Connors</presenter>
@@ -34372,7 +34408,7 @@
   </programme>
   <programme start="20220212090000 -0300" stop="20220212093000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">UEFA Champions League Magazine</title>
-    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa. Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
     <credits>
       <actor>Fernando Torres</actor>
       <actor>Luis Figo</actor>
@@ -34385,7 +34421,7 @@
   </programme>
   <programme start="20220212093000 -0300" stop="20220212103000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">ESPN KnockOut</title>
-    <desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN. Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.(n)</desc>
+    <desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN. Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.</desc>
     <credits>
       <presenter>Renato Bermúdez</presenter>
     </credits>
@@ -34394,54 +34430,54 @@
   </programme>
   <programme start="20220212103000 -0300" stop="20220212110000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">ATP Tour Uncovered</title>
-    <desc lang="es">Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales. Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales.(n)</desc>
+    <desc lang="es">Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales. Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales.</desc>
     <date>2011</date>
     <category lang="es">Tenis</category>
     <icon src="https://milhouse.zapping.live/assets/p8659881_b_h8_ab.jpg" />
   </programme>
   <programme start="20220212110000 -0300" stop="20220212131500 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Gales vs. Escocia</title>
-    <desc lang="es">Jornada 2 del Seis Naciones. Gales enfrenta a Escocia en el Principality Stadium de Cardiff. Jornada 2 del Seis Naciones. Gales enfrenta a Escocia en el Principality Stadium de Cardiff.(n)</desc>
+    <desc lang="es">Jornada 2 del Seis Naciones. Gales enfrenta a Escocia en el Principality Stadium de Cardiff. Jornada 2 del Seis Naciones. Gales enfrenta a Escocia en el Principality Stadium de Cardiff.</desc>
     <date>2022</date>
     <category lang="es">Unión de Rugby</category>
     <icon src="https://milhouse.zapping.live/assets/p21431842_tb2_h8_ac.jpg" />
   </programme>
   <programme start="20220212131500 -0300" stop="20220212133000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Torneo de las Seis Naciones - Intergame</title>
-    <desc lang="es">El análisis más completo del Seis Naciones durante el intervalo de partidos. El análisis más completo del Seis Naciones durante el intervalo de partidos.(n)</desc>
+    <desc lang="es">El análisis más completo del Seis Naciones durante el intervalo de partidos. El análisis más completo del Seis Naciones durante el intervalo de partidos.</desc>
     <category lang="es">Rugby</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
   <programme start="20220212133000 -0300" stop="20220212154500 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Francia vs. Irlanda</title>
-    <desc lang="es">Jornada 2 del Seis Naciones. Francia enfrenta a Irlanda. Desde el Stade de France, en Saint-Denis, Francia. Jornada 2 del Seis Naciones. Francia enfrenta a Irlanda. Desde el Stade de France, en Saint-Denis, Francia.(n)</desc>
+    <desc lang="es">Jornada 2 del Seis Naciones. Francia enfrenta a Irlanda. Desde el Stade de France, en Saint-Denis, Francia. Jornada 2 del Seis Naciones. Francia enfrenta a Irlanda. Desde el Stade de France, en Saint-Denis, Francia.</desc>
     <date>2022</date>
     <category lang="es">Unión de Rugby</category>
     <icon src="https://milhouse.zapping.live/assets/p21431827_tb2_h8_ac.jpg" />
   </programme>
   <programme start="20220212154500 -0300" stop="20220212203000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">WM Phoenix Open, tercera ronda</title>
-    <desc lang="es">Acción de la tercera ronda del torneo. Desde el TPC Scottsdale, en Arizona. Acción de la tercera ronda del torneo. Desde el TPC Scottsdale, en Arizona.(n)</desc>
+    <desc lang="es">Acción de la tercera ronda del torneo. Desde el TPC Scottsdale, en Arizona. Acción de la tercera ronda del torneo. Desde el TPC Scottsdale, en Arizona.</desc>
     <date>2022</date>
     <category lang="es">Golf</category>
     <icon src="https://milhouse.zapping.live/assets/p21348882_b_h10_ab.jpg" />
   </programme>
   <programme start="20220212203000 -0300" stop="20220212223000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Everton vs. Leeds United</title>
-    <desc lang="es">Jornada 25 en la Premier League. Everton recibe a Leeds en Goodison Park. La temporada pasada, Leeds venció en su visita a Liverpool por 1-0, gol de Raphinha, lo que puso fin a una racha de 13 visitas a este estadio sin ganar. Jornada 25 en la Premier League. Everton recibe a Leeds en Goodison Park. La temporada pasada, Leeds venció en su visita a Liverpool por 1-0, gol de Raphinha, lo que puso fin a una racha de 13 visitas a este estadio sin ganar.(n)</desc>
+    <desc lang="es">Jornada 25 en la Premier League. Everton recibe a Leeds en Goodison Park. La temporada pasada, Leeds venció en su visita a Liverpool por 1-0, gol de Raphinha, lo que puso fin a una racha de 13 visitas a este estadio sin ganar. Jornada 25 en la Premier League. Everton recibe a Leeds en Goodison Park. La temporada pasada, Leeds venció en su visita a Liverpool por 1-0, gol de Raphinha, lo que puso fin a una racha de 13 visitas a este estadio sin ganar.</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
     <icon src="https://milhouse.zapping.live/assets/p20175276_tb2_h8_aa.jpg" />
   </programme>
   <programme start="20220212223000 -0300" stop="20220212230000 -0300" channel="DEPORTES EUR | ESPN 3 HD CO">
     <title lang="es">Vuelta del Porvenir, etapa 4</title>
-    <desc lang="es">Toda la acción de la cuarta etapa de la Vuelta del Porvenir. Recorrido de 164,9 kilómetros por Juana Koslay. Toda la acción de la cuarta etapa de la Vuelta del Porvenir. Recorrido de 164,9 kilómetros por Juana Koslay.(n)</desc>
+    <desc lang="es">Toda la acción de la cuarta etapa de la Vuelta del Porvenir. Recorrido de 164,9 kilómetros por Juana Koslay. Toda la acción de la cuarta etapa de la Vuelta del Porvenir. Recorrido de 164,9 kilómetros por Juana Koslay.</desc>
     <category lang="es">Ciclismo</category>
     <icon src="https://milhouse.zapping.live/assets/p361948_b_h10_ax.jpg" />
   </programme>
   <programme start="20220211020000 -0300" stop="20220211030000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34466,7 +34502,7 @@
   </programme>
   <programme start="20220211050000 -0300" stop="20220211060000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34488,7 +34524,7 @@
   </programme>
   <programme start="20220211070000 -0300" stop="20220211080000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34507,7 +34543,7 @@
   </programme>
   <programme start="20220211080000 -0300" stop="20220211090000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34526,7 +34562,7 @@
   </programme>
   <programme start="20220211090000 -0300" stop="20220211100000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34545,7 +34581,7 @@
   </programme>
   <programme start="20220211100000 -0300" stop="20220211110000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34573,7 +34609,7 @@
   </programme>
   <programme start="20220211133000 -0300" stop="20220211150000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">Portugal vs. España</title>
-    <desc lang="es">La selección portuguesa se enfrenta a la selección española en un partido entre ambas naciones.(n)</desc>
+    <desc lang="es">La selección portuguesa se enfrenta a la selección española en un partido entre ambas naciones.</desc>
     <category lang="es">Deporte</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/portugal_vs_espana.png" />
   </programme>
@@ -34594,7 +34630,7 @@
   </programme>
   <programme start="20220212013000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34613,7 +34649,7 @@
   </programme>
   <programme start="20220212020000 -0300" stop="20220212030000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34638,7 +34674,7 @@
   </programme>
   <programme start="20220212050000 -0300" stop="20220212060000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34660,7 +34696,7 @@
   </programme>
   <programme start="20220212070000 -0300" stop="20220212080000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34679,7 +34715,7 @@
   </programme>
   <programme start="20220212080000 -0300" stop="20220212090000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34698,7 +34734,7 @@
   </programme>
   <programme start="20220212090000 -0300" stop="20220212100000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34717,7 +34753,7 @@
   </programme>
   <programme start="20220212100000 -0300" stop="20220212110000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX *">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34760,7 +34796,7 @@
   </programme>
   <programme start="20220211020000 -0300" stop="20220211030000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34785,7 +34821,7 @@
   </programme>
   <programme start="20220211050000 -0300" stop="20220211060000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34807,7 +34843,7 @@
   </programme>
   <programme start="20220211070000 -0300" stop="20220211080000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34826,7 +34862,7 @@
   </programme>
   <programme start="20220211080000 -0300" stop="20220211090000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34845,7 +34881,7 @@
   </programme>
   <programme start="20220211090000 -0300" stop="20220211100000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34864,7 +34900,7 @@
   </programme>
   <programme start="20220211100000 -0300" stop="20220211110000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34892,7 +34928,7 @@
   </programme>
   <programme start="20220211133000 -0300" stop="20220211150000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">Portugal vs. España</title>
-    <desc lang="es">La selección portuguesa se enfrenta a la selección española en un partido entre ambas naciones.(n)</desc>
+    <desc lang="es">La selección portuguesa se enfrenta a la selección española en un partido entre ambas naciones.</desc>
     <category lang="es">Deporte</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/portugal_vs_espana.png" />
   </programme>
@@ -34913,7 +34949,7 @@
   </programme>
   <programme start="20220212013000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34932,7 +34968,7 @@
   </programme>
   <programme start="20220212020000 -0300" stop="20220212030000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34957,7 +34993,7 @@
   </programme>
   <programme start="20220212050000 -0300" stop="20220212060000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34979,7 +35015,7 @@
   </programme>
   <programme start="20220212070000 -0300" stop="20220212080000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -34998,7 +35034,7 @@
   </programme>
   <programme start="20220212080000 -0300" stop="20220212090000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35017,7 +35053,7 @@
   </programme>
   <programme start="20220212090000 -0300" stop="20220212100000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35036,7 +35072,7 @@
   </programme>
   <programme start="20220212100000 -0300" stop="20220212110000 -0300" channel="DEPORTES EUR | ESPN 1 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35079,7 +35115,7 @@
   </programme>
   <programme start="20220211020000 -0300" stop="20220211030000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35104,7 +35140,7 @@
   </programme>
   <programme start="20220211050000 -0300" stop="20220211060000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35126,7 +35162,7 @@
   </programme>
   <programme start="20220211070000 -0300" stop="20220211080000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35145,7 +35181,7 @@
   </programme>
   <programme start="20220211080000 -0300" stop="20220211090000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35164,7 +35200,7 @@
   </programme>
   <programme start="20220211090000 -0300" stop="20220211100000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35183,7 +35219,7 @@
   </programme>
   <programme start="20220211100000 -0300" stop="20220211110000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35211,7 +35247,7 @@
   </programme>
   <programme start="20220211133000 -0300" stop="20220211150000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">Portugal vs. España</title>
-    <desc lang="es">La selección portuguesa se enfrenta a la selección española en un partido entre ambas naciones.(n)</desc>
+    <desc lang="es">La selección portuguesa se enfrenta a la selección española en un partido entre ambas naciones.</desc>
     <category lang="es">Deporte</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/portugal_vs_espana.png" />
   </programme>
@@ -35232,7 +35268,7 @@
   </programme>
   <programme start="20220212013000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35251,7 +35287,7 @@
   </programme>
   <programme start="20220212020000 -0300" stop="20220212030000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35276,7 +35312,7 @@
   </programme>
   <programme start="20220212050000 -0300" stop="20220212060000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35298,7 +35334,7 @@
   </programme>
   <programme start="20220212070000 -0300" stop="20220212080000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35317,7 +35353,7 @@
   </programme>
   <programme start="20220212080000 -0300" stop="20220212090000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35336,7 +35372,7 @@
   </programme>
   <programme start="20220212090000 -0300" stop="20220212100000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35355,7 +35391,7 @@
   </programme>
   <programme start="20220212100000 -0300" stop="20220212110000 -0300" channel="DEPORTES EUR | ESPN 2 HD MX (S)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35431,7 +35467,7 @@
   </programme>
   <programme start="20220211180000 -0300" stop="20220211183000 -0300" channel="DEPORTES EUR | ESPN 3 HD MX (E)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35456,7 +35492,7 @@
   </programme>
   <programme start="20220212000000 -0300" stop="20220212010000 -0300" channel="DEPORTES EUR | ESPN 3 HD MX (E)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35475,7 +35511,7 @@
   </programme>
   <programme start="20220212010000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 3 HD MX (E)">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35566,7 +35602,7 @@
   </programme>
   <programme start="20220211180000 -0300" stop="20220211183000 -0300" channel="DEPORTES EUR | ESPN 3 HD MX">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35591,7 +35627,7 @@
   </programme>
   <programme start="20220212000000 -0300" stop="20220212010000 -0300" channel="DEPORTES EUR | ESPN 3 HD MX">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35610,7 +35646,7 @@
   </programme>
   <programme start="20220212010000 -0300" stop="20220212020000 -0300" channel="DEPORTES EUR | ESPN 3 HD MX">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
@@ -35671,7 +35707,7 @@
   </programme>
   <programme start="20220211010000 -0300" stop="20220211013000 -0300" channel="DEPORTES EUR | ESPN PLUS">
     <title lang="es">Eagles vs. Patriots</title>
-    <desc lang="es">Las Águilas de Filadelfia se enfrentan a los Patriotas de Nueva Inglaterra en el Gillette Stadium en la ciudad de Foxborough, Massachusetts.(n)</desc>
+    <desc lang="es">Las Águilas de Filadelfia se enfrentan a los Patriotas de Nueva Inglaterra en el Gillette Stadium en la ciudad de Foxborough, Massachusetts.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">NFL</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/eagles_vs_patriots.png" />
@@ -35735,7 +35771,7 @@
   </programme>
   <programme start="20220211183000 -0300" stop="20220211190000 -0300" channel="DEPORTES EUR | ESPN PLUS">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
     <category lang="es">Béisbol</category>
