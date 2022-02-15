@@ -511,6 +511,18 @@
     <display-name lang="es">DEPORTES LAT | FOX SPORTS 2 HD MX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <display-name lang="es">DEPORTES LAT | FOX SPORTS 3 HD MX (e)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <display-name lang="es">DEPORTES LAT | FOX SPORTS 3 FHD MX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DEPORTES LAT | DIRECTV SPORTS 2">
+    <display-name lang="en">DEPORTES LAT | DIRECTV SPORTS 2</display-name>
+    <url>http://www.directvsports.com</url>
+  </channel>
   <channel id="PPV-NBA League Pass 3 (PM)(720)">
     <display-name lang="en">PPV-NBA League Pass 3 (PM)(720)</display-name>
     <url>http://www.streamingtvguides.com</url>
@@ -19365,32 +19377,34 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215060000 -0300" stop="20220215075400 -0300" channel="CINE PREMIUM | Space FHD">
-    <title lang="es">Negación</title>
-    <desc lang="es">La aclamada escritora e historicista Deborah E. Lipstadt debe luchar por la verdad histórica y demostrar que el Holocausto realmente existió, mientras David Irving, un reconocido opositor, la denuncia por difamación.</desc>
-    <credits>
-      <director>Mick Jackson</director>
-      <actor>Tom Wilkinson</actor>
-      <actor>Timothy Spall</actor>
-      <actor>Rachel Weisz</actor>
-      <actor>Andrew Scott</actor>
-      <actor>Jack Lowden</actor>
-      <actor>Caren Pistorius</actor>
-      <actor>Alex Jennings</actor>
-      <actor>Harriet Walter</actor>
-      <actor>Mark Gatiss</actor>
-      <actor>John Sessions</actor>
-      <actor>Nikki Amuka-Bird</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4688891.jpg" />
+  <programme start="20220215060000 -0300" stop="20220215064200 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(c)</desc>
+    <date>1987</date>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215075400 -0300" stop="20220215093200 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215064200 -0300" stop="20220215065800 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(c)</desc>
+    <date>1987</date>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220215065800 -0300" stop="20220215071700 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(c)</desc>
+    <date>1987</date>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220215071700 -0300" stop="20220215084900 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">American Ninja Warrior</title>
     <sub-title lang="es">S.10-Ep.10 - Finales de Indianapolis</sub-title>
-    <desc lang="es">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano. La competencia tiene varias etapas, que van incrementando su complejidad. Tanto profesionales como aficionados se presentan para intentar pasarlas en el menor tiempo posible. Todos quieren el título y el premio en dólares, pero ¿alguno será capaz de conseguirlo? Los 30 mejores competidores de la clasificación de Indianapolis encaran el recorrido de las finales, incluyendo obstáculos como el 'Cane Lane' y el 'Spider Trap.' Compiten los ninjas: Brian Arnold, Jesse 'Flex' Labreck y el campeón de la temporada 7, Isaac Caldiero.</desc>
+    <desc lang="es">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano. La competencia tiene varias etapas, que van incrementando su complejidad. Tanto profesionales como aficionados se presentan para intentar pasarlas en el menor tiempo posible. Todos quieren el título y el premio en dólares, pero ¿alguno será capaz de conseguirlo? Los 30 mejores competidores de la clasificación de Indianapolis encaran el recorrido de las finales, incluyendo obstáculos como el 'Cane Lane' y el 'Spider Trap.' Compiten los ninjas: Brian Arnold, Jesse 'Flex' Labreck y el campeón de la temporada 7, Isaac Caldiero.(c)</desc>
     <credits>
       <director>Patrick McManus</director>
       <actor>Matt Iseman</actor>
@@ -19403,13 +19417,13 @@
     </credits>
     <date>2009</date>
     <category lang="es">Entretenimientos</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2145664.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1585752.jpg" />
     <country lang="es">EE. UU.</country>
     <episode-num system="onscreen">S.10-Ep.10</episode-num>
   </programme>
-  <programme start="20220215093200 -0300" stop="20220215113800 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215084900 -0300" stop="20220215110200 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Terminator: La salvación</title>
-    <desc lang="es">John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado por la aparición de Marcus Wright, mitad humano, mitad maquina. ¿De que lado está? ¿Puede confiar en él?</desc>
+    <desc lang="es">John Connor es el hombre destinado a liderar la resistencia de los humanos contra Skynet y su ejército de Terminators. Pero el futuro en el que a Connor le enseñaron a creer se ve alterado por la aparición de Marcus Wright, mitad humano, mitad maquina. ¿De que lado está? ¿Puede confiar en él?(c)</desc>
     <credits>
       <director>McG</director>
       <actor>Christian Bale</actor>
@@ -19430,12 +19444,12 @@
     </credits>
     <date>2009</date>
     <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4687238.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11052464.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215113800 -0300" stop="20220215132900 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215110200 -0300" stop="20220215130200 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Héroe de centro comercial</title>
-    <desc lang="es">Paul Blart es un padre soltero que trata de ganarse la vida como guardia de seguridad en un gran centro comercial de Nueva Jersey. Durante años, ha intentado ser policía, pero siempre reprueba el examen físico por tener un poco de sobrepeso. A pesar de que nadie toma en serio su labor, él considera que está al frente del resguardo del recinto, y cuando por causa de un atraco cierran las puertas del lugar, el vigilante más extraordinario de la ciudad, debido a su sentido de vocación, tendrá que convertirse en un oficial de verdad para poder salvar la situación.</desc>
+    <desc lang="es">Paul Blart es un padre soltero que trata de ganarse la vida como guardia de seguridad en un gran centro comercial de Nueva Jersey. Durante años, ha intentado ser policía, pero siempre reprueba el examen físico por tener un poco de sobrepeso. A pesar de que nadie toma en serio su labor, él considera que está al frente del resguardo del recinto, y cuando por causa de un atraco cierran las puertas del lugar, el vigilante más extraordinario de la ciudad, debido a su sentido de vocación, tendrá que convertirse en un oficial de verdad para poder salvar la situación.(c)</desc>
     <credits>
       <director>Steve Carr</director>
       <actor>Kevin James</actor>
@@ -19459,9 +19473,9 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/11044093.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215132900 -0300" stop="20220215154200 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215130200 -0300" stop="20220215152500 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Hellboy II: El ejército dorado</title>
-    <desc lang="es">Cuando se rompe la antigua tregua entre los seres humanos y los primeros hijos de la Tierra, el infierno se apodera del mundo. El anárquico príncipe del mundo subterráneo, Nuada, se ha cansado de inclinarse ante los seres humanos. Se le ocurre despertar a un ejército de máquinas de matar que volverá a apoderarse de lo que fue suyo. Por fin, las criaturas mágicas podrán pasearse por la Tierra a su antojo. Solo Hellboy puede detener al oscuro líder y salvar al mundo de la aniquilación.</desc>
+    <desc lang="es">Cuando se rompe la antigua tregua entre los seres humanos y los primeros hijos de la Tierra, el infierno se apodera del mundo. El anárquico príncipe del mundo subterráneo, Nuada, se ha cansado de inclinarse ante los seres humanos. Se le ocurre despertar a un ejército de máquinas de matar que volverá a apoderarse de lo que fue suyo. Por fin, las criaturas mágicas podrán pasearse por la Tierra a su antojo. Solo Hellboy puede detener al oscuro líder y salvar al mundo de la aniquilación.(c)</desc>
     <credits>
       <director>Guillermo del Toro</director>
       <actor>Ron Perlman</actor>
@@ -19477,12 +19491,12 @@
     </credits>
     <date>2008</date>
     <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5464094.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/5464082.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215154200 -0300" stop="20220215180000 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215152500 -0300" stop="20220215175100 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Hellboy</title>
-    <desc lang="es">Nacido en el Infierno, Hellboy es rescatado por las tropas Aliadas durante un rito Nazi. Sesenta años más tarde, Hellboy se ha convertido en un anónimo defensor de la humanidad y en el único ser capaz de precipitar o impedir el Apocalipsis.</desc>
+    <desc lang="es">Nacido en el Infierno, Hellboy es rescatado por las tropas Aliadas durante un rito Nazi. Sesenta años más tarde, Hellboy se ha convertido en un anónimo defensor de la humanidad y en el único ser capaz de precipitar o impedir el Apocalipsis.(c)</desc>
     <credits>
       <director>Guillermo del Toro</director>
       <actor>Ron Perlman</actor>
@@ -19500,12 +19514,12 @@
     </credits>
     <date>2004</date>
     <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14293531.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14293527.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215180000 -0300" stop="20220215195900 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215175100 -0300" stop="20220215195700 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Red de corrupción</title>
-    <desc lang="es">Orin un agente de Detroit que ha sido destinado a la peor comisaría de la ciudad como castigo. Allí se topará con una operación interna de drogas. Ningún policía podrá ayudarle a descubrir la verdad.</desc>
+    <desc lang="es">Orin un agente de Detroit que ha sido destinado a la peor comisaría de la ciudad como castigo. Allí se topará con una operación interna de drogas. Ningún policía podrá ayudarle a descubrir la verdad.(c)</desc>
     <credits>
       <director>Andrzej Bartkowiak</director>
       <actor>Steven Seagal</actor>
@@ -19526,12 +19540,12 @@
     </credits>
     <date>2001</date>
     <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16062976.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16062972.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215195900 -0300" stop="20220215220000 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215195700 -0300" stop="20220215220000 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Alerta máxima 2</title>
-    <desc lang="es">Un experto en alta tecnología brillante y maniaco ha secuestrado el tren de pasajeros más elegante de Norteamérica, trasformando uno de los vagones en un centro de mandos informatizado, con un despliegue de tecnología ultramoderna capaz de controlar un imponente satélite mortal. Desde allí pretende destruir la ciudad de Washington. Pero el único pasajero que no ha sido capturado por los terroristas es Ryback.</desc>
+    <desc lang="es">Un experto en alta tecnología brillante y maniaco ha secuestrado el tren de pasajeros más elegante de Norteamérica, trasformando uno de los vagones en un centro de mandos informatizado, con un despliegue de tecnología ultramoderna capaz de controlar un imponente satélite mortal. Desde allí pretende destruir la ciudad de Washington. Pero el único pasajero que no ha sido capturado por los terroristas es Ryback.(c)</desc>
     <credits>
       <director>Geoff Murphy</director>
       <actor>Steven Seagal</actor>
@@ -19552,12 +19566,12 @@
     </credits>
     <date>1995</date>
     <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16228505.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16228509.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220215220000 -0300" stop="20220216002100 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220215220000 -0300" stop="20220216003300 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Avalancha, desastre en la montaña</title>
-    <desc lang="es">Los cuatro miembros del Comando de Escalada del Everest de China se enfrentan a la montura más difícil. Están en su quinto intento y sus fracasos anteriores les han dejado con poca fuerza.</desc>
+    <desc lang="es">Los cuatro miembros del Comando de Escalada del Everest de China se enfrentan a la montura más difícil. Están en su quinto intento y sus fracasos anteriores les han dejado con poca fuerza.(c)</desc>
     <credits>
       <director>Daniel Lee</director>
       <actor>Jackie Chan</actor>
@@ -19573,12 +19587,12 @@
     </credits>
     <date>2019</date>
     <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/18625535.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/18625539.jpg" />
     <country lang="es">China</country>
   </programme>
-  <programme start="20220216002100 -0300" stop="20220216020100 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220216003300 -0300" stop="20220216021300 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">La leyenda de la tumba del dragón</title>
-    <desc lang="es">Travis y su equipo viajan a China en busca de lo que se supone que no debe existir. La misión consiste en capturar un Cryptid que está causando estragos en un pequeño pueblo, y tienen que lograrlo antes de que Harker, el legendario cazador, lo mate.</desc>
+    <desc lang="es">Travis y su equipo viajan a China en busca de lo que se supone que no debe existir. La misión consiste en capturar un Cryptid que está causando estragos en un pequeño pueblo, y tienen que lograrlo antes de que Harker, el legendario cazador, lo mate.(c)</desc>
     <credits>
       <director>Eric Styles</director>
       <actor>Scott Adkins</actor>
@@ -19593,33 +19607,38 @@
     </credits>
     <date>2013</date>
     <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2199343.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2199335.jpg" />
     <country lang="es">Gran Bretaña</country>
   </programme>
-  <programme start="20220216020100 -0300" stop="20220216035200 -0300" channel="CINE PREMIUM | Space FHD">
-    <title lang="es">Los asesinos</title>
-    <desc lang="es">Durante finales de la dinastía Han del Este, el General Cao Cao derrota a Lü Bu y otros señores de la guerra para obtener la supremacía del norte de China y ser nombrado rey. Mientras, un par de jóvenes, hijos de sus víctimas, son sometidos a cinco años de formación como asesinos en un campo de prisioneros de guerra y se preparan para llevar a cabo una misión secreta para matarlo.</desc>
+  <programme start="20220216021300 -0300" stop="20220216033600 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Universal Soldier: The Return</title>
+    <desc lang="es">Después de apenas sobrevivir a sus experiencias como un soldado universal mitad humano mitad robot, Luc ha optado por mantenerse fuera del frente de combate y trabajar en un proyecto militar para reajustar y mejorar el sistema. Sin embargo, algo no sale bien, y SETH, el androide que comanda el nuevo grupo de guerreros, de repente desarrolla una mente asesina por sí solo. Pronto, SETH comanda a sus compañeros máquinas de guerra en una serie de eventos violentos y Luc es el único capaz de detenerlos.(c)</desc>
     <credits>
-      <director>Linshan Zhao</director>
-      <actor>Yifei Liu</actor>
-      <actor>Hiroshi Tamaki</actor>
-      <actor>Yun-Fat Chow</actor>
-      <actor>Alec Su</actor>
-      <actor>Annie Shizuka Inoh</actor>
-      <actor>Terry Chiu</actor>
-      <actor>Dahong Ni</actor>
-      <actor>Kar-Ying Law</actor>
-      <actor>Samuel Pang</actor>
-      <actor>Xinyuan Hu</actor>
+      <director>Mic Rogers</director>
+      <actor>Jean Claude Van Damme</actor>
+      <actor>Michael Jai White</actor>
+      <actor>Heidi Schanz</actor>
+      <actor>Xander Berkeley</actor>
+      <actor>Justin Lazard</actor>
+      <actor>Kiana Tom</actor>
+      <actor>Daniel Von Bargen</actor>
+      <actor>James Black</actor>
+      <actor>Karis Paige Bryant</actor>
+      <actor>Bill Goldberg</actor>
+      <actor>Brent Anderson</actor>
+      <actor>Brent Hinkley</actor>
+      <actor>Woody Watson</actor>
+      <actor>Jacqueline Klein</actor>
+      <actor>Maria Arita</actor>
     </credits>
-    <date>2012</date>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9918226.jpg" />
-    <country lang="es">China</country>
+    <date>1999</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/224625.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220216035200 -0300" stop="20220216051500 -0300" channel="CINE PREMIUM | Space FHD">
+  <programme start="20220216033600 -0300" stop="20220216045800 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Piraña 2</title>
-    <desc lang="es">Tras los eventos ocurridos en el Lago Victoria, un grupo de pirañas prehistóricas logra abrirse paso para atacar nuevamente a través de las tuberías de una población, para terminar su festín sangriento en un parque acuático.</desc>
+    <desc lang="es">Tras los eventos ocurridos en el Lago Victoria, un grupo de pirañas prehistóricas logra abrirse paso para atacar nuevamente a través de las tuberías de una población, para terminar su festín sangriento en un parque acuático.(c)</desc>
     <credits>
       <director>John Gulager</director>
       <actor>Christopher Lloyd</actor>
@@ -19637,30 +19656,32 @@
     </credits>
     <date>2012</date>
     <category lang="es">Terror</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2787361.jpg" />
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/376690.jpg" />
     <country lang="es">EE. UU.</country>
   </programme>
-  <programme start="20220216051500 -0300" stop="20220216060000 -0300" channel="CINE PREMIUM | Space FHD">
-    <title lang="es">Heretiks: el convento</title>
-    <desc lang="es">En el siglo XVII, la joven Persephone es erróneamente acusada de magia negra por un juez. Cuando su destino parece sentenciado, una misteriosa monja la salva de la ejecución y le ofrece asilo en un pequeño lugar de retiro religioso en el que sus hermanas dedican su vida al Señor. Sin embargo, al llegar, Persephone descubrirá que un peligro sobrenatural acecha.</desc>
-    <credits>
-      <director>Paul Hyett</director>
-      <actor>Michael Ironside</actor>
-      <actor>Claire Higgins</actor>
-      <actor>Rosie Day</actor>
-      <actor>Hannah Arterton</actor>
-      <actor>Ciarán McMenamin</actor>
-      <actor>Dilan Gwyn</actor>
-      <actor>Freddy Carter</actor>
-      <actor>Katie Sheridan</actor>
-      <actor>Sian Breckin</actor>
-      <actor>Ania Marson</actor>
-      <actor>Carl Wharton</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Terror</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10325226.jpg" />
-    <country lang="es">Gran Bretaña</country>
+  <programme start="20220216045800 -0300" stop="20220216053400 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(c)</desc>
+    <date>1987</date>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220216053400 -0300" stop="20220216055100 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(c)</desc>
+    <date>1987</date>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
+    <country lang="es">EE. UU.</country>
+  </programme>
+  <programme start="20220216055100 -0300" stop="20220216060000 -0300" channel="CINE PREMIUM | Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(c)</desc>
+    <date>1987</date>
+    <category lang="es">Entrevista</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6994940.jpg" />
+    <country lang="es">EE. UU.</country>
   </programme>
   <programme start="20220216060000 -0300" stop="20220216064300 -0300" channel="CINE PREMIUM | Space FHD">
     <title lang="es">Filler</title>
@@ -20201,99 +20222,6 @@
   <programme start="20220216230000 -0300" stop="20220217011000 -0300" channel="CINE PREMIUM | STUDIO UNIVERSAL *">
     <title lang="es">Línea mortal</title>
   </programme>
-  <programme start="20220214013000 -0800" stop="20220214020000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">A Stop at Willoughby</sub-title>
-    <desc lang="en">On his way home, a man falls asleep on a train and awakens in a town named Willoughby.</desc>
-  </programme>
-  <programme start="20220214020000 -0800" stop="20220214023000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">The Obsolete Man</sub-title>
-    <desc lang="en">Librarian Romney Wordsworth is condemned to death for obsolescence.</desc>
-  </programme>
-  <programme start="20220214023000 -0800" stop="20220214030000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">I Sing the Body Electric</sub-title>
-    <desc lang="en">A widower rents an android grandmother to take care of his three children.</desc>
-  </programme>
-  <programme start="20220214030000 -0800" stop="20220214033000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">A Nice Place to Visit</sub-title>
-    <desc lang="en">A small-time hoodlum is killed by the police for robbing a loan company.</desc>
-  </programme>
-  <programme start="20220214033000 -0800" stop="20220214040000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">The Man in the Bottle</sub-title>
-    <desc lang="en">An impoverished pawnbroker buys a bottle inhabited by a genie, who offers him four wishes.</desc>
-  </programme>
-  <programme start="20220214040000 -0800" stop="20220214043000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">Four O'Clock</sub-title>
-    <desc lang="en">An obsessed Oliver Crangle (Theodore Bikel) tells an FBI agent that a drastic transformation will take place on all the evil people in the world.</desc>
-  </programme>
-  <programme start="20220214043000 -0800" stop="20220214050000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">The Dummy</sub-title>
-    <desc lang="en">An average ventriloquist finds he has a not-so-average dummy. With Cliff Robertson.</desc>
-  </programme>
-  <programme start="20220214050000 -0800" stop="20220214053200 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">Black Leather Jackets</sub-title>
-    <desc lang="en">Tough aliens from outer space try to poison the population of earth.</desc>
-  </programme>
-  <programme start="20220214053200 -0800" stop="20220214060300 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">Queen of the Nile</sub-title>
-    <desc lang="en">The everlasting youth of a movie star arouses the curiosity of a magazine writer.</desc>
-  </programme>
-  <programme start="20220214060300 -0800" stop="20220214063400 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">The Twilight Zone</title>
-    <sub-title lang="en">The Jeopardy Room</sub-title>
-    <desc lang="en">An assassin plots a unique death for a defector (Martin Landau).</desc>
-  </programme>
-  <programme start="20220214063400 -0800" stop="20220214092500 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Mortal Engines</title>
-    <desc lang="en">Hundreds of years after a cataclysmic event destroyed civilization, mysterious young Hester Shaw emerges as the only one who can stop the city of London -- now a giant predator on wheels -- from devouring everything in its path.</desc>
-    <date>2018</date>
-  </programme>
-  <programme start="20220214092500 -0800" stop="20220214120000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Blade</title>
-    <desc lang="en">A man (Wesley Snipes) with vampire blood and his mortal partner (Kris Kristofferson) hunt a rebel vampire (Stephen Dorff) and his coterie of undead.</desc>
-    <date>1998</date>
-  </programme>
-  <programme start="20220214120000 -0800" stop="20220214143000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Blade 2: Bloodhunt</title>
-    <desc lang="en">Blade (Wesley Snipes) forms an alliance with a band of hardened enemies in order to battle powerful vampires.</desc>
-    <date>2002</date>
-  </programme>
-  <programme start="20220214143000 -0800" stop="20220214170000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Blade: Trinity</title>
-    <desc lang="en">Blade (Wesley Snipes) and a pair of vampire slayers battle Dracula, the newly resurrected ancestor of the undead.</desc>
-    <date>2004</date>
-  </programme>
-  <programme start="20220214170000 -0800" stop="20220214200000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">WWE Monday Night RAW</title>
-  </programme>
-  <programme start="20220214200000 -0800" stop="20220214210000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Astrid &amp; Lilly Save the World</title>
-    <sub-title lang="en">Tontoom</sub-title>
-    <desc lang="en">Astrid and Lilly open a portal to another dimension and become monster hunters to save humanity.</desc>
-  </programme>
-  <programme start="20220214210000 -0800" stop="20220214220000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Astrid &amp; Lilly Save the World</title>
-    <sub-title lang="en">Teeth</sub-title>
-    <desc lang="en">A monster attacks bullies at school; Astrid and Lilly choose between joining her and defeating her.</desc>
-  </programme>
-  <programme start="20220214220000 -0800" stop="20220214230000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Astrid &amp; Lilly Save the World</title>
-    <sub-title lang="en">Amygdala</sub-title>
-    <desc lang="en">A monster manifesting everyone's worst fear terrorizes Pine Academy, including Astrid and Lilly.</desc>
-  </programme>
-  <programme start="20220214230000 -0800" stop="20220215010000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
-    <title lang="en">Unstoppable</title>
-    <desc lang="en">When an unmanned locomotive roars out of control, two railroad employees (Denzel Washington, Chris Pine) must find a way to bring it to a halt before it crashes and spills its toxic cargo.</desc>
-    <date>2010</date>
-  </programme>
   <programme start="20220215010000 -0800" stop="20220215013000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
     <title lang="en">Men's Health - All-Natural Secret for Prostate Health</title>
     <desc lang="en">Prosvent is a doctor formulated blend of rejuvenating herbs and nutrients that help protect overall prostate health.</desc>
@@ -20367,6 +20295,86 @@
     <title lang="en">Zathura</title>
     <desc lang="en">Two young brothers (Josh Hutcherson, Jonah Bobo) play a mysterious game that propels them into an outer-space adventure.</desc>
     <date>2005</date>
+  </programme>
+  <programme start="20220216000600 -0800" stop="20220216020200 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Lake Placid 2</title>
+    <desc lang="en">A sheriff, a big-game hunter and a wildlife officer try to kill three giant crocodiles.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220216020200 -0800" stop="20220216023100 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Twilight Zone</title>
+    <sub-title lang="en">The Fear</sub-title>
+    <desc lang="en">Two people in a remote cabin find signs of an alien.(n)</desc>
+  </programme>
+  <programme start="20220216023100 -0800" stop="20220216030000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Twilight Zone</title>
+    <sub-title lang="en">The Bewitchin' Pool</sub-title>
+    <desc lang="en">Two children follow a make-believe friend into a happier world.(n)</desc>
+  </programme>
+  <programme start="20220216030000 -0800" stop="20220216033000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Twilight Zone</title>
+    <sub-title lang="en">One More Pallbearer</sub-title>
+    <desc lang="en">Wealthy Paul Radin arranges an intricate revenge for those he thinks have wronged him in his life.(n)</desc>
+  </programme>
+  <programme start="20220216033000 -0800" stop="20220216040000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Twilight Zone</title>
+    <sub-title lang="en">Dead Man's Shoes</sub-title>
+    <desc lang="en">Nate Bledsoe steals a pair of fancy shoes from a dead man's body that he found in an alley.(n)</desc>
+  </programme>
+  <programme start="20220216040000 -0800" stop="20220216043000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Twilight Zone</title>
+    <sub-title lang="en">Death's Head Revisited</sub-title>
+    <desc lang="en">Ghosts of concentration-camp victims confront a Nazi officer.(n)</desc>
+  </programme>
+  <programme start="20220216043000 -0800" stop="20220216063000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Lake Placid 2</title>
+    <desc lang="en">A sheriff, a big-game hunter and a wildlife officer try to kill three giant crocodiles.(n)</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220216063000 -0800" stop="20220216083000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Lake Placid 3</title>
+    <desc lang="en">Game warden Nathan Bickerman (Colin Ferguson) moves his family to Black Lake, where his son discovers a clutch of baby crocodiles that, as they grow, begin to feast on humans.(n)</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20220216083000 -0800" stop="20220216110000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Day the Earth Stood Still</title>
+    <desc lang="en">A woman (Jennifer Connelly) and her stepson learn the chilling meaning behind the proclamation of an alien visitor (Keanu Reeves) that he is a ``friend to the Earth.``.(n)</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216133000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Maze Runner</title>
+    <desc lang="en">A teen awakes within a massive maze with other teens, with no memory of his past other than dreams about an organization known as WCKD. He hopes to escape by piecing together fragments of his past and clues he discovers in the labyrinth.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220216133000 -0800" stop="20220216153000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Maleficent</title>
+    <desc lang="en">Maleficent (Angelina Jolie) rises to protect her peaceful forest kingdom from invaders, but a terrible betrayal turns her pure heart to stone and twists her into a creature bent on revenge.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220216153000 -0800" stop="20220216180000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Doctor Strange</title>
+    <desc lang="en">After a terrible accident, Dr. Stephen Strange (Benedict Cumberbatch) loses his ability to operate but finds new purpose when a mystical being known as the Ancient One reveals that Dr. Strange is the newly designated Sorcerer Supreme.(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220216180000 -0800" stop="20220216190000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Resident Alien</title>
+    <sub-title lang="en">Radio Harry</sub-title>
+    <desc lang="en">Asta is concerned Harry is building another bomb and hopes to find out when they go camping on the reservation.(n)</desc>
+  </programme>
+  <programme start="20220216190000 -0800" stop="20220216200000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Astrid &amp; Lilly Save the World</title>
+    <sub-title lang="en">One Rib</sub-title>
+    <desc lang="en">Astrid and Lilly feel excluded when everyone does a new viral dance, until they learn it's a monster.(n)</desc>
+  </programme>
+  <programme start="20220216200000 -0800" stop="20220216220000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">Maleficent</title>
+    <desc lang="en">Maleficent (Angelina Jolie) rises to protect her peaceful forest kingdom from invaders, but a terrible betrayal turns her pure heart to stone and twists her into a creature bent on revenge.(n)</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220216220000 -0800" stop="20220217003000 -0800" channel="CINE PREMIUM | SYFY CHANNEL">
+    <title lang="en">The Day the Earth Stood Still</title>
+    <desc lang="en">A woman (Jennifer Connelly) and her stepson learn the chilling meaning behind the proclamation of an alien visitor (Keanu Reeves) that he is a ``friend to the Earth.``.(n)</desc>
+    <date>2008</date>
   </programme>
   <programme start="20220215010000 -0300" stop="20220215025900 -0300" channel="CINE PREMIUM | TBS *">
     <title lang="es">Celda 213</title>
@@ -33410,6 +33418,9 @@
   <programme start="20220215230000 -0300" stop="20220216030000 -0300" channel="DEPORTES EUR | REAL MADRID HD">
     <title lang="es">Real Madrid TV</title>
   </programme>
+  <programme start="20220216110000 -0300" stop="20220216150000 -0300" channel="DEPORTES EUR | REAL MADRID HD">
+    <title lang="es">Real Madrid TV</title>
+  </programme>
   <programme start="20220215000000 -0300" stop="20220215020000 -0300" channel="DEPORTES EUR | BEIN SPORTS Ñ">
     <title lang="es">Giresunspor vs. Fenerbahce</title>
   </programme>
@@ -36364,6 +36375,9 @@
   <programme start="20220216124500 -0300" stop="20220216130000 -0300" channel="DEPORTES EUR | EUROSPORT 1 (K)">
     <title lang="es">JJOO Beijing 2022</title>
   </programme>
+  <programme start="20220216130000 -0300" stop="20220216140000 -0300" channel="DEPORTES EUR | EUROSPORT 1 (K)">
+    <title lang="es">Beijing Today</title>
+  </programme>
   <programme start="20220216140000 -0300" stop="20220216150000 -0300" channel="DEPORTES EUR | EUROSPORT 1 (K)">
     <title lang="es">JJ OO Beijing 2022</title>
   </programme>
@@ -36505,107 +36519,6 @@
   <programme start="20220217230000 -0300" stop="20220218001000 -0300" channel="DEPORTES EUR | EUROSPORT 2 (K)">
     <title lang="es">JJ OO Beijing 2022</title>
   </programme>
-  <programme start="20220214000000 -0800" stop="20220214003000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214003000 -0800" stop="20220214010000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214010000 -0800" stop="20220214030000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <sub-title lang="en">2021-2022: Los Angeles Lakers at Golden State Warriors</sub-title>
-    <desc lang="en">From Feb. 12, 2022.</desc>
-  </programme>
-  <programme start="20220214030000 -0800" stop="20220214033000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214033000 -0800" stop="20220214040000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214040000 -0800" stop="20220214043000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214043000 -0800" stop="20220214050000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214050000 -0800" stop="20220214053000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214053000 -0800" stop="20220214060000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214060000 -0800" stop="20220214063000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214063000 -0800" stop="20220214070000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214070000 -0800" stop="20220214073000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214073000 -0800" stop="20220214093000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">On This Day</title>
-    <sub-title lang="en">2010 NBA All-Star Game</sub-title>
-    <desc lang="en">Heat's Dwyane Wade leads the East with 28 points and 11 assists, at Cowboys Stadium in Dallas. From Feb. 14, 2010.</desc>
-  </programme>
-  <programme start="20220214093000 -0800" stop="20220214113000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">Game of the Day</title>
-    <desc lang="en">The best match-up of the week from around the NBA.</desc>
-  </programme>
-  <programme start="20220214113000 -0800" stop="20220214133000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <sub-title lang="en">2021-2022: Los Angeles Lakers at Golden State Warriors</sub-title>
-    <desc lang="en">From Feb. 12, 2022.</desc>
-  </programme>
-  <programme start="20220214133000 -0800" stop="20220214153000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">Game of the Day</title>
-    <desc lang="en">The best match-up of the week from around the NBA.</desc>
-  </programme>
-  <programme start="20220214153000 -0800" stop="20220214160000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBABet</title>
-    <desc lang="en">Studio show dedicated to NBA betting-focused information and analysis.</desc>
-  </programme>
-  <programme start="20220214160000 -0800" stop="20220214163000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214163000 -0800" stop="20220214170000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA Pregame</title>
-    <desc lang="en">Experts discuss upcoming NBA games.</desc>
-  </programme>
-  <programme start="20220214170000 -0800" stop="20220214193000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">San Antonio Spurs at Chicago Bulls</sub-title>
-    <desc lang="en">The Spurs resume their rodeo road trip by seeking to stay on top of the Bulls. San Antonio has won three straight versus Chicago after a 131-122 verdict on Jan. 28 in the Lone Star State. Dejounte Murray (SA) had 29 points and 12 assists in that win.</desc>
-  </programme>
-  <programme start="20220214193000 -0800" stop="20220214220000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Center Court: Golden State Warriors at Los Angeles Clippers</sub-title>
-    <desc lang="en">Watch the Warriors take on the Clippers, live from Los Angeles.</desc>
-  </programme>
-  <programme start="20220214220000 -0800" stop="20220214230000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA TV Postgame Show</title>
-    <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
-  </programme>
-  <programme start="20220214230000 -0800" stop="20220214233000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
-  <programme start="20220214233000 -0800" stop="20220215000000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-  </programme>
   <programme start="20220215000000 -0800" stop="20220215023000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
     <title lang="en">NBA Basketball</title>
     <sub-title lang="en">San Antonio Spurs at Chicago Bulls</sub-title>
@@ -36715,52 +36628,74 @@
     <title lang="en">Game of the Day</title>
     <desc lang="en">The best match-up of the week from around the NBA.</desc>
   </programme>
-  <programme start="20220214030000 -0800" stop="20220214040000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL GameDay Final</title>
-    <desc lang="en">Chris Rose and crew wrap up your NFL weekend with all the highlights and reactions from Sunday's games plus postgame interviews with the day's best performers.</desc>
+  <programme start="20220216000000 -0800" stop="20220216020000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.(n)</desc>
   </programme>
-  <programme start="20220214040000 -0800" stop="20220214070000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">Good Morning Football</title>
-    <desc lang="en">Catch up on everything NFL with the latest news, highlights, and trending topics from across the football world and beyond.</desc>
+  <programme start="20220216020000 -0800" stop="20220216030000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA on TNT Tuesday</title>
+    <desc lang="en">Dwyane Wade, Candace Parker, Shaquille O'Neal and Adam Lefkoe recap game action, news and notes from the NBA's season restart; the conversation will also touch on entertainment, business, lifestyle, fashion and social activism.(n)</desc>
   </programme>
-  <programme start="20220214070000 -0800" stop="20220214100000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">Good Morning Football</title>
-    <desc lang="en">Catch up on everything NFL with the latest news, highlights, and trending topics from across the football world and beyond.</desc>
+  <programme start="20220216030000 -0800" stop="20220216040000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA on TNT Tuesday</title>
+    <desc lang="en">Dwyane Wade, Candace Parker, Shaquille O'Neal and Adam Lefkoe recap game action, news and notes from the NBA's season restart; the conversation will also touch on entertainment, business, lifestyle, fashion and social activism.(n)</desc>
   </programme>
-  <programme start="20220214100000 -0800" stop="20220214110000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL Now</title>
-    <desc lang="en">All the latest NFL news, injury updates and inside information from reporters across the country.</desc>
+  <programme start="20220216040000 -0800" stop="20220216050000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA on TNT Tuesday</title>
+    <desc lang="en">Dwyane Wade, Candace Parker, Shaquille O'Neal and Adam Lefkoe recap game action, news and notes from the NBA's season restart; the conversation will also touch on entertainment, business, lifestyle, fashion and social activism.(n)</desc>
   </programme>
-  <programme start="20220214110000 -0800" stop="20220214120000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL Now</title>
-    <desc lang="en">All the latest NFL news, injury updates and inside information from reporters across the country.</desc>
+  <programme start="20220216050000 -0800" stop="20220216060000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA on TNT Tuesday</title>
+    <desc lang="en">Dwyane Wade, Candace Parker, Shaquille O'Neal and Adam Lefkoe recap game action, news and notes from the NBA's season restart; the conversation will also touch on entertainment, business, lifestyle, fashion and social activism.(n)</desc>
   </programme>
-  <programme start="20220214120000 -0800" stop="20220214130000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL Now</title>
-    <desc lang="en">All the latest NFL news, injury updates and inside information from reporters across the country.</desc>
+  <programme start="20220216060000 -0800" stop="20220216070000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA on TNT Tuesday</title>
+    <desc lang="en">Dwyane Wade, Candace Parker, Shaquille O'Neal and Adam Lefkoe recap game action, news and notes from the NBA's season restart; the conversation will also touch on entertainment, business, lifestyle, fashion and social activism.(n)</desc>
   </programme>
-  <programme start="20220214130000 -0800" stop="20220214160000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">Super Bowl Classics</title>
-    <sub-title lang="en">LVI- Los Angeles Rams vs. Cincinnati Bengals</sub-title>
+  <programme start="20220216070000 -0800" stop="20220216080000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA on TNT Tuesday</title>
+    <desc lang="en">Dwyane Wade, Candace Parker, Shaquille O'Neal and Adam Lefkoe recap game action, news and notes from the NBA's season restart; the conversation will also touch on entertainment, business, lifestyle, fashion and social activism.(n)</desc>
   </programme>
-  <programme start="20220214160000 -0800" stop="20220214173000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL Total Access</title>
-    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.</desc>
+  <programme start="20220216080000 -0800" stop="20220216100000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">On This Day</title>
+    <sub-title lang="en">2014 NBA All-Star Game</sub-title>
+    <desc lang="en">Kyrie Irving scores 31 points and had 14 assists and was named MVP, leading the East to a victory, 163-155. The West is led by Kevin Durant and Blake Griffin, who each finish with 38 points. From Feb. 16, 2014.(n)</desc>
   </programme>
-  <programme start="20220214173000 -0800" stop="20220214190000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">A Celebration of John Madden</title>
+  <programme start="20220216100000 -0800" stop="20220216120000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">Game of the Day</title>
+    <desc lang="en">The best match-up of the week from around the NBA.(n)</desc>
   </programme>
-  <programme start="20220214190000 -0800" stop="20220214200000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL Total Access</title>
-    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.</desc>
+  <programme start="20220216120000 -0800" stop="20220216140000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA TV Marquee Matchup</title>
+    <desc lang="en">The best match-up of the week from around the Association.(n)</desc>
   </programme>
-  <programme start="20220214200000 -0800" stop="20220214230000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">Super Bowl Classics</title>
-    <sub-title lang="en">LVI- Los Angeles Rams vs. Cincinnati Bengals</sub-title>
+  <programme start="20220216140000 -0800" stop="20220216160000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">Game of the Day</title>
+    <desc lang="en">The best match-up of the week from around the NBA.(n)</desc>
   </programme>
-  <programme start="20220214230000 -0800" stop="20220215000000 -0800" channel="DEPORTES EUR | NFL NETWORK">
-    <title lang="en">NFL Total Access</title>
-    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.</desc>
+  <programme start="20220216160000 -0800" stop="20220216193000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20220216193000 -0800" stop="20220216220000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20220216220000 -0800" stop="20220216223000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20220216223000 -0800" stop="20220216230000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20220216230000 -0800" stop="20220216233000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
+  </programme>
+  <programme start="20220216233000 -0800" stop="20220217000000 -0800" channel="DEPORTES EUR | NBA FHD (L)">
+    <title lang="en">NBA GameTime Live</title>
+    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.(n)</desc>
   </programme>
   <programme start="20220215000000 -0800" stop="20220215030000 -0800" channel="DEPORTES EUR | NFL NETWORK">
     <title lang="en">Super Bowl Classics</title>
@@ -36825,6 +36760,64 @@
   <programme start="20220215230000 -0800" stop="20220216000000 -0800" channel="DEPORTES EUR | NFL NETWORK">
     <title lang="en">NFL Total Access</title>
     <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.</desc>
+  </programme>
+  <programme start="20220216000000 -0800" stop="20220216030000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Football</title>
+    <desc lang="en">Football action from around the National Football League.(n)</desc>
+  </programme>
+  <programme start="20220216030000 -0800" stop="20220216040000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.(n)</desc>
+  </programme>
+  <programme start="20220216040000 -0800" stop="20220216070000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">Good Morning Football</title>
+    <desc lang="en">Catch up on everything NFL with the latest news, highlights, and trending topics from across the football world and beyond.(n)</desc>
+  </programme>
+  <programme start="20220216070000 -0800" stop="20220216100000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">Good Morning Football</title>
+    <desc lang="en">Catch up on everything NFL with the latest news, highlights, and trending topics from across the football world and beyond.(n)</desc>
+  </programme>
+  <programme start="20220216100000 -0800" stop="20220216110000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Now</title>
+    <desc lang="en">All the latest NFL news, injury updates and inside information from reporters across the country.(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216120000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Now</title>
+    <desc lang="en">All the latest NFL news, injury updates and inside information from reporters across the country.(n)</desc>
+  </programme>
+  <programme start="20220216120000 -0800" stop="20220216130000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Now</title>
+    <desc lang="en">All the latest NFL news, injury updates and inside information from reporters across the country.(n)</desc>
+  </programme>
+  <programme start="20220216130000 -0800" stop="20220216160000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Football</title>
+    <desc lang="en">Football action from around the National Football League.(n)</desc>
+  </programme>
+  <programme start="20220216160000 -0800" stop="20220216170000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.(n)</desc>
+  </programme>
+  <programme start="20220216170000 -0800" stop="20220216180000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Mic'd Up</title>
+    <sub-title lang="en">Super Bowl LVI</sub-title>
+    <desc lang="en">An extensive compilation of the best wires and sounds from Super Bowl LVI.(n)</desc>
+  </programme>
+  <programme start="20220216180000 -0800" stop="20220216210000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">Super Bowl Classics</title>
+    <sub-title lang="en">LVI- Los Angeles Rams vs. Cincinnati Bengals</sub-title>
+  </programme>
+  <programme start="20220216210000 -0800" stop="20220216220000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.(n)</desc>
+  </programme>
+  <programme start="20220216220000 -0800" stop="20220216230000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Mic'd Up</title>
+    <sub-title lang="en">Super Bowl LVI</sub-title>
+    <desc lang="en">An extensive compilation of the best wires and sounds from Super Bowl LVI.(n)</desc>
+  </programme>
+  <programme start="20220216230000 -0800" stop="20220217000000 -0800" channel="DEPORTES EUR | NFL NETWORK">
+    <title lang="en">NFL Total Access</title>
+    <desc lang="en">NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.(n)</desc>
   </programme>
   <programme start="20220215002000 -0300" stop="20220215011000 -0300" channel="DEPORT EUR | ADRENALINA SPORTS NETWORK">
     <title lang="es">Cisco vs. Mandarina</title>
@@ -39652,7 +39645,7 @@
   </programme>
   <programme start="20220215030000 -0300" stop="20220215040000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39719,7 +39712,7 @@
   </programme>
   <programme start="20220215110000 -0300" stop="20220215120000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39747,7 +39740,7 @@
   </programme>
   <programme start="20220215130000 -0300" stop="20220215140000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39775,7 +39768,7 @@
   </programme>
   <programme start="20220215150000 -0300" stop="20220215160000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39803,7 +39796,7 @@
   </programme>
   <programme start="20220215170000 -0300" stop="20220215190000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Pachuca vs. Querétaro</title>
-    <desc lang="es">El Club de Fútbol Pachuca recibe al Querétaro Fútbol Club en el estadio Hidalgo en la ciudad de Pachuca, México.(n)</desc>
+    <desc lang="es">El Club de Fútbol Pachuca recibe al Querétaro Fútbol Club en el estadio Hidalgo en la ciudad de Pachuca, México.</desc>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/pachuca_vs_queretaro.png" />
@@ -39823,6 +39816,31 @@
   <programme start="20220216020000 -0300" stop="20220216030000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">La última palabra</title>
   </programme>
+  <programme start="20220216130000 -0300" stop="20220216140000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(g)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
   <programme start="20220216160000 -0300" stop="20220216170000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">WWE NXT</title>
   </programme>
@@ -39840,7 +39858,7 @@
   </programme>
   <programme start="20220215030000 -0300" stop="20220215040000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39907,7 +39925,7 @@
   </programme>
   <programme start="20220215110000 -0300" stop="20220215120000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39935,7 +39953,7 @@
   </programme>
   <programme start="20220215130000 -0300" stop="20220215140000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39963,7 +39981,7 @@
   </programme>
   <programme start="20220215150000 -0300" stop="20220215160000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -39991,7 +40009,7 @@
   </programme>
   <programme start="20220215170000 -0300" stop="20220215190000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Pachuca vs. Querétaro</title>
-    <desc lang="es">El Club de Fútbol Pachuca recibe al Querétaro Fútbol Club en el estadio Hidalgo en la ciudad de Pachuca, México.(n)</desc>
+    <desc lang="es">El Club de Fútbol Pachuca recibe al Querétaro Fútbol Club en el estadio Hidalgo en la ciudad de Pachuca, México.</desc>
     <category lang="es">Fútbol</category>
     <category lang="es">Fútbol Mexicano</category>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/pachuca_vs_queretaro.png" />
@@ -40011,6 +40029,31 @@
   <programme start="20220216020000 -0300" stop="20220216030000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">La última palabra</title>
   </programme>
+  <programme start="20220216130000 -0300" stop="20220216140000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(g)</desc>
+    <date>1997</date>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">IndyCar Series</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Deporte</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Fútbol Español</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png" />
+    <country lang="es">México</country>
+    <country lang="es">Argentina</country>
+  </programme>
   <programme start="20220216160000 -0300" stop="20220216170000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">WWE NXT</title>
   </programme>
@@ -40025,7 +40068,7 @@
   </programme>
   <programme start="20220215010000 -0300" stop="20220215020000 -0300" channel="DEPORTES LAT | FOX SPORTS 2 HD MX">
     <title lang="es">Central Fox</title>
-    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.(n)</desc>
+    <desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc>
     <date>1997</date>
     <category lang="es">Fútbol Americano</category>
     <category lang="es">Baloncesto</category>
@@ -40189,19 +40232,464 @@
   <programme start="20220216220000 -0300" stop="20220217000000 -0300" channel="DEPORTES LAT | FOX SPORTS 2 HD MX">
     <title lang="es">Forge Football Club vs. Cruz A</title>
   </programme>
-  <programme start="20220214193000 -0800" stop="20220214220000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Detroit Pistons at Washington Wizards</sub-title>
-    <desc lang="en">From Capital One Arena in Washington, D.C.</desc>
+  <programme start="20220215010000 -0300" stop="20220215030000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">NASCAR Cup Series 2022</title>
   </programme>
-  <programme start="20220214220000 -0800" stop="20220214223000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
-    <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+  <programme start="20220215030000 -0300" stop="20220215040000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">European Le Mans Series 2021</title>
   </programme>
-  <programme start="20220214223000 -0800" stop="20220215010000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Detroit Pistons at Washington Wizards</sub-title>
-    <desc lang="en">From Capital One Arena in Washington, D.C.</desc>
+  <programme start="20220215040000 -0300" stop="20220215043000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215043000 -0300" stop="20220215050000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215050000 -0300" stop="20220215053000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215053000 -0300" stop="20220215060000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215060000 -0300" stop="20220215063000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215063000 -0300" stop="20220215070000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215070000 -0300" stop="20220215073000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215073000 -0300" stop="20220215080000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215080000 -0300" stop="20220215083000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215083000 -0300" stop="20220215090000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215093000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215093000 -0300" stop="20220215100000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215100000 -0300" stop="20220215110000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">FIM Motocross 2021</title>
+  </programme>
+  <programme start="20220215110000 -0300" stop="20220215130000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220215130000 -0300" stop="20220215140000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220215140000 -0300" stop="20220215150000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">World Rally Championship 2022</title>
+  </programme>
+  <programme start="20220215150000 -0300" stop="20220215170000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220215170000 -0300" stop="20220215180000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 3 2021</title>
+  </programme>
+  <programme start="20220215180000 -0300" stop="20220215190000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">European Le Mans Series 2021</title>
+  </programme>
+  <programme start="20220215190000 -0300" stop="20220215200000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220215200000 -0300" stop="20220215210000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220215210000 -0300" stop="20220215230000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220215230000 -0300" stop="20220215233000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Silk way rally</title>
+  </programme>
+  <programme start="20220215233000 -0300" stop="20220216000000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Silk way rally</title>
+  </programme>
+  <programme start="20220216000000 -0300" stop="20220216010000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Motul fim superbike world cham</title>
+  </programme>
+  <programme start="20220216010000 -0300" stop="20220216020000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216020000 -0300" stop="20220216030000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216030000 -0300" stop="20220216040000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220216040000 -0300" stop="20220216043000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216043000 -0300" stop="20220216050000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216050000 -0300" stop="20220216053000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216053000 -0300" stop="20220216060000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216060000 -0300" stop="20220216063000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216063000 -0300" stop="20220216070000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216070000 -0300" stop="20220216073000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216073000 -0300" stop="20220216080000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216080000 -0300" stop="20220216083000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216083000 -0300" stop="20220216090000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216090000 -0300" stop="20220216093000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216093000 -0300" stop="20220216100000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216100000 -0300" stop="20220216110000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Wec 2021</title>
+  </programme>
+  <programme start="20220216110000 -0300" stop="20220216140000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220216140000 -0300" stop="20220216150000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">FIM Motocross 2021</title>
+  </programme>
+  <programme start="20220216150000 -0300" stop="20220216160000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216160000 -0300" stop="20220216170000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216170000 -0300" stop="20220216190000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216220000 -0300" stop="20220216230000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216230000 -0300" stop="20220217010000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">NASCAR Cup Series 2022</title>
+  </programme>
+  <programme start="20220215010000 -0300" stop="20220215030000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">NASCAR Cup Series 2022</title>
+  </programme>
+  <programme start="20220215030000 -0300" stop="20220215040000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">European Le Mans Series 2021</title>
+  </programme>
+  <programme start="20220215040000 -0300" stop="20220215043000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215043000 -0300" stop="20220215050000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215050000 -0300" stop="20220215053000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215053000 -0300" stop="20220215060000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215060000 -0300" stop="20220215063000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215063000 -0300" stop="20220215070000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215070000 -0300" stop="20220215073000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215073000 -0300" stop="20220215080000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215080000 -0300" stop="20220215083000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215083000 -0300" stop="20220215090000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215093000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215093000 -0300" stop="20220215100000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220215100000 -0300" stop="20220215110000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">FIM Motocross 2021</title>
+  </programme>
+  <programme start="20220215110000 -0300" stop="20220215130000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220215130000 -0300" stop="20220215140000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220215140000 -0300" stop="20220215150000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">World Rally Championship 2022</title>
+  </programme>
+  <programme start="20220215150000 -0300" stop="20220215170000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220215170000 -0300" stop="20220215180000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 3 2021</title>
+  </programme>
+  <programme start="20220215180000 -0300" stop="20220215190000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">European Le Mans Series 2021</title>
+  </programme>
+  <programme start="20220215190000 -0300" stop="20220215200000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220215200000 -0300" stop="20220215210000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220215210000 -0300" stop="20220215230000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220215230000 -0300" stop="20220215233000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Silk way rally</title>
+  </programme>
+  <programme start="20220215233000 -0300" stop="20220216000000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Silk way rally</title>
+  </programme>
+  <programme start="20220216000000 -0300" stop="20220216010000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Motul fim superbike world cham</title>
+  </programme>
+  <programme start="20220216010000 -0300" stop="20220216020000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216020000 -0300" stop="20220216030000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216030000 -0300" stop="20220216040000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">WTCR 2021</title>
+  </programme>
+  <programme start="20220216040000 -0300" stop="20220216043000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216043000 -0300" stop="20220216050000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216050000 -0300" stop="20220216053000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216053000 -0300" stop="20220216060000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216060000 -0300" stop="20220216063000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216063000 -0300" stop="20220216070000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216070000 -0300" stop="20220216073000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216073000 -0300" stop="20220216080000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216080000 -0300" stop="20220216083000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216083000 -0300" stop="20220216090000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216090000 -0300" stop="20220216093000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216093000 -0300" stop="20220216100000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220216100000 -0300" stop="20220216110000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Wec 2021</title>
+  </programme>
+  <programme start="20220216110000 -0300" stop="20220216140000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220216140000 -0300" stop="20220216150000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">FIM Motocross 2021</title>
+  </programme>
+  <programme start="20220216150000 -0300" stop="20220216160000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216160000 -0300" stop="20220216170000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216170000 -0300" stop="20220216190000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216220000 -0300" stop="20220216230000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">Fórmula 1 2021</title>
+  </programme>
+  <programme start="20220216230000 -0300" stop="20220217010000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">NASCAR Cup Series 2022</title>
+  </programme>
+  <programme start="20220215000000 +0000" stop="20220215003000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220215003000 +0000" stop="20220215030000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Sacramento Kings vs. Brooklyn Nets : Baloncesto NBA - Sacramento Kings vs. Brooklyn Nets</title>
+    <desc lang="en">Los Kings buscan una barrida de temporada contra los Nets. Sacramento ganó a Brooklyn por 112-101 el 2 de febrero.(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220215030000 +0000" stop="20220215050000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20220215050000 +0000" stop="20220215053000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220215053000 +0000" stop="20220215060000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220215060000 +0000" stop="20220215063000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20220215063000 +0000" stop="20220215090000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Sacramento Kings vs. Brooklyn Nets : Baloncesto NBA - Sacramento Kings vs. Brooklyn Nets</title>
+    <desc lang="en">Los Kings buscan una barrida de temporada contra los Nets. Sacramento ganó a Brooklyn por 112-101 el 2 de febrero.(n)</desc>
+  </programme>
+  <programme start="20220215090000 +0000" stop="20220215100000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220215100000 +0000" stop="20220215123000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Sacramento Kings vs. Brooklyn Nets : Baloncesto NBA - Sacramento Kings vs. Brooklyn Nets</title>
+    <desc lang="en">Los Kings buscan una barrida de temporada contra los Nets. Sacramento ganó a Brooklyn por 112-101 el 2 de febrero.(n)</desc>
+  </programme>
+  <programme start="20220215123000 +0000" stop="20220215130000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220215130000 +0000" stop="20220215150000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">El chiringuito de jugones</title>
+  </programme>
+  <programme start="20220215150000 +0000" stop="20220215160000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">DIRECTV Boxing</title>
+    <desc lang="en">Nada que perder y mucho que ganar; fórmula para estos combates. Las mejores peleas de boxeo latinoamericano a través de la pantalla de DIRECTV Sports.(n)</desc>
+  </programme>
+  <programme start="20220215160000 +0000" stop="20220215163000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220215163000 +0000" stop="20220215170000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20220215170000 +0000" stop="20220215190000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Sevilla vs. Elche : Fútbol Español La Liga - Sevilla vs. Elche</title>
+    <desc lang="en">Jornada 24 de LaLiga 2021-2022. Sevilla recibe a Elche en el estadio Ramón Sánchez Pizjuán. Los nervionenses acumulan 3 empates consecutivos, mientras que los franjiverdes llevan 2 partidos sin perder (1PG 1PE).(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  </programme>
+  <programme start="20220215190000 +0000" stop="20220215220000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Espanyol vs. Barcelona : Fútbol Español La Liga - Espanyol vs. Barcelona</title>
+    <desc lang="en">Jornada 24 de LaLiga 2021-2022. Espanyol recibe a Barcelona en el RCDE Stadium. Los periquitos llevan 6 juegos sin ganar (2PE 4PP), mientras que los culés acumulan 2 victorias consecutivas.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  </programme>
+  <programme start="20220215220000 +0000" stop="20220215223000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220215223000 +0000" stop="20220215230000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20220215230000 +0000" stop="20220215233000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220215233000 +0000" stop="20220216010000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20220216010000 +0000" stop="20220216030000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Villarreal vs. Real Madrid : Fútbol Español La Liga - Villarreal vs. Real Madrid</title>
+    <desc lang="en">Jornada 24 de LaLiga 2021-2022. Villarreal recibe a Real Madrid en el estadio de la Cerámica. El Submarino Amarillo lleva 2 victorias consecutivas, mientras que el Merengue viene de ganar luego de 2 partidos (1PE 1PP).(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  </programme>
+  <programme start="20220216030000 +0000" stop="20220216050000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">El chiringuito de jugones</title>
+    <desc lang="en">Programa deportivo en el que se trata toda la información y las noticias más importantes acerca de los equipos de fútbol español. Ocho tertulianos aportarán su punto de vista sobre los temas a tratar.(n)</desc>
+  </programme>
+  <programme start="20220216050000 +0000" stop="20220216070000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Cádiz vs. Celta : Fútbol Español La Liga - Cádiz vs. Celta</title>
+    <desc lang="en">Jornada 24 de LaLiga 2021-2022. Cádiz recibe a Celta en el estadio Ramón de Carranza. El Submarino Amarillo lleva 2 derrotas consecutivas, mientras que los celtiñas acumulan 3 juegos sin perder (2PG 1PE).(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  </programme>
+  <programme start="20220216070000 +0000" stop="20220216090000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Major League Rugby : LA Giltinis vs. Toronto Arrows - LA Giltinis vs. Toronto Arrows</title>
+    <desc lang="en">Toda la acción de la Major League Rugby. LA Giltinis enfrenta a Toronto Arrows.(n)</desc>
+  </programme>
+  <programme start="20220216090000 +0000" stop="20220216100000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220216100000 +0000" stop="20220216120000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Rayo Vallecano vs. Betis : Fútbol Español Copa del Rey - Rayo Vallecano vs. Betis</title>
+    <desc lang="en">Acción de la ida de semifinales. Rayo Vallecano y Betis abren la serie a doble partido desde Vallecas, en Madrid.(n)</desc>
+  </programme>
+  <programme start="20220216120000 +0000" stop="20220216140000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">El chiringuito de jugones</title>
+  </programme>
+  <programme start="20220216140000 +0000" stop="20220216160000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Ciclismo : Vuelta a Andalucía: Etapa 1 - Vuelta a Andalucía: Etapa 1</title>
+    <desc lang="en">Acción de la primera etapa. Tramo Ubrique - Iznajar (201 kilómetros).(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220216160000 +0000" stop="20220216173000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Ciclismo : Tour de Algarve, etapa 1 - Tour de Algarve, etapa 1</title>
+    <desc lang="en">Acción de la primera etapa. Tramo Portimao - Lagos (199.1 kilómetros).(n)</desc>
+    <premiere />
+  </programme>
+  <programme start="20220216173000 +0000" stop="20220216180000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220216180000 +0000" stop="20220216200000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Rayo Vallecano vs. Osasuna : Fútbol Español La Liga - Rayo Vallecano vs. Osasuna</title>
+    <desc lang="en">Jornada 24 de LaLiga 2021-2022. Rayo Vallecano recibe a Osasuna en el Campo de Fútbol de Vallecas. El Rayito acumula 4 partidos sin ganar en el torneo (1PE 3PP), mientras que los rojillos llevan 2 juegos sin perder (1PG 1PE).(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  </programme>
+  <programme start="20220216200000 +0000" stop="20220216220000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Espanyol vs. Barcelona : Fútbol Español La Liga - Espanyol vs. Barcelona</title>
+    <desc lang="en">Jornada 24 de LaLiga 2021-2022. Espanyol recibe a Barcelona en el RCDE Stadium. Los periquitos llevan 6 juegos sin ganar (2PE 4PP), mientras que los culés acumulan 2 victorias consecutivas.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/3609994/p3609994_b_v5_v9_cmd2.jpg" />
+  </programme>
+  <programme start="20220216220000 +0000" stop="20220216223000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20220216223000 +0000" stop="20220216230000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">FIBA Basketball</title>
+    <desc lang="en">Lo mejor de la Federación Internacional de Baloncesto.(n)</desc>
+  </programme>
+  <programme start="20220216230000 +0000" stop="20220216233000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Diario NBA</title>
+    <desc lang="en">Una mirada en detalle con el resumen de los mejores momentos de la jornada. El jugador destacado, las mejores encestadas y las noticias del mejor baloncesto del planeta.(n)</desc>
+  </programme>
+  <programme start="20220216233000 +0000" stop="20220217010000 +0000" channel="DEPORTES LAT | DIRECTV SPORTS 2">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
   </programme>
   <programme start="20220215010000 -0800" stop="20220215013000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40266,19 +40754,68 @@
     <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
     <desc lang="en">From State Farm Arena in Atlanta.</desc>
   </programme>
-  <programme start="20220214193000 -0800" stop="20220214220000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Detroit Pistons at Washington Wizards</sub-title>
-    <desc lang="en">From Capital One Arena in Washington, D.C.</desc>
-  </programme>
-  <programme start="20220214220000 -0800" stop="20220214223000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+  <programme start="20220216013000 -0800" stop="20220216020000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214223000 -0800" stop="20220215010000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216043000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Detroit Pistons at Washington Wizards</sub-title>
-    <desc lang="en">From Capital One Arena in Washington, D.C.</desc>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216043000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216050000 -0800" stop="20220216073000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216073000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216103000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216103000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216133000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216133000 -0800" stop="20220216160000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216160000 -0800" stop="20220216183000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Atlanta Hawks at Orlando Magic</sub-title>
+    <desc lang="en">From Amway Center in Orlando, Fla.(n)</desc>
+  </programme>
+  <programme start="20220216183000 -0800" stop="20220216193000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216193000 -0800" stop="20220216220000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Atlanta Hawks at Orlando Magic</sub-title>
+    <desc lang="en">From Amway Center in Orlando, Fla.(n)</desc>
+  </programme>
+  <programme start="20220216220000 -0800" stop="20220216223000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216223000 -0800" stop="20220217010000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Atlanta Hawks at Orlando Magic</sub-title>
+    <desc lang="en">From Amway Center in Orlando, Fla.(n)</desc>
   </programme>
   <programme start="20220215010000 -0800" stop="20220215013000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40343,23 +40880,63 @@
     <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
     <desc lang="en">From State Farm Arena in Atlanta.</desc>
   </programme>
-  <programme start="20220214190000 -0800" stop="20220214200000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+  <programme start="20220216013000 -0800" stop="20220216020000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214200000 -0800" stop="20220214223000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216043000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Sacramento Kings at Brooklyn Nets</sub-title>
-    <desc lang="en">From Barclays Center in Brooklyn, N.Y.</desc>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
   </programme>
-  <programme start="20220214223000 -0800" stop="20220214230000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+  <programme start="20220216043000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214230000 -0800" stop="20220215013000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+  <programme start="20220216050000 -0800" stop="20220216073000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Sacramento Kings at Brooklyn Nets</sub-title>
-    <desc lang="en">From Barclays Center in Brooklyn, N.Y.</desc>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216073000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216103000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216103000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216133000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Cleveland Cavaliers at Atlanta Hawks</sub-title>
+    <desc lang="en">From State Farm Arena in Atlanta.(n)</desc>
+  </programme>
+  <programme start="20220216133000 -0800" stop="20220216163000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216163000 -0800" stop="20220216190000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Detroit Pistons at Boston Celtics</sub-title>
+    <desc lang="en">From TD Garden in Boston.(n)</desc>
+  </programme>
+  <programme start="20220216190000 -0800" stop="20220216200000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216200000 -0800" stop="20220216223000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Detroit Pistons at Boston Celtics</sub-title>
+    <desc lang="en">From TD Garden in Boston.(n)</desc>
+  </programme>
+  <programme start="20220216223000 -0800" stop="20220217013000 -0800" channel="PPV-NBA League Pass 4 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
   <programme start="20220215013000 -0800" stop="20220215020000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40424,23 +41001,67 @@
     <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
     <desc lang="en">From FTX Arena in Miami.</desc>
   </programme>
-  <programme start="20220214190000 -0800" stop="20220214200000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+  <programme start="20220216013000 -0800" stop="20220216020000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214200000 -0800" stop="20220214223000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216043000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Sacramento Kings at Brooklyn Nets</sub-title>
-    <desc lang="en">From Barclays Center in Brooklyn, N.Y.</desc>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
   </programme>
-  <programme start="20220214223000 -0800" stop="20220214230000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+  <programme start="20220216043000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214230000 -0800" stop="20220215013000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+  <programme start="20220216050000 -0800" stop="20220216073000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Sacramento Kings at Brooklyn Nets</sub-title>
-    <desc lang="en">From Barclays Center in Brooklyn, N.Y.</desc>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
+  </programme>
+  <programme start="20220216073000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216103000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
+  </programme>
+  <programme start="20220216103000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216133000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
+  </programme>
+  <programme start="20220216133000 -0800" stop="20220216153000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216153000 -0800" stop="20220216163000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216163000 -0800" stop="20220216190000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Washington Wizards at Indiana Pacers</sub-title>
+    <desc lang="en">From Gainbridge Fieldhouse in Indianapolis.(n)</desc>
+  </programme>
+  <programme start="20220216190000 -0800" stop="20220216200000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216200000 -0800" stop="20220216223000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Washington Wizards at Indiana Pacers</sub-title>
+    <desc lang="en">From Gainbridge Fieldhouse in Indianapolis.(n)</desc>
+  </programme>
+  <programme start="20220216223000 -0800" stop="20220217013000 -0800" channel="PPV-NBA League Pass 5 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
   <programme start="20220215013000 -0800" stop="20220215020000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40505,18 +41126,68 @@
     <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
     <desc lang="en">From FTX Arena in Miami.</desc>
   </programme>
-  <programme start="20220214190000 -0800" stop="20220214210000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+  <programme start="20220216013000 -0800" stop="20220216020000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214210000 -0800" stop="20220214233000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216043000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Oklahoma City Thunder at New York Knicks</sub-title>
-    <desc lang="en">From Madison Square Garden in New York.</desc>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
   </programme>
-  <programme start="20220214233000 -0800" stop="20220215000000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+  <programme start="20220216043000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216050000 -0800" stop="20220216073000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
+  </programme>
+  <programme start="20220216073000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216103000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
+  </programme>
+  <programme start="20220216103000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216133000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Dallas Mavericks at Miami Heat</sub-title>
+    <desc lang="en">From FTX Arena in Miami.(n)</desc>
+  </programme>
+  <programme start="20220216133000 -0800" stop="20220216170000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216170000 -0800" stop="20220216193000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Sacramento Kings at Chicago Bulls</sub-title>
+    <desc lang="en">From the United Center in Chicago.(n)</desc>
+  </programme>
+  <programme start="20220216193000 -0800" stop="20220216203000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216203000 -0800" stop="20220216230000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Sacramento Kings at Chicago Bulls</sub-title>
+    <desc lang="en">From the United Center in Chicago.(n)</desc>
+  </programme>
+  <programme start="20220216230000 -0800" stop="20220216233000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216233000 -0800" stop="20220217020000 -0800" channel="PPV-NBA League Pass 6 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Sacramento Kings at Chicago Bulls</sub-title>
+    <desc lang="en">From the United Center in Chicago.(n)</desc>
   </programme>
   <programme start="20220215000000 -0800" stop="20220215023000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
     <title lang="en">NBA Basketball</title>
@@ -40585,23 +41256,63 @@
     <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
     <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
   </programme>
-  <programme start="20220214190000 -0800" stop="20220214200000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216023000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214200000 -0800" stop="20220214223000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+  <programme start="20220216023000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Oklahoma City Thunder at New York Knicks</sub-title>
-    <desc lang="en">From Madison Square Garden in New York.</desc>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
   </programme>
-  <programme start="20220214223000 -0800" stop="20220214230000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+  <programme start="20220216050000 -0800" stop="20220216053000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214230000 -0800" stop="20220215013000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+  <programme start="20220216053000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Oklahoma City Thunder at New York Knicks</sub-title>
-    <desc lang="en">From Madison Square Garden in New York.</desc>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216083000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216083000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216113000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216113000 -0800" stop="20220216140000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
+  </programme>
+  <programme start="20220216140000 -0800" stop="20220216170000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216170000 -0800" stop="20220216193000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Portland Trail Blazers at Memphis Grizzlies</sub-title>
+    <desc lang="en">From the FedEx Forum in Memphis, Tenn.(n)</desc>
+  </programme>
+  <programme start="20220216193000 -0800" stop="20220216203000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216203000 -0800" stop="20220216230000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Portland Trail Blazers at Memphis Grizzlies</sub-title>
+    <desc lang="en">From the FedEx Forum in Memphis, Tenn.(n)</desc>
+  </programme>
+  <programme start="20220216230000 -0800" stop="20220217020000 -0800" channel="PPV-NBA League Pass 7 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
   <programme start="20220215013000 -0800" stop="20220215020000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40670,23 +41381,63 @@
     <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
     <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
   </programme>
-  <programme start="20220214193000 -0800" stop="20220214203000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216023000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214203000 -0800" stop="20220214230000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+  <programme start="20220216023000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Portland Trail Blazers at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
   </programme>
-  <programme start="20220214230000 -0800" stop="20220214233000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+  <programme start="20220216050000 -0800" stop="20220216053000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214233000 -0800" stop="20220215020000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+  <programme start="20220216053000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Portland Trail Blazers at Milwaukee Bucks</sub-title>
-    <desc lang="en">From Fiserv Forum in Milwaukee.</desc>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216083000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216083000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216113000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216113000 -0800" stop="20220216140000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Indiana Pacers at Milwaukee Bucks</sub-title>
+    <desc lang="en">From Fiserv Forum in Milwaukee.(n)</desc>
+  </programme>
+  <programme start="20220216140000 -0800" stop="20220216170000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216170000 -0800" stop="20220216193000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Toronto Raptors at Minnesota Timberwolves</sub-title>
+    <desc lang="en">The Raptors travel to challenge the Timberwolves. Toronto has won six of the last seven meetings after outscoring Minnesota 198-197 as the teams split a pair in 2020-21. Karl-Anthony Towns (MIN) averaged 19.5 points against Toronto last campaign.(n)</desc>
+  </programme>
+  <programme start="20220216193000 -0800" stop="20220216203000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216203000 -0800" stop="20220216230000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Toronto Raptors at Minnesota Timberwolves</sub-title>
+    <desc lang="en">The Raptors travel to challenge the Timberwolves. Toronto has won six of the last seven meetings after outscoring Minnesota 198-197 as the teams split a pair in 2020-21. Karl-Anthony Towns (MIN) averaged 19.5 points against Toronto last campaign.(n)</desc>
+  </programme>
+  <programme start="20220216230000 -0800" stop="20220217020000 -0800" channel="PPV-NBA League Pass 8 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
   <programme start="20220215020000 -0800" stop="20220215023000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40751,23 +41502,63 @@
     <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
     <desc lang="en">From the Target Center in Minneapolis.</desc>
   </programme>
-  <programme start="20220214193000 -0800" stop="20220214203000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216023000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214203000 -0800" stop="20220214230000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+  <programme start="20220216023000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Toronto Raptors at New Orleans Pelicans</sub-title>
-    <desc lang="en">CJ McCollum and the Pelicans continue a six-game homestand by hosting the red-hot Raptors. Toronto seeks a season sweep after dusting New Orleans 105-101 in Canada on Jan. 9. Pascal Siakam (TOR) posted 29 points and 10 rebounds in that triumph.</desc>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
   </programme>
-  <programme start="20220214230000 -0800" stop="20220214233000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+  <programme start="20220216050000 -0800" stop="20220216053000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214233000 -0800" stop="20220215020000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+  <programme start="20220216053000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Toronto Raptors at New Orleans Pelicans</sub-title>
-    <desc lang="en">CJ McCollum and the Pelicans continue a six-game homestand by hosting the red-hot Raptors. Toronto seeks a season sweep after dusting New Orleans 105-101 in Canada on Jan. 9. Pascal Siakam (TOR) posted 29 points and 10 rebounds in that triumph.</desc>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216083000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216083000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216113000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216113000 -0800" stop="20220216140000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216140000 -0800" stop="20220216170000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216170000 -0800" stop="20220216193000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">San Antonio Spurs at Oklahoma City Thunder</sub-title>
+    <desc lang="en">From Paycom Center in Oklahoma City.(n)</desc>
+  </programme>
+  <programme start="20220216193000 -0800" stop="20220216203000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216203000 -0800" stop="20220216230000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">San Antonio Spurs at Oklahoma City Thunder</sub-title>
+    <desc lang="en">From Paycom Center in Oklahoma City.(n)</desc>
+  </programme>
+  <programme start="20220216230000 -0800" stop="20220217020000 -0800" channel="PPV-NBA League Pass 9 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
   <programme start="20220215020000 -0800" stop="20220215023000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40832,19 +41623,59 @@
     <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
     <desc lang="en">From the Target Center in Minneapolis.</desc>
   </programme>
-  <programme start="20220214180000 -0800" stop="20220214203000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Orlando Magic at Denver Nuggets</sub-title>
-    <desc lang="en">From Ball Arena in Denver.</desc>
-  </programme>
-  <programme start="20220214203000 -0800" stop="20220214213000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216023000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214213000 -0800" stop="20220215000000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+  <programme start="20220216023000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Orlando Magic at Denver Nuggets</sub-title>
-    <desc lang="en">From Ball Arena in Denver.</desc>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216050000 -0800" stop="20220216053000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216053000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216083000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216083000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216113000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216113000 -0800" stop="20220216140000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Charlotte Hornets at Minnesota Timberwolves</sub-title>
+    <desc lang="en">From the Target Center in Minneapolis.(n)</desc>
+  </programme>
+  <programme start="20220216140000 -0800" stop="20220216180000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216180000 -0800" stop="20220216203000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Houston Rockets at Phoenix Suns</sub-title>
+    <desc lang="en">From Footprint Center in Phoenix.(n)</desc>
+  </programme>
+  <programme start="20220216203000 -0800" stop="20220216213000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216213000 -0800" stop="20220217000000 -0800" channel="PPV-NBA League Pass 10 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Houston Rockets at Phoenix Suns</sub-title>
+    <desc lang="en">From Footprint Center in Phoenix.(n)</desc>
   </programme>
   <programme start="20220215000000 -0800" stop="20220215003000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40909,18 +41740,63 @@
     <sub-title lang="en">Memphis Grizzlies at New Orleans Pelicans</sub-title>
     <desc lang="en">From Smoothie King Center in New Orleans.</desc>
   </programme>
-  <programme start="20220214180000 -0800" stop="20220214203000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+  <programme start="20220216020000 -0800" stop="20220216023000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216023000 -0800" stop="20220216050000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
     <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Houston Rockets at Utah Jazz</sub-title>
-    <desc lang="en">From Vivint Smart Home Arena in Salt Lake City.</desc>
+    <sub-title lang="en">Memphis Grizzlies at New Orleans Pelicans</sub-title>
+    <desc lang="en">From Smoothie King Center in New Orleans.(n)</desc>
   </programme>
-  <programme start="20220214203000 -0800" stop="20220214220000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+  <programme start="20220216050000 -0800" stop="20220216053000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
-  <programme start="20220214220000 -0800" stop="20220215010000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+  <programme start="20220216053000 -0800" stop="20220216080000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Memphis Grizzlies at New Orleans Pelicans</sub-title>
+    <desc lang="en">From Smoothie King Center in New Orleans.(n)</desc>
+  </programme>
+  <programme start="20220216080000 -0800" stop="20220216083000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
     <title lang="en">NBA League Pass</title>
-    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216083000 -0800" stop="20220216110000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Memphis Grizzlies at New Orleans Pelicans</sub-title>
+    <desc lang="en">From Smoothie King Center in New Orleans.(n)</desc>
+  </programme>
+  <programme start="20220216110000 -0800" stop="20220216113000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216113000 -0800" stop="20220216140000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Memphis Grizzlies at New Orleans Pelicans</sub-title>
+    <desc lang="en">From Smoothie King Center in New Orleans.(n)</desc>
+  </programme>
+  <programme start="20220216140000 -0800" stop="20220216183000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216183000 -0800" stop="20220216190000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216190000 -0800" stop="20220216213000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Denver Nuggets at Golden State Warriors</sub-title>
+    <desc lang="en">From Chase Center in San Francisco.(n)</desc>
+  </programme>
+  <programme start="20220216213000 -0800" stop="20220216223000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216223000 -0800" stop="20220217010000 -0800" channel="PPV-NBA League Pass 11 (PM)(720)">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Denver Nuggets at Golden State Warriors</sub-title>
+    <desc lang="en">From Chase Center in San Francisco.(n)</desc>
   </programme>
   <programme start="20220215010000 -0800" stop="20220215040000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
     <title lang="en">NBA League Pass</title>
@@ -40954,5 +41830,33 @@
   <programme start="20220215223000 -0800" stop="20220216013000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
     <title lang="en">NBA League Pass</title>
     <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!</desc>
+  </programme>
+  <programme start="20220216013000 -0800" stop="20220216043000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216043000 -0800" stop="20220216073000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216073000 -0800" stop="20220216103000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216103000 -0800" stop="20220216133000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216133000 -0800" stop="20220216183000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216183000 -0800" stop="20220216213000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
+  </programme>
+  <programme start="20220216213000 -0800" stop="20220217010000 -0800" channel="PPV-NBA League Pass 12 (PM)(720)">
+    <title lang="en">NBA League Pass</title>
+    <desc lang="en">Catch NBA Basketball action with League Pass. See the teams, the players and the match-ups you want to watch - LIVE!(n)</desc>
   </programme>
 </tv>
