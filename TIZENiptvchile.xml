@@ -656,7 +656,7 @@
   </channel>
   <channel id="ENT | TRU TV *">
     <display-name lang="es">ENT | TRU TV *</display-name>
-    <url>http://www.reportv.com.ar</url>
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="ENT | COMEDY CENTRAL  (P)">
     <display-name lang="es">ENT | COMEDY CENTRAL  (P)</display-name>
@@ -684,10 +684,30 @@
     <display-name lang="es">ENT | PASIONES HD Lat</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ENT | Tlenovelas SD">
+    <display-name lang="es">ENT | Tlenovelas SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="ENT | El Gourmet FHD">
     <display-name lang="es">ENT | El Gourmet FHD</display-name>
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/elgourmet.jpg" />
     <url>http://www.zappingtv.com</url>
+  </channel>
+  <channel id="ENT | LIFETIME">
+    <display-name lang="es">ENT | LIFETIME</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="LAT | UNIVISION NEW YORK HD">
+    <display-name lang="es">LAT | UNIVISION NEW YORK HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ENTRE - MAS CHIC">
+    <display-name lang="es">ENTRE - MAS CHIC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Univision Tlenovelas">
+    <display-name lang="es">Univision Tlenovelas</display-name>
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="PPV-NBA League Pass 3 (PM)(720)">
     <display-name lang="en">PPV-NBA League Pass 3 (PM)(720)</display-name>
@@ -1063,7 +1083,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216060000 -0300" stop="20220216073500 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216060000 -0300" stop="20220216073800 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Un Hombre entre Sombras</title>
     <desc lang="es">Un detective (Steven Seagal) de Los Ángeles relaciona los homicidios de un asesino en serie con un magnate (Bob Gunton) que está eliminando a sus socios de negocios. Un detective (Steven Seagal) de Los Ángeles relaciona los homicidios de un asesino en serie con un magnate (Bob Gunton) que está eliminando a sus socios de negocios.</desc>
     <credits>
@@ -1082,7 +1102,23 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20220216073500 -0300" stop="20220216092600 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216073800 -0300" stop="20220216082800 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+    <title lang="es">Mil colmillos</title>
+    <desc lang="es">El perímetro está rodeado por los guerreros de Matías y los comandos se preparan para un ataque. Con la mitad del equipo luchando para mantener a raya al enemigo, Rojas y otros buscan un escape. El perímetro está rodeado por los guerreros de Matías y los comandos se preparan para un ataque. Con la mitad del equipo luchando para mantener a raya al enemigo, Rojas y otros buscan un escape.</desc>
+    <credits>
+      <actor>Carlos Marino</actor>
+      <actor>Alejandro Buitrago</actor>
+      <actor>Jarlín Martinez</actor>
+      <actor>Sebastián Carvajal</actor>
+      <producer>Federico Durán</producer>
+    </credits>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p17637741_b_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220216082800 -0300" stop="20220216102300 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Daño colateral</title>
     <desc lang="es">Un bombero de Los Ángeles pierde a toda su familia a manos de un grupo terrorista. Convencido de que no habrá justicia para los culpables, viaja a la selva colombiana para vengarse personalmente. Un bombero de Los Ángeles pierde a toda su familia a manos de un grupo terrorista. Convencido de que no habrá justicia para los culpables, viaja a la selva colombiana para vengarse personalmente.</desc>
     <credits>
@@ -1103,7 +1139,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216092600 -0300" stop="20220216113100 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216102300 -0300" stop="20220216123000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Día de entrenamiento</title>
     <desc lang="es">Un corrupto oficial usa la fanfarronería, intimidación y drogas para que un nuevo policía se vuelva uno de los suyos. Un corrupto oficial usa la fanfarronería, intimidación y drogas para que un nuevo policía se vuelva uno de los suyos.</desc>
     <credits>
@@ -1125,7 +1161,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20220216113100 -0300" stop="20220216132900 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216123000 -0300" stop="20220216143000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Adiós</title>
     <desc lang="es">La muerte de la hija de Juan, un presidiario, destapa un caso de corrupción. Mientras él busca hacer justicia en las calles, la inspectora Eli tratará de que los culpables paguen y el padre enloquecido no cometa una locura. La muerte de la hija de Juan, un presidiario, destapa un caso de corrupción. Mientras él busca hacer justicia en las calles, la inspectora Eli tratará de que los culpables paguen y el padre enloquecido no cometa una locura.</desc>
     <credits>
@@ -1140,7 +1176,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216132900 -0300" stop="20220216150900 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216143000 -0300" stop="20220216161000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Mátalos suavemente</title>
     <desc lang="es">Dos exconvictos poco brillantes son contratados para asaltar una lucrativa partida ilegal de póquer. Por desgracia, el dinero robado pertenece a la mafia, que llama a Jackie Cogan para encontrar a los culpables. Dos exconvictos poco brillantes son contratados para asaltar una lucrativa partida ilegal de póquer. Por desgracia, el dinero robado pertenece a la mafia, que llama a Jackie Cogan para encontrar a los culpables.</desc>
     <credits>
@@ -1161,7 +1197,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216150900 -0300" stop="20220216164200 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216161000 -0300" stop="20220216174200 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Only God Forgives</title>
     <desc lang="es">En Tailandia, un policía desquiciado sigue a un narcotraficante que está en una misión para vengar la muerte de su hermano. En Tailandia, un policía desquiciado sigue a un narcotraficante que está en una misión para vengar la muerte de su hermano.</desc>
     <credits>
@@ -1180,7 +1216,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216164200 -0300" stop="20220216184000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216174200 -0300" stop="20220216194000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">The Imitation Game</title>
     <desc lang="es">Durante la Segunda Guerra Mundial, el genio inglés Alan Turing intenta descifrar el código alemán enigma con la ayuda de otros matemáticos. Durante la Segunda Guerra Mundial, el genio inglés Alan Turing intenta descifrar el código alemán enigma con la ayuda de otros matemáticos.</desc>
     <credits>
@@ -1200,7 +1236,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216184000 -0300" stop="20220216210000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
+  <programme start="20220216194000 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Inquebrantable</title>
     <desc lang="es">Durante la Segunda Guerra Mundial, el olímpico y héroe de guerra Louis Zamperini sobrevive 47 días en el mar en una balsa, solo para ser capturado por la armada japonesa y ser enviado a un campo de prisioneros. Durante la Segunda Guerra Mundial, el olímpico y héroe de guerra Louis Zamperini sobrevive 47 días en el mar en una balsa, solo para ser capturado por la armada japonesa y ser enviado a un campo de prisioneros.</desc>
     <credits>
@@ -1224,13 +1260,6 @@
     <rating>
       <value>14+</value>
     </rating>
-  </programme>
-  <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
-    <title lang="es">Película</title>
-    <desc lang="es">Lo mejor del arte cinematográfico mundial. Lo mejor del arte cinematográfico mundial.</desc>
-    <date>2006</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://milhouse.zapping.live/assets/p809737_i_h8_ad.jpg" />
   </programme>
   <programme start="20220216220000 -0300" stop="20220216225000 -0300" channel="CINE PREMIUM | HBO XTREME SD">
     <title lang="es">Mil colmillos</title>
@@ -1718,9 +1747,9 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220215202000 -0300" stop="20220215205100 -0300" channel="CINE PREMIUM | HBO Signature SD">
+  <programme start="20220215202000 -0300" stop="20220215205000 -0300" channel="CINE PREMIUM | HBO Signature SD">
     <title lang="es">Silicon Valley</title>
-    <desc lang="es">Mientras considera la oferta de Gavin, Richard conoce a Russ Hannerman, un millonario frívolo que quiere financiar Pied Piper, aparentemente sin ningún interés oculto. Monica intenta evitar que Richard acepte las sugerencias de Russ. Mientras considera la oferta de Gavin, Richard conoce a Russ Hannerman, un millonario frívolo que quiere financiar Pied Piper, aparentemente sin ningún interés oculto. Monica intenta evitar que Richard acepte las sugerencias de Russ.</desc>
+    <desc lang="es">Mientras considera la oferta de Gavin, Richard conoce a Russ Hannerman, un millonario frívolo que quiere financiar Pied Piper, aparentemente sin ningún interés oculto. Monica intenta evitar que Richard acepte las sugerencias de Russ. Mientras considera la oferta de Gavin, Richard conoce a Russ Hannerman, un millonario frívolo que quiere financiar Pied Piper, aparentemente sin ningún interés oculto. Monica intenta evitar que Richard acepte las sugerencias de Russ.(c)</desc>
     <credits>
       <actor>Thomas Middleditch</actor>
       <actor>Zach Woods</actor>
@@ -1741,9 +1770,9 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220215205100 -0300" stop="20220215212300 -0300" channel="CINE PREMIUM | HBO Signature SD">
+  <programme start="20220215205000 -0300" stop="20220215212300 -0300" channel="CINE PREMIUM | HBO Signature SD">
     <title lang="es">Silicon Valley</title>
-    <desc lang="es">Richard y Erlich discuten. Dinesh y Gilfoyle sospechan de una nueva empleada. Big Head es ascendido en su trabajo. Richard y Erlich discuten. Dinesh y Gilfoyle sospechan de una nueva empleada. Big Head es ascendido en su trabajo.</desc>
+    <desc lang="es">Richard y Erlich discuten. Dinesh y Gilfoyle sospechan de una nueva empleada. Big Head es ascendido en su trabajo. Richard y Erlich discuten. Dinesh y Gilfoyle sospechan de una nueva empleada. Big Head es ascendido en su trabajo.(c)</desc>
     <credits>
       <actor>Thomas Middleditch</actor>
       <actor>Zach Woods</actor>
@@ -4131,10 +4160,9 @@
     </rating>
   </programme>
   <programme start="20220215210000 -0300" stop="20220215220000 -0300" channel="CINE PREMIUM | HBO 2 SD">
-    <title lang="es">The Gilded Age</title>
-    <desc lang="es">Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha. Un joven vástago de una familia conservadora se embarca en una misión para infiltrarse en el clan vecino, dominado por el despiadado magnate ferroviario George Russell, su libertino hijo, Larry, y su ambiciosa esposa, Bertha.</desc>
+    <title lang="es">La edad dorada</title>
+    <desc lang="es">A raíz de una tragedia, George accede a ayudar a Bertha. Una visita tiene un impacto duradero en el personal de la casa Russell. A raíz de una tragedia, George accede a ayudar a Bertha. Una visita tiene un impacto duradero en el personal de la casa Russell.</desc>
     <credits>
-      <director>Julian Fellowes</director>
       <actor>Christine Baranski</actor>
       <actor>Carrie Coon</actor>
       <actor>Denée Benton</actor>
@@ -4143,11 +4171,11 @@
       <actor>Thomas Cocquerel</actor>
       <producer>Julian Fellowes</producer>
       <producer>Michael Engler</producer>
-      <producer>David Crockett</producer>
+      <producer>Gareth Neame</producer>
     </credits>
     <date>2022</date>
     <category lang="es">Drama Histórico</category>
-    <icon src="https://milhouse.zapping.live/assets/p15123309_b_h8_ag.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p21042536_e_h10_ac.jpg" />
     <rating>
       <value>16+</value>
     </rating>
@@ -8830,7 +8858,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216054800 -0300" stop="20220216072000 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216054800 -0300" stop="20220216060000 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
     <date>1993</date>
@@ -8840,7 +8868,47 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216072000 -0300" stop="20220216074800 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216060000 -0300" stop="20220216063400 -0300" channel="CINE PREMIUM | TCM SD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216063400 -0300" stop="20220216071300 -0300" channel="CINE PREMIUM | TCM SD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216071300 -0300" stop="20220216072200 -0300" channel="CINE PREMIUM | TCM SD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216072200 -0300" stop="20220216073200 -0300" channel="CINE PREMIUM | TCM SD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216073200 -0300" stop="20220216075600 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie. Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie.</desc>
     <credits>
@@ -8859,7 +8927,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216074800 -0300" stop="20220216081400 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216075600 -0300" stop="20220216081900 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia.</desc>
     <credits>
@@ -8883,7 +8951,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216081400 -0300" stop="20220216084000 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216081900 -0300" stop="20220216085000 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia.</desc>
     <credits>
@@ -8905,7 +8973,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216084000 -0300" stop="20220216090800 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216085000 -0300" stop="20220216091600 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro. Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro.</desc>
     <credits>
@@ -8925,7 +8993,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216090800 -0300" stop="20220216100300 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216091600 -0300" stop="20220216101000 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles. El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles.</desc>
     <credits>
@@ -8942,7 +9010,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216100300 -0300" stop="20220216105800 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216101000 -0300" stop="20220216110300 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas. Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas.</desc>
     <credits>
@@ -8964,7 +9032,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216105800 -0300" stop="20220216115300 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216110300 -0300" stop="20220216115600 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">La apuesta de que Hutch puede evitar a Starsky para todo un fin de semana se convierte en una búsqueda mortal cuando se entera que Hutch ha contraído y tiene 48 horas para vivir. La apuesta de que Hutch puede evitar a Starsky para todo un fin de semana se convierte en una búsqueda mortal cuando se entera que Hutch ha contraído y tiene 48 horas para vivir.</desc>
     <credits>
@@ -8986,7 +9054,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216115300 -0300" stop="20220216124900 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216115600 -0300" stop="20220216125000 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Cuando una de sus imágenes revela la identidad de un asesino, un amigo fotógrafo de Starsky es buscado tanto por los buenos como por los malos. Cuando una de sus imágenes revela la identidad de un asesino, un amigo fotógrafo de Starsky es buscado tanto por los buenos como por los malos.</desc>
     <credits>
@@ -9008,7 +9076,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216124900 -0300" stop="20220216131200 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216125000 -0300" stop="20220216131600 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe. Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe.</desc>
     <credits>
@@ -9028,7 +9096,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216131200 -0300" stop="20220216133600 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216131600 -0300" stop="20220216134200 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento. Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento.</desc>
     <credits>
@@ -9045,7 +9113,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216133600 -0300" stop="20220216140400 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216134200 -0300" stop="20220216140700 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie. Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie.</desc>
     <credits>
@@ -9064,7 +9132,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216140400 -0300" stop="20220216143200 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216140700 -0300" stop="20220216143100 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia.</desc>
     <credits>
@@ -9088,7 +9156,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216143200 -0300" stop="20220216150000 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216143100 -0300" stop="20220216150100 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia.</desc>
     <credits>
@@ -9110,7 +9178,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216150000 -0300" stop="20220216152800 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216150100 -0300" stop="20220216152800 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Mad About You</title>
     <desc lang="es">Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro. Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro.</desc>
     <credits>
@@ -9130,7 +9198,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216152800 -0300" stop="20220216155400 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216152800 -0300" stop="20220216155200 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe. Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe.</desc>
     <credits>
@@ -9150,7 +9218,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216155400 -0300" stop="20220216162000 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216155200 -0300" stop="20220216161700 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento. Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento.</desc>
     <credits>
@@ -9167,7 +9235,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216162000 -0300" stop="20220216180600 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216161700 -0300" stop="20220216180600 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Sombrero de copa</title>
     <desc lang="es">Música de Irving Berlin enmarca este relato de una mujer que cree erróneamente que el bailarín que la corteja es casado. Música de Irving Berlin enmarca este relato de una mujer que cree erróneamente que el bailarín que la corteja es casado.</desc>
     <credits>
@@ -9183,7 +9251,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216180600 -0300" stop="20220216201000 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216180600 -0300" stop="20220216201100 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">La rueda de la fortuna</title>
     <desc lang="es">En San Luis, Missouri, la familia de un abogado se queda en la ciudad para asistir a la feria mundial de 1904. En San Luis, Missouri, la familia de un abogado se queda en la ciudad para asistir a la feria mundial de 1904.</desc>
     <credits>
@@ -9201,7 +9269,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216201000 -0300" stop="20220216210500 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216201100 -0300" stop="20220216210600 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles. El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles.</desc>
     <credits>
@@ -9218,7 +9286,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216210500 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | TCM SD">
+  <programme start="20220216210600 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | TCM SD">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas. Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas.</desc>
     <credits>
@@ -14791,7 +14859,13 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216110000 -0300" stop="20220216115200 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216110000 -0300" stop="20220216110100 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220216110100 -0300" stop="20220216123200 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">Alvin y las ardillas: Aventura sobre ruedas</title>
     <desc lang="es">A raíz de una serie de malos entendidos, Alvin, Simón y Teodoro llegan a creer que Dave le va a proponer matrimonio a su nueva novia en Miami y los va a abandonar. Los tres se embarcan en un viaje para evitar que esto suceda. A raíz de una serie de malos entendidos, Alvin, Simón y Teodoro llegan a creer que Dave le va a proponer matrimonio a su nueva novia en Miami y los va a abandonar. Los tres se embarcan en un viaje para evitar que esto suceda.</desc>
     <credits>
@@ -14814,7 +14888,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216115200 -0300" stop="20220216132700 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216123200 -0300" stop="20220216140200 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">El regalo prometido 2</title>
     <desc lang="es">Dos hombres se enfrentan por conseguir el juguete de moda de las Navidades y regalárselo a un niño. Se trata del padre y del padrastro del muchacho. Dos hombres se enfrentan por conseguir el juguete de moda de las Navidades y regalárselo a un niño. Se trata del padre y del padrastro del muchacho.</desc>
     <credits>
@@ -14834,7 +14908,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216132700 -0300" stop="20220216152500 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216140200 -0300" stop="20220216155200 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">Votos de amor</title>
     <desc lang="es">Después de que su esposa despierta de un estado de coma con amnesia, un hombre intenta hacer que recupere su memoria y recuperar su relación. Después de que su esposa despierta de un estado de coma con amnesia, un hombre intenta hacer que recupere su memoria y recuperar su relación.</desc>
     <credits>
@@ -14857,7 +14931,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216152500 -0300" stop="20220216174500 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216155200 -0300" stop="20220216175900 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">Loco por Mary</title>
     <desc lang="es">Un hombre emplea a un detective privado de mala fama para espiar a la mujer de la que ha estado enamorado desde la escuela. Un hombre emplea a un detective privado de mala fama para espiar a la mujer de la que ha estado enamorado desde la escuela.</desc>
     <credits>
@@ -14878,7 +14952,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216174500 -0300" stop="20220216195700 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216175900 -0300" stop="20220216200400 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">Baywatch: Guardianes de la bahía</title>
     <desc lang="es">Dos socorristas, el veterano Mitch Buchannon y el joven y arrogante Matt Brody, deben detener a unos criminales que amenazan el futuro de la bahía en la que trabajan. Mientras colaboran aprenderán a respetarse mutuamente, algo no siempre sencillo. Dos socorristas, el veterano Mitch Buchannon y el joven y arrogante Matt Brody, deben detener a unos criminales que amenazan el futuro de la bahía en la que trabajan. Mientras colaboran aprenderán a respetarse mutuamente, algo no siempre sencillo.</desc>
     <credits>
@@ -14900,7 +14974,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216195700 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216200400 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">Encuentro explosivo</title>
     <desc lang="es">Una mujer se ve atrapada en una aventura mortal e internacional cuando se convierte en la renuente compañera de un espía fugitivo. Una mujer se ve atrapada en una aventura mortal e internacional cuando se convierte en la renuente compañera de un espía fugitivo.</desc>
     <credits>
@@ -14924,7 +14998,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216220000 -0300" stop="20220216234500 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
+  <programme start="20220216220000 -0300" stop="20220216234100 -0300" channel="CINE PREMIUM | Cinecanal FHD  (P)">
     <title lang="es">Hancock</title>
     <desc lang="es">Un superhéroe bastante impopular protege a los ciudadanos de Los Ángeles, pero provoca grandes daños colaterales después de cada acto heroico que realiza. Un superhéroe bastante impopular protege a los ciudadanos de Los Ángeles, pero provoca grandes daños colaterales después de cada acto heroico que realiza.</desc>
     <credits>
@@ -17696,7 +17770,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216103000 -0300" stop="20220216105600 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+  <programme start="20220216103000 -0300" stop="20220216110000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
@@ -17706,26 +17780,29 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216105600 -0300" stop="20220216123400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
-    <title lang="es">Superstar</title>
-    <desc lang="es">Mary Gallagher, estudiante de colegio católico, sueña con ganar un concurso de talento y besar a un futbolista famoso. Mary Gallagher, estudiante de colegio católico, sueña con ganar un concurso de talento y besar a un futbolista famoso.</desc>
-    <credits>
-      <actor>Molly Shannon</actor>
-      <actor>Elaine Hendrix</actor>
-      <actor>Mark McKinney</actor>
-      <actor>Emmy Laybourne</actor>
-      <producer>Robert Weiss</producer>
-      <producer>Susan Cavan</producer>
-      <producer>Lorne Michaels</producer>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://milhouse.zapping.live/assets/p23952_i_h10_ab.jpg" />
+  <programme start="20220216110000 -0300" stop="20220216111600 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
     <rating>
-      <value>14+</value>
+      <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216123400 -0300" stop="20220216143400 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+  <programme start="20220216111600 -0300" stop="20220216113700 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220216113700 -0300" stop="20220216115000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220216115000 -0300" stop="20220216135500 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
     <title lang="es">Congo</title>
     <desc lang="es">Un gorila que puede comunicarse con humanos figura en una expedición para buscar una ciudad perdida. Un gorila que puede comunicarse con humanos figura en una expedición para buscar una ciudad perdida.</desc>
     <credits>
@@ -17743,7 +17820,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216143400 -0300" stop="20220216165600 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+  <programme start="20220216135500 -0300" stop="20220216162900 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
     <title lang="es">Rob Roy: La pasión de un rebelde</title>
     <desc lang="es">Un escocés del siglo XVIII jura recuperar su honor y el de su familia, luego de haberse visto forzado a ser un fugitivo. Un escocés del siglo XVIII jura recuperar su honor y el de su familia, luego de haberse visto forzado a ser un fugitivo.</desc>
     <credits>
@@ -17762,7 +17839,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216165600 -0300" stop="20220216185600 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+  <programme start="20220216162900 -0300" stop="20220216184100 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
     <title lang="es">Un vuelco del corazón</title>
     <desc lang="es">Una viuda ignora que su nuevo novio es parcialmente responsable por la muerte de su esposo, en un accidente aéreo. Una viuda ignora que su nuevo novio es parcialmente responsable por la muerte de su esposo, en un accidente aéreo.</desc>
     <credits>
@@ -17780,7 +17857,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216185600 -0300" stop="20220216210200 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+  <programme start="20220216184100 -0300" stop="20220216205800 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
     <title lang="es">La cena de los tontos</title>
     <desc lang="es">Una serie de desventuras cómicas suceden cuando un próspero ejecutivo lleva a un torpe recaudador fiscal a una reunión mensual organizada por su jefe. Una serie de desventuras cómicas suceden cuando un próspero ejecutivo lleva a un torpe recaudador fiscal a una reunión mensual organizada por su jefe.</desc>
     <credits>
@@ -17803,7 +17880,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216210200 -0300" stop="20220216230000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
+  <programme start="20220216205800 -0300" stop="20220216230000 -0300" channel="CINE PREMIUM | FXM FHD  (p)">
     <title lang="es">El planeta de los simios: (R)evolución</title>
     <desc lang="es">La búsqueda de una cura para la enfermedad de Alzheimer por parte de un científico tiene resultados inesperados: un chimpancé superinteligente, lo que podría provocar el fin del dominio de los humanos sobre la Tierra. La búsqueda de una cura para la enfermedad de Alzheimer por parte de un científico tiene resultados inesperados: un chimpancé superinteligente, lo que podría provocar el fin del dominio de los humanos sobre la Tierra.</desc>
     <credits>
@@ -21421,7 +21498,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216054800 -0300" stop="20220216072000 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216054800 -0300" stop="20220216060000 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
     <date>1993</date>
@@ -21431,7 +21508,47 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216072000 -0300" stop="20220216074800 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216060000 -0300" stop="20220216063400 -0300" channel="CINE PREMIUM | TCM (Y)">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216063400 -0300" stop="20220216071300 -0300" channel="CINE PREMIUM | TCM (Y)">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216071300 -0300" stop="20220216072200 -0300" channel="CINE PREMIUM | TCM (Y)">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216072200 -0300" stop="20220216073200 -0300" channel="CINE PREMIUM | TCM (Y)">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con celebridades. Entrevistas con celebridades.</desc>
+    <date>1993</date>
+    <category lang="es">Charla</category>
+    <icon src="https://milhouse.zapping.live/assets/p402156_b_h10_ad.jpg" />
+    <rating>
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20220216073200 -0300" stop="20220216075600 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie. Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie.</desc>
     <credits>
@@ -21450,7 +21567,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216074800 -0300" stop="20220216081400 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216075600 -0300" stop="20220216081900 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia.</desc>
     <credits>
@@ -21474,7 +21591,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216081400 -0300" stop="20220216084000 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216081900 -0300" stop="20220216085000 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia.</desc>
     <credits>
@@ -21496,7 +21613,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216084000 -0300" stop="20220216090800 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216085000 -0300" stop="20220216091600 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro. Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro.</desc>
     <credits>
@@ -21516,7 +21633,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216090800 -0300" stop="20220216100300 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216091600 -0300" stop="20220216101000 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles. El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles.</desc>
     <credits>
@@ -21533,7 +21650,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216100300 -0300" stop="20220216105800 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216101000 -0300" stop="20220216110300 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas. Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas.</desc>
     <credits>
@@ -21555,7 +21672,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216105800 -0300" stop="20220216115300 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216110300 -0300" stop="20220216115600 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">La apuesta de que Hutch puede evitar a Starsky para todo un fin de semana se convierte en una búsqueda mortal cuando se entera que Hutch ha contraído y tiene 48 horas para vivir. La apuesta de que Hutch puede evitar a Starsky para todo un fin de semana se convierte en una búsqueda mortal cuando se entera que Hutch ha contraído y tiene 48 horas para vivir.</desc>
     <credits>
@@ -21577,7 +21694,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216115300 -0300" stop="20220216124900 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216115600 -0300" stop="20220216125000 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Cuando una de sus imágenes revela la identidad de un asesino, un amigo fotógrafo de Starsky es buscado tanto por los buenos como por los malos. Cuando una de sus imágenes revela la identidad de un asesino, un amigo fotógrafo de Starsky es buscado tanto por los buenos como por los malos.</desc>
     <credits>
@@ -21599,7 +21716,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216124900 -0300" stop="20220216131200 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216125000 -0300" stop="20220216131600 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe. Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe.</desc>
     <credits>
@@ -21619,7 +21736,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216131200 -0300" stop="20220216133600 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216131600 -0300" stop="20220216134200 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento. Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento.</desc>
     <credits>
@@ -21636,7 +21753,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216133600 -0300" stop="20220216140400 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216134200 -0300" stop="20220216140700 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie. Paul yJamie se enteran de que podrían ser primos lejanos; Sylvia tiene un repentino cambio de opinión acerca de su nuera Jamie.</desc>
     <credits>
@@ -21655,7 +21772,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216140400 -0300" stop="20220216143200 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216140700 -0300" stop="20220216143100 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza el pasado de su singular familia.</desc>
     <credits>
@@ -21679,7 +21796,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216143200 -0300" stop="20220216150000 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216143100 -0300" stop="20220216150100 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia. Mabel (Janeane Garofalo) realiza un filme en el que analiza a su singular familia.</desc>
     <credits>
@@ -21701,7 +21818,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216150000 -0300" stop="20220216152800 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216150100 -0300" stop="20220216152800 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Mad About You</title>
     <desc lang="es">Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro. Los Buchman enfrentan una crisis matrimonial cuando ellos confían uno en el otro.</desc>
     <credits>
@@ -21721,7 +21838,7 @@
       <value>10+</value>
     </rating>
   </programme>
-  <programme start="20220216152800 -0300" stop="20220216155400 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216152800 -0300" stop="20220216155200 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe. Mientras intenta descubrir si su novia tiene un desorden alimenticio, George averigua el nombre de Kramer. Elaine trata de recuperar su raqueta de tenis. Jerry empieza a salir con una mujer que no se ríe.</desc>
     <credits>
@@ -21741,7 +21858,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216155400 -0300" stop="20220216162000 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216155200 -0300" stop="20220216161700 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Seinfeld</title>
     <desc lang="es">Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento. Jerry le regala entradas para el Super Bowl a un amigo porque no puede asistir, pero sospecha del regalo que recibe luego como agradecimiento.</desc>
     <credits>
@@ -21758,7 +21875,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216162000 -0300" stop="20220216180600 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216161700 -0300" stop="20220216180600 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Sombrero de copa</title>
     <desc lang="es">Música de Irving Berlin enmarca este relato de una mujer que cree erróneamente que el bailarín que la corteja es casado. Música de Irving Berlin enmarca este relato de una mujer que cree erróneamente que el bailarín que la corteja es casado.</desc>
     <credits>
@@ -21774,7 +21891,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216180600 -0300" stop="20220216201000 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216180600 -0300" stop="20220216201100 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">La rueda de la fortuna</title>
     <desc lang="es">En San Luis, Missouri, la familia de un abogado se queda en la ciudad para asistir a la feria mundial de 1904. En San Luis, Missouri, la familia de un abogado se queda en la ciudad para asistir a la feria mundial de 1904.</desc>
     <credits>
@@ -21792,7 +21909,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216201000 -0300" stop="20220216210500 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216201100 -0300" stop="20220216210600 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles. El avispado de la calle, el detective David Starsky hace equipo con su compañero quien es más intelectual, Kenneth "Hutch" Hutchinson, con el fin de proteger a los ciudadanos de Bay City y vigilar sus calles.</desc>
     <credits>
@@ -21809,7 +21926,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216210500 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | TCM (Y)">
+  <programme start="20220216210600 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | TCM (Y)">
     <title lang="es">Starsky y Hutch</title>
     <desc lang="es">Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas. Starsky y Hutch se infiltran en la escena "disco" para investigar la desaparición misteriosa de un grupo de chicas bonitas.</desc>
     <credits>
@@ -27194,7 +27311,13 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216110000 -0300" stop="20220216115200 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216110000 -0300" stop="20220216110100 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Segmento especial de programación. Segmento especial de programación.</desc>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220216110100 -0300" stop="20220216123200 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">Alvin y las ardillas: Aventura sobre ruedas</title>
     <desc lang="es">A raíz de una serie de malos entendidos, Alvin, Simón y Teodoro llegan a creer que Dave le va a proponer matrimonio a su nueva novia en Miami y los va a abandonar. Los tres se embarcan en un viaje para evitar que esto suceda. A raíz de una serie de malos entendidos, Alvin, Simón y Teodoro llegan a creer que Dave le va a proponer matrimonio a su nueva novia en Miami y los va a abandonar. Los tres se embarcan en un viaje para evitar que esto suceda.</desc>
     <credits>
@@ -27217,7 +27340,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216115200 -0300" stop="20220216132700 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216123200 -0300" stop="20220216140200 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">El regalo prometido 2</title>
     <desc lang="es">Dos hombres se enfrentan por conseguir el juguete de moda de las Navidades y regalárselo a un niño. Se trata del padre y del padrastro del muchacho. Dos hombres se enfrentan por conseguir el juguete de moda de las Navidades y regalárselo a un niño. Se trata del padre y del padrastro del muchacho.</desc>
     <credits>
@@ -27237,7 +27360,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220216132700 -0300" stop="20220216152500 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216140200 -0300" stop="20220216155200 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">Votos de amor</title>
     <desc lang="es">Después de que su esposa despierta de un estado de coma con amnesia, un hombre intenta hacer que recupere su memoria y recuperar su relación. Después de que su esposa despierta de un estado de coma con amnesia, un hombre intenta hacer que recupere su memoria y recuperar su relación.</desc>
     <credits>
@@ -27260,7 +27383,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216152500 -0300" stop="20220216174500 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216155200 -0300" stop="20220216175900 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">Loco por Mary</title>
     <desc lang="es">Un hombre emplea a un detective privado de mala fama para espiar a la mujer de la que ha estado enamorado desde la escuela. Un hombre emplea a un detective privado de mala fama para espiar a la mujer de la que ha estado enamorado desde la escuela.</desc>
     <credits>
@@ -27281,7 +27404,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216174500 -0300" stop="20220216195700 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216175900 -0300" stop="20220216200400 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">Baywatch: Guardianes de la bahía</title>
     <desc lang="es">Dos socorristas, el veterano Mitch Buchannon y el joven y arrogante Matt Brody, deben detener a unos criminales que amenazan el futuro de la bahía en la que trabajan. Mientras colaboran aprenderán a respetarse mutuamente, algo no siempre sencillo. Dos socorristas, el veterano Mitch Buchannon y el joven y arrogante Matt Brody, deben detener a unos criminales que amenazan el futuro de la bahía en la que trabajan. Mientras colaboran aprenderán a respetarse mutuamente, algo no siempre sencillo.</desc>
     <credits>
@@ -27303,7 +27426,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216195700 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216200400 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">Encuentro explosivo</title>
     <desc lang="es">Una mujer se ve atrapada en una aventura mortal e internacional cuando se convierte en la renuente compañera de un espía fugitivo. Una mujer se ve atrapada en una aventura mortal e internacional cuando se convierte en la renuente compañera de un espía fugitivo.</desc>
     <credits>
@@ -27327,7 +27450,7 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme start="20220216220000 -0300" stop="20220216234500 -0300" channel="CINE PREMIUM | Cinecanal HD *">
+  <programme start="20220216220000 -0300" stop="20220216234100 -0300" channel="CINE PREMIUM | Cinecanal HD *">
     <title lang="es">Hancock</title>
     <desc lang="es">Un superhéroe bastante impopular protege a los ciudadanos de Los Ángeles, pero provoca grandes daños colaterales después de cada acto heroico que realiza. Un superhéroe bastante impopular protege a los ciudadanos de Los Ángeles, pero provoca grandes daños colaterales después de cada acto heroico que realiza.</desc>
     <credits>
@@ -30663,7 +30786,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216060000 -0300" stop="20220216073500 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216060000 -0300" stop="20220216073800 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Un Hombre entre Sombras</title>
     <desc lang="es">Un detective (Steven Seagal) de Los Ángeles relaciona los homicidios de un asesino en serie con un magnate (Bob Gunton) que está eliminando a sus socios de negocios. Un detective (Steven Seagal) de Los Ángeles relaciona los homicidios de un asesino en serie con un magnate (Bob Gunton) que está eliminando a sus socios de negocios.</desc>
     <credits>
@@ -30682,7 +30805,23 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20220216073500 -0300" stop="20220216092600 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216073800 -0300" stop="20220216082800 -0300" channel="CINE PREMIUM | HBO XTREME">
+    <title lang="es">Mil colmillos</title>
+    <desc lang="es">El perímetro está rodeado por los guerreros de Matías y los comandos se preparan para un ataque. Con la mitad del equipo luchando para mantener a raya al enemigo, Rojas y otros buscan un escape. El perímetro está rodeado por los guerreros de Matías y los comandos se preparan para un ataque. Con la mitad del equipo luchando para mantener a raya al enemigo, Rojas y otros buscan un escape.</desc>
+    <credits>
+      <actor>Carlos Marino</actor>
+      <actor>Alejandro Buitrago</actor>
+      <actor>Jarlín Martinez</actor>
+      <actor>Sebastián Carvajal</actor>
+      <producer>Federico Durán</producer>
+    </credits>
+    <category lang="es">Novela de Suspenso</category>
+    <icon src="https://milhouse.zapping.live/assets/p17637741_b_h8_aa.jpg" />
+    <rating>
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20220216082800 -0300" stop="20220216102300 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Daño colateral</title>
     <desc lang="es">Un bombero de Los Ángeles pierde a toda su familia a manos de un grupo terrorista. Convencido de que no habrá justicia para los culpables, viaja a la selva colombiana para vengarse personalmente. Un bombero de Los Ángeles pierde a toda su familia a manos de un grupo terrorista. Convencido de que no habrá justicia para los culpables, viaja a la selva colombiana para vengarse personalmente.</desc>
     <credits>
@@ -30703,7 +30842,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216092600 -0300" stop="20220216113100 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216102300 -0300" stop="20220216123000 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Día de entrenamiento</title>
     <desc lang="es">Un corrupto oficial usa la fanfarronería, intimidación y drogas para que un nuevo policía se vuelva uno de los suyos. Un corrupto oficial usa la fanfarronería, intimidación y drogas para que un nuevo policía se vuelva uno de los suyos.</desc>
     <credits>
@@ -30725,7 +30864,7 @@
       <value>18+</value>
     </rating>
   </programme>
-  <programme start="20220216113100 -0300" stop="20220216132900 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216123000 -0300" stop="20220216143000 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Adiós</title>
     <desc lang="es">La muerte de la hija de Juan, un presidiario, destapa un caso de corrupción. Mientras él busca hacer justicia en las calles, la inspectora Eli tratará de que los culpables paguen y el padre enloquecido no cometa una locura. La muerte de la hija de Juan, un presidiario, destapa un caso de corrupción. Mientras él busca hacer justicia en las calles, la inspectora Eli tratará de que los culpables paguen y el padre enloquecido no cometa una locura.</desc>
     <credits>
@@ -30740,7 +30879,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216132900 -0300" stop="20220216150900 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216143000 -0300" stop="20220216161000 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Mátalos suavemente</title>
     <desc lang="es">Dos exconvictos poco brillantes son contratados para asaltar una lucrativa partida ilegal de póquer. Por desgracia, el dinero robado pertenece a la mafia, que llama a Jackie Cogan para encontrar a los culpables. Dos exconvictos poco brillantes son contratados para asaltar una lucrativa partida ilegal de póquer. Por desgracia, el dinero robado pertenece a la mafia, que llama a Jackie Cogan para encontrar a los culpables.</desc>
     <credits>
@@ -30761,7 +30900,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216150900 -0300" stop="20220216164200 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216161000 -0300" stop="20220216174200 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Only God Forgives</title>
     <desc lang="es">En Tailandia, un policía desquiciado sigue a un narcotraficante que está en una misión para vengar la muerte de su hermano. En Tailandia, un policía desquiciado sigue a un narcotraficante que está en una misión para vengar la muerte de su hermano.</desc>
     <credits>
@@ -30780,7 +30919,7 @@
       <value>16+</value>
     </rating>
   </programme>
-  <programme start="20220216164200 -0300" stop="20220216184000 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216174200 -0300" stop="20220216194000 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">The Imitation Game</title>
     <desc lang="es">Durante la Segunda Guerra Mundial, el genio inglés Alan Turing intenta descifrar el código alemán enigma con la ayuda de otros matemáticos. Durante la Segunda Guerra Mundial, el genio inglés Alan Turing intenta descifrar el código alemán enigma con la ayuda de otros matemáticos.</desc>
     <credits>
@@ -30800,7 +30939,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220216184000 -0300" stop="20220216210000 -0300" channel="CINE PREMIUM | HBO XTREME">
+  <programme start="20220216194000 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Inquebrantable</title>
     <desc lang="es">Durante la Segunda Guerra Mundial, el olímpico y héroe de guerra Louis Zamperini sobrevive 47 días en el mar en una balsa, solo para ser capturado por la armada japonesa y ser enviado a un campo de prisioneros. Durante la Segunda Guerra Mundial, el olímpico y héroe de guerra Louis Zamperini sobrevive 47 días en el mar en una balsa, solo para ser capturado por la armada japonesa y ser enviado a un campo de prisioneros.</desc>
     <credits>
@@ -30824,13 +30963,6 @@
     <rating>
       <value>14+</value>
     </rating>
-  </programme>
-  <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="CINE PREMIUM | HBO XTREME">
-    <title lang="es">Película</title>
-    <desc lang="es">Lo mejor del arte cinematográfico mundial. Lo mejor del arte cinematográfico mundial.</desc>
-    <date>2006</date>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://milhouse.zapping.live/assets/p809737_i_h8_ad.jpg" />
   </programme>
   <programme start="20220216220000 -0300" stop="20220216225000 -0300" channel="CINE PREMIUM | HBO XTREME">
     <title lang="es">Mil colmillos</title>
@@ -33588,6 +33720,9 @@
     <title lang="es">Real Madrid TV</title>
   </programme>
   <programme start="20220216150000 -0300" stop="20220216190000 -0300" channel="DEPORTES EUR | REAL MADRID HD">
+    <title lang="es">Real Madrid TV</title>
+  </programme>
+  <programme start="20220216190000 -0300" stop="20220216230000 -0300" channel="DEPORTES EUR | REAL MADRID HD">
     <title lang="es">Real Madrid TV</title>
   </programme>
   <programme start="20220215000000 -0300" stop="20220215020000 -0300" channel="DEPORTES EUR | BEIN SPORTS Ñ">
@@ -37129,6 +37264,9 @@
   <programme start="20220217185000 -0300" stop="20220217194000 -0300" channel="DEPORT EUR | ADRENALINA SPORTS NETWORK">
     <title lang="es">Ruano vs. Beltrán Repetición</title>
   </programme>
+  <programme start="20220217194000 -0300" stop="20220217213500 -0300" channel="DEPORT EUR | ADRENALINA SPORTS NETWORK">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
   <programme start="20220215004000 -0300" stop="20220215023000 -0300" channel="DEPORTES EUR | MOVISTAR LALIGA HD (1)">
     <title lang="es">Espanyol-Barcelona</title>
   </programme>
@@ -40056,6 +40194,9 @@
   <programme start="20220216170000 -0300" stop="20220216190000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Santos vs. C.F Montreal</title>
   </programme>
+  <programme start="20220216190000 -0300" stop="20220216200000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
+    <title lang="es">Fox Sports Radio</title>
+  </programme>
   <programme start="20220216200000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (L)">
     <title lang="es">Guastatoya vs. León En Vivo</title>
   </programme>
@@ -40293,6 +40434,9 @@
   </programme>
   <programme start="20220216170000 -0300" stop="20220216190000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Santos vs. C.F Montreal</title>
+  </programme>
+  <programme start="20220216190000 -0300" stop="20220216200000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
+    <title lang="es">Fox Sports Radio</title>
   </programme>
   <programme start="20220216200000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | FOX SPORTS 1 HD MX (E)">
     <title lang="es">Guastatoya vs. León En Vivo</title>
@@ -40610,6 +40754,9 @@
   <programme start="20220216170000 -0300" stop="20220216190000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
     <title lang="es">ABB Fia Fórmula E 2022</title>
   </programme>
+  <programme start="20220216190000 -0300" stop="20220216200000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
+    <title lang="es">WTCR 2021</title>
+  </programme>
   <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 HD MX (e)">
     <title lang="es">Fórmula 1 2021</title>
   </programme>
@@ -40762,6 +40909,9 @@
   </programme>
   <programme start="20220216170000 -0300" stop="20220216190000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
     <title lang="es">ABB Fia Fórmula E 2022</title>
+  </programme>
+  <programme start="20220216190000 -0300" stop="20220216200000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
+    <title lang="es">WTCR 2021</title>
   </programme>
   <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | FOX SPORTS 3 FHD MX">
     <title lang="es">Fórmula 1 2021</title>
@@ -44339,7 +44489,7 @@
   </programme>
   <programme start="20220215190000 -0300" stop="20220215210000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">Equipo F</title>
-    <desc lang="es">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! Se analizará todo lo que pasó el fin de semana.(c)</desc>
+    <desc lang="es">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! Se analizará todo lo que pasó el fin de semana.</desc>
     <credits>
       <actor>Sebastián Vignolo</actor>
       <actor>Mariano Closs</actor>
@@ -44357,7 +44507,7 @@
   </programme>
   <programme start="20220215210000 -0300" stop="20220215212000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -44366,7 +44516,7 @@
   <programme start="20220215212000 -0300" stop="20220215232500 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">Copa Liga Profesional 2022</title>
     <sub-title lang="es">S.0 - 2022-Ep.Huracán vs. Estudiantes LP, Zona 2-Fecha 2, Estadio Tomás Adolfo Ducó</sub-title>
-    <desc lang="es">Será la tercera edición de esta competición organizada por la Liga Profesional de Fútbol. Se disputará en dos fases; la primera, será conformada por dos zonas de 14 conjuntos cada una; cada club jugará 13 partidos y un interzonal, que en su mayoría serán clásicos. Clasificarán a los cuartos de final los 4 primeros de cada zona y se enfrentarán en partido único.(c)</desc>
+    <desc lang="es">Será la tercera edición de esta competición organizada por la Liga Profesional de Fútbol. Se disputará en dos fases; la primera, será conformada por dos zonas de 14 conjuntos cada una; cada club jugará 13 partidos y un interzonal, que en su mayoría serán clásicos. Clasificarán a los cuartos de final los 4 primeros de cada zona y se enfrentarán en partido único.</desc>
     <date>2022</date>
     <category lang="es">Fútbol
  Transmisión:</category>
@@ -44375,7 +44525,7 @@
   </programme>
   <programme start="20220215232500 -0300" stop="20220216003000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">ESPN F10</title>
-    <desc lang="es">Todos los compactos de los partidos de la fecha, el mejor entendimiento del juego y, por supuesto, el análisis de todas las polémicas que se presenten.(c)</desc>
+    <desc lang="es">Todos los compactos de los partidos de la fecha, el mejor entendimiento del juego y, por supuesto, el análisis de todas las polémicas que se presenten.</desc>
     <credits>
       <actor>Gustavo López</actor>
       <actor>Leonardo Astrada</actor>
@@ -44389,7 +44539,7 @@
   </programme>
   <programme start="20220216003000 -0300" stop="20220216013000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -44397,7 +44547,7 @@
   </programme>
   <programme start="20220216013000 -0300" stop="20220216023000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -44405,7 +44555,7 @@
   </programme>
   <programme start="20220216023000 -0300" stop="20220216033000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -44413,7 +44563,7 @@
   </programme>
   <programme start="20220216033000 -0300" stop="20220216043000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -44421,7 +44571,7 @@
   </programme>
   <programme start="20220216043000 -0300" stop="20220216050000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">ESPN Run</title>
-    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.(c)</desc>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.</desc>
     <date>2000</date>
     <category lang="es">Atletismo
  Transmisión:</category>
@@ -44429,7 +44579,7 @@
   </programme>
   <programme start="20220216050000 -0300" stop="20220216053000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">ESPN W</title>
-    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos más importantes a los que asisten, compartiendo un punto de vista único sobre las noticias deportivas que más preocupan a estos personajes.(c)</desc>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos más importantes a los que asisten, compartiendo un punto de vista único sobre las noticias deportivas que más preocupan a estos personajes.</desc>
     <date>2009</date>
     <category lang="es">Deportivo
  Transmisión:</category>
@@ -44438,7 +44588,7 @@
   </programme>
   <programme start="20220216053000 -0300" stop="20220216060000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">Goles de la UEFA Champions League</title>
-    <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.(c)</desc>
+    <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
     <date>2000</date>
     <category lang="es">Fútbol
  Transmisión:</category>
@@ -44462,7 +44612,7 @@
   </programme>
   <programme start="20220216080000 -0300" stop="20220216120000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -44470,7 +44620,7 @@
   </programme>
   <programme start="20220216120000 -0300" stop="20220216130000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">ESPN F12</title>
-    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.(c)</desc>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
     <credits>
       <actor>Mariano Closs</actor>
       <actor>Luciana Rubinska</actor>
@@ -44488,7 +44638,7 @@
   </programme>
   <programme start="20220216130000 -0300" stop="20220216150000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">ESPN F90 - Primera edición</title>
-    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.(c)</desc>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.</desc>
     <credits>
       <actor>Sebastián Vignolo</actor>
       <actor>Oscar Ruggeri</actor>
@@ -44507,7 +44657,7 @@
   </programme>
   <programme start="20220216150000 -0300" stop="20220216163000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">ESPN F360</title>
-    <desc lang="es">Lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Además, el valioso aporte de los corresponsales en Europa con el anticipo y el seguimiento necesario a los protagonistas más destacados. Un recorrido global por el mundo deportivo, con la conducción de Gustavo López y un equipo periodístico de primer nivel.(c)</desc>
+    <desc lang="es">Lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Además, el valioso aporte de los corresponsales en Europa con el anticipo y el seguimiento necesario a los protagonistas más destacados. Un recorrido global por el mundo deportivo, con la conducción de Gustavo López y un equipo periodístico de primer nivel.</desc>
     <credits>
       <actor>Gustavo López</actor>
       <actor>Guillermo Poggi</actor>
@@ -44527,7 +44677,7 @@
   <programme start="20220216163000 -0300" stop="20220216185500 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">UEFA Champions League</title>
     <sub-title lang="es">S.0 - 2021-2022-Ep.Inter (Ita) vs. Liverpool (Ing), Octavos de final - ida, Stadio San Siro</sub-title>
-    <desc lang="es">Es la 67ma edición de la máxima competición por equipos en Europa. La final se jugará en el Estadio Krestovsky de San Petersburgo, Rusia.(c)</desc>
+    <desc lang="es">Es la 67ma edición de la máxima competición por equipos en Europa. La final se jugará en el Estadio Krestovsky de San Petersburgo, Rusia.</desc>
     <date>2021</date>
     <category lang="es">Fútbol
  Transmisión:</category>
@@ -44535,7 +44685,7 @@
   </programme>
   <programme start="20220216185500 -0300" stop="20220216210000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">Equipo F</title>
-    <desc lang="es">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! Se analizará todo lo que pasó el fin de semana.(c)</desc>
+    <desc lang="es">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! Se analizará todo lo que pasó el fin de semana.</desc>
     <credits>
       <actor>Sebastián Vignolo</actor>
       <actor>Mariano Closs</actor>
@@ -44553,7 +44703,7 @@
   </programme>
   <programme start="20220216210000 -0300" stop="20220216220000 -0300" channel="DEPORTES LAT | ESPN 1 HD AR">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.(c)</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Noticiero
  Transmisión:</category>
@@ -48329,6 +48479,267 @@
       <value>Todo Público</value>
     </rating>
   </programme>
+  <programme start="20220215004000 -0300" stop="20220215012500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215012500 -0300" stop="20220215021000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215021000 -0300" stop="20220215025500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215025500 -0300" stop="20220215032000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20220215032000 -0300" stop="20220215034000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20220215034000 -0300" stop="20220215040500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220215040500 -0300" stop="20220215042500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220215042500 -0300" stop="20220215045000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20220215045000 -0300" stop="20220215051500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20220215051500 -0300" stop="20220215054000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20220215054000 -0300" stop="20220215060000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto Carbonaro Especiales</title>
+  </programme>
+  <programme start="20220215060000 -0300" stop="20220215062500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215062500 -0300" stop="20220215065000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215065000 -0300" stop="20220215071000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215071000 -0300" stop="20220215073500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220215073500 -0300" stop="20220215075500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220215075500 -0300" stop="20220215082000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20220215082000 -0300" stop="20220215084000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20220215084000 -0300" stop="20220215092500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215092500 -0300" stop="20220215101000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215101000 -0300" stop="20220215105500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215105500 -0300" stop="20220215114000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215114000 -0300" stop="20220215120500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220215120500 -0300" stop="20220215122500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220215122500 -0300" stop="20220215125000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20220215125000 -0300" stop="20220215131500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20220215131500 -0300" stop="20220215134000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20220215134000 -0300" stop="20220215140000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto Carbonaro Especiales</title>
+  </programme>
+  <programme start="20220215140000 -0300" stop="20220215142500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215142500 -0300" stop="20220215145000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215145000 -0300" stop="20220215151000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215151000 -0300" stop="20220215155500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215155500 -0300" stop="20220215164000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215164000 -0300" stop="20220215172500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215172500 -0300" stop="20220215181000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220215181000 -0300" stop="20220215183500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220215183500 -0300" stop="20220215185500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220215185500 -0300" stop="20220215192000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20220215192000 -0300" stop="20220215194000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20220215194000 -0300" stop="20220215200500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220215200500 -0300" stop="20220215202500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220215202500 -0300" stop="20220215205000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20220215205000 -0300" stop="20220215211500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20220215211500 -0300" stop="20220215214000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20220215214000 -0300" stop="20220215220000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto Carbonaro Especiales</title>
+  </programme>
+  <programme start="20220215220000 -0300" stop="20220215222500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215222500 -0300" stop="20220215225000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215225000 -0300" stop="20220215231000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Impractical Jokers</title>
+    <desc lang="es">Un reality show con cámaras escondidas donde cuatro comediantes se ayudan entre sí para hacer bromas mientras a otras personas mientras son filmados a escondidas.(n)</desc>
+    <credits>
+      <actor>Joe Gatto</actor>
+      <actor>James Murray</actor>
+      <actor>Sal Vulcano</actor>
+      <actor>Brian Quinn</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Reality Show</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/impractical_jokers.jpg" />
+  </programme>
+  <programme start="20220215231000 -0300" stop="20220215233500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220215233500 -0300" stop="20220215235500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220215235500 -0300" stop="20220216004000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20220216131500 -0300" stop="20220216134000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto Carbonaro Especiales</title>
+  </programme>
+  <programme start="20220216194000 -0300" stop="20220216200500 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Guerra de containers</title>
+  </programme>
+  <programme start="20220216211500 -0300" stop="20220216214000 -0300" channel="ENT | TRU TV *">
+    <title lang="es">Efecto Carbonaro Especiales</title>
+  </programme>
   <programme start="20220215011500 -0300" stop="20220215014000 -0300" channel="ENT | COMEDY CENTRAL  (P)">
     <title lang="es">Vecinos</title>
     <episode-num system="onscreen">E613</episode-num>
@@ -49856,6 +50267,12 @@
   <programme start="20220216180000 -0300" stop="20220216183000 -0300" channel="ENT | HOLA TV HD">
     <title lang="es">¡HOLA! TV Fashion</title>
   </programme>
+  <programme start="20220216190000 -0300" stop="20220216193000 -0300" channel="ENT | HOLA TV HD">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220216193000 -0300" stop="20220216200000 -0300" channel="ENT | HOLA TV HD">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
   <programme start="20220216203000 -0300" stop="20220216210000 -0300" channel="ENT | HOLA TV HD">
     <title lang="es">Vídeo Fashion - Specials</title>
   </programme>
@@ -49945,6 +50362,72 @@
   </programme>
   <programme start="20220216180000 -0300" stop="20220216190000 -0300" channel="ENT | PASIONES HD Lat">
     <title lang="es">Te amé una vez</title>
+  </programme>
+  <programme start="20220216190000 -0300" stop="20220216200000 -0300" channel="ENT | PASIONES HD Lat">
+    <title lang="es">La reina del flow</title>
+  </programme>
+  <programme start="20220215004000 -0300" stop="20220215012500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Niña Amada Mía</title>
+  </programme>
+  <programme start="20220215012500 -0300" stop="20220215030500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Cañaveral de pasiones</title>
+  </programme>
+  <programme start="20220215030500 -0300" stop="20220215035500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220215035500 -0300" stop="20220215053500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Un gancho al corazón</title>
+  </programme>
+  <programme start="20220215053500 -0300" stop="20220215063500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Lo Mejor de el show de las TLN</title>
+  </programme>
+  <programme start="20220215063500 -0300" stop="20220215072500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Caer en Tentación</title>
+  </programme>
+  <programme start="20220215072500 -0300" stop="20220215081000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Niña Amada Mía</title>
+  </programme>
+  <programme start="20220215081000 -0300" stop="20220215090000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215104000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">La fea más bella</title>
+  </programme>
+  <programme start="20220215104000 -0300" stop="20220215122000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Un gancho al corazón</title>
+  </programme>
+  <programme start="20220215122000 -0300" stop="20220215140000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Cañaveral de pasiones</title>
+  </programme>
+  <programme start="20220215140000 -0300" stop="20220215154000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Triunfo del Amor</title>
+  </programme>
+  <programme start="20220215154000 -0300" stop="20220215163000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Caer en Tentación</title>
+  </programme>
+  <programme start="20220215163000 -0300" stop="20220215171500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Niña Amada Mía</title>
+  </programme>
+  <programme start="20220215171500 -0300" stop="20220215185000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Llena de amor</title>
+  </programme>
+  <programme start="20220215185000 -0300" stop="20220215194000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">El Bienamado</title>
+  </programme>
+  <programme start="20220215194000 -0300" stop="20220215203000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">La fea más bella</title>
+  </programme>
+  <programme start="20220215203000 -0300" stop="20220215221000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Un gancho al corazón</title>
+  </programme>
+  <programme start="20220215221000 -0300" stop="20220215235000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">Triunfo del Amor</title>
+  </programme>
+  <programme start="20220216053500 -0300" stop="20220216063500 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">L5 Mejores</title>
+  </programme>
+  <programme start="20220216194000 -0300" stop="20220216203000 -0300" channel="ENT | Tlenovelas SD">
+    <title lang="es">La fea más bella</title>
   </programme>
   <programme start="20220215183000 -0300" stop="20220215190000 -0300" channel="ENT | El Gourmet FHD">
     <title lang="es">Los sándwiches de Romo</title>
@@ -50490,6 +50973,657 @@
     <date>2018</date>
     <category lang="es">Cocina</category>
     <icon src="https://milhouse.zapping.live/assets/p15533823_e_h10_aa.jpg" />
+  </programme>
+  <programme start="20220215010000 -0300" stop="20220215020000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220215020000 -0300" stop="20220215033500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Cita de pesadilla</title>
+  </programme>
+  <programme start="20220215033500 -0300" stop="20220215043500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220215043500 -0300" stop="20220215061000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20220215061000 -0300" stop="20220215072000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Amor y prejuicio Australia</title>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20220215072000 -0300" stop="20220215081000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres Atl</title>
+    <episode-num system="onscreen">E69</episode-num>
+  </programme>
+  <programme start="20220215081000 -0300" stop="20220215090000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Dance moms</title>
+    <episode-num system="onscreen">S5 E110</episode-num>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215100000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Crisis de los siete años</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220215100000 -0300" stop="20220215110500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220215110500 -0300" stop="20220215113500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres</title>
+    <episode-num system="onscreen">E80</episode-num>
+  </programme>
+  <programme start="20220215113500 -0300" stop="20220215123500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Project Runway</title>
+    <episode-num system="onscreen">S17 E1704</episode-num>
+  </programme>
+  <programme start="20220215123500 -0300" stop="20220215133000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Bring it</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220215133000 -0300" stop="20220215142000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Dance moms</title>
+    <episode-num system="onscreen">S5 E111</episode-num>
+  </programme>
+  <programme start="20220215142000 -0300" stop="20220215152500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220215152500 -0300" stop="20220215170500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20220215170500 -0300" stop="20220215181500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Amor y prejuicio Australia</title>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20220215181500 -0300" stop="20220215190500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres Atl</title>
+    <episode-num system="onscreen">E70</episode-num>
+  </programme>
+  <programme start="20220215190500 -0300" stop="20220215204000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Presunta muerte en el paraíso</title>
+  </programme>
+  <programme start="20220215204000 -0300" stop="20220215214500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20220215214500 -0300" stop="20220215232000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Secuestrada bajo tierra</title>
+  </programme>
+  <programme start="20220215232000 -0300" stop="20220216010000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Un asesino entre nosotros</title>
+  </programme>
+  <programme start="20220216232000 -0300" stop="20220217010000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Un asesino entre nosotros</title>
+  </programme>
+  <programme start="20220217010000 -0300" stop="20220217020000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+  </programme>
+  <programme start="20220217020000 -0300" stop="20220217034000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Cazadora de infieles</title>
+  </programme>
+  <programme start="20220217034000 -0300" stop="20220217044000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+  </programme>
+  <programme start="20220217044000 -0300" stop="20220217062000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Secuestrada bajo tierra</title>
+  </programme>
+  <programme start="20220217062000 -0300" stop="20220217073000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Amor y prejuicio Australia</title>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20220217073000 -0300" stop="20220217083000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres Atl</title>
+    <episode-num system="onscreen">E70</episode-num>
+  </programme>
+  <programme start="20220217083000 -0300" stop="20220217090000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres</title>
+    <episode-num system="onscreen">E81</episode-num>
+  </programme>
+  <programme start="20220217090000 -0300" stop="20220217100000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Crisis de los siete años</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220217100000 -0300" stop="20220217110500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+  </programme>
+  <programme start="20220217110500 -0300" stop="20220217120500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Project Runway</title>
+    <episode-num system="onscreen">S17 E1705</episode-num>
+  </programme>
+  <programme start="20220217120500 -0300" stop="20220217130000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Bring it</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220217130000 -0300" stop="20220217140500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+  </programme>
+  <programme start="20220217140500 -0300" stop="20220217154500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Presunta muerte en el paraíso</title>
+  </programme>
+  <programme start="20220217154500 -0300" stop="20220217170000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Amor y prejuicio Australia</title>
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20220217170000 -0300" stop="20220217175500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Pequeñas grandes mujeres Atl</title>
+    <episode-num system="onscreen">E71</episode-num>
+  </programme>
+  <programme start="20220217175500 -0300" stop="20220217194000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">La hija equivocada</title>
+  </programme>
+  <programme start="20220217194000 -0300" stop="20220217204500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Morgana La detective genial</title>
+  </programme>
+  <programme start="20220217204500 -0300" stop="20220217230500 -0300" channel="ENT | LIFETIME">
+    <title lang="es">Mary Shelley</title>
+  </programme>
+  <programme start="20220217230500 -0300" stop="20220218010000 -0300" channel="ENT | LIFETIME">
+    <title lang="es">La espía</title>
+  </programme>
+  <programme start="20220215000500 -0300" stop="20220215010000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20220215010000 -0300" stop="20220215013000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20220215013000 -0300" stop="20220215020000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión - Edición nocturna</title>
+  </programme>
+  <programme start="20220215020000 -0300" stop="20220215030000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20220215030000 -0300" stop="20220215040000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">El gordo y la flaca</title>
+  </programme>
+  <programme start="20220215040000 -0300" stop="20220215050000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220215050000 -0300" stop="20220215053000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20220215053000 -0300" stop="20220215060000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión - Edición nocturna</title>
+  </programme>
+  <programme start="20220215060000 -0300" stop="20220215070000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20220215070000 -0300" stop="20220215080000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Lazos de amor</title>
+  </programme>
+  <programme start="20220215080000 -0300" stop="20220215090000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Teresa</title>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215130000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">¡Despierta América</title>
+  </programme>
+  <programme start="20220215130000 -0300" stop="20220215135500 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20220215135500 -0300" stop="20220215150000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Great Interior Design Challenge</title>
+  </programme>
+  <programme start="20220215150000 -0300" stop="20220215152500 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión - Edición digital</title>
+  </programme>
+  <programme start="20220215152500 -0300" stop="20220215161500 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Lazos de amor</title>
+  </programme>
+  <programme start="20220215161500 -0300" stop="20220215170500 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Teresa</title>
+  </programme>
+  <programme start="20220215170500 -0300" stop="20220215180000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Cukur</title>
+  </programme>
+  <programme start="20220215180000 -0300" stop="20220215190000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">El gordo y la flaca</title>
+  </programme>
+  <programme start="20220215190000 -0300" stop="20220215200000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220215200000 -0300" stop="20220215203000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión - Edición digital</title>
+  </programme>
+  <programme start="20220215203000 -0300" stop="20220215210000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20220215210000 -0300" stop="20220215221000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Great Interior Design Challenge</title>
+  </programme>
+  <programme start="20220215221000 -0300" stop="20220215230500 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Lazos de amor</title>
+  </programme>
+  <programme start="20220215230500 -0300" stop="20220216000500 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Teresa</title>
+  </programme>
+  <programme start="20220216190000 -0300" stop="20220216200000 -0300" channel="LAT | UNIVISION NEW YORK HD">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220215010000 -0300" stop="20220215013000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20220215013000 -0300" stop="20220215020000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Aprende a Maquillarte</title>
+    <episode-num system="onscreen">S5 E10</episode-num>
+  </programme>
+  <programme start="20220215020000 -0300" stop="20220215023000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20220215023000 -0300" stop="20220215030000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20220215030000 -0300" stop="20220215033000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Redecora con Raquel</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20220215033000 -0300" stop="20220215040000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">La recicladora de muebles</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220215040000 -0300" stop="20220215043000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220215043000 -0300" stop="20220215050000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decoración creativa</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20220215050000 -0300" stop="20220215053000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decora con flores</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220215053000 -0300" stop="20220215060000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">De compras en</title>
+    <episode-num system="onscreen">S8 E2</episode-num>
+  </programme>
+  <programme start="20220215060000 -0300" stop="20220215063000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Deco de autor</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220215063000 -0300" stop="20220215070000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme start="20220215070000 -0300" stop="20220215073000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Para cada ocasión</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220215073000 -0300" stop="20220215080000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Viste tu fiesta</title>
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  <programme start="20220215080000 -0300" stop="20220215083000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220215083000 -0300" stop="20220215090000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fiesta en casa</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215093000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Aprende a Maquillarte</title>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20220215093000 -0300" stop="20220215100000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20220215100000 -0300" stop="20220215103000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20220215103000 -0300" stop="20220215110000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">La recicladora de muebles</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220215110000 -0300" stop="20220215113000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decora con plantas</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220215113000 -0300" stop="20220215120000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fashion Week: Madrid 2021</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220215120000 -0300" stop="20220215123000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Básicos Deco</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220215123000 -0300" stop="20220215130000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20220215130000 -0300" stop="20220215133000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Para cada ocasión</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220215133000 -0300" stop="20220215140000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Viste tu Mesa</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220215140000 -0300" stop="20220215143000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20220215143000 -0300" stop="20220215150000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fiesta en casa</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220215150000 -0300" stop="20220215153000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Aprende a Maquillarte</title>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20220215153000 -0300" stop="20220215160000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20220215160000 -0300" stop="20220215163000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decora con plantas</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220215163000 -0300" stop="20220215170000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Equipo Deco</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220215170000 -0300" stop="20220215173000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20220215173000 -0300" stop="20220215180000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20220215180000 -0300" stop="20220215190000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Acacias 38</title>
+    <episode-num system="onscreen">S8 E510</episode-num>
+  </programme>
+  <programme start="20220215190000 -0300" stop="20220215193000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Remodela sin obra</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220215193000 -0300" stop="20220215200000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">La recicladora de muebles</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220215200000 -0300" stop="20220215203000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20220215203000 -0300" stop="20220215210000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fiesta en casa</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220215210000 -0300" stop="20220215213000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220215213000 -0300" stop="20220215220000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decoración creativa</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20220215220000 -0300" stop="20220215223000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fashion Week: Madrid 2021</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220215223000 -0300" stop="20220215230000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Para cada ocasión</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220215230000 -0300" stop="20220215233000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20220215233000 -0300" stop="20220216000000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Remodela sin obra</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220216000000 -0300" stop="20220216010000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Acacias 38</title>
+    <episode-num system="onscreen">S8 E510</episode-num>
+  </programme>
+  <programme start="20220216010000 -0300" stop="20220216013000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20220216013000 -0300" stop="20220216020000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Aprende a Maquillarte</title>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme start="20220216020000 -0300" stop="20220216023000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E11</episode-num>
+  </programme>
+  <programme start="20220216023000 -0300" stop="20220216030000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20220216030000 -0300" stop="20220216033000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Remodela sin obra</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220216033000 -0300" stop="20220216040000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">La recicladora de muebles</title>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20220216040000 -0300" stop="20220216043000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220216043000 -0300" stop="20220216050000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decoración creativa</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20220216050000 -0300" stop="20220216053000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decora con plantas</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20220216053000 -0300" stop="20220216060000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fashion Week: Madrid 2021</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20220216060000 -0300" stop="20220216063000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Básicos Deco</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20220216063000 -0300" stop="20220216070000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme start="20220216070000 -0300" stop="20220216073000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Para cada ocasión</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220216073000 -0300" stop="20220216080000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Viste tu Mesa</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20220216080000 -0300" stop="20220216083000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220216083000 -0300" stop="20220216090000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fiesta en casa</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220216090000 -0300" stop="20220216093000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Aprende a Maquillarte</title>
+    <episode-num system="onscreen">S5 E12</episode-num>
+  </programme>
+  <programme start="20220216093000 -0300" stop="20220216100000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme start="20220216100000 -0300" stop="20220216103000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20220216103000 -0300" stop="20220216110000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">La recicladora de muebles</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20220216110000 -0300" stop="20220216113000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decora con flores</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220216113000 -0300" stop="20220216120000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Look de fiesta Colombia</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20220216120000 -0300" stop="20220216123000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Deco de autor</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220216123000 -0300" stop="20220216130000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20220216130000 -0300" stop="20220216133000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Para cada ocasión</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220216133000 -0300" stop="20220216140000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Viste tu fiesta</title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  <programme start="20220216140000 -0300" stop="20220216143000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20220216143000 -0300" stop="20220216150000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fiesta en casa</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220216150000 -0300" stop="20220216153000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Aprende a Maquillarte</title>
+    <episode-num system="onscreen">S5 E12</episode-num>
+  </programme>
+  <programme start="20220216153000 -0300" stop="20220216160000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme start="20220216160000 -0300" stop="20220216163000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decora con flores</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20220216163000 -0300" stop="20220216170000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Deco de autor</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20220216170000 -0300" stop="20220216173000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20220216173000 -0300" stop="20220216180000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Mis hoteles favoritos</title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20220216180000 -0300" stop="20220216190000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Acacias 38</title>
+    <episode-num system="onscreen">S8 E511</episode-num>
+  </programme>
+  <programme start="20220216190000 -0300" stop="20220216193000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Redecora con Raquel</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20220216193000 -0300" stop="20220216200000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">La recicladora de muebles</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20220216200000 -0300" stop="20220216203000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Reciclarte</title>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme start="20220216203000 -0300" stop="20220216210000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Fiesta en casa</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220216210000 -0300" stop="20220216213000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Minipisos asombrosos</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20220216213000 -0300" stop="20220216220000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Decoración creativa</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20220216220000 -0300" stop="20220216223000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Look de fiesta Colombia</title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  <programme start="20220216223000 -0300" stop="20220216230000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Para cada ocasión</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20220216230000 -0300" stop="20220216233000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Customiza tu ropa</title>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20220216233000 -0300" stop="20220217000000 -0300" channel="ENTRE - MAS CHIC">
+    <title lang="es">Redecora con Raquel</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20220215004000 -0300" stop="20220215012500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Niña Amada Mía</title>
+  </programme>
+  <programme start="20220215012500 -0300" stop="20220215030500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Cañaveral de pasiones</title>
+  </programme>
+  <programme start="20220215030500 -0300" stop="20220215035500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220215035500 -0300" stop="20220215053500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Un gancho al corazón</title>
+  </programme>
+  <programme start="20220215053500 -0300" stop="20220215063500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Lo Mejor de el show de las TLN</title>
+  </programme>
+  <programme start="20220215063500 -0300" stop="20220215072500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Caer en Tentación</title>
+  </programme>
+  <programme start="20220215072500 -0300" stop="20220215081000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Niña Amada Mía</title>
+  </programme>
+  <programme start="20220215081000 -0300" stop="20220215090000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220215090000 -0300" stop="20220215104000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">La fea más bella</title>
+  </programme>
+  <programme start="20220215104000 -0300" stop="20220215122000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Un gancho al corazón</title>
+  </programme>
+  <programme start="20220215122000 -0300" stop="20220215140000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Cañaveral de pasiones</title>
+  </programme>
+  <programme start="20220215140000 -0300" stop="20220215154000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Triunfo del Amor</title>
+  </programme>
+  <programme start="20220215154000 -0300" stop="20220215163000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Caer en Tentación</title>
+  </programme>
+  <programme start="20220215163000 -0300" stop="20220215171500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Niña Amada Mía</title>
+  </programme>
+  <programme start="20220215171500 -0300" stop="20220215185000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Llena de amor</title>
+  </programme>
+  <programme start="20220215185000 -0300" stop="20220215194000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">El Bienamado</title>
+  </programme>
+  <programme start="20220215194000 -0300" stop="20220215203000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">La fea más bella</title>
+  </programme>
+  <programme start="20220215203000 -0300" stop="20220215221000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Un gancho al corazón</title>
+  </programme>
+  <programme start="20220215221000 -0300" stop="20220215235000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">Triunfo del Amor</title>
+  </programme>
+  <programme start="20220216053500 -0300" stop="20220216063500 -0300" channel="Univision Tlenovelas">
+    <title lang="es">L5 Mejores</title>
+  </programme>
+  <programme start="20220216194000 -0300" stop="20220216203000 -0300" channel="Univision Tlenovelas">
+    <title lang="es">La fea más bella</title>
   </programme>
   <programme start="20220215010000 -0800" stop="20220215013000 -0800" channel="PPV-NBA League Pass 3 (PM)(720)">
     <title lang="en">NBA League Pass</title>
