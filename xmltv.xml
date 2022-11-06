@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  <channel id="CHAMPIOS LEAGUE OPC # 2">
-    <display-name lang="es">CHAMPIOS LEAGUE OPC # 2</display-name>
+  <channel id="CHAMPIONS LEAGUE OPC # 2">
+    <display-name lang="es">CHAMPIONS LEAGUE OPC # 2</display-name>
     <icon src="https://www.reportv.com.ar/buscador/img/Logos/12502612.gif"/>
   </channel>
-  <programme start="20221106010000 -0300" stop="20221106023000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106010000 -0300" stop="20221106023000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
@@ -12,23 +12,7 @@
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
   </programme>
-  <programme start="20221106023000 -0300" stop="20221106040000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
-  </programme>
-  <programme start="20221106040000 -0300" stop="20221106053000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
-  </programme>
-  <programme start="20221106053000 -0300" stop="20221106070000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106023000 -0300" stop="20221106040000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
@@ -36,15 +20,31 @@
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4495536.jpg"/>
   </programme>
-  <programme start="20221106070000 -0300" stop="20221106120000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106040000 -0300" stop="20221106053000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
   </programme>
-  <programme start="20221106120000 -0300" stop="20221106130000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106053000 -0300" stop="20221106070000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4495536.jpg"/>
+  </programme>
+  <programme start="20221106070000 -0300" stop="20221106120000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
+  </programme>
+  <programme start="20221106120000 -0300" stop="20221106130000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -58,7 +58,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221106130000 -0300" stop="20221106140000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106130000 -0300" stop="20221106140000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN Compact - Serie A</title>
     <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
     <date>2022</date>
@@ -67,7 +67,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720847.jpg"/>
     <country lang="es">Italia</country>
   </programme>
-  <programme start="20221106140000 -0300" stop="20221106150000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106140000 -0300" stop="20221106150000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN Compact - Premier League</title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
     <date>2021</date>
@@ -76,7 +76,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720794.jpg"/>
     <country lang="es">Inglaterra</country>
   </programme>
-  <programme start="20221106150000 -0300" stop="20221106160000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106150000 -0300" stop="20221106160000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN Compact - Premier League</title>
     <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
     <date>2021</date>
@@ -85,7 +85,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720794.jpg"/>
     <country lang="es">Inglaterra</country>
   </programme>
-  <programme start="20221106160000 -0300" stop="20221106170000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106160000 -0300" stop="20221106170000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN Compact - Moto GP</title>
     <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
     <date>2000</date>
@@ -93,7 +93,7 @@
     <category lang="es">Motociclismo</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/487478.gif"/>
   </programme>
-  <programme start="20221106170000 -0300" stop="20221106180000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106170000 -0300" stop="20221106180000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN Compact - Serie A</title>
     <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
     <date>2022</date>
@@ -102,7 +102,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720847.jpg"/>
     <country lang="es">Italia</country>
   </programme>
-  <programme start="20221106180000 -0300" stop="20221106190000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106180000 -0300" stop="20221106190000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -116,7 +116,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221106190000 -0300" stop="20221106210000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106190000 -0300" stop="20221106210000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN F90</title>
     <desc lang="es">Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.</desc>
     <credits>
@@ -134,7 +134,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12932502.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221106210000 -0300" stop="20221106223000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106210000 -0300" stop="20221106223000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN F Show</title>
     <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
     <credits>
@@ -151,7 +151,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221106223000 -0300" stop="20221107000000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221106223000 -0300" stop="20221107000000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">Equipo F</title>
     <desc lang="es">Los periodistas más destacados conversan sin tapujos sobre lo que dejó la fecha del fútbol chileno y desmenuzan cada detalle del campeonato nacional.</desc>
     <credits>
@@ -165,7 +165,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16819394.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107000000 -0300" stop="20221107010000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107000000 -0300" stop="20221107010000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -179,7 +179,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107010000 -0300" stop="20221107020000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107010000 -0300" stop="20221107020000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -193,7 +193,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107020000 -0300" stop="20221107033000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107020000 -0300" stop="20221107033000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN F Show</title>
     <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
     <credits>
@@ -210,7 +210,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107033000 -0300" stop="20221107050000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107033000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">Equipo F</title>
     <desc lang="es">Los periodistas más destacados conversan sin tapujos sobre lo que dejó la fecha del fútbol chileno y desmenuzan cada detalle del campeonato nacional.</desc>
     <credits>
@@ -224,7 +224,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16819394.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107050000 -0300" stop="20221107060000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107050000 -0300" stop="20221107060000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -238,7 +238,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107060000 -0300" stop="20221107070000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107060000 -0300" stop="20221107070000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -252,15 +252,15 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107070000 -0300" stop="20221107120000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107070000 -0300" stop="20221107120000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <date>2000</date>
     <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
   </programme>
-  <programme start="20221107120000 -0300" stop="20221107130000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107120000 -0300" stop="20221107130000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -274,7 +274,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107130000 -0300" stop="20221107135800 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107130000 -0300" stop="20221107135800 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">Goles de la Premier League</title>
     <desc lang="es">No hay información disponible.</desc>
     <date>2000</date>
@@ -282,7 +282,7 @@
     <category lang="es">Fútbol</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720794.jpg"/>
   </programme>
-  <programme start="20221107135800 -0300" stop="20221107142600 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107135800 -0300" stop="20221107142600 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">Serie A - Preview Show</title>
     <desc lang="es">Con la presencia de numerosas estrellas del fútbol mundial, el Calcio siempre nos invita a atrayentes partidos. En esta competencia se lucha en varios frentes: por el título, la clasificación a la UEFA Champions League, la Copa UEFA y para esquivar la caliente zona de descenso.</desc>
     <date>2000</date>
@@ -290,7 +290,7 @@
     <category lang="es">Fútbol</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/766369.jpg"/>
   </programme>
-  <programme start="20221107142600 -0300" stop="20221107152400 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107142600 -0300" stop="20221107152400 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -304,7 +304,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107152400 -0300" stop="20221107162200 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107152400 -0300" stop="20221107162200 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">El show de la F1</title>
     <desc lang="es">Especial de tres programas. Repaso y análisis de cada Gran Premio y lo que hay alrededor. Este año desde Miami</desc>
     <credits>
@@ -318,7 +318,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16493246.jpg"/>
     <country lang="es">Argentina</country>
   </programme>
-  <programme start="20221107162200 -0300" stop="20221107172000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107162200 -0300" stop="20221107172000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
     <credits>
@@ -332,7 +332,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107172000 -0300" stop="20221107192500 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107172000 -0300" stop="20221107192500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">LaLiga</title>
     <desc lang="es">Viví los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
     <date>2022</date>
@@ -341,7 +341,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720725.jpg"/>
     <country lang="es">España</country>
   </programme>
-  <programme start="20221107192500 -0300" stop="20221107210000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107192500 -0300" stop="20221107210000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN F90</title>
     <desc lang="es">Toda la información del campeonato nacional está en ESPN Fútbol 90. Un panel compuesto por destacados periodistas y exfutbolistas debaten sobre la actualidad de nuestro fútbol, pero también de los chilenos que nos representan en el extranjero y en las copas internacionales.</desc>
     <credits>
@@ -359,7 +359,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12932502.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107210000 -0300" stop="20221107223000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107210000 -0300" stop="20221107223000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN F Show</title>
     <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
     <credits>
@@ -376,7 +376,7 @@
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
     <country lang="es">Chile</country>
   </programme>
-  <programme start="20221107223000 -0300" stop="20221108000000 -0300" channel="CHAMPIOS LEAGUE OPC # 2">
+  <programme start="20221107223000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">ESPN F360</title>
     <desc lang="es">La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.</desc>
     <credits>
