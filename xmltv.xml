@@ -2,318 +2,332 @@
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="CHAMPIONS LEAGUE OPC # 1">
     <display-name lang="es">CHAMPIONS LEAGUE OPC # 1</display-name>
-    <icon src="https://www.telered.com.ar/img/logos_ch/ESPN2_rojo.png"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Logos/12501496.gif"/>
   </channel>
-  <programme start="20221106000000 -0300" stop="20221106010000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">F Nacional</title>
-    <desc lang="es">Un espacio dedicado a la Primera Nacional del fútbol argentino.</desc>
+  <programme start="20221106010000 -0300" stop="20221106020000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN Compact - Serie A</title>
+    <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720847.jpg"/>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20221106020000 -0300" stop="20221106040000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ATP World Tour Masters 1000 - Rolex Paris Masters</title>
+    <desc lang="es">Torneo oficial de tenis que se disputa anualmente en París, Francia. Este torneo forma parte de la Serie Masters 1000 del circuito masculino de la ATP, correspondiéndose al último Masters 1000 que se disputa en el calendario anual.</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/23979987.jpg"/>
+    <country lang="es">Francia</country>
+  </programme>
+  <programme start="20221106040000 -0300" stop="20221106053000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
     <credits>
-      <presenter>Pablo Ferreira</presenter>
-      <presenter>Marcelo Benedetto</presenter>
-      <presenter>Pablo Bari</presenter>
-      <presenter>Leonardo Gabes</presenter>
-      <presenter>Alejandro Ruzal</presenter>
+      <actor>Cristián Sánchez</actor>
+      <actor>Nicolás Peric</actor>
+      <actor>Marcelo Espina</actor>
+      <actor>Rafael Olarra</actor>
+      <actor>Grace Lazcano</actor>
+      <actor>Jorge Gómez</actor>
     </credits>
     <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23629038.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
+    <country lang="es">Chile</country>
   </programme>
-  <programme start="20221106010000 -0300" stop="20221106030000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Compact - Rolex Paris Masters</title>
-    <desc lang="es">Compactos del torneo oficial de tenis que se disputa anualmente en París, Francia. Este torneo forma parte de la ATP Serie Masters 1000, correspondiéndose al último Masters 1000 que se disputa en el calendario anual.</desc>
+  <programme start="20221106053000 -0300" stop="20221106073000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">WTA Finals</title>
+    <desc lang="es">Las Finales de la WTA de 2022 será un torneo femenino de tenis. Será la 51. edición de la competición en individuales y la 46. edición de la competición en dobles. Participaran las ocho mejores jugadoras de la temporada en el cuadro de individuales y las ocho mejores parejas en el cuadro de dobles.</desc>
     <date>2022</date>
+    <category lang="es">Deportes</category>
     <category lang="es">Tenis</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/17069531.jpg"/>
-    <country lang="es">Francia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/24128353.jpg"/>
   </programme>
-  <programme start="20221106030000 -0300" stop="20221106050000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Bundesliga</title>
-    <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
-    <date>2022</date>
+  <programme start="20221106073000 -0300" stop="20221106090000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.</desc>
+    <credits>
+      <actor>Francisco Sagredo</actor>
+      <actor>Mauricio Pinilla</actor>
+      <actor>Gustavo Huerta</actor>
+      <actor>José Luis Villanueva</actor>
+      <actor>Cristián Caamaño</actor>
+      <actor>Sebastián Esnaola</actor>
+      <actor>Jorge Valdivia</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
     <category lang="es">Fútbol</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/16471407.jpg"/>
-    <country lang="es">Alemania</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12932519.jpg"/>
+    <country lang="es">Chile</country>
   </programme>
-  <programme start="20221106050000 -0300" stop="20221106052100 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
+  <programme start="20221106090000 -0300" stop="20221106100000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN Compact - Moto GP</title>
+    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Motociclismo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/487478.gif"/>
   </programme>
-  <programme start="20221106052100 -0300" stop="20221106070500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">FIH Pro League</title>
-    <desc lang="es">Competición internacional de hockey sobre césped organizada por la FIH, la cual reemplaza a la Liga Mundial de Hockey. La competición también sirve como clasificación para el Campeonato Mundial de Hockey sobre césped y los Juegos Olímpicos.</desc>
-    <category lang="es">Hockey</category>
-    <length units="minutes">104</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8945691.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106070500 -0300" stop="20221106085000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">FIH Pro League Femenino</title>
-    <desc lang="es">Campeonato de hockey sobre césped para equipos nacionales femeninos.</desc>
-    <category lang="es">Hockey</category>
-    <length units="minutes">105</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8945691.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106085000 -0300" stop="20221106110000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106110000 -0300" stop="20221106130500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Rugby de Los Pumas</title>
-    <title lang="en">Test Match de los Pumas</title>
-    <desc lang="es">Encuentro internacional amistoso de rugby, en el cual se congregan grandes estrellas y luminarias del deporte, para mostrar su talento, estrategia y precisión en el campo de juego.</desc>
-    <category lang="es">Rugby</category>
-    <length units="minutes">125</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/17620998.jpg"/>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106130500 -0300" stop="20221106142000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Scrum</title>
-    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.</desc>
-    <date>2017</date>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11321782.jpg"/>
+  <programme start="20221106100000 -0300" stop="20221106113000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">Rally Mobil</title>
+    <desc lang="es">Cobertura del Campeonato RallyMobil, el evento motorsport más importante de Chile, con exclusivos detalles de la jornada, competidores, pistas de carrera, comentarios de especialistas en la materia y los resultados de la vuelta final.</desc>
+    <credits>
+      <actor>Gustavo Huerta</actor>
+      <actor>Felipe Horta</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Rally</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/NoPicture.jpg"/>
     <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
   </programme>
-  <programme start="20221106142000 -0300" stop="20221106163000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">LaLiga</title>
-    <desc lang="es">Viví los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
+  <programme start="20221106113000 -0300" stop="20221106120000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN Run</title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11325386.jpg"/>
+  </programme>
+  <programme start="20221106120000 -0300" stop="20221106160000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
+  </programme>
+  <programme start="20221106160000 -0300" stop="20221106190000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
+  </programme>
+  <programme start="20221106190000 -0300" stop="20221106220000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
+  </programme>
+  <programme start="20221106220000 -0300" stop="20221107011500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">NFL - Monday Night Football</title>
+    <desc lang="es">Vive los partidos de la 103º edición de la NFL. La fase regular comenzará el 8 de septiembre de 2022 y terminará el 8 de enero de 2023. Los Playoffs empezarán el 14 de enero y terminarán el 12 de febrero con la celebración de la Super Bowl LVII en el State Farm Stadium de Glendale, Arizona.</desc>
     <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">130</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714579.jpg"/>
-    <country lang="es">España</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol americano</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10197655.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
   </programme>
-  <programme start="20221106163000 -0300" stop="20221106184000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+  <programme start="20221107011500 -0300" stop="20221107014000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN Run</title>
+    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11325386.jpg"/>
+  </programme>
+  <programme start="20221107014000 -0300" stop="20221107020500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN X</title>
+    <desc lang="es">Todos los deportes extremos en un solo lugar, con historias que inspiran y motivan no solo a quienes practiquen estos deportes, sino que también a aquellos que disfrutan verlos. En ESPN X se pueden ver deportistas del ámbito local e internacional, así como también competencias de todo el mundo.</desc>
+    <date>2012</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/488047.gif"/>
+  </programme>
+  <programme start="20221107020500 -0300" stop="20221107030000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
+    <credits>
+      <actor>Pablo Ramos</actor>
+      <actor>Claudio Alfaro</actor>
+      <actor>Andrea Hernández</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
+    <country lang="es">Chile</country>
+  </programme>
+  <programme start="20221107030000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
+    <credits>
+      <actor>Pablo Ramos</actor>
+      <actor>Claudio Alfaro</actor>
+      <actor>Andrea Hernández</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
+    <country lang="es">Chile</country>
+  </programme>
+  <programme start="20221107040000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
+    <credits>
+      <actor>Pablo Ramos</actor>
+      <actor>Claudio Alfaro</actor>
+      <actor>Andrea Hernández</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
+    <country lang="es">Chile</country>
+  </programme>
+  <programme start="20221107050000 -0300" stop="20221107063000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
+    <credits>
+      <actor>Cristián Sánchez</actor>
+      <actor>Nicolás Peric</actor>
+      <actor>Marcelo Espina</actor>
+      <actor>Rafael Olarra</actor>
+      <actor>Grace Lazcano</actor>
+      <actor>Jorge Gómez</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
+    <country lang="es">Chile</country>
+  </programme>
+  <programme start="20221107063000 -0300" stop="20221107080000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Los periodistas más destacados conversan sin tapujos sobre lo que dejó la fecha del fútbol chileno y desmenuzan cada detalle del campeonato nacional.</desc>
+    <credits>
+      <actor>Gustavo Huerta</actor>
+      <actor>Felipe Bianchi</actor>
+      <actor>Grace Lazcano</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16819394.jpg"/>
+    <country lang="es">Chile</country>
+  </programme>
+  <programme start="20221107080000 -0300" stop="20221107100000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">Campeonato Brasileiro Série A</title>
+    <desc lang="es">Será la edición 66 del Campeonato Brasileño de Serie A. Los 20 equipos participantes se enfrentan en partidos de ida y vuelta en un sistema de todos contra todos. Al final de las 38 fechas el club con la mayor cantidad de puntos se proclamará campeón.</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/19617079.jpg"/>
+    <country lang="es">Brasil</country>
+  </programme>
+  <programme start="20221107100000 -0300" stop="20221107133000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ATP World Tour Masters 1000 - Intesa Sanpaolo Next Gen ATP Finals</title>
+    <desc lang="es">Vive la quinta edición de la Next Generation ATP Finals, un torneo masculino de tenis juvenil que se celebra en Milán; es un torneo profesional de tenis, jugado en canchas duras bajo techo, y celebrado cada año en noviembre.</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/17241937.jpg"/>
+    <country lang="es">Italia</country>
+  </programme>
+  <programme start="20221107133000 -0300" stop="20221107142000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
+  </programme>
+  <programme start="20221107142000 -0300" stop="20221107162500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
     <title lang="es">Serie A</title>
     <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
     <date>2022</date>
+    <category lang="es">Deportes</category>
     <category lang="es">Fútbol</category>
-    <length units="minutes">130</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714600.jpg"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720847.jpg"/>
     <country lang="es">Italia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
   </programme>
-  <programme start="20221106184000 -0300" stop="20221106185500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Cápsulas - Hockey Pro League</title>
-    <category lang="es">Hockey</category>
-    <length units="minutes">15</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106185500 -0300" stop="20221106204500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106204500 -0300" stop="20221106213000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">FIH Pro League Intergame</title>
-    <desc lang="es">Competencia internacional de hockey sobre césped organizada por la FIH, la cual reemplaza a la Liga Mundial de Hockey. La competición también sirve como clasificación para el Campeonato Mundial de Hockey sobre césped y los Juegos Olímpicos.</desc>
-    <date>2019</date>
-    <category lang="es">Hockey</category>
-    <length units="minutes">45</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8945691.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106213000 -0300" stop="20221106220000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106220000 -0300" stop="20221107003000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">MLB</title>
+  <programme start="20221107162500 -0300" stop="20221107182500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">WTA Finals</title>
+    <desc lang="es">Las Finales de la WTA de 2022 será un torneo femenino de tenis. Será la 51. edición de la competición en individuales y la 46. edición de la competición en dobles. Participaran las ocho mejores jugadoras de la temporada en el cuadro de individuales y las ocho mejores parejas en el cuadro de dobles.</desc>
     <date>2022</date>
-    <category lang="es">Béisbol</category>
-    <length units="minutes">185</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9368824.jpg"/>
-    <country lang="es">EE. UU.</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/24128353.jpg"/>
   </programme>
-  <programme start="20221107003000 -0300" stop="20221107013000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Knockout</title>
-    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
-    <category lang="es">Boxeo</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23631541.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107013000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107040000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
-    <title lang="en">Compact - Ligue 1 Uber Eats</title>
-    <desc lang="es">Viví el post y todo el análisis de los partidos de la 85º edición de Liga Francesa de fútbol, el torneo organizado por la Ligue de Football Professionnel.</desc>
-    <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/16942015.jpg"/>
-    <country lang="es">Francia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107050000 -0300" stop="20221107063000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107063000 -0300" stop="20221107083000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107083000 -0300" stop="20221107093000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Compacto - Serie A</title>
-    <title lang="en">Compact - Serie A</title>
-    <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714600.jpg"/>
-    <country lang="es">Italia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107093000 -0300" stop="20221107103000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Compacto - LaLiga</title>
-    <title lang="en">Compact - LaLiga</title>
-    <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714579.jpg"/>
-    <country lang="es">España</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107103000 -0300" stop="20221107112500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107112500 -0300" stop="20221107120000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Fútbol 1</title>
-    <desc lang="es">Las jugadas más destacadas, los goles, las polémicas y un profundo análisis del fútbol argentino y todo lo que lo rodea. La palabra de los protagonistas y el mejor cierre para el domingo con el deporte que tanto los apasiona.</desc>
-    <credits>
-      <presenter>Martín Souto</presenter>
-      <presenter>Matías Martin</presenter>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">35</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/21622879.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107120000 -0300" stop="20221107160000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107160000 -0300" stop="20221107170000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107170000 -0300" stop="20221107190000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+  <programme start="20221107182500 -0300" stop="20221107190000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
     <title lang="es">SportsCenter+</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
-    <length units="minutes">50</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
   </programme>
   <programme start="20221107190000 -0300" stop="20221107220000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <date>2000</date>
+    <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6864951.jpg"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
+  </programme>
+  <programme start="20221107220000 -0300" stop="20221107230000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">ESPN Tenis</title>
+    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea. Gestas históricas, situaciones familiares, imágenes inolvidables y voces de los protagonistas en distintos momentos de su vida, que unidas por una línea de tiempo otorgarán una sensación única para disfrutar de cada informe. La actualidad, vista desde una perspectiva especial. Las grandes novedades del circuito, la historia de un certamen y también las pequeñas curiosidades que se dan en la intimidad de cada torneo. Los mejores puntos, con los tiros más insólitos, jugadas maestras y los errores más increíbles. El mundo tenis desde adentro. Y también, desde afuera: personajes imprescindibles para el circuito, pero que pocas veces quedan en los primeros planos. Un ida y vuelta constante, con videos virales y creaciones imposibles de creer: ¿puede jugar Federer contra Federer?.</desc>
+    <credits>
+      <actor>Pablo Stecco</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/23644301.jpg"/>
+  </programme>
+  <programme start="20221107230000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+    <title lang="es">PGA Tour Highlights - World Wide Technology Championship at Mayakoba</title>
+    <desc lang="es">Los mejores momentos del World Wide Technology Championship at Mayakoba.</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Golf</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/24146329.jpg"/>
+    <country lang="es">México</country>
+  </programme>
+  <channel id="CHAMPIONS LEAGUE OPC # 2">
+    <display-name lang="es">CHAMPIONS LEAGUE OPC # 2</display-name>
+  </channel>
+  <programme start="20221106010000 -0300" stop="20221106013000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Deportivo</category>
+    <length units="minutes">720</length>
+    <rating system="INCAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221106013000 -0300" stop="20221106033000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
     <rating system="INCAA">
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107220000 -0300" stop="20221107230000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
+  <programme start="20221106033000 -0300" stop="20221106043000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106043000 -0300" stop="20221106050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">UEFA Champions League Weekly</title>
     <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
     <date>2021</date>
@@ -324,29 +338,7 @@
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107230000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Goles de Europa</title>
-    <title lang="en">European Football Weekly</title>
-    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.</desc>
-    <credits>
-      <presenter>Diego Muñoz</presenter>
-      <presenter>Francisco Cánepa</presenter>
-      <presenter>Pedro Wolff</presenter>
-      <presenter>Agustín Belachur</presenter>
-      <presenter>Juan Simón</presenter>
-      <presenter>Nacho Meroni</presenter>
-    </credits>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11321703.jpg"/>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <channel id="CHAMPIONS LEAGUE OPC # 2">
-    <display-name lang="es">CHAMPIONS LEAGUE OPC # 2</display-name>
-  </channel>
-  <programme start="20221106000000 -0300" stop="20221106010000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+  <programme start="20221106050000 -0300" stop="20221106060000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">F Nacional</title>
     <desc lang="es">Un espacio dedicado a la Primera Nacional del fútbol argentino.</desc>
     <credits>
@@ -365,191 +357,7 @@
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221106010000 -0300" stop="20221106030000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN Compact - Rolex Paris Masters</title>
-    <desc lang="es">Compactos del torneo oficial de tenis que se disputa anualmente en París, Francia. Este torneo forma parte de la ATP Serie Masters 1000, correspondiéndose al último Masters 1000 que se disputa en el calendario anual.</desc>
-    <date>2022</date>
-    <category lang="es">Tenis</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/17069531.jpg"/>
-    <country lang="es">Francia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106030000 -0300" stop="20221106050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Bundesliga</title>
-    <desc lang="es">Viví los partidos de la la 59na edición de la Bundesliga, la mayor competición futbolística de Alemania.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/16471407.jpg"/>
-    <country lang="es">Alemania</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106050000 -0300" stop="20221106052100 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106052100 -0300" stop="20221106070500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">FIH Pro League</title>
-    <desc lang="es">Competición internacional de hockey sobre césped organizada por la FIH, la cual reemplaza a la Liga Mundial de Hockey. La competición también sirve como clasificación para el Campeonato Mundial de Hockey sobre césped y los Juegos Olímpicos.</desc>
-    <category lang="es">Hockey</category>
-    <length units="minutes">104</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8945691.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106070500 -0300" stop="20221106085000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">FIH Pro League Femenino</title>
-    <desc lang="es">Campeonato de hockey sobre césped para equipos nacionales femeninos.</desc>
-    <category lang="es">Hockey</category>
-    <length units="minutes">105</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8945691.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106085000 -0300" stop="20221106110000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106110000 -0300" stop="20221106130500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Rugby de Los Pumas</title>
-    <title lang="en">Test Match de los Pumas</title>
-    <desc lang="es">Encuentro internacional amistoso de rugby, en el cual se congregan grandes estrellas y luminarias del deporte, para mostrar su talento, estrategia y precisión en el campo de juego.</desc>
-    <category lang="es">Rugby</category>
-    <length units="minutes">125</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/17620998.jpg"/>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106130500 -0300" stop="20221106142000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Scrum</title>
-    <desc lang="es">Repasamos lo mejor del fin de semana ovalado. Invitados en los estudios y toda la información y el análisis de nuestros especialistas.</desc>
-    <date>2017</date>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11321782.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106142000 -0300" stop="20221106163000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">LaLiga</title>
-    <desc lang="es">Viví los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">130</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714579.jpg"/>
-    <country lang="es">España</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106163000 -0300" stop="20221106184000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Serie A</title>
-    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">130</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714600.jpg"/>
-    <country lang="es">Italia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106184000 -0300" stop="20221106185500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Cápsulas - Hockey Pro League</title>
-    <category lang="es">Hockey</category>
-    <length units="minutes">15</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106185500 -0300" stop="20221106204500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106204500 -0300" stop="20221106213000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">FIH Pro League Intergame</title>
-    <desc lang="es">Competencia internacional de hockey sobre césped organizada por la FIH, la cual reemplaza a la Liga Mundial de Hockey. La competición también sirve como clasificación para el Campeonato Mundial de Hockey sobre césped y los Juegos Olímpicos.</desc>
-    <date>2019</date>
-    <category lang="es">Hockey</category>
-    <length units="minutes">45</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/8945691.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106213000 -0300" stop="20221106220000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106220000 -0300" stop="20221107003000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">MLB</title>
-    <date>2022</date>
-    <category lang="es">Béisbol</category>
-    <length units="minutes">185</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/9368824.jpg"/>
-    <country lang="es">EE. UU.</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107003000 -0300" stop="20221107013000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN Knockout</title>
-    <desc lang="es">Los mejores combates de boxeo y MMA.</desc>
-    <category lang="es">Boxeo</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23631541.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107013000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107040000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
-    <title lang="en">Compact - Ligue 1 Uber Eats</title>
-    <desc lang="es">Viví el post y todo el análisis de los partidos de la 85º edición de Liga Francesa de fútbol, el torneo organizado por la Ligue de Football Professionnel.</desc>
-    <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/16942015.jpg"/>
-    <country lang="es">Francia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107050000 -0300" stop="20221107063000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+  <programme start="20221106060000 -0300" stop="20221106070000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">Noticiero</category>
@@ -559,7 +367,29 @@
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107063000 -0300" stop="20221107083000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+  <programme start="20221106070000 -0300" stop="20221106080000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106080000 -0300" stop="20221106083000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.</desc>
+    <date>2009</date>
+    <category lang="es">Deportivo</category>
+    <length units="minutes">30</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11322202.jpg"/>
+    <country lang="es">EE. UU.</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106083000 -0300" stop="20221106085000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">A confirmar</title>
     <category lang="es">Deportivo</category>
     <length units="minutes">720</length>
@@ -567,75 +397,31 @@
       <value>ATP</value>
     </rating>
   </programme>
-  <programme start="20221107083000 -0300" stop="20221107093000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Compacto - Serie A</title>
-    <title lang="en">Compact - Serie A</title>
-    <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
+  <programme start="20221106085000 -0300" stop="20221106105500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">Premier League</title>
+    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
     <date>2022</date>
     <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
+    <length units="minutes">125</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714739.jpg"/>
+    <country lang="es">Inglaterra</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106105500 -0300" stop="20221106125500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">Serie A</title>
+    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">120</length>
     <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714600.jpg"/>
     <country lang="es">Italia</country>
     <rating system="INCAA">
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107093000 -0300" stop="20221107103000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Compacto - LaLiga</title>
-    <title lang="en">Compact - LaLiga</title>
-    <desc lang="es">Reviví en imágenes los resúmenes y mejores momentos de los partidos de la nonagésima segunda edición de la Primera División de España de fútbol, organizado por la Liga de Fútbol Profesional.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714579.jpg"/>
-    <country lang="es">España</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107103000 -0300" stop="20221107112500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107112500 -0300" stop="20221107120000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN Fútbol 1</title>
-    <desc lang="es">Las jugadas más destacadas, los goles, las polémicas y un profundo análisis del fútbol argentino y todo lo que lo rodea. La palabra de los protagonistas y el mejor cierre para el domingo con el deporte que tanto los apasiona.</desc>
-    <credits>
-      <presenter>Martín Souto</presenter>
-      <presenter>Matías Martin</presenter>
-    </credits>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">35</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/21622879.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107120000 -0300" stop="20221107160000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107160000 -0300" stop="20221107170000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107170000 -0300" stop="20221107190000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+  <programme start="20221106125500 -0300" stop="20221106132000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter+</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">Noticiero</category>
@@ -645,7 +431,64 @@
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107190000 -0300" stop="20221107220000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+  <programme start="20221106132000 -0300" stop="20221106152500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">Premier League</title>
+    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
+    <date>2022</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">125</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714739.jpg"/>
+    <country lang="es">Inglaterra</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106152500 -0300" stop="20221106163000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">180</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106163000 -0300" stop="20221106165000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Deportivo</category>
+    <length units="minutes">720</length>
+    <rating system="INCAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221106165000 -0300" stop="20221106185500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">180</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106185500 -0300" stop="20221106210000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">ESPN F10</title>
+    <desc lang="es">Todos los compactos de los partidos de la fecha, el mejor entendimiento del juego y, por supuesto, el análisis de todas las polémicas que se presenten.</desc>
+    <credits>
+      <presenter>Gustavo López</presenter>
+      <presenter>Javier Castrilli</presenter>
+      <presenter>Leonardo Astrada</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23626572.jpg"/>
+    <country lang="es">Argentina</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221106210000 -0300" stop="20221107010000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
     <title lang="es">SportsCenter</title>
     <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">Noticiero</category>
@@ -655,32 +498,198 @@
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107220000 -0300" stop="20221107230000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
-    <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">35</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4526538.jpg"/>
+  <programme start="20221107010000 -0300" stop="20221107020000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
     <rating system="INCAA">
       <value>+13</value>
     </rating>
   </programme>
-  <programme start="20221107230000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Goles de Europa</title>
-    <title lang="en">European Football Weekly</title>
-    <desc lang="es">Toda la actualidad del fútbol del Viejo Continente, con las "perlitas" de las distintas ligas, un seguimiento especial a las estrellas, con énfasis en los futbolistas sudamericanos.</desc>
+  <programme start="20221107020000 -0300" stop="20221107030000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107030000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107040000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107050000 -0300" stop="20221107060000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">Simplemente fútbol</title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.</desc>
     <credits>
-      <presenter>Diego Muñoz</presenter>
-      <presenter>Francisco Cánepa</presenter>
-      <presenter>Pedro Wolff</presenter>
-      <presenter>Agustín Belachur</presenter>
-      <presenter>Juan Simón</presenter>
-      <presenter>Nacho Meroni</presenter>
+      <presenter>Enrique Wolff</presenter>
     </credits>
+    <date>1992</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">50</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6216402.jpg"/>
+    <country lang="es">Argentina</country>
+    <rating system="INCAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221107060000 -0300" stop="20221107070000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107070000 -0300" stop="20221107080000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">60</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107080000 -0300" stop="20221107120000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">240</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107120000 -0300" stop="20221107130000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+    <credits>
+      <presenter>Mariano Closs</presenter>
+      <presenter>Luciana Rubinska</presenter>
+      <presenter>Leonardo Gabes</presenter>
+      <presenter>Javier Castrilli</presenter>
+      <presenter>Leonardo Paradizo</presenter>
+      <presenter>Juan Simón</presenter>
+    </credits>
+    <date>2020</date>
     <category lang="es">Fútbol</category>
     <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11321703.jpg"/>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23616962.jpg"/>
+    <country lang="es">Argentina</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107130000 -0300" stop="20221107150000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">ESPN F90 - Primera edición</title>
+    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.</desc>
+    <credits>
+      <presenter>Oscar Ruggeri</presenter>
+      <presenter>Sebastián Vignolo</presenter>
+      <presenter>Daniel Arcucci</presenter>
+      <presenter>Carlos Aimar</presenter>
+      <presenter>Marcelo Sottile</presenter>
+      <presenter>Diego Fucks</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">120</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23617157.jpg"/>
+    <country lang="es">Argentina</country>
+    <rating system="INCAA">
+      <value>ATP</value>
+    </rating>
+  </programme>
+  <programme start="20221107150000 -0300" stop="20221107170000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Además, el seguimiento a los protagonistas más destacados de Europa.</desc>
+    <credits>
+      <presenter>Gustavo López</presenter>
+      <presenter>Guillermo Poggi</presenter>
+      <presenter>Rolando Schiavi</presenter>
+      <presenter>Leonardo Gentili</presenter>
+      <presenter>Gustavo Yarroch</presenter>
+      <presenter>Agostina Larocca</presenter>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">120</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23623835.jpg"/>
+    <country lang="es">Argentina</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107170000 -0300" stop="20221107190000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <credits>
+      <presenter>Germán Paoloski</presenter>
+    </credits>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">120</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14377680.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107190000 -0300" stop="20221107210000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! Se analizará todo lo que pasó el fin de semana.</desc>
+    <credits>
+      <presenter>Miguel Simón</presenter>
+      <presenter>Oscar Ruggeri</presenter>
+      <presenter>Sebastián Vignolo</presenter>
+      <presenter>Diego Latorre</presenter>
+      <presenter>Luciana Rubinska</presenter>
+      <presenter>Mariano Closs</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Fútbol</category>
+    <length units="minutes">120</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15425917.jpg"/>
+    <country lang="es">Argentina</country>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107210000 -0300" stop="20221107220000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">Noticiero</category>
+    <length units="minutes">180</length>
+    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
+    <rating system="INCAA">
+      <value>+13</value>
+    </rating>
+  </programme>
+  <programme start="20221107220000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Deportivo</category>
+    <length units="minutes">720</length>
     <rating system="INCAA">
       <value>ATP</value>
     </rating>
@@ -835,7 +844,7 @@
     <date>2021</date>
     <category lang="es">Deportes</category>
     <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4530652.jpg"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4530664.jpg"/>
   </programme>
   <programme start="20221106233000 -0300" stop="20221107003000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
     <title lang="es">UEFA Europa &amp; UEFA Europa Conference League Highlights</title>
