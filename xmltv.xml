@@ -1,989 +1,880 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  <channel id="CHAMPIONS LEAGUE OPC # 1">
-    <display-name lang="es">CHAMPIONS LEAGUE OPC # 1</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/12501496.gif"/>
+  <channel id="SD | Animal planet">
+    <display-name lang="es">SD | Animal planet</display-name>
+    <icon src="https://www.reportv.com.ar/buscador/img/Logos/9181927.gif"/>
   </channel>
-  <programme start="20221106010000 -0300" stop="20221106020000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Compact - Serie A</title>
-    <desc lang="es">Un repaso por los mejores momentos de los grandes partidos del campeonato italiano de fútbol con análisis y comentarios sobre los equipos. Se revisan los grandes remates, los goles imperdibles y mucho más.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720847.jpg"/>
-    <country lang="es">Italia</country>
-  </programme>
-  <programme start="20221106020000 -0300" stop="20221106040000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ATP World Tour Masters 1000 - Rolex Paris Masters</title>
-    <desc lang="es">Torneo oficial de tenis que se disputa anualmente en París, Francia. Este torneo forma parte de la Serie Masters 1000 del circuito masculino de la ATP, correspondiéndose al último Masters 1000 que se disputa en el calendario anual.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tenis</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/23979987.jpg"/>
-    <country lang="es">Francia</country>
-  </programme>
-  <programme start="20221106040000 -0300" stop="20221106053000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN F Show</title>
-    <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
+  <programme start="20221106000200 -0300" stop="20221106010300 -0300" channel="SD | Animal planet">
+    <title lang="es">El regreso del gran tiburón blanco</title>
+    <desc lang="es">Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?
+Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?</desc>
     <credits>
-      <actor>Cristián Sánchez</actor>
-      <actor>Nicolás Peric</actor>
-      <actor>Marcelo Espina</actor>
-      <actor>Rafael Olarra</actor>
-      <actor>Grace Lazcano</actor>
-      <actor>Jorge Gómez</actor>
+      <actor>Brandon McMillan</actor>
     </credits>
-    <date>2021</date>
-    <category lang="es">Variedades</category>
-    <category lang="es">Magazine</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221106053000 -0300" stop="20221106073000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">WTA Finals</title>
-    <desc lang="es">Las Finales de la WTA de 2022 será un torneo femenino de tenis. Será la 51. edición de la competición en individuales y la 46. edición de la competición en dobles. Participaran las ocho mejores jugadoras de la temporada en el cuadro de individuales y las ocho mejores parejas en el cuadro de dobles.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tenis</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/24128353.jpg"/>
-  </programme>
-  <programme start="20221106073000 -0300" stop="20221106090000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN F360</title>
-    <desc lang="es">La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos, que desmenuza la actualidad de la élite del deporte rey.</desc>
-    <credits>
-      <actor>Francisco Sagredo</actor>
-      <actor>Mauricio Pinilla</actor>
-      <actor>Gustavo Huerta</actor>
-      <actor>José Luis Villanueva</actor>
-      <actor>Cristián Caamaño</actor>
-      <actor>Sebastián Esnaola</actor>
-      <actor>Jorge Valdivia</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12932519.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221106090000 -0300" stop="20221106100000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Compact - Moto GP</title>
-    <desc lang="es">Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Motociclismo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/487478.gif"/>
-  </programme>
-  <programme start="20221106100000 -0300" stop="20221106113000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Rally Mobil</title>
-    <desc lang="es">Cobertura del Campeonato RallyMobil, el evento motorsport más importante de Chile, con exclusivos detalles de la jornada, competidores, pistas de carrera, comentarios de especialistas en la materia y los resultados de la vuelta final.</desc>
-    <credits>
-      <actor>Gustavo Huerta</actor>
-      <actor>Felipe Horta</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Rally</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/NoPicture.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221106113000 -0300" stop="20221106120000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Run</title>
-    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Atletismo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11325386.jpg"/>
-  </programme>
-  <programme start="20221106120000 -0300" stop="20221106160000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
-  </programme>
-  <programme start="20221106160000 -0300" stop="20221106190000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter+</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
-  </programme>
-  <programme start="20221106190000 -0300" stop="20221106220000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
-  </programme>
-  <programme start="20221106220000 -0300" stop="20221107011500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">NFL - Monday Night Football</title>
-    <desc lang="es">Vive los partidos de la 103º edición de la NFL. La fase regular comenzará el 8 de septiembre de 2022 y terminará el 8 de enero de 2023. Los Playoffs empezarán el 14 de enero y terminarán el 12 de febrero con la celebración de la Super Bowl LVII en el State Farm Stadium de Glendale, Arizona.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol americano</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10197655.jpg"/>
+    <date>2015</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/3043049.jpg"/>
     <country>EE</country>
     <country>UU</country>
   </programme>
-  <programme start="20221107011500 -0300" stop="20221107014000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Run</title>
-    <desc lang="es">Ciclo documental, en el que se muestra al running como deporte, forma de vida, lenguaje universal o simplemente la más simple manera de despejarse.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Atletismo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11325386.jpg"/>
-  </programme>
-  <programme start="20221107014000 -0300" stop="20221107020500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN X</title>
-    <desc lang="es">Todos los deportes extremos en un solo lugar, con historias que inspiran y motivan no solo a quienes practiquen estos deportes, sino que también a aquellos que disfrutan verlos. En ESPN X se pueden ver deportistas del ámbito local e internacional, así como también competencias de todo el mundo.</desc>
-    <date>2012</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">D.Extremos</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/488047.gif"/>
-  </programme>
-  <programme start="20221107020500 -0300" stop="20221107030000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
+  <programme start="20221106010300 -0300" stop="20221106020400 -0300" channel="SD | Animal planet">
+    <title lang="es">Monstruos de río: Terror prehistórico</title>
+    <desc lang="es">Sigue el recorrido del biólogo y pescador extremo Jeremy Wade, que viaja por el mundo en busca de los asesinos de agua dulce más temibles. Buscando pistas, testigos e historias sobre personas que fueron arrastradas bajo el agua por estos depredadores feroces, trata de atrapar a los ejemplares más grandes y luego liberarlos de nuevo a la naturaleza. Su objetivo es salvar estas raras criaturas de la extinción para ayudar a la gente a entender qué hay de verdad tras las leyendas. ¿Cuál sería el mayor monstruo de río que alguna vez acechó el planeta?</desc>
     <credits>
-      <actor>Pablo Ramos</actor>
-      <actor>Claudio Alfaro</actor>
-      <actor>Andrea Hernández</actor>
+      <director>Stef Dijkstra</director>
+      <director>Charlotte Jones</director>
+      <director>Barny Revill</director>
+      <director>Luke Wiles</director>
+      <director>Lucy d'Auvergne</director>
+      <director>Duncan Chard</director>
+      <director>Stephen Gooder</director>
+      <director>Alex Parkinson</director>
+      <actor>Jeremy Wade</actor>
     </credits>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221107030000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
-    <credits>
-      <actor>Pablo Ramos</actor>
-      <actor>Claudio Alfaro</actor>
-      <actor>Andrea Hernández</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221107040000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter hace un repaso de la actualidad deportiva del país, pasando por el presente de los diferentes clubes en los torneos en los que participan, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional. Conducido para Chile por Pablo Ramos, Claudio Alfaro y Andrea Hernández.</desc>
-    <credits>
-      <actor>Pablo Ramos</actor>
-      <actor>Claudio Alfaro</actor>
-      <actor>Andrea Hernández</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16400807.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221107050000 -0300" stop="20221107063000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN F Show</title>
-    <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en el seguimiento a los deportistas chilenos que se destacan internacionalmente. Con un estilo distendido y ameno, nuestros talentos informan y comentan todo lo que sucede a diario en el mundo deportivo.</desc>
-    <credits>
-      <actor>Cristián Sánchez</actor>
-      <actor>Nicolás Peric</actor>
-      <actor>Marcelo Espina</actor>
-      <actor>Rafael Olarra</actor>
-      <actor>Grace Lazcano</actor>
-      <actor>Jorge Gómez</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Variedades</category>
-    <category lang="es">Magazine</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12964276.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221107063000 -0300" stop="20221107080000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Equipo F</title>
-    <desc lang="es">Los periodistas más destacados conversan sin tapujos sobre lo que dejó la fecha del fútbol chileno y desmenuzan cada detalle del campeonato nacional.</desc>
-    <credits>
-      <actor>Gustavo Huerta</actor>
-      <actor>Felipe Bianchi</actor>
-      <actor>Grace Lazcano</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16819394.jpg"/>
-    <country lang="es">Chile</country>
-  </programme>
-  <programme start="20221107080000 -0300" stop="20221107100000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Campeonato Brasileiro Série A</title>
-    <desc lang="es">Será la edición 66 del Campeonato Brasileño de Serie A. Los 20 equipos participantes se enfrentan en partidos de ida y vuelta en un sistema de todos contra todos. Al final de las 38 fechas el club con la mayor cantidad de puntos se proclamará campeón.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/19617079.jpg"/>
-    <country lang="es">Brasil</country>
-  </programme>
-  <programme start="20221107100000 -0300" stop="20221107133000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ATP World Tour Masters 1000 - Intesa Sanpaolo Next Gen ATP Finals</title>
-    <desc lang="es">Vive la quinta edición de la Next Generation ATP Finals, un torneo masculino de tenis juvenil que se celebra en Milán; es un torneo profesional de tenis, jugado en canchas duras bajo techo, y celebrado cada año en noviembre.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tenis</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/17241937.jpg"/>
-    <country lang="es">Italia</country>
-  </programme>
-  <programme start="20221107133000 -0300" stop="20221107142000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9773813.jpg"/>
-  </programme>
-  <programme start="20221107142000 -0300" stop="20221107162500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">Serie A</title>
-    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/15720847.jpg"/>
-    <country lang="es">Italia</country>
-  </programme>
-  <programme start="20221107162500 -0300" stop="20221107182500 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">WTA Finals</title>
-    <desc lang="es">Las Finales de la WTA de 2022 será un torneo femenino de tenis. Será la 51. edición de la competición en individuales y la 46. edición de la competición en dobles. Participaran las ocho mejores jugadoras de la temporada en el cuadro de individuales y las ocho mejores parejas en el cuadro de dobles.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tenis</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/24128353.jpg"/>
-  </programme>
-  <programme start="20221107182500 -0300" stop="20221107190000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter+</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
-  </programme>
-  <programme start="20221107190000 -0300" stop="20221107220000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Noticiero</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7205618.jpg"/>
-  </programme>
-  <programme start="20221107220000 -0300" stop="20221107230000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">ESPN Tenis</title>
-    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea. Gestas históricas, situaciones familiares, imágenes inolvidables y voces de los protagonistas en distintos momentos de su vida, que unidas por una línea de tiempo otorgarán una sensación única para disfrutar de cada informe. La actualidad, vista desde una perspectiva especial. Las grandes novedades del circuito, la historia de un certamen y también las pequeñas curiosidades que se dan en la intimidad de cada torneo. Los mejores puntos, con los tiros más insólitos, jugadas maestras y los errores más increíbles. El mundo tenis desde adentro. Y también, desde afuera: personajes imprescindibles para el circuito, pero que pocas veces quedan en los primeros planos. Un ida y vuelta constante, con videos virales y creaciones imposibles de creer: ¿puede jugar Federer contra Federer?.</desc>
-    <credits>
-      <actor>Pablo Stecco</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tenis</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/23644301.jpg"/>
-  </programme>
-  <programme start="20221107230000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 1">
-    <title lang="es">PGA Tour Highlights - World Wide Technology Championship at Mayakoba</title>
-    <desc lang="es">Los mejores momentos del World Wide Technology Championship at Mayakoba.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Golf</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/24146329.jpg"/>
-    <country lang="es">México</country>
-  </programme>
-  <channel id="CHAMPIONS LEAGUE OPC # 2">
-    <display-name lang="es">CHAMPIONS LEAGUE OPC # 2</display-name>
-  </channel>
-  <programme start="20221106010000 -0300" stop="20221106013000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106013000 -0300" stop="20221106033000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106033000 -0300" stop="20221106043000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106043000 -0300" stop="20221106050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
-    <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">35</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4526538.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106050000 -0300" stop="20221106060000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">F Nacional</title>
-    <desc lang="es">Un espacio dedicado a la Primera Nacional del fútbol argentino.</desc>
-    <credits>
-      <presenter>Pablo Ferreira</presenter>
-      <presenter>Marcelo Benedetto</presenter>
-      <presenter>Pablo Bari</presenter>
-      <presenter>Leonardo Gabes</presenter>
-      <presenter>Alejandro Ruzal</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23629038.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106060000 -0300" stop="20221106070000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106070000 -0300" stop="20221106080000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106080000 -0300" stop="20221106083000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN W</title>
-    <desc lang="es">Segmento que te ofrece un entorno atractivo con acceso total a las atletas femeninas, los deportes que practican y los eventos a los que asisten, compartiendo un punto de vista único sobre las noticias que más preocupan a estos personajes.</desc>
     <date>2009</date>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">30</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/11322202.jpg"/>
-    <country lang="es">EE. UU.</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106083000 -0300" stop="20221106085000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106085000 -0300" stop="20221106105500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Premier League</title>
-    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">125</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714739.jpg"/>
-    <country lang="es">Inglaterra</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106105500 -0300" stop="20221106125500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Serie A</title>
-    <desc lang="es">Viví los partidos de la nonagésima primera edición de la máxima competición futbolística de Italia, desde su creación en 1929.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714600.jpg"/>
-    <country lang="es">Italia</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106125500 -0300" stop="20221106132000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter+</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">50</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106132000 -0300" stop="20221106152500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Premier League</title>
-    <desc lang="es">Viví los partidos de la trigésima primera temporada de la máxima división inglesa, desde su creación en 1992. Un total de veinte equipos participan en la competición, con diecisiete equipos de la temporada anterior y tres ascendidos.</desc>
-    <date>2022</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">125</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15714739.jpg"/>
-    <country lang="es">Inglaterra</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106152500 -0300" stop="20221106163000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106163000 -0300" stop="20221106165000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221106165000 -0300" stop="20221106185500 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106185500 -0300" stop="20221106210000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN F10</title>
-    <desc lang="es">Todos los compactos de los partidos de la fecha, el mejor entendimiento del juego y, por supuesto, el análisis de todas las polémicas que se presenten.</desc>
-    <credits>
-      <presenter>Gustavo López</presenter>
-      <presenter>Javier Castrilli</presenter>
-      <presenter>Leonardo Astrada</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23626572.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221106210000 -0300" stop="20221107010000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6864951.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107010000 -0300" stop="20221107020000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107020000 -0300" stop="20221107030000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107030000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107040000 -0300" stop="20221107050000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107050000 -0300" stop="20221107060000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Simplemente fútbol</title>
-    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical.</desc>
-    <credits>
-      <presenter>Enrique Wolff</presenter>
-    </credits>
-    <date>1992</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">50</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/6216402.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107060000 -0300" stop="20221107070000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107070000 -0300" stop="20221107080000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/4487576.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107080000 -0300" stop="20221107120000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">240</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107120000 -0300" stop="20221107130000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN F12</title>
-    <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
-    <credits>
-      <presenter>Mariano Closs</presenter>
-      <presenter>Luciana Rubinska</presenter>
-      <presenter>Leonardo Gabes</presenter>
-      <presenter>Javier Castrilli</presenter>
-      <presenter>Leonardo Paradizo</presenter>
-      <presenter>Juan Simón</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">60</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23616962.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107130000 -0300" stop="20221107150000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN F90 - Primera edición</title>
-    <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional.</desc>
-    <credits>
-      <presenter>Oscar Ruggeri</presenter>
-      <presenter>Sebastián Vignolo</presenter>
-      <presenter>Daniel Arcucci</presenter>
-      <presenter>Carlos Aimar</presenter>
-      <presenter>Marcelo Sottile</presenter>
-      <presenter>Diego Fucks</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23617157.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <programme start="20221107150000 -0300" stop="20221107170000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">ESPN F360</title>
-    <desc lang="es">Lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor. Además, el seguimiento a los protagonistas más destacados de Europa.</desc>
-    <credits>
-      <presenter>Gustavo López</presenter>
-      <presenter>Guillermo Poggi</presenter>
-      <presenter>Rolando Schiavi</presenter>
-      <presenter>Leonardo Gentili</presenter>
-      <presenter>Gustavo Yarroch</presenter>
-      <presenter>Agostina Larocca</presenter>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/23623835.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107170000 -0300" stop="20221107190000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <credits>
-      <presenter>Germán Paoloski</presenter>
-    </credits>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/14377680.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107190000 -0300" stop="20221107210000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">Equipo F</title>
-    <desc lang="es">El debate de cada fecha llega a la pantalla, ¡no te pierdas EQUIPO F! Se analizará todo lo que pasó el fin de semana.</desc>
-    <credits>
-      <presenter>Miguel Simón</presenter>
-      <presenter>Oscar Ruggeri</presenter>
-      <presenter>Sebastián Vignolo</presenter>
-      <presenter>Diego Latorre</presenter>
-      <presenter>Luciana Rubinska</presenter>
-      <presenter>Mariano Closs</presenter>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Fútbol</category>
-    <length units="minutes">120</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/15425917.jpg"/>
-    <country lang="es">Argentina</country>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107210000 -0300" stop="20221107220000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
-    <category lang="es">Noticiero</category>
-    <length units="minutes">180</length>
-    <icon src="https://www.telered.com.ar/buscador_tv/Imagenes/7202614.jpg"/>
-    <rating system="INCAA">
-      <value>+13</value>
-    </rating>
-  </programme>
-  <programme start="20221107220000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 2">
-    <title lang="es">A confirmar</title>
-    <category lang="es">Deportivo</category>
-    <length units="minutes">720</length>
-    <rating system="INCAA">
-      <value>ATP</value>
-    </rating>
-  </programme>
-  <channel id="CHAMPIONS LEAGUE OPC # 3">
-    <display-name lang="es">CHAMPIONS LEAGUE OPC # 3</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/17771807.gif"/>
-  </channel>
-  <programme start="20221106000000 -0300" stop="20221106010000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">El show de la F1</title>
-    <desc lang="es">Especial de tres programas. Repaso y análisis de cada Gran Premio y lo que hay alrededor. Este año desde Miami</desc>
-    <credits>
-      <actor>Fernando Tornello</actor>
-      <actor>Adrián Puente</actor>
-      <actor>Chacho López</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16493246.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221106010000 -0300" stop="20221106023000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Rally Mobil</title>
-    <desc lang="es">Cobertura del Campeonato RallyMobil, el evento motorsport más importante de Chile, con exclusivos detalles de la jornada, competidores, pistas de carrera, comentarios de especialistas en la materia y los resultados de la vuelta final.</desc>
-    <credits>
-      <actor>Gustavo Huerta</actor>
-      <actor>Felipe Horta</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Rally</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/NoPicture.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221106023000 -0300" stop="20221106030000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Momentos eternos</title>
-    <desc lang="es">La excusa perfecta para recordar te la damos aquí, en este espacio que desarrolla un momento importante del deporte nacional, narrado por sus protagonistas.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648698.JPG"/>
-  </programme>
-  <programme start="20221106030000 -0300" stop="20221106040000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">WWE Raw Highlights</title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Lucha</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16493526.jpg"/>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6897860.jpg"/>
     <country>EE</country>
     <country>UU</country>
   </programme>
-  <programme start="20221106040000 -0300" stop="20221106060000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Fórmula 1</title>
-    <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/21615110.jpg"/>
+  <programme start="20221106020400 -0300" stop="20221106030100 -0300" channel="SD | Animal planet">
+    <title lang="es">El lugar más peligroso</title>
+    <desc lang="es">Australia es famosa por los animales extraños y maravillosos que abundan en ella. Pero escondidos en el mar, en el campo e incluso en los jardines, existen animales con intenciones hostiles que pueden llegar a ser mortales para los ciudadanos.</desc>
+    <date>2016</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4579649.jpg"/>
+    <country lang="es">Australia</country>
   </programme>
-  <programme start="20221106060000 -0300" stop="20221106090000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">WWE Raw</title>
-    <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo</desc>
+  <programme start="20221106030100 -0300" stop="20221106035900 -0300" channel="SD | Animal planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Perros grandes y chicos</sub-title>
+    <desc lang="es">Conoce las razas de perros que convienen para los amantes del campo, de la ciudad, los jóvenes de espíritu, los que están en sus años dorados, los que buscan el calor, los que aman las playas y los que adoran la nieve.
+Conozca los perros kooikerhondje, mastín tibetano, terrier dandiedinmont, leonberger, affenpinscher y a los perros más grandes y más pequeños del mundo.</desc>
     <credits>
-      <actor>Jerry Lawler</actor>
+      <actor>Kevin Draine</actor>
     </credits>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Lucha</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381078.jpg"/>
+    <date>2008</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/185732.gif"/>
     <country>EE</country>
     <country>UU</country>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
   </programme>
-  <programme start="20221106090000 -0300" stop="20221106120000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">ESPN Knockout: UFC Preliminares</title>
-    <desc lang="es">Disfruta de los encuentros preliminares de la Ultimate Fight Champions, que reúne a los mejores luchadores del mundo para enfrentarse y avanzar hasta las finales.</desc>
-    <date>2020</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Artes Marciales</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744995.jpg"/>
-  </programme>
-  <programme start="20221106120000 -0300" stop="20221106140000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">UEFA Champions League</title>
-    <desc lang="es">Vive los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381788.jpg"/>
-  </programme>
-  <programme start="20221106140000 -0300" stop="20221106160000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Especiales Fox Sports</title>
-    <desc lang="es">Un espacio con contenidos deportivos para que los amantes de las distintas disciplinas disfruten. Desde análisis de expertos, reportajes, retransmisión de partidos, repetición de jugadas, comentarios sobre la actualidad y mucho más.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22198574.jpg"/>
-  </programme>
-  <programme start="20221106160000 -0300" stop="20221106170000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Expediente fútbol</title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
+  <programme start="20221106035900 -0300" stop="20221106045700 -0300" channel="SD | Animal planet">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">Enamorados</sub-title>
+    <desc lang="es">El doctor Jeff Young es un carismático héroe que tiene un espíritu independiente y positivo mientras trata a una amplia variedad de animales en Denver, Colorado. Con un discurso claro y directo, de gran corazón, él es uno de los veterinarios más ocupados de Estados Unidos. Su clínica es una marca local, y siempre es una locura. Con más de ochenta mil clientes, aproximadamente treinta cirugías por día, junto a un equipo realmente amplio, una sala de emergencia congestionada y un hospital móvil que llega a lugares lejanos, el profesional está constantemente bajo presión para mantener sanos y felices tanto a sus clientes y pacientes, como a sus aliados de trabajo.
+El Dr. Jeff vuelve de una clínica veterinaria gratuita con un perro que fue atropellado por un auto. El propietario de un gato que parece padecer tiña llega en busca de ayuda. El Dr. Jeff atiende a un perro que tiene un bulto misterioso.</desc>
     <credits>
-      <actor>Walter Safarian</actor>
+      <director>Josh Opitz</director>
+      <actor>Jeff Young</actor>
     </credits>
-    <date>2003</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1147220.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221106170000 -0300" stop="20221106180000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">WWE Raw Highlights</title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Lucha</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16493526.jpg"/>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7510939.jpg"/>
     <country>EE</country>
     <country>UU</country>
+    <episode-num system="xmltv_ns">5.9.</episode-num>
   </programme>
-  <programme start="20221106180000 -0300" stop="20221106200000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Especiales Fox Sports</title>
-    <desc lang="es">Un espacio con contenidos deportivos para que los amantes de las distintas disciplinas disfruten. Desde análisis de expertos, reportajes, retransmisión de partidos, repetición de jugadas, comentarios sobre la actualidad y mucho más.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22198574.jpg"/>
-  </programme>
-  <programme start="20221106200000 -0300" stop="20221106220000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">UEFA Champions League</title>
-    <desc lang="es">Vive los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381788.jpg"/>
-  </programme>
-  <programme start="20221106220000 -0300" stop="20221106230000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Expediente fútbol</title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
+  <programme start="20221106045700 -0300" stop="20221106055000 -0300" channel="SD | Animal planet">
+    <title lang="es">Los Irwin</title>
+    <sub-title lang="es">Un gran día para el pequeño rinoceronte</sub-title>
+    <desc lang="es">Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zoológico de Australia.
+Terri ayuda al pequeño rinoceronte del zoológico a prepararse para una vacuna clave. Robert está en una misión de rescate para salvar a dos cisnes negros que están en muy mal estado. Bindi intenta determinar si una wombat está preñada.</desc>
     <credits>
-      <actor>Walter Safarian</actor>
+      <actor>Bindi Irwin</actor>
+      <actor>Robert Clarence Irwin</actor>
+      <actor>Terri Irwin</actor>
     </credits>
-    <date>2003</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1147220.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221106230000 -0300" stop="20221106233000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
-    <date>2021</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4530664.jpg"/>
-  </programme>
-  <programme start="20221106233000 -0300" stop="20221107003000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">UEFA Europa &amp; UEFA Europa Conference League Highlights</title>
-    <desc lang="es">Un especial con lo mejor de la UEFA Europa League y UEFA Conference League, dos de los mayores torneos internacionales por clubes de Europa.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16396282.jpg"/>
-  </programme>
-  <programme start="20221107003000 -0300" stop="20221107013000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Goles de la Champions League</title>
-    <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/563419.jpg"/>
-  </programme>
-  <programme start="20221107013000 -0300" stop="20221107023000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">WWE Raw Highlights</title>
-    <desc lang="es">Los enfrentamientos más impactantes son protagonizados por las superestrellas de la WWE, quienes están dispuestos a dejar todo en el ring, con el único objetivo de salir con la victoria</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Lucha</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16493526.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-  </programme>
-  <programme start="20221107023000 -0300" stop="20221107040000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Rally Mobil</title>
-    <desc lang="es">Cobertura del Campeonato RallyMobil, el evento motorsport más importante de Chile, con exclusivos detalles de la jornada, competidores, pistas de carrera, comentarios de especialistas en la materia y los resultados de la vuelta final.</desc>
-    <credits>
-      <actor>Gustavo Huerta</actor>
-      <actor>Felipe Horta</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Rally</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/NoPicture.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221107040000 -0300" stop="20221107060000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Fórmula 1</title>
-    <desc lang="es">Será la 73ra temporada del Campeonato Mundial de Fórmula 1 de la historia. Es organizada por la Federación Internacional del Automóvil.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Automovilismo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/21615110.jpg"/>
-  </programme>
-  <programme start="20221107060000 -0300" stop="20221107090000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">WWE Raw</title>
-    <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo</desc>
-    <credits>
-      <actor>Jerry Lawler</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Lucha</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381078.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-  </programme>
-  <programme start="20221107090000 -0300" stop="20221107120000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">ESPN Knockout: UFC Preliminares</title>
-    <desc lang="es">Disfruta de los encuentros preliminares de la Ultimate Fight Champions, que reúne a los mejores luchadores del mundo para enfrentarse y avanzar hasta las finales.</desc>
-    <date>2020</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Artes Marciales</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11744995.jpg"/>
-  </programme>
-  <programme start="20221107120000 -0300" stop="20221107140000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">UEFA Champions League</title>
-    <desc lang="es">Vive los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381788.jpg"/>
-  </programme>
-  <programme start="20221107140000 -0300" stop="20221107160000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Especiales Fox Sports</title>
-    <desc lang="es">Un espacio con contenidos deportivos para que los amantes de las distintas disciplinas disfruten. Desde análisis de expertos, reportajes, retransmisión de partidos, repetición de jugadas, comentarios sobre la actualidad y mucho más.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22198574.jpg"/>
-  </programme>
-  <programme start="20221107160000 -0300" stop="20221107170000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Expediente fútbol</title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
-    <credits>
-      <actor>Walter Safarian</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1147220.jpg"/>
-    <country lang="es">Argentina</country>
-  </programme>
-  <programme start="20221107170000 -0300" stop="20221107180000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">WWE Vintage</title>
-    <desc lang="es">Especiales históricos realizados en base a la gran videoteca de WWE</desc>
     <date>2018</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Lucha</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381178.jpg"/>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8259468.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
   </programme>
-  <programme start="20221107180000 -0300" stop="20221107200000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Especiales Fox Sports</title>
-    <desc lang="es">Un espacio con contenidos deportivos para que los amantes de las distintas disciplinas disfruten. Desde análisis de expertos, reportajes, retransmisión de partidos, repetición de jugadas, comentarios sobre la actualidad y mucho más.</desc>
-    <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22198574.jpg"/>
-  </programme>
-  <programme start="20221107200000 -0300" stop="20221107220000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">UEFA Champions League</title>
-    <desc lang="es">Vive los partidos de la 68º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes. La final se jugará en el Estadio Olímpico Atatürk de Estambul, Turquía.</desc>
-    <date>2022</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/16381788.jpg"/>
-  </programme>
-  <programme start="20221107220000 -0300" stop="20221107230000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Expediente fútbol</title>
-    <desc lang="es">Un programa de archivo, basado en hechos, partidos y campañas de los equipos de fútbol de Latinoamérica. Para recordar aquellas finales históricas, grandes goles, jugadas y circunstancias que marcaron una época.</desc>
+  <programme start="20221106055000 -0300" stop="20221106064300 -0300" channel="SD | Animal planet">
+    <title lang="es">Refugio en el granero</title>
+    <sub-title lang="es">El club de la pelea de gallos</sub-title>
+    <desc lang="es">Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la histórica granja de su familia. Descubra las emocionantes historias de rescates de la granja, casos médicos únicos e historias de la vida cotidiana.
+Dan se dirige a Chicago para darles una segunda oportunidad a unos gallos de pelea. Además, el equipo se pregunta cómo recibirá el resto de la manada el mal comportamiento de DJ la vaca.</desc>
     <credits>
-      <actor>Walter Safarian</actor>
+      <actor>Dan McKernan</actor>
     </credits>
-    <date>2003</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1147220.jpg"/>
-    <country lang="es">Argentina</country>
+    <date>2020</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12438542.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  <programme start="20221107230000 -0300" stop="20221108000000 -0300" channel="CHAMPIONS LEAGUE OPC # 3">
-    <title lang="es">Goles de la Champions League</title>
-    <desc lang="es">Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
+  <programme start="20221106064300 -0300" stop="20221106073300 -0300" channel="SD | Animal planet">
+    <title lang="es">El zoológico del Bronx: detrás de las cámaras</title>
+    <sub-title lang="es">El regreso de la tortuga</sub-title>
+    <desc lang="es">Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a diez millas de Times Square en Manhattan, el Bronx Zoo abarca aproximadamente doscientos sesenta y cinco acres, con más de seis mil animales y un personal dedicado de más de quinientas personas.
+Una avestruz carismática llamada Olga va a ser reunida con su bandada. Buster, el mono ardilla, conoce a las hembras del zoológico. Una tortuga de una especie casi extinta encuentra una nueva vida.</desc>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/21042784.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20221106073300 -0300" stop="20221106080000 -0300" channel="SD | Animal planet">
+    <title lang="es">Noche</title>
+    <sub-title lang="es">Murciélagos</sub-title>
+    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
+Brandon McMillan viaja al Perú en busca de murciélagos vampiros. Junto a su guía Beto Orozco, se dirigirá a lugares donde hay mamíferos grandes, la presa favorita de estos vampiros. Su paciencia se verá recompensada tras una agotadora búsqueda.</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Series</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20221106080000 -0300" stop="20221106082800 -0300" channel="SD | Animal planet">
+    <title lang="es">Pool Kings</title>
+    <sub-title lang="es">Sueños de un hogar para siempre</sub-title>
+    <desc lang="es">Un grupo de profesionales se encarga de construir las piscinas más fascinantes según el pedido específico de cada cliente. Desde un lago personalizado hasta un parque acuático instalado en el patio trasero, ellos aceptan todos los retos y los vuelven realidad.
+Joe y Beth son abuelos y quieren agregarle una piscina a su hogar definitivo para poder realizar más eventos familiares. Esperan que este oasis en el patio trasero complete su casa soñada y los ayude a crear muchos recuerdos al aire libre.</desc>
+    <credits>
+      <actor>Justin Peek</actor>
+      <actor>Kyle Peek</actor>
+      <actor>Brian Porter</actor>
+      <actor>Paul Porter</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10415065.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20221106082800 -0300" stop="20221106092900 -0300" channel="SD | Animal planet">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+    <sub-title lang="es">Las cuarenta serpientes</sub-title>
+    <desc lang="es">Ya sea recorriendo los territorios más traicioneros del continente por aire, tierra o agua, o asumiendo riesgos personales para tratar a sus pacientes, la Dra. Dee encarna la más auténtica e inquebrantable pasión por el cuidado de todo tipo de criaturas domésticas y salvajes.
+La Dra. Dee debe hacer una cirugía de tres horas para salvarle la vida a un perro. El Dr. Terry cambia el diagnóstico de un labrador mestizo con convulsiones. La Dra. Dee y Ken van a Yakutat, Alaska, un pueblo que no ha visto un veterinario en dos años.</desc>
+    <credits>
+      <actor>Dee Thornell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2016701.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20221106092900 -0300" stop="20221106103000 -0300" channel="SD | Animal planet">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Discúlpenme</sub-title>
+    <desc lang="es">Este programa muestra el trabajo cotidiano de tres veterinarios, Diarra Blue, Aubrey Ross y Mike Lavigne, y sus familias. Estos expertos enfrentan los desafíos con humor y entusiasmo, decididos a hacer las cosas bien por sus familias y los animales.
+El doctor Lavigne atiende a un bulldog francés con un problema para respirar que requiere una cirugía especial, luego se une al doctor Blue para transportar unos cerdos. Además, el doctor Ross examina su propio cerdo.</desc>
+    <credits>
+      <director>Lisa Tucker</director>
+      <actor>Diarra Blue</actor>
+      <actor>Aubrey Ross</actor>
+      <actor>Mike Lavigne</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4454459.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+  </programme>
+  <programme start="20221106103000 -0300" stop="20221106110000 -0300" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <date>2000</date>
-    <category lang="es">Deportes</category>
-    <category lang="es">Fútbol</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/563419.jpg"/>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20221106110000 -0300" stop="20221106113000 -0300" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <date>2000</date>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20221106113000 -0300" stop="20221106120000 -0300" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <date>2000</date>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20221106120000 -0300" stop="20221106130100 -0300" channel="SD | Animal planet">
+    <title lang="es">Islas mortales con Dave Salmoni</title>
+    <sub-title lang="es">Isla del Volcán</sub-title>
+    <desc lang="es">En este documental de historia natural, Dave Salmoni conoce a los verdaderos sobrevivientes del mundo natural, cuando se aventura a algunas de las islas más remotas del planeta. Estas islas han desarrollado ecosistemas y especies únicas, y estos animales se han adaptado perfectamente a su entorno. Al vivir junto a estos animales salvajes, Dave aprenderá de ellos cómo un hombre puede sobrevivir en algunos de los lugares más remotos de la Tierra.
+El biólogo Dave Salmoni se aventura a una isla mortal en el legendario archipiélago Galápagos en busca de algunos de los animales más extraños y resistentes de la Tierra.</desc>
+    <credits>
+      <actor>Dave Salmoni</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/953917.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20221106130100 -0300" stop="20221106140200 -0300" channel="SD | Animal planet">
+    <title lang="es">Pescadores al límite</title>
+    <sub-title lang="es">Los cuatro Norsemen</sub-title>
+    <desc lang="es">Cuatro pescadores acérrimos están decididos a ser los primeros en pescar las aguas más remotas que quedan en la tierra. Los amigos Chris, Thad, Brian y Jay se juntan para hacer balsas, conducir y abrirse camino hasta las misteriosas y ocultas aguas en busca de peces legendarios.
+El equipo sigue una pista hasta un río remoto en Groenlandia, donde supuestamente se encuentra el salvelino. Entre las tundras, los fiordos y los valles, descubrirán la naturaleza en su estado más puro y peligroso.</desc>
+    <credits>
+      <actor>Chris Owens</actor>
+      <actor>Brian Jill</actor>
+      <actor>Thad Robison</actor>
+      <actor>Jay Johnson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9728022.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20221106140200 -0300" stop="20221106150300 -0300" channel="SD | Animal planet">
+    <title lang="es">Sasquatch: la leyenda de Pie Grande</title>
+    <sub-title lang="es">La tierra de Pie Grande</sub-title>
+    <desc lang="es">El equipo está conformado por Matt Moneymaker, el presidente de organización de investigadores en busca de 'Pie Grande', los científicos James 'Bobo' Fay y Cliff Barackman y la escéptica Renae Holland. La serie tiene creyentes y los que no lo son, por lo tanto algunos arrojarán conclusiones pero otros difícilmente las aceptarán. Sin embargo, el show documenta los esfuerzos del equipo y los estudios de las 'pruebas' en un intento por confirmar la existencia de la misteriosa criatura.
+El equipo viaja a Iowa para continuar con sus investigaciones. Se comparten historias alrededor del fuego, y el equipo explora el parque, antes de una épica noche final.</desc>
+    <credits>
+      <actor>Cliff Barackman</actor>
+      <actor>James Fay</actor>
+      <actor>Ranae Holland</actor>
+      <actor>Craig Woolheater</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/929692.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme start="20221106150300 -0300" stop="20221106153300 -0300" channel="SD | Animal planet">
+    <title lang="es">Noche</title>
+    <sub-title lang="es">Pantera</sub-title>
+    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
+Brandon viaja al pantano de los Everglades en busca de la pantera de Florida, una esquiva criatura a la que nunca se ha filmado de noche.</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Series</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20221106153300 -0300" stop="20221106160400 -0300" channel="SD | Animal planet">
+    <title lang="es">Noche</title>
+    <sub-title lang="es">Cocodrilos</sub-title>
+    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
+Brandon se dirige al pantano de los Everglades, en Florida, en busca del cocodrilo americano, uno de los depredadores más grandes del mundo. Un cocodrilo ataca su canoa y pone en peligro a Brandon y su equipo.</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Series</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20221106160400 -0300" stop="20221106163300 -0300" channel="SD | Animal planet">
+    <title lang="es">Coyote Peterson: aventuras salvajes</title>
+    <sub-title lang="es">Pesadillas de aracnofobia</sub-title>
+    <desc lang="es">Durante los últimos cuatro años, Coyote Peterson y el equipo Brave Wilderness han viajado por el mundo para conocer de cerca una gran variedad de especies animales. Descubre las decisiones arriesgadas y calculadas que tomaron, y cómo los resultados los han llevado por un camino hacia un éxito sin precedentes.
+Coyote está decidido a atrapar a la venenosa araña de tela en embudo de Sydney. Después de que Coyote tiene un encuentro cara a cara con esta bestia agresiva, la entrega al Australia Reptile Park para que la estudien.</desc>
+    <credits>
+      <director>Mark Vins</director>
+      <actor>Coyote Peterson</actor>
+      <actor>Mario Aldecoa</actor>
+      <actor>Mark Vins</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10880924.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20221106163300 -0300" stop="20221106170200 -0300" channel="SD | Animal planet">
+    <title lang="es">Coyote Peterson: aventuras salvajes</title>
+    <sub-title lang="es">Locura marsupial</sub-title>
+    <desc lang="es">Durante los últimos cuatro años, Coyote Peterson y el equipo Brave Wilderness han viajado por el mundo para conocer de cerca una gran variedad de especies animales. Descubre las decisiones arriesgadas y calculadas que tomaron, y cómo los resultados los han llevado por un camino hacia un éxito sin precedentes.
+En el Australian Reptile Park, Coyote y su equipo experimentan con marsupiales. Les presentan muchos amigos peludos, incluido un koala y un wombat revoltoso, que determinan qué mamífero merece el título de 'el marsupial más lindo'.</desc>
+    <credits>
+      <director>Mark Vins</director>
+      <actor>Coyote Peterson</actor>
+      <actor>Mario Aldecoa</actor>
+      <actor>Mark Vins</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10880916.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+  </programme>
+  <programme start="20221106170200 -0300" stop="20221106180000 -0300" channel="SD | Animal planet">
+    <title lang="es">Tiburones y volcanes</title>
+    <desc lang="es">En todo el mundo los tiburones de varias especies parecen concentrarse alrededor de los volcanes y las islas volcánicas. ¿Qué los atraen a ellos? ¿Por qué los volcanes se convierten en imanes para tiburones?</desc>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7504808.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+  </programme>
+  <programme start="20221106180000 -0300" stop="20221106185800 -0300" channel="SD | Animal planet">
+    <title lang="es">Isla Tiburón: hermanos de sangre</title>
+    <desc lang="es">Dos tiburones blancos, que aparentemente son hermanos, están en el corazón de un misterio. ¿Podrán estos animales reconocer y preferir la compañía de un pariente de sangre? Un equipo se aventura a encontrar respuestas en Australia.</desc>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9900218.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+  </programme>
+  <programme start="20221106185800 -0300" stop="20221106195900 -0300" channel="SD | Animal planet">
+    <title lang="es">Pescadores al límite</title>
+    <sub-title lang="es">El gigante del Amazonas</sub-title>
+    <desc lang="es">Cuatro pescadores acérrimos están decididos a ser los primeros en pescar las aguas más remotas que quedan en la tierra. Los amigos Chris, Thad, Brian y Jay se juntan para hacer balsas, conducir y abrirse camino hasta las misteriosas y ocultas aguas en busca de peces legendarios.
+El arapaima es el pez de agua dulce más grande del mundo. El grupo se dirige a una de las selvas más remotas e inhóspitas de Ecuador para intentar atrapar a uno de estos dinosaurios vivos.</desc>
+    <credits>
+      <actor>Chris Owens</actor>
+      <actor>Brian Jill</actor>
+      <actor>Thad Robison</actor>
+      <actor>Jay Johnson</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9728026.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20221106195900 -0300" stop="20221106210000 -0300" channel="SD | Animal planet">
+    <title lang="es">Wild Frank: viva Italia</title>
+    <desc lang="es">Frank Cuesta vuelve a Italia para descubrir del país su increíble fauna, costumbres y peculiaridades. Tras asistir al Festival de la Serpiente en la región de Abruzzo, Frank viajará a los Montes Apeninos.</desc>
+    <credits>
+      <actor>Frank Cuesta</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7475687.jpg"/>
+    <country lang="es">España</country>
+  </programme>
+  <programme start="20221106210000 -0300" stop="20221106220100 -0300" channel="SD | Animal planet">
+    <title lang="es">Con el agua al cuello</title>
+    <sub-title lang="es">La pecera real de Prince Royce</sub-title>
+    <desc lang="es">La compañía Acrylic Tank Manufacturing (ATM) es un negocio familiar que se ha convertido en uno de los principales en Estados Unidos en hacer acuarios. El equipo está liderado por los cuñados, socios, mejores amigos y rivales, Brett Raymer y Wayde King. ATM literalmente ha creado miles de acuarios temáticos, gigantescos, para clientes de alto perfil. Brett y Wayde se encargan de construir estanques en las más interesantes locaciones, como restaurantes, casinos, bancos, hoteles, iglesias, oficinas, mansiones, museos y zoológicos.
+La estrella de la música latina, Prince Royce, quiere un acuario personalizado en su mansión de Miami. Wayde y Brett intentan hacerle el acuario lo más acorde a su personalidad, pero un cambio de último momento en la fachada del diseño lo retrasa.</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2199117.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+  </programme>
+  <programme start="20221106220100 -0300" stop="20221106230200 -0300" channel="SD | Animal planet">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Perro hermafrodita</sub-title>
+    <desc lang="es">Este programa muestra el trabajo cotidiano de tres veterinarios, Diarra Blue, Aubrey Ross y Mike Lavigne, y sus familias. Estos expertos enfrentan los desafíos con humor y entusiasmo, decididos a hacer las cosas bien por sus familias y los animales.
+El Dr. Lavigne le realiza una cirugía a un perro hermafrodita que es macho y hembra. Un dragón barbudo lucha contra una enfermedad de la piel que el Dr. Ross debe tratar antes de que cause problemas graves.</desc>
+    <credits>
+      <director>Lisa Tucker</director>
+      <actor>Diarra Blue</actor>
+      <actor>Aubrey Ross</actor>
+      <actor>Mike Lavigne</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4454463.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+  </programme>
+  <programme start="20221106230200 -0300" stop="20221107000300 -0300" channel="SD | Animal planet">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">Estar a la altura</sub-title>
+    <desc lang="es">El doctor Jeff Young es un carismático héroe que tiene un espíritu independiente y positivo mientras trata a una amplia variedad de animales en Denver, Colorado. Con un discurso claro y directo, de gran corazón, él es uno de los veterinarios más ocupados de Estados Unidos. Su clínica es una marca local, y siempre es una locura. Con más de ochenta mil clientes, aproximadamente treinta cirugías por día, junto a un equipo realmente amplio, una sala de emergencia congestionada y un hospital móvil que llega a lugares lejanos, el profesional está constantemente bajo presión para mantener sanos y felices tanto a sus clientes y pacientes, como a sus aliados de trabajo.
+El Dr. Jeff intenta diagnosticar la enfermedad devastadora de un perro. Mientras tanto, la hija del veterinario Héctor cuida a una perra y sus siete cachorros, y el Dr. Baier se ofrece para ayudar a encontrar hogares para los conejos rescatados.</desc>
+    <credits>
+      <director>Josh Opitz</director>
+      <actor>Jeff Young</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7510931.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
+  </programme>
+  <programme start="20221107000300 -0300" stop="20221107010400 -0300" channel="SD | Animal planet">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+    <sub-title lang="es">Las cuarenta serpientes</sub-title>
+    <desc lang="es">Ya sea recorriendo los territorios más traicioneros del continente por aire, tierra o agua, o asumiendo riesgos personales para tratar a sus pacientes, la Dra. Dee encarna la más auténtica e inquebrantable pasión por el cuidado de todo tipo de criaturas domésticas y salvajes.
+La Dra. Dee debe hacer una cirugía de tres horas para salvarle la vida a un perro. El Dr. Terry cambia el diagnóstico de un labrador mestizo con convulsiones. La Dra. Dee y Ken van a Yakutat, Alaska, un pueblo que no ha visto un veterinario en dos años.</desc>
+    <credits>
+      <actor>Dee Thornell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2016741.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20221107010400 -0300" stop="20221107020500 -0300" channel="SD | Animal planet">
+    <title lang="es">Pit Bulls y convictos</title>
+    <sub-title lang="es">Resgate Eletrizante</sub-title>
+    <desc lang="es">Tía María Torres es una madre de cuarenta y nueve años de edad, reconocida entrenadora de pit bulls y fundadora y propietaria del Centro de Rescate Villalobos, el refugio de estos animales más grande de los Estados Unidos. Esta serie sigue el turbulento drama y los momentos agridulces de los ex convictos que se juntan con perros de mala reputación para fortalecerse. Al compartir muchos de los mismos rasgos dominantes de esta raza, Torres tiene el poder de llevar a cabo una transformación realmente positiva, tanto para la comunidad penitenciaria como en el mundo canino. Les invitamos a ver lo que hace una mujer para cumplir su sueño de salvar a estos poco comprendidos de situaciones peligrosas y darle a ex presidiarios una oportunidad para rehacer su reputación y su vida.
+En la Parroquia de la Asunción, M2 salva a un perro que deambula por los campos de caña. Tia y Earl ayudan a encontrar un perro mayor para la veterana Kim, y Toney y Emily hacen que cada día cuente para el perro del hospicio, Chester.</desc>
+    <credits>
+      <actor>Tía María Torres</actor>
+      <actor>Mariah Torres</actor>
+      <actor>Tania Torres</actor>
+      <actor>Kanani</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6052911.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">13.2.</episode-num>
+  </programme>
+  <programme start="20221107020500 -0300" stop="20221107030200 -0300" channel="SD | Animal planet">
+    <title lang="es">Animales en riesgo: Houston</title>
+    <desc lang="es">Un equipo de ocho investigadores de la Sociedad de Prevención de la Crueldad hacia animales de Houston, trabaja en un área extensa de Texas para investigar reportes de crueldad hacia estos seres y, cuando sea necesario, salvarlos de situaciones extremas de abuso. Ya que estos expertos no tienen la potestad de arrestar o sancionar, trabajan conjuntamente con el poder judicial local. Esta oficina permanentemente asigna a la agente policial Christine Kendrick para ayudar al grupo con cualquier cosa que tenga que ver con la ley, como dar órdenes de arrestos o penalizar a aquellos responsables de violencia hacia animales.</desc>
+    <date>2008</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4097667.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+  </programme>
+  <programme start="20221107030200 -0300" stop="20221107035900 -0300" channel="SD | Animal planet">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+    <sub-title lang="es">Las cuarenta serpientes</sub-title>
+    <desc lang="es">Ya sea recorriendo los territorios más traicioneros del continente por aire, tierra o agua, o asumiendo riesgos personales para tratar a sus pacientes, la Dra. Dee encarna la más auténtica e inquebrantable pasión por el cuidado de todo tipo de criaturas domésticas y salvajes.
+La Dra. Dee debe hacer una cirugía de tres horas para salvarle la vida a un perro. El Dr. Terry cambia el diagnóstico de un labrador mestizo con convulsiones. La Dra. Dee y Ken van a Yakutat, Alaska, un pueblo que no ha visto un veterinario en dos años.</desc>
+    <credits>
+      <actor>Dee Thornell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2016725.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20221107035900 -0300" stop="20221107045600 -0300" channel="SD | Animal planet">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">Discúlpenme</sub-title>
+    <desc lang="es">Este programa muestra el trabajo cotidiano de tres veterinarios, Diarra Blue, Aubrey Ross y Mike Lavigne, y sus familias. Estos expertos enfrentan los desafíos con humor y entusiasmo, decididos a hacer las cosas bien por sus familias y los animales.
+El doctor Lavigne atiende a un bulldog francés con un problema para respirar que requiere una cirugía especial, luego se une al doctor Blue para transportar unos cerdos. Además, el doctor Ross examina su propio cerdo.</desc>
+    <credits>
+      <director>Lisa Tucker</director>
+      <actor>Diarra Blue</actor>
+      <actor>Aubrey Ross</actor>
+      <actor>Mike Lavigne</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4496338.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+  </programme>
+  <programme start="20221107045600 -0300" stop="20221107054800 -0300" channel="SD | Animal planet">
+    <title lang="es">Supervivencia salvaje</title>
+    <sub-title lang="es">Gigantes</sub-title>
+    <desc lang="es">Para los animales salvajes, la vida es pura supervivencia y en esta batalla diaria, muchas especies se han adaptado de manera sorprendente. Al evolucionar comportamientos, habilidades y mutaciones anatómicas únicas, estos animales han aprendido a sobrevivir en todos los rincones de la tierra. Decubra la variedad de mutaciones animales que vemos en la naturaleza a partir de una comunicación sofisticada, una selección sexual extraordinaria y migraciones épicas. En cada episodio se presentan increíbles secuencias de criaturas llenas de acción que luchan por sobrevivir, revelando las formas más increíbles en que los animales encuentran comida, un compañero, evitan la muerte e incluso se vengan.
+Explore el mundo complejo de las especies enormes. Para estos gigantes de la naturaleza, ser los más grandes trae grandes ventajas y enormes desafíos. Es inspirador ver cómo estos gigantes resuelven sus problemas.</desc>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/11122936.jpg"/>
+    <country lang="es">Gran Bretaña</country>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20221107054800 -0300" stop="20221107064100 -0300" channel="SD | Animal planet">
+    <title lang="es">Criaturas misteriosas con Forrest Galante</title>
+    <sub-title lang="es">La guarida de la anaconda</sub-title>
+    <desc lang="es">Forrest Galante y su equipo recorren el mundo para investigar criaturas misteriosas que generan conflictos entre animales y humanos. Después de descubrir los misterios, Forrest intenta resolver la situación y salvar tanto a humanos como a animales.
+La leyenda de una enorme serpiente de 20 metros lleva a Forrest y su esposa Jessica a Brasil. Después de explorar cuevas subterráneas y bucear en ríos, se encuentran cara a cara con el mito: la anaconda más grande jamás vista o capturada por el hombre.</desc>
+    <credits>
+      <actor>Forrest Galante</actor>
+      <actor>Jessica Evans</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/19640211.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20221107064100 -0300" stop="20221107073300 -0300" channel="SD | Animal planet">
+    <title lang="es">El regreso del gran tiburón blanco</title>
+    <desc lang="es">Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?
+Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/3043045.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+  </programme>
+  <programme start="20221107073300 -0300" stop="20221107080000 -0300" channel="SD | Animal planet">
+    <title lang="es">Noche</title>
+    <sub-title lang="es">Caimán</sub-title>
+    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
+Los ríos de la selva peruana albergan al escurridizo caimán negro, uno de los depredadores más agresivos. Brandon localiza un caimán desde su barco y logra atrapar a esta misteriosa criatura prehistórica.</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Series</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+  </programme>
+  <programme start="20221107080000 -0300" stop="20221107082800 -0300" channel="SD | Animal planet">
+    <title lang="es">Pool Kings</title>
+    <sub-title lang="es">Un oasis en el patio trasero</sub-title>
+    <desc lang="es">Un grupo de profesionales se encarga de construir las piscinas más fascinantes según el pedido específico de cada cliente. Desde un lago personalizado hasta un parque acuático instalado en el patio trasero, ellos aceptan todos los retos y los vuelven realidad.
+Una familia de Houston, Texas, está lista para hacer realidad la piscina de sus sueños. Por eso, los integrantes de Pool Kings llevarán la diversión a otro nivel con una piscina dinámica digna de un hotel lujoso.</desc>
+    <credits>
+      <actor>Justin Peek</actor>
+      <actor>Kyle Peek</actor>
+      <actor>Brian Porter</actor>
+      <actor>Paul Porter</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10415065.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20221107082800 -0300" stop="20221107092900 -0300" channel="SD | Animal planet">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+    <sub-title lang="es">El virus felino</sub-title>
+    <desc lang="es">Ya sea recorriendo los territorios más traicioneros del continente por aire, tierra o agua, o asumiendo riesgos personales para tratar a sus pacientes, la Dra. Dee encarna la más auténtica e inquebrantable pasión por el cuidado de todo tipo de criaturas domésticas y salvajes.
+La doctora Dee vuelve a Ruby para atender en una clínica aislada. En el hospital, atiende a un conejo desnutrido, a un cachorrito de border collie con un problema congénito y a un gato rescatado que puede tener un virus incurable.</desc>
+    <credits>
+      <actor>Dee Thornell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2016733.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20221107092900 -0300" stop="20221107103000 -0300" channel="SD | Animal planet">
+    <title lang="es">Veterinarios de Texas</title>
+    <sub-title lang="es">El pequeño cerdo tiene ácaros</sub-title>
+    <desc lang="es">Este programa muestra el trabajo cotidiano de tres veterinarios, Diarra Blue, Aubrey Ross y Mike Lavigne, y sus familias. Estos expertos enfrentan los desafíos con humor y entusiasmo, decididos a hacer las cosas bien por sus familias y los animales.
+Un cerdo intenta morder al doctor Blue y el doctor Lavigne usa un método único para reparar la pata de un perro pequeño. El doctor Ross ayuda a un perro rescatado que tiene heridas desde hace mucho tiempo.</desc>
+    <credits>
+      <director>Lisa Tucker</director>
+      <actor>Diarra Blue</actor>
+      <actor>Aubrey Ross</actor>
+      <actor>Mike Lavigne</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4496338.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">5.3.</episode-num>
+  </programme>
+  <programme start="20221107103000 -0300" stop="20221107110000 -0300" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <date>2000</date>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20221107110000 -0300" stop="20221107113000 -0300" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <date>2000</date>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20221107113000 -0300" stop="20221107120000 -0300" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <date>2000</date>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20221107120000 -0300" stop="20221107130100 -0300" channel="SD | Animal planet">
+    <title lang="es">Guaridas con estilo</title>
+    <sub-title lang="es">Centro de rescate renovado</sub-title>
+    <desc lang="es">Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quitectos, transforman casas y áreas exteriores monótonas en espacios funcionales y de alto estilo, tanto para las mascotas como para sus dueños.
+En Gentle Barn hay más de 200 animales rescatados, incluídos cerdos, ovejas, vacas, caballos y una llama. Antonio les diseñará a todos esos animales un espacio para que se mantengan activos.</desc>
+    <credits>
+      <actor>Antonio Ballatore</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6581912.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20221107130100 -0300" stop="20221107140200 -0300" channel="SD | Animal planet">
+    <title lang="es">Piscinas increíbles</title>
+    <sub-title lang="es">Todo por las aves</sub-title>
+    <desc lang="es">Un diseñador de piscinas, reconocido con su equipo de Lucas Lagoons, crea ambientes de gran belleza al aire libre. Nada es imposible en su afán por convertir espacios exteriores convencionales en verdaderas obras de arte naturales.
+Una familia que cuida del medioambiente y vive en un santuario de aves en Osprey, Florida, pide a Lucas Congdon que construya una piscina paradisíaca para humanos y una fuente que sea un oasis para las aves, todo en un jardín antiguo y deteriorado.</desc>
+    <credits>
+      <actor>Lucas Congdon</actor>
+      <actor>John Messner</actor>
+      <actor>Matt Schuler</actor>
+      <actor>Chris Warren</actor>
+      <actor>Jane Werley</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4523269.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20221107140200 -0300" stop="20221107150300 -0300" channel="SD | Animal planet">
+    <title lang="es">Piscinas increíbles</title>
+    <sub-title lang="es">A la vera del río</sub-title>
+    <desc lang="es">Un diseñador de piscinas, reconocido con su equipo de Lucas Lagoons, crea ambientes de gran belleza al aire libre. Nada es imposible en su afán por convertir espacios exteriores convencionales en verdaderas obras de arte naturales.
+Lucas y el equipo construyen su primer río lento que circunnavegará una isla real, cascadas y una gruta gigante. Lucas coloca además un equipo de audio y video de última generación, una cocina al aire libre y una sorpresa especial.</desc>
+    <credits>
+      <actor>Lucas Congdon</actor>
+      <actor>John Messner</actor>
+      <actor>Matt Schuler</actor>
+      <actor>Chris Warren</actor>
+      <actor>Jane Werley</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7693190.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20221107150300 -0300" stop="20221107160500 -0300" channel="SD | Animal planet">
+    <title lang="es">Con el agua al cuello</title>
+    <sub-title lang="es">Inspirado en el mundo náutico</sub-title>
+    <desc lang="es">La compañía Acrylic Tank Manufacturing (ATM) es un negocio familiar que se ha convertido en uno de los principales en Estados Unidos en hacer acuarios. El equipo está liderado por los cuñados, socios, mejores amigos y rivales, Brett Raymer y Wayde King. ATM literalmente ha creado miles de acuarios temáticos, gigantescos, para clientes de alto perfil. Brett y Wayde se encargan de construir estanques en las más interesantes locaciones, como restaurantes, casinos, bancos, hoteles, iglesias, oficinas, mansiones, museos y zoológicos.
+El Laketown Wharf Resort de Panama City Beach quiere un tanque cilíndrico inspirado en el mundo náutico, que ocupará un lugar destacado en su nuevo restaurante. Debe tener el aspecto de un muelle envejecido e incluir esculturas de tortugas marinas.</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/576420.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
+  </programme>
+  <programme start="20221107160500 -0300" stop="20221107170400 -0300" channel="SD | Animal planet">
+    <title lang="es">Con el agua al cuello</title>
+    <sub-title lang="es">Un productor legendario</sub-title>
+    <desc lang="es">La compañía Acrylic Tank Manufacturing (ATM) es un negocio familiar que se ha convertido en uno de los principales en Estados Unidos en hacer acuarios. El equipo está liderado por los cuñados, socios, mejores amigos y rivales, Brett Raymer y Wayde King. ATM literalmente ha creado miles de acuarios temáticos, gigantescos, para clientes de alto perfil. Brett y Wayde se encargan de construir estanques en las más interesantes locaciones, como restaurantes, casinos, bancos, hoteles, iglesias, oficinas, mansiones, museos y zoológicos.
+Brett y Wayde reciben un llamado del reconocido productor musical Wyclef Jean, fundador de la legendaria banda The Fugees: ¡a falta de uno, tiene dos tanques que necesitan asistencia urgente!</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4316425.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">7.8.</episode-num>
+  </programme>
+  <programme start="20221107170400 -0300" stop="20221107180200 -0300" channel="SD | Animal planet">
+    <title lang="es">Islas mortales con Dave Salmoni</title>
+    <sub-title lang="es">Isla Tiburón</sub-title>
+    <desc lang="es">En este documental de historia natural, Dave Salmoni conoce a los verdaderos sobrevivientes del mundo natural, cuando se aventura a algunas de las islas más remotas del planeta. Estas islas han desarrollado ecosistemas y especies únicas, y estos animales se han adaptado perfectamente a su entorno. Al vivir junto a estos animales salvajes, Dave aprenderá de ellos cómo un hombre puede sobrevivir en algunos de los lugares más remotos de la Tierra.
+Dave Salmoni viajó a una isla remota en el corazón del Pacífico Sur. Debería ser un paraíso, pero esta isla tiene una reputación siniestra. Es conocida como la capital mundial de los tiburones.</desc>
+    <credits>
+      <actor>Dave Salmoni</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/953929.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20221107180200 -0300" stop="20221107190000 -0300" channel="SD | Animal planet">
+    <title lang="es">Guardianes del pantano</title>
+    <sub-title lang="es">Tierra de monstruos</sub-title>
+    <desc lang="es">Dusty crum, un cazador de serpientes, y su devota tripulación luchan por salvar la tierra que conocen y aman, los Glades.
+El cazador de serpientes Dusty Crum les declara la guerra a cientos de pitón invasivas, y lo hace con un equipo único.</desc>
+    <credits>
+      <actor>Dusty Crum</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10333835.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20221107190000 -0300" stop="20221107193000 -0300" channel="SD | Animal planet">
+    <title lang="es">Guardianes de Borneo</title>
+    <sub-title lang="es">El enigma del tiburón</sub-title>
+    <desc lang="es">Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene como objetivo proteger la increíble biodiversidad de la tercera isla más grande del mundo. Han pasado cincuenta años desde la última película filmada en Borneo.
+El experto en tiburones David McGuire ha recorrido medio mundo en pos de un experimento: mudar a un grupo de tiburones a un nuevo hogar. Por su parte, el activista Alex Yee trabaja de encubierto para exponer los secretos del tráfico de huevos de tortuga.</desc>
+    <credits>
+      <director>Chiara Bellati</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4885858.jpg"/>
+    <country lang="es">Malasia</country>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20221107193000 -0300" stop="20221107200100 -0300" channel="SD | Animal planet">
+    <title lang="es">Guardianes de Borneo</title>
+    <sub-title lang="es">Carrera hacia la cima</sub-title>
+    <desc lang="es">Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene como objetivo proteger la increíble biodiversidad de la tercera isla más grande del mundo. Han pasado cincuenta años desde la última película filmada en Borneo.
+Ciento veinte montañistas participan en la carrera más difícil del mundo, en el monte Kinabalu. En la península de Santubong, un equipo del proyecto de conservación de delfines de Sarawak investiga a una población de delfines del río Irrawady.</desc>
+    <credits>
+      <director>Chiara Bellati</director>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4885858.jpg"/>
+    <country lang="es">Malasia</country>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20221107200100 -0300" stop="20221107210000 -0300" channel="SD | Animal planet">
+    <title lang="es">Wild Frank: viva Italia</title>
+    <sub-title lang="es">Especial del circo</sub-title>
+    <desc lang="es">Frank Cuesta vuelve a Italia para descubrir del país su increíble fauna, costumbres y peculiaridades. Tras asistir al Festival de la Serpiente en la región de Abruzzo, Frank viajará a los Montes Apeninos.
+Frank afirma que el circo ha formado parte de nuestra infancia, que nos ha hecho reír, y que muchos vimosun animal exótico por primera vez en uno. Pero que hoy día mucha gente, incluido él, está en contra de los espectáculos.</desc>
+    <credits>
+      <actor>Frank Cuesta</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7475691.jpg"/>
+    <country lang="es">España</country>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20221107210000 -0300" stop="20221107220200 -0300" channel="SD | Animal planet">
+    <title lang="es">Con el agua al cuello</title>
+    <sub-title lang="es">Una pecera para una estrella de Internet</sub-title>
+    <desc lang="es">La compañía Acrylic Tank Manufacturing (ATM) es un negocio familiar que se ha convertido en uno de los principales en Estados Unidos en hacer acuarios. El equipo está liderado por los cuñados, socios, mejores amigos y rivales, Brett Raymer y Wayde King. ATM literalmente ha creado miles de acuarios temáticos, gigantescos, para clientes de alto perfil. Brett y Wayde se encargan de construir estanques en las más interesantes locaciones, como restaurantes, casinos, bancos, hoteles, iglesias, oficinas, mansiones, museos y zoológicos.
+La estrella de YouTube, Roman Atwood, es conocido por sus bromas escandalosas. Roman encarga a ATM un acuario completo con el nombre de su empresa 'Smile More'. Una broma genera caos y ATM lucha por terminar el acuario.</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/658975.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+  </programme>
+  <programme start="20221107220200 -0300" stop="20221107230300 -0300" channel="SD | Animal planet">
+    <title lang="es">Monstruos de río</title>
+    <sub-title lang="es">Devorador de humanos</sub-title>
+    <desc lang="es">Jeremy busca peces de agua dulce que comen carne humana. Una batalla de poder entre el hombre y una criatura casi sobrenatural que acecha en los ríos del planeta, esperando bajo el agua para asesinar a sus presas y que alcanza tamaños realmente asombrosos.
+Wade viajará a Alemania para encontrarse con víctimas de una bestia que asola la superficie de los ríos de Europa desde hace 700 años: el siluro, agresivo depredador suficientemente grande como para poder devorar humanos.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314773.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+  </programme>
+  <programme start="20221107230300 -0300" stop="20221108000200 -0300" channel="SD | Animal planet">
+    <title lang="es">Monstruos de río</title>
+    <sub-title lang="es">Verdugo invisible</sub-title>
+    <desc lang="es">Jeremy busca peces de agua dulce que comen carne humana. Una batalla de poder entre el hombre y una criatura casi sobrenatural que acecha en los ríos del planeta, esperando bajo el agua para asesinar a sus presas y que alcanza tamaños realmente asombrosos.
+Jeremy Wade se interna en el río Zambezi de África para desenmascarar a un invisible depredador que arrastra a los pescadores a su tumba. No sólo los cocodrilos e hipopótamos los matan, parece haber otro monstruo acechando en estas aguas.</desc>
+    <credits>
+      <actor>Jeremy Wade</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Reality Show</category>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1524413.jpg"/>
+    <country>EE</country>
+    <country>UU</country>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
   </programme>
 </tv>
