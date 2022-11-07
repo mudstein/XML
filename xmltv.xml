@@ -2,451 +2,213 @@
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="SD | Animal planet">
     <display-name lang="es">SD | Animal planet</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/9181927.gif"/>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_animal-planet_m.png"/>
   </channel>
-  <programme start="20221107000200 -0300" stop="20221107010300 -0300" channel="SD | Animal planet">
+  <programme start="20221107050000 +0100" stop="20221107060200 +0100" channel="SD | Animal planet">
+    <title lang="es">Criaturas misteriosas</title>
+    <title lang="en">Mysterious Creatures</title>
+    <sub-title lang="es">La guarida de la anaconda</sub-title>
+    <desc lang="es">La leyenda de una enorme serpiente de 20 metros lleva a Forrest y su esposa Jessica a Brasil. Después de explorar cuevas subterráneas y bucear en ríos, se encuentran cara a cara con el mito: la anaconda más grande jamás vista o capturada por el hombre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20221107060200 +0100" stop="20221107070300 +0100" channel="SD | Animal planet">
     <title lang="es">El regreso del gran tiburón blanco</title>
-    <desc lang="es">Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?
-Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?</desc>
-    <credits>
-      <actor>Brandon McMillan</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/3043045.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <title lang="en">Return of the Great White Serial Killer</title>
+    <desc lang="es">Brandon McMillan y el equipo vuelven a Surf Beach para ver si regresó el gran asesino en serie. También van a la isla Reunión, donde observan indicios similares. ¿Se tratará del mismo tiburón?</desc>
+    <category lang="es">- Shark Week: Return of the Great White Serial Killer</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-regreso-del-gran-tiburon-blanco-shark-week-return-of-the-great-white-serial-killer_l_m.jpg"/>
   </programme>
-  <programme start="20221107010300 -0300" stop="20221107020400 -0300" channel="SD | Animal planet">
+  <programme start="20221107070300 +0100" stop="20221107080400 +0100" channel="SD | Animal planet">
     <title lang="es">Monstruos de río: Terror prehistórico</title>
-    <desc lang="es">Sigue el recorrido del biólogo y pescador extremo Jeremy Wade, que viaja por el mundo en busca de los asesinos de agua dulce más temibles. Buscando pistas, testigos e historias sobre personas que fueron arrastradas bajo el agua por estos depredadores feroces, trata de atrapar a los ejemplares más grandes y luego liberarlos de nuevo a la naturaleza. Su objetivo es salvar estas raras criaturas de la extinción para ayudar a la gente a entender qué hay de verdad tras las leyendas. ¿Cuál sería el mayor monstruo de río que alguna vez acechó el planeta?</desc>
-    <credits>
-      <director>Stef Dijkstra</director>
-      <director>Charlotte Jones</director>
-      <director>Barny Revill</director>
-      <director>Luke Wiles</director>
-      <director>Lucy d'Auvergne</director>
-      <director>Duncan Chard</director>
-      <director>Stephen Gooder</director>
-      <director>Alex Parkinson</director>
-      <actor>Jeremy Wade</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/6897860.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <title lang="en">River Monsters: Prehistoric Terror</title>
+    <desc lang="es">Jeremy Wade tiene la misión de descubrir a terribles asesinos de mucho tiempo atrás. ¿Cuál sería el mayor monstruo de río que alguna vez acechó el planeta?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_monstruos-de-rio-terror-prehistorico-s00e01_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20221107020400 -0300" stop="20221107030100 -0300" channel="SD | Animal planet">
+  <programme start="20221107080400 +0100" stop="20221107090100 +0100" channel="SD | Animal planet">
     <title lang="es">El lugar más peligroso</title>
+    <title lang="en">Deadliest Place on Earth</title>
     <desc lang="es">Australia es famosa por los animales extraños y maravillosos que abundan en ella. Pero escondidos en el mar, en el campo e incluso en los jardines, existen animales con intenciones hostiles que pueden llegar a ser mortales para los ciudadanos.</desc>
-    <date>2016</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4579649.jpg"/>
-    <country lang="es">Australia</country>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-lugar-mas-peligroso-s00e01_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
   </programme>
-  <programme start="20221107030100 -0300" stop="20221107035900 -0300" channel="SD | Animal planet">
+  <programme start="20221107090100 +0100" stop="20221107095900 +0100" channel="SD | Animal planet">
     <title lang="es">ABC canino</title>
+    <title lang="en">Dogs 101</title>
     <sub-title lang="es">Perros grandes y chicos</sub-title>
-    <desc lang="es">Conoce las razas de perros que convienen para los amantes del campo, de la ciudad, los jóvenes de espíritu, los que están en sus años dorados, los que buscan el calor, los que aman las playas y los que adoran la nieve.
-Conozca los perros kooikerhondje, mastín tibetano, terrier dandiedinmont, leonberger, affenpinscher y a los perros más grandes y más pequeños del mundo.</desc>
-    <credits>
-      <actor>Kevin Draine</actor>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/185732.gif"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-  </programme>
-  <programme start="20221107035900 -0300" stop="20221107045700 -0300" channel="SD | Animal planet">
-    <title lang="es">Dr. Jeff, veterinario</title>
-    <sub-title lang="es">Enamorados</sub-title>
-    <desc lang="es">El doctor Jeff Young es un carismático héroe que tiene un espíritu independiente y positivo mientras trata a una amplia variedad de animales en Denver, Colorado. Con un discurso claro y directo, de gran corazón, él es uno de los veterinarios más ocupados de Estados Unidos. Su clínica es una marca local, y siempre es una locura. Con más de ochenta mil clientes, aproximadamente treinta cirugías por día, junto a un equipo realmente amplio, una sala de emergencia congestionada y un hospital móvil que llega a lugares lejanos, el profesional está constantemente bajo presión para mantener sanos y felices tanto a sus clientes y pacientes, como a sus aliados de trabajo.
-El Dr. Jeff vuelve de una clínica veterinaria gratuita con un perro que fue atropellado por un auto. El propietario de un gato que parece padecer tiña llega en busca de ayuda. El Dr. Jeff atiende a un perro que tiene un bulto misterioso.</desc>
-    <credits>
-      <director>Josh Opitz</director>
-      <actor>Jeff Young</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1823915.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">5.9.</episode-num>
-  </programme>
-  <programme start="20221107045700 -0300" stop="20221107055000 -0300" channel="SD | Animal planet">
-    <title lang="es">Los Irwin</title>
-    <sub-title lang="es">Un gran día para el pequeño rinoceronte</sub-title>
-    <desc lang="es">Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zoológico de Australia.
-Terri ayuda al pequeño rinoceronte del zoológico a prepararse para una vacuna clave. Robert está en una misión de rescate para salvar a dos cisnes negros que están en muy mal estado. Bindi intenta determinar si una wombat está preñada.</desc>
-    <credits>
-      <actor>Bindi Irwin</actor>
-      <actor>Robert Clarence Irwin</actor>
-      <actor>Terri Irwin</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8259468.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <desc lang="es">Conozca los perros kooikerhondje, mastín tibetano, terrier dandiedinmont, leonberger, affenpinscher y a los perros más grandes y más pequeños del mundo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_abc-canino-s03e05-perros-grandes-y-chicos_l_m.jpg"/>
     <episode-num system="xmltv_ns">2.4.</episode-num>
   </programme>
-  <programme start="20221107055000 -0300" stop="20221107064300 -0300" channel="SD | Animal planet">
-    <title lang="es">Refugio en el granero</title>
-    <sub-title lang="es">El club de la pelea de gallos</sub-title>
-    <desc lang="es">Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la histórica granja de su familia. Descubra las emocionantes historias de rescates de la granja, casos médicos únicos e historias de la vida cotidiana.
-Dan se dirige a Chicago para darles una segunda oportunidad a unos gallos de pelea. Además, el equipo se pregunta cómo recibirá el resto de la manada el mal comportamiento de DJ la vaca.</desc>
-    <credits>
-      <actor>Dan McKernan</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/12438542.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
+  <programme start="20221107095900 +0100" stop="20221107105700 +0100" channel="SD | Animal planet">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <title lang="en">Dr. Jeff: Rocky Mountain Vet</title>
+    <sub-title lang="es">Enamorados</sub-title>
+    <desc lang="es">El Dr. Jeff vuelve de una clínica veterinaria gratuita con un perro que fue atropellado por un auto. El propietario de un gato que parece padecer tiña llega en busca de ayuda. El Dr. Jeff atiende a un perro que tiene un bulto misterioso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_dr-jeff-veterinario-s05e09-enamorados_l_m.jpg"/>
+    <episode-num system="xmltv_ns">4.8.</episode-num>
   </programme>
-  <programme start="20221107064300 -0300" stop="20221107073300 -0300" channel="SD | Animal planet">
-    <title lang="es">El zoológico del Bronx: detrás de las cámaras</title>
-    <sub-title lang="es">El regreso de la tortuga</sub-title>
-    <desc lang="es">Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a diez millas de Times Square en Manhattan, el Bronx Zoo abarca aproximadamente doscientos sesenta y cinco acres, con más de seis mil animales y un personal dedicado de más de quinientas personas.
-Una avestruz carismática llamada Olga va a ser reunida con su bandada. Buster, el mono ardilla, conoce a las hembras del zoológico. Una tortuga de una especie casi extinta encuentra una nueva vida.</desc>
-    <date>2022</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/21042792.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">.2.</episode-num>
-  </programme>
-  <programme start="20221107073300 -0300" stop="20221107080000 -0300" channel="SD | Animal planet">
-    <title lang="es">Noche</title>
-    <sub-title lang="es">Murciélagos</sub-title>
-    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
-Brandon McMillan viaja al Perú en busca de murciélagos vampiros. Junto a su guía Beto Orozco, se dirigirá a lugares donde hay mamíferos grandes, la presa favorita de estos vampiros. Su paciencia se verá recompensada tras una agotadora búsqueda.</desc>
-    <credits>
-      <actor>Brandon McMillan</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20221107080000 -0300" stop="20221107082800 -0300" channel="SD | Animal planet">
-    <title lang="es">Pool Kings</title>
-    <sub-title lang="es">Sueños de un hogar para siempre</sub-title>
-    <desc lang="es">Un grupo de profesionales se encarga de construir las piscinas más fascinantes según el pedido específico de cada cliente. Desde un lago personalizado hasta un parque acuático instalado en el patio trasero, ellos aceptan todos los retos y los vuelven realidad.
-Joe y Beth son abuelos y quieren agregarle una piscina a su hogar definitivo para poder realizar más eventos familiares. Esperan que este oasis en el patio trasero complete su casa soñada y los ayude a crear muchos recuerdos al aire libre.</desc>
-    <credits>
-      <actor>Justin Peek</actor>
-      <actor>Kyle Peek</actor>
-      <actor>Brian Porter</actor>
-      <actor>Paul Porter</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10415053.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">3.3.</episode-num>
-  </programme>
-  <programme start="20221107082800 -0300" stop="20221107092900 -0300" channel="SD | Animal planet">
-    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
-    <sub-title lang="es">Las cuarenta serpientes</sub-title>
-    <desc lang="es">Ya sea recorriendo los territorios más traicioneros del continente por aire, tierra o agua, o asumiendo riesgos personales para tratar a sus pacientes, la Dra. Dee encarna la más auténtica e inquebrantable pasión por el cuidado de todo tipo de criaturas domésticas y salvajes.
-La Dra. Dee debe hacer una cirugía de tres horas para salvarle la vida a un perro. El Dr. Terry cambia el diagnóstico de un labrador mestizo con convulsiones. La Dra. Dee y Ken van a Yakutat, Alaska, un pueblo que no ha visto un veterinario en dos años.</desc>
-    <credits>
-      <actor>Dee Thornell</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2016717.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">2.9.</episode-num>
-  </programme>
-  <programme start="20221107092900 -0300" stop="20221107103000 -0300" channel="SD | Animal planet">
-    <title lang="es">Veterinarios de Texas</title>
-    <sub-title lang="es">Discúlpenme</sub-title>
-    <desc lang="es">Este programa muestra el trabajo cotidiano de tres veterinarios, Diarra Blue, Aubrey Ross y Mike Lavigne, y sus familias. Estos expertos enfrentan los desafíos con humor y entusiasmo, decididos a hacer las cosas bien por sus familias y los animales.
-El doctor Lavigne atiende a un bulldog francés con un problema para respirar que requiere una cirugía especial, luego se une al doctor Blue para transportar unos cerdos. Además, el doctor Ross examina su propio cerdo.</desc>
-    <credits>
-      <director>Lisa Tucker</director>
-      <actor>Diarra Blue</actor>
-      <actor>Aubrey Ross</actor>
-      <actor>Mike Lavigne</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4454467.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-  </programme>
-  <programme start="20221107103000 -0300" stop="20221107110000 -0300" channel="SD | Animal planet">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
-    <country lang="es">Colombia</country>
-  </programme>
-  <programme start="20221107110000 -0300" stop="20221107113000 -0300" channel="SD | Animal planet">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
-    <country lang="es">Colombia</country>
-  </programme>
-  <programme start="20221107113000 -0300" stop="20221107120000 -0300" channel="SD | Animal planet">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4039890.jpg"/>
-    <country lang="es">Colombia</country>
-  </programme>
-  <programme start="20221107120000 -0300" stop="20221107130100 -0300" channel="SD | Animal planet">
-    <title lang="es">Islas mortales con Dave Salmoni</title>
-    <sub-title lang="es">Isla del Volcán</sub-title>
-    <desc lang="es">En este documental de historia natural, Dave Salmoni conoce a los verdaderos sobrevivientes del mundo natural, cuando se aventura a algunas de las islas más remotas del planeta. Estas islas han desarrollado ecosistemas y especies únicas, y estos animales se han adaptado perfectamente a su entorno. Al vivir junto a estos animales salvajes, Dave aprenderá de ellos cómo un hombre puede sobrevivir en algunos de los lugares más remotos de la Tierra.
-El biólogo Dave Salmoni se aventura a una isla mortal en el legendario archipiélago Galápagos en busca de algunos de los animales más extraños y resistentes de la Tierra.</desc>
-    <credits>
-      <actor>Dave Salmoni</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/953908.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">.4.</episode-num>
-  </programme>
-  <programme start="20221107130100 -0300" stop="20221107140200 -0300" channel="SD | Animal planet">
-    <title lang="es">Pescadores al límite</title>
-    <sub-title lang="es">Los cuatro Norsemen</sub-title>
-    <desc lang="es">Cuatro pescadores acérrimos están decididos a ser los primeros en pescar las aguas más remotas que quedan en la tierra. Los amigos Chris, Thad, Brian y Jay se juntan para hacer balsas, conducir y abrirse camino hasta las misteriosas y ocultas aguas en busca de peces legendarios.
-El equipo sigue una pista hasta un río remoto en Groenlandia, donde supuestamente se encuentra el salvelino. Entre las tundras, los fiordos y los valles, descubrirán la naturaleza en su estado más puro y peligroso.</desc>
-    <credits>
-      <actor>Chris Owens</actor>
-      <actor>Brian Jill</actor>
-      <actor>Thad Robison</actor>
-      <actor>Jay Johnson</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9597128.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+  <programme start="20221107105700 +0100" stop="20221107115000 +0100" channel="SD | Animal planet">
+    <title lang="es">Los Irwin</title>
+    <title lang="en">Crikey! It's the Irwins</title>
+    <sub-title lang="es">Un gran día para el pequeño rinoceronte</sub-title>
+    <desc lang="es">Terri ayuda al pequeño rinoceronte del zoológico a prepararse para una vacuna clave. Robert está en una misión de rescate para salvar a dos cisnes negros que están en muy mal estado. Bindi intenta determinar si una wombat está preñada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-irwin-s02e04-un-gran-dia-para-el-pequeno-rinoceronte_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20221107140200 -0300" stop="20221107150300 -0300" channel="SD | Animal planet">
-    <title lang="es">Sasquatch: la leyenda de Pie Grande</title>
-    <sub-title lang="es">La tierra de Pie Grande</sub-title>
-    <desc lang="es">El equipo está conformado por Matt Moneymaker, el presidente de organización de investigadores en busca de 'Pie Grande', los científicos James 'Bobo' Fay y Cliff Barackman y la escéptica Renae Holland. La serie tiene creyentes y los que no lo son, por lo tanto algunos arrojarán conclusiones pero otros difícilmente las aceptarán. Sin embargo, el show documenta los esfuerzos del equipo y los estudios de las 'pruebas' en un intento por confirmar la existencia de la misteriosa criatura.
-El equipo viaja a Iowa para continuar con sus investigaciones. Se comparten historias alrededor del fuego, y el equipo explora el parque, antes de una épica noche final.</desc>
-    <credits>
-      <actor>Cliff Barackman</actor>
-      <actor>James Fay</actor>
-      <actor>Ranae Holland</actor>
-      <actor>Craig Woolheater</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/929704.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">.5.</episode-num>
+  <programme start="20221107115000 +0100" stop="20221107124300 +0100" channel="SD | Animal planet">
+    <title lang="es">Refugio en el granero</title>
+    <title lang="en">Barn Sanctuary</title>
+    <sub-title lang="es">El club de la pelea de gallos</sub-title>
+    <desc lang="es">Dan se dirige a Chicago para darles una segunda oportunidad a unos gallos de pelea. Además, el equipo se pregunta cómo recibirá el resto de la manada el mal comportamiento de DJ la vaca.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_refugio-en-el-granero-s01e04-el-club-de-la-pelea-de-gallos_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20221107150300 -0300" stop="20221107153300 -0300" channel="SD | Animal planet">
-    <title lang="es">Noche</title>
-    <sub-title lang="es">Pantera</sub-title>
-    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
-Brandon viaja al pantano de los Everglades en busca de la pantera de Florida, una esquiva criatura a la que nunca se ha filmado de noche.</desc>
-    <credits>
-      <actor>Brandon McMillan</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+  <programme start="20221107124300 +0100" stop="20221107133300 +0100" channel="SD | Animal planet">
+    <title lang="es">El zoológico del Bronx: detrás de las cámaras</title>
+    <title lang="en">The Zoo: Bronx Tales</title>
+    <sub-title lang="es">El regreso de la tortuga</sub-title>
+    <desc lang="es">Una avestruz carismática llamada Olga va a ser reunida con su bandada. Buster, el mono ardilla, conoce a las hembras del zoológico. Una tortuga de una especie casi extinta encuentra una nueva vida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20221107153300 -0300" stop="20221107160400 -0300" channel="SD | Animal planet">
-    <title lang="es">Noche</title>
+  <programme start="20221107133300 +0100" stop="20221107140000 +0100" channel="SD | Animal planet">
+    <title lang="es">Night</title>
+    <sub-title lang="es">Murciélagos</sub-title>
+    <desc lang="es">Brandon McMillan viaja al Perú en busca de murciélagos vampiros. Junto a su guía Beto Orozco, se dirigirá a lugares donde hay mamíferos grandes, la presa favorita de estos vampiros. Su paciencia se verá recompensada tras una agotadora búsqueda.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_night-s00e04-murcielagos_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20221107140000 +0100" stop="20221107142800 +0100" channel="SD | Animal planet">
+    <title lang="es">Los reyes de las piscinas</title>
+    <title lang="en">Pool Kings</title>
+    <sub-title lang="es">Sueños de un hogar para siempre</sub-title>
+    <desc lang="es">Joe y Beth son abuelos y quieren agregarle una piscina a su hogar definitivo para poder realizar más eventos familiares. Esperan que este oasis en el patio trasero complete su casa soñada y los ayude a crear muchos recuerdos al aire libre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-reyes-de-las-piscinas-s03e03-suenos-de-un-hogar-para-siempre_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20221107142800 +0100" stop="20221107152900 +0100" channel="SD | Animal planet">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+    <title lang="en">Dr. Dee: Alaska Vet</title>
+    <sub-title lang="es">Las cuarenta serpientes</sub-title>
+    <desc lang="es">La Dra. Dee debe hacer una cirugía de tres horas para salvarle la vida a un perro. El Dr. Terry cambia el diagnóstico de un labrador mestizo con convulsiones. La Dra. Dee y Ken van a Yakutat, Alaska, un pueblo que no ha visto un veterinario en dos años.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_dra-dee-veterinaria-de-alaska-s02e09-las-cuarenta-serpientes_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20221107152900 +0100" stop="20221107163000 +0100" channel="SD | Animal planet">
+    <title lang="es">Veterinarios de Texas</title>
+    <title lang="en">The Vet Life</title>
+    <sub-title lang="es">Discúlpenme</sub-title>
+    <desc lang="es">El doctor Lavigne atiende a un bulldog francés con un problema para respirar que requiere una cirugía especial, luego se une al doctor Blue para transportar unos cerdos. Además, el doctor Ross examina su propio cerdo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_veterinarios-de-texas-s03e09-disculpenme_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20221107163000 +0100" stop="20221107170000 +0100" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_televentas_l_m.jpg"/>
+  </programme>
+  <programme start="20221107170000 +0100" stop="20221107173000 +0100" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_televentas_l_m.jpg"/>
+  </programme>
+  <programme start="20221107173000 +0100" stop="20221107180000 +0100" channel="SD | Animal planet">
+    <title lang="es">Televentas</title>
+    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_televentas_l_m.jpg"/>
+  </programme>
+  <programme start="20221107180000 +0100" stop="20221107190100 +0100" channel="SD | Animal planet">
+    <title lang="es">Islas mortales con Dave Salmoni</title>
+    <title lang="en">Deadly Islands</title>
+    <sub-title lang="es">Isla del Volcán</sub-title>
+    <desc lang="es">El biólogo Dave Salmoni se aventura a una isla mortal en el legendario archipiélago Galápagos en busca de algunos de los animales más extraños y resistentes de la Tierra.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_islas-mortales-con-dave-salmoni-s00e04-isla-del-volcan_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+  </programme>
+  <programme start="20221107190100 +0100" stop="20221107200200 +0100" channel="SD | Animal planet">
+    <title lang="es">Pescadores al límite</title>
+    <title lang="en">Fish or Die</title>
+    <sub-title lang="es">Los cuatro Norsemen</sub-title>
+    <desc lang="es">El equipo sigue una pista hasta un río remoto en Groenlandia, donde supuestamente se encuentra el salvelino. Entre las tundras, los fiordos y los valles, descubrirán la naturaleza en su estado más puro y peligroso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pescadores-al-limite-s01e03-los-cuatro-norsemen_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20221107200200 +0100" stop="20221107210300 +0100" channel="SD | Animal planet">
+    <title lang="es">Sasquatch: la leyenda de Pie Grande</title>
+    <title lang="en">Finding Bigfoot</title>
+    <sub-title lang="es">La tierra de Pie Grande</sub-title>
+    <desc lang="es">El equipo viaja a Iowa para continuar con sus investigaciones. Se comparten historias alrededor del fuego, y el equipo explora el parque, antes de una épica noche final.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sasquatch-la-leyenda-de-pie-grande-s00e05-la-tierra-de-pie-grande_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+  </programme>
+  <programme start="20221107210300 +0100" stop="20221107213300 +0100" channel="SD | Animal planet">
+    <title lang="es">Night</title>
+    <sub-title lang="es">Pantera</sub-title>
+    <desc lang="es">Brandon viaja al pantano de los Everglades en busca de la pantera de Florida, una esquiva criatura a la que nunca se ha filmado de noche.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_night-s00e01-pantera_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+  </programme>
+  <programme start="20221107213300 +0100" stop="20221107220400 +0100" channel="SD | Animal planet">
+    <title lang="es">Night</title>
     <sub-title lang="es">Cocodrilos</sub-title>
-    <desc lang="es">Un viaje impactante y, a veces aterrador, hacia las profundidades de la oscuridad, y una mirada a menudo temerosa a las criaturas que acechan allí. Desde el atardecer hasta el amanecer, seguiremos a nuestro experto en animales, Brandon McMillan, en una búsqueda global de respuestas: ¿qué significa ser nocturno?
-Brandon se dirige al pantano de los Everglades, en Florida, en busca del cocodrilo americano, uno de los depredadores más grandes del mundo. Un cocodrilo ataca su canoa y pone en peligro a Brandon y su equipo.</desc>
-    <credits>
-      <actor>Brandon McMillan</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Aventura</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9890721.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">.2.</episode-num>
+    <desc lang="es">Brandon se dirige al pantano de los Everglades, en Florida, en busca del cocodrilo americano, uno de los depredadores más grandes del mundo. Un cocodrilo ataca su canoa y pone en peligro a Brandon y su equipo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_night-s00e02-cocodrilos_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20221107160400 -0300" stop="20221107163300 -0300" channel="SD | Animal planet">
+  <programme start="20221107220400 +0100" stop="20221107223300 +0100" channel="SD | Animal planet">
     <title lang="es">Coyote Peterson: aventuras salvajes</title>
+    <title lang="en">Coyote Peterson: Return to the Wilderness</title>
     <sub-title lang="es">Pesadillas de aracnofobia</sub-title>
-    <desc lang="es">Durante los últimos cuatro años, Coyote Peterson y el equipo Brave Wilderness han viajado por el mundo para conocer de cerca una gran variedad de especies animales. Descubre las decisiones arriesgadas y calculadas que tomaron, y cómo los resultados los han llevado por un camino hacia un éxito sin precedentes.
-Coyote está decidido a atrapar a la venenosa araña de tela en embudo de Sydney. Después de que Coyote tiene un encuentro cara a cara con esta bestia agresiva, la entrega al Australia Reptile Park para que la estudien.</desc>
-    <credits>
-      <director>Mark Vins</director>
-      <actor>Coyote Peterson</actor>
-      <actor>Mario Aldecoa</actor>
-      <actor>Mark Vins</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10880924.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">1.11.</episode-num>
+    <desc lang="es">Coyote está decidido a atrapar a la venenosa araña de tela en embudo de Sydney. Después de que Coyote tiene un encuentro cara a cara con esta bestia agresiva, la entrega al Australia Reptile Park para que la estudien.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_coyote-peterson-aventuras-salvajes-s01e11-pesadillas-de-aracnofobia_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20221107163300 -0300" stop="20221107170200 -0300" channel="SD | Animal planet">
+  <programme start="20221107223300 +0100" stop="20221107230200 +0100" channel="SD | Animal planet">
     <title lang="es">Coyote Peterson: aventuras salvajes</title>
+    <title lang="en">Coyote Peterson: Return to the Wilderness</title>
     <sub-title lang="es">Locura marsupial</sub-title>
-    <desc lang="es">Durante los últimos cuatro años, Coyote Peterson y el equipo Brave Wilderness han viajado por el mundo para conocer de cerca una gran variedad de especies animales. Descubre las decisiones arriesgadas y calculadas que tomaron, y cómo los resultados los han llevado por un camino hacia un éxito sin precedentes.
-En el Australian Reptile Park, Coyote y su equipo experimentan con marsupiales. Les presentan muchos amigos peludos, incluido un koala y un wombat revoltoso, que determinan qué mamífero merece el título de 'el marsupial más lindo'.</desc>
-    <credits>
-      <director>Mark Vins</director>
-      <actor>Coyote Peterson</actor>
-      <actor>Mario Aldecoa</actor>
-      <actor>Mark Vins</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10880912.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">1.12.</episode-num>
+    <desc lang="es">En el Australian Reptile Park, Coyote y su equipo experimentan con marsupiales. Les presentan muchos amigos peludos, incluido un koala y un wombat revoltoso, que determinan qué mamífero merece el título de 'el marsupial más lindo'.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_coyote-peterson-aventuras-salvajes-s01e12-locura-marsupial_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
-  <programme start="20221107170200 -0300" stop="20221107180000 -0300" channel="SD | Animal planet">
+  <programme start="20221107230200 +0100" stop="20221108000000 +0100" channel="SD | Animal planet">
     <title lang="es">Tiburones y volcanes</title>
     <desc lang="es">En todo el mundo los tiburones de varias especies parecen concentrarse alrededor de los volcanes y las islas volcánicas. ¿Qué los atraen a ellos? ¿Por qué los volcanes se convierten en imanes para tiburones?</desc>
-    <date>2017</date>
-    <category lang="es">Documentales</category>
     <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7504808.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiburones-y-volcanes_l_m.jpg"/>
   </programme>
-  <programme start="20221107180000 -0300" stop="20221107185800 -0300" channel="SD | Animal planet">
+  <programme start="20221108000000 +0100" stop="20221108005800 +0100" channel="SD | Animal planet">
     <title lang="es">Isla Tiburón: hermanos de sangre</title>
     <desc lang="es">Dos tiburones blancos, que aparentemente son hermanos, están en el corazón de un misterio. ¿Podrán estos animales reconocer y preferir la compañía de un pariente de sangre? Un equipo se aventura a encontrar respuestas en Australia.</desc>
-    <date>2019</date>
-    <category lang="es">Series</category>
     <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9900218.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_isla-tiburon-hermanos-de-sangre_l_m.jpg"/>
   </programme>
-  <programme start="20221107185800 -0300" stop="20221107195900 -0300" channel="SD | Animal planet">
+  <programme start="20221108005800 +0100" stop="20221108015900 +0100" channel="SD | Animal planet">
     <title lang="es">Pescadores al límite</title>
+    <title lang="en">Fish or Die</title>
     <sub-title lang="es">El gigante del Amazonas</sub-title>
-    <desc lang="es">Cuatro pescadores acérrimos están decididos a ser los primeros en pescar las aguas más remotas que quedan en la tierra. Los amigos Chris, Thad, Brian y Jay se juntan para hacer balsas, conducir y abrirse camino hasta las misteriosas y ocultas aguas en busca de peces legendarios.
-El arapaima es el pez de agua dulce más grande del mundo. El grupo se dirige a una de las selvas más remotas e inhóspitas de Ecuador para intentar atrapar a uno de estos dinosaurios vivos.</desc>
-    <credits>
-      <actor>Chris Owens</actor>
-      <actor>Brian Jill</actor>
-      <actor>Thad Robison</actor>
-      <actor>Jay Johnson</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9597124.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">.10.</episode-num>
+    <desc lang="es">El arapaima es el pez de agua dulce más grande del mundo. El grupo se dirige a una de las selvas más remotas e inhóspitas de Ecuador para intentar atrapar a uno de estos dinosaurios vivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pescadores-al-limite-s00e10-el-gigante-del-amazonas_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
   </programme>
-  <programme start="20221107195900 -0300" stop="20221107210000 -0300" channel="SD | Animal planet">
+  <programme start="20221108015900 +0100" stop="20221108030000 +0100" channel="SD | Animal planet">
     <title lang="es">Wild Frank: viva Italia</title>
-    <desc lang="es">Frank Cuesta vuelve a Italia para descubrir del país su increíble fauna, costumbres y peculiaridades. Tras asistir al Festival de la Serpiente en la región de Abruzzo, Frank viajará a los Montes Apeninos.</desc>
-    <credits>
-      <actor>Frank Cuesta</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Documentales</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7475691.jpg"/>
-    <country lang="es">España</country>
+    <desc lang="es">Frank cuenta que empezó su viaje en Venecia, que luego fue para los Alpes, donde hacía un frío que pelaba, yque ahora ha llegado a las montañas centrales de Italia. Está feliz, cuenta, porque ya está muy cerca de la casa de Tonino.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_wild-frank-viva-italia-s00e02-1_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20221107210000 -0300" stop="20221107220100 -0300" channel="SD | Animal planet">
+  <programme start="20221108030000 +0100" stop="20221108040100 +0100" channel="SD | Animal planet">
     <title lang="es">Con el agua al cuello</title>
+    <title lang="en">Tanked</title>
     <sub-title lang="es">La pecera real de Prince Royce</sub-title>
-    <desc lang="es">La compañía Acrylic Tank Manufacturing (ATM) es un negocio familiar que se ha convertido en uno de los principales en Estados Unidos en hacer acuarios. El equipo está liderado por los cuñados, socios, mejores amigos y rivales, Brett Raymer y Wayde King. ATM literalmente ha creado miles de acuarios temáticos, gigantescos, para clientes de alto perfil. Brett y Wayde se encargan de construir estanques en las más interesantes locaciones, como restaurantes, casinos, bancos, hoteles, iglesias, oficinas, mansiones, museos y zoológicos.
-La estrella de la música latina, Prince Royce, quiere un acuario personalizado en su mansión de Miami. Wayde y Brett intentan hacerle el acuario lo más acorde a su personalidad, pero un cambio de último momento en la fachada del diseño lo retrasa.</desc>
-    <credits>
-      <actor>Brett Raymer</actor>
-      <actor>Wayde King</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/658975.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
-  </programme>
-  <programme start="20221107220100 -0300" stop="20221107230200 -0300" channel="SD | Animal planet">
-    <title lang="es">Veterinarios de Texas</title>
-    <sub-title lang="es">Perro hermafrodita</sub-title>
-    <desc lang="es">Este programa muestra el trabajo cotidiano de tres veterinarios, Diarra Blue, Aubrey Ross y Mike Lavigne, y sus familias. Estos expertos enfrentan los desafíos con humor y entusiasmo, decididos a hacer las cosas bien por sus familias y los animales.
-El Dr. Lavigne le realiza una cirugía a un perro hermafrodita que es macho y hembra. Un dragón barbudo lucha contra una enfermedad de la piel que el Dr. Ross debe tratar antes de que cause problemas graves.</desc>
-    <credits>
-      <director>Lisa Tucker</director>
-      <actor>Diarra Blue</actor>
-      <actor>Aubrey Ross</actor>
-      <actor>Mike Lavigne</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4454467.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
-  </programme>
-  <programme start="20221107230200 -0300" stop="20221108000300 -0300" channel="SD | Animal planet">
-    <title lang="es">Dr. Jeff, veterinario</title>
-    <sub-title lang="es">Estar a la altura</sub-title>
-    <desc lang="es">El doctor Jeff Young es un carismático héroe que tiene un espíritu independiente y positivo mientras trata a una amplia variedad de animales en Denver, Colorado. Con un discurso claro y directo, de gran corazón, él es uno de los veterinarios más ocupados de Estados Unidos. Su clínica es una marca local, y siempre es una locura. Con más de ochenta mil clientes, aproximadamente treinta cirugías por día, junto a un equipo realmente amplio, una sala de emergencia congestionada y un hospital móvil que llega a lugares lejanos, el profesional está constantemente bajo presión para mantener sanos y felices tanto a sus clientes y pacientes, como a sus aliados de trabajo.
-El Dr. Jeff intenta diagnosticar la enfermedad devastadora de un perro. Mientras tanto, la hija del veterinario Héctor cuida a una perra y sus siete cachorros, y el Dr. Baier se ofrece para ayudar a encontrar hogares para los conejos rescatados.</desc>
-    <credits>
-      <director>Josh Opitz</director>
-      <actor>Jeff Young</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Reality Show</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1823931.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">7.6.</episode-num>
+    <desc lang="es">La estrella de la música latina, Prince Royce, quiere un acuario personalizado en su mansión de Miami. Wayde y Brett intentan hacerle el acuario lo más acorde a su personalidad, pero un cambio de último momento en la fachada del diseño lo retrasa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_con-el-agua-al-cuello-s06e06-la-pecera-real-de-prince-royce_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.5.</episode-num>
   </programme>
   <channel id="SD | AXN">
     <display-name lang="es">SD | AXN</display-name>
@@ -1068,830 +830,206 @@ El Dr. Jeff intenta diagnosticar la enfermedad devastadora de un perro. Mientras
   </programme>
   <channel id="SD | AXN 2">
     <display-name lang="es">SD | AXN 2</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/191220.gif"/>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_axn_m.png"/>
   </channel>
-  <programme start="20221107005000 -0300" stop="20221107014500 -0300" channel="SD | AXN 2">
+  <programme start="20221107055500 +0100" stop="20221107065000 +0100" channel="SD | AXN 2">
+    <title lang="es">District 31</title>
+    <sub-title lang="es">17 y 18</sub-title>
+    <desc lang="es">Una estación de policía de Montreal que se ocupa de los delitos que ocurren en las grandes ciudades; Secuestros, robos, asesinatos, violencia familiar, narcotráfico, terrorismo y más.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20221107065000 +0100" stop="20221107074500 +0100" channel="SD | AXN 2">
     <title lang="es">District 31</title>
     <sub-title lang="es">19 y 20</sub-title>
     <desc lang="es">Una estación de policía de Montreal que se ocupa de los delitos que ocurren en las grandes ciudades; Secuestros, robos, asesinatos, violencia familiar, narcotráfico, terrorismo y más.</desc>
-    <credits>
-      <director>Simon Barrette</director>
-      <director>Catherine Therrien</director>
-      <actor>Gildor Roy</actor>
-      <actor>Michel Charette</actor>
-      <actor>Vincent-Guillaume Otis</actor>
-      <actor>Sébastien Delorme</actor>
-      <actor>Catherine St-Laurent</actor>
-      <actor>Geneviève Brouillette</actor>
-      <actor>Cynthia Wu-Maheux</actor>
-      <actor>Hélène Bourgeois-Leclerc</actor>
-      <actor>Charlotte Legault</actor>
-      <actor>Patrick Labbé</actor>
-      <actor>Frédéric Cloutier</actor>
-      <actor>Pascale Montpetit</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Series</category>
-    <category lang="es">Drama</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/23769382.jpg"/>
-    <country lang="es">Canadá</country>
-    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20221107014500 -0300" stop="20221107024000 -0300" channel="SD | AXN 2">
+  <programme start="20221107074500 +0100" stop="20221107084000 +0100" channel="SD | AXN 2">
     <title lang="es">C.S.I.</title>
+    <title lang="en">Crime Scene Investigation</title>
     <sub-title lang="es">Table Stakes</sub-title>
-    <desc lang="es">Una hebra de cabello, un pedazo de uña, huellas dactilares, todas estas pistas improbables son herramientas para llegar al delincuente. Un aparente suicidio puede revelarse un asesinato cruel, sólo a través del análisis del tamaño del agujero de la bala en el cuerpo. Entrenados en los tradicionales métodos de investigación, estos especialistas buscan todas las evidencias en el lugar del crimen, lo cual, junto a su experiencia e instinto, también son armas poderosas en el combate a la violencia.
-Un cadáver es hallado en la piscina de una joven famosa, y pronto se hace evidente que ella ha desaparecido. Entonces, el equipo de CSI sospecha que se trata de un doble asesinato mientras Warrick termina en una situación incómoda.</desc>
-    <credits>
-      <director>Kenneth Fink</director>
-      <director>Alec Smight</director>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Paul Guilfoyle</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Louise Lombard</actor>
-      <actor>Wallace Langham</actor>
-      <actor>David Berman</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4125390.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <desc lang="es">Un cadáver es hallado en la piscina de una joven famosa, y pronto se hace evidente que ella ha desaparecido. Entonces, el equipo de CSI sospecha que se trata de un doble asesinato mientras Warrick termina en una situación incómoda.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_c-s-i-s01e15-table-stakes_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20221107024000 -0300" stop="20221107033000 -0300" channel="SD | AXN 2">
+  <programme start="20221107084000 +0100" stop="20221107093000 +0100" channel="SD | AXN 2">
     <title lang="es">C.S.I.: Miami</title>
     <sub-title lang="es">Hogar roto</sub-title>
-    <desc lang="es">Casos de la unidad de Investigaciones de la Escena del Crimen de Miami-Dade, Florida. Los esfuerzos de un equipo de investigadores forenses para resolver la mayor cantidad de crímenes, usando métodos científicos de última tecnología así como también el antiguo trabajo policiaco, para reivindicar a aquellos que a menudo no pueden hablar por sí mismo. El liderazgo del grupo está a cargo de Horatio Caine, un ex detective de homicidios quien ahora debe ayudar resolver los acertijos de esta ciudad tropical llena de encrucijadas culturales. Además, cuanta con Calleigh Duquesne, una belleza bilingüe del sur con una especialidad en balística, Tim Speedle, un investigador engreído que está bien conectado en la calle, y Eric Delko, un experto en recuperación submarina que conoce todos los giros y vueltas de las vías fluviales de la región.
-Durante la investigación de un doble homicidio de los padres de una niñera, Horatio se tropieza con un psíquico que podría ser un asesino serial.</desc>
-    <credits>
-      <director>David Grossman</director>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Eva LaRue</actor>
-      <actor>Omar Benson Miller</actor>
-      <actor>Rex Linn</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Boti Bliss</actor>
-      <actor>Sofia Milos</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9711071.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <desc lang="es">Durante la investigación de un doble homicidio de los padres de una niñera, Horatio se tropieza con un psíquico que podría ser un asesino serial.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_c-s-i-miami-s05e16-broken-home-1_l_m.jpg"/>
+    <episode-num system="xmltv_ns">4.15.</episode-num>
+  </programme>
+  <programme start="20221107093000 +0100" stop="20221107102000 +0100" channel="SD | AXN 2">
+    <title lang="es">Hawaii-Five-O</title>
+    <sub-title lang="es">Waiwai</sub-title>
+    <desc lang="es">McGarrett y Five-0 deben rastrear a un espía ruso que ha robado una unidad flash que contiene información clasificada de la NSA que pone en riesgo la vida de un miembro de su Ohana. Además, McGarrett finalmente descubre por qué Catherine lo dejó y Abby continúa ocultando su misión real a Chin y Five-0.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hawaii-five-o-s06e17-waiwai-assets_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.16.</episode-num>
   </programme>
-  <programme start="20221107033000 -0300" stop="20221107042000 -0300" channel="SD | AXN 2">
-    <title lang="es">Hawaii Five-0</title>
-    <sub-title lang="es">Waiwai</sub-title>
-    <desc lang="es">Las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas. El equipo está encabezado por Steve McGarrett, un ex marino que investiga desde terrorismo hasta secuestros. A McGarrett se le asigna un compañero, el detective Danny 'Danno' Williams, que recientemente ha sido trasladado de Nueva Jersey. Completará el equipo eligiendo a un amigo de la escuela secundaria, Chin Ho Kelly, y su prima llamada Kono Kalakaua.
-McGarrett y Five-0 deben rastrear a un espía ruso que ha robado una unidad flash que contiene información clasificada de la NSA que pone en riesgo la vida de un miembro de su Ohana. Además, McGarrett finalmente descubre por qué Catherine lo dejó y Abby continúa ocultando su misión real a Chin y Five-0.</desc>
-    <credits>
-      <director>Jeffrey G Hunt</director>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-      <actor>Masi Oka</actor>
-      <actor>Taylor Wily</actor>
-      <actor>Michelle Borth</actor>
-      <actor>Teilor Grubbs</actor>
-      <actor>Dennis Chun</actor>
-      <actor>Chi McBride</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4204519.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.17.</episode-num>
-  </programme>
-  <programme start="20221107042000 -0300" stop="20221107051000 -0300" channel="SD | AXN 2">
+  <programme start="20221107102000 +0100" stop="20221107111000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="en">NCIS: Los Angeles</title>
     <sub-title lang="es">Plain Sight</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Cuando se roban armas por valor de un millón de dólares, el equipo rastrea la evidencia hasta un evento de caridad. Mientras tanto, Mosley se agrega a la lista de invitados del evento, trayendo a Callen y Sam como su equipo de seguridad.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314962.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">9.4.</episode-num>
+    <desc lang="es">Cuando se roban armas por valor de un millón de dólares, el equipo rastrea la evidencia hasta un evento de caridad. Mientras tanto, Mosley se agrega a la lista de invitados del evento, trayendo a Callen y Sam como su equipo de seguridad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-los-angeles-s09e04-mountebank_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.3.</episode-num>
   </programme>
-  <programme start="20221107051000 -0300" stop="20221107060000 -0300" channel="SD | AXN 2">
+  <programme start="20221107111000 +0100" stop="20221107120000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="en">NCIS: Los Angeles</title>
     <sub-title lang="es">Mountebank</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Sam investiga de incógnito el asesinato de un asesor financiero que tenía vínculos con Rusia. Entretanto, un ladrón de tarjetas de crédito roba a uno de los alias utilizados por Callen.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314970.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
+    <desc lang="es">Sam investiga de incógnito el asesinato de un asesor financiero que tenía vínculos con Rusia. Entretanto, un ladrón de tarjetas de crédito roba a uno de los alias utilizados por Callen.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-los-angeles-s09e05-el-silo_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.4.</episode-num>
   </programme>
-  <programme start="20221107060000 -0300" stop="20221107063000 -0300" channel="SD | AXN 2">
-    <title lang="es">Teve Compras Chile</title>
+  <programme start="20221107120000 +0100" stop="20221107123000 +0100" channel="SD | AXN 2">
+    <title lang="es">TeveCompras</title>
     <sub-title lang="es">Red Copper V4</sub-title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de 'Teve Compras', los cuales pueden ser adquiridos telefónicamente.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7240399.jpg"/>
-    <episode-num system="xmltv_ns">1.49.</episode-num>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e49-red-copper-v4_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
   </programme>
-  <programme start="20221107063000 -0300" stop="20221107070000 -0300" channel="SD | AXN 2">
-    <title lang="es">Teve Compras Chile</title>
+  <programme start="20221107123000 +0100" stop="20221107130000 +0100" channel="SD | AXN 2">
+    <title lang="es">TeveCompras</title>
     <sub-title lang="es">Tornado V1</sub-title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de 'Teve Compras', los cuales pueden ser adquiridos telefónicamente.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/7240399.jpg"/>
-    <episode-num system="xmltv_ns">1.43.</episode-num>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e43-tornado-v1_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.42.</episode-num>
   </programme>
-  <programme start="20221107070000 -0300" stop="20221107073000 -0300" channel="SD | AXN 2">
+  <programme start="20221107130000 +0100" stop="20221107133000 +0100" channel="SD | AXN 2">
     <title lang="es">Swiss Nature Labs</title>
     <sub-title lang="es">Agefit V2</sub-title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/13621482.jpg"/>
-    <episode-num system="xmltv_ns">1.33.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-s01e33-agefit-v2_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.32.</episode-num>
   </programme>
-  <programme start="20221107073000 -0300" stop="20221107080000 -0300" channel="SD | AXN 2">
+  <programme start="20221107133000 +0100" stop="20221107140000 +0100" channel="SD | AXN 2">
     <title lang="es">Swiss Nature Labs</title>
+    <sub-title lang="es">Prostamax</sub-title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/13621482.jpg"/>
-    <episode-num system="xmltv_ns">1..</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-s01e00-dualbioactive-d-tox_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
-  <programme start="20221107080000 -0300" stop="20221107083000 -0300" channel="SD | AXN 2">
+  <programme start="20221107140000 +0100" stop="20221107143000 +0100" channel="SD | AXN 2">
     <title lang="es">Swiss Nature Labs</title>
     <sub-title lang="es">Kolbex</sub-title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/13621482.jpg"/>
-    <episode-num system="xmltv_ns">1.34.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-s01e34-kolbex_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
   </programme>
-  <programme start="20221107083000 -0300" stop="20221107090000 -0300" channel="SD | AXN 2">
+  <programme start="20221107143000 +0100" stop="20221107150000 +0100" channel="SD | AXN 2">
     <title lang="es">Swiss Nature Labs</title>
     <sub-title lang="es">Lynses V2</sub-title>
     <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
-    <date>2000</date>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/13621482.jpg"/>
-    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-s01e20-lynses_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
-  <programme start="20221107090000 -0300" stop="20221107100000 -0300" channel="SD | AXN 2">
+  <programme start="20221107150000 +0100" stop="20221107160000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="en">NCIS: Los Angeles</title>
     <sub-title lang="es">Plain Sight</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Cuando se roban armas por valor de un millón de dólares, el equipo rastrea la evidencia hasta un evento de caridad. Mientras tanto, Mosley se agrega a la lista de invitados del evento, trayendo a Callen y Sam como su equipo de seguridad.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314970.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">9.4.</episode-num>
+    <desc lang="es">Cuando se roban armas por valor de un millón de dólares, el equipo rastrea la evidencia hasta un evento de caridad. Mientras tanto, Mosley se agrega a la lista de invitados del evento, trayendo a Callen y Sam como su equipo de seguridad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-los-angeles-s09e04-mountebank_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.3.</episode-num>
   </programme>
-  <programme start="20221107100000 -0300" stop="20221107110000 -0300" channel="SD | AXN 2">
+  <programme start="20221107160000 +0100" stop="20221107170000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="en">NCIS: Los Angeles</title>
     <sub-title lang="es">Mountebank</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Sam investiga de incógnito el asesinato de un asesor financiero que tenía vínculos con Rusia. Entretanto, un ladrón de tarjetas de crédito roba a uno de los alias utilizados por Callen.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314970.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
+    <desc lang="es">Sam investiga de incógnito el asesinato de un asesor financiero que tenía vínculos con Rusia. Entretanto, un ladrón de tarjetas de crédito roba a uno de los alias utilizados por Callen.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-los-angeles-s09e05-el-silo_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.4.</episode-num>
   </programme>
-  <programme start="20221107110000 -0300" stop="20221107120000 -0300" channel="SD | AXN 2">
+  <programme start="20221107170000 +0100" stop="20221107180000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS</title>
+    <title lang="en">Navy NCIS: Naval Criminal Investigative Service</title>
     <sub-title lang="es">Jeopardy</sub-title>
-    <desc lang="es">Un equipo de agentes especiales del Servicio de Investigación Criminal de la Marina de los Estados Unidos, liderados por el agente especial Leroy Jethro Gibbs, investiga los crímenes que se cometen dentro del Cuerpo Naval. Entre los casos está la muerte del ayudante del maletín nuclear del presidente, una situación explosiva a bordo de un buque de guerra de la Armada y la muerte de un famoso durante un show de televisión en una base.
-Un sospechoso se derrumba y fallece mientras está bajo la custodia de Ziva, y ella se convierte en un sospechoso en lugar de una investigadora. Pero cuando el equipo indaga, la directora desaparece y su conductor muere.</desc>
-    <credits>
-      <director>Alan J Levi</director>
-      <actor>Mark Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>David McCallum</actor>
-      <actor>Sean Murray</actor>
-      <actor>Brian Dietzen</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Emily Wickersham</actor>
-      <actor>Muse Watson</actor>
-      <actor>Scottie Thompson</actor>
-      <actor>Pancho Demmings</actor>
-      <actor>Liza Lapira</actor>
-      <actor>Alan Dale</actor>
-      <actor>Stephanie Mello</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Mary Mouser</actor>
-      <actor>Sarah Jane E Morris</actor>
-      <actor>Michelle Pierce</actor>
-      <actor>Jessica Steen</actor>
-      <actor>Marisol Nichols</actor>
-      <actor>Rena Sofer</actor>
-      <actor>Lindsay Price</actor>
-      <actor>Mikki Padilla</actor>
-      <actor>Matt Craven</actor>
-      <actor>Milauna Jackson</actor>
-      <actor>Jamie Lee Curtis</actor>
-      <actor>Judith Shekoni</actor>
-      <actor>Kelly Hu</actor>
-      <actor>Lauren Bowles</actor>
-      <actor>Ralph Waite</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Series</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9204477.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">3.22.</episode-num>
+    <desc lang="es">Un sospechoso se derrumba y fallece mientras está bajo la custodia de Ziva, y ella se convierte en un sospechoso en lugar de una investigadora. Pero cuando el equipo indaga, la directora desaparece y su conductor muere.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-s03e22-jeopardy_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
   </programme>
-  <programme start="20221107120000 -0300" stop="20221107125000 -0300" channel="SD | AXN 2">
+  <programme start="20221107180000 +0100" stop="20221107185000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="en">NCIS: Los Angeles</title>
     <sub-title lang="es">Deep Trouble - Part 2</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Callen y Sam permanecen atrapados en un submarino armado por terroristas para impactar contra un portaaviones en San Diego.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314974.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
+    <desc lang="es">Callen y Sam permanecen atrapados en un submarino armado por terroristas para impactar contra un portaaviones en San Diego.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-los-angeles-s06e01-corazon-poco-elegante_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
   </programme>
-  <programme start="20221107125000 -0300" stop="20221107134000 -0300" channel="SD | AXN 2">
+  <programme start="20221107185000 +0100" stop="20221107194000 +0100" channel="SD | AXN 2">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Jaque mate - Parte 1</sub-title>
-    <desc lang="es">Sigue a un equipo ficticio de agentes del Servicio Naval de Investigación Criminal 'NCIS', que indaga sobre casos que involucran a personal militar en 'The Big Easy', una ciudad conocida por su música, entretenimiento y decadencia.
-Pride recluta a un equipo no oficial para intentar limpiar su nombre y salvar al escuadrón. ¿Sus viejos métodos servirán para arreglar las cosas? ¿O este será el final de su carrera?</desc>
-    <credits>
-      <director>Stacey K Black</director>
-      <director>James Hayman</director>
-      <director>James Whitmore Jr</director>
-      <director>Michael Zinberg</director>
-      <actor>Scott Bakula</actor>
-      <actor>Lucas Black</actor>
-      <actor>Zoe McLellan</actor>
-      <actor>Rob Kerkovich</actor>
-      <actor>CCH Pounder</actor>
-      <actor>Patrick Kearns</actor>
-      <actor>Christopher Heskey</actor>
-      <actor>Daryl Mitchell</actor>
-      <actor>Shalita Grant</actor>
-      <actor>Anthony Kane</actor>
-      <actor>Alexander Christopher Jones</actor>
-      <actor>Hedy Rose Kraft</actor>
-      <actor>Shane Kretzmann</actor>
-      <actor>James Logan</actor>
-      <actor>T Ryan Mooney</actor>
-      <actor>James Ourso</actor>
-      <actor>Edward Parker</actor>
-      <actor>Stephen Payne</actor>
-      <actor>Louisa Riofrio</actor>
-      <actor>Brad Spiers</actor>
-      <actor>Stan Taylor</actor>
-      <actor>Ronald Joe Vasquez</actor>
-      <actor>Michael James Anders</actor>
-      <actor>Bryan Blasingame</actor>
-      <actor>Kermit Burns III</actor>
-      <actor>Jay Dee</actor>
-      <actor>Jason Gaines</actor>
-      <actor>Gerald J Garza</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4317723.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">4.23.</episode-num>
-  </programme>
-  <programme start="20221107134000 -0300" stop="20221107143000 -0300" channel="SD | AXN 2">
-    <title lang="es">NCIS</title>
-    <sub-title lang="es">Jeopardy</sub-title>
-    <desc lang="es">Un equipo de agentes especiales del Servicio de Investigación Criminal de la Marina de los Estados Unidos, liderados por el agente especial Leroy Jethro Gibbs, investiga los crímenes que se cometen dentro del Cuerpo Naval. Entre los casos está la muerte del ayudante del maletín nuclear del presidente, una situación explosiva a bordo de un buque de guerra de la Armada y la muerte de un famoso durante un show de televisión en una base.
-Un sospechoso se derrumba y fallece mientras está bajo la custodia de Ziva, y ella se convierte en un sospechoso en lugar de una investigadora. Pero cuando el equipo indaga, la directora desaparece y su conductor muere.</desc>
-    <credits>
-      <director>Alan J Levi</director>
-      <actor>Mark Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>David McCallum</actor>
-      <actor>Sean Murray</actor>
-      <actor>Brian Dietzen</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Emily Wickersham</actor>
-      <actor>Muse Watson</actor>
-      <actor>Scottie Thompson</actor>
-      <actor>Pancho Demmings</actor>
-      <actor>Liza Lapira</actor>
-      <actor>Alan Dale</actor>
-      <actor>Stephanie Mello</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Mary Mouser</actor>
-      <actor>Sarah Jane E Morris</actor>
-      <actor>Michelle Pierce</actor>
-      <actor>Jessica Steen</actor>
-      <actor>Marisol Nichols</actor>
-      <actor>Rena Sofer</actor>
-      <actor>Lindsay Price</actor>
-      <actor>Mikki Padilla</actor>
-      <actor>Matt Craven</actor>
-      <actor>Milauna Jackson</actor>
-      <actor>Jamie Lee Curtis</actor>
-      <actor>Judith Shekoni</actor>
-      <actor>Kelly Hu</actor>
-      <actor>Lauren Bowles</actor>
-      <actor>Ralph Waite</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Series</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9204489.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
+    <desc lang="es">Pride recluta a un equipo no oficial para intentar limpiar su nombre y salvar al escuadrón. ¿Sus viejos métodos servirán para arreglar las cosas? ¿O este será el final de su carrera?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-new-orleans-s04e23-jaque-mate-parte-1_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.22.</episode-num>
   </programme>
-  <programme start="20221107143000 -0300" stop="20221107152000 -0300" channel="SD | AXN 2">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">Deep Trouble - Part 2</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Callen y Sam permanecen atrapados en un submarino armado por terroristas para impactar contra un portaaviones en San Diego.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314966.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
+  <programme start="20221107194000 +0100" stop="20221107203000 +0100" channel="SD | AXN 2">
+    <title lang="es">NCIS</title>
+    <title lang="en">Navy NCIS: Naval Criminal Investigative Service</title>
+    <sub-title lang="es">Jeopardy</sub-title>
+    <desc lang="es">Un sospechoso se derrumba y fallece mientras está bajo la custodia de Ziva, y ella se convierte en un sospechoso en lugar de una investigadora. Pero cuando el equipo indaga, la directora desaparece y su conductor muere.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-s03e22-jeopardy_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.21.</episode-num>
   </programme>
-  <programme start="20221107152000 -0300" stop="20221107161000 -0300" channel="SD | AXN 2">
+  <programme start="20221107203000 +0100" stop="20221107212000 +0100" channel="SD | AXN 2">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="en">NCIS: Los Angeles</title>
+    <sub-title lang="es">Deep Trouble - Part 2</sub-title>
+    <desc lang="es">Callen y Sam permanecen atrapados en un submarino armado por terroristas para impactar contra un portaaviones en San Diego.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ncis-los-angeles-s06e01-corazon-poco-elegante_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20221107212000 +0100" stop="20221107221000 +0100" channel="SD | AXN 2">
     <title lang="es">C.S.I. N.Y.</title>
     <sub-title lang="es">Turbulence</sub-title>
-    <desc lang="es">Un grupo de detectives forenses, cuyo jefe es Mack Taylor, se encarga de resolver con sus minuciosas investigaciones los crímenes de Nueva York, ciudad multicultural y llena de contrastes. La experiencia y el instinto son armas poderosas en el combate a la violencia, por lo que ahora los maleantes de la gran manzana se las verán con un gran equipo de investigación.
-Un fugitivo disfrazado de comisario de abordo es encontrado muerto en el baño de un avión y CSI tiene poco tiempo para hallar al asesino antes de que todos los pasajeros sean liberados.</desc>
-    <credits>
-      <director>Rob Bailey</director>
-      <director>Jeff T Thomas</director>
-      <actor>Gary Sinise</actor>
-      <actor>Melina Kanakaredes</actor>
-      <actor>Carmine Giovinazzo</actor>
-      <actor>Vanessa Ferlito</actor>
-      <actor>Hill Harper</actor>
-      <actor>Eddie Cahill</actor>
-      <actor>Anna Belknap</actor>
-      <actor>Robert Joy</actor>
-      <actor>AJ Buckley</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4125468.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">5.3.</episode-num>
+    <desc lang="es">Un fugitivo disfrazado de comisario de abordo es encontrado muerto en el baño de un avión y CSI tiene poco tiempo para hallar al asesino antes de que todos los pasajeros sean liberados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_c-s-i-n-y-s05e03-turbulence_l_m.jpg"/>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
   </programme>
-  <programme start="20221107161000 -0300" stop="20221107170000 -0300" channel="SD | AXN 2">
+  <programme start="20221107221000 +0100" stop="20221107230000 +0100" channel="SD | AXN 2">
     <title lang="es">C.S.I.</title>
+    <title lang="en">Crime Scene Investigation</title>
     <sub-title lang="es">Estados alterados</sub-title>
-    <desc lang="es">Una hebra de cabello, un pedazo de uña, huellas dactilares, todas estas pistas improbables son herramientas para llegar al delincuente. Un aparente suicidio puede revelarse un asesinato cruel, sólo a través del análisis del tamaño del agujero de la bala en el cuerpo. Entrenados en los tradicionales métodos de investigación, estos especialistas buscan todas las evidencias en el lugar del crimen, lo cual, junto a su experiencia e instinto, también son armas poderosas en el combate a la violencia.
-El fiscal del distrito informa a Nick que a Bart Bowden, el hombre al que envió a la cárcel por el asesinato de Randy James, va a salir en libertad. El C.S.I. tendrá entonces que demostrar que Bowden es culpable. Para ello, Russell lleva a Nick a la escena del crimen con la esperanza de refrescarle la memoria. Allí, Nick recuerda un olor que identifican como un protector de piel usado para curar pequeñas heridas cutáneas. Esta será la primera pista importante en un caso que contará con la ayuda del detective Carlos Moreno.</desc>
-    <credits>
-      <director>Kenneth Fink</director>
-      <director>Alec Smight</director>
-      <actor>William Petersen</actor>
-      <actor>Marg Helgenberger</actor>
-      <actor>Jorja Fox</actor>
-      <actor>Gary Dourdan</actor>
-      <actor>George Eads</actor>
-      <actor>Paul Guilfoyle</actor>
-      <actor>Eric Szmanda</actor>
-      <actor>Robert David Hall</actor>
-      <actor>Louise Lombard</actor>
-      <actor>Wallace Langham</actor>
-      <actor>David Berman</actor>
-    </credits>
-    <date>2000</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4125386.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">12.20.</episode-num>
+    <desc lang="es">El fiscal del distrito informa a Nick que a Bart Bowden, el hombre al que envió a la cárcel por el asesinato de Randy James, va a salir en libertad. El C.S.I. tendrá entonces que demostrar que Bowden es culpable. Para ello, Russell lleva a Nick a la escena del crimen con la esperanza de refrescarle la memoria. Allí, Nick recuerda un olor que identifican como un protector de piel usado para curar pequeñas heridas cutáneas. Esta será la primera pista importante en un caso que contará con la ayuda del detective Carlos Moreno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_c-s-i-s12e20-altered-stakes_l_m.jpg"/>
+    <episode-num system="xmltv_ns">11.19.</episode-num>
   </programme>
-  <programme start="20221107170000 -0300" stop="20221107175000 -0300" channel="SD | AXN 2">
+  <programme start="20221107230000 +0100" stop="20221107235000 +0100" channel="SD | AXN 2">
     <title lang="es">C.S.I.: Miami</title>
     <sub-title lang="es">Entre la espada y la pared</sub-title>
-    <desc lang="es">Casos de la unidad de Investigaciones de la Escena del Crimen de Miami-Dade, Florida. Los esfuerzos de un equipo de investigadores forenses para resolver la mayor cantidad de crímenes, usando métodos científicos de última tecnología así como también el antiguo trabajo policiaco, para reivindicar a aquellos que a menudo no pueden hablar por sí mismo. El liderazgo del grupo está a cargo de Horatio Caine, un ex detective de homicidios quien ahora debe ayudar resolver los acertijos de esta ciudad tropical llena de encrucijadas culturales. Además, cuanta con Calleigh Duquesne, una belleza bilingüe del sur con una especialidad en balística, Tim Speedle, un investigador engreído que está bien conectado en la calle, y Eric Delko, un experto en recuperación submarina que conoce todos los giros y vueltas de las vías fluviales de la región.
-El hijo de Alexx es una figura central en una investigación de asesinato que involucra a traficantes de drogas, y Alexx hace todo lo que está a su alcance para ayudarlo y protegerlo.</desc>
-    <credits>
-      <director>David Grossman</director>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Eva LaRue</actor>
-      <actor>Omar Benson Miller</actor>
-      <actor>Rex Linn</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Boti Bliss</actor>
-      <actor>Sofia Milos</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9711071.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.19.</episode-num>
+    <desc lang="es">El hijo de Alexx es una figura central en una investigación de asesinato que involucra a traficantes de drogas, y Alexx hace todo lo que está a su alcance para ayudarlo y protegerlo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_c-s-i-miami-s06e19-entre-la-espada-y-la-pared_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
   </programme>
-  <programme start="20221107175000 -0300" stop="20221107184000 -0300" channel="SD | AXN 2">
+  <programme start="20221107235000 +0100" stop="20221108004000 +0100" channel="SD | AXN 2">
     <title lang="es">C.S.I.: Miami</title>
     <sub-title lang="es">En el último momento</sub-title>
-    <desc lang="es">Casos de la unidad de Investigaciones de la Escena del Crimen de Miami-Dade, Florida. Los esfuerzos de un equipo de investigadores forenses para resolver la mayor cantidad de crímenes, usando métodos científicos de última tecnología así como también el antiguo trabajo policiaco, para reivindicar a aquellos que a menudo no pueden hablar por sí mismo. El liderazgo del grupo está a cargo de Horatio Caine, un ex detective de homicidios quien ahora debe ayudar resolver los acertijos de esta ciudad tropical llena de encrucijadas culturales. Además, cuanta con Calleigh Duquesne, una belleza bilingüe del sur con una especialidad en balística, Tim Speedle, un investigador engreído que está bien conectado en la calle, y Eric Delko, un experto en recuperación submarina que conoce todos los giros y vueltas de las vías fluviales de la región.
-Un investigador privado se convierte en una figura central en una investigación sobre una llamada falsa al 911 que termina en una muerte. Sin embargo, él acaba usando la información que reúne sobre Calleigh y Eric para sacarlos del caso.</desc>
-    <credits>
-      <director>David Grossman</director>
-      <actor>David Caruso</actor>
-      <actor>Emily Procter</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Jonathan Togo</actor>
-      <actor>Eva LaRue</actor>
-      <actor>Omar Benson Miller</actor>
-      <actor>Rex Linn</actor>
-      <actor>Khandi Alexander</actor>
-      <actor>Boti Bliss</actor>
-      <actor>Sofia Milos</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9711075.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.20.</episode-num>
+    <desc lang="es">Un investigador privado se convierte en una figura central en una investigación sobre una llamada falsa al 911 que termina en una muerte. Sin embargo, él acaba usando la información que reúne sobre Calleigh y Eric para sacarlos del caso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_c-s-i-miami-s06e20-down-to-the-wire-1_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.19.</episode-num>
   </programme>
-  <programme start="20221107184000 -0300" stop="20221107193000 -0300" channel="SD | AXN 2">
-    <title lang="es">Hawaii Five-0</title>
+  <programme start="20221108004000 +0100" stop="20221108013000 +0100" channel="SD | AXN 2">
+    <title lang="es">Hawaii-Five-O</title>
     <sub-title lang="es">I'ike Ke Ao</sub-title>
-    <desc lang="es">Las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas. El equipo está encabezado por Steve McGarrett, un ex marino que investiga desde terrorismo hasta secuestros. A McGarrett se le asigna un compañero, el detective Danny 'Danno' Williams, que recientemente ha sido trasladado de Nueva Jersey. Completará el equipo eligiendo a un amigo de la escuela secundaria, Chin Ho Kelly, y su prima llamada Kono Kalakaua.
-Five-0 debe salvar a un estudiante universitario secuestrado de un vigilante peligroso. También Max, Kamekona y Flippa intentan sobrevivir después de haber naufragado.</desc>
-    <credits>
-      <director>Jeffrey G Hunt</director>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-      <actor>Masi Oka</actor>
-      <actor>Taylor Wily</actor>
-      <actor>Michelle Borth</actor>
-      <actor>Teilor Grubbs</actor>
-      <actor>Dennis Chun</actor>
-      <actor>Chi McBride</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4431081.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.22.</episode-num>
+    <desc lang="es">Five-0 debe salvar a un estudiante universitario secuestrado de un vigilante peligroso. También Max, Kamekona y Flippa intentan sobrevivir después de haber naufragado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hawaii-five-o-s06e22-i-ike-ke-ao_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.21.</episode-num>
   </programme>
-  <programme start="20221107193000 -0300" stop="20221107202000 -0300" channel="SD | AXN 2">
-    <title lang="es">Hawaii Five-0</title>
+  <programme start="20221108013000 +0100" stop="20221108022000 +0100" channel="SD | AXN 2">
+    <title lang="es">Hawaii-Five-O</title>
     <sub-title lang="es">Pilina koko</sub-title>
-    <desc lang="es">Las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas. El equipo está encabezado por Steve McGarrett, un ex marino que investiga desde terrorismo hasta secuestros. A McGarrett se le asigna un compañero, el detective Danny 'Danno' Williams, que recientemente ha sido trasladado de Nueva Jersey. Completará el equipo eligiendo a un amigo de la escuela secundaria, Chin Ho Kelly, y su prima llamada Kono Kalakaua.
-Mientras investiga el asesinato de una mujer relacionada al tráfico de drogas, Five-0 descubre que la hija de la víctima tiene una cercana conexión personal con Chin Ho y Gabriel Waincroft.</desc>
-    <credits>
-      <director>Jeffrey G Hunt</director>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-      <actor>Masi Oka</actor>
-      <actor>Taylor Wily</actor>
-      <actor>Michelle Borth</actor>
-      <actor>Teilor Grubbs</actor>
-      <actor>Dennis Chun</actor>
-      <actor>Chi McBride</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4431073.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.23.</episode-num>
+    <desc lang="es">Mientras investiga el asesinato de una mujer relacionada al tráfico de drogas, Five-0 descubre que la hija de la víctima tiene una cercana conexión personal con Chin Ho y Gabriel Waincroft.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hawaii-five-o-s06e23-pilina-koko_l_m.jpg"/>
+    <episode-num system="xmltv_ns">5.22.</episode-num>
   </programme>
-  <programme start="20221107202000 -0300" stop="20221107211000 -0300" channel="SD | AXN 2">
+  <programme start="20221108022000 +0100" stop="20221108031000 +0100" channel="SD | AXN 2">
     <title lang="es">Criminal Minds</title>
     <sub-title lang="es">Faceless, Nameless</sub-title>
-    <desc lang="es">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías locales en la búsqueda y captura de los asesinos en serie. Cada uno de los agentes de este grupo elite tiene personalidades diferentes que se complementan para formar el equipo y ellos tendrán que pensar como el ignoto para poder entenderlo hasta saber cuál será su próximo paso, porque suele suceder que el homicida múltiple que aterroriza a una ciudad, también está anhelando ser detenido.
-Tras dormir apenas unas cuatro horas después de regresar de su pesadilla en Canadá, el equipo es llamado a la escena de un crimen por la policía local, donde el detective Walker les explica en la escena del crimen que un hombre llamado Nelson Martínez fue asesinado en su apartamento. Sin embargo, Morgan no entiende por qué han llamado al equipo pero el detective les explica que dos días antes un médico llamado Tom Barton había encontrado en el hospital una nota con su nombre donde le decían que iban a matar a su hijo, y que si intentaba esconderlo, todos los días moriría alguien en su lugar.</desc>
-    <credits>
-      <director>Leon Ichaso</director>
-      <actor>Shemar Moore</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Matthew Gray Gubler</actor>
-      <actor>AJ Cook</actor>
-      <actor>Kirsten Vangsness</actor>
-      <actor>Joe Mantegna</actor>
-      <actor>Paget Brewster</actor>
-      <actor>Adam Rodriguez</actor>
-      <actor>Aisha Tyler</actor>
-      <actor>Damon Gupton</actor>
-      <actor>Jeanne Tripplehorn</actor>
-      <actor>Rachel Nichols</actor>
-    </credits>
-    <date>2005</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/9544803.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
-  </programme>
-  <programme start="20221107211000 -0300" stop="20221107220500 -0300" channel="SD | AXN 2">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">Deep Trouble - Part 2</sub-title>
-    <desc lang="es">Dinámica división policial que atrapa a los más peligrosos delincuentes, valiéndose astutamente de sorprendentes innovaciones tecnológicas, increíbles transformaciones físicas y arriesgadas usurpaciones de identidad. Ahora, irrumpen en la ciudad del glamour, la moda y el cine para desbaratar el reinado del crimen organizado.
-Callen y Sam permanecen atrapados en un submarino armado por terroristas para impactar contra un portaaviones en San Diego.</desc>
-    <credits>
-      <director>Dennis Smith</director>
-      <director>Terrence O'Hara</director>
-      <director>Tony Wharmby</director>
-      <actor>Chris O'Donnell</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Barrett Foa</actor>
-      <actor>LL Cool J</actor>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Claire Forlani</actor>
-      <actor>Erik Palladino</actor>
-      <actor>Vyto Ruginis</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Kent Shocknek</actor>
-      <actor>Kathleen Rose Perkins</actor>
-      <actor>Jeronimo Spinx</actor>
-      <actor>Matthew Grant Godbey</actor>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4314962.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">6.1.</episode-num>
-  </programme>
-  <programme start="20221107220500 -0300" stop="20221107230000 -0300" channel="SD | AXN 2">
-    <title lang="es">NCIS</title>
-    <sub-title lang="es">Jeopardy</sub-title>
-    <desc lang="es">Un equipo de agentes especiales del Servicio de Investigación Criminal de la Marina de los Estados Unidos, liderados por el agente especial Leroy Jethro Gibbs, investiga los crímenes que se cometen dentro del Cuerpo Naval. Entre los casos está la muerte del ayudante del maletín nuclear del presidente, una situación explosiva a bordo de un buque de guerra de la Armada y la muerte de un famoso durante un show de televisión en una base.
-Un sospechoso se derrumba y fallece mientras está bajo la custodia de Ziva, y ella se convierte en un sospechoso en lugar de una investigadora. Pero cuando el equipo indaga, la directora desaparece y su conductor muere.</desc>
-    <credits>
-      <director>Alan J Levi</director>
-      <actor>Mark Harmon</actor>
-      <actor>Sasha Alexander</actor>
-      <actor>Michael Weatherly</actor>
-      <actor>David McCallum</actor>
-      <actor>Sean Murray</actor>
-      <actor>Brian Dietzen</actor>
-      <actor>Rocky Carroll</actor>
-      <actor>Cote de Pablo</actor>
-      <actor>Emily Wickersham</actor>
-      <actor>Muse Watson</actor>
-      <actor>Scottie Thompson</actor>
-      <actor>Pancho Demmings</actor>
-      <actor>Liza Lapira</actor>
-      <actor>Alan Dale</actor>
-      <actor>Stephanie Mello</actor>
-      <actor>Pauley Perrette</actor>
-      <actor>Mary Mouser</actor>
-      <actor>Sarah Jane E Morris</actor>
-      <actor>Michelle Pierce</actor>
-      <actor>Jessica Steen</actor>
-      <actor>Marisol Nichols</actor>
-      <actor>Rena Sofer</actor>
-      <actor>Lindsay Price</actor>
-      <actor>Mikki Padilla</actor>
-      <actor>Matt Craven</actor>
-      <actor>Milauna Jackson</actor>
-      <actor>Jamie Lee Curtis</actor>
-      <actor>Judith Shekoni</actor>
-      <actor>Kelly Hu</actor>
-      <actor>Lauren Bowles</actor>
-      <actor>Ralph Waite</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="es">Series</category>
-    <category lang="es">Acción</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/209012.jpg"/>
-    <country>EE</country>
-    <country>UU</country>
-    <episode-num system="xmltv_ns">3.22.</episode-num>
-  </programme>
-  <programme start="20221107230000 -0300" stop="20221108000000 -0300" channel="SD | AXN 2">
-    <title lang="es">Candice Renoir</title>
-    <sub-title lang="es">Haz lo que debas, lo demás llegará</sub-title>
-    <desc lang="es">Candice Renoir tiene cuatro hijos y no ha trabajado en diez años. Ahora, separada de su esposo, toma un puesto como líder en el Public Security Investigation del sur de Francia. A la cabeza de su nuevo grupo, debe probar que tan buena es.
-Axel, adicto a los videojuegos, aparece muerto en su habitación. Aunque Candice se da cuenta instantáneamente de cuán audible es el ruido del piso en esta habitación, la madre de la víctima, originalmente presente, no se dio cuenta.</desc>
-    <credits>
-      <actor>Cécile Bois</actor>
-      <actor>Raphaël Lenglet</actor>
-      <actor>Mhamed Arezki</actor>
-      <actor>Clara Antoons</actor>
-      <actor>Etienne Martinelli</actor>
-      <actor>Ali Marhyar</actor>
-      <actor>Alexandre Ruscher</actor>
-      <actor>Paul Ruscher</actor>
-      <actor>Gaya Verneuil</actor>
-      <actor>Nathalie Boutefeu</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Series</category>
-    <category lang="es">Policial</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/1145175.jpg"/>
-    <country lang="es">Francia</country>
-    <episode-num system="xmltv_ns">8.6.</episode-num>
+    <desc lang="es">Tras dormir apenas unas cuatro horas después de regresar de su pesadilla en Canadá, el equipo es llamado a la escena de un crimen por la policía local, donde el detective Walker les explica en la escena del crimen que un hombre llamado Nelson Martínez fue asesinado en su apartamento. Sin embargo, Morgan no entiende por qué han llamado al equipo pero el detective les explica que dos días antes un médico llamado Tom Barton había encontrado en el hospital una nota con su nombre donde le decían que iban a matar a su hijo, y que si intentaba esconderlo, todos los días moriría alguien en su lugar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_criminal-minds-s05e01-faceless-nameless_l_m.jpg"/>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
   </programme>
   <channel id="SD | Baby tv">
     <display-name lang="es">SD | Baby tv</display-name>
@@ -2560,7 +1698,7 @@ Axel, adicto a los videojuegos, aparece muerto en su habitación. Aunque Candice
     <title lang="es">Lucas the Spider</title>
   </programme>
   <programme start="20221107130000 -0300" stop="20221107131500 -0300" channel="SD | Boomerang">
-    <title lang="es">Mundo Bita Imagine-se</title>
+    <title lang="es">Mundo Bita - Imagine-se</title>
   </programme>
   <programme start="20221107131500 -0300" stop="20221107133000 -0300" channel="SD | Boomerang">
     <title lang="es">Hey Duggee</title>
@@ -2704,5 +1842,765 @@ Axel, adicto a los videojuegos, aparece muerto en su habitación. Aunque Candice
   </programme>
   <programme start="20221107233000 -0300" stop="20221108000000 -0300" channel="SD | Boomerang">
     <title lang="es">Thomas and Friends</title>
+  </programme>
+  <channel id="SD | Cartoon network">
+    <display-name lang="es">SD | Cartoon network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png"/>
+  </channel>
+  <programme start="20221107000200 -0300" stop="20221107005700 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107005700 -0300" stop="20221107015800 -0300" channel="SD | Cartoon network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20221107015800 -0300" stop="20221107032700 -0300" channel="SD | Cartoon network">
+    <title lang="es">Cloudy with a chance of</title>
+  </programme>
+  <programme start="20221107032700 -0300" stop="20221107040400 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107040400 -0300" stop="20221107050400 -0300" channel="SD | Cartoon network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221107050400 -0300" stop="20221107055400 -0300" channel="SD | Cartoon network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="es">¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. "¡No lo es!" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <producer>Peter Rida Michail</producer>
+      <producer>Peggy Regan</producer>
+      <producer>Luke Cormican</producer>
+      <producer>Glen Murakami</producer>
+      <producer>Christina Reynolds</producer>
+      <producer>Jeff Prezenkowski</producer>
+      <producer>Brian E.S. Jones</producer>
+      <producer>Sam Register</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71543.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71544.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71545.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71546.jpg"/>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>5/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_5.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107055400 -0300" stop="20221107065500 -0300" channel="SD | Cartoon network">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20221107065500 -0300" stop="20221107075800 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107075800 -0300" stop="20221107090000 -0300" channel="SD | Cartoon network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221107090000 -0300" stop="20221107100200 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107100200 -0300" stop="20221107102600 -0300" channel="SD | Cartoon network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20221107102600 -0300" stop="20221107112600 -0300" channel="SD | Cartoon network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221107112600 -0300" stop="20221107120300 -0300" channel="SD | Cartoon network">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20221107120300 -0300" stop="20221107122800 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107122800 -0300" stop="20221107132900 -0300" channel="SD | Cartoon network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="es">¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. "¡No lo es!" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <producer>Peter Rida Michail</producer>
+      <producer>Peggy Regan</producer>
+      <producer>Luke Cormican</producer>
+      <producer>Glen Murakami</producer>
+      <producer>Christina Reynolds</producer>
+      <producer>Jeff Prezenkowski</producer>
+      <producer>Brian E.S. Jones</producer>
+      <producer>Sam Register</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71543.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71544.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71545.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71546.jpg"/>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>5/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_5.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107132900 -0300" stop="20221107140500 -0300" channel="SD | Cartoon network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20221107140500 -0300" stop="20221107143100 -0300" channel="SD | Cartoon network">
+    <title lang="es">Barbie It Takes Two</title>
+  </programme>
+  <programme start="20221107143100 -0300" stop="20221107153400 -0300" channel="SD | Cartoon network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221107153400 -0300" stop="20221107160100 -0300" channel="SD | Cartoon network">
+    <title lang="es">We Baby Bears</title>
+  </programme>
+  <programme start="20221107160100 -0300" stop="20221107170400 -0300" channel="SD | Cartoon network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="es">¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. "¡No lo es!" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <producer>Peter Rida Michail</producer>
+      <producer>Peggy Regan</producer>
+      <producer>Luke Cormican</producer>
+      <producer>Glen Murakami</producer>
+      <producer>Christina Reynolds</producer>
+      <producer>Jeff Prezenkowski</producer>
+      <producer>Brian E.S. Jones</producer>
+      <producer>Sam Register</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71543.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71544.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71545.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71546.jpg"/>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>5/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_5.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107170400 -0300" stop="20221107173000 -0300" channel="SD | Cartoon network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20221107173000 -0300" stop="20221107175700 -0300" channel="SD | Cartoon network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20221107175700 -0300" stop="20221107190400 -0300" channel="SD | Cartoon network">
+    <title lang="es">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20221107190400 -0300" stop="20221107195900 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107195900 -0300" stop="20221107204200 -0300" channel="SD | Cartoon network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20221107204200 -0300" stop="20221107205800 -0300" channel="SD | Cartoon network">
+    <title lang="es">Lamput</title>
+  </programme>
+  <programme start="20221107205800 -0300" stop="20221107213500 -0300" channel="SD | Cartoon network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="es">¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. "¡No lo es!" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <producer>Peter Rida Michail</producer>
+      <producer>Peggy Regan</producer>
+      <producer>Luke Cormican</producer>
+      <producer>Glen Murakami</producer>
+      <producer>Christina Reynolds</producer>
+      <producer>Jeff Prezenkowski</producer>
+      <producer>Brian E.S. Jones</producer>
+      <producer>Sam Register</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71543.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71544.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71545.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71546.jpg"/>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>5/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_5.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107213500 -0300" stop="20221107221800 -0300" channel="SD | Cartoon network">
+    <title lang="es">We Baby Bears</title>
+  </programme>
+  <programme start="20221107221800 -0300" stop="20221107224500 -0300" channel="SD | Cartoon network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="en">Teen Titans Go!</title>
+    <desc lang="es">¡Estos titanes adolescentes están en movimiento! Justo después de hacer un sándwich. O jugar algunos videojuegos. Espera, hay que lavar ropa. "¡No lo es!" Después de eso, definitivamente lucharán contra algún crimen. Tal vez… ¡Teen Titans Go! presenta el regreso de Robin, Starfire, Raven, Chico Bestia y Cyborg en nuevas aventuras cómicas. Estos cinco adolescentes superhéroes tienen más que solo superpoderes: ¡tienen quehaceres de gran tamaño y no tienen supervisión! Salvar el mundo puede parecer un gran problema, pero después de luchar contra el mal todo el día en Jump City, lo último que quieren hacer estos adolescentes es pelear por el remoto hogar de Titans Tower o tener que limpiar después de una maratón de pizza. Así que prepárate para el caos cómico marcado por bromas mientras los adolescentes se molestan mutuamente, con un poco de lucha contra el crimen. A menos que haya algo bueno en la televisión…</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <producer>Peter Rida Michail</producer>
+      <producer>Peggy Regan</producer>
+      <producer>Luke Cormican</producer>
+      <producer>Glen Murakami</producer>
+      <producer>Christina Reynolds</producer>
+      <producer>Jeff Prezenkowski</producer>
+      <producer>Brian E.S. Jones</producer>
+      <producer>Sam Register</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71543.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71544.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71545.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/los_jovenes_titanes_en_accion-71546.jpg"/>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>5/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_5.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107224500 -0300" stop="20221107230000 -0300" channel="SD | Cartoon network">
+    <title lang="es">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20221107230000 -0300" stop="20221108000400 -0300" channel="SD | Cartoon network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="en">The Amazing World of Gumball</title>
+    <desc lang="es">Gumball y Darwin adoran sus disfraces de artes marciales y prometen nunca quitárselos. Hasta que todos los niños en la escuela se ríen en el edificio. Luego, Gumball y Darwin hacen todo lo posible para devolver un videojuego y recuperar su dinero. Hasta que Larry, el empleado, se ríe fuera de la tienda. Después de eso, Gumball y Darwin salen a hacer un picnic escolar. Hasta que un grupo de depredadores del bosque se ríe en el bosque. ¿Ves un patrón aquí?</desc>
+    <credits>
+      <director>Mic Graves</director>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+      <producer>Ben Bocquelet</producer>
+      <producer>Michael Carrington</producer>
+      <producer>Daniel Lennard</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72842.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72843.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72844.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/imagenes/el_increible_mundo_de_gumball-72845.jpg"/>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>TV-PG</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/tv-pg.jpg"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <channel id="SD | Cinecanal">
+    <display-name lang="es">SD | Cinecanal</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal.png"/>
+  </channel>
+  <programme start="20221107010000 -0300" stop="20221107031200 -0300" channel="SD | Cinecanal">
+    <title lang="es">La Llegada (2016)</title>
+    <desc lang="es">Una nave extraña aterriza en el planeta, el Coronel Weber (Forest Whitaker), llega a la universidad donde trabaja la experta en lingüística Louise Banks (Amy Adams) para que le ayude a descifrar un mensaje que ha dejado esta nave. Louise junto con un equipo de élite comandados por Ian Donnelly (Jeremy Renner) deberán descifrar lo que ellos quieren y porque están allí, y evitar que se desate una guerra mundial. Tendrán que poner en peligro sus vidas y seguramente, las de toda la humanidad.</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <writer>Eric Heisserer</writer>
+      <producer>Dan Levine</producer>
+      <producer>Shawn Levy</producer>
+      <producer>David Linde</producer>
+      <producer>Karen Lunder</producer>
+      <producer>Aaron Ryder</producer>
+      <producer>Paul Barbeau</producer>
+      <producer>Glen Basner</producer>
+      <producer>Dan Cohen</producer>
+      <producer>Eric Heisserer</producer>
+      <producer>Martin Henri</producer>
+      <producer>Michael Jackman</producer>
+      <producer>Tory Metzger</producer>
+      <producer>Milan Popelka</producer>
+      <producer>Stan Wlodkowski</producer>
+      <composer>Jóhann Jóhannsson</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Misterio</category>
+    <orig-language lang="es">Inglés</orig-language>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/imagenes/la_llegada_2016-15349.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/imagenes/la_llegada_2016-15350.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/imagenes/la_llegada_2016-15351.jpg"/>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/imagenes/la_llegada_2016-15352.jpg"/>
+    <country lang="es">Estados Unidos</country>
+    <rating system="TVPG">
+      <value>MPAA PG-13</value>
+      <icon src="https://imagenes.gatotv.com/rating/oscuros/pg-13.png"/>
+    </rating>
+    <star-rating system="GatoTV.com">
+      <value>8/10</value>
+      <icon src="https://imagenes.gatotv.com/half_stars_8.png"/>
+    </star-rating>
+  </programme>
+  <programme start="20221107031200 -0300" stop="20221107045200 -0300" channel="SD | Cinecanal">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20221107045200 -0300" stop="20221107063200 -0300" channel="SD | Cinecanal">
+    <title lang="es">El hilo rojo</title>
+  </programme>
+  <programme start="20221107063200 -0300" stop="20221107082100 -0300" channel="SD | Cinecanal">
+    <title lang="es">Igualita a mi</title>
+  </programme>
+  <programme start="20221107082100 -0300" stop="20221107100000 -0300" channel="SD | Cinecanal">
+    <title lang="es">Los pingüinos de papá</title>
+  </programme>
+  <programme start="20221107100000 -0300" stop="20221107113100 -0300" channel="SD | Cinecanal">
+    <title lang="es">At Home in Mitford</title>
+  </programme>
+  <programme start="20221107113100 -0300" stop="20221107120400 -0300" channel="SD | Cinecanal">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20221107120400 -0300" stop="20221107135300 -0300" channel="SD | Cinecanal">
+    <title lang="es">Cazando salvajes</title>
+  </programme>
+  <programme start="20221107135300 -0300" stop="20221107153500 -0300" channel="SD | Cinecanal">
+    <title lang="es">Besouro</title>
+  </programme>
+  <programme start="20221107153500 -0300" stop="20221107170700 -0300" channel="SD | Cinecanal">
+    <title lang="es">Caja Dos</title>
+  </programme>
+  <programme start="20221107170700 -0300" stop="20221107185100 -0300" channel="SD | Cinecanal">
+    <title lang="es">Una familia espacial</title>
+  </programme>
+  <programme start="20221107185100 -0300" stop="20221107205100 -0300" channel="SD | Cinecanal">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20221107205100 -0300" stop="20221107231100 -0300" channel="SD | Cinecanal">
+    <title lang="es">Duro de matar 3: La venganza</title>
+  </programme>
+  <programme start="20221107231100 -0300" stop="20221108010000 -0300" channel="SD | Cinecanal">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <channel id="SD | Comedy Central">
+    <display-name lang="es">SD | Comedy Central</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png"/>
+  </channel>
+  <programme start="20221107001500 -0300" stop="20221107004500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Yo soy Betty, la fea</title>
+    <episode-num system="onscreen">E184</episode-num>
+  </programme>
+  <programme start="20221107004500 -0300" stop="20221107011000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Yo soy Betty, la fea</title>
+    <episode-num system="onscreen">E185</episode-num>
+  </programme>
+  <programme start="20221107011000 -0300" stop="20221107014500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Se rentan Cuartos</title>
+    <episode-num system="onscreen">E608</episode-num>
+  </programme>
+  <programme start="20221107014500 -0300" stop="20221107021500 -0300" channel="SD | Comedy Central">
+    <title lang="es">The Fresh Prince of Bel-Air</title>
+    <episode-num system="onscreen">E301</episode-num>
+  </programme>
+  <programme start="20221107021500 -0300" stop="20221107024000 -0300" channel="SD | Comedy Central">
+    <title lang="es">The Fresh Prince of Bel-Air</title>
+    <episode-num system="onscreen">E302</episode-num>
+  </programme>
+  <programme start="20221107024000 -0300" stop="20221107031000 -0300" channel="SD | Comedy Central">
+    <title lang="es">South Park</title>
+    <episode-num system="onscreen">E217</episode-num>
+  </programme>
+  <programme start="20221107031000 -0300" stop="20221107033500 -0300" channel="SD | Comedy Central">
+    <title lang="es">South Park</title>
+    <episode-num system="onscreen">E218</episode-num>
+  </programme>
+  <programme start="20221107033500 -0300" stop="20221107040500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Ren &amp; Stimpy</title>
+    <episode-num system="onscreen">E115</episode-num>
+  </programme>
+  <programme start="20221107040500 -0300" stop="20221107043000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Ren &amp; Stimpy</title>
+    <episode-num system="onscreen">E118</episode-num>
+  </programme>
+  <programme start="20221107043000 -0300" stop="20221107050000 -0300" channel="SD | Comedy Central">
+    <title lang="es">One-Punch Man</title>
+    <episode-num system="onscreen">E109</episode-num>
+  </programme>
+  <programme start="20221107050000 -0300" stop="20221107053000 -0300" channel="SD | Comedy Central">
+    <title lang="es">La Familia del Barrio</title>
+    <episode-num system="onscreen">E504</episode-num>
+  </programme>
+  <programme start="20221107053000 -0300" stop="20221107060000 -0300" channel="SD | Comedy Central">
+    <title lang="es">La Familia del Barrio</title>
+    <episode-num system="onscreen">E505</episode-num>
+  </programme>
+  <programme start="20221107060000 -0300" stop="20221107063000 -0300" channel="SD | Comedy Central">
+    <title lang="es">South Park</title>
+    <episode-num system="onscreen">E510</episode-num>
+  </programme>
+  <programme start="20221107063000 -0300" stop="20221107080000 -0300" channel="SD | Comedy Central">
+    <title lang="es">South Park</title>
+    <episode-num system="onscreen">E511</episode-num>
+  </programme>
+  <programme start="20221107080000 -0300" stop="20221107083000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+    <episode-num system="onscreen">E505</episode-num>
+  </programme>
+  <programme start="20221107083000 -0300" stop="20221107090000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+    <episode-num system="onscreen">E506</episode-num>
+  </programme>
+  <programme start="20221107090000 -0300" stop="20221107093000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Ugly Americans</title>
+    <episode-num system="onscreen">E215</episode-num>
+  </programme>
+  <programme start="20221107093000 -0300" stop="20221107100000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Ugly Americans</title>
+    <episode-num system="onscreen">E216</episode-num>
+  </programme>
+  <programme start="20221107100000 -0300" stop="20221107103000 -0300" channel="SD | Comedy Central">
+    <title lang="es">South Park</title>
+    <episode-num system="onscreen">E512</episode-num>
+  </programme>
+  <programme start="20221107103000 -0300" stop="20221107110000 -0300" channel="SD | Comedy Central">
+    <title lang="es">South Park</title>
+    <episode-num system="onscreen">E514</episode-num>
+  </programme>
+  <programme start="20221107110000 -0300" stop="20221107113000 -0300" channel="SD | Comedy Central">
+    <title lang="es">One-Punch Man</title>
+    <episode-num system="onscreen">E110</episode-num>
+  </programme>
+  <programme start="20221107113000 -0300" stop="20221107120000 -0300" channel="SD | Comedy Central">
+    <title lang="es">One-Punch Man</title>
+    <episode-num system="onscreen">E111</episode-num>
+  </programme>
+  <programme start="20221107120000 -0300" stop="20221107123000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Everybody Hates Chris</title>
+    <episode-num system="onscreen">E107</episode-num>
+  </programme>
+  <programme start="20221107123000 -0300" stop="20221107130000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Everybody Hates Chris</title>
+    <episode-num system="onscreen">E108</episode-num>
+  </programme>
+  <programme start="20221107130000 -0300" stop="20221107135000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Mi corazón es tuyo</title>
+    <episode-num system="onscreen">E101</episode-num>
+  </programme>
+  <programme start="20221107135000 -0300" stop="20221107141500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">E410</episode-num>
+  </programme>
+  <programme start="20221107141500 -0300" stop="20221107144000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">E411</episode-num>
+  </programme>
+  <programme start="20221107144000 -0300" stop="20221107151000 -0300" channel="SD | Comedy Central">
+    <title lang="es">The Fresh Prince of Bel-Air</title>
+    <episode-num system="onscreen">E311</episode-num>
+  </programme>
+  <programme start="20221107151000 -0300" stop="20221107153500 -0300" channel="SD | Comedy Central">
+    <title lang="es">The Fresh Prince of Bel-Air</title>
+    <episode-num system="onscreen">E312</episode-num>
+  </programme>
+  <programme start="20221107153500 -0300" stop="20221107160500 -0300" channel="SD | Comedy Central">
+    <title lang="es">La Familia del Barrio</title>
+    <episode-num system="onscreen">E506</episode-num>
+  </programme>
+  <programme start="20221107160500 -0300" stop="20221107163000 -0300" channel="SD | Comedy Central">
+    <title lang="es">La Familia del Barrio</title>
+    <episode-num system="onscreen">E507</episode-num>
+  </programme>
+  <programme start="20221107163000 -0300" stop="20221107170000 -0300" channel="SD | Comedy Central">
+    <title lang="es">One-Punch Man</title>
+    <episode-num system="onscreen">E110</episode-num>
+  </programme>
+  <programme start="20221107170000 -0300" stop="20221107172500 -0300" channel="SD | Comedy Central">
+    <title lang="es">One-Punch Man</title>
+    <episode-num system="onscreen">E111</episode-num>
+  </programme>
+  <programme start="20221107172500 -0300" stop="20221107182000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Mi corazón es tuyo</title>
+    <episode-num system="onscreen">E101</episode-num>
+  </programme>
+  <programme start="20221107182000 -0300" stop="20221107185000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">E410</episode-num>
+  </programme>
+  <programme start="20221107185000 -0300" stop="20221107191500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">E411</episode-num>
+  </programme>
+  <programme start="20221107191500 -0300" stop="20221107194500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">E412</episode-num>
+  </programme>
+  <programme start="20221107194500 -0300" stop="20221107201000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Vecinos</title>
+    <episode-num system="onscreen">E413</episode-num>
+  </programme>
+  <programme start="20221107201000 -0300" stop="20221107202500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Pinches comediantes</title>
+    <episode-num system="onscreen">E105</episode-num>
+  </programme>
+  <programme start="20221107202500 -0300" stop="20221107205500 -0300" channel="SD | Comedy Central">
+    <title lang="es">Yo soy Betty, la fea</title>
+    <episode-num system="onscreen">E186</episode-num>
+  </programme>
+  <programme start="20221107205500 -0300" stop="20221107213000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Yo soy Betty, la fea</title>
+    <episode-num system="onscreen">E187</episode-num>
+  </programme>
+  <programme start="20221107213000 -0300" stop="20221107220000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Yo soy Betty, la fea</title>
+    <episode-num system="onscreen">E188</episode-num>
+  </programme>
+  <programme start="20221107220000 -0300" stop="20221107230000 -0300" channel="SD | Comedy Central">
+    <title lang="es">La Clinica</title>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20221107230000 -0300" stop="20221107233000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Sabrina La Bruja Adolescente</title>
+    <episode-num system="onscreen">E106</episode-num>
+  </programme>
+  <programme start="20221107233000 -0300" stop="20221108001000 -0300" channel="SD | Comedy Central">
+    <title lang="es">Harina</title>
+    <episode-num system="onscreen">E103</episode-num>
   </programme>
 </tv>
