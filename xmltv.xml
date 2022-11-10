@@ -106,4 +106,130 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
     </rating>
   </programme>
+  <programme start="20221110224700 +0100" stop="20221111060000 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">WTA FinalsSabalenka-Garcia</title>
+    <desc lang="es">La ciudad estadounidense de Fort Worth acoge las finales de la WTA.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4047573"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111060000 +0100" stop="20221111145400 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">El Etihad Stadium acoge el encuentro entre Manchester City y Fulham correspondiente a la jornada 15 de la Premier League. Vive este partido y toda la Premier, en DAZN.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4047857"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111145400 +0100" stop="20221111151600 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Premier League World (T20/21): Ian Wright y Deniss Bergkamp, viejos amigos</title>
+    <desc lang="es">Ian Wright y Deniss Bergkamp se reencuentran años después para rememorar la carrera del neerlandés en el Arsenal en los años 90.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4037104"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221111151600 +0100" stop="20221111153300 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Premier League World (Spain)Van Nistelrooy</title>
+    <desc lang="es">Ruud Van Nistelrooy fue una de las estrellas del Manchester United, además de otros equipos como el Real Madrid.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4031367"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221111153300 +0100" stop="20221111172800 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Premier League (T22/23): Aston Villa - Manchester United</title>
+    <desc lang="es">El Manchester United viaja Villa Park para medirse al Aston Villa. Los de Erik Ten Hag llegan sextos tras empatar ante el Chelsea in extremis, mientras que el conjunto de Steven Gerard vuelve a jugar en casa tras vencer por goleada al Brentford.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4047849"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111172800 +0100" stop="20221111174200 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Premier League World (Spain)Crespo</title>
+    <desc lang="es">Hernán Crespo, actualmente es entrenador, dejó su sello en la Premier League vistiendo la camiseta del Chelsea.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4031367"/>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221111174200 +0100" stop="20221111181100 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Euroleague Features (T20/21): Baloncesto y Racismo</title>
+    <desc lang="es">Profesionales del baloncesto tratan un tema importante en la sociedad.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3899792"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111181100 +0100" stop="20221111200300 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Euroliga de baloncesto (T22/23): Maccabi Tel Aviv - Barcelona</title>
+    <desc lang="es">Maccabi Playtika Tel Aviv y FC Barcelona se ven las caras en una nueva y emocionante jornada de la Euroliga. ¡Síguelo en DAZN!</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4045409"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221111200300 +0100" stop="20221111202700 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Euroleague Features (T22/23): Oscar Da Silva: una mente maravillosa</title>
+    <desc lang="es">Programa que profundiza en las historias más significativas de la Euroliga de baloncesto.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4043550"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221111202700 +0100" stop="20221111204500 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Euroleague Features (T22/23): The Coaching experience - Álex Mumbrú</title>
+    <desc lang="es">El técnico del Valencia Basket analiza tácticamente a su equipo y aspectos de la actualidad del baloncesto europeo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4043550"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221111204500 +0100" stop="20221111225400 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Euroliga de baloncesto (T22/23): Valencia Basket - Mónaco</title>
+    <desc lang="es">El Valencia Basket recibe en La Fonteta al AS Monaco. No te pierdas este encuentro correspondiente a la jornada 7 de la Euroliga, solo en DAZN.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4045419"/>
+  </programme>
+  <programme start="20221111225400 +0100" stop="20221112004200 +0100" channel="Premium | FOX Life HD (A)">
+    <title lang="es">Euroliga de baloncesto (T22/23): Olympiacos - Partizan</title>
+    <desc lang="es">Olympiacos Piraeus y Partizan Mozzart Bet Belgrade se ven las caras en una nueva y emocionante jornada de la Euroliga. ¡Síguelo en DAZN!</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4045405"/>
+  </programme>
 </tv>
