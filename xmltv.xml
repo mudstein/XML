@@ -4,6 +4,10 @@
     <display-name lang="es">SD | Animal planet</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica.png"/>
   </channel>
+  <channel id="SD | AXN">
+    <display-name lang="es">SD | AXN</display-name>
+    <icon src="https://www.telered.com.ar/img/logos_ch/logos-AXN-2705.png"/>
+  </channel>
   <programme start="20221109000200 -0300" stop="20221109010300 -0300" channel="SD | Animal planet">
     <title lang="es">Guardianes del pantano</title>
     <sub-title lang="es">Control absoluto</sub-title>
@@ -95,10 +99,6 @@
   <programme start="20221109200000 -0300" stop="20221109210000 -0300" channel="SD | Animal planet">
     <title lang="es">Wild Frank: Ante los Ojos del León</title>
   </programme>
-  <channel id="SD | AXN">
-    <display-name lang="es">SD | AXN</display-name>
-    <icon src="https://www.telered.com.ar/img/logos_ch/logos-AXN-2705.png"/>
-  </channel>
   <programme start="20221109005000 -0300" stop="20221109014500 -0300" channel="SD | AXN">
     <title lang="es">C.S.I.</title>
     <title lang="en">Crime Scene Investigation</title>
