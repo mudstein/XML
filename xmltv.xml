@@ -85,7 +85,7 @@
       <value>3/5</value>
     </star-rating>
   </programme>
-  <programme start="20221110191200 +0100" stop="20221110212500 +0100" channel="Premium | FOX Life HD (A)">
+  <programme start="20221110191200 +0100" stop="20221110222000 +0100" channel="Premium | FOX Life HD (A)">
     <title lang="es">Euroliga de baloncesto (T22/23): Real Madrid - Anadolu Efes Istanbul</title>
     <desc lang="es">Partido de los grandes, de los que bien podría ser un cruce de Final Four, como de hecho fue su último enfrentamiento, que se saldó con triunfo otomano. El histórico de enfrentamientos entre ambos es claramente blanco.</desc>
     <category lang="es">Deportes</category>
@@ -95,37 +95,12 @@
       <value>5/5</value>
     </star-rating>
   </programme>
-  <programme start="20221110212500 +0100" stop="20221110214400 +0100" channel="Premium | FOX Life HD (A)">
+  <programme start="20221110222000 +0100" stop="20221110224700 +0100" channel="Premium | FOX Life HD (A)">
     <title lang="es">Euroleague Features (T22/23): Chacho siempre vuelve</title>
     <desc lang="es">Programa que profundiza en las historias más significativas de la Euroliga de baloncesto.</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Programa</category>
     <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4043550"/>
-    <rating system="ICAA">
-      <value>APTA</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
-    </rating>
-  </programme>
-  <programme start="20221110214400 +0100" stop="20221110222800 +0100" channel="Premium | FOX Life HD (A)">
-    <title lang="es">Euroleague Features (T20/21): Insider: Shane Larkin</title>
-    <desc lang="es">Shane Larkin ha ganado la Euroliga en las filas del Anadolu Efes de Turquía. Vivimos cómo ha sido la historia del americano.</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3899792"/>
-    <rating system="ICAA">
-      <value>APTA</value>
-      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
-    </rating>
-    <star-rating>
-      <value>3/5</value>
-    </star-rating>
-  </programme>
-  <programme start="20221110222800 +0100" stop="20221110224700 +0100" channel="Premium | FOX Life HD (A)">
-    <title lang="es">Euroleague Features (T20/21): The coaching experience: Sergio Scariolo</title>
-    <desc lang="es">El Seleccionador Nacional y entrenador del Virtus de Bolonia se sienta ante la pizarra junto a Piti Hurtado para el 4º episodio de The Coaching Experiencie en DAZN.</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Programa</category>
-    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3899792"/>
     <rating system="ICAA">
       <value>APTA</value>
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
