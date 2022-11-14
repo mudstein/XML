@@ -64,272 +64,169 @@
     <display-name lang="es">DEPORTES | FOX SPORTS 2 HD Arg</display-name>
     <icon src="https://www.telered.com.ar/img/logos_ch/logos-FOXSPORTS2-2705.png"/>
   </channel>
-  <programme start="20221114014200 -0300" stop="20221114032700 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Friburgo-Union Berlín</title>
-    <sub-title lang="es">22/23</sub-title>
-  </programme>
-  <programme start="20221114032700 -0300" stop="20221114051500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">WPT. Malmö Open (Suecia)</title>
-    <sub-title lang="es">A. Tapia/S. Gutiérrez - A. Galán/J. Lebrón</sub-title>
-  </programme>
-  <programme start="20221114051500 -0300" stop="20221114062000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Vamos en Juego Domingo</title>
-    <sub-title lang="es">Especial Copa</sub-title>
-  </programme>
-  <programme start="20221114062000 -0300" stop="20221114080500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Nitto ATP Finals</title>
-    <sub-title lang="es">R. Nadal - T. Fritz</sub-title>
-  </programme>
-  <programme start="20221114080500 -0300" stop="20221114084000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Una historia de éxito</title>
-    <sub-title lang="es">Los pioneros</sub-title>
-  </programme>
-  <programme start="20221114084000 -0300" stop="20221114091500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Una historia de éxito</title>
-    <sub-title lang="es">La tierra batida</sub-title>
-  </programme>
-  <programme start="20221114091500 -0300" stop="20221114095500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Una historia de éxito</title>
-    <sub-title lang="es">El legado</sub-title>
-  </programme>
-  <programme start="20221114095500 -0300" stop="20221114103000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Basket al día</title>
-    <episode-num system="onscreen">E35</episode-num>
-  </programme>
-  <programme start="20221114103000 -0300" stop="20221114110000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Noticias #V 14:30</title>
-    <sub-title lang="es">14/11/2022</sub-title>
-  </programme>
-  <programme start="20221114110000 -0300" stop="20221114125500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">San Francisco 49ers - Los Ange</title>
-    <sub-title lang="es">22/23</sub-title>
-  </programme>
-  <programme start="20221114125500 -0300" stop="20221114135500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Fútbol Club Maradona</title>
-  </programme>
-  <programme start="20221114135500 -0300" stop="20221114154000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Homenaje a Maradona. El</title>
-  </programme>
-  <programme start="20221114154000 -0300" stop="20221114163000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Informe+. Iago Aspas. Corazón celeste</title>
-  </programme>
-  <programme start="20221114163000 -0300" stop="20221114173000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Noticias #V</title>
-    <sub-title lang="es">14/11/2022</sub-title>
-  </programme>
-  <programme start="20221114173000 -0300" stop="20221114180000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Informe+ Habla Setién</title>
-  </programme>
-  <programme start="20221114180000 -0300" stop="20221114190000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Universo Valdano</title>
-    <sub-title lang="es">Messi</sub-title>
-  </programme>
-  <programme start="20221114190000 -0300" stop="20221114203000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">El tercer tiempo</title>
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20221114203000 -0300" stop="20221114204000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Lo has visto en #Vamos</title>
-    <episode-num system="onscreen">E39</episode-num>
-  </programme>
-  <programme start="20221114204000 -0300" stop="20221114205500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">#Interceptados por la NFL</title>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20221114205500 -0300" stop="20221114224000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Nitto ATP Finals</title>
-    <episode-num system="onscreen">S2022</episode-num>
-  </programme>
-  <programme start="20221114224000 -0300" stop="20221114234500 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Noticias #V</title>
-    <sub-title lang="es">14/11/2022</sub-title>
-  </programme>
-  <programme start="20221114234500 -0300" stop="20221115013000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Juventus-Lazio</title>
-    <sub-title lang="es">22/23</sub-title>
-  </programme>
-  <programme start="20221114234500 -0300" stop="20221115013000 -0300" channel="DEPORTES | #VAMOS HD">
-    <title lang="es">Juventus-Lazio</title>
-    <sub-title lang="es">22/23</sub-title>
-  </programme>
-  <programme start="20221115013000 -0300" stop="20221115023000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114013000 -0300" stop="20221114023000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">El Día en las Carreras F1</title>
     <sub-title lang="es">GP Brasil</sub-title>
   </programme>
-  <programme start="20221115023000 -0300" stop="20221115041500 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114023000 -0300" stop="20221114041500 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Homenaje a Maradona. El</title>
   </programme>
-  <programme start="20221115041500 -0300" stop="20221115043000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114041500 -0300" stop="20221114043000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">#Interceptados por la NFL</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20221115043000 -0300" stop="20221115060000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114043000 -0300" stop="20221114060000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">El tercer tiempo</title>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20221115060000 -0300" stop="20221115075500 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114060000 -0300" stop="20221114075500 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Nitto ATP Finals</title>
     <sub-title lang="es">S. Tsitsipas - N. Dojokovic</sub-title>
   </programme>
-  <programme start="20221115075500 -0300" stop="20221115100000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114075500 -0300" stop="20221114100000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Philadelphia Eagles -</title>
     <sub-title lang="es">22/23</sub-title>
   </programme>
-  <programme start="20221115100000 -0300" stop="20221115103000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114100000 -0300" stop="20221114103000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Basket al día</title>
     <episode-num system="onscreen">E36</episode-num>
   </programme>
-  <programme start="20221115103000 -0300" stop="20221115110000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114103000 -0300" stop="20221114110000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Noticias #V 14:30</title>
     <sub-title lang="es">15/11/2022</sub-title>
   </programme>
-  <programme start="20221115110000 -0300" stop="20221115120000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114110000 -0300" stop="20221114120000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Universo Valdano</title>
     <sub-title lang="es">Messi</sub-title>
   </programme>
-  <programme start="20221115120000 -0300" stop="20221115131000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114120000 -0300" stop="20221114131000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Informe+. Víctimas de Indurain</title>
   </programme>
-  <programme start="20221115131000 -0300" stop="20221115150000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114131000 -0300" stop="20221114150000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Miami Heat - Phoenix Suns</title>
     <sub-title lang="es">22/23</sub-title>
   </programme>
-  <programme start="20221115150000 -0300" stop="20221115160000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114150000 -0300" stop="20221114160000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Universo Valdano</title>
     <sub-title lang="es">Messi</sub-title>
   </programme>
-  <programme start="20221115160000 -0300" stop="20221115170000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114160000 -0300" stop="20221114170000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Noticias #V</title>
     <sub-title lang="es">15/11/2022</sub-title>
   </programme>
-  <programme start="20221115170000 -0300" stop="20221115190000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114170000 -0300" stop="20221114190000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Nitto ATP Finals</title>
   </programme>
-  <programme start="20221115190000 -0300" stop="20221115200000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114190000 -0300" stop="20221114200000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Vamos sobre ruedas</title>
     <episode-num system="onscreen">E28</episode-num>
   </programme>
-  <programme start="20221115200000 -0300" stop="20221115210000 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114200000 -0300" stop="20221114210000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">La hora de la verdad</title>
     <sub-title lang="es">Arte</sub-title>
   </programme>
-  <programme start="20221115210000 -0300" stop="20221115225500 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114210000 -0300" stop="20221114225500 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Nitto ATP Finals</title>
   </programme>
-  <programme start="20221115225500 -0300" stop="20221115235500 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114225500 -0300" stop="20221114235500 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Noticias #V</title>
     <sub-title lang="es">15/11/2022</sub-title>
   </programme>
-  <programme start="20221115235500 -0300" stop="20221116015500 -0300" channel="DEPORTES | #VAMOS HD">
+  <programme start="20221114235500 -0300" stop="20221115015500 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Homenaje a Maradona. El</title>
   </programme>
-  <programme start="20221114020000 -0300" stop="20221114030000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tijuana vs. Monarcas Morelia</title>
-    <desc lang="es">Desde el estadio Caliente, ubicado en la ciudad de Tijuana, Baja California, se enfrentan los equipos Club Tijuana Xoloitzcuintles de Caliente versus Club Atlético Monarcas Morelia.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/tijuana_vs_monarcas_morelia.png"/>
-    <country lang="es">México</country>
+  <programme start="20221114235500 -0300" stop="20221115015500 -0300" channel="DEPORTES | #VAMOS HD">
+    <title lang="es">Homenaje a Maradona. El</title>
   </programme>
-  <programme start="20221114030000 -0300" stop="20221114050000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. Toluca</title>
-    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Deportivo Toluca Fútbol Club.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_toluca.png"/>
-    <country lang="es">México</country>
+  <programme start="20221115015500 -0300" stop="20221115034000 -0300" channel="DEPORTES | #VAMOS HD">
+    <title lang="es">Nápoles-Udinese</title>
+    <sub-title lang="es">22/23</sub-title>
   </programme>
-  <programme start="20221114050000 -0300" stop="20221114060000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Lobos vs. Tigres</title>
-  </programme>
-  <programme start="20221114060000 -0300" stop="20221114080000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. Pachuca</title>
-    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Club de Fútbol Pachuca.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_pachuca.png"/>
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20221114080000 -0300" stop="20221114100000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Atlas vs. Querétaro</title>
-  </programme>
-  <programme start="20221114100000 -0300" stop="20221114120000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. Monterrey</title>
-  </programme>
-  <programme start="20221114120000 -0300" stop="20221114130000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. América</title>
-    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Club de Fútbol América.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_america.png"/>
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20221114130000 -0300" stop="20221114140000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Monarcas Morelia vs. Tijuana</title>
-    <desc lang="es">Desde el estadio Morelos, ubicado en la ciudad de Morelia, Michoacán, se enfrentan los equipos Club Atlético Monarcas Morelia versus Club Tijuana Xoloitzcuintles de Caliente.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/monarcas_morelia_vs_tijuana.png"/>
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20221114140000 -0300" stop="20221114150000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. Necaxa</title>
-  </programme>
-  <programme start="20221114150000 -0300" stop="20221114160000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Monterrey vs. Celaya</title>
-  </programme>
-  <programme start="20221114160000 -0300" stop="20221114170000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Santos vs. Monterrey</title>
-  </programme>
-  <programme start="20221114170000 -0300" stop="20221114180000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. Guadalajara</title>
-  </programme>
-  <programme start="20221114180000 -0300" stop="20221114190000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Lobos vs. Tigres</title>
-  </programme>
-  <programme start="20221114190000 -0300" stop="20221114210000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Súper estadio mundialista</title>
-    <category lang="es">En Vivo</category>
-  </programme>
-  <programme start="20221114210000 -0300" stop="20221114225500 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Guadalajara vs. Tigres</title>
-  </programme>
-  <programme start="20221114225500 -0300" stop="20221115010000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. América</title>
-    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Club de Fútbol América.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_america.png"/>
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20221114225500 -0300" stop="20221115010000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Tigres vs. América</title>
-    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Club de Fútbol América.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_america.png"/>
-    <country lang="es">México</country>
-  </programme>
-  <programme start="20221115010000 -0300" stop="20221115030000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114010000 -0300" stop="20221114030000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Súper estadio mundialista</title>
   </programme>
-  <programme start="20221115030000 -0300" stop="20221115040000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114030000 -0300" stop="20221114040000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">A nivel de cancha</title>
   </programme>
-  <programme start="20221115040000 -0300" stop="20221115060000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114040000 -0300" stop="20221114060000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Guadalajara vs. Tigres</title>
   </programme>
-  <programme start="20221115060000 -0300" stop="20221115080000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114060000 -0300" stop="20221114080000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Tigres vs. Querétaro</title>
   </programme>
-  <programme start="20221115080000 -0300" stop="20221115100000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114080000 -0300" stop="20221114100000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Atlas vs. Puebla</title>
     <desc lang="es">Desde el estadio Jalisco, ubicado en la ciudad de Guadalajara, Jalisco, México, se enfrentan los equipos Club Atlas de Guadalajara versus Puebla Fútbol Club.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/atlas_vs_puebla.png"/>
     <country lang="es">México</country>
   </programme>
-  <programme start="20221115100000 -0300" stop="20221115120000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114100000 -0300" stop="20221114120000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Tigres vs. América</title>
     <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Club de Fútbol América.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_america.png"/>
     <country lang="es">México</country>
   </programme>
-  <programme start="20221115120000 -0300" stop="20221115140000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114120000 -0300" stop="20221114140000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Tigres vs. Guadalajara</title>
   </programme>
-  <programme start="20221115140000 -0300" stop="20221115160000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114140000 -0300" stop="20221114160000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Tigres vs. Querétaro</title>
   </programme>
-  <programme start="20221115160000 -0300" stop="20221115180000 -0300" channel="Deportes | Afizzionados HD">
+  <programme start="20221114160000 -0300" stop="20221114180000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Atlas vs. San Luis</title>
+  </programme>
+  <programme start="20221114180000 -0300" stop="20221114190000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">A nivel de cancha</title>
+  </programme>
+  <programme start="20221114190000 -0300" stop="20221114210000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Súper estadio mundialista</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20221114210000 -0300" stop="20221114230000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Guadalajara vs. Monterrey</title>
+  </programme>
+  <programme start="20221114230000 -0300" stop="20221115000000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Pasión futbolera</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20221115000000 -0300" stop="20221115020000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Súper estadio mundialista</title>
+  </programme>
+  <programme start="20221115020000 -0300" stop="20221115030000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Fut en 30 América vs. Tigres</title>
+  </programme>
+  <programme start="20221115030000 -0300" stop="20221115040000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">A nivel de cancha</title>
+  </programme>
+  <programme start="20221115040000 -0300" stop="20221115060000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Guadalajara vs. Monterrey</title>
+  </programme>
+  <programme start="20221115060000 -0300" stop="20221115080000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Tigres vs. Atlas</title>
+    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Atlas Fútbol Club.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_atlas.png"/>
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20221115080000 -0300" stop="20221115100000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Atlas vs. San Luis</title>
+  </programme>
+  <programme start="20221115100000 -0300" stop="20221115120000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Tigres vs. Monterrey</title>
+  </programme>
+  <programme start="20221115120000 -0300" stop="20221115140000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Tigres vs. Monarcas Morelia</title>
+    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Club Atlético Monarcas Morelia.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_monarcas_morelia.png"/>
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20221115140000 -0300" stop="20221115160000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Tigres vs. Atlas</title>
+    <desc lang="es">Desde el estadio Universitario ubicado en la ciudad de Monterrey, Nuevo León, México, se enfrentan los equipos Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León versus Atlas Fútbol Club.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/tigres_vs_atlas.png"/>
+    <country lang="es">México</country>
+  </programme>
+  <programme start="20221115160000 -0300" stop="20221115180000 -0300" channel="Deportes | Afizzionados HD">
+    <title lang="es">Atlas vs. U.N.A.M</title>
   </programme>
   <programme start="20221115180000 -0300" stop="20221115190000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">A nivel de cancha</title>
@@ -339,247 +236,174 @@
     <category lang="es">En Vivo</category>
   </programme>
   <programme start="20221115210000 -0300" stop="20221115230000 -0300" channel="Deportes | Afizzionados HD">
-    <title lang="es">Guadalajara vs. Monterrey</title>
+    <title lang="es">América vs. Guadalajara</title>
+    <desc lang="es">Desde el estadio Azteca ubicado en la ciudad de México, se enfrentan los equipos Club de Fútbol América Versus el Club Deportivo Guadalajara.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/america_vs_guadalajara.png"/>
+    <country lang="es">México</country>
   </programme>
   <programme start="20221115230000 -0300" stop="20221116000000 -0300" channel="Deportes | Afizzionados HD">
     <title lang="es">Pasión futbolera</title>
     <category lang="es">En Vivo</category>
   </programme>
-  <programme start="20221114023000 -0300" stop="20221114030000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Pesca en Directo</title>
+  <programme start="20221114010000 -0300" stop="20221114020000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Béisbol Liga Mexicana</title>
+    <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20221114030000 -0300" stop="20221114040000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">R de Rudos</title>
+  <programme start="20221114020000 -0300" stop="20221114030000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Hoy Futbol</title>
   </programme>
-  <programme start="20221114040000 -0300" stop="20221114063000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Boxeo</title>
+  <programme start="20221114030000 -0300" stop="20221114053000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20221114053000 -0300" stop="20221114063000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">En los deportes, vámonos de largo</title>
   </programme>
   <programme start="20221114063000 -0300" stop="20221114100000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Béisbol Liga Mexicana</title>
-    <sub-title lang="es">Leones de Yucatán vs. Diablos Rojos del México</sub-title>
+    <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
   </programme>
   <programme start="20221114100000 -0300" stop="20221114110000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Hoy Futbol</title>
   </programme>
   <programme start="20221114110000 -0300" stop="20221114130000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">MMA</title>
+    <title lang="es">Lucha libre</title>
   </programme>
   <programme start="20221114130000 -0300" stop="20221114163000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Béisbol Liga Mexicana</title>
     <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20221114163000 -0300" stop="20221114170000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Gancho al Hígado</title>
-  </programme>
-  <programme start="20221114170000 -0300" stop="20221114183000 -0300" channel="DEPORTES | AyM Sports">
+  <programme start="20221114163000 -0300" stop="20221114173000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">En los deportes, vámonos de largo</title>
+  </programme>
+  <programme start="20221114173000 -0300" stop="20221114183000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Ultra MX</title>
   </programme>
   <programme start="20221114183000 -0300" stop="20221114203000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Futbol Mexicano</title>
   </programme>
-  <programme start="20221114203000 -0300" stop="20221114210000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Alta Velocidad</title>
+  <programme start="20221114203000 -0300" stop="20221114223000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Fútbol Mexicano Liga Premier Serie A</title>
+    <sub-title lang="es">UA Zacatecas FC vs. Cafetaleros Chiapas B</sub-title>
   </programme>
-  <programme start="20221114210000 -0300" stop="20221114230000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Fútbol Mexicano Liga Premier Serie B</title>
-    <sub-title lang="es">Club Calor vs. Mazorqueros</sub-title>
+  <programme start="20221114223000 -0300" stop="20221115020000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Béisbol Liga Invernal Mexicana</title>
   </programme>
-  <programme start="20221114230000 -0300" stop="20221114233000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Pesca en Directo</title>
-  </programme>
-  <programme start="20221114233000 -0300" stop="20221115010000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Baloncesto Mexicano LNBP</title>
-    <sub-title lang="es">Astros de Jalisco vs. Soles de Mexicali</sub-title>
-  </programme>
-  <programme start="20221114233000 -0300" stop="20221115010000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Baloncesto Mexicano LNBP</title>
-    <sub-title lang="es">Astros de Jalisco vs. Soles de Mexicali</sub-title>
-  </programme>
-  <programme start="20221115010000 -0300" stop="20221115020000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Béisbol Liga Mexicana</title>
-    <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
+  <programme start="20221114223000 -0300" stop="20221115020000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Béisbol Liga Invernal Mexicana</title>
   </programme>
   <programme start="20221115020000 -0300" stop="20221115030000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Hoy Futbol</title>
   </programme>
   <programme start="20221115030000 -0300" stop="20221115053000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">MMA</title>
+    <title lang="es">Lucha libre</title>
   </programme>
   <programme start="20221115053000 -0300" stop="20221115063000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">En los deportes, vámonos de largo</title>
+    <title lang="es">Ultra MX</title>
   </programme>
   <programme start="20221115063000 -0300" stop="20221115100000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Béisbol Liga Mexicana</title>
     <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20221115100000 -0300" stop="20221115110000 -0300" channel="DEPORTES | AyM Sports">
+  <programme start="20221115100000 -0300" stop="20221115103000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Hoy Futbol</title>
   </programme>
+  <programme start="20221115103000 -0300" stop="20221115110000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Béisbol Liga Invernal Mexicana</title>
+    <sub-title lang="es">Sultanes de Monterrey vs. Acereros de Monclova</sub-title>
+  </programme>
   <programme start="20221115110000 -0300" stop="20221115130000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Lucha libre</title>
+    <title lang="es">MMA</title>
   </programme>
-  <programme start="20221115130000 -0300" stop="20221115163000 -0300" channel="DEPORTES | AyM Sports">
+  <programme start="20221115130000 -0300" stop="20221115140000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Béisbol Liga Mexicana</title>
-    <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
+    <sub-title lang="es">2022: Toros de Tijuana vs. Rieleros de Aguascalientes</sub-title>
   </programme>
-  <programme start="20221115163000 -0300" stop="20221115173000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">En los deportes, vámonos de largo</title>
+  <programme start="20221115140000 -0300" stop="20221115150000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Hoy Futbol</title>
+  </programme>
+  <programme start="20221115150000 -0300" stop="20221115173000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Lucha libre</title>
   </programme>
   <programme start="20221115173000 -0300" stop="20221115183000 -0300" channel="DEPORTES | AyM Sports">
     <title lang="es">Ultra MX</title>
   </programme>
-  <programme start="20221115183000 -0300" stop="20221115203000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Futbol Mexicano</title>
+  <programme start="20221115183000 -0300" stop="20221116050000 -0300" channel="DEPORTES | AyM Sports">
+    <title lang="es">Béisbol Liga Mexicana</title>
+    <sub-title lang="es">2022: Rieleros de Aguascalientes vs. Toros de Tijuana</sub-title>
   </programme>
-  <programme start="20221115203000 -0300" stop="20221115223000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Fútbol Mexicano Liga Premier Serie A</title>
-    <sub-title lang="es">UA Zacatecas FC vs. Cafetaleros Chiapas B</sub-title>
-  </programme>
-  <programme start="20221115223000 -0300" stop="20221116020000 -0300" channel="DEPORTES | AyM Sports">
-    <title lang="es">Béisbol Liga Invernal Mexicana</title>
-  </programme>
-  <programme start="20221114003000 -0300" stop="20221114020000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Liga Nacional de fútbol sala</title>
-    <sub-title lang="es">22/23Barcelona-Antequera</sub-title>
-  </programme>
-  <programme start="20221114020000 -0300" stop="20221114023000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Orígenes</title>
-    <sub-title lang="es">Pablo Torre</sub-title>
-  </programme>
-  <programme start="20221114023000 -0300" stop="20221114041500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Liga F</title>
-    <sub-title lang="es">22/23Real Madrid - FC Barcelona</sub-title>
-  </programme>
-  <programme start="20221114041500 -0300" stop="20221114043000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Nascudes per a jugar</title>
-    <sub-title lang="es">Caroline Graham Hansen</sub-title>
-  </programme>
-  <programme start="20221114043000 -0300" stop="20221114044500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Especial</title>
-    <sub-title lang="es">Tots els gols de falta de Xavi Hernández</sub-title>
-  </programme>
-  <programme start="20221114044500 -0300" stop="20221114060000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El partit</title>
-    <sub-title lang="es">22/23Aleví B-Sant Andreu</sub-title>
-  </programme>
-  <programme start="20221114060000 -0300" stop="20221114061500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114061500 -0300" stop="20221114080000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Liga Nacional Juvenil</title>
-    <sub-title lang="es">22/23Barcelona B-Gimnàstic Manresa</sub-title>
-  </programme>
-  <programme start="20221114080000 -0300" stop="20221114081500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114081500 -0300" stop="20221114100000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El partit</title>
-    <sub-title lang="es">22/23Cadet B-Cornellà</sub-title>
-  </programme>
-  <programme start="20221114100000 -0300" stop="20221114103000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114103000 -0300" stop="20221114120000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Liga Nacional de fútbol sala</title>
-    <sub-title lang="es">22/23Barcelona-Antequera</sub-title>
-  </programme>
-  <programme start="20221114120000 -0300" stop="20221114121500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114121500 -0300" stop="20221114140000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El partit</title>
-    <sub-title lang="es">98/99 Barcelona-Manchester United</sub-title>
-  </programme>
-  <programme start="20221114140000 -0300" stop="20221114141500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114141500 -0300" stop="20221114144500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El 9</title>
-    <sub-title lang="es">Anderson, el bienni del pistoler</sub-title>
-  </programme>
-  <programme start="20221114144500 -0300" stop="20221114150000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Especial</title>
-    <sub-title lang="es">Tots els gols de falta de Rivaldo</sub-title>
-  </programme>
-  <programme start="20221114150000 -0300" stop="20221114151500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114151500 -0300" stop="20221114154500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Orígenes</title>
-    <sub-title lang="es">Pablo Torre</sub-title>
-  </programme>
-  <programme start="20221114154500 -0300" stop="20221114160000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">600'' de futbol</title>
-    <sub-title lang="es">Viktoria Plzen-Barcelona</sub-title>
-  </programme>
-  <programme start="20221114160000 -0300" stop="20221114161500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El dia B</title>
-  </programme>
-  <programme start="20221114161500 -0300" stop="20221114174500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">ASOBAL</title>
-    <sub-title lang="es">22/23Barcelona-Guadalajara</sub-title>
-  </programme>
-  <programme start="20221114174500 -0300" stop="20221114180000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">600'' de futbol</title>
-    <sub-title lang="es">Osasuna-Barcelona</sub-title>
-  </programme>
-  <programme start="20221114180000 -0300" stop="20221114190000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">El partit</title>
-    <sub-title lang="es">22/23Benjamí A-Hospitalet</sub-title>
-  </programme>
-  <programme start="20221114190000 -0300" stop="20221114193000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Especial</title>
-    <sub-title lang="es">Tots els gols de Villa</sub-title>
-  </programme>
-  <programme start="20221114193000 -0300" stop="20221114211500 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Real Sociedad-Barcelona</title>
-    <sub-title lang="es">22/23</sub-title>
-  </programme>
-  <programme start="20221114211500 -0300" stop="20221114220000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Especial</title>
-    <sub-title lang="es">Tots els gols de Luis Enrique</sub-title>
-  </programme>
-  <programme start="20221114220000 -0300" stop="20221115040000 -0300" channel="DEPORTES | BARCA TV">
+  <programme start="20221114040000 -0300" stop="20221114080000 -0300" channel="DEPORTES | BARCA TV">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20221114220000 -0300" stop="20221115040000 -0300" channel="DEPORTES | BARCA TV">
+  <programme start="20221114080000 -0300" stop="20221114120000 -0300" channel="DEPORTES | BARCA TV">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20221115040000 -0300" stop="20221115080000 -0300" channel="DEPORTES | BARCA TV">
+  <programme start="20221114120000 -0300" stop="20221114160000 -0300" channel="DEPORTES | BARCA TV">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20221115080000 -0300" stop="20221115120000 -0300" channel="DEPORTES | BARCA TV">
+  <programme start="20221114160000 -0300" stop="20221114200000 -0300" channel="DEPORTES | BARCA TV">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20221115120000 -0300" stop="20221115160000 -0300" channel="DEPORTES | BARCA TV">
+  <programme start="20221114200000 -0300" stop="20221115000000 -0300" channel="DEPORTES | BARCA TV">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20221115160000 -0300" stop="20221115200000 -0300" channel="DEPORTES | BARCA TV">
+  <programme start="20221115000000 -0300" stop="20221115040000 -0300" channel="DEPORTES | BARCA TV">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20221115200000 -0300" stop="20221116000000 -0300" channel="DEPORTES | BARCA TV">
-    <title lang="es">Barça TV</title>
-  </programme>
-  <programme start="20221114001500 +0000" stop="20221114011500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Salon VIP People</title>
+  <programme start="20221114001500 +0000" stop="20221114004500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114011500 +0000" stop="20221114041500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">NFL - San Francisco 49ers / Los Angeles Chargers</title>
-    <category lang="fr">Football américain</category>
-    <category lang="fr">Live</category>
-  </programme>
-  <programme start="20221114041500 +0000" stop="20221114043000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+  <programme start="20221114004500 +0000" stop="20221114011500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114043000 +0000" stop="20221114050000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Silence, je tombe...</title>
-    <category lang="fr">Documentaire sportif</category>
+  <programme start="20221114011500 +0000" stop="20221114014500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114050000 +0000" stop="20221114070000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Liga - Real Madrid / Cadix</title>
-    <category lang="fr">Football</category>
+  <programme start="20221114014500 +0000" stop="20221114021500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114021500 +0000" stop="20221114024500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114024500 +0000" stop="20221114031500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114031500 +0000" stop="20221114034500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114034500 +0000" stop="20221114041500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114041500 +0000" stop="20221114044500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114044500 +0000" stop="20221114051500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114051500 +0000" stop="20221114053000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">My World Cup</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114053000 +0000" stop="20221114060000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114060000 +0000" stop="20221114063000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114063000 +0000" stop="20221114070000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
   </programme>
   <programme start="20221114070000 +0000" stop="20221114073000 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">Destination Qatar 2022</title>
@@ -590,7 +414,7 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221114074500 +0000" stop="20221114081500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1982</title>
+    <title lang="fr">La légende des Bleus 1986</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
   <programme start="20221114081500 +0000" stop="20221114083000 +0000" channel="DEPORTES | Bein Sports 1">
@@ -610,7 +434,7 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221114094500 +0000" stop="20221114101500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1986</title>
+    <title lang="fr">La légende des Bleus 1998</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
   <programme start="20221114101500 +0000" stop="20221114103000 +0000" channel="DEPORTES | Bein Sports 1">
@@ -621,73 +445,45 @@
     <title lang="fr">Preview : Coupe du monde</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114110000 +0000" stop="20221114113000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Destination Qatar 2022</title>
-    <category lang="fr">Emission</category>
+  <programme start="20221114110000 +0000" stop="20221114124500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Coupe du monde - France / Croatie</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20221114113000 +0000" stop="20221114114500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">My World Cup</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221114114500 +0000" stop="20221114121500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1998</title>
-    <category lang="fr">Documentaire sportif</category>
-  </programme>
-  <programme start="20221114121500 +0000" stop="20221114123000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">My World Cup</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221114123000 +0000" stop="20221114130000 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114124500 +0000" stop="20221114131500 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">Preview : Coupe du monde</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114130000 +0000" stop="20221114133000 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114131500 +0000" stop="20221114134500 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">Destination Qatar 2022</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114133000 +0000" stop="20221114134500 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114134500 +0000" stop="20221114140000 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">My World Cup</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114134500 +0000" stop="20221114141500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 2006</title>
-    <category lang="fr">Documentaire sportif</category>
-  </programme>
-  <programme start="20221114141500 +0000" stop="20221114143000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">My World Cup</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221114143000 +0000" stop="20221114150000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Preview : Coupe du monde</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221114150000 +0000" stop="20221114153000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Destination Qatar 2022</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221114153000 +0000" stop="20221114154500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">My World Cup</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221114154500 +0000" stop="20221114161500 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114140000 +0000" stop="20221114143000 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">La légende des Bleus 2018</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
-  <programme start="20221114161500 +0000" stop="20221114163000 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114143000 +0000" stop="20221114144500 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">My World Cup</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114163000 +0000" stop="20221114170000 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114144500 +0000" stop="20221114151500 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">Preview : Coupe du monde</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114170000 +0000" stop="20221114180000 +0000" channel="DEPORTES | Bein Sports 1">
+  <programme start="20221114151500 +0000" stop="20221114154500 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">Destination Qatar 2022</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114180000 +0000" stop="20221114183000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Preview : Coupe du monde</title>
+  <programme start="20221114154500 +0000" stop="20221114160000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">My World Cup</title>
     <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114160000 +0000" stop="20221114183000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Coupe du monde - Argentine / Angleterre</title>
+    <category lang="fr">Football</category>
   </programme>
   <programme start="20221114183000 +0000" stop="20221114190000 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">beIN Bleus</title>
@@ -695,11 +491,11 @@
     <category lang="fr">Live</category>
   </programme>
   <programme start="20221114190000 +0000" stop="20221114193000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1982</title>
+    <title lang="fr">La légende des Bleus 1986</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
   <programme start="20221114193000 +0000" stop="20221114211500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Coupe du monde - France / Croatie</title>
+    <title lang="fr">Coupe du monde - France / Sénégal</title>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20221114211500 +0000" stop="20221114214500 +0000" channel="DEPORTES | Bein Sports 1">
@@ -707,11 +503,11 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221114214500 +0000" stop="20221115001500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Coupe du monde - Argentine / Angleterre</title>
+    <title lang="fr">Coupe du monde - Brésil / France</title>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20221114214500 +0000" stop="20221115001500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Coupe du monde - Argentine / Angleterre</title>
+    <title lang="fr">Coupe du monde - Brésil / France</title>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20221115001500 +0000" stop="20221115004500 +0000" channel="DEPORTES | Bein Sports 1">
@@ -779,7 +575,7 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221115074500 +0000" stop="20221115081500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1986</title>
+    <title lang="fr">La légende des Bleus 1998</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
   <programme start="20221115081500 +0000" stop="20221115083000 +0000" channel="DEPORTES | Bein Sports 1">
@@ -799,7 +595,7 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221115094500 +0000" stop="20221115101500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1998</title>
+    <title lang="fr">La légende des Bleus 2006</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
   <programme start="20221115101500 +0000" stop="20221115103000 +0000" channel="DEPORTES | Bein Sports 1">
@@ -811,7 +607,7 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221115110000 +0000" stop="20221115124500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Coupe du monde - France / Croatie</title>
+    <title lang="fr">Coupe du monde - France / Sénégal</title>
     <category lang="fr">Football</category>
   </programme>
   <programme start="20221115124500 +0000" stop="20221115131500 +0000" channel="DEPORTES | Bein Sports 1">
@@ -827,7 +623,7 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221115140000 +0000" stop="20221115143000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 2018</title>
+    <title lang="fr">La légende des Bleus 1982</title>
     <category lang="fr">Documentaire sportif</category>
   </programme>
   <programme start="20221115143000 +0000" stop="20221115144500 +0000" channel="DEPORTES | Bein Sports 1">
@@ -847,31 +643,39 @@
     <category lang="fr">Emission</category>
   </programme>
   <programme start="20221115160000 +0000" stop="20221115183000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Coupe du monde - Argentine / Angleterre</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20221115183000 +0000" stop="20221115190000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">beIN Bleus</title>
-    <category lang="fr">Emission</category>
-    <category lang="fr">Live</category>
-  </programme>
-  <programme start="20221115190000 +0000" stop="20221115193000 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">La légende des Bleus 1986</title>
-    <category lang="fr">Documentaire sportif</category>
-  </programme>
-  <programme start="20221115193000 +0000" stop="20221115211500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">Coupe du monde - France / Sénégal</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20221115211500 +0000" stop="20221115214500 +0000" channel="DEPORTES | Bein Sports 1">
-    <title lang="fr">beIN Bleus</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221115214500 +0000" stop="20221116001500 +0000" channel="DEPORTES | Bein Sports 1">
     <title lang="fr">Coupe du monde - Brésil / France</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20221114034500 +0000" stop="20221114080000 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221115183000 +0000" stop="20221115190000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221115190000 +0000" stop="20221115193000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">La légende des Bleus 1998</title>
+    <category lang="fr">Documentaire sportif</category>
+  </programme>
+  <programme start="20221115193000 +0000" stop="20221115211500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Coupe du monde - Brésil / France</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20221115211500 +0000" stop="20221115214500 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221115214500 +0000" stop="20221115233000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Coupe du monde - Brésil / France</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20221115233000 +0000" stop="20221116000000 +0000" channel="DEPORTES | Bein Sports 1">
+    <title lang="fr">Preview : Coupe du monde</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114004000 +0000" stop="20221114031500 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">NBA - Miami Heat / Phoenix Suns</title>
+    <category lang="fr">Basket-ball</category>
+    <category lang="fr">Live</category>
+  </programme>
+  <programme start="20221114031500 +0000" stop="20221114080000 +0000" channel="DEPORTES | Bein Sports 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
@@ -883,29 +687,20 @@
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114160000 +0000" stop="20221114192300 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221114160000 +0000" stop="20221114200000 +0000" channel="DEPORTES | Bein Sports 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114192300 +0000" stop="20221114213000 +0000" channel="DEPORTES | Bein Sports 4">
-    <title lang="fr">Rugby à XIII : Coupe du monde - Angleterre RL / Nouvelle-Zélande RL</title>
-    <category lang="fr">Rugby à XIII</category>
-    <category lang="fr">Live</category>
-  </programme>
-  <programme start="20221114213000 +0000" stop="20221115000000 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221114200000 +0000" stop="20221115000000 +0000" channel="DEPORTES | Bein Sports 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221115000000 +0000" stop="20221115004000 +0000" channel="DEPORTES | Bein Sports 4">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221115004000 +0000" stop="20221115031500 +0000" channel="DEPORTES | Bein Sports 4">
-    <title lang="fr">NBA - Miami Heat / Phoenix Suns</title>
+  <programme start="20221115031000 +0000" stop="20221115054500 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">NBA - Sacramento Kings / Brooklyn Nets</title>
     <category lang="fr">Basket-ball</category>
     <category lang="fr">Live</category>
   </programme>
-  <programme start="20221115031500 +0000" stop="20221115080000 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221115054500 +0000" stop="20221115080000 +0000" channel="DEPORTES | Bein Sports 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
@@ -913,15 +708,38 @@
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221115120000 +0000" stop="20221115160000 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221115120000 +0000" stop="20221115142000 +0000" channel="DEPORTES | Bein Sports 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221115160000 +0000" stop="20221115200000 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221115142000 +0000" stop="20221115163000 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">Euro féminin - Hongrie - Slovénie ou Roumanie - Allemagne</title>
+    <category lang="fr">Handball</category>
+    <category lang="fr">Live</category>
+  </programme>
+  <programme start="20221115163000 +0000" stop="20221115165000 +0000" channel="DEPORTES | Bein Sports 4">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221115200000 +0000" stop="20221116000000 +0000" channel="DEPORTES | Bein Sports 4">
+  <programme start="20221115165000 +0000" stop="20221115190000 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">Euro féminin - Croatie - Suède ou Pays-Bas - Monténégro</title>
+    <category lang="fr">Handball</category>
+    <category lang="fr">Live</category>
+  </programme>
+  <programme start="20221115190000 +0000" stop="20221115192000 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221115192000 +0000" stop="20221115213000 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">Euro féminin - Norvège / Danemark</title>
+    <category lang="fr">Handball</category>
+    <category lang="fr">Live</category>
+  </programme>
+  <programme start="20221115213000 +0000" stop="20221116011000 +0000" channel="DEPORTES | Bein Sports 4">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Emission</category>
+  </programme>
+  <programme start="20221114040000 +0000" stop="20221114080000 +0000" channel="DEPORTES | Bein Sports 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
@@ -937,20 +755,16 @@
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114200000 +0000" stop="20221114225500 +0000" channel="DEPORTES | Bein Sports 5">
+  <programme start="20221114200000 +0000" stop="20221115000000 +0000" channel="DEPORTES | Bein Sports 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114225500 +0000" stop="20221115010000 +0000" channel="DEPORTES | Bein Sports 5">
-    <title lang="fr">Qualifications Coupe du monde masculine (Zone Amériques) - Etats-Unis / Colombie</title>
+  <programme start="20221115023000 +0000" stop="20221115043000 +0000" channel="DEPORTES | Bein Sports 5">
+    <title lang="fr">NCAA - Kansas / Duke Blue Devils</title>
     <category lang="fr">Basket-ball</category>
     <category lang="fr">Live</category>
   </programme>
-  <programme start="20221115010000 +0000" stop="20221115040000 +0000" channel="DEPORTES | Bein Sports 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-    <category lang="fr">Emission</category>
-  </programme>
-  <programme start="20221115040000 +0000" stop="20221115080000 +0000" channel="DEPORTES | Bein Sports 5">
+  <programme start="20221115043000 +0000" stop="20221115080000 +0000" channel="DEPORTES | Bein Sports 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
@@ -1006,521 +820,545 @@
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
     <category lang="fr">Emission</category>
   </programme>
-  <programme start="20221114010000 +0100" stop="20221114030000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
-    <category lang="en">Fútbol Turco Superliga</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221114030000 +0100" stop="20221114040000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221114040000 +0100" stop="20221114043000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Ligue 1 2021-2022: Lille vs. Angers</title>
-    <category lang="en">90 in 30</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221114043000 +0100" stop="20221114050000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Ligue 1 2022-2023: AS Monaco vs. Marseille</title>
-    <category lang="en">90 in 30</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221114050000 +0100" stop="20221114070000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Paris Saint-Germain vs. Auxerre</title>
-    <category lang="en">Fútbol Ligue 1</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221114070000 +0100" stop="20221114080000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221114080000 +0100" stop="20221114083000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114083000 +0100" stop="20221114090000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114090000 +0100" stop="20221114093000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114093000 +0100" stop="20221114100000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114100000 +0100" stop="20221114103000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114103000 +0100" stop="20221114110000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114110000 +0100" stop="20221114113000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114113000 +0100" stop="20221114120000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114120000 +0100" stop="20221115010000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221115010000 +0100" stop="20221115013000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115013000 +0100" stop="20221115033000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">2017-2018: Stade Rennais vs. Paris Saint-Germain</title>
-    <category lang="en">PSG máquina goleadora</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115033000 +0100" stop="20221115040000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115040000 +0100" stop="20221115060000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Stade Rennais vs. Toulouse</title>
-    <category lang="en">Fútbol Ligue 1</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115060000 +0100" stop="20221115080000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
-    <category lang="en">Fútbol Turco Superliga</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115080000 +0100" stop="20221115100000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Lens vs. Clermont</title>
-    <category lang="en">Fútbol Ligue 1</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115100000 +0100" stop="20221115120000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">AS Saint-Étienne vs. Rodez Aveyron Football</title>
-    <category lang="en">Fútbol Ligue 2</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115120000 +0100" stop="20221116010000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
-    <title lang="en">Ligue 1 - Highlight Show</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221116010000 +0100" stop="20221116030000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
+  <programme start="20221115010000 +0200" stop="20221115030000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
     <title lang="en">2022: Boca vs. Corinthians</title>
     <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221116030000 +0100" stop="20221116050000 +0100" channel="DEPORTES | BEIN SPORTS LA LIGA">
+  <programme start="20221115030000 +0200" stop="20221115050000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
     <title lang="en">2022: Boca Juniors vs. Deportivo Cali</title>
     <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114010000 +0100" stop="20221114030000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
-    <category lang="en">Fútbol Turco Superliga</category>
+  <programme start="20221115050000 +0200" stop="20221115070000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">2022: Corinthians vs. Boca Juniors</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114030000 +0100" stop="20221114040000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">The Locker Room</title>
+  <programme start="20221115070000 +0200" stop="20221115080000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Ligue 1 - Highlight Show</title>
     <category lang="en">Sports talk</category>
   </programme>
-  <programme start="20221114040000 +0100" stop="20221114043000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Ligue 1 2021-2022: Lille vs. Angers</title>
-    <category lang="en">90 in 30</category>
+  <programme start="20221115080000 +0200" stop="20221115083000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115083000 +0200" stop="20221115090000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115090000 +0200" stop="20221115093000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115093000 +0200" stop="20221115100000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115100000 +0200" stop="20221115103000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115103000 +0200" stop="20221115110000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115110000 +0200" stop="20221115113000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115113000 +0200" stop="20221115120000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115120000 +0200" stop="20221116010000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116010000 +0200" stop="20221116013000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116013000 +0200" stop="20221116033000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">2017-2018: Paris Saint-Germain vs. Caen</title>
+    <category lang="en">PSG máquina goleadora</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114043000 +0100" stop="20221114050000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Ligue 1 2022-2023: AS Monaco vs. Marseille</title>
-    <category lang="en">90 in 30</category>
-    <category lang="en">Soccer</category>
+  <programme start="20221116033000 +0200" stop="20221116040000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
   </programme>
-  <programme start="20221114050000 +0100" stop="20221114070000 +0100" channel="DEPORTES | Bein sports N 2">
+  <programme start="20221116040000 +0200" stop="20221116060000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
     <title lang="en">Paris Saint-Germain vs. Auxerre</title>
     <category lang="en">Fútbol Ligue 1</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114070000 +0100" stop="20221114080000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221114080000 +0100" stop="20221114083000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114083000 +0100" stop="20221114090000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114090000 +0100" stop="20221114093000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114093000 +0100" stop="20221114100000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114100000 +0100" stop="20221114103000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114103000 +0100" stop="20221114110000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114110000 +0100" stop="20221114113000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114113000 +0100" stop="20221114120000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114120000 +0100" stop="20221115010000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221115010000 +0100" stop="20221115013000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115013000 +0100" stop="20221115033000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">2017-2018: Stade Rennais vs. Paris Saint-Germain</title>
-    <category lang="en">PSG máquina goleadora</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115033000 +0100" stop="20221115040000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115040000 +0100" stop="20221115060000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Stade Rennais vs. Toulouse</title>
-    <category lang="en">Fútbol Ligue 1</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115060000 +0100" stop="20221115080000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
+  <programme start="20221116060000 +0200" stop="20221116080000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Ankaragucu vs. Trabzonspor</title>
     <category lang="en">Fútbol Turco Superliga</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115080000 +0100" stop="20221115100000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">Lens vs. Clermont</title>
+  <programme start="20221116080000 +0200" stop="20221116100000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Lyon vs. Nice</title>
     <category lang="en">Fútbol Ligue 1</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115100000 +0100" stop="20221115120000 +0100" channel="DEPORTES | Bein sports N 2">
-    <title lang="en">AS Saint-Étienne vs. Rodez Aveyron Football</title>
-    <category lang="en">Fútbol Ligue 2</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115120000 +0100" stop="20221116010000 +0100" channel="DEPORTES | Bein sports N 2">
+  <programme start="20221116100000 +0200" stop="20221116110000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
     <title lang="en">Ligue 1 - Highlight Show</title>
     <category lang="en">Sports talk</category>
   </programme>
-  <programme start="20221116010000 +0100" stop="20221116030000 +0100" channel="DEPORTES | Bein sports N 2">
+  <programme start="20221116110000 +0200" stop="20221117010000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Monaco vs. Marseille</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116110000 +0200" stop="20221117010000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">Monaco vs. Marseille</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221117010000 +0200" stop="20221117030000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">2022: Flamengo vs. Talleres (C)</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221117030000 +0200" stop="20221117050000 +0200" channel="DEPORTES | BEIN SPORTS LA LIGA">
+    <title lang="en">2022: Universidad Católica vs. Flamengo</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221115010000 +0200" stop="20221115030000 +0200" channel="DEPORTES | Bein sports N 2">
     <title lang="en">2022: Boca vs. Corinthians</title>
     <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221116030000 +0100" stop="20221116050000 +0100" channel="DEPORTES | Bein sports N 2">
+  <programme start="20221115030000 +0200" stop="20221115050000 +0200" channel="DEPORTES | Bein sports N 2">
     <title lang="en">2022: Boca Juniors vs. Deportivo Cali</title>
     <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114120000 +0100" stop="20221114123000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Ligue 1 2022-2023: Lille vs. Angers</title>
-    <category lang="en">90 in 30</category>
+  <programme start="20221115050000 +0200" stop="20221115070000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">2022: Corinthians vs. Boca Juniors</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114123000 +0100" stop="20221115010000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Ligue 1 2022-2023: AS Monaco vs. Marseille</title>
-    <category lang="en">90 in 30</category>
+  <programme start="20221115070000 +0200" stop="20221115080000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221115080000 +0200" stop="20221115083000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115083000 +0200" stop="20221115090000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115090000 +0200" stop="20221115093000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115093000 +0200" stop="20221115100000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115100000 +0200" stop="20221115103000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115103000 +0200" stop="20221115110000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115110000 +0200" stop="20221115113000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115113000 +0200" stop="20221115120000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115120000 +0200" stop="20221116010000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116010000 +0200" stop="20221116013000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116013000 +0200" stop="20221116033000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">2017-2018: Paris Saint-Germain vs. Caen</title>
+    <category lang="en">PSG máquina goleadora</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115010000 +0100" stop="20221115013000 +0100" channel="DEPORTES | Bein Sports USA HD">
+  <programme start="20221116033000 +0200" stop="20221116040000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116040000 +0200" stop="20221116060000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Paris Saint-Germain vs. Auxerre</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116060000 +0200" stop="20221116080000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Ankaragucu vs. Trabzonspor</title>
+    <category lang="en">Fútbol Turco Superliga</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116080000 +0200" stop="20221116100000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Lyon vs. Nice</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116100000 +0200" stop="20221116110000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116110000 +0200" stop="20221117010000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Monaco vs. Marseille</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116110000 +0200" stop="20221117010000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">Monaco vs. Marseille</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221117010000 +0200" stop="20221117030000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">2022: Flamengo vs. Talleres (C)</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221117030000 +0200" stop="20221117050000 +0200" channel="DEPORTES | Bein sports N 2">
+    <title lang="en">2022: Universidad Católica vs. Flamengo</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221115123000 +0200" stop="20221116010000 +0200" channel="DEPORTES | Bein Sports USA HD">
     <title lang="en">The Locker Room</title>
     <category lang="en">Sports talk</category>
   </programme>
-  <programme start="20221115013000 +0100" stop="20221115033000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
-    <category lang="en">Turkish Super Lig Soccer</category>
-    <category lang="en">Soccer</category>
+  <programme start="20221116010000 +0200" stop="20221116013000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Istanbul Basaksehir vs. Galatasaray</title>
+    <category lang="en">Best of the Weekend</category>
+    <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115033000 +0100" stop="20221115040000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Ligue 1 2022-2023: Stade Rennes vs. Toulouse</title>
-    <category lang="en">90 in 30</category>
-    <category lang="en">Soccer</category>
+  <programme start="20221116013000 +0200" stop="20221116020000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Lyon vs. Nice</title>
+    <category lang="en">Best of the Weekend</category>
+    <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115040000 +0100" stop="20221115043000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221115043000 +0100" stop="20221115063000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paris Saint-Germain vs. AJ Auxerre</title>
-    <category lang="en">French Ligue 1 Soccer</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115063000 +0100" stop="20221115083000 +0100" channel="DEPORTES | Bein Sports USA HD">
+  <programme start="20221116020000 +0200" stop="20221116023000 +0200" channel="DEPORTES | Bein Sports USA HD">
     <title lang="en">AS Monaco vs. Marseille</title>
-    <category lang="en">French Ligue 1 Soccer</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115083000 +0100" stop="20221115090000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115090000 +0100" stop="20221115093000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115093000 +0100" stop="20221115100000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115100000 +0100" stop="20221115103000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115103000 +0100" stop="20221115110000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115110000 +0100" stop="20221115113000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115113000 +0100" stop="20221115120000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115120000 +0100" stop="20221115123000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115123000 +0100" stop="20221116010000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Wild Spirits</title>
-    <category lang="en">Action sports</category>
-  </programme>
-  <programme start="20221116010000 +0100" stop="20221116013000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Wild Spirits</title>
-    <category lang="en">Action sports</category>
-  </programme>
-  <programme start="20221116013000 +0100" stop="20221116020000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221116020000 +0100" stop="20221116023000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Wild Spirits</title>
-    <category lang="en">Action sports</category>
-  </programme>
-  <programme start="20221116023000 +0100" stop="20221116030000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Wild Spirits</title>
-    <category lang="en">Action sports</category>
-  </programme>
-  <programme start="20221116030000 +0100" stop="20221116033000 +0100" channel="DEPORTES | Bein Sports USA HD">
-    <title lang="en">Paid Programming</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114120000 +0100" stop="20221115010000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Sudamericana Highlight Show</title>
+    <category lang="en">Best of the Weekend</category>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115010000 +0100" stop="20221115020000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Sudamericana Highlight Show</title>
+  <programme start="20221116023000 +0200" stop="20221116030000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paris Saint-Germain vs. Auxerre</title>
+    <category lang="en">Best of the Weekend</category>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115020000 +0100" stop="20221115023000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116030000 +0200" stop="20221116050000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Bare Knuckle Boxing</title>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20221116050000 +0200" stop="20221116053000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">The Locker Room</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116053000 +0200" stop="20221116060000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Istanbul Basaksehir vs. Galatasaray</title>
+    <category lang="en">Best of the Weekend</category>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116060000 +0200" stop="20221116063000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Lyon vs. Nice</title>
+    <category lang="en">Best of the Weekend</category>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116063000 +0200" stop="20221116070000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">AS Monaco vs. Marseille</title>
+    <category lang="en">Best of the Weekend</category>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116070000 +0200" stop="20221116073000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paris Saint-Germain vs. Auxerre</title>
+    <category lang="en">Best of the Weekend</category>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116073000 +0200" stop="20221116083000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116083000 +0200" stop="20221116090000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116090000 +0200" stop="20221116093000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116093000 +0200" stop="20221116100000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116100000 +0200" stop="20221116103000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116103000 +0200" stop="20221116110000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116110000 +0200" stop="20221116113000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116113000 +0200" stop="20221116120000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116120000 +0200" stop="20221116123000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116123000 +0200" stop="20221117010000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Wild Spirits</title>
+    <category lang="en">Action sports</category>
+  </programme>
+  <programme start="20221117010000 +0200" stop="20221117013000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Wild Spirits</title>
+    <category lang="en">Action sports</category>
+  </programme>
+  <programme start="20221117013000 +0200" stop="20221117020000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221117020000 +0200" stop="20221117023000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Wild Spirits</title>
+    <category lang="en">Action sports</category>
+  </programme>
+  <programme start="20221117023000 +0200" stop="20221117030000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Wild Spirits</title>
+    <category lang="en">Action sports</category>
+  </programme>
+  <programme start="20221117030000 +0200" stop="20221117033000 +0200" channel="DEPORTES | Bein Sports USA HD">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115120000 +0200" stop="20221116010000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Copa Libertadores Highlights</title>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116010000 +0200" stop="20221116013000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Cuartos de final, ida</title>
-    <category lang="en">Copa Sudamericana Highlight Show</category>
+    <category lang="en">Copa Libertadores Highlights</category>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115023000 +0100" stop="20221115030000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116013000 +0200" stop="20221116020000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Cuartos de final, vuelta</title>
-    <category lang="en">Copa Sudamericana Highlight Show</category>
+    <category lang="en">Copa Libertadores Highlights</category>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115030000 +0100" stop="20221115033000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Camino a Catar</title>
+  <programme start="20221116020000 +0200" stop="20221116030000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">#LaRadioDelMundial</title>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115033000 +0100" stop="20221115043000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Hollywood Beach, semifinal y final</title>
-    <category lang="en">Footvolley</category>
-    <category lang="en">Action sports</category>
-  </programme>
-  <programme start="20221115043000 +0100" stop="20221115053000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Hollywood Beach: The Arrival of the Superteam (The Challenge Match)</title>
-    <category lang="en">Footvolley</category>
-    <category lang="en">Action sports</category>
-  </programme>
-  <programme start="20221115053000 +0100" stop="20221115060000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116030000 +0200" stop="20221116033000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Semifinales, ida</title>
-    <category lang="en">Copa Sudamericana Highlight Show</category>
+    <category lang="en">Copa Libertadores Highlights</category>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115060000 +0100" stop="20221115063000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116033000 +0200" stop="20221116040000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Semifinales, vuelta</title>
+    <category lang="en">Copa Libertadores Highlights</category>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116040000 +0200" stop="20221116043000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Final</title>
+    <category lang="en">Copa Libertadores Highlights</category>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116043000 +0200" stop="20221116043500 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Road to the Final: Copa Libertadores 2022</title>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116043500 +0200" stop="20221116060000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Copa Libertadores Highlights</title>
+    <category lang="en">Sports, non-event</category>
+  </programme>
+  <programme start="20221116060000 +0200" stop="20221116063000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Welcome to Qatar</title>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115063000 +0100" stop="20221115070000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Jason Denayer: Lyon vs. Monaco</title>
+  <programme start="20221116063000 +0200" stop="20221116070000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Wissam Ben Yedder: Monaco vs. Saint Etienne</title>
     <category lang="en">Stars of Qatar</category>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115070000 +0100" stop="20221115073000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116070000 +0200" stop="20221116073000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Camino a Catar</title>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115073000 +0100" stop="20221115080000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Sudamericana Highlight Show</title>
+  <programme start="20221116073000 +0200" stop="20221116083000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">#LaRadioDelMundial</title>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116083000 +0200" stop="20221116090000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Road to the Final: Copa Libertadores 2022</title>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115080000 +0100" stop="20221115083000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Final</title>
-    <category lang="en">Copa Sudamericana Highlight Show</category>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221115083000 +0100" stop="20221115090000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Camino a la final: Copa Sudamericana</title>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221115090000 +0100" stop="20221115100000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Sudamericana Highlight Show</title>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221115100000 +0100" stop="20221115110000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Sudamericana Highlight Show</title>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221115110000 +0100" stop="20221115120000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116090000 +0200" stop="20221116100000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Copa Libertadores Highlights</title>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221115120000 +0100" stop="20221116010000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
+  <programme start="20221116100000 +0200" stop="20221116110000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
     <title lang="en">Copa Libertadores Highlights</title>
     <category lang="en">Sports, non-event</category>
   </programme>
-  <programme start="20221116010000 +0100" stop="20221116020000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Libertadores Highlights</title>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221116020000 +0100" stop="20221116030000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Libertadores Highlights</title>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221116030000 +0100" stop="20221116040000 +0100" channel="DEPORTES | BEIN SPORTS \'d1">
-    <title lang="en">Copa Libertadores Highlights</title>
-    <category lang="en">Sports, non-event</category>
-  </programme>
-  <programme start="20221114010000 +0100" stop="20221114030000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
-    <category lang="en">Fútbol Turco Superliga</category>
+  <programme start="20221116110000 +0200" stop="20221116120000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">#LaRadioDelMundial</title>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114030000 +0100" stop="20221114040000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221114040000 +0100" stop="20221114043000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Ligue 1 2021-2022: Lille vs. Angers</title>
-    <category lang="en">90 in 30</category>
+  <programme start="20221116120000 +0200" stop="20221116123000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Italia vs. Argentina</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114043000 +0100" stop="20221114050000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Ligue 1 2022-2023: AS Monaco vs. Marseille</title>
-    <category lang="en">90 in 30</category>
+  <programme start="20221116123000 +0200" stop="20221117010000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Argentina vs. Guatemala</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114050000 +0100" stop="20221114070000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Paris Saint-Germain vs. Auxerre</title>
-    <category lang="en">Fútbol Ligue 1</category>
+  <programme start="20221117010000 +0200" stop="20221117013000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Brasil vs. Argentina</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221114070000 +0100" stop="20221114080000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221114080000 +0100" stop="20221114083000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114083000 +0100" stop="20221114090000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114090000 +0100" stop="20221114093000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114093000 +0100" stop="20221114100000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114100000 +0100" stop="20221114103000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114103000 +0100" stop="20221114110000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114110000 +0100" stop="20221114113000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114113000 +0100" stop="20221114120000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221114120000 +0100" stop="20221115010000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">The Locker Room</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221115010000 +0100" stop="20221115013000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115013000 +0100" stop="20221115033000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">2017-2018: Stade Rennais vs. Paris Saint-Germain</title>
-    <category lang="en">PSG máquina goleadora</category>
+  <programme start="20221117013000 +0200" stop="20221117020000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Argentina vs. Nicaragua</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115033000 +0100" stop="20221115040000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Programa pagado</title>
-    <category lang="en">Shopping</category>
-  </programme>
-  <programme start="20221115040000 +0100" stop="20221115060000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Stade Rennais vs. Toulouse</title>
-    <category lang="en">Fútbol Ligue 1</category>
+  <programme start="20221117020000 +0200" stop="20221117023000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Argentina vs. Bolivia</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115060000 +0100" stop="20221115080000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Besiktas vs. Antalyaspor</title>
-    <category lang="en">Fútbol Turco Superliga</category>
+  <programme start="20221117023000 +0200" stop="20221117030000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">Argentina vs. Uruguay</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115080000 +0100" stop="20221115100000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Lens vs. Clermont</title>
-    <category lang="en">Fútbol Ligue 1</category>
+  <programme start="20221117030000 +0200" stop="20221117033000 +0200" channel="DEPORTES | BEIN SPORTS \'d1">
+    <title lang="en">2022: Argentina vs. Honduras</title>
+    <category lang="en">Argentina, la máquina albiceleste</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221115100000 +0100" stop="20221115120000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">AS Saint-Étienne vs. Rodez Aveyron Football</title>
-    <category lang="en">Fútbol Ligue 2</category>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20221115120000 +0100" stop="20221116010000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
-    <title lang="en">Ligue 1 - Highlight Show</title>
-    <category lang="en">Sports talk</category>
-  </programme>
-  <programme start="20221116010000 +0100" stop="20221116030000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
+  <programme start="20221115010000 +0200" stop="20221115030000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
     <title lang="en">2022: Boca vs. Corinthians</title>
     <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20221116030000 +0100" stop="20221116050000 +0100" channel="DEPORTES | Bein Sports \'d1 HD">
+  <programme start="20221115030000 +0200" stop="20221115050000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
     <title lang="en">2022: Boca Juniors vs. Deportivo Cali</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221115050000 +0200" stop="20221115070000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">2022: Corinthians vs. Boca Juniors</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221115070000 +0200" stop="20221115080000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221115080000 +0200" stop="20221115083000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115083000 +0200" stop="20221115090000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115090000 +0200" stop="20221115093000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115093000 +0200" stop="20221115100000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115100000 +0200" stop="20221115103000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115103000 +0200" stop="20221115110000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115110000 +0200" stop="20221115113000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115113000 +0200" stop="20221115120000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221115120000 +0200" stop="20221116010000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116010000 +0200" stop="20221116013000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116013000 +0200" stop="20221116033000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">2017-2018: Paris Saint-Germain vs. Caen</title>
+    <category lang="en">PSG máquina goleadora</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116033000 +0200" stop="20221116040000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Programa pagado</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20221116040000 +0200" stop="20221116060000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Paris Saint-Germain vs. Auxerre</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116060000 +0200" stop="20221116080000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Ankaragucu vs. Trabzonspor</title>
+    <category lang="en">Fútbol Turco Superliga</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116080000 +0200" stop="20221116100000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Lyon vs. Nice</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116100000 +0200" stop="20221116110000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Ligue 1 - Highlight Show</title>
+    <category lang="en">Sports talk</category>
+  </programme>
+  <programme start="20221116110000 +0200" stop="20221117010000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Monaco vs. Marseille</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221116110000 +0200" stop="20221117010000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">Monaco vs. Marseille</title>
+    <category lang="en">Fútbol Ligue 1</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221117010000 +0200" stop="20221117030000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">2022: Flamengo vs. Talleres (C)</title>
+    <category lang="en">Fútbol CONMEBOL Libertadores</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20221117030000 +0200" stop="20221117050000 +0200" channel="DEPORTES | Bein Sports \'d1 HD">
+    <title lang="en">2022: Universidad Católica vs. Flamengo</title>
     <category lang="en">Fútbol CONMEBOL Libertadores</category>
     <category lang="en">Soccer</category>
   </programme>
