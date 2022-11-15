@@ -6,7 +6,7 @@
   </channel>
   <channel id="DEPORTES | Box Nation">
     <display-name lang="en">DEPORTES | Box Nation</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/1036.png"/>
+    <icon src="https://cdn.tvguide.co.uk/channel_logos/1032.png"/>
   </channel>
   <channel id="DEPORTES | FOX SPORTS 2">
     <display-name lang="es">DEPORTES | FOX SPORTS 2</display-name>
@@ -168,6 +168,243 @@
   <programme start="20221116231500 -0300" stop="20221117010000 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Werder Bremen-Leipzig</title>
     <sub-title lang="es">22/23</sub-title>
+  </programme>
+  <programme start="20221115060000 +0000" stop="20221115070000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">KOTV Classics: Boxing Files</title>
+    <desc lang="en">Archive action from memorable boxing bouts</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20221115070000 +0000" stop="20221115100000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Uncut</title>
+    <desc lang="en">Heavy-handed Mexican warrior Miguel Berchelt makes the second defence of his WBC World Super-Featherweight Title against Maxwell Awuku. The whole night, uncut.</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115100000 +0000" stop="20221115110000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">Former two-time World Champion Robert Stieglitz challenges Mehdi Amar for the European Light-Heavyweight title, from November 2016</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115110000 +0000" stop="20221115120000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">Marco Huck defends his IBO World Cruiserweight title against Dmytro Kucher, from November 2016</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115120000 +0000" stop="20221115130000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">Bradley Skeete and John Thain go head to head for the British Welterweight crown, from November 2016</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115130000 +0000" stop="20221115152000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Karate Combat</title>
+    <desc lang="en">Action from the latest event in the full-contact karate league</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115152000 +0000" stop="20221115190000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Uncut</title>
+    <desc lang="en">Unbeaten Featherweight Brandon Figueroa faces Oscar Escandon, plus British Heavyweight hope Joe Joyce has his first fight under trainer Abel Sanchez when he faces Iago Kiladze. The whole night, uncut.</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115190000 +0000" stop="20221115193000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Colin Hart and Alan Hubbard are in the Boxing Matters studio to discuss the history, and the role, of the fighter's trainer</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115193000 +0000" stop="20221115200000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">KOTV Boxing Weekly</title>
+    <desc lang="en">News, results and hard-hitting action from bouts in locations around the world</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>2.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115200000 +0000" stop="20221115221000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Edwards v Mama</sub-title>
+    <desc lang="en">Edwards v Mama</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2020.19.</episode-num>
+    <star-rating>
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115221000 +0000" stop="20221115233000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Krasniqi v Boesel</sub-title>
+    <desc lang="en">Robin Krasniqi v Dominic Boesel</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2020.17.</episode-num>
+    <star-rating>
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221115233000 +0000" stop="20221116000000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">KOTV Boxing Weekly</title>
+    <desc lang="en">News, results and hard-hitting action from bouts in locations around the world</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>2.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116000000 +0000" stop="20221116003000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing Matters</title>
+    <desc lang="en">Colin Hart and Alan Hubbard share their stories on working with some of the biggest promoters in the boxing world</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116003000 +0000" stop="20221116030000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Uncut</title>
+    <desc lang="en">Heavy-hitting German prospect Vincent Feigenbutz fights Poland's Przemyslaw Opalach in a Super-Middleweight 12 rounder. The whole night, uncut</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116030000 +0000" stop="20221116040000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">April 2017. Marco Huck faced dangerous Cruiserweight Mairis Briedis for the WBC interim World Title at the Westfalenhalle in Dortmund, Germany.</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116040000 +0000" stop="20221116050000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">March 2017. Roman Gonzalez defends his incredible 46-0 record against Wisaksil Wangek</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116050000 +0000" stop="20221116060000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">April 2017. Tyrone Nurse takes on Joe Hughes for the British Super Lightweight title</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116060000 +0000" stop="20221116100000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Uncut</title>
+    <desc lang="en">Bradley Skeete defends his British Title against Shayne Singleton in Essex, plus a rematch between Lee Markham and Joe Mullender for the English Middleweight strap.The whole night, UNCUT</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116100000 +0000" stop="20221116110000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">Francisco Vargas defends his WBC World Super-Featherweight belt against fellow Mexican Miguel Berchelt</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116110000 +0000" stop="20221116120000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">February 2017. Unbeaten Lightweight Champion Robert Easter returns home to defend his title vs Puerto Rican contender Luis Cruz</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116120000 +0000" stop="20221116130000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">February 2017. Rau'shee Warren defends his 118-pound title against Kazakh slugger Zhanat Zhakiyanov</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116130000 +0000" stop="20221116133000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">KOTV Boxing Weekly</title>
+    <desc lang="en">News, results and hard-hitting action from bouts in locations around the world</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>2.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116133000 +0000" stop="20221116163000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Yoka v Djeko</sub-title>
+    <desc lang="en">Tony Yoka v Joel Tambwe Djeko</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2020.11.</episode-num>
+    <star-rating>
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116163000 +0000" stop="20221116193000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Uncut</title>
+    <desc lang="en">The iconic York Hall host boxing's future stars, featuring Light-Heavyweight Anthony Yarde defending his WBO Inter-Continental and European belts against Tony Averlant. The whole night, uncut</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116193000 +0000" stop="20221116200000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing World Weekly</title>
+    <desc lang="en">A round-up of the latests news and highlights</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116200000 +0000" stop="20221116220000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing</title>
+    <sub-title lang="en">Sexton v Ngebinyana</sub-title>
+    <desc lang="en">Ashley Sexton v Sabelo Ngebinyana</desc>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">2021.22.</episode-num>
+    <star-rating>
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221116220000 +0000" stop="20221117023000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Uncut</title>
+    <desc lang="en">Ireland's own Olympic hero Michael Conlan returns home to headline his first professional boxing bout as he takes on super-bantamweight rival Adeilson dos Santos. The whole night, uncut</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>9.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117023000 +0000" stop="20221117030000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">Boxing World Weekly</title>
+    <desc lang="en">A round-up of the latests news and highlights</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117030000 +0000" stop="20221117040000 +0000" channel="DEPORTES | Box Nation">
+    <title lang="en">The Main Events</title>
+    <desc lang="en">April 2017. Zolani Tete meets Arthur Villanueva in a final eliminator for the WBO World Bantamweight crown</desc>
+    <category lang="en">Sports</category>
+    <star-rating>
+      <value>8.4/10</value>
+    </star-rating>
   </programme>
   <programme start="20221115010000 -0300" stop="20221115030000 -0300" channel="DEPORTES | FOX SPORTS 2">
     <title lang="es">UEFA Champions League</title>
