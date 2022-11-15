@@ -169,252 +169,252 @@
     <title lang="es">Werder Bremen-Leipzig</title>
     <sub-title lang="es">22/23</sub-title>
   </programme>
-  <programme start="20221115060000 +0100" stop="20221115063000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115060000 -0100" stop="20221115063000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Noticias</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda deportiva nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe sobre equipos, deportistas, competencias y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-noticias-s00e151_l_m.jpg"/>
     <episode-num system="xmltv_ns">.150.</episode-num>
   </programme>
-  <programme start="20221115063000 +0100" stop="20221115080000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115063000 -0100" stop="20221115080000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_m.jpg"/>
   </programme>
-  <programme start="20221115080000 +0100" stop="20221115100000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115080000 -0100" stop="20221115100000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Cd Valdivia vs. CD Ab Temuco</title>
     <desc lang="es">Retranmisión de los partidos de la competencia de básquet Copa Chile Mundo 2022. El evento reune a 30 equipos provenientes de la Primera División y de la División y el público podrá disfrutar de los encuentros más emocionantes.</desc>
     <category lang="es">Copa Chile Mundo 2022</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221115100000 +0100" stop="20221115110000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115100000 -0100" stop="20221115110000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Conexiones CDO</title>
     <category lang="es">Conexiones CDO</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_m.jpg"/>
   </programme>
-  <programme start="20221115110000 +0100" stop="20221115130000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115110000 -0100" stop="20221115130000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">La Pintana vs. Boston College</title>
     <desc lang="es">Retransmisión de los partidos de la Liga Nacional de vóleibol A1 femenino. Los amantes del deporte podrán disfrutar de los enfrentamientos más emocionantes mientras las jugadoras lo dan todo por la victoria.</desc>
     <category lang="es">Liga Nacional de vóleibol A1 femenino</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221115130000 +0100" stop="20221115140000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115130000 -0100" stop="20221115140000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_m.jpg"/>
   </programme>
-  <programme start="20221115140000 +0100" stop="20221115143000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115140000 -0100" stop="20221115143000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Noticias</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda deportiva nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe sobre equipos, deportistas, competencias y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-noticias-s00e151_l_m.jpg"/>
     <episode-num system="xmltv_ns">.150.</episode-num>
   </programme>
-  <programme start="20221115143000 +0100" stop="20221115160000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115143000 -0100" stop="20221115160000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_m.jpg"/>
   </programme>
-  <programme start="20221115160000 +0100" stop="20221115170000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115160000 -0100" stop="20221115170000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Conexiones CDO</title>
     <category lang="es">Conexiones CDO</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_m.jpg"/>
   </programme>
-  <programme start="20221115170000 +0100" stop="20221115170500 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115170000 -0100" stop="20221115170500 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Enfoque deportivo</title>
     <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.</desc>
     <category lang="es">Enfoque deportivo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_m.jpg"/>
   </programme>
-  <programme start="20221115170500 +0100" stop="20221115185500 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115170500 -0100" stop="20221115185500 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Sgto.. Morning Quilicura vs. CD Tinguiririca SF.</title>
     <desc lang="es">Retranmisión de los partidos de la competencia de básquet Copa Chile Mundo 2022. El evento reune a 30 equipos provenientes de la Primera División y de la División y el público podrá disfrutar de los encuentros más emocionantes.</desc>
     <category lang="es">Copa Chile Mundo 2022</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221115185500 +0100" stop="20221115190000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115185500 -0100" stop="20221115190000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Enfoque deportivo</title>
     <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.</desc>
     <category lang="es">Enfoque deportivo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_m.jpg"/>
   </programme>
-  <programme start="20221115190000 +0100" stop="20221115200000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115190000 -0100" stop="20221115200000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_m.jpg"/>
   </programme>
-  <programme start="20221115200000 +0100" stop="20221115203000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115200000 -0100" stop="20221115203000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Primos Grimalt</title>
     <desc lang="es">Un programa para los amantes del deporte y el aire libre.</desc>
     <category lang="es">La Senda del Outdoor</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-primos-grimalt_l_m.jpg"/>
   </programme>
-  <programme start="20221115203000 +0100" stop="20221115210000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115203000 -0100" stop="20221115210000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Tenis 14</title>
     <desc lang="es">No hay repeticiónes</desc>
     <category lang="es">Programa de difusión</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tenis-14_l_m.jpg"/>
   </programme>
-  <programme start="20221115210000 +0100" stop="20221115223000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115210000 -0100" stop="20221115223000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_m.jpg"/>
   </programme>
-  <programme start="20221115223000 +0100" stop="20221115230000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115223000 -0100" stop="20221115230000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Raquetbol 2</title>
     <category lang="es">Programa de difusión</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-raquetbol-2_l_m.jpg"/>
   </programme>
-  <programme start="20221115230000 +0100" stop="20221115233000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115230000 -0100" stop="20221115233000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Surf, lobos por siempre</title>
     <desc lang="es">Un programa para los amantes del deporte y el aire libre.</desc>
     <category lang="es">La Senda del Outdoor</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-surf-lobos-por-siempre_l_m.jpg"/>
   </programme>
-  <programme start="20221115233000 +0100" stop="20221116000000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221115233000 -0100" stop="20221116000000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Noticias</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda deportiva nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe sobre equipos, deportistas, competencias y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-noticias-s00e152_l_m.jpg"/>
     <episode-num system="xmltv_ns">.151.</episode-num>
   </programme>
-  <programme start="20221116000000 +0100" stop="20221116010000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116000000 -0100" stop="20221116010000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Conexiones CDO</title>
     <category lang="es">Conexiones CDO</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_m.jpg"/>
   </programme>
-  <programme start="20221116010000 +0100" stop="20221116020000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116010000 -0100" stop="20221116020000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis: Segundo tiempo</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis: Segundo tiempo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20221116020000 +0100" stop="20221116030000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116020000 -0100" stop="20221116030000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Basquetbol 2022</title>
     <desc lang="es">Retransmisión de los partidos de la Liga Nacional de Básquetbol en su edición 2022. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras los equipo se disputana la victoria en la máxima categoría del país.</desc>
     <category lang="es">CDO Basquetbol 2022</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116030000 +0100" stop="20221116050000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116030000 -0100" stop="20221116050000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Mun. Español de Talca vs. Truenos de Talca</title>
     <desc lang="es">Retranmisión de los partidos de la competencia de básquet Copa Chile Mundo 2022. El evento reune a 30 equipos provenientes de la Primera División y de la División y el público podrá disfrutar de los encuentros más emocionantes.</desc>
     <category lang="es">Copa Chile Mundo 2022</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116050000 +0100" stop="20221116070000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116050000 -0100" stop="20221116070000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">U. Católica vs. COGS</title>
     <desc lang="es">Retransmisión de los partidos del Torneo Clausura Hockey Césped Damas 2022 en Chile. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras las jóvenes deportistas lo dan todo por la victoria.</desc>
     <category lang="es">3er Lugar</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116070000 +0100" stop="20221116080000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116070000 -0100" stop="20221116080000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_m.jpg"/>
   </programme>
-  <programme start="20221116080000 +0100" stop="20221116100000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116080000 -0100" stop="20221116100000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CD Castro vs. CD Atl. Pto. Varas</title>
     <desc lang="es">Retranmisión de los partidos de la competencia de básquet Copa Chile Mundo 2022. El evento reune a 30 equipos provenientes de la Primera División y de la División y el público podrá disfrutar de los encuentros más emocionantes.</desc>
     <category lang="es">Copa Chile Mundo 2022</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116100000 +0100" stop="20221116110000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116100000 -0100" stop="20221116110000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Conexiones CDO</title>
     <category lang="es">Conexiones CDO</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_m.jpg"/>
   </programme>
-  <programme start="20221116110000 +0100" stop="20221116130000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116110000 -0100" stop="20221116130000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">U. Católica vs. COGS</title>
     <desc lang="es">Retransmisión de los partidos del Torneo Clausura Hockey Césped Damas 2022 en Chile. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras las jóvenes deportistas lo dan todo por la victoria.</desc>
     <category lang="es">3er Lugar</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116130000 +0100" stop="20221116140000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116130000 -0100" stop="20221116140000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_m.jpg"/>
   </programme>
-  <programme start="20221116140000 +0100" stop="20221116143000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116140000 -0100" stop="20221116143000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Noticias</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda deportiva nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe sobre equipos, deportistas, competencias y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-noticias-s00e152_l_m.jpg"/>
     <episode-num system="xmltv_ns">.151.</episode-num>
   </programme>
-  <programme start="20221116143000 +0100" stop="20221116160000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116143000 -0100" stop="20221116160000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_m.jpg"/>
   </programme>
-  <programme start="20221116160000 +0100" stop="20221116170000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116160000 -0100" stop="20221116170000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Conexiones CDO</title>
     <category lang="es">Conexiones CDO</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_m.jpg"/>
   </programme>
-  <programme start="20221116170000 +0100" stop="20221116170500 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116170000 -0100" stop="20221116170500 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Enfoque deportivo</title>
     <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.</desc>
     <category lang="es">Enfoque deportivo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_m.jpg"/>
   </programme>
-  <programme start="20221116170500 +0100" stop="20221116185500 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116170500 -0100" stop="20221116185500 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">U. Católica vs. COGS</title>
     <desc lang="es">Retransmisión de los partidos del Torneo Clausura Hockey Césped Damas 2022 en Chile. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras las jóvenes deportistas lo dan todo por la victoria.</desc>
     <category lang="es">3er Lugar</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116185500 +0100" stop="20221116190000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116185500 -0100" stop="20221116190000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Enfoque deportivo</title>
     <desc lang="es">Flash informativo con contenido de los deportistas nacionales e internacionales. El objetivo es dar salida diaria al mundo federativo y la actualidad de sus deportistas.</desc>
     <category lang="es">Enfoque deportivo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-enfoque-deportivo_l_m.jpg"/>
   </programme>
-  <programme start="20221116190000 +0100" stop="20221116200000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116190000 -0100" stop="20221116200000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_m.jpg"/>
   </programme>
-  <programme start="20221116200000 +0100" stop="20221116203000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116200000 -0100" stop="20221116203000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Encuentro femenino de escalada sobre hielo</title>
     <desc lang="es">Un programa para los amantes del deporte y el aire libre.</desc>
     <category lang="es">La Senda del Outdoor</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-encuentro-femenino-de-escalada-sobre-hielo_l_m.jpg"/>
   </programme>
-  <programme start="20221116203000 +0100" stop="20221116210000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116203000 -0100" stop="20221116210000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Golf 6</title>
     <category lang="es">Programa de difusión</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-golf-6_l_m.jpg"/>
   </programme>
-  <programme start="20221116210000 +0100" stop="20221116223000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116210000 -0100" stop="20221116223000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_m.jpg"/>
   </programme>
-  <programme start="20221116223000 +0100" stop="20221116233000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116223000 -0100" stop="20221116233000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Basquetbol 2022</title>
     <desc lang="es">Retransmisión de los partidos de la Liga Nacional de Básquetbol en su edición 2022. Los amantes del deporte podrán disfrutar de los encuentros más emocionantes mientras los equipo se disputana la victoria en la máxima categoría del país.</desc>
     <category lang="es">CDO Basquetbol 2022</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20221116233000 +0100" stop="20221117000000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221116233000 -0100" stop="20221117000000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">CDO Noticias</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda deportiva nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe sobre equipos, deportistas, competencias y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cdo-noticias-s00e153_l_m.jpg"/>
     <episode-num system="xmltv_ns">.152.</episode-num>
   </programme>
-  <programme start="20221117000000 +0100" stop="20221117010000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221117000000 -0100" stop="20221117010000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Conexiones CDO</title>
     <category lang="es">Conexiones CDO</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-conexiones-cdo_l_m.jpg"/>
   </programme>
-  <programme start="20221117010000 +0100" stop="20221117020000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221117010000 -0100" stop="20221117020000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Metrópolis: Segundo tiempo</title>
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis: Segundo tiempo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis-segundo-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20221117020000 +0100" stop="20221117043000 +0100" channel="DEPORTES | CDO PREMIUM">
+  <programme start="20221117020000 -0100" stop="20221117043000 -0100" channel="DEPORTES | CDO PREMIUM">
     <title lang="es">Col. Los Leones vs. Mun. Pte. Alto</title>
     <desc lang="es">Retranmisión de los partidos de la competencia de básquet Copa Chile Mundo 2022. El evento reune a 30 equipos provenientes de la Primera División y de la División y el público podrá disfrutar de los encuentros más emocionantes.</desc>
     <category lang="es">Copa Chile Mundo 2022</category>
