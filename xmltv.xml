@@ -176,6 +176,38 @@
     <display-name lang="es">DEPORTES | MOVISTAR F1 HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png"/>
   </channel>
+  <channel id="DEPORTES | MOVISTAR GOLF HD">
+    <display-name lang="es">DEPORTES | MOVISTAR GOLF HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF+.png"/>
+  </channel>
+  <channel id="DEPORTES | MOVISTAR LA LIGA HD">
+    <display-name lang="es">DEPORTES | MOVISTAR LA LIGA HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png"/>
+  </channel>
+  <channel id="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <display-name lang="es">DEPORTES | MOVISTAR LA LIGA MULTI 1 HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png"/>
+  </channel>
+  <channel id="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <display-name lang="es">DEPORTES | MOVISTAR LIGA DE CAMPEONES</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png"/>
+  </channel>
+  <channel id="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <display-name lang="es">DEPORTES | MOVISTAR LIGA DE CAMPEONES HD</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png"/>
+  </channel>
+  <channel id="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <display-name lang="es">DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png"/>
+  </channel>
+  <channel id="DEPORTES | Real Madrid TV">
+    <display-name lang="es">DEPORTES | Real Madrid TV</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/REALM.png"/>
+  </channel>
+  <channel id="DEPORTES | TNT SPORTS">
+    <display-name lang="es">DEPORTES | TNT SPORTS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png"/>
+  </channel>
   <programme start="20221117011400 -0300" stop="20221117021400 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Generación NBA</title>
     <episode-num system="onscreen">E5</episode-num>
@@ -4970,5 +5002,1414 @@
     <star-rating>
       <value>4/5</value>
     </star-rating>
+  </programme>
+  <programme start="20221117024500 +0100" stop="20221117100000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">M+ Golf</title>
+    <desc lang="es">Jóvenes promesas y leyendas consolidadas se juntan de jueves a domingo con el objetivo de hacerse con una plaza para el DP World Tour Championship, torneo que otorga 3millones de dólares al ganador, el mayor cheque existente en un evento.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Golf</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4053233"/>
+  </programme>
+  <programme start="20221117100000 +0100" stop="20221117140000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">DP World Tour Championship Dubai. Jornada 1. Parte 2 (T21/22)</title>
+    <desc lang="es">Jóvenes promesas y leyendas consolidadas se juntan de jueves a domingo con el objetivo de hacerse con una plaza para el DP World Tour Championship, torneo que otorga 3millones de dólares al ganador, el mayor cheque existente en un evento.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Golf</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4053233"/>
+  </programme>
+  <programme start="20221117140000 +0100" stop="20221117145000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">Asian TourInternational Series Egypt</title>
+    <desc lang="es">Los jugadores más destacados del mundo afrontan el Asian Tour, que recorre los mejores campos de golf desde Tailandia y la India hasta Hong Kong en más de una veintena de torneos.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Golf</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3964897"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+  </programme>
+  <programme start="20221117145000 +0100" stop="20221117153000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">Locos por el golf</title>
+    <desc lang="es">Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3777941"/>
+    <episode-num system="xmltv_ns">2021.37.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117153000 +0100" stop="20221117180000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">PGA Tour (T22/23): The RSM Classic (V.O) Jornada 1. Parte 1</title>
+    <desc lang="es">Es el hábitat natural de las megaestrellas golfísticas: Tiger Woods, Dustin Johnson, Brooks Koepka o Rory McIlroy. Entre ellas, también se encuentra Rafa Cabrera, Sergio García y Jon Rahm.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Golf</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4049950"/>
+  </programme>
+  <programme start="20221117180000 +0100" stop="20221117220000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">PGA Tour (T22/23): The RSM Classic. Jornada 1. Parte 2</title>
+    <desc lang="es">Es el hábitat natural de las megaestrellas golfísticas: Tiger Woods, Dustin Johnson, Brooks Koepka o Rory McIlroy. Entre ellas, también se encuentra Rafa Cabrera, Sergio García y Jon Rahm.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Golf</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4049950"/>
+  </programme>
+  <programme start="20221117220000 +0100" stop="20221117223000 +0100" channel="DEPORTES | MOVISTAR GOLF HD">
+    <title lang="es">PGA Tour The Cut</title>
+    <desc lang="es">Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3814732"/>
+    <episode-num system="xmltv_ns">2021.45.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117054500 +0100" stop="20221117061000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga ZAP (T22/23): Episodio 1</title>
+    <desc lang="es">Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3993016"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117061000 +0100" stop="20221117080000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga Santander (T22/23): Villarreal-Elche</title>
+    <desc lang="es">LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027134"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117080000 +0100" stop="20221117083000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 15</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117083000 +0100" stop="20221117090000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga NationsSudáfrica</title>
+    <desc lang="es">En LaLiga participan jugadores de muchas nacionalidades distintas.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3825331"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117090000 +0100" stop="20221117105300 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">Partidos amistosos (T22/23): Betis - ColoColo (Concepción)</title>
+    <desc lang="es">Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4036315"/>
+  </programme>
+  <programme start="20221117105300 +0100" stop="20221117112100 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga NationsFrancia</title>
+    <desc lang="es">En LaLiga participan jugadores de muchas nacionalidades distintas.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3825331"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117112100 +0100" stop="20221117131100 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga Santander (T22/23): Athletic-Espanyol</title>
+    <desc lang="es">El equipo vasco ha iniciado la temporada en gran estado de forma y recibe con mucha moral a un Espanyol que debe mejorar sus resultados para escalar puestos en la clasificación.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027124"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117131100 +0100" stop="20221117134000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 1</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117134000 +0100" stop="20221117152400 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga Santander (T22/23): Celta-Cádiz</title>
+    <desc lang="es">LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027138"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117152400 +0100" stop="20221117155200 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">90 años de historiasHugo Sánchez</title>
+    <desc lang="es">Hugo Sánchez Márquez comparte con Leo Messi el honor de ser los dos únicos futbolistas con vida que han ganado cinco trofeos de máximo goleador del Campeonato. Los mismos que Di Stéfano y Quini y uno menos que el legendario Telmo Zarra, seis.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3806663"/>
+    <episode-num system="xmltv_ns">2018..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117155200 +0100" stop="20221117174600 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">Partidos amistosos (T22/23): Betis - ColoColo (Concepción)</title>
+    <desc lang="es">Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4036315"/>
+  </programme>
+  <programme start="20221117174600 +0100" stop="20221117184000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">Resumen LaLiga Santander (T22/23): Jornada 4</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4032982"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117184000 +0100" stop="20221117191000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 3</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117191000 +0100" stop="20221117194000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">Crónicas de LaLiga (T22/23): Episodio 3</title>
+    <desc lang="es">Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4029740"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117194000 +0100" stop="20221117201000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">90 años de historiasDiego Rodríguez</title>
+    <desc lang="es">Diego Rodríguez fue futbolista profesional desde 1977 en su Tenerife natal hasta 1998 cuando decidió dejar el Albacete Balompié para jugar en el Dos Hermanas. Defensa expeditivo y aguerrido jugó 6 años y 198 partidos con el Betis.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3806661"/>
+    <episode-num system="xmltv_ns">2018..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117201000 +0100" stop="20221117204000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga Fans (T22/23): Episodio 4</title>
+    <desc lang="es">Programa sobre los seguidores del fútbol español.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3993020"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117204000 +0100" stop="20221117214000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">Resumen LaLiga Santander (T22/23): Jornada 5</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4032982"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117214000 +0100" stop="20221117221000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga NationsFrancia</title>
+    <desc lang="es">En LaLiga participan jugadores de muchas nacionalidades distintas.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3825331"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117221000 +0100" stop="20221117224000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 15</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117224000 +0100" stop="20221117231000 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">90 años de historiasHugo Sánchez</title>
+    <desc lang="es">Hugo Sánchez Márquez comparte con Leo Messi el honor de ser los dos únicos futbolistas con vida que han ganado cinco trofeos de máximo goleador del Campeonato. Los mismos que Di Stéfano y Quini y uno menos que el legendario Telmo Zarra, seis.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3806663"/>
+    <episode-num system="xmltv_ns">2018..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117231000 +0100" stop="20221118010200 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">Partidos amistosos (T22/23): Betis - ColoColo (Concepción)</title>
+    <desc lang="es">Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4036315"/>
+  </programme>
+  <programme start="20221118010200 +0100" stop="20221118014100 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga Talking Football (T22/23): El delegado</title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MLIGBART2125878"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118014100 +0100" stop="20221118033200 +0100" channel="DEPORTES | MOVISTAR LA LIGA HD">
+    <title lang="es">LaLiga Santander (T22/23): Almería-Osasuna</title>
+    <desc lang="es">Osasuna ha firmado un inicio de temporada brillante y se codea con los equipos que ocupan la zona alta de la tabla. Los navarros desean continuar con la racha en su visita al Juegos del Mediterráneo. El Almería pretende hacer de su campo un fortín.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027154"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117054500 +0100" stop="20221117061000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga ZAP (T22/23): Episodio 1</title>
+    <desc lang="es">Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3993016"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117061000 +0100" stop="20221117080000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga Santander (T22/23): Villarreal-Elche</title>
+    <desc lang="es">LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027134"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117080000 +0100" stop="20221117083000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 15</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117083000 +0100" stop="20221117090000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga NationsSudáfrica</title>
+    <desc lang="es">En LaLiga participan jugadores de muchas nacionalidades distintas.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3825331"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117090000 +0100" stop="20221117105300 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">Partidos amistosos (T22/23): Betis - ColoColo (Concepción)</title>
+    <desc lang="es">Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4036315"/>
+  </programme>
+  <programme start="20221117105300 +0100" stop="20221117112100 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga NationsFrancia</title>
+    <desc lang="es">En LaLiga participan jugadores de muchas nacionalidades distintas.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3825331"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117112100 +0100" stop="20221117131100 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga Santander (T22/23): Athletic-Espanyol</title>
+    <desc lang="es">El equipo vasco ha iniciado la temporada en gran estado de forma y recibe con mucha moral a un Espanyol que debe mejorar sus resultados para escalar puestos en la clasificación.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027124"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117131100 +0100" stop="20221117134000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 1</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117134000 +0100" stop="20221117152400 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga Santander (T22/23): Celta-Cádiz</title>
+    <desc lang="es">LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027138"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117152400 +0100" stop="20221117155200 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">90 años de historiasHugo Sánchez</title>
+    <desc lang="es">Hugo Sánchez Márquez comparte con Leo Messi el honor de ser los dos únicos futbolistas con vida que han ganado cinco trofeos de máximo goleador del Campeonato. Los mismos que Di Stéfano y Quini y uno menos que el legendario Telmo Zarra, seis.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3806663"/>
+    <episode-num system="xmltv_ns">2018..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117155200 +0100" stop="20221117174600 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">Partidos amistosos (T22/23): Betis - ColoColo (Concepción)</title>
+    <desc lang="es">Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4036315"/>
+  </programme>
+  <programme start="20221117174600 +0100" stop="20221117184000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">Resumen LaLiga Santander (T22/23): Jornada 4</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4032982"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117184000 +0100" stop="20221117191000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 3</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117191000 +0100" stop="20221117194000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">Crónicas de LaLiga (T22/23): Episodio 3</title>
+    <desc lang="es">Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4029740"/>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117194000 +0100" stop="20221117201000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">90 años de historiasDiego Rodríguez</title>
+    <desc lang="es">Diego Rodríguez fue futbolista profesional desde 1977 en su Tenerife natal hasta 1998 cuando decidió dejar el Albacete Balompié para jugar en el Dos Hermanas. Defensa expeditivo y aguerrido jugó 6 años y 198 partidos con el Betis.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3806661"/>
+    <episode-num system="xmltv_ns">2018..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117201000 +0100" stop="20221117204000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga Fans (T22/23): Episodio 4</title>
+    <desc lang="es">Programa sobre los seguidores del fútbol español.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3993020"/>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117204000 +0100" stop="20221117214000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">Resumen LaLiga Santander (T22/23): Jornada 5</title>
+    <desc lang="es">Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga Santander centran la atención del programa.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4032982"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117214000 +0100" stop="20221117221000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga NationsFrancia</title>
+    <desc lang="es">En LaLiga participan jugadores de muchas nacionalidades distintas.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3825331"/>
+    <episode-num system="xmltv_ns">2021..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117221000 +0100" stop="20221117224000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga World (T22/23): Episodio 15</title>
+    <desc lang="es">La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3756781"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117224000 +0100" stop="20221117231000 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">90 años de historiasHugo Sánchez</title>
+    <desc lang="es">Hugo Sánchez Márquez comparte con Leo Messi el honor de ser los dos únicos futbolistas con vida que han ganado cinco trofeos de máximo goleador del Campeonato. Los mismos que Di Stéfano y Quini y uno menos que el legendario Telmo Zarra, seis.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3806663"/>
+    <episode-num system="xmltv_ns">2018..</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117231000 +0100" stop="20221118010200 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">Partidos amistosos (T22/23): Betis - ColoColo (Concepción)</title>
+    <desc lang="es">Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4036315"/>
+  </programme>
+  <programme start="20221118010200 +0100" stop="20221118014100 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga Talking Football (T22/23): El delegado</title>
+    <desc lang="es">Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MLIGBART2125878"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118014100 +0100" stop="20221118033200 +0100" channel="DEPORTES | MOVISTAR LA LIGA MULTI 1 HD">
+    <title lang="es">LaLiga Santander (T22/23): Almería-Osasuna</title>
+    <desc lang="es">Osasuna ha firmado un inicio de temporada brillante y se codea con los equipos que ocupan la zona alta de la tabla. Los navarros desean continuar con la racha en su visita al Juegos del Mediterráneo. El Almería pretende hacer de su campo un fortín.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4027154"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117044000 +0100" stop="20221117063000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Serie A Calcio (T22/23): Juventus-Lazio</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044056"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117063000 +0100" stop="20221117082000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Bundesliga (T22/23): Schalke-Bayern Múnich</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044266"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117082000 +0100" stop="20221117095000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">El tercer tiempo (T22/23): Episodio 10</title>
+    <desc lang="es">Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3945366"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117095000 +0100" stop="20221117114000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Serie A Calcio (T22/23): Atalanta-Inter</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044050"/>
+  </programme>
+  <programme start="20221117114000 +0100" stop="20221117121000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">W-Sport Football Weekly (T22/23): Episodio 6</title>
+    <desc lang="es">El fútbol femenino trata de hacerse hueco en un mundo que hasta ahora solo prestaba atención a las competiciones masculinas. Este espacio abre la ventana a los mejores torneos y jugadoras del planeta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1622228H2141480"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117121000 +0100" stop="20221117124000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117124000 +0100" stop="20221117143500 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Mollerussa - Rayo</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052159"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117143500 +0100" stop="20221117171000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Quintanar - Girona</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052161"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117171000 +0100" stop="20221117174000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117174000 +0100" stop="20221117184000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Resumen Bundesliga (T22/23): Jornada 15</title>
+    <desc lang="es">Las mejores jugadas de la última jornada de la Bundesliga. Goles, asistencias, paradas, polémica.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4033322"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117184000 +0100" stop="20221117203000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Serie A Calcio (T22/23): Roma-Torino</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044064"/>
+  </programme>
+  <programme start="20221117203000 +0100" stop="20221117210000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117210000 +0100" stop="20221117225500 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Fuentes - Osasuna</title>
+    <desc lang="es">Osasuna inicia su recorrido copero ante el C.D Fuentes, del municipio zaragozano de Fuentes de Ebro. Juega en Regional Preferente Grupo 3, eliminó en ronda previa al Amigó.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052147"/>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117225500 +0100" stop="20221118005000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Barbadás - Valladolid</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052149"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221118005000 +0100" stop="20221118015000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Magazine Europa League (T22/23): Episodio 7</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3760244"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118015000 +0100" stop="20221118022000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118022000 +0100" stop="20221118025000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Bundesliga Weekly (T22/23): Episodio 17</title>
+    <desc lang="es">Un repaso a toda la actualidad de la Bundesliga, la categoría reina del fútbol alemán. El campeonato de la regularidad germano se caracteriza por un juego ofensivo y sin concesiones y son habituales las goleadas en muchos de sus partidos.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1626099H2146416"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118025000 +0100" stop="20221118044000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES">
+    <title lang="es">Bundesliga (T22/23): Bayer Leverkusen-Stuttgart</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044252"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117044000 +0100" stop="20221117063000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Serie A Calcio (T22/23): Juventus-Lazio</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044056"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117063000 +0100" stop="20221117082000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Bundesliga (T22/23): Schalke-Bayern Múnich</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044266"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117082000 +0100" stop="20221117095000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">El tercer tiempo (T22/23): Episodio 10</title>
+    <desc lang="es">Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3945366"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117095000 +0100" stop="20221117114000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Serie A Calcio (T22/23): Atalanta-Inter</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044050"/>
+  </programme>
+  <programme start="20221117114000 +0100" stop="20221117121000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">W-Sport Football Weekly (T22/23): Episodio 6</title>
+    <desc lang="es">El fútbol femenino trata de hacerse hueco en un mundo que hasta ahora solo prestaba atención a las competiciones masculinas. Este espacio abre la ventana a los mejores torneos y jugadoras del planeta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1622228H2141480"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117121000 +0100" stop="20221117124000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117124000 +0100" stop="20221117143500 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Copa del Rey (T22/23): Mollerussa - Rayo</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052159"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117143500 +0100" stop="20221117171000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Copa del Rey (T22/23): Quintanar - Girona</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052161"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117171000 +0100" stop="20221117174000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117174000 +0100" stop="20221117184000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Resumen Bundesliga (T22/23): Jornada 15</title>
+    <desc lang="es">Las mejores jugadas de la última jornada de la Bundesliga. Goles, asistencias, paradas, polémica.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4033322"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117184000 +0100" stop="20221117203000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Serie A Calcio (T22/23): Roma-Torino</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044064"/>
+  </programme>
+  <programme start="20221117203000 +0100" stop="20221117210000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117210000 +0100" stop="20221117225500 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Copa del Rey (T22/23): Fuentes - Osasuna</title>
+    <desc lang="es">Osasuna inicia su recorrido copero ante el C.D Fuentes, del municipio zaragozano de Fuentes de Ebro. Juega en Regional Preferente Grupo 3, eliminó en ronda previa al Amigó.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052147"/>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117225500 +0100" stop="20221118005000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Copa del Rey (T22/23): Barbadás - Valladolid</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052149"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221118005000 +0100" stop="20221118015000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Magazine Europa League (T22/23): Episodio 7</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3760244"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118015000 +0100" stop="20221118022000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118022000 +0100" stop="20221118025000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Bundesliga Weekly (T22/23): Episodio 17</title>
+    <desc lang="es">Un repaso a toda la actualidad de la Bundesliga, la categoría reina del fútbol alemán. El campeonato de la regularidad germano se caracteriza por un juego ofensivo y sin concesiones y son habituales las goleadas en muchos de sus partidos.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1626099H2146416"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118025000 +0100" stop="20221118044000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD">
+    <title lang="es">Bundesliga (T22/23): Bayer Leverkusen-Stuttgart</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044252"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117044000 +0100" stop="20221117063000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Serie A Calcio (T22/23): Juventus-Lazio</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044056"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117063000 +0100" stop="20221117082000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Bundesliga (T22/23): Schalke-Bayern Múnich</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044266"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117082000 +0100" stop="20221117095000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">El tercer tiempo (T22/23): Episodio 10</title>
+    <desc lang="es">Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3945366"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117095000 +0100" stop="20221117114000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Serie A Calcio (T22/23): Atalanta-Inter</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044050"/>
+  </programme>
+  <programme start="20221117114000 +0100" stop="20221117121000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">W-Sport Football Weekly (T22/23): Episodio 6</title>
+    <desc lang="es">El fútbol femenino trata de hacerse hueco en un mundo que hasta ahora solo prestaba atención a las competiciones masculinas. Este espacio abre la ventana a los mejores torneos y jugadoras del planeta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1622228H2141480"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117121000 +0100" stop="20221117124000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117124000 +0100" stop="20221117143500 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Copa del Rey (T22/23): Mollerussa - Rayo</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052159"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117143500 +0100" stop="20221117171000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Copa del Rey (T22/23): Quintanar - Girona</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052161"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117171000 +0100" stop="20221117174000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117174000 +0100" stop="20221117184000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Resumen Bundesliga (T22/23): Jornada 15</title>
+    <desc lang="es">Las mejores jugadas de la última jornada de la Bundesliga. Goles, asistencias, paradas, polémica.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4033322"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117184000 +0100" stop="20221117203000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Serie A Calcio (T22/23): Roma-Torino</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044064"/>
+  </programme>
+  <programme start="20221117203000 +0100" stop="20221117210000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117210000 +0100" stop="20221117225500 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Copa del Rey (T22/23): Fuentes - Osasuna</title>
+    <desc lang="es">Osasuna inicia su recorrido copero ante el C.D Fuentes, del municipio zaragozano de Fuentes de Ebro. Juega en Regional Preferente Grupo 3, eliminó en ronda previa al Amigó.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052147"/>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117225500 +0100" stop="20221118005000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Copa del Rey (T22/23): Barbadás - Valladolid</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052149"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221118005000 +0100" stop="20221118015000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Magazine Europa League (T22/23): Episodio 7</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3760244"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118015000 +0100" stop="20221118022000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118022000 +0100" stop="20221118025000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Bundesliga Weekly (T22/23): Episodio 17</title>
+    <desc lang="es">Un repaso a toda la actualidad de la Bundesliga, la categoría reina del fútbol alemán. El campeonato de la regularidad germano se caracteriza por un juego ofensivo y sin concesiones y son habituales las goleadas en muchos de sus partidos.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1626099H2146416"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118025000 +0100" stop="20221118044000 +0100" channel="DEPORTES | MOVISTAR LIGA DE CAMPEONES HD 2">
+    <title lang="es">Bundesliga (T22/23): Bayer Leverkusen-Stuttgart</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044252"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117054500 +0100" stop="20221117061500 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Madridistas por el mundo: Río de Janeiro</title>
+    <desc lang="es">Guía de viajes para descubrir las costumbres, los monumentos, la historia y la gastronomía de cada ciudad, de la mano de madridistas que residen en el lugar.</desc>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Viajes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1455900"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117061500 +0100" stop="20221117080000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">LaLiga Santander (T22/23): Real Madrid - Cádiz</title>
+    <desc lang="es">El Real Madrid encara el último encuentro antes del parón del Mundial con la intención de despedirse con buen sabor de boca. Tras la derrota en Vallecas y el triunfo del Barcelona en Pamplona, los de Ancelotti se miden al Cádiz.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT2099283"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117080000 +0100" stop="20221117081500 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Aprende inglés con Vaughan en Realmadrid TV</title>
+    <desc lang="es">Programa que ofrece a los espectadores la oportunidad de aprender inglés de la mano del profesor Richard Vaughan. El espacio pretende introducir al público de lleno en el idioma, tanto desde el punto de vista gramatical como desde el analítico.</desc>
+    <category lang="es">Cultural</category>
+    <category lang="es">Educativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1598547"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117081500 +0100" stop="20221117095000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Historia que tú hiciste: La Quinta: Real Madrid-Eintracht de Frankfurt</title>
+    <desc lang="es">Espacio dedicado a recordar los partidos más memorables y espectaculares de la historia del Real Madrid. Títulos, grandes remontadas, épicas victorias, el debut de leyendas y algunos de sus protagonistas se dan cita en el programa.</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1409388"/>
+    <episode-num system="xmltv_ns">.134.</episode-num>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117095000 +0100" stop="20221117114000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">LaLiga Santander (T22/23): Celta-Real Madrid</title>
+    <desc lang="es">El campeón de liga visita Balaídos con la intención de sumar tres nuevos puntos. Tras remontar en Almería, el equipo de Ancelotti se enfrenta a un Celta que cosechó un empate a 2 en su estreno liguero.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT2099420"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117114000 +0100" stop="20221117115000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Karim Benzema, Balón de Oro 2022</title>
+    <desc lang="es">El capitán del Real Madrid fue reconocido como el mejor futbolista de 2022 y recibió en París el Balón de Oro por su excelente año de trabajo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT2147060"/>
+  </programme>
+  <programme start="20221117115000 +0100" stop="20221117143000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">UEFA Champions League (T21/22): Real Madrid-Chelsea</title>
+    <desc lang="es">El 1-3 de Stamford Bridge encarriló el pase a semifinales del Real Madrid, pero todavía queda trabajo para completar la faena. Los de Carlo Ancelotti deben administrar bien la renta ante su público del Bernabéu. El Chelsea no cederá la corona sin luchar.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1927485"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117143000 +0100" stop="20221117150000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Conecta Informativo</title>
+    <desc lang="es">Un profundo repaso a la actualidad que ha generado el Real Madrid en las últimas horas.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1860676"/>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117150000 +0100" stop="20221117154000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Ciudad Real Madrid</title>
+    <desc lang="es">Incluye los partidos de la fábrica en directo y toda la actualidad del Real Madrid: Primer equipo, baloncesto y cantera. Con la última hora de la Liga española y las principales ligas internacionales.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1129090"/>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117154000 +0100" stop="20221117173500 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Asalto al Banco Central</title>
+    <desc lang="es">El 23 de mayo de 1981 se produjo el famoso asalto al Banco Central en la céntrica Plaza Catalunya de Barcelona, en el que estuvieron implicados un locutor de televisión, el director de un periódico y un diputado.</desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT212190"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117173500 +0100" stop="20221117193000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">UEFA Champions League (T22/23): Real Madrid-Shakhtar</title>
+    <desc lang="es">El Real Madrid dará un paso de gigante hacia las eliminatorias si consigue derrotar al segundo clasificado del grupo, el Shakhtar. Los blancos confían en recuperar la senda del triunfo tras sufrir el primer desliz de la temporada ante Osasuna.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT2112875"/>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117193000 +0100" stop="20221117213000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Real Madrid Conecta</title>
+    <desc lang="es">Programa que repasa la actualidad y la última hora blanca a través de entrevistas y debates con leyendas del fútbol y el baloncesto del equipo madridista.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT2120252"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117213000 +0100" stop="20221117231500 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">El guerrero americano</title>
+    <desc lang="es">En Filipinas, un militar americano experto en operaciones militares descubre una trama conspiratoria que implica al ejército.</desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT280626"/>
+    <rating system="ICAA">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg"/>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117231500 +0100" stop="20221118010500 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Beckett, la última misión</title>
+    <desc lang="es">Beckett, francotirador del ejército de EE.UU., comienza una misión en los Balcanes sin saber que sus superiores lo han engañado.</desc>
+    <category lang="es">Telefilme</category>
+    <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT379225"/>
+    <rating system="ICAA">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg"/>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221118010500 +0100" stop="20221118030000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">UEFA Champions League (T17/18): Real Madrid-Liverpool</title>
+    <desc lang="es">El Real Madrid de Zidane agrandaba su leyenda en la final de la Champions League en Kiev, imponiéndose al Liverpool por 3-1. El conjunto blanco hacía historia logrando su decimotercera Champions, la tercera de forma consecutiva.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT1426328"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221118030000 +0100" stop="20221118052000 +0100" channel="DEPORTES | Real Madrid TV">
+    <title lang="es">Supercopa Endesa (T22/23): Real Madrid - Barça. Final</title>
+    <desc lang="es">La Supercopa Endesa 2022 se celebra, en esta edición, en Sevilla. Real Madrid, Barça, Joventut Badalona y Coosur Real Betis luchan por el primer título de la temporada en el Palacio Municipal de Deportes San Pablo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/MREALMT2125130"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117010000 -0300" stop="20221117013000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Sala Mundial</title>
+  </programme>
+  <programme start="20221117013000 -0300" stop="20221117033000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221117033000 -0300" stop="20221117040000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Potreros de América</title>
+  </programme>
+  <programme start="20221117040000 -0300" stop="20221117060000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Fútbol argentino Primera División</title>
+    <sub-title lang="es">2021: River vs. San Lorenzo</sub-title>
+  </programme>
+  <programme start="20221117060000 -0300" stop="20221117080000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221117080000 -0300" stop="20221117100000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Fútbol argentino Primera División</title>
+    <sub-title lang="es">Unión (SF) vs. River</sub-title>
+  </programme>
+  <programme start="20221117100000 -0300" stop="20221117103000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221117103000 -0300" stop="20221117110000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Todo sobre Diego</title>
+  </programme>
+  <programme start="20221117110000 -0300" stop="20221117130000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221117130000 -0300" stop="20221117133000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Sala Mundial</title>
+  </programme>
+  <programme start="20221117133000 -0300" stop="20221117140000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Vino para quedarse</title>
+  </programme>
+  <programme start="20221117140000 -0300" stop="20221117150000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221117150000 -0300" stop="20221117170000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Fútbol argentino Primera División</title>
+    <sub-title lang="es">2017-2018: Boca vs. Racing</sub-title>
+  </programme>
+  <programme start="20221117170000 -0300" stop="20221117180000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Recuerdos de Selección</title>
+  </programme>
+  <programme start="20221117180000 -0300" stop="20221117183000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">¿Te acordás de mí?</title>
+  </programme>
+  <programme start="20221117183000 -0300" stop="20221117190000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">Sala Mundial</title>
+  </programme>
+  <programme start="20221117190000 -0300" stop="20221117210000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">TNT Sports Mundial</title>
+  </programme>
+  <programme start="20221117210000 -0300" stop="20221117230000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">TNT Sports Mundial Radio</title>
+  </programme>
+  <programme start="20221117230000 -0300" stop="20221118010000 -0300" channel="DEPORTES | TNT SPORTS">
+    <title lang="es">TNT Sports Mundial Radio</title>
   </programme>
 </tv>
