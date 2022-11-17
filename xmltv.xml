@@ -164,6 +164,10 @@
     <display-name lang="es">DEPORTES | LA LIGA TV BAR</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png"/>
   </channel>
+  <channel id="DEPORTES | M. LIGA DE CAMPEONES">
+    <display-name lang="es">DEPORTES | M. LIGA DE CAMPEONES</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png"/>
+  </channel>
   <programme start="20221117011400 -0300" stop="20221117021400 -0300" channel="DEPORTES | #VAMOS HD">
     <title lang="es">Generación NBA</title>
     <episode-num system="onscreen">E5</episode-num>
@@ -4372,5 +4376,197 @@
       <value>APTA</value>
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
     </rating>
+  </programme>
+  <programme start="20221117044000 +0100" stop="20221117063000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Serie A Calcio (T22/23): Juventus-Lazio</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044056"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117063000 +0100" stop="20221117082000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Bundesliga (T22/23): Schalke-Bayern Múnich</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044266"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117082000 +0100" stop="20221117095000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">El tercer tiempo (T22/23): Episodio 10</title>
+    <desc lang="es">Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3945366"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117095000 +0100" stop="20221117114000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Serie A Calcio (T22/23): Atalanta-Inter</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044050"/>
+  </programme>
+  <programme start="20221117114000 +0100" stop="20221117121000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">W-Sport Football Weekly (T22/23): Episodio 6</title>
+    <desc lang="es">El fútbol femenino trata de hacerse hueco en un mundo que hasta ahora solo prestaba atención a las competiciones masculinas. Este espacio abre la ventana a los mejores torneos y jugadoras del planeta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1622228H2141480"/>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117121000 +0100" stop="20221117124000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117124000 +0100" stop="20221117143500 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Mollerussa - Rayo</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052159"/>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117143500 +0100" stop="20221117171000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Quintanar - Girona</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052161"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117171000 +0100" stop="20221117174000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117174000 +0100" stop="20221117184000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Resumen Bundesliga (T22/23): Jornada 15</title>
+    <desc lang="es">Las mejores jugadas de la última jornada de la Bundesliga. Goles, asistencias, paradas, polémica.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4033322"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117184000 +0100" stop="20221117203000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Serie A Calcio (T22/23): Roma-Torino</title>
+    <desc lang="es">La liga italiana es sinónimo de competitividad. El torneo de la regularidad del país transalpino cuenta con grandes e históricos equipos: Juventus, Roma, Nápoles, Milan, Lazio o Inter. Todos dispuestos a hacerse con el título de campeón.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044064"/>
+  </programme>
+  <programme start="20221117203000 +0100" stop="20221117210000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Goal! The Bundesliga Magazine (T22/23): Football Made In Germany</title>
+    <desc lang="es">Alemania es una fuente constante de talento, que le ha servido para conseguir grandes éxitos en los mundiales y bordar cuatro estrellas de campeona en su camiseta.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4054276"/>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221117210000 +0100" stop="20221117225500 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Fuentes - Osasuna</title>
+    <desc lang="es">Osasuna inicia su recorrido copero ante el C.D Fuentes, del municipio zaragozano de Fuentes de Ebro. Juega en Regional Preferente Grupo 3, eliminó en ronda previa al Amigó.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052147"/>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221117225500 +0100" stop="20221118005000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Copa del Rey (T22/23): Barbadás - Valladolid</title>
+    <desc lang="es">La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (23) y el Real Madrid (19). El Betis defiende corona.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol español</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4052149"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20221118005000 +0100" stop="20221118015000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Magazine Europa League (T22/23): Episodio 7</title>
+    <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3760244"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118015000 +0100" stop="20221118022000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Magazine Champions League (T22/23): Episodio 12</title>
+    <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F3759788"/>
+    <episode-num system="xmltv_ns">.11.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118022000 +0100" stop="20221118025000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Bundesliga Weekly (T22/23): Episodio 17</title>
+    <desc lang="es">Un repaso a toda la actualidad de la Bundesliga, la categoría reina del fútbol alemán. El campeonato de la regularidad germano se caracteriza por un juego ofensivo y sin concesiones y son habituales las goleadas en muchos de sus partidos.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/M1626099H2146416"/>
+    <episode-num system="xmltv_ns">.16.</episode-num>
+    <rating system="ICAA">
+      <value>APTA</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg"/>
+    </rating>
+  </programme>
+  <programme start="20221118025000 +0100" stop="20221118044000 +0100" channel="DEPORTES | M. LIGA DE CAMPEONES">
+    <title lang="es">Bundesliga (T22/23): Bayer Leverkusen-Stuttgart</title>
+    <desc lang="es">La Bundesliga, uno de los campeonatos más atractivos del calendario de fútbol internacional, disputa su 59ª edición en esta temporada 22/23.</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol internacional</category>
+    <icon src="https://www.movistarplus.es/recorte/n/fichaGuia/F4044252"/>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
   </programme>
 </tv>
