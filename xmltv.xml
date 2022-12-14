@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  <channel id="US_HD: Showtime West HD_1080PSHO">
-    <display-name lang="en">US_HD: Showtime West HD_1080P</display-name>
+  <channel id="US_HD:Showtime West HD_1080P">
+    <display-name lang="en">US_HD:Showtime West HD_1080P</display-name>
   </channel>
   <channel id="US_2:Showtime 2">
     <display-name lang="en">US_2:Showtime 2</display-name>
@@ -9,13 +9,13 @@
   <channel id="US_2:Showtime Showcase">
     <display-name lang="en">US_2:Showtime Showcase</display-name>
   </channel>
-  <channel id="US_2:Showtime SHO">
+  <channel id="US_2:Showtime Next">
     <display-name lang="en">US_2:Showtime Next</display-name>
   </channel>
-  <channel id="US_2:Showtime ExtremeSHO">
+  <channel id="US_2:Showtime Extreme">
     <display-name lang="en">US_2:Showtime Extreme</display-name>
   </channel>
-  <programme start="20221213222500 +0000" stop="20221214004500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221213222500 +0000" stop="20221214004500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Stillwater</title>
     <desc lang="en">Humble family man Bill Baker contends with the unthinkable when his daughter calls him from a French prison, revealing that she has been charged with murder. Determined to prove his daughter's innocence to the French courts and secure her freedom he embarks on an odyssey from rural Oklahoma to France driven by paternal instinct.</desc>
     <date>2021</date>
@@ -27,7 +27,7 @@
       <value>60/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214004500 +0000" stop="20221214023500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214004500 +0000" stop="20221214023500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">The Circle</title>
     <desc lang="en">A young woman lands a job at a social-media company that preaches the value of complete transparency and inspires a cult-like devotion in its employees. However, she learns that they're hiding a nefarious agenda in this timely and unnerving thriller.</desc>
     <date>2017</date>
@@ -41,7 +41,7 @@
       <value>43/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214023500 +0000" stop="20221214042500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214023500 +0000" stop="20221214042500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Margaux</title>
     <desc lang="en">Eager for a weekend getaway of parties and relaxation, a group of twentysomethings rents a smart home vacation rental. Yet the home's sophisticated artificial intelligence programming system soon takes control, forcing the friends to fight their way out or face their end.</desc>
     <date>2022</date>
@@ -51,7 +51,7 @@
     <keyword lang="en">margaux</keyword>
     <previously-shown start="20221205000000"/>
   </programme>
-  <programme start="20221214042500 +0000" stop="20221214060000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214042500 +0000" stop="20221214060000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Jerry &amp; Marge Go Large</title>
     <desc lang="en">Jerry Selbee stumbles upon a mathematical hole in the Massachusetts lottery and recruits his wife, Marge, to help him secure the hefty cash prize.</desc>
     <date>2022</date>
@@ -65,7 +65,7 @@
       <value>52/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214060000 +0000" stop="20221214070000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214060000 +0000" stop="20221214070000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">George &amp; Tammy</title>
     <sub-title lang="en">Stand By Your Man</sub-title>
     <desc lang="en">Running away together isn't as easy as George and Tammy imagined.</desc>
@@ -74,7 +74,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221214070000 +0000" stop="20221214080000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214070000 +0000" stop="20221214080000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">The L Word: Generation Q</title>
     <sub-title lang="en">Last to Know</sub-title>
     <desc lang="en">In a special Halloween episode, Micah finds a queer role model with a familiar face, while a new face comes to town and helps Dani and Sophie break out of their funk. Meanwhile, Alice tests the waters of her new relationship, until scary movie night becomes a little too scary. Shocking truths come to light when the masks come off.</desc>
@@ -93,7 +93,7 @@
       <value>60/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214080000 +0000" stop="20221214094500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214080000 +0000" stop="20221214094500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Wifelike</title>
     <desc lang="en">An artificially intelligent being named Meredith receives her latest assignment as a companion to widower William. An anti-android exploitation advocacy group alters Meredith's programming and she starts remembering a past life she never knew she had. What follows is a deep dive into the nature of reality, existence, and what it means to be truly human.</desc>
     <date>2022</date>
@@ -102,7 +102,7 @@
     <keyword lang="en">wifelike</keyword>
     <previously-shown start="20221203000000"/>
   </programme>
-  <programme start="20221214094500 +0000" stop="20221214101500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214094500 +0000" stop="20221214101500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Ziwe</title>
     <sub-title lang="en">Diversity Training</sub-title>
     <desc lang="en">Ziwe explores the triumphs and failures of diversity in the workplace with Amber Riley and sends a writer to host an iconic diversity training with a group of opinionated employees. Featuring iconic guests Josh Sharp, Marie Faustin, Michelle Davis, and Ike Ufomadu.</desc>
@@ -123,7 +123,7 @@
       <value>69/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214101500 +0000" stop="20221214114500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214101500 +0000" stop="20221214114500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">National Lampoon's Dirty Movie</title>
     <desc lang="en">A washed up CEO teams up with a producer to create what they hope will be the wildest comedy movie ever.</desc>
     <date>2011</date>
@@ -132,7 +132,7 @@
     <keyword lang="en">national-lampoons-dirty-movie</keyword>
     <previously-shown start="20150311000000"/>
   </programme>
-  <programme start="20221214114500 +0000" stop="20221214124500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214114500 +0000" stop="20221214124500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Best of All the Smoke with Matt Barnes and Stephen Jackson</title>
     <sub-title lang="en">2 Chainz</sub-title>
     <date>2022</date>
@@ -151,7 +151,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221214124500 +0000" stop="20221214143000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214124500 +0000" stop="20221214143000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">McEnroe</title>
     <desc lang="en">The story of a legend told by the legend himself: John McEnroe. Nobody embodied the rockstar era of tennis more than John McEnroe. The original bad boy of the sport, McEnroe was famous not only for his epic matches, but also for his confrontations on and off the court. Accompanied by interviews with icons like Patty Smyth, Keith Richards, Billie Jean King, and Bjorn Borg, the legendary tennis ace gives an unflinching account of his triumphs, struggles, friendships, and rivalries.</desc>
     <date>2022</date>
@@ -167,7 +167,7 @@
       <value>67/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214143000 +0000" stop="20221214161500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214143000 +0000" stop="20221214161500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Last Vegas</title>
     <desc lang="en">Four geriatric friends head to Las Vegas for a bachelor party that recaptures the magic of their glory days in this outrageous all-star comedy.</desc>
     <date>2013</date>
@@ -185,7 +185,7 @@
       <value>48/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214161500 +0000" stop="20221214180000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214161500 +0000" stop="20221214180000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Snake Eyes</title>
     <desc lang="en">Nicolas Cage stars in this highly stylized 1998 thriller directed by Brain De Palma. Cage plays a crooked cop investigating the assassination of the Secretary of Defense, who was shot at a championship boxing match in Atlantic City. As the investigation proceeds, he is forced to realizes that one of his closest friends (Gary Sinise), a Navy commander, may have been involved.</desc>
     <date>1998</date>
@@ -204,7 +204,7 @@
       <value>52/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214180000 +0000" stop="20221214200000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214180000 +0000" stop="20221214200000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Blown Away</title>
     <desc lang="en">A Boston demolition expert is the target of a former colleague, a prison escapee from Ireland aiming to settle a score.</desc>
     <date>1994</date>
@@ -219,7 +219,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221214200000 +0000" stop="20221214214500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214200000 +0000" stop="20221214214500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Kiss Kiss Bang Bang</title>
     <desc lang="en">Writer-director Shane Black (who wrote "Lethal Weapon") puts a killer spin on this slam-bang salute to old-school noir detective yarns. Robert Downey Jr. and Val Kilmer are superb as a hapless hood and a gay PI looking into a mysterious death involving the sister of Downey's high-school crush (Michelle Monaghan). This is Black's directorial debut, and he tips his hat to pulp master Raymond Chandler by naming each chapter of the film after a Chandler book title.</desc>
     <date>2005</date>
@@ -240,7 +240,7 @@
       <value>72/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214214500 +0000" stop="20221214233000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214214500 +0000" stop="20221214233000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Confess, Fletch</title>
     <desc lang="en">Confess, Fletch is a reboot of the classic crime-comedy film. This time, Fletch becomes the main suspect in a series of murders while investigating thieves that stole his girlfriend's art collection. To exonerate himself, Fletch begins his own investigation into the murders and discovers a lot of people could be the guilty party, including his art collecting girlfriend.</desc>
     <date>2022</date>
@@ -253,7 +253,7 @@
       <value>64/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214233000 +0000" stop="20221215020000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221214233000 +0000" stop="20221215020000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Everything Everywhere All at Once</title>
     <desc lang="en">Grappling with the onset of middle age, a Chinese immigrant discovers that she can traverse across time and space. Teaming up with her alternate lives, the unlikely allies realize that they alone possess the power to protect the world from calamity, plunging them into the midst of an outlandish quest.</desc>
     <date>2022</date>
@@ -267,7 +267,7 @@
       <value>81/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215020000 +0000" stop="20221215040000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215020000 +0000" stop="20221215040000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Contagion</title>
     <desc lang="en">In this intense ensemble thriller about a virus that quickly becomes a global pandemic, a husband (Matt Damon) copes with the sudden death of his wife, while a doctor (Kate Winslet) puts herself at risk to find a cure and an activist blogger (Jude Law) stokes society's paranoia. Directed by Steven Soderbergh.</desc>
     <date>2011</date>
@@ -284,7 +284,7 @@
       <value>70/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215040000 +0000" stop="20221215050000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215040000 +0000" stop="20221215050000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">George &amp; Tammy</title>
     <sub-title lang="en">Stand By Your Man</sub-title>
     <desc lang="en">Running away together isn't as easy as George and Tammy imagined.</desc>
@@ -293,7 +293,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215050000 +0000" stop="20221215073500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215050000 +0000" stop="20221215073500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Boogie Nights</title>
     <desc lang="en">Exploration of the adult-film industry in the '70s and early '80s, about the rags-to-riches career of a naive teen who's transformed into a star by a wily producer.</desc>
     <date>1997</date>
@@ -311,7 +311,7 @@
       <value>85/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215073500 +0000" stop="20221215083500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215073500 +0000" stop="20221215083500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">George &amp; Tammy</title>
     <sub-title lang="en">Stand By Your Man</sub-title>
     <desc lang="en">Running away together isn't as easy as George and Tammy imagined.</desc>
@@ -320,7 +320,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215083500 +0000" stop="20221215093500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215083500 +0000" stop="20221215093500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Let the Right One In</title>
     <sub-title lang="en">What's Done in the Dark</sub-title>
     <desc lang="en">Mark and Eleanor turn to Claire and Peter for help, but soon realize they may have a plan of their own. Meanwhile, Naomi and her new partner, Debra, make strides in their case, and Naomi uncovers a huge secret.</desc>
@@ -340,7 +340,7 @@
       <value>63/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215093500 +0000" stop="20221215120000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215093500 +0000" stop="20221215120000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Everything Everywhere All at Once</title>
     <desc lang="en">Grappling with the onset of middle age, a Chinese immigrant discovers that she can traverse across time and space. Teaming up with her alternate lives, the unlikely allies realize that they alone possess the power to protect the world from calamity, plunging them into the midst of an outlandish quest.</desc>
     <date>2022</date>
@@ -354,7 +354,7 @@
       <value>81/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215120000 +0000" stop="20221215133000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215120000 +0000" stop="20221215133000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">The Naked Gun: From the Files of Police Squad!</title>
     <desc lang="en">Wildly inept L.A. cop Frank Drebin tries to foil a plot to assassinate Queen Elizabeth II. Inspired by the 1982 TV series, itself a spoof of detective stories.</desc>
     <date>1988</date>
@@ -375,7 +375,7 @@
       <value>76/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215133000 +0000" stop="20221215150000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215133000 +0000" stop="20221215150000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">The Naked Gun 2 1/2: The Smell of Fear</title>
     <desc lang="en">Inept police lieutenant Frank Drebin is back at it in this sequel. While at a White House reception honoring him for shooting his 1000th drug dealer, Drebin becomes tied up in a conspiracy to replace President George Bush's energy advisor with a clone who will support the agenda of evil energy lobbyists.</desc>
     <date>1991</date>
@@ -393,7 +393,7 @@
       <value>65/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215150000 +0000" stop="20221215163000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215150000 +0000" stop="20221215163000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Bill and Ted's Excellent Adventure</title>
     <desc lang="en">Two dim best friends who dream of being famous rock stars time-travel in order to bring ancient figures to modern times so that they can pass a history class and graduate. If they fail, one of them will be forced to join the military.</desc>
     <date>1989</date>
@@ -402,7 +402,7 @@
     <category lang="en">Sci-Fi</category>
     <category lang="en">Movie</category>
     <keyword lang="en">bill-and-teds-excellent-adventure</keyword>
-    <previously-shown start="20100106000000"/>
+    <previously-shown start="19890217000000"/>
     <rating system="TVPG">
       <value>TV-PG</value>
     </rating>
@@ -410,7 +410,7 @@
       <value>50/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215163000 +0000" stop="20221215180500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215163000 +0000" stop="20221215180500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Bill &amp; Ted's Bogus Journey</title>
     <desc lang="en">Bill and Ted's lyrics create a utopian future, so a tyrant sends evil robot versions of the simple-minded heroes back in time to kill them. Bill and Ted end up in the afterlife, and must outsmart the Grim Reaper in order to return to the land of the living to stop their evil counterparts and save their girlfriends.</desc>
     <date>1991</date>
@@ -427,7 +427,7 @@
       <value>60/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215180500 +0000" stop="20221215193000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215180500 +0000" stop="20221215193000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">NYC Point Gods</title>
     <desc lang="en">Against the backdrop of New York City's epidemic of drugs and crime in the 1980s and 1990s, a unique style of basketball emerged on the city's courts, defined by toughness, talent and swagger.</desc>
     <date>2021</date>
@@ -439,7 +439,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215193000 +0000" stop="20221215210500 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215193000 +0000" stop="20221215210500 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Teen Wolf</title>
     <desc lang="en">A misfit, picked-on teen's life turns around when he discovers he's descendant from a line of werewolves. By unleashing his inner beast, he becomes a basketball star, and works up the courage to try and win his dream girl away from her unpleasant boyfriend.</desc>
     <date>1985</date>
@@ -457,7 +457,7 @@
       <value>25/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215210500 +0000" stop="20221215230000 +0000" channel="US_HD: Showtime West HD_1080PSHO">
+  <programme start="20221215210500 +0000" stop="20221215230000 +0000" channel="US_HD:Showtime West HD_1080P">
     <title lang="en">Major League</title>
     <desc lang="en">Misfits try to lift the Cleveland Indians out of a 34-year slump.</desc>
     <date>1989</date>
@@ -1359,7 +1359,7 @@
       <value>58/100</value>
     </star-rating>
   </programme>
-  <programme start="20221213220000 +0000" stop="20221214000000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221213220000 +0000" stop="20221214000000 +0000" channel="US_2:Showtime Next">
     <title lang="en">The Lighthouse</title>
     <desc lang="en">In the midst of a bracing storm, two lighthouse keepers fight to maintain their sanity while stranded on a strange and isolated New England island in the 1890s. But as the storm continues, the two men are forced to confront their true nature.</desc>
     <date>2019</date>
@@ -1375,7 +1375,7 @@
       <value>83/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214000000 +0000" stop="20221214014500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214000000 +0000" stop="20221214014500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Givers of Death</title>
     <desc lang="en">The tale unfolds from three points of view; a man, a detective, and a city in ruin, all dealing with traumas that argue against peace. At the same time, all three desperately seek it, although the means and the final goals vary. It is a tale of revenge, atonement, and resolution, where the players all want one thing: redemption.</desc>
     <date>2020</date>
@@ -1384,7 +1384,7 @@
     <keyword lang="en">givers-of-death</keyword>
     <previously-shown start="20220805000000"/>
   </programme>
-  <programme start="20221214014500 +0000" stop="20221214034500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214014500 +0000" stop="20221214034500 +0000" channel="US_2:Showtime Next">
     <title lang="en">The Host</title>
     <desc lang="en">This Korean take on the "Godzilla" legend is an alternately spine-tingling and rib-tickling creature feature about a dysfunctional Korean family trying to rescue their prized daughter (Ko Ah-sung), who's been snatched by a mutant monster and taken to its lair. Song Kang-ho, Bae Doo-na. Directed by Bong Joon-ho, who co-wrote the script with Baek Chul-hyun.</desc>
     <date>2006</date>
@@ -1401,7 +1401,7 @@
       <value>85/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214034500 +0000" stop="20221214053500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214034500 +0000" stop="20221214053500 +0000" channel="US_2:Showtime Next">
     <title lang="en">X</title>
     <desc lang="en">In the 1970s, an adult film crew goes to a remote Texas farm to shoot a film. The elderly couple they are renting from is unaware of what the crew intends for their property. But they do take an unusual interest in the young team. When the couple discovers the real intention of the youngsters, a night of profit-making passion turns to terror as they fight for their lives against their enraged hosts.</desc>
     <date>2022</date>
@@ -1415,7 +1415,7 @@
       <value>79/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214053500 +0000" stop="20221214071500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214053500 +0000" stop="20221214071500 +0000" channel="US_2:Showtime Next">
     <title lang="en">The Hole in the Ground</title>
     <desc lang="en">A single mother is haunted by the conviction that her son has been replaced by a sinister impostor after she discovers an eerie sinkhole in the neighbouring forest.Her attempt to pursue a new beginning in a rural town is thwarted by intense feelings of fear and paranoia.</desc>
     <date>2019</date>
@@ -1430,7 +1430,7 @@
       <value>63/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214071500 +0000" stop="20221214091500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214071500 +0000" stop="20221214091500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Skin</title>
     <desc lang="en">A white supremacist reforms his life after falling in love but saying goodbye to his skinhead life isn't a clean process. He must betray his former gang and work alongside the FBI in order to remove the body ink that has represented his identity for so long, as well as the burden of the gang's crimes he has carried.</desc>
     <date>2018</date>
@@ -1444,7 +1444,7 @@
       <value>58/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214091500 +0000" stop="20221214104500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214091500 +0000" stop="20221214104500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Welcome to the Dollhouse</title>
     <desc lang="en">Welcome to the nightmare that is everyday life for 11-year-old Dawn Wiener. Hated and misunderstood by nearly everyone she meets, Dawn struggles to find tiny moments of happiness in a grim life that just keeps getting grimmer. Heather Matarazzo, Brendan Sexton Jr., Matthew Faber, Daria Kalinina, Angela Pietropinto, Bill Buell, Eric Mabius, Rica Martens.</desc>
     <date>1996</date>
@@ -1460,7 +1460,7 @@
       <value>83/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214104500 +0000" stop="20221214110000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214104500 +0000" stop="20221214110000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Spotlights: A Showtime Short Film Series</title>
     <sub-title lang="en">Pozole</sub-title>
     <desc lang="en">Maia sets out to reconnect with her Mexican-American roots on her Nana's birthday, but things go terribly wrong.</desc>
@@ -1469,7 +1469,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221214110000 +0000" stop="20221214120000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214110000 +0000" stop="20221214120000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Pete Lee: Tall, Dark, and Pleasant</title>
     <desc lang="en">Conflict-averse comedian Pete Lee talks sex, drugs and being too nice.</desc>
     <date>2021</date>
@@ -1481,7 +1481,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221214120000 +0000" stop="20221214133000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214120000 +0000" stop="20221214133000 +0000" channel="US_2:Showtime Next">
     <title lang="en">A Very British Christmas</title>
     <desc lang="en">American opera singer Jessica Bailey's flight to her concert in Vienna becomes delayed in a remote area of England. The only place to stay is a bed-and-breakfast in Pine Falls, an enchanting village run by a young, handsome, widower Andrew with his precocious daughter, Katie. Spending time with them allows romance to blossom as Jessica learns he is an amazing artist, but a struggling entrepreneur. With snowflakes in the air, Jessica faces a choice: career or love.</desc>
     <date>2019</date>
@@ -1494,7 +1494,7 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20221214133000 +0000" stop="20221214153000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214133000 +0000" stop="20221214153000 +0000" channel="US_2:Showtime Next">
     <title lang="en">The Match</title>
     <desc lang="en">It is the spring of 1944 and the Nazis are preparing to commemorate the birthday of their beloved leader, Adolf Hitler. One activity they come up with is a football match between an elite Nazi team and a ragtag team of prisoners. With the help of a former captain of the national football team, the determined team made up of ex-footballers and prisoners of war will do all they can to defeat their captors in a game where all odds are stacked against them.</desc>
     <date>2021</date>
@@ -1508,7 +1508,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221214153000 +0000" stop="20221214170000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214153000 +0000" stop="20221214170000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Boy</title>
     <desc lang="en">In this coming-of-age tale set in 1984, a Michael Jackson-obsessed Maori boy and his brother deal with unexpected problems when their ex-con father returns and tries to retrieve money from a successful robbery.</desc>
     <date>2012</date>
@@ -1524,7 +1524,7 @@
       <value>70/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214170000 +0000" stop="20221214183000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214170000 +0000" stop="20221214183000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Memphis</title>
     <desc lang="en">An unstable Memphis musician suffers a creative dry spell while drifting aimlessly through the city, occasionally breaking his cycle of apathy by visiting his girlfriend, dropping into the studio or hanging out with his best friend.</desc>
     <date>2013</date>
@@ -1541,7 +1541,7 @@
       <value>65/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214183000 +0000" stop="20221214201500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214183000 +0000" stop="20221214201500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Margaux</title>
     <desc lang="en">Eager for a weekend getaway of parties and relaxation, a group of twentysomethings rents a smart home vacation rental. Yet the home's sophisticated artificial intelligence programming system soon takes control, forcing the friends to fight their way out or face their end.</desc>
     <date>2022</date>
@@ -1551,11 +1551,11 @@
     <keyword lang="en">margaux</keyword>
     <previously-shown start="20221205000000"/>
   </programme>
-  <programme start="20221214201500 +0000" stop="20221214203000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214201500 +0000" stop="20221214203000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Showtime Next Programming/Previews</title>
     <date>2012</date>
   </programme>
-  <programme start="20221214203000 +0000" stop="20221214223000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214203000 +0000" stop="20221214223000 +0000" channel="US_2:Showtime Next">
     <title lang="en">The Circle</title>
     <desc lang="en">A young woman lands a job at a social-media company that preaches the value of complete transparency and inspires a cult-like devotion in its employees. However, she learns that they're hiding a nefarious agenda in this timely and unnerving thriller.</desc>
     <date>2017</date>
@@ -1569,7 +1569,7 @@
       <value>43/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214223000 +0000" stop="20221215000000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221214223000 +0000" stop="20221215000000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Monstrous</title>
     <desc lang="en">Laura, the mother to seven-year-old Cody, decides to get a new but isolated house near a lake. They are trying to live a new life after escaping Laura's abusive ex-husband. Amidst the appeal of their life and surroundings, a new challenge appears in the form of a monstrous being that emerges from the waters near their property, haunting them in more ways than one.</desc>
     <date>2022</date>
@@ -1583,7 +1583,7 @@
       <value>52/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215000000 +0000" stop="20221215021500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215000000 +0000" stop="20221215021500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Hereditary</title>
     <desc lang="en">When her mentally ill mother passes away, a woman named Annie and her husband, son and daughter all mourn her loss. The family turn to different means to handle their grief, including Annie and her daughter both flirting with the supernatural. They all begin to have disturbing, otherworldly experiences linked to the sinister secrets and emotional trauma that have been passed through the generations of their family.</desc>
     <date>2018</date>
@@ -1599,7 +1599,7 @@
       <value>87/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215021500 +0000" stop="20221215044500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215021500 +0000" stop="20221215044500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Midsommar</title>
     <desc lang="en">Just as their relationship is on the brink of falling apart, couple Dani and Christian are brought closer by a family tragedy. The mourning Dani then joins Christian and his friends, Josh and Mark, on a trip to a rural Swedish village that is celebrating a once-in-a-blue-moon festival. As the tourists partake in the celebrations, they discover that the idyllic community holds many unnerving secrets, and it all unfolds in broad daylight.</desc>
     <date>2019</date>
@@ -1614,7 +1614,7 @@
       <value>72/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215044500 +0000" stop="20221215063000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215044500 +0000" stop="20221215063000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Through The Glass Darkly</title>
     <desc lang="en">In rural Georgia, Charlie finds her deepest fears thrust into reality as her daughter vanishes. When another local girl disappears one year later, Charlie begins to believe the two cases may be related. Yet her claims only arouse suspicion amongst the local authorities. Charlie then vows to uncover the hidden connection before another victim arises.</desc>
     <date>2020</date>
@@ -1627,7 +1627,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215063000 +0000" stop="20221215070000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215063000 +0000" stop="20221215070000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Ziwe</title>
     <sub-title lang="en">Diversity Training</sub-title>
     <desc lang="en">Ziwe explores the triumphs and failures of diversity in the workplace with Amber Riley and sends a writer to host an iconic diversity training with a group of opinionated employees. Featuring iconic guests Josh Sharp, Marie Faustin, Michelle Davis, and Ike Ufomadu.</desc>
@@ -1648,7 +1648,7 @@
       <value>69/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215070000 +0000" stop="20221215075500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215070000 +0000" stop="20221215075500 +0000" channel="US_2:Showtime Next">
     <title lang="en">The L Word: Generation Q</title>
     <sub-title lang="en">Last to Know</sub-title>
     <desc lang="en">In a special Halloween episode, Micah finds a queer role model with a familiar face, while a new face comes to town and helps Dani and Sophie break out of their funk. Meanwhile, Alice tests the waters of her new relationship, until scary movie night becomes a little too scary. Shocking truths come to light when the masks come off.</desc>
@@ -1667,7 +1667,7 @@
       <value>60/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215075500 +0000" stop="20221215093500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215075500 +0000" stop="20221215093500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Climax</title>
     <desc lang="en">A group of dancers finish an elaborate rehearsal in an abandoned school and celebrate with an all night party. When they realize their drinks are spiked with a potent drug, the party quickly turns from celebration to chaos, as the dancers descend into complete madness.</desc>
     <date>2018</date>
@@ -1681,7 +1681,7 @@
       <value>67/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215093500 +0000" stop="20221215112500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215093500 +0000" stop="20221215112500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Demonic</title>
     <desc lang="en">This sci-fi horror tale finds the characters crossing the line of reality and existing in an environment where they begin to question their own existence. The story follows a woman who has long been estranged from her mother. However, during the course of a technological experiment, the paths of the mother and daughter meet again, as secrets of their lives slowly emerge while supernatural demons are accidentally unleashed by the process.</desc>
     <date>2021</date>
@@ -1697,7 +1697,7 @@
       <value>36/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215112500 +0000" stop="20221215133000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215112500 +0000" stop="20221215133000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Depeche Mode 101</title>
     <desc lang="en">Filmmaker D.A. Pennebaker captures the music and spirit of the English alt-rock group Depeche Mode and the vibrant fandom that surrounded the band on their 1988 world tour. The documentary climaxes with a concert at the Rose Bowl in Pasadena, Cal.</desc>
     <date>1989</date>
@@ -1709,7 +1709,7 @@
     <keyword lang="en">depeche-mode-101</keyword>
     <previously-shown start="20221201000000"/>
   </programme>
-  <programme start="20221215133000 +0000" stop="20221215150000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215133000 +0000" stop="20221215150000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Time Now</title>
     <desc lang="en">A young mother returns to her estranged hometown of Detroit after the sudden death of her twin brother and immerses herself in his friend group, soon discovering that his death is not what it seems.</desc>
     <date>2021</date>
@@ -1721,7 +1721,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215150000 +0000" stop="20221215170500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215150000 +0000" stop="20221215170500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Freedom Writers</title>
     <desc lang="en">Two-time Academy Award winner Hilary Swank stars in this powerful true story of an idealistic teacher at a tough high school in California who tries to inspire her troubled students through journal writing. Patrick Dempsey, Scott Glenn, Imelda Staunton, April Lee Hernandez. Directed by Richard LaGravenese.</desc>
     <date>2007</date>
@@ -1738,19 +1738,21 @@
       <value>64/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215170500 +0000" stop="20221215184500 +0000" channel="US_2:Showtime SHO">
-    <title lang="en">The Gasoline Thieves</title>
-    <desc lang="en">Mexican teenager Lalo wants to impress his crush by buying her a new smartphone. To make quick and easy cash, he begins working for a gang of local huachicoleros, who siphon off fuel then illegally sell the stolen gas on the black market. He soon finds himself in over his head with investigators on his trail.</desc>
-    <date>2019</date>
-    <category lang="en">Drama</category>
+  <programme start="20221215170500 +0000" stop="20221215184500 +0000" channel="US_2:Showtime Next">
+    <title lang="en">Lacy's Christmas Do-Over</title>
+    <desc lang="en">Lacy, a career-driven business woman, goes to a B&amp;B in Illinois at the advice of a new therapist. There she finds herself stuck in a mystical, small Christmas town, reliving the same day over and over. Lacy must figure out how to escape.</desc>
+    <date>2021</date>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Christmas</category>
     <category lang="en">Movie</category>
-    <keyword lang="en">the-gasoline-thieves</keyword>
-    <previously-shown start="20201206000000"/>
+    <keyword lang="en">lacys-christmas-do-over</keyword>
+    <previously-shown start="20211211000000"/>
     <rating system="TVPG">
-      <value>TV-MA</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221215184500 +0000" stop="20221215201500 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215184500 +0000" stop="20221215201500 +0000" channel="US_2:Showtime Next">
     <title lang="en">Jules of Light and Dark</title>
     <desc lang="en">Two young lovers are found wrecked on the side of the road.</desc>
     <date>2020</date>
@@ -1764,7 +1766,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215201500 +0000" stop="20221215220000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215201500 +0000" stop="20221215220000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Through The Glass Darkly</title>
     <desc lang="en">In rural Georgia, Charlie finds her deepest fears thrust into reality as her daughter vanishes. When another local girl disappears one year later, Charlie begins to believe the two cases may be related. Yet her claims only arouse suspicion amongst the local authorities. Charlie then vows to uncover the hidden connection before another victim arises.</desc>
     <date>2020</date>
@@ -1777,7 +1779,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215220000 +0000" stop="20221215233000 +0000" channel="US_2:Showtime SHO">
+  <programme start="20221215220000 +0000" stop="20221215233000 +0000" channel="US_2:Showtime Next">
     <title lang="en">Robotapocalypse</title>
     <desc lang="en">A quirky family grapples with an incursion of sinister artificial intelligence that puts a damper on their summer road trip.</desc>
     <date>2021</date>
@@ -1789,7 +1791,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221213224500 +0000" stop="20221214010500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221213224500 +0000" stop="20221214010500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Everything Everywhere All at Once</title>
     <desc lang="en">Grappling with the onset of middle age, a Chinese immigrant discovers that she can traverse across time and space. Teaming up with her alternate lives, the unlikely allies realize that they alone possess the power to protect the world from calamity, plunging them into the midst of an outlandish quest.</desc>
     <date>2022</date>
@@ -1803,7 +1805,7 @@
       <value>81/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214010500 +0000" stop="20221214030000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214010500 +0000" stop="20221214030000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Kiss Kiss Bang Bang</title>
     <desc lang="en">Writer-director Shane Black (who wrote "Lethal Weapon") puts a killer spin on this slam-bang salute to old-school noir detective yarns. Robert Downey Jr. and Val Kilmer are superb as a hapless hood and a gay PI looking into a mysterious death involving the sister of Downey's high-school crush (Michelle Monaghan). This is Black's directorial debut, and he tips his hat to pulp master Raymond Chandler by naming each chapter of the film after a Chandler book title.</desc>
     <date>2005</date>
@@ -1824,7 +1826,7 @@
       <value>72/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214030000 +0000" stop="20221214054000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214030000 +0000" stop="20221214054000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">ShoBox: The New Generation</title>
     <sub-title lang="en">9/9/2022</sub-title>
     <desc lang="en">Prospects Shinard Bunch and Hugo Alberto Roldan clash.</desc>
@@ -1838,7 +1840,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221214054000 +0000" stop="20221214064000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214054000 +0000" stop="20221214064000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Let the Right One In</title>
     <sub-title lang="en">What's Done in the Dark</sub-title>
     <desc lang="en">Mark and Eleanor turn to Claire and Peter for help, but soon realize they may have a plan of their own. Meanwhile, Naomi and her new partner, Debra, make strides in their case, and Naomi uncovers a huge secret.</desc>
@@ -1858,7 +1860,7 @@
       <value>63/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214064000 +0000" stop="20221214081000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214064000 +0000" stop="20221214081000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Student Body</title>
     <desc lang="en">Jane tries to restore her shattered friendship with Merritt, her childhood best friend. A disinterested high school administration compels Jane and Merritt to take matters into their own hands, further fracturing their relationship.</desc>
     <date>2022</date>
@@ -1871,7 +1873,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221214081000 +0000" stop="20221214100000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214081000 +0000" stop="20221214100000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Demonic</title>
     <desc lang="en">This sci-fi horror tale finds the characters crossing the line of reality and existing in an environment where they begin to question their own existence. The story follows a woman who has long been estranged from her mother. However, during the course of a technological experiment, the paths of the mother and daughter meet again, as secrets of their lives slowly emerge while supernatural demons are accidentally unleashed by the process.</desc>
     <date>2021</date>
@@ -1887,7 +1889,7 @@
       <value>36/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214100000 +0000" stop="20221214120000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214100000 +0000" stop="20221214120000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">National Champions</title>
     <desc lang="en">With their university's reputation on the line, a football team prepares for the most critical match of their season. However, the team's charismatic and talented quarterback leads his brothers into a strike moments before kick-off, spurring a crusade for equal opportunities amongst all student athletes at their institution.</desc>
     <date>2021</date>
@@ -1900,7 +1902,7 @@
       <value>52/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214120000 +0000" stop="20221214141000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214120000 +0000" stop="20221214141000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">World Trade Center</title>
     <desc lang="en">Harrowing and inspiring account of two New York City Port Authority policemen who became trapped under the rubble of the Twin Towers on Sept. 11, 2001, after they volunteered to go in and rescue others.</desc>
     <date>2006</date>
@@ -1920,7 +1922,7 @@
       <value>66/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214141000 +0000" stop="20221214160500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214141000 +0000" stop="20221214160500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">U-571</title>
     <desc lang="en">A doomed German submarine is carrying a special coding device and a U.S. sub crew is sent out to rescue the vessel, but German forces have picked up the distress call and are already en route to save their comrades.</desc>
     <date>2000</date>
@@ -1939,7 +1941,7 @@
       <value>62/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214160500 +0000" stop="20221214173000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214160500 +0000" stop="20221214173000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Mine 9</title>
     <desc lang="en">Two miles into the earth, nine Appalachian miners struggle to survive after a methane explosion leaves them with one hour of oxygen.</desc>
     <date>2019</date>
@@ -1957,7 +1959,7 @@
       <value>65/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214173000 +0000" stop="20221214192500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214173000 +0000" stop="20221214192500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Monkey Shines</title>
     <desc lang="en">An experiment provides a simian aide that has been trained to assist a quadriplegic, but the man feels a strange connection with the mammal, which is exhibiting "feelings."</desc>
     <date>1988</date>
@@ -1965,7 +1967,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221214192500 +0000" stop="20221214210000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214192500 +0000" stop="20221214210000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">It Comes at Night</title>
     <desc lang="en">In this unnerving horror film, a married couple and their teenage son isolate themselves from the rest of humanity when a plague throws civilization into chaos. However, their secluded existence is threatened when a young family seek shelter with them.</desc>
     <date>2017</date>
@@ -1979,7 +1981,7 @@
       <value>78/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214210000 +0000" stop="20221214230000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214210000 +0000" stop="20221214230000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">The Host</title>
     <desc lang="en">This Korean take on the "Godzilla" legend is an alternately spine-tingling and rib-tickling creature feature about a dysfunctional Korean family trying to rescue their prized daughter (Ko Ah-sung), who's been snatched by a mutant monster and taken to its lair. Song Kang-ho, Bae Doo-na. Directed by Bong Joon-ho, who co-wrote the script with Baek Chul-hyun.</desc>
     <date>2006</date>
@@ -1996,7 +1998,7 @@
       <value>85/100</value>
     </star-rating>
   </programme>
-  <programme start="20221214230000 +0000" stop="20221215010000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221214230000 +0000" stop="20221215010000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">The Silence of the Lambs</title>
     <desc lang="en">Best Picture winner about an FBI trainee (Best Actress Jodie Foster), who has a knack for analyzing serial killers, and enlists the aid of an imprisoned, cannibalistic sociopath (Best Actor Anthony Hopkins) in tracking a sadistic murderer. An Oscar went to director Jonathan Demme and also Ted Tally won for Best Adapted Screenplay for his script based on the Thomas Harris novel.</desc>
     <date>1991</date>
@@ -2015,7 +2017,7 @@
       <value>85/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215010000 +0000" stop="20221215030000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215010000 +0000" stop="20221215030000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Murder by Numbers</title>
     <desc lang="en">Moody crime drama about a detective with a haunted past. Her probe of a grisly killing points to two high-schoolers who have done their homework when it comes to pulling off a "perfect murder."</desc>
     <date>2002</date>
@@ -2033,7 +2035,7 @@
       <value>50/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215030000 +0000" stop="20221215061500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215030000 +0000" stop="20221215061500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Bellator MMA</title>
     <sub-title lang="en">Henderson vs. Queally</sub-title>
     <desc lang="en">Irish star Peter Queally vs. Benson Henderson from Dublin.</desc>
@@ -2046,7 +2048,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221215061500 +0000" stop="20221215080000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215061500 +0000" stop="20221215080000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Modern Vampires</title>
     <desc lang="en">This variation on the "Dracula" theme makes Los Angeles the backdrop as the undead infiltrate Hollywood's nightlife, provoking the wrath of vampire hunter Dr. Van Helsing (Rod Steiger). Casper Van Dien. Nico: Natasha Wagner. The Count: Robert Pastorelli. Vincent: Udo Kier. Rachel: Natasha Lyonne. Directed by Richard Elfman.</desc>
     <date>1998</date>
@@ -2059,7 +2061,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215080000 +0000" stop="20221215093500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215080000 +0000" stop="20221215093500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Sound of Violence</title>
     <desc lang="en">A young woman experiments with unusual soundscapes and graphic violence to try to satisfy her synesthesia cravings after a horrific past trauma leads her to realize that violence and killing enable her to see music in a sixth sense style experience.</desc>
     <date>2021</date>
@@ -2075,7 +2077,7 @@
       <value>45/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215093500 +0000" stop="20221215110500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215093500 +0000" stop="20221215110500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Robotapocalypse</title>
     <desc lang="en">A quirky family grapples with an incursion of sinister artificial intelligence that puts a damper on their summer road trip.</desc>
     <date>2021</date>
@@ -2087,7 +2089,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221215110500 +0000" stop="20221215111500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215110500 +0000" stop="20221215111500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Spotlights: A Showtime Short Film Series</title>
     <sub-title lang="en">Benevolent Ba</sub-title>
     <desc lang="en">A woman's lust for virtue thrusts her family into a sacrificial slaughter.</desc>
@@ -2096,7 +2098,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221215111500 +0000" stop="20221215124500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215111500 +0000" stop="20221215124500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Monstrous</title>
     <desc lang="en">Laura, the mother to seven-year-old Cody, decides to get a new but isolated house near a lake. They are trying to live a new life after escaping Laura's abusive ex-husband. Amidst the appeal of their life and surroundings, a new challenge appears in the form of a monstrous being that emerges from the waters near their property, haunting them in more ways than one.</desc>
     <date>2022</date>
@@ -2110,7 +2112,7 @@
       <value>52/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215124500 +0000" stop="20221215150000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215124500 +0000" stop="20221215150000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">The Hanoi Hilton</title>
     <desc lang="en">A group of POW'S, captives inside Hanoi's Hoa prison during the Vietnam War, endure some brutal lessons in the art of survival and find dignity in the bargain.</desc>
     <date>1987</date>
@@ -2125,7 +2127,7 @@
       <value>32/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215150000 +0000" stop="20221215164500 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215150000 +0000" stop="20221215164500 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Gunfight at Dry River</title>
     <desc lang="en">Set in the Old West of 1888, on the US-Mexican border, a small town slowly perishing from drought is overtaken by a dangerous family who have taken over control of the water. Now with The Mexican arriving and staking a claim on his father's land things get even more heated in this indie western thriller.</desc>
     <date>2021</date>
@@ -2138,7 +2140,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221215164500 +0000" stop="20221215184000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215164500 +0000" stop="20221215184000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">The Fighter</title>
     <desc lang="en">This fact-based drama follows boxer Micky Ward and his struggle to emerge from under the shadow of his half-brother Dicky Eklund, a former champion pugilist who lost his career to crack addiction.</desc>
     <date>2010</date>
@@ -2156,7 +2158,7 @@
       <value>79/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215184000 +0000" stop="20221215210000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215184000 +0000" stop="20221215210000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Enemy at the Gates</title>
     <desc lang="en">Set during the decisive Battle of Stalingrad, this spectacular World War II epic centers on a personal duel that develops between a celebrated Soviet sniper (Jude Law) and a Nazi sharpshooter (Ed Harris). The suspenseful story was directed by Jean-Jacques Annaud ("Seven Years in Tibet") and features an all-star cast that also includes Joseph Fiennes, Rachel Weisz, Bob Hoskins and Ron Perlman.</desc>
     <date>2001</date>
@@ -2171,7 +2173,7 @@
       <value>53/100</value>
     </star-rating>
   </programme>
-  <programme start="20221215210000 +0000" stop="20221215232000 +0000" channel="US_2:Showtime ExtremeSHO">
+  <programme start="20221215210000 +0000" stop="20221215232000 +0000" channel="US_2:Showtime Extreme">
     <title lang="en">Stillwater</title>
     <desc lang="en">Humble family man Bill Baker contends with the unthinkable when his daughter calls him from a French prison, revealing that she has been charged with murder. Determined to prove his daughter's innocence to the French courts and secure her freedom he embarks on an odyssey from rural Oklahoma to France driven by paternal instinct.</desc>
     <date>2021</date>
