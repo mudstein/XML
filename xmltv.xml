@@ -63,8 +63,8 @@
   <channel id="USA | Starz Encore Classic East HD">
     <display-name lang="en">USA | Starz Encore Classic East HD</display-name>
   </channel>
-  <channel id="USA | Starz Encore Black East HD">
-    <display-name lang="en">USA | Starz Encore Black East HD</display-name>
+  <channel id="USA | StarZ Encore Black East HD">
+    <display-name lang="en">USA | StarZ Encore Black East HD</display-name>
   </channel>
   <channel id="USA | Starz Encore Family East HD">
     <display-name lang="en">USA | Starz Encore Family East HD</display-name>
@@ -9235,7 +9235,7 @@
       <value>53/100</value>
     </star-rating>
   </programme>
-  <programme start="20221220213900 +0000" stop="20221220231500 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221220213900 +0000" stop="20221220231500 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">How to Be a Player</title>
     <desc lang="en">A two-timing ladies' man is the guest of dishonor at a party thrown by his sister and attended by all the girls in his little black book.</desc>
     <date>1997</date>
@@ -9243,7 +9243,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221220231500 +0000" stop="20221221010400 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221220231500 +0000" stop="20221221010400 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Think Like a Man Too</title>
     <desc lang="en">Old friends reunite for a Las Vegas wedding that quickly goes off the rails in this hilarious sequel. The bachelor and bachelorette parties are undermined by the couples' relationship problems, and eventually the festivities lead to a night in jail.</desc>
     <date>2014</date>
@@ -9260,7 +9260,7 @@
       <value>38/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221010400 +0000" stop="20221221025600 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221010400 +0000" stop="20221221025600 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Madea's Family Reunion</title>
     <desc lang="en">Tyler Perry directed and stars in this hysterical adaptation of his hit play, which chronicles the adventures of a gun-toting Southern matriarch who takes in a troubled foster child while trying to plan a family reunion.</desc>
     <date>2006</date>
@@ -9275,7 +9275,7 @@
       <value>45/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221025600 +0000" stop="20221221045700 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221025600 +0000" stop="20221221045700 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Talk to Me</title>
     <desc lang="en">Don Cheadle's electrifying portrayal of ex-con Petey Greene, who became an influential, controversial disc jockey in 1960s Washington, D.C., as well as a beloved community activist, cues this charged, fact-based biopic. Cheadle perfectly captures Greene's tell-it-like-it-is bluntness and candor. Chiwetel Ejiofor, Taraji P. Henson, Martin Sheen, Mike Epps. Directed by Kasi Lemmons. Features an excellent period soundtrack that includes James Brown, the Dramatics and Otis Redding.</desc>
     <date>2007</date>
@@ -9290,7 +9290,7 @@
       <value>69/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221045700 +0000" stop="20221221063900 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221045700 +0000" stop="20221221063900 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Escape Room</title>
     <desc lang="en">Six strangers, including a student, a slacker and a businessman, receive mysterious invitations in the mail to a new "immersive" escape room in which the last remaining player will receive $1 million. They soon discover the game's stakes are deadly and the various rooms were created by a master manipulator to reveal each person's past secrets and true character.</desc>
     <date>2019</date>
@@ -9305,7 +9305,7 @@
       <value>48/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221063900 +0000" stop="20221221081200 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221063900 +0000" stop="20221221081200 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">A Huey P. Newton Story</title>
     <desc lang="en">An adaptation of the award-winning, one-man stage show about the life of the cofounder of the Black Panther Party. Shot before a live audience, this profile is a mixture of film and archival footage.</desc>
     <date>2001</date>
@@ -9322,7 +9322,7 @@
       <value>78/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221081200 +0000" stop="20221221100400 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221081200 +0000" stop="20221221100400 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Madea's Family Reunion</title>
     <desc lang="en">Tyler Perry directed and stars in this hysterical adaptation of his hit play, which chronicles the adventures of a gun-toting Southern matriarch who takes in a troubled foster child while trying to plan a family reunion.</desc>
     <date>2006</date>
@@ -9337,7 +9337,7 @@
       <value>45/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221100400 +0000" stop="20221221121800 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221100400 +0000" stop="20221221121800 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">A Raisin in the Sun</title>
     <desc lang="en">TV adaptation of the Broadway revival of Lorraine Hansberry's 1959 play about a black clan's struggles on Chicago's South Side in the wake of the death of the family patriarch. Phylicia Rashad, Audra McDonald, Sanaa Lathan, Sean Combs. Film directorial debut for Kenny Leon, who also helmed the Broadway revival.</desc>
     <date>2008</date>
@@ -9351,7 +9351,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221221121800 +0000" stop="20221221135100 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221121800 +0000" stop="20221221135100 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">The Great White Hype</title>
     <desc lang="en">A flamboyant boxing promoter invents a scheme to find a suitable opponent for his reigning champion in this satirical exposé of the promotion game. Samuel L. Jackson, Jeff Goldblum, Peter Berg, Jon Lovitz, Corbin Bernsen, Cheech Marin, John Rhys-Davies, Salli Richardson, Jamie Foxx, Rocky Carroll, Michael Jace, Damon Wayans.</desc>
     <date>1996</date>
@@ -9362,12 +9362,12 @@
     <category lang="en">Movie</category>
     <keyword lang="en">the-great-white-hype</keyword>
   </programme>
-  <programme start="20221221135100 +0000" stop="20221221152600 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221135100 +0000" stop="20221221152600 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Spiral: From the Book of Saw</title>
     <desc lang="en">Detective Ezekiel Banks teams up with a green officer to track down the culprit of a series of unsettling murders. Yet the further the pair digs into the evidence, the more the recent killings begin to resemble a disturbing period in the city's history, ultimately leaving Ezekiel vulnerable as the murderer's next target.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20221221152600 +0000" stop="20221221170000 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221152600 +0000" stop="20221221170000 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Maurice Hines: Bring Them Back</title>
     <desc lang="en">An intimate portrait of a trailblazing entertainer who navigates the highs and lows of his lengthy showbiz career, and a complex relationship with his superstar brother, tap dance legend Gregory Hines.</desc>
     <date>2019</date>
@@ -9380,7 +9380,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20221221170000 +0000" stop="20221221182600 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221170000 +0000" stop="20221221182600 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Dance Flick</title>
     <desc lang="en">Spoof of the dance-film genre spins around a white teen who hooks up with a talented street practitioner and gets involved romantically, as well as professionally, with him.</desc>
     <date>2009</date>
@@ -9399,7 +9399,7 @@
       <value>40/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221182600 +0000" stop="20221221204000 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221182600 +0000" stop="20221221204000 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">A Raisin in the Sun</title>
     <desc lang="en">TV adaptation of the Broadway revival of Lorraine Hansberry's 1959 play about a black clan's struggles on Chicago's South Side in the wake of the death of the family patriarch. Phylicia Rashad, Audra McDonald, Sanaa Lathan, Sean Combs. Film directorial debut for Kenny Leon, who also helmed the Broadway revival.</desc>
     <date>2008</date>
@@ -9413,7 +9413,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221221204000 +0000" stop="20221221222200 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221204000 +0000" stop="20221221222200 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Escape Room</title>
     <desc lang="en">Six strangers, including a student, a slacker and a businessman, receive mysterious invitations in the mail to a new "immersive" escape room in which the last remaining player will receive $1 million. They soon discover the game's stakes are deadly and the various rooms were created by a master manipulator to reveal each person's past secrets and true character.</desc>
     <date>2019</date>
@@ -9428,12 +9428,12 @@
       <value>48/100</value>
     </star-rating>
   </programme>
-  <programme start="20221221222200 +0000" stop="20221221235800 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221222200 +0000" stop="20221221235800 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Spiral: From the Book of Saw</title>
     <desc lang="en">Detective Ezekiel Banks teams up with a green officer to track down the culprit of a series of unsettling murders. Yet the further the pair digs into the evidence, the more the recent killings begin to resemble a disturbing period in the city's history, ultimately leaving Ezekiel vulnerable as the murderer's next target.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20221221235800 +0000" stop="20221222013400 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221221235800 +0000" stop="20221222013400 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Best Defense</title>
     <desc lang="en">Eddie Murphy takes part in this Dudley Moore vehicle about a defective tank. Kate Capshaw, Helen Shaver, Michael Scalera. Loparino: George Dzundza. Joyner: Peter Michael Goetz. Directed by Willard Huyck.</desc>
     <date>1984</date>
@@ -9448,7 +9448,7 @@
       <value>29/100</value>
     </star-rating>
   </programme>
-  <programme start="20221222013400 +0000" stop="20221222034800 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222013400 +0000" stop="20221222034800 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">A Raisin in the Sun</title>
     <desc lang="en">TV adaptation of the Broadway revival of Lorraine Hansberry's 1959 play about a black clan's struggles on Chicago's South Side in the wake of the death of the family patriarch. Phylicia Rashad, Audra McDonald, Sanaa Lathan, Sean Combs. Film directorial debut for Kenny Leon, who also helmed the Broadway revival.</desc>
     <date>2008</date>
@@ -9462,7 +9462,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221222034800 +0000" stop="20221222050900 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222034800 +0000" stop="20221222050900 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">White People Money</title>
     <desc lang="en">A young African American couple win 15 billion dollars through MacKenzie Scott's (fictional) surprise giveaway contest. Hilarity, drama and pathos ensue as they try to keep their newfound wealth a secret from their family members, friends, and colleagues.</desc>
     <date>2020</date>
@@ -9470,7 +9470,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221222050900 +0000" stop="20221222065800 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222050900 +0000" stop="20221222065800 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Fame</title>
     <desc lang="en">Debbie Allen and Kelsey Grammer star in this sweeping modern reinvention of the classic '80s showbiz drama about a group of students and their shared dream of finding success in the performing arts. Charles S. Dutton, Megan Mullally, Bebe Neuwirth.</desc>
     <date>2009</date>
@@ -9486,7 +9486,7 @@
       <value>39/100</value>
     </star-rating>
   </programme>
-  <programme start="20221222065800 +0000" stop="20221222083000 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222065800 +0000" stop="20221222083000 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Don't Be a Menace to South Central While Drinking Your Juice in the Hood</title>
     <desc lang="en">Written by and starring Marlon and Shawn Wayans, this irreverent, comic spoof chronicles the exploits of a young black man whose mother returns him to the 'hood to live and learn from his father.</desc>
     <date>1996</date>
@@ -9494,7 +9494,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221222083000 +0000" stop="20221222102900 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222083000 +0000" stop="20221222102900 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Boys on the Side</title>
     <desc lang="en">Three women bond while on the lam from a murder rap.</desc>
     <date>1995</date>
@@ -9509,12 +9509,12 @@
       <value>61/100</value>
     </star-rating>
   </programme>
-  <programme start="20221222102900 +0000" stop="20221222120500 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222102900 +0000" stop="20221222120500 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Spiral: From the Book of Saw</title>
     <desc lang="en">Detective Ezekiel Banks teams up with a green officer to track down the culprit of a series of unsettling murders. Yet the further the pair digs into the evidence, the more the recent killings begin to resemble a disturbing period in the city's history, ultimately leaving Ezekiel vulnerable as the murderer's next target.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20221222120500 +0000" stop="20221222133700 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222120500 +0000" stop="20221222133700 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Chocolate City 2</title>
     <desc lang="en">A group of dancers decide to enter a national stripper competition in Las Vegas to save their club from foreclosure.</desc>
     <date>2016</date>
@@ -9527,7 +9527,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221222133700 +0000" stop="20221222153100 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222133700 +0000" stop="20221222153100 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Panic Room</title>
     <desc lang="en">A mother and her diabetic preteen daughter hide in a fortified, high-tech, hidden chamber when thieves break into their New York City home, but more problems arise after they leave behind the girl's medications.</desc>
     <date>2002</date>
@@ -9546,7 +9546,7 @@
       <value>65/100</value>
     </star-rating>
   </programme>
-  <programme start="20221222153100 +0000" stop="20221222173000 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222153100 +0000" stop="20221222173000 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Boys on the Side</title>
     <desc lang="en">Three women bond while on the lam from a murder rap.</desc>
     <date>1995</date>
@@ -9561,7 +9561,7 @@
       <value>61/100</value>
     </star-rating>
   </programme>
-  <programme start="20221222173000 +0000" stop="20221222190200 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222173000 +0000" stop="20221222190200 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Don't Be a Menace to South Central While Drinking Your Juice in the Hood</title>
     <desc lang="en">Written by and starring Marlon and Shawn Wayans, this irreverent, comic spoof chronicles the exploits of a young black man whose mother returns him to the 'hood to live and learn from his father.</desc>
     <date>1996</date>
@@ -9569,7 +9569,7 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20221222190200 +0000" stop="20221222210500 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222190200 +0000" stop="20221222210500 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Tazmanian Devil</title>
     <desc lang="en">Nigerian immigrant, Dayo, struggles to balance his desire to join a college frat and bonding with his religious father.</desc>
     <date>2021</date>
@@ -9584,7 +9584,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20221222210500 +0000" stop="20221222225400 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222210500 +0000" stop="20221222225400 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Fame</title>
     <desc lang="en">Debbie Allen and Kelsey Grammer star in this sweeping modern reinvention of the classic '80s showbiz drama about a group of students and their shared dream of finding success in the performing arts. Charles S. Dutton, Megan Mullally, Bebe Neuwirth.</desc>
     <date>2009</date>
@@ -9600,7 +9600,7 @@
       <value>39/100</value>
     </star-rating>
   </programme>
-  <programme start="20221222225400 +0000" stop="20221223002600 +0000" channel="USA | Starz Encore Black East HD">
+  <programme start="20221222225400 +0000" stop="20221223002600 +0000" channel="USA | StarZ Encore Black East HD">
     <title lang="en">Chocolate City 2</title>
     <desc lang="en">A group of dancers decide to enter a national stripper competition in Las Vegas to save their club from foreclosure.</desc>
     <date>2016</date>
