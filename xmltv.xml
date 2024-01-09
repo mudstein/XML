@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="CHI | CANAL  TVN">
-    <display-name lang="es">CHI | CANAL  TVN</display-name>
+    <display-name lang="es">CHI | CANAL TVN</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png"/>
+  </channel>
+  <channel id="CHI | CANAL 13">
+    <display-name lang="es">CHI | CANAL 13</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png"/>
+  </channel>
+  <channel id="CHI | MEGA">
+    <display-name lang="es">CHI | MEGA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile.png"/>
+  </channel>
+  <channel id="CHI | CHILE VISION">
+    <display-name lang="es">CHI | CHILE VISION</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png"/>
+  </channel>
+  <channel id="CHI | LA RED">
+    <display-name lang="es">CHI | LA RED</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile.png"/>
   </channel>
   <programme start="20240109004500 -0300" stop="20240109013000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 noche</title>
@@ -84,10 +100,6 @@
   <programme start="20240111021500 -0300" stop="20240111031500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Mea Culpa clásicos</title>
   </programme>
-  <channel id="CHI | CANAL 13">
-    <display-name lang="es">CHI | CANAL 13</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png"/>
-  </channel>
   <programme start="20240109002000 -0300" stop="20240109010000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Ellas soy yo, Gloria Trevi</title>
     <title lang="en">Gloria Trevi: Ellas soy yo</title>
@@ -266,10 +278,6 @@
   <programme start="20240111030000 -0300" stop="20240111040000 -0300" channel="CHI | CANAL 13">
     <title lang="es">La ley y el orden</title>
   </programme>
-  <channel id="CHI | MEGA">
-    <display-name lang="es">CHI | MEGA</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile.png"/>
-  </channel>
   <programme start="20240109003000 -0300" stop="20240109011500 -0300" channel="CHI | MEGA">
     <title lang="es">Yargi</title>
     <episode-num system="onscreen">E171</episode-num>
@@ -355,10 +363,6 @@
   <programme start="20240111020000 -0300" stop="20240111031500 -0300" channel="CHI | MEGA">
     <title lang="es">Nehir</title>
   </programme>
-  <channel id="CHI | CHILE VISION">
-    <display-name lang="es">CHI | CHILE VISION</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png"/>
-  </channel>
   <programme start="20240109003000 -0300" stop="20240109014500 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Relaciones peligrosas</title>
   </programme>
@@ -408,10 +412,6 @@
   <programme start="20240111014500 -0300" stop="20240111054500 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Programación Trasnoche</title>
   </programme>
-  <channel id="CHI | LA RED">
-    <display-name lang="es">CHI | LA RED</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile.png"/>
-  </channel>
   <programme start="20240109020000 -0300" stop="20240109050000 -0300" channel="CHI | LA RED">
     <title lang="es">Fin de transmisión</title>
   </programme>
