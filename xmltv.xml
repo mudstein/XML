@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  <channel id="CHI | CANL TVN">
-    <display-name lang="es">CHI | CANL TVN</display-name>
+  <channel id="CHI | CANAL TVN">
+    <display-name lang="es">CHI | CANAL TVN</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png"/>
   </channel>
-  <programme start="20240109004500 -0300" stop="20240109013000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109004500 -0300" stop="20240109013000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">24 noche</title>
   </programme>
-  <programme start="20240109013000 -0300" stop="20240109014500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109013000 -0300" stop="20240109014500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">TV Tiempo Informe Final</title>
   </programme>
-  <programme start="20240109014500 -0300" stop="20240109021500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109014500 -0300" stop="20240109021500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">El Clon</title>
   </programme>
-  <programme start="20240109021500 -0300" stop="20240109031500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109021500 -0300" stop="20240109031500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Mea Culpa clásicos</title>
   </programme>
-  <programme start="20240109031500 -0300" stop="20240109043000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109031500 -0300" stop="20240109043000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">El cuento del tío</title>
   </programme>
-  <programme start="20240109043000 -0300" stop="20240109044500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109043000 -0300" stop="20240109044500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Chile conectado</title>
   </programme>
-  <programme start="20240109044500 -0300" stop="20240109051500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109044500 -0300" stop="20240109051500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">24 horas</title>
     <sub-title lang="es">Deportes</sub-title>
   </programme>
-  <programme start="20240109051500 -0300" stop="20240109054500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109051500 -0300" stop="20240109054500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Hora 24</title>
   </programme>
-  <programme start="20240109054500 -0300" stop="20240109061500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109054500 -0300" stop="20240109061500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Previa 24</title>
   </programme>
-  <programme start="20240109061500 -0300" stop="20240109080000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109061500 -0300" stop="20240109080000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20240109080000 -0300" stop="20240109130000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109080000 -0300" stop="20240109130000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20240109130000 -0300" stop="20240109144500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109130000 -0300" stop="20240109144500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20240109144500 -0300" stop="20240109151500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109144500 -0300" stop="20240109151500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Amor en juego</title>
   </programme>
-  <programme start="20240109151500 -0300" stop="20240109163000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109151500 -0300" stop="20240109163000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Me robó mi vida</title>
   </programme>
-  <programme start="20240109163000 -0300" stop="20240109180000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109163000 -0300" stop="20240109180000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20240109180000 -0300" stop="20240109193000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109180000 -0300" stop="20240109193000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20240109193000 -0300" stop="20240109210000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109193000 -0300" stop="20240109210000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20240109210000 -0300" stop="20240109224000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109210000 -0300" stop="20240109224000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">24 Horas</title>
     <sub-title lang="es">Central</sub-title>
   </programme>
-  <programme start="20240109224000 -0300" stop="20240109224500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109224000 -0300" stop="20240109224500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Tiempo TV</title>
   </programme>
-  <programme start="20240109224500 -0300" stop="20240109235000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109224500 -0300" stop="20240109235000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Yo decido amar</title>
   </programme>
-  <programme start="20240109235000 -0300" stop="20240110004500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240109235000 -0300" stop="20240110004500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Todo por mi familia</title>
   </programme>
-  <programme start="20240110235000 -0300" stop="20240111004500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240110235000 -0300" stop="20240111004500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Todo por mi familia</title>
   </programme>
-  <programme start="20240111004500 -0300" stop="20240111013000 -0300" channel="CHI | CANL TVN">
+  <programme start="20240111004500 -0300" stop="20240111013000 -0300" channel="CHI | CANAL TVN">
     <title lang="es">24 noche</title>
   </programme>
-  <programme start="20240111013000 -0300" stop="20240111014500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240111013000 -0300" stop="20240111014500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">TV Tiempo Informe Final</title>
   </programme>
-  <programme start="20240111014500 -0300" stop="20240111021500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240111014500 -0300" stop="20240111021500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">El Clon</title>
   </programme>
-  <programme start="20240111021500 -0300" stop="20240111031500 -0300" channel="CHI | CANL TVN">
+  <programme start="20240111021500 -0300" stop="20240111031500 -0300" channel="CHI | CANAL TVN">
     <title lang="es">Mea Culpa clásicos</title>
   </programme>
   <channel id="CHI | CANAL 13">
