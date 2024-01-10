@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="CHI | CANAL  TVN">
-    <display-name lang="es">CHI | CANAL  TVN</display-name>
+    <display-name lang="es">CHI | CANAL TVN</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png"/>
   </channel>
   <channel id="CHI | CANAL 13">
@@ -583,214 +583,224 @@
     <title lang="es">Caja de Pandora</title>
     <episode-num system="onscreen">E133</episode-num>
   </programme>
-  <programme start="20240110060000 +0100" stop="20240110062000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110020000 +0100" stop="20240110022000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Concepción</title>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-compacto-concepcion_l_m.jpg"/>
   </programme>
-  <programme start="20240110062000 +0100" stop="20240110063000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110022000 +0100" stop="20240110023000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240110063000 +0100" stop="20240110073000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110023000 +0100" stop="20240110033000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Sello de raza</title>
     <category lang="es">Cultural</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_sello-de-raza_l_m.jpg"/>
   </programme>
-  <programme start="20240110073000 +0100" stop="20240110075000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110033000 +0100" stop="20240110035000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Concepción</title>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-compacto-concepcion_l_m.jpg"/>
   </programme>
-  <programme start="20240110075000 +0100" stop="20240110083000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110035000 +0100" stop="20240110043000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Club Hípico</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-club-hipico_l_m.jpg"/>
   </programme>
-  <programme start="20240110083000 +0100" stop="20240110091500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110043000 +0100" stop="20240110051500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240110091500 +0100" stop="20240110093000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110051500 +0100" stop="20240110053000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240110093000 +0100" stop="20240110103000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110053000 +0100" stop="20240110063000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Más rodeo</title>
     <category lang="es">Más rodeo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rodeo-mas-rodeo_l_m.jpg"/>
   </programme>
-  <programme start="20240110103000 +0100" stop="20240110105000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110063000 +0100" stop="20240110065000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Concepción</title>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-compacto-concepcion_l_m.jpg"/>
   </programme>
-  <programme start="20240110105000 +0100" stop="20240110113000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110065000 +0100" stop="20240110073000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Club Hípico</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-club-hipico_l_m.jpg"/>
   </programme>
-  <programme start="20240110113000 +0100" stop="20240110123000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110073000 +0100" stop="20240110083000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Punto ecuestre</title>
     <category lang="es">Punto ecuestre</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-punto-ecuestre_l_m.jpg"/>
   </programme>
-  <programme start="20240110123000 +0100" stop="20240110124500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110083000 +0100" stop="20240110084500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240110124500 +0100" stop="20240110130500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110084500 +0100" stop="20240110090500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Concepción</title>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-compacto-concepcion_l_m.jpg"/>
   </programme>
-  <programme start="20240110130500 +0100" stop="20240110135000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110090500 +0100" stop="20240110095000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240110135000 +0100" stop="20240110140500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110095000 +0100" stop="20240110100500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240110140500 +0100" stop="20240110144500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110100500 +0100" stop="20240110104500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Concepción</title>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-compacto-concepcion_l_m.jpg"/>
   </programme>
-  <programme start="20240110144500 +0100" stop="20240110154500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110104500 +0100" stop="20240110114500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Vamos a la hípica</title>
     <category lang="es">Vamos a la hípica</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-vamos-a-la-hipica_l_m.jpg"/>
   </programme>
-  <programme start="20240110154500 +0100" stop="20240110190000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110114500 +0100" stop="20240110150000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Programación internacional Simulcasting</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_programacion-internacional-simulcasting_l_m.jpg"/>
   </programme>
-  <programme start="20240110190000 +0100" stop="20240111024500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110150000 +0100" stop="20240110224500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Carreras Valparaíso Sporting</title>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_carreras-valparaiso-sporting_l_m.jpg"/>
   </programme>
-  <programme start="20240111024500 +0100" stop="20240111041500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240110224500 +0100" stop="20240111001500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Programación internacional Simulcasting</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_programacion-internacional-simulcasting_l_m.jpg"/>
   </programme>
-  <programme start="20240111041500 +0100" stop="20240111044000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111001500 +0100" stop="20240111004000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Valparaíso Sporting</title>
     <category lang="es">Compacto - Valparaíso Sporting</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-valparaiso-sporting_l_m.jpg"/>
   </programme>
-  <programme start="20240111044000 +0100" stop="20240111050000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111004000 +0100" stop="20240111010000 +0100" channel="CHI | TELETRAK">
     <title lang="es">El cronómetro palmeño</title>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-el-cronometro-palmeno_l_m.jpg"/>
   </programme>
-  <programme start="20240111050000 +0100" stop="20240111060000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111010000 +0100" stop="20240111020000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Futuros campeones</title>
     <category lang="es">Futuros campeones</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-futuros-campeones_l_m.jpg"/>
   </programme>
-  <programme start="20240111060000 +0100" stop="20240111070000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111020000 +0100" stop="20240111030000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Turf Sports</title>
     <category lang="es">Turf Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-turf-sports_l_m.jpg"/>
   </programme>
-  <programme start="20240111070000 +0100" stop="20240111074500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111030000 +0100" stop="20240111034500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240111074500 +0100" stop="20240111080500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111034500 +0100" stop="20240111040500 +0100" channel="CHI | TELETRAK">
     <title lang="es">El cronómetro palmeño</title>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-el-cronometro-palmeno_l_m.jpg"/>
   </programme>
-  <programme start="20240111080500 +0100" stop="20240111084500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111040500 +0100" stop="20240111044500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Club Hípico</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-club-hipico_l_m.jpg"/>
   </programme>
-  <programme start="20240111084500 +0100" stop="20240111093000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111044500 +0100" stop="20240111053000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240111093000 +0100" stop="20240111103000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111053000 +0100" stop="20240111063000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Más rodeo</title>
     <category lang="es">Más rodeo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rodeo-mas-rodeo_l_m.jpg"/>
   </programme>
-  <programme start="20240111103000 +0100" stop="20240111113000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111063000 +0100" stop="20240111073000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Punto ecuestre</title>
     <category lang="es">Punto ecuestre</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-punto-ecuestre_l_m.jpg"/>
   </programme>
-  <programme start="20240111113000 +0100" stop="20240111121500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111073000 +0100" stop="20240111081500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240111121500 +0100" stop="20240111123000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111081500 +0100" stop="20240111083000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240111123000 +0100" stop="20240111131500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111083000 +0100" stop="20240111091500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Club Hípico</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-club-hipico_l_m.jpg"/>
   </programme>
-  <programme start="20240111131500 +0100" stop="20240111140000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111091500 +0100" stop="20240111100000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240111140000 +0100" stop="20240111150000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111100000 +0100" stop="20240111110000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Vamos a la hípica</title>
     <category lang="es">Vamos a la hípica</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-vamos-a-la-hipica_l_m.jpg"/>
   </programme>
-  <programme start="20240111150000 +0100" stop="20240111160000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111110000 +0100" stop="20240111120000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Futuros campeones</title>
     <category lang="es">Futuros campeones</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-futuros-campeones_l_m.jpg"/>
   </programme>
-  <programme start="20240111160000 +0100" stop="20240111161500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111120000 +0100" stop="20240111121500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240111161500 +0100" stop="20240111165500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111121500 +0100" stop="20240111125500 +0100" channel="CHI | TELETRAK">
     <title lang="es">El cronómetro palmeño</title>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-el-cronometro-palmeno_l_m.jpg"/>
   </programme>
-  <programme start="20240111165500 +0100" stop="20240111174000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111125500 +0100" stop="20240111134000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240111174000 +0100" stop="20240111180000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111134000 +0100" stop="20240111140000 +0100" channel="CHI | TELETRAK">
     <title lang="es">El cronómetro palmeño</title>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-el-cronometro-palmeno_l_m.jpg"/>
   </programme>
-  <programme start="20240111180000 +0100" stop="20240111183000 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111140000 +0100" stop="20240111143000 +0100" channel="CHI | TELETRAK">
     <title lang="es">La previa palmeña</title>
     <category lang="es">La previa palmeña</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-la-previa-palmena_l_m.jpg"/>
   </programme>
-  <programme start="20240111183000 +0100" stop="20240112034500 +0100" channel="CHI | TELETRAK">
+  <programme start="20240111143000 +0100" stop="20240111234500 +0100" channel="CHI | TELETRAK">
     <title lang="es">Carreras - Hipódromo Chile</title>
     <category lang="es">Carreras - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-carreras-hipodromo-chile-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240111234500 +0100" stop="20240112003000 +0100" channel="CHI | TELETRAK">
+    <title lang="es">Compacto - Hipódromo Chile</title>
+    <category lang="es">Compacto - Hipódromo Chile</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240112003000 +0100" stop="20240112010000 +0100" channel="CHI | TELETRAK">
+    <title lang="es">Archivo palmeño</title>
+    <category lang="es">Archivo palmeño</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_turf-archivo-palmeno_l_m.jpg"/>
   </programme>
 </tv>
