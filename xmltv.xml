@@ -21,9 +21,18 @@
     <display-name lang="es">CHI | LA RED HD</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile.png"/>
   </channel>
+  <channel id="Funbox">
+    <display-name lang="es">Funbox</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_funbox_m.png"/>
+  </channel>
   <channel id="CHI | TELETRAK">
     <display-name lang="es">CHI | TELETRAK</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png"/>
+  </channel>
+  <channel id="CHI | CANAL DIPUTADOS">
+    <display-name lang="es">CHI | CANAL DIPUTADOS</display-name>
+    <display-name lang="es">CHI | CAMARA DE DIPUTADOS</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tv-diputados_m.png"/>
   </channel>
   <programme start="20240109004500 -0300" stop="20240109013000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 noche</title>
@@ -584,6 +593,491 @@
     <title lang="es">Caja de Pandora</title>
     <episode-num system="onscreen">E133</episode-num>
   </programme>
+  <programme start="20240110020000 +0100" stop="20240110023000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240110023000 +0100" stop="20240110030000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240110030000 +0100" stop="20240110033000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240110033000 +0100" stop="20240110040000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240110040000 +0100" stop="20240110043000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240110043000 +0100" stop="20240110050000 +0100" channel="Funbox">
+    <title lang="es">El Inspector Gadget</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-inspector-gadget_l_m.jpg"/>
+  </programme>
+  <programme start="20240110050000 +0100" stop="20240110053000 +0100" channel="Funbox">
+    <title lang="es">Caillou</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caillou_l_m.jpg"/>
+  </programme>
+  <programme start="20240110053000 +0100" stop="20240110060000 +0100" channel="Funbox">
+    <title lang="es">Mike el caballero</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mike-el-caballero_l_m.jpg"/>
+  </programme>
+  <programme start="20240110060000 +0100" stop="20240110063000 +0100" channel="Funbox">
+    <title lang="es">Little People</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_little-people_l_m.jpg"/>
+  </programme>
+  <programme start="20240110063000 +0100" stop="20240110065000 +0100" channel="Funbox">
+    <title lang="es">Bob, el constructor</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bob-el-constructor_l_m.jpg"/>
+  </programme>
+  <programme start="20240110065000 +0100" stop="20240110070000 +0100" channel="Funbox">
+    <title lang="es">Aventuras StoryZoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aventuras-storyzoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240110070000 +0100" stop="20240110073000 +0100" channel="Funbox">
+    <title lang="es">Zoboomafoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zoboomafoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240110073000 +0100" stop="20240110080000 +0100" channel="Funbox">
+    <title lang="es">Backyardigans</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_backyardigans_l_m.jpg"/>
+  </programme>
+  <programme start="20240110080000 +0100" stop="20240110083000 +0100" channel="Funbox">
+    <title lang="es">Poko</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_poko_l_m.jpg"/>
+  </programme>
+  <programme start="20240110083000 +0100" stop="20240110090000 +0100" channel="Funbox">
+    <title lang="es">Bo en acción</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bo-en-accion_l_m.jpg"/>
+  </programme>
+  <programme start="20240110090000 +0100" stop="20240110093000 +0100" channel="Funbox">
+    <title lang="es">Hotel Transylvania: la serie</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hotel-transylvania-la-serie-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240110093000 +0100" stop="20240110100000 +0100" channel="Funbox">
+    <title lang="es">Johnny Test</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_johnny-test_l_m.jpg"/>
+  </programme>
+  <programme start="20240110100000 +0100" stop="20240110103000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240110103000 +0100" stop="20240110110000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240110110000 +0100" stop="20240110113000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240110113000 +0100" stop="20240110120000 +0100" channel="Funbox">
+    <title lang="es">El Inspector Gadget</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-inspector-gadget_l_m.jpg"/>
+  </programme>
+  <programme start="20240110120000 +0100" stop="20240110123000 +0100" channel="Funbox">
+    <title lang="es">Caillou</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caillou_l_m.jpg"/>
+  </programme>
+  <programme start="20240110123000 +0100" stop="20240110130000 +0100" channel="Funbox">
+    <title lang="es">Mike el caballero</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mike-el-caballero_l_m.jpg"/>
+  </programme>
+  <programme start="20240110130000 +0100" stop="20240110133000 +0100" channel="Funbox">
+    <title lang="es">Little People</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_little-people_l_m.jpg"/>
+  </programme>
+  <programme start="20240110133000 +0100" stop="20240110135000 +0100" channel="Funbox">
+    <title lang="es">Bob, el constructor</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bob-el-constructor_l_m.jpg"/>
+  </programme>
+  <programme start="20240110135000 +0100" stop="20240110140000 +0100" channel="Funbox">
+    <title lang="es">Aventuras StoryZoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aventuras-storyzoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240110140000 +0100" stop="20240110143000 +0100" channel="Funbox">
+    <title lang="es">Zoboomafoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zoboomafoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240110143000 +0100" stop="20240110150000 +0100" channel="Funbox">
+    <title lang="es">Backyardigans</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_backyardigans_l_m.jpg"/>
+  </programme>
+  <programme start="20240110150000 +0100" stop="20240110153000 +0100" channel="Funbox">
+    <title lang="es">Poko</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_poko_l_m.jpg"/>
+  </programme>
+  <programme start="20240110153000 +0100" stop="20240110160000 +0100" channel="Funbox">
+    <title lang="es">Bo en acción</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bo-en-accion_l_m.jpg"/>
+  </programme>
+  <programme start="20240110160000 +0100" stop="20240110163000 +0100" channel="Funbox">
+    <title lang="es">Hotel Transylvania: la serie</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hotel-transylvania-la-serie-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240110163000 +0100" stop="20240110170000 +0100" channel="Funbox">
+    <title lang="es">Johnny Test</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_johnny-test_l_m.jpg"/>
+  </programme>
+  <programme start="20240110170000 +0100" stop="20240110173000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240110173000 +0100" stop="20240110180000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240110180000 +0100" stop="20240110183000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240110183000 +0100" stop="20240110190000 +0100" channel="Funbox">
+    <title lang="es">El Inspector Gadget</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-inspector-gadget_l_m.jpg"/>
+  </programme>
+  <programme start="20240110190000 +0100" stop="20240110193000 +0100" channel="Funbox">
+    <title lang="es">Caillou</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caillou_l_m.jpg"/>
+  </programme>
+  <programme start="20240110193000 +0100" stop="20240110200000 +0100" channel="Funbox">
+    <title lang="es">Mike el caballero</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mike-el-caballero_l_m.jpg"/>
+  </programme>
+  <programme start="20240110200000 +0100" stop="20240110203000 +0100" channel="Funbox">
+    <title lang="es">Little People</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_little-people_l_m.jpg"/>
+  </programme>
+  <programme start="20240110203000 +0100" stop="20240110205000 +0100" channel="Funbox">
+    <title lang="es">Bob, el constructor</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bob-el-constructor_l_m.jpg"/>
+  </programme>
+  <programme start="20240110205000 +0100" stop="20240110210000 +0100" channel="Funbox">
+    <title lang="es">Aventuras StoryZoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aventuras-storyzoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240110210000 +0100" stop="20240110213000 +0100" channel="Funbox">
+    <title lang="es">Zoboomafoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zoboomafoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240110213000 +0100" stop="20240110220000 +0100" channel="Funbox">
+    <title lang="es">Backyardigans</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_backyardigans_l_m.jpg"/>
+  </programme>
+  <programme start="20240110220000 +0100" stop="20240110233000 +0100" channel="Funbox">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-confirmar_l_m.jpg"/>
+  </programme>
+  <programme start="20240110233000 +0100" stop="20240111000000 +0100" channel="Funbox">
+    <title lang="es">Poko</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_poko_l_m.jpg"/>
+  </programme>
+  <programme start="20240111000000 +0100" stop="20240111003000 +0100" channel="Funbox">
+    <title lang="es">Bo en acción</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bo-en-accion_l_m.jpg"/>
+  </programme>
+  <programme start="20240111003000 +0100" stop="20240111010000 +0100" channel="Funbox">
+    <title lang="es">Hotel Transylvania: la serie</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hotel-transylvania-la-serie-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240111010000 +0100" stop="20240111013000 +0100" channel="Funbox">
+    <title lang="es">Johnny Test</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_johnny-test_l_m.jpg"/>
+  </programme>
+  <programme start="20240111013000 +0100" stop="20240111020000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240111020000 +0100" stop="20240111023000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240111023000 +0100" stop="20240111030000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240111030000 +0100" stop="20240111033000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240111033000 +0100" stop="20240111040000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240111040000 +0100" stop="20240111043000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240111043000 +0100" stop="20240111050000 +0100" channel="Funbox">
+    <title lang="es">El Inspector Gadget</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-inspector-gadget_l_m.jpg"/>
+  </programme>
+  <programme start="20240111050000 +0100" stop="20240111053000 +0100" channel="Funbox">
+    <title lang="es">Caillou</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caillou_l_m.jpg"/>
+  </programme>
+  <programme start="20240111053000 +0100" stop="20240111060000 +0100" channel="Funbox">
+    <title lang="es">Mike el caballero</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mike-el-caballero_l_m.jpg"/>
+  </programme>
+  <programme start="20240111060000 +0100" stop="20240111063000 +0100" channel="Funbox">
+    <title lang="es">Little People</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_little-people_l_m.jpg"/>
+  </programme>
+  <programme start="20240111063000 +0100" stop="20240111065000 +0100" channel="Funbox">
+    <title lang="es">Bob, el constructor</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bob-el-constructor_l_m.jpg"/>
+  </programme>
+  <programme start="20240111065000 +0100" stop="20240111070000 +0100" channel="Funbox">
+    <title lang="es">Aventuras StoryZoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aventuras-storyzoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240111070000 +0100" stop="20240111073000 +0100" channel="Funbox">
+    <title lang="es">Zoboomafoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zoboomafoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240111073000 +0100" stop="20240111080000 +0100" channel="Funbox">
+    <title lang="es">Backyardigans</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_backyardigans_l_m.jpg"/>
+  </programme>
+  <programme start="20240111080000 +0100" stop="20240111083000 +0100" channel="Funbox">
+    <title lang="es">Poko</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_poko_l_m.jpg"/>
+  </programme>
+  <programme start="20240111083000 +0100" stop="20240111090000 +0100" channel="Funbox">
+    <title lang="es">Bo en acción</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bo-en-accion_l_m.jpg"/>
+  </programme>
+  <programme start="20240111090000 +0100" stop="20240111093000 +0100" channel="Funbox">
+    <title lang="es">Hotel Transylvania: la serie</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hotel-transylvania-la-serie-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240111093000 +0100" stop="20240111100000 +0100" channel="Funbox">
+    <title lang="es">Johnny Test</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_johnny-test_l_m.jpg"/>
+  </programme>
+  <programme start="20240111100000 +0100" stop="20240111103000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240111103000 +0100" stop="20240111110000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240111110000 +0100" stop="20240111113000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240111113000 +0100" stop="20240111120000 +0100" channel="Funbox">
+    <title lang="es">El Inspector Gadget</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-inspector-gadget_l_m.jpg"/>
+  </programme>
+  <programme start="20240111120000 +0100" stop="20240111123000 +0100" channel="Funbox">
+    <title lang="es">Caillou</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caillou_l_m.jpg"/>
+  </programme>
+  <programme start="20240111123000 +0100" stop="20240111130000 +0100" channel="Funbox">
+    <title lang="es">Mike el caballero</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mike-el-caballero_l_m.jpg"/>
+  </programme>
+  <programme start="20240111130000 +0100" stop="20240111133000 +0100" channel="Funbox">
+    <title lang="es">Little People</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_little-people_l_m.jpg"/>
+  </programme>
+  <programme start="20240111133000 +0100" stop="20240111135000 +0100" channel="Funbox">
+    <title lang="es">Bob, el constructor</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bob-el-constructor_l_m.jpg"/>
+  </programme>
+  <programme start="20240111135000 +0100" stop="20240111140000 +0100" channel="Funbox">
+    <title lang="es">Aventuras StoryZoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aventuras-storyzoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240111140000 +0100" stop="20240111143000 +0100" channel="Funbox">
+    <title lang="es">Zoboomafoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zoboomafoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240111143000 +0100" stop="20240111150000 +0100" channel="Funbox">
+    <title lang="es">Backyardigans</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_backyardigans_l_m.jpg"/>
+  </programme>
+  <programme start="20240111150000 +0100" stop="20240111153000 +0100" channel="Funbox">
+    <title lang="es">Poko</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_poko_l_m.jpg"/>
+  </programme>
+  <programme start="20240111153000 +0100" stop="20240111160000 +0100" channel="Funbox">
+    <title lang="es">Bo en acción</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bo-en-accion_l_m.jpg"/>
+  </programme>
+  <programme start="20240111160000 +0100" stop="20240111163000 +0100" channel="Funbox">
+    <title lang="es">Hotel Transylvania: la serie</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hotel-transylvania-la-serie-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240111163000 +0100" stop="20240111170000 +0100" channel="Funbox">
+    <title lang="es">Johnny Test</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_johnny-test_l_m.jpg"/>
+  </programme>
+  <programme start="20240111170000 +0100" stop="20240111173000 +0100" channel="Funbox">
+    <title lang="es">Polly Pocket</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_polly-pocket_l_m.jpg"/>
+  </programme>
+  <programme start="20240111173000 +0100" stop="20240111180000 +0100" channel="Funbox">
+    <title lang="es">Rosita Fresita: aventuras en Tutti Frutti</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rosita-fresita-aventuras-en-tutti-frutti_l_m.jpg"/>
+  </programme>
+  <programme start="20240111180000 +0100" stop="20240111183000 +0100" channel="Funbox">
+    <title lang="es">Carmen Sandiego</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-sandiego_l_m.jpg"/>
+  </programme>
+  <programme start="20240111183000 +0100" stop="20240111190000 +0100" channel="Funbox">
+    <title lang="es">El Inspector Gadget</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-inspector-gadget_l_m.jpg"/>
+  </programme>
+  <programme start="20240111190000 +0100" stop="20240111193000 +0100" channel="Funbox">
+    <title lang="es">Caillou</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caillou_l_m.jpg"/>
+  </programme>
+  <programme start="20240111193000 +0100" stop="20240111200000 +0100" channel="Funbox">
+    <title lang="es">Mike el caballero</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mike-el-caballero_l_m.jpg"/>
+  </programme>
+  <programme start="20240111200000 +0100" stop="20240111203000 +0100" channel="Funbox">
+    <title lang="es">Little People</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_little-people_l_m.jpg"/>
+  </programme>
+  <programme start="20240111203000 +0100" stop="20240111205000 +0100" channel="Funbox">
+    <title lang="es">Bob, el constructor</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bob-el-constructor_l_m.jpg"/>
+  </programme>
+  <programme start="20240111205000 +0100" stop="20240111210000 +0100" channel="Funbox">
+    <title lang="es">Aventuras StoryZoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aventuras-storyzoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240111210000 +0100" stop="20240111213000 +0100" channel="Funbox">
+    <title lang="es">Zoboomafoo</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zoboomafoo_l_m.jpg"/>
+  </programme>
+  <programme start="20240111213000 +0100" stop="20240111220000 +0100" channel="Funbox">
+    <title lang="es">Backyardigans</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_backyardigans_l_m.jpg"/>
+  </programme>
+  <programme start="20240111220000 +0100" stop="20240111233000 +0100" channel="Funbox">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-confirmar_l_m.jpg"/>
+  </programme>
+  <programme start="20240111233000 +0100" stop="20240112000000 +0100" channel="Funbox">
+    <title lang="es">Poko</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_poko_l_m.jpg"/>
+  </programme>
+  <programme start="20240112000000 +0100" stop="20240112003000 +0100" channel="Funbox">
+    <title lang="es">Bo en acción</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_bo-en-accion_l_m.jpg"/>
+  </programme>
+  <programme start="20240112003000 +0100" stop="20240112010000 +0100" channel="Funbox">
+    <title lang="es">Hotel Transylvania: la serie</title>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hotel-transylvania-la-serie-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240112010000 +0100" stop="20240112013000 +0100" channel="Funbox">
+    <title lang="es">Johnny Test</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_johnny-test_l_m.jpg"/>
+  </programme>
   <programme start="20240110020000 +0100" stop="20240110022000 +0100" channel="CHI | TELETRAK">
     <title lang="es">Compacto - Concepción</title>
     <category lang="es">Compacto - Concepción</category>
@@ -803,5 +1297,75 @@
     <title lang="es">Archivo palmeño</title>
     <category lang="es">Archivo palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-archivo-palmeno_l_m.jpg"/>
+  </programme>
+  <programme start="20240110003000 +0100" stop="20240110023000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Comisión de constitución</title>
+    <category lang="es">- Emisión del día 09/01/24</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-constitucion-emision-del-dia-09-01-24_l_m.jpg"/>
+  </programme>
+  <programme start="20240110023000 +0100" stop="20240110083000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Cierre</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre_l_m.jpg"/>
+  </programme>
+  <programme start="20240110083000 +0100" stop="20240110090000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">CNTV Infantil: Televisión educativa</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cntv-infantil-television-educativa-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240110090000 +0100" stop="20240110110000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">CNTV Infantil: Televisión educativa</title>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cntv-infantil-television-educativa-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240110110000 +0100" stop="20240110120000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">CDTV</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdtv_l_m.jpg"/>
+  </programme>
+  <programme start="20240110120000 +0100" stop="20240110170000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Sesión de sala</title>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sesion-de-sala_l_m.jpg"/>
+  </programme>
+  <programme start="20240110170000 +0100" stop="20240110190000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">CDTV</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cdtv_l_m.jpg"/>
+  </programme>
+  <programme start="20240110190000 +0100" stop="20240110220000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Comisión de seguridad ciudadana</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-seguridad-ciudadana_l_m.jpg"/>
+  </programme>
+  <programme start="20240110220000 +0100" stop="20240110230000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">UESTV</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_uestv_l_m.jpg"/>
+  </programme>
+  <programme start="20240110230000 +0100" stop="20240111000000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">La cámara en la radio</title>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-camara-en-la-radio_l_m.jpg"/>
+  </programme>
+  <programme start="20240111000000 +0100" stop="20240111003000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Puntos de vista</title>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_puntos-de-vista_l_m.jpg"/>
+  </programme>
+  <programme start="20240111003000 +0100" stop="20240112003000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Comisión de derechos humanos</title>
+    <category lang="es">Cultural</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-derechos-humanos_l_m.jpg"/>
+  </programme>
+  <programme start="20240112003000 +0100" stop="20240112023000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Comisión de derechos humanos</title>
+    <category lang="es">Cultural</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-derechos-humanos_l_m.jpg"/>
+  </programme>
+  <programme start="20240112023000 +0100" stop="20240112090000 +0100" channel="CHI | CANAL DIPUTADOS">
+    <title lang="es">Cierre</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre_l_m.jpg"/>
   </programme>
 </tv>
