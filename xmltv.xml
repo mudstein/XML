@@ -34,524 +34,294 @@
     <display-name lang="es">CHI | CAMARA DE DIPUTADOS</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_tv-diputados_m.png"/>
   </channel>
-  <programme start="20240109004500 -0300" stop="20240109013000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110004500 -0300" stop="20240110013000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 noche</title>
   </programme>
-  <programme start="20240109013000 -0300" stop="20240109014500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110013000 -0300" stop="20240110014500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">TV Tiempo Informe Final</title>
   </programme>
-  <programme start="20240109014500 -0300" stop="20240109021500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110014500 -0300" stop="20240110021500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">El Clon</title>
   </programme>
-  <programme start="20240109021500 -0300" stop="20240109031500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110021500 -0300" stop="20240110031500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Mea Culpa clásicos</title>
   </programme>
-  <programme start="20240109031500 -0300" stop="20240109043000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110031500 -0300" stop="20240110043000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">El cuento del tío</title>
   </programme>
-  <programme start="20240109043000 -0300" stop="20240109044500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110043000 -0300" stop="20240110044500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Chile conectado</title>
   </programme>
-  <programme start="20240109044500 -0300" stop="20240109051500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110044500 -0300" stop="20240110051500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 horas</title>
     <sub-title lang="es">Deportes</sub-title>
   </programme>
-  <programme start="20240109051500 -0300" stop="20240109054500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110051500 -0300" stop="20240110054500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Hora 24</title>
   </programme>
-  <programme start="20240109054500 -0300" stop="20240109061500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110054500 -0300" stop="20240110061500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Previa 24</title>
   </programme>
-  <programme start="20240109061500 -0300" stop="20240109080000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110061500 -0300" stop="20240110080000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 AM</title>
   </programme>
-  <programme start="20240109080000 -0300" stop="20240109130000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110080000 -0300" stop="20240110130000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Buenos Días a Todos</title>
   </programme>
-  <programme start="20240109130000 -0300" stop="20240109144500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110130000 -0300" stop="20240110144500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 Tarde</title>
   </programme>
-  <programme start="20240109144500 -0300" stop="20240109151500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110144500 -0300" stop="20240110151500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Amor en juego</title>
   </programme>
-  <programme start="20240109151500 -0300" stop="20240109163000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110151500 -0300" stop="20240110163000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Me robó mi vida</title>
   </programme>
-  <programme start="20240109163000 -0300" stop="20240109180000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110163000 -0300" stop="20240110180000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20240109180000 -0300" stop="20240109193000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110180000 -0300" stop="20240110193000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Carmen Gloria a tu servicio</title>
   </programme>
-  <programme start="20240109193000 -0300" stop="20240109210000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110193000 -0300" stop="20240110210000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20240109210000 -0300" stop="20240109224000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110210000 -0300" stop="20240110224000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 Horas</title>
     <sub-title lang="es">Central</sub-title>
   </programme>
-  <programme start="20240109224000 -0300" stop="20240109224500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110224000 -0300" stop="20240110224500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Tiempo TV</title>
   </programme>
-  <programme start="20240109224500 -0300" stop="20240109235000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240110224500 -0300" stop="20240110235000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Yo decido amar</title>
-  </programme>
-  <programme start="20240109235000 -0300" stop="20240110004500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Todo por mi familia</title>
   </programme>
   <programme start="20240110235000 -0300" stop="20240111004500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Todo por mi familia</title>
   </programme>
-  <programme start="20240111004500 -0300" stop="20240111013000 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240111235000 -0300" stop="20240112004500 -0300" channel="CHI | CANAL  TVN">
+    <title lang="es">Todo por mi familia</title>
+  </programme>
+  <programme start="20240112004500 -0300" stop="20240112013000 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">24 noche</title>
   </programme>
-  <programme start="20240111013000 -0300" stop="20240111014500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240112013000 -0300" stop="20240112014500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">TV Tiempo Informe Final</title>
   </programme>
-  <programme start="20240111014500 -0300" stop="20240111021500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240112014500 -0300" stop="20240112021500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">El Clon</title>
   </programme>
-  <programme start="20240111021500 -0300" stop="20240111031500 -0300" channel="CHI | CANAL  TVN">
+  <programme start="20240112021500 -0300" stop="20240112031500 -0300" channel="CHI | CANAL  TVN">
     <title lang="es">Mea Culpa clásicos</title>
   </programme>
-  <programme start="20240111031500 -0300" stop="20240111043000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">El cuento del tío</title>
-  </programme>
-  <programme start="20240111043000 -0300" stop="20240111044500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Chile conectado</title>
-  </programme>
-  <programme start="20240111044500 -0300" stop="20240111051500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">24 horas</title>
-    <sub-title lang="es">Deportes</sub-title>
-  </programme>
-  <programme start="20240111051500 -0300" stop="20240111054500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Hora 24</title>
-  </programme>
-  <programme start="20240111054500 -0300" stop="20240111061500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Previa 24</title>
-  </programme>
-  <programme start="20240111061500 -0300" stop="20240111080000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">24 AM</title>
-  </programme>
-  <programme start="20240111080000 -0300" stop="20240111130000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Buenos Días a Todos</title>
-  </programme>
-  <programme start="20240111130000 -0300" stop="20240111144500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">24 Tarde</title>
-  </programme>
-  <programme start="20240111144500 -0300" stop="20240111151500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Amor en juego</title>
-  </programme>
-  <programme start="20240111151500 -0300" stop="20240111163000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Me robó mi vida</title>
-  </programme>
-  <programme start="20240111163000 -0300" stop="20240111180000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20240111180000 -0300" stop="20240111193000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Carmen Gloria a tu servicio</title>
-  </programme>
-  <programme start="20240111193000 -0300" stop="20240111210000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20240111210000 -0300" stop="20240111224000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">24 Horas</title>
-    <sub-title lang="es">Central</sub-title>
-  </programme>
-  <programme start="20240111224000 -0300" stop="20240111224500 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">Tiempo TV</title>
-  </programme>
-  <programme start="20240111224500 -0300" stop="20240112000000 -0300" channel="CHI | CANAL  TVN">
-    <title lang="es">La cacería en el fin del mundo</title>
-  </programme>
-  <programme start="20240109002000 -0300" stop="20240109010000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110002000 -0300" stop="20240110010000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Ellas soy yo, Gloria Trevi</title>
     <desc lang="es">Sigue el viaje de Gloria Trevi, una mujer que desafió las convenciones, venció la adversidad y encontró la redención a través de su espíritu inquebrantable.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ellas_soy_yo_gloria_trevi.jpg"/>
   </programme>
-  <programme start="20240109010000 -0300" stop="20240109020000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110010000 -0300" stop="20240110020000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Tierra Extra Brava</title>
   </programme>
-  <programme start="20240109020000 -0300" stop="20240109030000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110020000 -0300" stop="20240110030000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Teletrece</title>
     <sub-title lang="es">Noche</sub-title>
   </programme>
-  <programme start="20240109030000 -0300" stop="20240109040000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110030000 -0300" stop="20240110040000 -0300" channel="CHI | CANAL 13">
     <title lang="es">La ley y el orden</title>
   </programme>
-  <programme start="20240109040000 -0300" stop="20240109050000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110040000 -0300" stop="20240110050000 -0300" channel="CHI | CANAL 13">
     <title lang="es">T13 en vivo informa</title>
   </programme>
-  <programme start="20240109050000 -0300" stop="20240109060000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110050000 -0300" stop="20240110060000 -0300" channel="CHI | CANAL 13">
     <title lang="es">3x3</title>
   </programme>
-  <programme start="20240109060000 -0300" stop="20240109080000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110060000 -0300" stop="20240110080000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Teletrece</title>
     <sub-title lang="es">AM</sub-title>
   </programme>
-  <programme start="20240109080000 -0300" stop="20240109130000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110080000 -0300" stop="20240110130000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Tu día</title>
   </programme>
-  <programme start="20240109130000 -0300" stop="20240109143000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110130000 -0300" stop="20240110143000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Teletrece</title>
     <sub-title lang="es">Tarde</sub-title>
   </programme>
-  <programme start="20240109143000 -0300" stop="20240109143500 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110143000 -0300" stop="20240110143500 -0300" channel="CHI | CANAL 13">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20240109143500 -0300" stop="20240109155000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110143500 -0300" stop="20240110155000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Melissa</title>
   </programme>
-  <programme start="20240109155000 -0300" stop="20240109172000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110155000 -0300" stop="20240110172000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Doña Barbara</title>
   </programme>
-  <programme start="20240109172000 -0300" stop="20240109190000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110172000 -0300" stop="20240110190000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Tierra brava en bruto</title>
   </programme>
-  <programme start="20240109190000 -0300" stop="20240109204500 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110190000 -0300" stop="20240110204500 -0300" channel="CHI | CANAL 13">
     <title lang="es">Qué dice Chile, jóvenes en competencia</title>
   </programme>
-  <programme start="20240109204500 -0300" stop="20240109221000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110204500 -0300" stop="20240110221000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Teletrece</title>
   </programme>
-  <programme start="20240109221000 -0300" stop="20240109222000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240110221000 -0300" stop="20240110222000 -0300" channel="CHI | CANAL 13">
     <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20240109222000 -0300" stop="20240110002000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Tierra Brava</title>
   </programme>
   <programme start="20240110222000 -0300" stop="20240111002000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Tierra Brava</title>
   </programme>
-  <programme start="20240111002000 -0300" stop="20240111010000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240111222000 -0300" stop="20240112002000 -0300" channel="CHI | CANAL 13">
+    <title lang="es">Tierra Brava</title>
+  </programme>
+  <programme start="20240112002000 -0300" stop="20240112010000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Ellas soy yo, Gloria Trevi</title>
     <desc lang="es">Sigue el viaje de Gloria Trevi, una mujer que desafió las convenciones, venció la adversidad y encontró la redención a través de su espíritu inquebrantable.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ellas_soy_yo_gloria_trevi.jpg"/>
   </programme>
-  <programme start="20240111010000 -0300" stop="20240111020000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240112010000 -0300" stop="20240112020000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Tierra Extra Brava</title>
   </programme>
-  <programme start="20240111020000 -0300" stop="20240111030000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240112020000 -0300" stop="20240112030000 -0300" channel="CHI | CANAL 13">
     <title lang="es">Teletrece</title>
     <sub-title lang="es">Noche</sub-title>
   </programme>
-  <programme start="20240111030000 -0300" stop="20240111040000 -0300" channel="CHI | CANAL 13">
+  <programme start="20240112030000 -0300" stop="20240112040000 -0300" channel="CHI | CANAL 13">
     <title lang="es">La ley y el orden</title>
   </programme>
-  <programme start="20240111040000 -0300" stop="20240111050000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">T13 en vivo informa</title>
-  </programme>
-  <programme start="20240111050000 -0300" stop="20240111060000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">3x3</title>
-  </programme>
-  <programme start="20240111060000 -0300" stop="20240111080000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Teletrece</title>
-    <sub-title lang="es">AM</sub-title>
-  </programme>
-  <programme start="20240111080000 -0300" stop="20240111130000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Tu día</title>
-  </programme>
-  <programme start="20240111130000 -0300" stop="20240111143000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Teletrece</title>
-    <sub-title lang="es">Tarde</sub-title>
-  </programme>
-  <programme start="20240111143000 -0300" stop="20240111143500 -0300" channel="CHI | CANAL 13">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20240111143500 -0300" stop="20240111155000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Melissa</title>
-  </programme>
-  <programme start="20240111155000 -0300" stop="20240111172000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Doña Barbara</title>
-  </programme>
-  <programme start="20240111172000 -0300" stop="20240111190000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Tierra brava en bruto</title>
-  </programme>
-  <programme start="20240111190000 -0300" stop="20240111204500 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Qué dice Chile, jóvenes en competencia</title>
-  </programme>
-  <programme start="20240111204500 -0300" stop="20240111221000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Teletrece</title>
-  </programme>
-  <programme start="20240111221000 -0300" stop="20240111222000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20240111222000 -0300" stop="20240112002000 -0300" channel="CHI | CANAL 13">
-    <title lang="es">Tierra Brava</title>
-  </programme>
-  <programme start="20240109003000 -0300" stop="20240109011500 -0300" channel="CHI | MEGA">
+  <programme start="20240110003000 -0300" stop="20240110011500 -0300" channel="CHI | MEGA">
     <title lang="es">Yargi</title>
     <episode-num system="onscreen">E72</episode-num>
   </programme>
-  <programme start="20240109011500 -0300" stop="20240109020000 -0300" channel="CHI | MEGA">
+  <programme start="20240110011500 -0300" stop="20240110020000 -0300" channel="CHI | MEGA">
     <title lang="es">Como la vida misma</title>
   </programme>
-  <programme start="20240109020000 -0300" stop="20240109031500 -0300" channel="CHI | MEGA">
+  <programme start="20240110020000 -0300" stop="20240110031500 -0300" channel="CHI | MEGA">
     <title lang="es">Nehir</title>
   </programme>
-  <programme start="20240109031500 -0300" stop="20240109050000 -0300" channel="CHI | MEGA">
+  <programme start="20240110031500 -0300" stop="20240110050000 -0300" channel="CHI | MEGA">
     <title lang="es">Dulce ambición</title>
     <episode-num system="onscreen">E74</episode-num>
   </programme>
-  <programme start="20240109050000 -0300" stop="20240109070000 -0300" channel="CHI | MEGA">
+  <programme start="20240110050000 -0300" stop="20240110070000 -0300" channel="CHI | MEGA">
     <title lang="es">Oye</title>
   </programme>
-  <programme start="20240109070000 -0300" stop="20240109080000 -0300" channel="CHI | MEGA">
+  <programme start="20240110070000 -0300" stop="20240110080000 -0300" channel="CHI | MEGA">
     <title lang="es">Meganoticias amanece</title>
   </programme>
-  <programme start="20240109080000 -0300" stop="20240109120000 -0300" channel="CHI | MEGA">
+  <programme start="20240110080000 -0300" stop="20240110120000 -0300" channel="CHI | MEGA">
     <title lang="es">Mucho gusto</title>
   </programme>
-  <programme start="20240109120000 -0300" stop="20240109150000 -0300" channel="CHI | MEGA">
+  <programme start="20240110120000 -0300" stop="20240110150000 -0300" channel="CHI | MEGA">
     <title lang="es">Meganoticias Alerta</title>
   </programme>
-  <programme start="20240109150000 -0300" stop="20240109150500 -0300" channel="CHI | MEGA">
+  <programme start="20240110150000 -0300" stop="20240110150500 -0300" channel="CHI | MEGA">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20240109150500 -0300" stop="20240109154500 -0300" channel="CHI | MEGA">
+  <programme start="20240110150500 -0300" stop="20240110154500 -0300" channel="CHI | MEGA">
     <title lang="es">Juego de Ilusiones</title>
     <episode-num system="onscreen">E251</episode-num>
   </programme>
-  <programme start="20240109154500 -0300" stop="20240109162000 -0300" channel="CHI | MEGA">
+  <programme start="20240110154500 -0300" stop="20240110162000 -0300" channel="CHI | MEGA">
     <title lang="es">Juego de Ilusiones</title>
     <episode-num system="onscreen">E252</episode-num>
   </programme>
-  <programme start="20240109162000 -0300" stop="20240109171500 -0300" channel="CHI | MEGA">
+  <programme start="20240110162000 -0300" stop="20240110171500 -0300" channel="CHI | MEGA">
     <title lang="es">Yargi</title>
   </programme>
-  <programme start="20240109171500 -0300" stop="20240109180500 -0300" channel="CHI | MEGA">
+  <programme start="20240110171500 -0300" stop="20240110180500 -0300" channel="CHI | MEGA">
     <title lang="es">La hora de jugar</title>
   </programme>
-  <programme start="20240109180500 -0300" stop="20240109190000 -0300" channel="CHI | MEGA">
+  <programme start="20240110180500 -0300" stop="20240110190000 -0300" channel="CHI | MEGA">
     <title lang="es">Nehir</title>
     <episode-num system="onscreen">E70</episode-num>
   </programme>
-  <programme start="20240109190000 -0300" stop="20240109194000 -0300" channel="CHI | MEGA">
+  <programme start="20240110190000 -0300" stop="20240110194000 -0300" channel="CHI | MEGA">
     <title lang="es">Lo mejor - Seyran y Ferit</title>
   </programme>
-  <programme start="20240109194000 -0300" stop="20240109203000 -0300" channel="CHI | MEGA">
+  <programme start="20240110194000 -0300" stop="20240110203000 -0300" channel="CHI | MEGA">
     <title lang="es">Como la vida misma</title>
     <episode-num system="onscreen">E166</episode-num>
   </programme>
-  <programme start="20240109203000 -0300" stop="20240109211200 -0300" channel="CHI | MEGA">
+  <programme start="20240110203000 -0300" stop="20240110211200 -0300" channel="CHI | MEGA">
     <title lang="es">Como la vida misma</title>
     <episode-num system="onscreen">E167</episode-num>
   </programme>
-  <programme start="20240109211200 -0300" stop="20240109224000 -0300" channel="CHI | MEGA">
+  <programme start="20240110211200 -0300" stop="20240110224000 -0300" channel="CHI | MEGA">
     <title lang="es">Meganoticias Prime</title>
   </programme>
-  <programme start="20240109224000 -0300" stop="20240109224500 -0300" channel="CHI | MEGA">
+  <programme start="20240110224000 -0300" stop="20240110224500 -0300" channel="CHI | MEGA">
     <title lang="es">El tiempo</title>
   </programme>
-  <programme start="20240109224500 -0300" stop="20240109233000 -0300" channel="CHI | MEGA">
+  <programme start="20240110224500 -0300" stop="20240110233000 -0300" channel="CHI | MEGA">
     <title lang="es">Generación 98</title>
     <episode-num system="onscreen">E125</episode-num>
-  </programme>
-  <programme start="20240109233000 -0300" stop="20240110003000 -0300" channel="CHI | MEGA">
-    <title lang="es">Seyran y Ferit</title>
-    <episode-num system="onscreen">E60</episode-num>
   </programme>
   <programme start="20240110233000 -0300" stop="20240111003000 -0300" channel="CHI | MEGA">
     <title lang="es">Seyran y Ferit</title>
     <episode-num system="onscreen">E60</episode-num>
   </programme>
-  <programme start="20240111003000 -0300" stop="20240111011500 -0300" channel="CHI | MEGA">
+  <programme start="20240111233000 -0300" stop="20240112003000 -0300" channel="CHI | MEGA">
+    <title lang="es">Seyran y Ferit</title>
+    <episode-num system="onscreen">E60</episode-num>
+  </programme>
+  <programme start="20240112003000 -0300" stop="20240112011500 -0300" channel="CHI | MEGA">
     <title lang="es">Yargi</title>
     <episode-num system="onscreen">E173</episode-num>
   </programme>
-  <programme start="20240111011500 -0300" stop="20240111020000 -0300" channel="CHI | MEGA">
+  <programme start="20240112011500 -0300" stop="20240112020000 -0300" channel="CHI | MEGA">
     <title lang="es">Como la vida misma</title>
   </programme>
-  <programme start="20240111020000 -0300" stop="20240111031500 -0300" channel="CHI | MEGA">
+  <programme start="20240112020000 -0300" stop="20240112031500 -0300" channel="CHI | MEGA">
     <title lang="es">Nehir</title>
   </programme>
-  <programme start="20240111031500 -0300" stop="20240111050000 -0300" channel="CHI | MEGA">
-    <title lang="es">Dulce ambición</title>
-    <episode-num system="onscreen">E175</episode-num>
-  </programme>
-  <programme start="20240111050000 -0300" stop="20240111070000 -0300" channel="CHI | MEGA">
-    <title lang="es">Oye</title>
-  </programme>
-  <programme start="20240111070000 -0300" stop="20240111080000 -0300" channel="CHI | MEGA">
-    <title lang="es">Meganoticias amanece</title>
-  </programme>
-  <programme start="20240111080000 -0300" stop="20240111120000 -0300" channel="CHI | MEGA">
-    <title lang="es">Mucho gusto</title>
-  </programme>
-  <programme start="20240111120000 -0300" stop="20240111150000 -0300" channel="CHI | MEGA">
-    <title lang="es">Meganoticias Alerta</title>
-  </programme>
-  <programme start="20240111150000 -0300" stop="20240111150500 -0300" channel="CHI | MEGA">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20240111150500 -0300" stop="20240111154500 -0300" channel="CHI | MEGA">
-    <title lang="es">Juego de Ilusiones</title>
-    <episode-num system="onscreen">E252</episode-num>
-  </programme>
-  <programme start="20240111154500 -0300" stop="20240111162000 -0300" channel="CHI | MEGA">
-    <title lang="es">Juego de Ilusiones</title>
-    <episode-num system="onscreen">E253</episode-num>
-  </programme>
-  <programme start="20240111162000 -0300" stop="20240111171500 -0300" channel="CHI | MEGA">
-    <title lang="es">Yargi</title>
-  </programme>
-  <programme start="20240111171500 -0300" stop="20240111180500 -0300" channel="CHI | MEGA">
-    <title lang="es">La hora de jugar</title>
-  </programme>
-  <programme start="20240111180500 -0300" stop="20240111190000 -0300" channel="CHI | MEGA">
-    <title lang="es">Nehir</title>
-    <episode-num system="onscreen">E71</episode-num>
-  </programme>
-  <programme start="20240111190000 -0300" stop="20240111194000 -0300" channel="CHI | MEGA">
-    <title lang="es">Lo mejor - Seyran y Ferit</title>
-  </programme>
-  <programme start="20240111194000 -0300" stop="20240111203000 -0300" channel="CHI | MEGA">
-    <title lang="es">Como la vida misma</title>
-    <episode-num system="onscreen">E167</episode-num>
-  </programme>
-  <programme start="20240111203000 -0300" stop="20240111211200 -0300" channel="CHI | MEGA">
-    <title lang="es">Como la vida misma</title>
-    <episode-num system="onscreen">E68</episode-num>
-  </programme>
-  <programme start="20240111211200 -0300" stop="20240111224000 -0300" channel="CHI | MEGA">
-    <title lang="es">Meganoticias Prime</title>
-  </programme>
-  <programme start="20240111224000 -0300" stop="20240111224500 -0300" channel="CHI | MEGA">
-    <title lang="es">El tiempo</title>
-  </programme>
-  <programme start="20240111224500 -0300" stop="20240111233000 -0300" channel="CHI | MEGA">
-    <title lang="es">Generación 98</title>
-    <episode-num system="onscreen">E26</episode-num>
-  </programme>
-  <programme start="20240111233000 -0300" stop="20240112003000 -0300" channel="CHI | MEGA">
-    <title lang="es">Seyran y Ferit</title>
-    <episode-num system="onscreen">E61</episode-num>
-  </programme>
-  <programme start="20240109003000 -0300" stop="20240109014500 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110003000 -0300" stop="20240110014500 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Relaciones peligrosas</title>
   </programme>
-  <programme start="20240109014500 -0300" stop="20240109054500 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110014500 -0300" stop="20240110054500 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Programación Trasnoche</title>
   </programme>
-  <programme start="20240109054500 -0300" stop="20240109063000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110054500 -0300" stop="20240110063000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Primera Página</title>
   </programme>
-  <programme start="20240109063000 -0300" stop="20240109080000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110063000 -0300" stop="20240110080000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">CHV Noticias</title>
     <sub-title lang="es">AM</sub-title>
   </programme>
-  <programme start="20240109080000 -0300" stop="20240109130000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110080000 -0300" stop="20240110130000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Contigo en la mañana</title>
     <episode-num system="onscreen">E1251</episode-num>
   </programme>
-  <programme start="20240109130000 -0300" stop="20240109153000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110130000 -0300" stop="20240110153000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">CHV Noticias</title>
     <sub-title lang="es">Tarde</sub-title>
   </programme>
-  <programme start="20240109153000 -0300" stop="20240109173000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110153000 -0300" stop="20240110173000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Contigo en Directo</title>
   </programme>
-  <programme start="20240109173000 -0300" stop="20240109183000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110173000 -0300" stop="20240110183000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Las mil noches de Onur &amp; Sherezade</title>
   </programme>
-  <programme start="20240109183000 -0300" stop="20240109194500 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110183000 -0300" stop="20240110194500 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Relaciones peligrosas</title>
   </programme>
-  <programme start="20240109194500 -0300" stop="20240109204500 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110194500 -0300" stop="20240110204500 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Pasión prohibida</title>
   </programme>
-  <programme start="20240109204500 -0300" stop="20240109223000 -0300" channel="CHI | CHILE VISION">
+  <programme start="20240110204500 -0300" stop="20240110223000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">CHV Noticias</title>
     <sub-title lang="es">Central</sub-title>
-  </programme>
-  <programme start="20240109223000 -0300" stop="20240110003000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Pasapalabra</title>
   </programme>
   <programme start="20240110223000 -0300" stop="20240111003000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Pasapalabra</title>
   </programme>
-  <programme start="20240111003000 -0300" stop="20240111014500 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Relaciones peligrosas</title>
-  </programme>
-  <programme start="20240111014500 -0300" stop="20240111054500 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Programación Trasnoche</title>
-  </programme>
-  <programme start="20240111054500 -0300" stop="20240111063000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Primera Página</title>
-  </programme>
-  <programme start="20240111063000 -0300" stop="20240111080000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">CHV Noticias</title>
-    <sub-title lang="es">AM</sub-title>
-  </programme>
-  <programme start="20240111080000 -0300" stop="20240111130000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Contigo en la mañana</title>
-    <episode-num system="onscreen">E1252</episode-num>
-  </programme>
-  <programme start="20240111130000 -0300" stop="20240111153000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">CHV Noticias</title>
-    <sub-title lang="es">Tarde</sub-title>
-  </programme>
-  <programme start="20240111153000 -0300" stop="20240111173000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Contigo en Directo</title>
-  </programme>
-  <programme start="20240111173000 -0300" stop="20240111183000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Las mil noches de Onur &amp; Sherezade</title>
-  </programme>
-  <programme start="20240111183000 -0300" stop="20240111194500 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Relaciones peligrosas</title>
-  </programme>
-  <programme start="20240111194500 -0300" stop="20240111204500 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">Pasión prohibida</title>
-  </programme>
-  <programme start="20240111204500 -0300" stop="20240111223000 -0300" channel="CHI | CHILE VISION">
-    <title lang="es">CHV Noticias</title>
-    <sub-title lang="es">Central</sub-title>
-  </programme>
   <programme start="20240111223000 -0300" stop="20240112003000 -0300" channel="CHI | CHILE VISION">
     <title lang="es">Pasapalabra</title>
   </programme>
-  <programme start="20240109020000 -0300" stop="20240109050000 -0300" channel="CHI | LA RED">
-    <title lang="es">Fin de transmisión</title>
+  <programme start="20240112003000 -0300" stop="20240112014500 -0300" channel="CHI | CHILE VISION">
+    <title lang="es">Relaciones peligrosas</title>
   </programme>
-  <programme start="20240109050000 -0300" stop="20240109100000 -0300" channel="CHI | LA RED">
-    <title lang="es">Swiss Nature Labs</title>
-  </programme>
-  <programme start="20240109100000 -0300" stop="20240109150000 -0300" channel="CHI | LA RED">
-    <title lang="es">Antena 3D</title>
-  </programme>
-  <programme start="20240109150000 -0300" stop="20240109163000 -0300" channel="CHI | LA RED">
-    <title lang="es">Swiss Nature Labs</title>
-  </programme>
-  <programme start="20240109163000 -0300" stop="20240109170000 -0300" channel="CHI | LA RED">
-    <title lang="es">Plaza Sesamo</title>
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20240109170000 -0300" stop="20240109175000 -0300" channel="CHI | LA RED">
-    <title lang="es">Saras y Kumud</title>
-    <episode-num system="onscreen">E60</episode-num>
-  </programme>
-  <programme start="20240109175000 -0300" stop="20240109184500 -0300" channel="CHI | LA RED">
-    <title lang="es">Un corazón especial</title>
-    <episode-num system="onscreen">E59</episode-num>
-  </programme>
-  <programme start="20240109184500 -0300" stop="20240109193000 -0300" channel="CHI | LA RED">
-    <title lang="es">Club 57</title>
-  </programme>
-  <programme start="20240109193000 -0300" stop="20240109203000 -0300" channel="CHI | LA RED">
-    <title lang="es">Antena 3D</title>
-  </programme>
-  <programme start="20240109203000 -0300" stop="20240109210000 -0300" channel="CHI | LA RED">
-    <title lang="es">Swiss Nature Labs</title>
-  </programme>
-  <programme start="20240109210000 -0300" stop="20240109220000 -0300" channel="CHI | LA RED">
-    <title lang="es">La Niña</title>
-  </programme>
-  <programme start="20240109220000 -0300" stop="20240110000000 -0300" channel="CHI | LA RED">
-    <title lang="es">Caja de Pandora</title>
-    <episode-num system="onscreen">E132</episode-num>
-  </programme>
-  <programme start="20240110000000 -0300" stop="20240110020000 -0300" channel="CHI | LA RED">
-    <title lang="es">El juego de la muerte</title>
+  <programme start="20240112014500 -0300" stop="20240112054500 -0300" channel="CHI | CHILE VISION">
+    <title lang="es">Programación Trasnoche</title>
   </programme>
   <programme start="20240110020000 -0300" stop="20240110050000 -0300" channel="CHI | LA RED">
     <title lang="es">Fin de transmisión</title>
@@ -567,15 +337,15 @@
   </programme>
   <programme start="20240110163000 -0300" stop="20240110170000 -0300" channel="CHI | LA RED">
     <title lang="es">Plaza Sesamo</title>
-    <episode-num system="onscreen">E6</episode-num>
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20240110170000 -0300" stop="20240110175000 -0300" channel="CHI | LA RED">
     <title lang="es">Saras y Kumud</title>
-    <episode-num system="onscreen">E61</episode-num>
+    <episode-num system="onscreen">E60</episode-num>
   </programme>
   <programme start="20240110175000 -0300" stop="20240110184500 -0300" channel="CHI | LA RED">
     <title lang="es">Un corazón especial</title>
-    <episode-num system="onscreen">E60</episode-num>
+    <episode-num system="onscreen">E59</episode-num>
   </programme>
   <programme start="20240110184500 -0300" stop="20240110193000 -0300" channel="CHI | LA RED">
     <title lang="es">Club 57</title>
@@ -590,6 +360,49 @@
     <title lang="es">La Niña</title>
   </programme>
   <programme start="20240110220000 -0300" stop="20240111000000 -0300" channel="CHI | LA RED">
+    <title lang="es">Caja de Pandora</title>
+    <episode-num system="onscreen">E132</episode-num>
+  </programme>
+  <programme start="20240111000000 -0300" stop="20240111020000 -0300" channel="CHI | LA RED">
+    <title lang="es">El juego de la muerte</title>
+  </programme>
+  <programme start="20240111020000 -0300" stop="20240111050000 -0300" channel="CHI | LA RED">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20240111050000 -0300" stop="20240111100000 -0300" channel="CHI | LA RED">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20240111100000 -0300" stop="20240111150000 -0300" channel="CHI | LA RED">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20240111150000 -0300" stop="20240111163000 -0300" channel="CHI | LA RED">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20240111163000 -0300" stop="20240111170000 -0300" channel="CHI | LA RED">
+    <title lang="es">Plaza Sesamo</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20240111170000 -0300" stop="20240111175000 -0300" channel="CHI | LA RED">
+    <title lang="es">Saras y Kumud</title>
+    <episode-num system="onscreen">E61</episode-num>
+  </programme>
+  <programme start="20240111175000 -0300" stop="20240111184500 -0300" channel="CHI | LA RED">
+    <title lang="es">Un corazón especial</title>
+    <episode-num system="onscreen">E60</episode-num>
+  </programme>
+  <programme start="20240111184500 -0300" stop="20240111193000 -0300" channel="CHI | LA RED">
+    <title lang="es">Club 57</title>
+  </programme>
+  <programme start="20240111193000 -0300" stop="20240111203000 -0300" channel="CHI | LA RED">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20240111203000 -0300" stop="20240111210000 -0300" channel="CHI | LA RED">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20240111210000 -0300" stop="20240111220000 -0300" channel="CHI | LA RED">
+    <title lang="es">La Niña</title>
+  </programme>
+  <programme start="20240111220000 -0300" stop="20240112000000 -0300" channel="CHI | LA RED">
     <title lang="es">Caja de Pandora</title>
     <episode-num system="onscreen">E133</episode-num>
   </programme>
