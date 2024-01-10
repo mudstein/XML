@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="CHI | CANAL  TVN">
-    <display-name lang="es">CHI | CANAL TVN</display-name>
+    <display-name lang="es">CHI | CANAL  TVN</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile.png"/>
   </channel>
   <channel id="CHI | CANAL 13">
