@@ -81,6 +81,7 @@
   </channel>
   <channel id="[AR]FOX Sports 2 HD">
     <display-name lang="es">2MB | Fox Sports</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"/>
   </channel>
   <channel id="Canal GOL PLAY (España)">
     <display-name lang="es">2 MB | GOL TV LQ</display-name>
@@ -4568,6 +4569,352 @@
   <programme start="20240120233000 -0300" stop="20240121000000 -0300" channel="Canal Disney Junior (México)">
     <title lang="es">Aventuras de jóvenes Jedi</title>
     <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20240118040000 +0100" stop="20240118050000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">La jugada perfecta</title>
+    <category lang="es">La jugada perfecta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-la-jugada-perfecta_l_m.jpg"/>
+  </programme>
+  <programme start="20240118050000 +0100" stop="20240118060000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Moving</title>
+    <category lang="es">Moving</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-moving_l_m.jpg"/>
+  </programme>
+  <programme start="20240118060000 +0100" stop="20240118063000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Fuera de eje</title>
+    <category lang="es">Fuera de eje</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fuera-de-eje_l_m.jpg"/>
+  </programme>
+  <programme start="20240118063000 +0100" stop="20240118070000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Ingrid Grudke</title>
+    <category lang="es">Íntimos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118070000 +0100" stop="20240118080000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Naranjito y yo</title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.7.</episode-num>
+  </programme>
+  <programme start="20240118080000 +0100" stop="20240118090000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">197: Johnson vs. Cejudo</title>
+    <category lang="es">UFC Unleashed</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118090000 +0100" stop="20240118100000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">276: Volkanovski vs. Holloway 3</title>
+    <category lang="es">UFC Main Event</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118100000 +0100" stop="20240118110000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">295</title>
+    <category lang="es">UFC Countdown</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-295_l_m.jpg"/>
+  </programme>
+  <programme start="20240118110000 +0100" stop="20240118120000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">La jugada perfecta</title>
+    <category lang="es">La jugada perfecta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-la-jugada-perfecta_l_m.jpg"/>
+  </programme>
+  <programme start="20240118120000 +0100" stop="20240118130000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Moving</title>
+    <category lang="es">Moving</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-moving_l_m.jpg"/>
+  </programme>
+  <programme start="20240118130000 +0100" stop="20240118140000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Marketing registrado</title>
+    <category lang="es">Marketing registrado</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-marketing-registrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240118140000 +0100" stop="20240118143000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Extra Fit</title>
+    <category lang="es">Extra Fit</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118143000 +0100" stop="20240118150000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Brandon Moreno</title>
+    <category lang="es">UFC Orígenes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-brandon-moreno-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240118150000 +0100" stop="20240118190000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">295: Prochazka vs. Pereira</title>
+    <category lang="es">UFC Preliminares</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118190000 +0100" stop="20240118213000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">295: Prochazka vs. Pereira</title>
+    <category lang="es">Madison Square Garden, New York, NY, USA</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118213000 +0100" stop="20240118220000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Extra Fit</title>
+    <category lang="es">Extra Fit</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118220000 +0100" stop="20240118223000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Best of 2022</title>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118223000 +0100" stop="20240118230000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Fuera de eje</title>
+    <category lang="es">Fuera de eje</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fuera-de-eje_l_m.jpg"/>
+  </programme>
+  <programme start="20240118230000 +0100" stop="20240118233000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Ingrid Grudke</title>
+    <category lang="es">Íntimos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240118233000 +0100" stop="20240119000000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Jackson - Porto</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119000000 +0100" stop="20240119020000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Lazio (Ita) vs. Celtic (Esc)</title>
+    <sub-title lang="es">Grupo E, Estadio Olimpico</sub-title>
+    <category lang="es">Fecha 5 - Grupo E, Estadio Olimpico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119020000 +0100" stop="20240119030000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">El show de la UEFA Champions League</title>
+    <category lang="es">El show de la UEFA Champions League</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-el-show-de-la-uefa-champions-league_l_m.jpg"/>
+  </programme>
+  <programme start="20240119030000 +0100" stop="20240119040000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Todo por el juego</title>
+    <sub-title lang="es">Empieza el juego</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_todo-por-el-juego-s02e01-empieza-el-juego_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20240119040000 +0100" stop="20240119050000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">La jugada perfecta</title>
+    <category lang="es">La jugada perfecta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-la-jugada-perfecta_l_m.jpg"/>
+  </programme>
+  <programme start="20240119050000 +0100" stop="20240119070000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">UCAM Murcia vs. Real Madrid</title>
+    <sub-title lang="es">Temporada regular</sub-title>
+    <category lang="es">Fecha 18 - Temporada regular</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119070000 +0100" stop="20240119080000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Naranjito y yo</title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.8.</episode-num>
+  </programme>
+  <programme start="20240119080000 +0100" stop="20240119090000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Cyborg vs. Lansberg</title>
+    <category lang="es">UFC Unleashed</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119090000 +0100" stop="20240119100000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">272: Covington vs. Masvidal</title>
+    <category lang="es">UFC Main Event</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119100000 +0100" stop="20240119110000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">296</title>
+    <category lang="es">UFC Countdown</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-296_l_m.jpg"/>
+  </programme>
+  <programme start="20240119110000 +0100" stop="20240119120000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">La jugada perfecta</title>
+    <category lang="es">La jugada perfecta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-la-jugada-perfecta_l_m.jpg"/>
+  </programme>
+  <programme start="20240119120000 +0100" stop="20240119123000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Ingrid Grudke</title>
+    <category lang="es">Íntimos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119123000 +0100" stop="20240119130000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Fuera de eje</title>
+    <category lang="es">Fuera de eje</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fuera-de-eje_l_m.jpg"/>
+  </programme>
+  <programme start="20240119130000 +0100" stop="20240119140000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">El show de la UEFA Champions League</title>
+    <category lang="es">El show de la UEFA Champions League</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-el-show-de-la-uefa-champions-league_l_m.jpg"/>
+  </programme>
+  <programme start="20240119140000 +0100" stop="20240119143000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Extra Fit</title>
+    <category lang="es">Extra Fit</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119143000 +0100" stop="20240119150000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Jorge Masvidal</title>
+    <category lang="es">UFC Orígenes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-jorge-masvidal_l_m.jpg"/>
+  </programme>
+  <programme start="20240119150000 +0100" stop="20240119180000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">296: Edwards vs. Covington</title>
+    <category lang="es">UFC Preliminares</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119180000 +0100" stop="20240119213000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">296 Edwards vs. Covington</title>
+    <category lang="es">UFC</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119213000 +0100" stop="20240119220000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Extra Fit</title>
+    <category lang="es">Extra Fit</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119220000 +0100" stop="20240119223000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Hispanic Heritage Month 2023</title>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240119223000 +0100" stop="20240119233000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Marketing registrado</title>
+    <category lang="es">Marketing registrado</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-marketing-registrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240119233000 +0100" stop="20240120000000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Moutinho - Mónaco</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120000000 +0100" stop="20240120020000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Sevilla (Esp) vs. PSV (Hol)</title>
+    <sub-title lang="es">Grupo B, Estadio Ramón Sánchez-Pizjuán</sub-title>
+    <category lang="es">Fecha 5 - Grupo B, Estadio Ramón Sánchez-Pizjuán</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120020000 +0100" stop="20240120023000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Fuera de eje</title>
+    <category lang="es">Fuera de eje</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fuera-de-eje_l_m.jpg"/>
+  </programme>
+  <programme start="20240120023000 +0100" stop="20240120030000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">UFC Conectado</title>
+    <category lang="es">UFC Conectado</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120030000 +0100" stop="20240120040000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Todo por el juego</title>
+    <sub-title lang="es">¿Hasta dónde estás dispuesto a llegar?</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_todo-por-el-juego-s02e02-hasta-donde-estas-dispuesto-a-llegar_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20240120040000 +0100" stop="20240120050000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">La jugada perfecta</title>
+    <category lang="es">La jugada perfecta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-la-jugada-perfecta_l_m.jpg"/>
+  </programme>
+  <programme start="20240120050000 +0100" stop="20240120070000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Lenovo Tenerife vs. Barcelona</title>
+    <sub-title lang="es">Temporada regular</sub-title>
+    <category lang="es">Fecha 18 - Temporada regular</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120070000 +0100" stop="20240120080000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Naranjito y yo</title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20240120080000 +0100" stop="20240120090000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Maia vs. Askren</title>
+    <category lang="es">UFC Unleashed</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120090000 +0100" stop="20240120100000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">275: Texeira vs. Prochazka</title>
+    <category lang="es">UFC Main Event</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120100000 +0100" stop="20240120103000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">UFC Conectado</title>
+    <category lang="es">UFC Conectado</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120103000 +0100" stop="20240120110000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Ultimate Fighter Alumni</title>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120110000 +0100" stop="20240120120000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">La jugada perfecta</title>
+    <category lang="es">La jugada perfecta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-la-jugada-perfecta_l_m.jpg"/>
+  </programme>
+  <programme start="20240120120000 +0100" stop="20240120123000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Fuera de eje</title>
+    <category lang="es">Fuera de eje</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fuera-de-eje_l_m.jpg"/>
+  </programme>
+  <programme start="20240120123000 +0100" stop="20240120130000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Ingrid Grudke</title>
+    <category lang="es">Íntimos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120130000 +0100" stop="20240120140000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Moving</title>
+    <category lang="es">Moving</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-moving_l_m.jpg"/>
+  </programme>
+  <programme start="20240120140000 +0100" stop="20240120150000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Marketing registrado</title>
+    <category lang="es">Marketing registrado</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-marketing-registrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240120150000 +0100" stop="20240120170000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Semifinal 1</title>
+    <category lang="es">Challenger - 50 AAT - Tenis Club Argentino</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120170000 +0100" stop="20240120190000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Semifinal 2</title>
+    <category lang="es">Challenger - 50 AAT - Tenis Club Argentino</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120190000 +0100" stop="20240120193000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Bruno Alves - Istambul</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120193000 +0100" stop="20240120200000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Deco - Río</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120200000 +0100" stop="20240120203000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Frank de Boer, Amesterdam</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120203000 +0100" stop="20240120210000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Jackson - Porto</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120210000 +0100" stop="20240120213000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Moutinho - Mónaco</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120213000 +0100" stop="20240120220000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Pastore-Paris</title>
+    <category lang="es">Las ciudades futbolísticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120220000 +0100" stop="20240120230000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">Maia vs. Askren</title>
+    <category lang="es">UFC Unleashed</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120230000 +0100" stop="20240120233000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">UFC Conectado</title>
+    <category lang="es">UFC Conectado</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240120233000 +0100" stop="20240121003000 +0100" channel="[AR]FOX Sports 2 HD">
+    <title lang="es">297: Strickland vs. du Plessis + Pennington vs. Silva</title>
+    <category lang="es">UFC Countdown</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-297-strickland-vs-du-plessis-pennington-vs-silva_l_m.jpg"/>
   </programme>
   <programme start="20240118050000 -0300" stop="20240118060000 -0300" channel="Canal GOL PLAY (España)">
     <title lang="es">Los vigilantes de la playa</title>
