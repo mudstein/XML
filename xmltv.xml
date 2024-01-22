@@ -502,6 +502,10 @@
     <display-name lang="es">2MB | FOX SPORTS 2 LQ</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png"/>
   </channel>
+  <channel id="[BR]HBO Family HD">
+    <display-name lang="es">2MB | HBO + LQ</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png"/>
+  </channel>
   <channel id="[AR]History">
     <display-name lang="es">2MB | History</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_history_m.png"/>
@@ -3786,7 +3790,7 @@
     <title lang="es">Cam Alert Captura exitosa</title>
   </programme>
   <programme start="20240122161000 -0300" stop="20240122170600 -0300" channel="Canal A&amp;E (Colombia)">
-    <title lang="es">Sobreviviendo a Escobar Alias JJ</title>
+    <title lang="es">Sobreviviendo a Escobar, Alias JJ</title>
     <sub-title lang="es">Alias J.J. sobrevive a un nuevo atentado y le salva la vida a uno de sus enemigos</sub-title>
   </programme>
   <programme start="20240122170600 -0300" stop="20240122175800 -0300" channel="Canal A&amp;E (Colombia)">
@@ -3810,7 +3814,7 @@
     <title lang="es">El club de la pelea</title>
   </programme>
   <programme start="20240123000000 -0300" stop="20240123005500 -0300" channel="Canal A&amp;E (Colombia)">
-    <title lang="es">Sobreviviendo a Escobar Alias JJ</title>
+    <title lang="es">Sobreviviendo a Escobar, Alias JJ</title>
     <sub-title lang="es">Cegada por su ira, Alexandra decide hablar con las autoridades</sub-title>
   </programme>
   <programme start="20240123005500 -0300" stop="20240123014800 -0300" channel="Canal A&amp;E (Colombia)">
@@ -4827,13 +4831,13 @@
   </programme>
   <programme start="20240122100000 +0100" stop="20240122103000 +0100" channel="[CL]AXN">
     <title lang="es">TeveCompras</title>
-    <sub-title lang="es">Standupseat V1</sub-title>
+    <sub-title lang="es">H2omop X5 V15</sub-title>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e00-legxercise-pro-v1_l_m.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
   <programme start="20240122103000 +0100" stop="20240122110000 +0100" channel="[CL]AXN">
     <title lang="es">TeveCompras</title>
-    <sub-title lang="es">Standupseat V1</sub-title>
+    <sub-title lang="es">H2omop X5 V15</sub-title>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e00-legxercise-pro-v1_l_m.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
@@ -4999,13 +5003,13 @@
   </programme>
   <programme start="20240124100000 +0100" stop="20240124103000 +0100" channel="[CL]AXN">
     <title lang="es">TeveCompras</title>
-    <sub-title lang="es">Standupseat V1</sub-title>
+    <sub-title lang="es">H2omop X5 V15</sub-title>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e00-legxercise-pro-v1_l_m.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
   <programme start="20240124103000 +0100" stop="20240124110000 +0100" channel="[CL]AXN">
     <title lang="es">TeveCompras</title>
-    <sub-title lang="es">Standupseat V1</sub-title>
+    <sub-title lang="es">H2omop X5 V15</sub-title>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e00-legxercise-pro-v1_l_m.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
@@ -5142,7 +5146,7 @@
     <episode-num system="onscreen">S11 E18</episode-num>
   </programme>
   <programme start="20240122024500 -0300" stop="20240122034000 -0300" channel="Canal AXN (México)">
-    <title lang="es">CSI Vegas</title>
+    <title lang="es">CSI: Vegas</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20240122034000 -0300" stop="20240122043000 -0300" channel="Canal AXN (México)">
@@ -5292,11 +5296,11 @@
     <episode-num system="onscreen">S5 E3</episode-num>
   </programme>
   <programme start="20240123020500 -0300" stop="20240123025500 -0300" channel="Canal AXN (México)">
-    <title lang="es">CSI Vegas</title>
+    <title lang="es">CSI: Vegas</title>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
   <programme start="20240123025500 -0300" stop="20240123034500 -0300" channel="Canal AXN (México)">
-    <title lang="es">CSI Vegas</title>
+    <title lang="es">CSI: Vegas</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
   <programme start="20240123034500 -0300" stop="20240123043500 -0300" channel="Canal AXN (México)">
@@ -5436,7 +5440,7 @@
     <episode-num system="onscreen">S12 E1</episode-num>
   </programme>
   <programme start="20240124000000 -0300" stop="20240124005500 -0300" channel="Canal AXN (México)">
-    <title lang="es">CSI Vegas</title>
+    <title lang="es">CSI: Vegas</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
   <programme start="20240124005500 -0300" stop="20240124015000 -0300" channel="Canal AXN (México)">
@@ -5470,7 +5474,7 @@
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20240124052000 -0300" stop="20240124061500 -0300" channel="Canal AXN (México)">
-    <title lang="es">CSI Vegas</title>
+    <title lang="es">CSI: Vegas</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
   <programme start="20240124061500 -0300" stop="20240124071000 -0300" channel="Canal AXN (México)">
@@ -7566,7 +7570,7 @@
     <title lang="es">Art of Romance Vol. 7</title>
   </programme>
   <programme start="20240122042200 -0300" stop="20240122062500 -0300" channel="Canal Golden Edge">
-    <title lang="es">S.W.A.T. Fuerza Letal</title>
+    <title lang="es">S.W.A.T: Fuerza letal</title>
   </programme>
   <programme start="20240122062500 -0300" stop="20240122072800 -0300" channel="Canal Golden Edge">
     <title lang="es">Mirreyes vs Godinez Home Office</title>
@@ -7885,7 +7889,7 @@
     <title lang="es">Gnomeo y Julieta</title>
   </programme>
   <programme start="20240122072900 -0300" stop="20240122092300 -0300" channel="Canal Golden Plus">
-    <title lang="es">S.W.A.T. Fuerza Letal</title>
+    <title lang="es">S.W.A.T: Fuerza letal</title>
   </programme>
   <programme start="20240122092300 -0300" stop="20240122110400 -0300" channel="Canal Golden Plus">
     <title lang="es">Un papá pirata</title>
@@ -8442,7 +8446,7 @@
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_gran_george_foreman.jpg"/>
   </programme>
   <programme start="20240123060700 -0300" stop="20240123080500 -0300" channel="Canal HBO (Latinoamérica)">
-    <title lang="es">John Q Situación Extrema</title>
+    <title lang="es">John Q: Situación extrema</title>
   </programme>
   <programme start="20240123080500 -0300" stop="20240123090000 -0300" channel="Canal HBO (Latinoamérica)">
     <title lang="es">Ola de 100 pies</title>
@@ -8504,7 +8508,7 @@
     <title lang="es">La dama en el agua</title>
   </programme>
   <programme start="20240124105800 -0300" stop="20240124131800 -0300" channel="Canal HBO (Latinoamérica)">
-    <title lang="es">Battleship Batalla naval</title>
+    <title lang="es">Battleship: batalla naval</title>
   </programme>
   <programme start="20240124131800 -0300" stop="20240124153800 -0300" channel="Canal HBO (Latinoamérica)">
     <title lang="es">Gran Turismo: De Jugador a Corredor</title>
@@ -9570,7 +9574,7 @@
     </star-rating>
   </programme>
   <programme start="20240122022000 -0300" stop="20240122035700 -0300" channel="Canal Space (Colombia)">
-    <title lang="es">Anaconda 4 rastro de sangre</title>
+    <title lang="es">Anaconda 4: Rastro de sangre</title>
   </programme>
   <programme start="20240122035700 -0300" stop="20240122055400 -0300" channel="Canal Space (Colombia)">
     <title lang="es">Blade 2 Cazador de Vampiros</title>
@@ -11574,7 +11578,7 @@
   </programme>
   <programme start="20240123103000 +0100" stop="20240123110000 +0100" channel="[CL]Sony">
     <title lang="es">TeveCompras</title>
-    <sub-title lang="es">Standupseat V1</sub-title>
+    <sub-title lang="es">H2omop X5 V15</sub-title>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tevecompras-s01e00-legxercise-pro-v1_l_m.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
@@ -14452,7 +14456,7 @@
     <sub-title lang="es">Dos casas, dos hipotecas</sub-title>
   </programme>
   <programme start="20240122150000 -0300" stop="20240122160000 -0300" channel="Canal Discovery Familia">
-    <title lang="es">Todo en 90 días casados en el extranjero</title>
+    <title lang="es">Todo en 90 días: casados en el extranjero</title>
     <sub-title lang="es">Es momento de irse</sub-title>
   </programme>
   <programme start="20240122160000 -0300" stop="20240122163000 -0300" channel="Canal Discovery Familia">
@@ -14619,7 +14623,7 @@
     <sub-title lang="es">Hogar dulce Hogar</sub-title>
   </programme>
   <programme start="20240123150000 -0300" stop="20240123160000 -0300" channel="Canal Discovery Familia">
-    <title lang="es">Todo en 90 días casados en el extranjero</title>
+    <title lang="es">Todo en 90 días: casados en el extranjero</title>
     <sub-title lang="es">Grandes Expectativas</sub-title>
   </programme>
   <programme start="20240123160000 -0300" stop="20240123163000 -0300" channel="Canal Discovery Familia">
@@ -14777,7 +14781,7 @@
     <sub-title lang="es">Un Nuevo Hogar</sub-title>
   </programme>
   <programme start="20240124150000 -0300" stop="20240124160000 -0300" channel="Canal Discovery Familia">
-    <title lang="es">Todo en 90 días casados en el extranjero</title>
+    <title lang="es">Todo en 90 días: casados en el extranjero</title>
     <sub-title lang="es">Sin mirar atrás</sub-title>
   </programme>
   <programme start="20240124160000 -0300" stop="20240124163000 -0300" channel="Canal Discovery Familia">
@@ -25792,7 +25796,7 @@
     <title lang="es">Spidey y sus sorprendentes ami</title>
   </programme>
   <programme start="20240122060000 -0300" stop="20240122063000 -0300" channel="Canal Disney Junior (México)">
-    <title lang="es">¡Eureka!</title>
+    <title lang="es">Eureka!</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20240122063000 -0300" stop="20240122070000 -0300" channel="Canal Disney Junior (México)">
@@ -25983,7 +25987,7 @@
     <title lang="es">Mickey Mouse Mix de aventura</title>
   </programme>
   <programme start="20240123033000 -0300" stop="20240123040000 -0300" channel="Canal Disney Junior (México)">
-    <title lang="es">Mira La detective del reino</title>
+    <title lang="es">Mira, la detective del reino</title>
   </programme>
   <programme start="20240123040000 -0300" stop="20240123043000 -0300" channel="Canal Disney Junior (México)">
     <title lang="es">Princesita Sofía</title>
@@ -26141,7 +26145,7 @@
     <title lang="es">La maravillosa pastelería de A</title>
   </programme>
   <programme start="20240123193000 -0300" stop="20240123200000 -0300" channel="Canal Disney Junior (México)">
-    <title lang="es">¡Eureka!</title>
+    <title lang="es">Eureka!</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20240123200000 -0300" stop="20240123203000 -0300" channel="Canal Disney Junior (México)">
@@ -26228,7 +26232,7 @@
     <episode-num system="onscreen">S1</episode-num>
   </programme>
   <programme start="20240124033000 -0300" stop="20240124040000 -0300" channel="Canal Disney Junior (México)">
-    <title lang="es">Mira La detective del reino</title>
+    <title lang="es">Mira, la detective del reino</title>
   </programme>
   <programme start="20240124040000 -0300" stop="20240124043000 -0300" channel="Canal Disney Junior (México)">
     <title lang="es">Princesita Sofía</title>
@@ -26406,7 +26410,7 @@
     <title lang="es">La maravillosa pastelería de A</title>
   </programme>
   <programme start="20240124193000 -0300" stop="20240124200000 -0300" channel="Canal Disney Junior (México)">
-    <title lang="es">¡Eureka!</title>
+    <title lang="es">Eureka!</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20240124200000 -0300" stop="20240124203000 -0300" channel="Canal Disney Junior (México)">
@@ -27162,7 +27166,7 @@
     <title lang="es">Mañana express</title>
   </programme>
   <programme start="20240122113000 -0300" stop="20240122143000 -0300" channel="Canal RCN (Colombia)">
-    <title lang="es">Buen día Colombia</title>
+    <title lang="es">Buen día, Colombia</title>
   </programme>
   <programme start="20240122143000 -0300" stop="20240122163000 -0300" channel="Canal RCN (Colombia)">
     <title lang="es">Noticias RCN</title>
@@ -27219,7 +27223,7 @@
     <title lang="es">Mañana express</title>
   </programme>
   <programme start="20240123113000 -0300" stop="20240123143000 -0300" channel="Canal RCN (Colombia)">
-    <title lang="es">Buen día Colombia</title>
+    <title lang="es">Buen día, Colombia</title>
   </programme>
   <programme start="20240123143000 -0300" stop="20240123163000 -0300" channel="Canal RCN (Colombia)">
     <title lang="es">Noticias RCN</title>
@@ -27273,7 +27277,7 @@
     <title lang="es">Mañana express</title>
   </programme>
   <programme start="20240124113000 -0300" stop="20240124143000 -0300" channel="Canal RCN (Colombia)">
-    <title lang="es">Buen día Colombia</title>
+    <title lang="es">Buen día, Colombia</title>
   </programme>
   <programme start="20240124143000 -0300" stop="20240124163000 -0300" channel="Canal RCN (Colombia)">
     <title lang="es">Noticias RCN</title>
@@ -27315,7 +27319,7 @@
     <title lang="es">America noticias - Primera edición local</title>
   </programme>
   <programme start="20240122090000 -0300" stop="20240122113000 -0300" channel="Canal América Televisión (Perú)">
-    <title lang="es">América noticias primera edición</title>
+    <title lang="es">América Noticias: Primera edición</title>
   </programme>
   <programme start="20240122113000 -0300" stop="20240122120000 -0300" channel="Canal América Televisión (Perú)">
     <title lang="es">América espectaculos de verano</title>
@@ -27375,10 +27379,10 @@
     <title lang="es">Espectáculos</title>
   </programme>
   <programme start="20240124070000 -0300" stop="20240124090000 -0300" channel="Canal América Televisión (Perú)">
-    <title lang="es">América noticias primera edición</title>
+    <title lang="es">América Noticias: Primera edición</title>
   </programme>
   <programme start="20240124090000 -0300" stop="20240124113000 -0300" channel="Canal América Televisión (Perú)">
-    <title lang="es">América noticias primera edición</title>
+    <title lang="es">América Noticias: Primera edición</title>
   </programme>
   <programme start="20240124113000 -0300" stop="20240124120000 -0300" channel="Canal América Televisión (Perú)">
     <title lang="es">América espectaculos de verano</title>
@@ -30004,6 +30008,186 @@
   </programme>
   <programme start="20240125030000 -0300" stop="20240125060000 -0300" channel="Canal Fox Sports 2 (México)">
     <title lang="es">UFC 297</title>
+  </programme>
+  <programme start="20240122033600 +0100" stop="20240122060000 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Harry Potter e o Prisioneiro de Azkaban</title>
+    <date>2004</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_harry-potter-e-o-prisioneiro-de-azkaban-2004-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240122060000 +0100" stop="20240122081700 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Speed Racer</title>
+    <date>2008</date>
+    <category lang="es">Action</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_speed-racer-2008_l_m.jpg"/>
+    <star-rating>
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240122081700 +0100" stop="20240122100000 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">LEGO Ninjago - O Filme</title>
+    <date>2017</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_lego-ninjago-o-filme-2017_l_m.jpg"/>
+  </programme>
+  <programme start="20240122100000 +0100" stop="20240122114500 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">DC Liga dos Superpets</title>
+    <date>2022</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_dc-liga-dos-superpets-2022_l_m.jpg"/>
+  </programme>
+  <programme start="20240122114500 +0100" stop="20240122130400 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Scooby-Doo e Krypto, o Supercão</title>
+    <date>2023</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_scooby-doo-e-krypto-o-superc-o-2023_l_m.jpg"/>
+  </programme>
+  <programme start="20240122130400 +0100" stop="20240122141800 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Pequena Mamãe</title>
+    <date>2021</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_pequena-mam-e-2021_l_m.jpg"/>
+  </programme>
+  <programme start="20240122141800 +0100" stop="20240122154900 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Tá Chovendo Hambúrguer</title>
+    <date>2009</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ta-chovendo-hamburguer-2009-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240122154900 +0100" stop="20240122172600 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Tá Chovendo Hambúrguer 2</title>
+    <date>2013</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ta-chovendo-hamburguer-2-2013-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240122172600 +0100" stop="20240122192300 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">A Fantástica Fábrica de Chocolate</title>
+    <date>2005</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-fantastica-fabrica-de-chocolate-2005-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240122192300 +0100" stop="20240122210000 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">A Lenda dos Guardiões</title>
+    <date>2010</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-lenda-dos-guardi-es-2010-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240122210000 +0100" stop="20240122224100 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Uma Aventura LEGO</title>
+    <date>2014</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_uma-aventura-lego-2014-2_l_m.jpg"/>
+  </programme>
+  <programme start="20240122224100 +0100" stop="20240123000000 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Scooby-Doo e Krypto, o Supercão</title>
+    <date>2023</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_scooby-doo-e-krypto-o-superc-o-2023_l_m.jpg"/>
+  </programme>
+  <programme start="20240123000000 +0100" stop="20240123014700 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">DC Liga dos Superpets</title>
+    <date>2022</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_dc-liga-dos-superpets-2022_l_m.jpg"/>
+  </programme>
+  <programme start="20240123014700 +0100" stop="20240124014700 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Harry Potter e a Pedra Filosofal</title>
+    <date>2001</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_harry-potter-e-a-pedra-filosofal-2001-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240124014700 +0100" stop="20240124041900 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Harry Potter e a Pedra Filosofal</title>
+    <date>2001</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_harry-potter-e-a-pedra-filosofal-2001-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240124041900 +0100" stop="20240124061100 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">A Batalha do Ano</title>
+    <date>2013</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-batalha-do-ano-2013-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240124061100 +0100" stop="20240124082200 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Harry Potter e as Relíquias da Morte - Parte 2</title>
+    <date>2011</date>
+    <category lang="es">Fantasy</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_harry-potter-e-as-reliquias-da-morte-parte-2-2011-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240124082200 +0100" stop="20240124100000 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">A Lenda dos Guardiões</title>
+    <date>2010</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-lenda-dos-guardi-es-2010-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240124100000 +0100" stop="20240124113100 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Inspetor Aranha</title>
+    <date>2022</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_inspetor-aranha-2022_l_m.jpg"/>
+  </programme>
+  <programme start="20240124113100 +0100" stop="20240124132900 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Titio Noel</title>
+    <date>2007</date>
+    <category lang="es">Holiday</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_titio-noel-2007_l_m.jpg"/>
+    <star-rating>
+      <value>6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240124132900 +0100" stop="20240124151300 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">17 Outra Vez</title>
+    <date>2009</date>
+    <category lang="es">Comedy</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_17-outra-vez-2009-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240124151300 +0100" stop="20240124170800 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Ender's Game - O Jogo do Exterminador</title>
+    <date>2013</date>
+    <category lang="es">Science fiction</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ender-s-game-o-jogo-do-exterminador-2013-2_l_m.jpg"/>
+  </programme>
+  <programme start="20240124170800 +0100" stop="20240124185700 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Lilo, Lilo, Crocodilo</title>
+    <date>2022</date>
+    <category lang="es">Musical comedy</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_lilo-lilo-crocodilo-2022_l_m.jpg"/>
+  </programme>
+  <programme start="20240124185700 +0100" stop="20240124202600 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Cegonhas - A História que Não te Contaram</title>
+    <date>2016</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_cegonhas-a-historia-que-n-o-te-contaram-2016_l_m.jpg"/>
+  </programme>
+  <programme start="20240124202600 +0100" stop="20240124215300 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Os Jovens Titãs em Ação! Nos Cinemas</title>
+    <date>2018</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_os-jovens-tit-s-em-ac-o-nos-cinemas-2018_l_m.jpg"/>
+  </programme>
+  <programme start="20240124215300 +0100" stop="20240124225700 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Arquis</title>
+    <sub-title lang="es">Alejandro Aravena</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/br_arquis-s01e01_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20240124225700 +0100" stop="20240125000000 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">Arquis</title>
+    <sub-title lang="es">Mauricio Rocha</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/br_arquis-s01e02_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20240125000000 +0100" stop="20240125014300 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">17 Outra Vez</title>
+    <date>2009</date>
+    <category lang="es">Comedy</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_17-outra-vez-2009-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240125014300 +0100" stop="20240125033800 +0100" channel="[BR]HBO Family HD">
+    <title lang="es">A Bússola de Ouro</title>
+    <date>2007</date>
+    <category lang="es">Children</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-bussola-de-ouro-2007-1_l_m.jpg"/>
   </programme>
   <programme start="20240122033100 +0100" stop="20240122042300 +0100" channel="[AR]History">
     <title lang="es">El precio de la historia</title>
