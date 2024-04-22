@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="Canal Azteca Uno">
-    <display-name lang="es">FHD | AZTECA</display-name>
+    <display-name lang="es">FHD | AZTECA 13</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png"/>
   </channel>
   <programme start="20240422003000 -0400" stop="20240422011500 -0400" channel="Canal Azteca Uno">
