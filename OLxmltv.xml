@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="[MX]Azteca 13">
+    <display-name lang="es">FHD | AZTECA 13</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png"/>
+  </channel>
+  <programme start="20240423053000 +0200" stop="20240423073000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Survivor</title>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_survivor_l_m.jpg"/>
+  </programme>
+  <programme start="20240423073000 +0200" stop="20240423081500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos noche</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-noche_l_m.jpg"/>
+  </programme>
+  <programme start="20240423081500 +0200" stop="20240423081900 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos CDMX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-cdmx_l_m.jpg"/>
+  </programme>
+  <programme start="20240423081900 +0200" stop="20240423083400 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Campañeando</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_campaneando_l_m.jpg"/>
+  </programme>
+  <programme start="20240423083400 +0200" stop="20240423092500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Los protagonistas</title>
+    <category lang="es">Los protagonistas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-los-protagonistas_l_m.jpg"/>
+  </programme>
+  <programme start="20240423092500 +0200" stop="20240423095000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423095000 +0200" stop="20240423102000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423102000 +0200" stop="20240423103500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423103500 +0200" stop="20240423110500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423110500 +0200" stop="20240423113500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423113500 +0200" stop="20240423120500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423120500 +0200" stop="20240423123500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423123500 +0200" stop="20240423125100 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423125100 +0200" stop="20240423125300 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inventario obsoleto</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inventario-obsoleto_l_m.jpg"/>
+  </programme>
+  <programme start="20240423125300 +0200" stop="20240423125500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inventario obsoleto ACUN</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inventario-obsoleto-acun_l_m.jpg"/>
+  </programme>
+  <programme start="20240423125500 +0200" stop="20240423133000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg"/>
+  </programme>
+  <programme start="20240423133000 +0200" stop="20240423140000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423140000 +0200" stop="20240423142500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423142500 +0200" stop="20240423145500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Farmacias similares</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_farmacias-similares_l_m.jpg"/>
+  </programme>
+  <programme start="20240423145500 +0200" stop="20240423150000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Himno nacional</title>
+    <category lang="es">Cultural</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240423150000 +0200" stop="20240423160000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos AM: Primera línea</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-am-primera-linea_l_m.jpg"/>
+  </programme>
+  <programme start="20240423160000 +0200" stop="20240423170000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos A.M.</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-a-m_l_m.jpg"/>
+  </programme>
+  <programme start="20240423170000 +0200" stop="20240423180000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Nosotros ustedes y hechos</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240423180000 +0200" stop="20240423200000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Venga la alegría</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_venga-la-alegria_l_m.jpg"/>
+  </programme>
+  <programme start="20240423200000 +0200" stop="20240423220000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Venga la alegría</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_venga-la-alegria_l_m.jpg"/>
+  </programme>
+  <programme start="20240423220000 +0200" stop="20240423230000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Ventaneando</title>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ventaneando_l_m.jpg"/>
+  </programme>
+  <programme start="20240423230000 +0200" stop="20240424000000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos meridiano</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-meridiano_l_m.jpg"/>
+  </programme>
+  <programme start="20240424000000 +0200" stop="20240424010000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Escape perfecto</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_escape-perfecto_l_m.jpg"/>
+  </programme>
+  <programme start="20240424010000 +0200" stop="20240424023000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Al extremo</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_al-extremo_l_m.jpg"/>
+  </programme>
+  <programme start="20240424023000 +0200" stop="20240424043000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Rocío al límite</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240424043000 +0200" stop="20240424053000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Café con aroma de mujer</title>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cafe-con-aroma-de-mujer_l_m.jpg"/>
+  </programme>
+  <programme start="20240424053000 +0200" stop="20240425053000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Survivor</title>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_survivor_l_m.jpg"/>
+  </programme>
+  <programme start="20240425053000 +0200" stop="20240425073000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Survivor</title>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_survivor_l_m.jpg"/>
+  </programme>
+  <programme start="20240425073000 +0200" stop="20240425081500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos noche</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-noche_l_m.jpg"/>
+  </programme>
+  <programme start="20240425081500 +0200" stop="20240425081900 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos CDMX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-cdmx_l_m.jpg"/>
+  </programme>
+  <programme start="20240425081900 +0200" stop="20240425083400 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Campañeando</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_campaneando_l_m.jpg"/>
+  </programme>
+  <programme start="20240425083400 +0200" stop="20240425092500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Los protagonistas</title>
+    <category lang="es">Los protagonistas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_deportivo-los-protagonistas_l_m.jpg"/>
+  </programme>
+  <programme start="20240425092500 +0200" stop="20240425100000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425110000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Ruleta Codere</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425110000 +0200" stop="20240425113500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240425113500 +0200" stop="20240425120500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240425120500 +0200" stop="20240425123500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425123500 +0200" stop="20240425125500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425125500 +0200" stop="20240425133000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_barras-de-ajuste_l_m.jpg"/>
+  </programme>
+  <programme start="20240425133000 +0200" stop="20240425140000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425140000 +0200" stop="20240425142500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425142500 +0200" stop="20240425145500 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Farmacias similares</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_farmacias-similares_l_m.jpg"/>
+  </programme>
+  <programme start="20240425145500 +0200" stop="20240425150000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Himno nacional</title>
+    <category lang="es">Cultural</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_himno-nacional-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240425150000 +0200" stop="20240425160000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos AM: Primera línea</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-am-primera-linea_l_m.jpg"/>
+  </programme>
+  <programme start="20240425160000 +0200" stop="20240425170000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos A.M.</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-a-m_l_m.jpg"/>
+  </programme>
+  <programme start="20240425170000 +0200" stop="20240425180000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Nosotros ustedes y hechos</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240425180000 +0200" stop="20240425200000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Venga la alegría</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_venga-la-alegria_l_m.jpg"/>
+  </programme>
+  <programme start="20240425200000 +0200" stop="20240425220000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Venga la alegría</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_venga-la-alegria_l_m.jpg"/>
+  </programme>
+  <programme start="20240425220000 +0200" stop="20240425230000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Ventaneando</title>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ventaneando_l_m.jpg"/>
+  </programme>
+  <programme start="20240425230000 +0200" stop="20240426000000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Hechos meridiano</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hechos-meridiano_l_m.jpg"/>
+  </programme>
+  <programme start="20240426000000 +0200" stop="20240426010000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Escape perfecto</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_escape-perfecto_l_m.jpg"/>
+  </programme>
+  <programme start="20240426010000 +0200" stop="20240426023000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Al extremo</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_al-extremo_l_m.jpg"/>
+  </programme>
+  <programme start="20240426023000 +0200" stop="20240426043000 +0200" channel="[MX]Azteca 13">
+    <title lang="es">Rocío al límite</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+</tv>
