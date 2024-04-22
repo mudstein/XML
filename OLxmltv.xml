@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="[MX]Azteca 13">
-    <display-name lang="es">FHD | AZTECA 13</display-name>
+    <display-name lang="es">FHD | AZTECA</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_azteca-13_m.png"/>
   </channel>
   <programme start="20240423053000 +0200" stop="20240423073000 +0200" channel="[MX]Azteca 13">
