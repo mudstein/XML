@@ -5,6 +5,10 @@
     <display-name lang="es">FHD | AZTECA UNO menos -1</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png"/>
   </channel>
+  <channel id="Canal Azteca Uno -2 Horas">
+    <display-name lang="es">FHD | AZTECA UNO menos -2hr</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png"/>
+  </channel>
   <programme start="20240422003000 -0400" stop="20240422011500 -0400" channel="Canal Azteca Uno">
     <title lang="es">Noticiero Hechos de la noche</title>
   </programme>
@@ -155,5 +159,147 @@
   </programme>
   <programme start="20240426021500 -0400" stop="20240426031500 -0400" channel="Canal Azteca Uno">
     <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240422003000 -0400" stop="20240422023000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20240422023000 -0400" stop="20240422031500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Noticiero Hechos de la noche</title>
+  </programme>
+  <programme start="20240422031500 -0400" stop="20240422033000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20240422033000 -0400" stop="20240422034500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Campañeando</title>
+  </programme>
+  <programme start="20240422034500 -0400" stop="20240422041500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20240422041500 -0400" stop="20240422051500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240422051500 -0400" stop="20240422071500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422071500 -0400" stop="20240422091500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422091500 -0400" stop="20240422100000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422100000 -0400" stop="20240422110000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos A.M Primera Línea</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422110000 -0400" stop="20240422120000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos AM</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422120000 -0400" stop="20240422130000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  </programme>
+  <programme start="20240422130000 -0400" stop="20240422170000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <category lang="es">En Vivo</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/venga_la_alegria.png"/>
+  </programme>
+  <programme start="20240422170000 -0400" stop="20240422180000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <category lang="es">En Vivo</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/ventaneando.png"/>
+  </programme>
+  <programme start="20240422180000 -0400" stop="20240422190000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20240422190000 -0400" stop="20240422200000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20240422200000 -0400" stop="20240422213000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20240422213000 -0400" stop="20240422233000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20240422233000 -0400" stop="20240423003000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Cafe con aroma de mujer</title>
+  </programme>
+  <programme start="20240423233000 -0400" stop="20240424003000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Cafe con aroma de mujer</title>
+  </programme>
+  <programme start="20240424003000 -0400" stop="20240424023000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20240424023000 -0400" stop="20240424031500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Noticiero Hechos de la noche</title>
+  </programme>
+  <programme start="20240424031500 -0400" stop="20240424033000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20240424033000 -0400" stop="20240424034500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Campañeando</title>
+  </programme>
+  <programme start="20240424034500 -0400" stop="20240424041500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20240424041500 -0400" stop="20240424050000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240424050000 -0400" stop="20240424060000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Ruleta Codere</title>
+  </programme>
+  <programme start="20240424060000 -0400" stop="20240424091500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240424091500 -0400" stop="20240424100000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240424100000 -0400" stop="20240424110000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos A.M Primera Línea</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424110000 -0400" stop="20240424120000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos AM</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424120000 -0400" stop="20240424130000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  </programme>
+  <programme start="20240424130000 -0400" stop="20240424170000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
+    <category lang="es">En Vivo</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/venga_la_alegria.png"/>
+  </programme>
+  <programme start="20240424170000 -0400" stop="20240424180000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
+    <category lang="es">En Vivo</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/ventaneando.png"/>
+  </programme>
+  <programme start="20240424180000 -0400" stop="20240424190000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20240424190000 -0400" stop="20240424200000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20240424200000 -0400" stop="20240424213000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20240424213000 -0400" stop="20240424233000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20240424233000 -0400" stop="20240425003000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Cafe con aroma de mujer</title>
+  </programme>
+  <programme start="20240425233000 -0400" stop="20240426003000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Cafe con aroma de mujer</title>
+  </programme>
+  <programme start="20240426003000 -0400" stop="20240426023000 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20240426023000 -0400" stop="20240426031500 -0400" channel="Canal Azteca Uno -2 Horas">
+    <title lang="es">Noticiero Hechos de la noche</title>
   </programme>
 </tv>
