@@ -84,7 +84,7 @@
     <display-name lang="es">FHD | Distrito Comedia</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png"/>
   </channel>
-  <channel id="Canal TLC (Mexico)">
+  <channel id="FHD | TLC">
     <display-name lang="es">FHD | TLC</display-name>
     <display-name lang="es">FHD | Discovery TLC</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tlc.png"/>
@@ -5912,251 +5912,251 @@
   <programme start="20240427025000 -0400" stop="20240427034500 -0400" channel="Canal Distrito Comedia">
     <title lang="es">Mi Querida Herencia</title>
   </programme>
-  <programme start="20240423002100 -0400" stop="20240423011100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423002100 -0400" stop="20240423011100 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días amor en el C</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240423011100 -0400" stop="20240423020100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423011100 -0400" stop="20240423020100 -0400" channel="FHD | TLC">
     <title lang="es">Gran-diosa</title>
     <episode-num system="onscreen">S10 E13</episode-num>
   </programme>
-  <programme start="20240423020100 -0400" stop="20240423025100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423020100 -0400" stop="20240423025100 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20240423025100 -0400" stop="20240423034100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423025100 -0400" stop="20240423034100 -0400" channel="FHD | TLC">
     <title lang="es">La familia de Chantel</title>
     <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
-  <programme start="20240423034100 -0400" stop="20240423041900 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423034100 -0400" stop="20240423041900 -0400" channel="FHD | TLC">
     <title lang="es">La dinastía Ho</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240423041900 -0400" stop="20240423050800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423041900 -0400" stop="20240423050800 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días amor en el C</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240423050800 -0400" stop="20240423055700 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423050800 -0400" stop="20240423055700 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días amor en el C</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240423055700 -0400" stop="20240423064600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423055700 -0400" stop="20240423064600 -0400" channel="FHD | TLC">
     <title lang="es">Gran-diosa</title>
     <episode-num system="onscreen">S10 E13</episode-num>
   </programme>
-  <programme start="20240423064600 -0400" stop="20240423073500 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423064600 -0400" stop="20240423073500 -0400" channel="FHD | TLC">
     <title lang="es">Regreso al mundo Amish</title>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
-  <programme start="20240423073500 -0400" stop="20240423080000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423073500 -0400" stop="20240423080000 -0400" channel="FHD | TLC">
     <title lang="es">Amor infiel</title>
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20240423080000 -0400" stop="20240423084900 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423080000 -0400" stop="20240423084900 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S5 E8</episode-num>
   </programme>
-  <programme start="20240423084900 -0400" stop="20240423093800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423084900 -0400" stop="20240423093800 -0400" channel="FHD | TLC">
     <title lang="es">Una Gran Familia</title>
     <episode-num system="onscreen">S4 E7</episode-num>
   </programme>
-  <programme start="20240423093800 -0400" stop="20240423102700 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423093800 -0400" stop="20240423102700 -0400" channel="FHD | TLC">
     <title lang="es">Los Busby</title>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20240423102700 -0400" stop="20240423111600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423102700 -0400" stop="20240423111600 -0400" channel="FHD | TLC">
     <title lang="es">Hermanas inseparables</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240423111600 -0400" stop="20240423120500 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423111600 -0400" stop="20240423120500 -0400" channel="FHD | TLC">
     <title lang="es">Hermanas inseparables</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240423120500 -0400" stop="20240423125400 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423120500 -0400" stop="20240423125400 -0400" channel="FHD | TLC">
     <title lang="es">Vida de gemelas</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240423125400 -0400" stop="20240423134300 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423125400 -0400" stop="20240423134300 -0400" channel="FHD | TLC">
     <title lang="es">Vida de gemelas</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240423134300 -0400" stop="20240423143200 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423134300 -0400" stop="20240423143200 -0400" channel="FHD | TLC">
     <title lang="es">La familia de Chantel</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20240423143200 -0400" stop="20240423152100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423143200 -0400" stop="20240423152100 -0400" channel="FHD | TLC">
     <title lang="es">La familia de Chantel</title>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20240423152100 -0400" stop="20240423161000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423152100 -0400" stop="20240423161000 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días</title>
     <episode-num system="onscreen">S4 E15</episode-num>
   </programme>
-  <programme start="20240423161000 -0400" stop="20240423165900 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423161000 -0400" stop="20240423165900 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días después de l</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20240423165900 -0400" stop="20240423174800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423165900 -0400" stop="20240423174800 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20240423174800 -0400" stop="20240423183700 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423174800 -0400" stop="20240423183700 -0400" channel="FHD | TLC">
     <title lang="es">Una Gran Familia</title>
     <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
-  <programme start="20240423183700 -0400" stop="20240423192600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423183700 -0400" stop="20240423192600 -0400" channel="FHD | TLC">
     <title lang="es">Un gran mundo pequeño</title>
     <episode-num system="onscreen">S11 E18</episode-num>
   </programme>
-  <programme start="20240423192600 -0400" stop="20240423201500 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423192600 -0400" stop="20240423201500 -0400" channel="FHD | TLC">
     <title lang="es">Un gran mundo pequeño</title>
     <episode-num system="onscreen">S11 E19</episode-num>
   </programme>
-  <programme start="20240423201500 -0400" stop="20240423210400 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423201500 -0400" stop="20240423210400 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días casados</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240423210400 -0400" stop="20240423215300 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423210400 -0400" stop="20240423215300 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días casados</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240423215300 -0400" stop="20240423224200 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423215300 -0400" stop="20240423224200 -0400" channel="FHD | TLC">
     <title lang="es">Quintuplicados</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240423224200 -0400" stop="20240423233100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423224200 -0400" stop="20240423233100 -0400" channel="FHD | TLC">
     <title lang="es">La gran familia Derrico</title>
     <episode-num system="onscreen">S4 E8</episode-num>
   </programme>
-  <programme start="20240423233100 -0400" stop="20240424002000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240423233100 -0400" stop="20240424002000 -0400" channel="FHD | TLC">
     <title lang="es">La gran familia Derrico</title>
     <episode-num system="onscreen">S4 E9</episode-num>
   </programme>
-  <programme start="20240424233100 -0400" stop="20240425002000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240424233100 -0400" stop="20240425002000 -0400" channel="FHD | TLC">
     <title lang="es">La gran familia Derrico</title>
     <episode-num system="onscreen">S4 E9</episode-num>
   </programme>
-  <programme start="20240425002000 -0400" stop="20240425010900 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425002000 -0400" stop="20240425010900 -0400" channel="FHD | TLC">
     <title lang="es">Un gran mundo pequeño la gran</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240425010900 -0400" stop="20240425015800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425010900 -0400" stop="20240425015800 -0400" channel="FHD | TLC">
     <title lang="es">Madres adolescentes</title>
     <episode-num system="onscreen">S4 E14</episode-num>
   </programme>
-  <programme start="20240425015800 -0400" stop="20240425024700 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425015800 -0400" stop="20240425024700 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S5 E7</episode-num>
   </programme>
-  <programme start="20240425024700 -0400" stop="20240425033600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425024700 -0400" stop="20240425033600 -0400" channel="FHD | TLC">
     <title lang="es">Quintuplicados</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240425033600 -0400" stop="20240425042400 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425033600 -0400" stop="20240425042400 -0400" channel="FHD | TLC">
     <title lang="es">La gran familia Derrico</title>
     <episode-num system="onscreen">S4 E8</episode-num>
   </programme>
-  <programme start="20240425042400 -0400" stop="20240425051200 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425042400 -0400" stop="20240425051200 -0400" channel="FHD | TLC">
     <title lang="es">La gran familia Derrico</title>
     <episode-num system="onscreen">S4 E9</episode-num>
   </programme>
-  <programme start="20240425051200 -0400" stop="20240425060000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425051200 -0400" stop="20240425060000 -0400" channel="FHD | TLC">
     <title lang="es">Un gran mundo pequeño la gran</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240425060000 -0400" stop="20240425064800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425060000 -0400" stop="20240425064800 -0400" channel="FHD | TLC">
     <title lang="es">Madres adolescentes</title>
     <episode-num system="onscreen">S4 E14</episode-num>
   </programme>
-  <programme start="20240425064800 -0400" stop="20240425073600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425064800 -0400" stop="20240425073600 -0400" channel="FHD | TLC">
     <title lang="es">Regreso al mundo Amish</title>
     <episode-num system="onscreen">S6 E3</episode-num>
   </programme>
-  <programme start="20240425073600 -0400" stop="20240425080000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425073600 -0400" stop="20240425080000 -0400" channel="FHD | TLC">
     <title lang="es">Amor infiel</title>
     <episode-num system="onscreen">S1 E24</episode-num>
   </programme>
-  <programme start="20240425080000 -0400" stop="20240425084800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425080000 -0400" stop="20240425084800 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S6 E1</episode-num>
   </programme>
-  <programme start="20240425084800 -0400" stop="20240425093600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425084800 -0400" stop="20240425093600 -0400" channel="FHD | TLC">
     <title lang="es">Una Gran Familia</title>
     <episode-num system="onscreen">S4 E8</episode-num>
   </programme>
-  <programme start="20240425093600 -0400" stop="20240425113500 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425093600 -0400" stop="20240425113500 -0400" channel="FHD | TLC">
     <title lang="es">Los Busby</title>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20240425113500 -0400" stop="20240425122300 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425113500 -0400" stop="20240425122300 -0400" channel="FHD | TLC">
     <title lang="es">4 Esposas, 1 marido</title>
     <episode-num system="onscreen">S10 E20</episode-num>
   </programme>
-  <programme start="20240425122300 -0400" stop="20240425131100 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425122300 -0400" stop="20240425131100 -0400" channel="FHD | TLC">
     <title lang="es">Madres adolescentes</title>
     <episode-num system="onscreen">S3 E14</episode-num>
   </programme>
-  <programme start="20240425131100 -0400" stop="20240425135900 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425131100 -0400" stop="20240425135900 -0400" channel="FHD | TLC">
     <title lang="es">Madres adolescentes</title>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20240425135900 -0400" stop="20240425144700 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425135900 -0400" stop="20240425144700 -0400" channel="FHD | TLC">
     <title lang="es">Los Busby</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240425144700 -0400" stop="20240425153500 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425144700 -0400" stop="20240425153500 -0400" channel="FHD | TLC">
     <title lang="es">Los Busby</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240425153500 -0400" stop="20240425161900 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425153500 -0400" stop="20240425161900 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días después de l</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20240425161900 -0400" stop="20240425170400 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425161900 -0400" stop="20240425170400 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días después de l</title>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20240425170400 -0400" stop="20240425175200 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425170400 -0400" stop="20240425175200 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
-  <programme start="20240425175200 -0400" stop="20240425184000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425175200 -0400" stop="20240425184000 -0400" channel="FHD | TLC">
     <title lang="es">Una Gran Familia</title>
     <episode-num system="onscreen">S5 E3</episode-num>
   </programme>
-  <programme start="20240425184000 -0400" stop="20240425201800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425184000 -0400" stop="20240425201800 -0400" channel="FHD | TLC">
     <title lang="es">Un gran mundo pequeño</title>
     <episode-num system="onscreen">S11 E20</episode-num>
   </programme>
-  <programme start="20240425201800 -0400" stop="20240425210600 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425201800 -0400" stop="20240425210600 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días casados</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240425210600 -0400" stop="20240425215400 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425210600 -0400" stop="20240425215400 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días casados</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240425215400 -0400" stop="20240425233200 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425215400 -0400" stop="20240425233200 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días</title>
     <episode-num system="onscreen">S10 E14</episode-num>
   </programme>
-  <programme start="20240425233200 -0400" stop="20240426011000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240425233200 -0400" stop="20240426011000 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días</title>
     <episode-num system="onscreen">S10 E15</episode-num>
   </programme>
-  <programme start="20240426233200 -0400" stop="20240427011000 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240426233200 -0400" stop="20240427011000 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días</title>
     <episode-num system="onscreen">S10 E15</episode-num>
   </programme>
-  <programme start="20240427011000 -0400" stop="20240427015800 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240427011000 -0400" stop="20240427015800 -0400" channel="FHD | TLC">
     <title lang="es">Amor sin traducción</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240427015800 -0400" stop="20240427024700 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240427015800 -0400" stop="20240427024700 -0400" channel="FHD | TLC">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S5 E8</episode-num>
   </programme>
-  <programme start="20240427024700 -0400" stop="20240427042400 -0400" channel="Canal TLC (Mexico)">
+  <programme start="20240427024700 -0400" stop="20240427042400 -0400" channel="FHD | TLC">
     <title lang="es">Todo en 90 días</title>
     <episode-num system="onscreen">S10 E14</episode-num>
   </programme>
