@@ -28,13 +28,17 @@
     <display-name lang="es">FHD | Azteca 7</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7.png"/>
   </channel>
+  <channel id="[MX]FOROtv">
+    <display-name lang="es">FHD | FORO TV</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_canal-4-foro-tv_m.png"/>
+  </channel>
   <channel id="Canal 11 de México">
     <display-name lang="es">FHD | Canal Once</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico.png"/>
   </channel>
-  <channel id="FHD | Star">
-    <display-name lang="es">No Name Channel - 8</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel.png"/>
+  <channel id="[MX]Star Channel">
+    <display-name lang="es">FHD | Star</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_fox_m.png"/>
   </channel>
   <channel id="Canal Multimedios Plus">
     <display-name lang="es">FHD | Multimedios Plus</display-name>
@@ -1124,6 +1128,406 @@
   <programme start="20240425233000 -0400" stop="20240426013000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Un Día para Vivir</title>
   </programme>
+  <programme start="20240423050000 +0200" stop="20240423060000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Hora 21</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hora-21_l_m.jpg"/>
+  </programme>
+  <programme start="20240423060000 +0200" stop="20240423063000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240423063000 +0200" stop="20240423073000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Es la hora de opinar</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_es-la-hora-de-opinar_l_m.jpg"/>
+  </programme>
+  <programme start="20240423073000 +0200" stop="20240423080000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240423080000 +0200" stop="20240423083000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240423083000 +0200" stop="20240423090000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423090000 +0200" stop="20240423093000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423093000 +0200" stop="20240423100000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240423100000 +0200" stop="20240423103000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Aquí y ahora</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_aqui-y-ahora_l_m.jpg"/>
+  </programme>
+  <programme start="20240423103000 +0200" stop="20240423110000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423110000 +0200" stop="20240423113000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240423113000 +0200" stop="20240423120000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240423120000 +0200" stop="20240423123000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240423123000 +0200" stop="20240423130000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240423130000 +0200" stop="20240423150000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240423150000 +0200" stop="20240423160000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Estrictamente personal</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_estrictamente-personal_l_m.jpg"/>
+  </programme>
+  <programme start="20240423160000 +0200" stop="20240423190000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Expreso de la mañana</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_expreso-de-la-manana_l_m.jpg"/>
+  </programme>
+  <programme start="20240423190000 +0200" stop="20240423200000 +0200" channel="[MX]FOROtv">
+    <title lang="es">El noticiero de Karla Iberia S.</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-noticiero-de-karla-iberia-s_l_m.jpg"/>
+  </programme>
+  <programme start="20240423200000 +0200" stop="20240423210000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Paralelo 23</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_paralelo-23_l_m.jpg"/>
+  </programme>
+  <programme start="20240423210000 +0200" stop="20240423220000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240423220000 +0200" stop="20240423230000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Noticias MX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_noticias-mx_l_m.jpg"/>
+  </programme>
+  <programme start="20240423230000 +0200" stop="20240424000000 +0200" channel="[MX]FOROtv">
+    <title lang="es">A las 3</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_a-las-3_l_m.jpg"/>
+  </programme>
+  <programme start="20240424000000 +0200" stop="20240424010000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424010000 +0200" stop="20240424020000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424020000 +0200" stop="20240424030000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424030000 +0200" stop="20240424040000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424040000 +0200" stop="20240424050000 +0200" channel="[MX]FOROtv">
+    <title lang="es">En una hora</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_en-una-hora_l_m.jpg"/>
+  </programme>
+  <programme start="20240424050000 +0200" stop="20240424060000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Hora 21</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hora-21_l_m.jpg"/>
+  </programme>
+  <programme start="20240424060000 +0200" stop="20240424063000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424063000 +0200" stop="20240424073000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Es la hora de opinar</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_es-la-hora-de-opinar_l_m.jpg"/>
+  </programme>
+  <programme start="20240424073000 +0200" stop="20240424080000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424080000 +0200" stop="20240424083000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240424083000 +0200" stop="20240424090000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240424090000 +0200" stop="20240424093000 +0200" channel="[MX]FOROtv">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240424093000 +0200" stop="20240424100000 +0200" channel="[MX]FOROtv">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240424100000 +0200" stop="20240424103000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Aquí y ahora</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_aqui-y-ahora_l_m.jpg"/>
+  </programme>
+  <programme start="20240424103000 +0200" stop="20240424110000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240424110000 +0200" stop="20240424113000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240424113000 +0200" stop="20240424120000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240424120000 +0200" stop="20240424123000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240424123000 +0200" stop="20240424130000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240424130000 +0200" stop="20240424150000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424150000 +0200" stop="20240424160000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Estrictamente personal</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_estrictamente-personal_l_m.jpg"/>
+  </programme>
+  <programme start="20240424160000 +0200" stop="20240424190000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Expreso de la mañana</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_expreso-de-la-manana_l_m.jpg"/>
+  </programme>
+  <programme start="20240424190000 +0200" stop="20240424200000 +0200" channel="[MX]FOROtv">
+    <title lang="es">El noticiero de Karla Iberia S.</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-noticiero-de-karla-iberia-s_l_m.jpg"/>
+  </programme>
+  <programme start="20240424200000 +0200" stop="20240424210000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Paralelo 23</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_paralelo-23_l_m.jpg"/>
+  </programme>
+  <programme start="20240424210000 +0200" stop="20240424220000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240424220000 +0200" stop="20240424230000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Noticias MX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_noticias-mx_l_m.jpg"/>
+  </programme>
+  <programme start="20240424230000 +0200" stop="20240425000000 +0200" channel="[MX]FOROtv">
+    <title lang="es">A las 3</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_a-las-3_l_m.jpg"/>
+  </programme>
+  <programme start="20240425000000 +0200" stop="20240425010000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425010000 +0200" stop="20240425020000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425020000 +0200" stop="20240425030000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425030000 +0200" stop="20240425040000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425040000 +0200" stop="20240425050000 +0200" channel="[MX]FOROtv">
+    <title lang="es">En una hora</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_en-una-hora_l_m.jpg"/>
+  </programme>
+  <programme start="20240425050000 +0200" stop="20240425060000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Hora 21</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hora-21_l_m.jpg"/>
+  </programme>
+  <programme start="20240425060000 +0200" stop="20240425063000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425063000 +0200" stop="20240425073000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Es la hora de opinar</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_es-la-hora-de-opinar_l_m.jpg"/>
+  </programme>
+  <programme start="20240425073000 +0200" stop="20240425080000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425080000 +0200" stop="20240425083000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240425083000 +0200" stop="20240425090000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240425090000 +0200" stop="20240425093000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240425093000 +0200" stop="20240425100000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240425100000 +0200" stop="20240425103000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Aquí y ahora</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_aqui-y-ahora_l_m.jpg"/>
+  </programme>
+  <programme start="20240425103000 +0200" stop="20240425110000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240425110000 +0200" stop="20240425113000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inova_l_m.jpg"/>
+  </programme>
+  <programme start="20240425113000 +0200" stop="20240425120000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240425120000 +0200" stop="20240425123000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240425123000 +0200" stop="20240425130000 +0200" channel="[MX]FOROtv">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cv-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240425130000 +0200" stop="20240425150000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425150000 +0200" stop="20240425160000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Estrictamente personal</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_estrictamente-personal_l_m.jpg"/>
+  </programme>
+  <programme start="20240425160000 +0200" stop="20240425190000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Expreso de la mañana</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_expreso-de-la-manana_l_m.jpg"/>
+  </programme>
+  <programme start="20240425190000 +0200" stop="20240425200000 +0200" channel="[MX]FOROtv">
+    <title lang="es">El noticiero de Karla Iberia S.</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-noticiero-de-karla-iberia-s_l_m.jpg"/>
+  </programme>
+  <programme start="20240425200000 +0200" stop="20240425210000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Paralelo 23</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_paralelo-23_l_m.jpg"/>
+  </programme>
+  <programme start="20240425210000 +0200" stop="20240425220000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240425220000 +0200" stop="20240425230000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Noticias MX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_noticias-mx_l_m.jpg"/>
+  </programme>
+  <programme start="20240425230000 +0200" stop="20240426000000 +0200" channel="[MX]FOROtv">
+    <title lang="es">A las 3</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_a-las-3_l_m.jpg"/>
+  </programme>
+  <programme start="20240426000000 +0200" stop="20240426010000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240426010000 +0200" stop="20240426020000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240426020000 +0200" stop="20240426030000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
+  <programme start="20240426030000 +0200" stop="20240426040000 +0200" channel="[MX]FOROtv">
+    <title lang="es">Las noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-noticias_l_m.jpg"/>
+  </programme>
   <programme start="20240423010000 -0400" stop="20240423020200 -0400" channel="Canal 11 de México">
     <title lang="es">Punto de referencia</title>
   </programme>
@@ -1394,183 +1798,290 @@
   <programme start="20240425230000 -0400" stop="20240426000000 -0400" channel="Canal 11 de México">
     <title lang="es">Punto de referencia</title>
   </programme>
-  <programme start="20240423002300 -0400" stop="20240423005200 -0400" channel="FHD | Star">
-    <title lang="es">Fabricantes de ovnis</title>
-    <episode-num system="onscreen">S1 E8</episode-num>
+  <programme start="20240423032700 +0200" stop="20240423050500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Misión Babilonia</title>
+    <title lang="en">Babylon A.D</title>
+    <date>2008</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mision-babilonia-2008_l_m.jpg"/>
   </programme>
-  <programme start="20240423005200 -0400" stop="20240423025100 -0400" channel="FHD | Star">
+  <programme start="20240423050500 +0200" stop="20240423053000 +0200" channel="[MX]Star Channel">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">No robarás</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simpson-s02e13-homer-vs-lisa-and-the-8th-com_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
+  </programme>
+  <programme start="20240423053000 +0200" stop="20240423060000 +0200" channel="[MX]Star Channel">
+    <title lang="es">Los Simpson</title>
+    <sub-title lang="es">El último tren</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simpson-s02e14-principal-charming_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+  </programme>
+  <programme start="20240423060000 +0200" stop="20240423062700 +0200" channel="[MX]Star Channel">
+    <title lang="es">Fabricantes de Ovnis</title>
+    <sub-title lang="es">Mercaderes del espacio</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20240423062700 +0200" stop="20240423065900 +0200" channel="[MX]Star Channel">
+    <title lang="es">Fabricantes de Ovnis</title>
+    <sub-title lang="es">Jugos de luna</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20240423065900 +0200" stop="20240423085800 +0200" channel="[MX]Star Channel">
     <title lang="es">Depredadores</title>
+    <title lang="en">Predators</title>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_depredadores-2010_l_m.jpg"/>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423025100 -0400" stop="20240423043900 -0400" channel="FHD | Star">
-    <title lang="es">Mama</title>
+  <programme start="20240423085800 +0200" stop="20240423104500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Mamá</title>
+    <title lang="en">Mama</title>
+    <date>2013</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mama-2013_l_m.jpg"/>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423043900 -0400" stop="20240423061100 -0400" channel="FHD | Star">
-    <title lang="es">Natural born pranksters</title>
+  <programme start="20240423104500 +0200" stop="20240423121700 +0200" channel="[MX]Star Channel">
+    <title lang="es">Natural Born Pranksters</title>
+    <date>2016</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_natural-born-pranksters-2016_l_m.jpg"/>
+    <star-rating>
+      <value>7/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423061100 -0400" stop="20240423073600 -0400" channel="FHD | Star">
-    <title lang="es">Dirty 30</title>
+  <programme start="20240423121700 +0200" stop="20240423134200 +0200" channel="[MX]Star Channel">
+    <title lang="es">Soltera a los 30</title>
+    <title lang="en">Dirty 30</title>
+    <date>2016</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_soltera-a-los-30-2016_l_m.jpg"/>
+    <star-rating>
+      <value>5/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423073600 -0400" stop="20240423082200 -0400" channel="FHD | Star">
+  <programme start="20240423134200 +0200" stop="20240423142800 +0200" channel="[MX]Star Channel">
     <title lang="es">9-1-1: Lone Star</title>
-    <episode-num system="onscreen">S2 E12</episode-num>
+    <sub-title lang="es">El gran calor</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_9-1-1-lone-star-s02e12-el-gran-calor_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
-  <programme start="20240423082200 -0400" stop="20240423083400 -0400" channel="FHD | Star">
-    <title lang="es">Programación Especial</title>
+  <programme start="20240423142800 +0200" stop="20240423144500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Programación especial</title>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_programacion-especial_l_m.jpg"/>
   </programme>
-  <programme start="20240423083400 -0400" stop="20240423090000 -0400" channel="FHD | Star">
-    <title lang="es">Programación Especial</title>
+  <programme start="20240423144500 +0200" stop="20240423150000 +0200" channel="[MX]Star Channel">
+    <title lang="es">Programación especial</title>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_programacion-especial_l_m.jpg"/>
   </programme>
-  <programme start="20240423090000 -0400" stop="20240423100200 -0400" channel="FHD | Star">
+  <programme start="20240423150000 +0200" stop="20240423160300 +0200" channel="[MX]Star Channel">
     <title lang="es">9-1-1: Lone Star</title>
-    <episode-num system="onscreen">S2 E13</episode-num>
+    <sub-title lang="es">Un día</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_9-1-1-lone-star-s02e13-one-day_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  <programme start="20240423100200 -0400" stop="20240423113700 -0400" channel="FHD | Star">
-    <title lang="es">Maravilla: La película</title>
+  <programme start="20240423160300 +0200" stop="20240423173800 +0200" channel="[MX]Star Channel">
+    <title lang="es">Maravilla, la película</title>
+    <date>2014</date>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_maravilla-la-pelicula-2014_l_m.jpg"/>
   </programme>
-  <programme start="20240423113700 -0400" stop="20240423133200 -0400" channel="FHD | Star">
+  <programme start="20240423173800 +0200" stop="20240423193300 +0200" channel="[MX]Star Channel">
     <title lang="es">Un policía y medio 2</title>
+    <title lang="en">Cop and a Half: New Recruit</title>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-policia-y-medio-2-2017-1_l_m.jpg"/>
+    <star-rating>
+      <value>6/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423133200 -0400" stop="20240423153200 -0400" channel="FHD | Star">
-    <title lang="es">Ghost Rider El vengador fantasma</title>
+  <programme start="20240423193300 +0200" stop="20240423213300 +0200" channel="[MX]Star Channel">
+    <title lang="es">El vengador fantasma</title>
+    <title lang="en">Ghost Rider</title>
+    <date>2007</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-vengador-fantasma-2007_l_m.jpg"/>
+    <star-rating>
+      <value>2/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423153200 -0400" stop="20240423175200 -0400" channel="FHD | Star">
-    <title lang="es">Gigantes de Acero</title>
-    <desc lang="es">Un ex boxeador pierde su oportunidad de ganar cuando robots de acero toman el ring. Ahora recibe una última oportunidad cuando hace equipo con su hijo.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/gigantes_de_acero.jpg"/>
+  <programme start="20240423213300 +0200" stop="20240423235300 +0200" channel="[MX]Star Channel">
+    <title lang="es">Gigantes de acero</title>
+    <title lang="en">Real Steel</title>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_gigantes-de-acero-2011_l_m.jpg"/>
+    <star-rating>
+      <value>1/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423175200 -0400" stop="20240423201500 -0400" channel="FHD | Star">
-    <title lang="es">Maze Runner Prueba de fuego</title>
+  <programme start="20240423235300 +0200" stop="20240424021500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Maze Runner: A prueba de fuego</title>
+    <title lang="en">Maze Runner: The Scorch Trials</title>
+    <date>2015</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_maze-runner-a-prueba-de-fuego-2015-1_l_m.jpg"/>
+    <star-rating>
+      <value>3/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423201500 -0400" stop="20240423230500 -0400" channel="FHD | Star">
-    <title lang="es">Maze Runner: La Cura Mortal</title>
-    <desc lang="es">Después de escapar del laberinto ahora deben regresar donde todo comenzó para buscar las respuestas que se han preguntado todos estos años.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/maze_runner_la_cura_mortal.jpg"/>
+  <programme start="20240424021500 +0200" stop="20240425021500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Maze Runner: La cura mortal</title>
+    <title lang="en">Maze Runner: The Death Cure</title>
+    <date>2018</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_maze-runner-la-cura-mortal-2018_l_m.jpg"/>
+    <star-rating>
+      <value>3/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240423230500 -0400" stop="20240423233000 -0400" channel="FHD | Star">
+  <programme start="20240425021500 +0200" stop="20240425050500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Maze Runner: La cura mortal</title>
+    <title lang="en">Maze Runner: The Death Cure</title>
+    <date>2018</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_maze-runner-la-cura-mortal-2018_l_m.jpg"/>
+    <star-rating>
+      <value>3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240425050500 +0200" stop="20240425053000 +0200" channel="[MX]Star Channel">
     <title lang="es">Los Simpson</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
+    <sub-title lang="es">¿Dónde estás, hermano mío?</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simpson-s02e15-oh-brother-where-art-thou_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.14.</episode-num>
   </programme>
-  <programme start="20240423233000 -0400" stop="20240424000000 -0400" channel="FHD | Star">
+  <programme start="20240425053000 +0200" stop="20240425060000 +0200" channel="[MX]Star Channel">
     <title lang="es">Los Simpson</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
+    <sub-title lang="es">El perro de Bart reprueba</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-simpson-s02e16-bart-s-dog-gets-an-f_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
   </programme>
-  <programme start="20240424000000 -0400" stop="20240424021500 -0400" channel="FHD | Star">
-    <title lang="es">El Día Después de Mañana</title>
-    <desc lang="es">Jack Hall, un experto en el clima deberá atravesar el país para llegar a su hijo, atrapado en una tormenta repentina que cambiará por completo la tierra.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_dia_despues_de_manana.jpg"/>
+  <programme start="20240425060000 +0200" stop="20240425081500 +0200" channel="[MX]Star Channel">
+    <title lang="es">El día después de mañana</title>
+    <title lang="en">The Day After Tomorrow</title>
+    <date>2004</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-dia-despues-de-manana-2004_l_m.jpg"/>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240424021500 -0400" stop="20240424040000 -0400" channel="FHD | Star">
-    <title lang="es">Irrupcion</title>
+  <programme start="20240425081500 +0200" stop="20240425100000 +0200" channel="[MX]Star Channel">
+    <title lang="es">Irrupción</title>
+    <title lang="en">Breaking In</title>
+    <date>2018</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_irrupcion-2018_l_m.jpg"/>
+    <star-rating>
+      <value>4/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240424040000 -0400" stop="20240424053200 -0400" channel="FHD | Star">
+  <programme start="20240425100000 +0200" stop="20240425113300 +0200" channel="[MX]Star Channel">
     <title lang="es">La casa sobre el pantano</title>
+    <title lang="en">A House on the Bayou</title>
+    <date>2021</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
+    <star-rating>
+      <value>6/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240424053200 -0400" stop="20240424065700 -0400" channel="FHD | Star">
-    <title lang="es">Vals de Navidad</title>
+  <programme start="20240425113300 +0200" stop="20240425125800 +0200" channel="[MX]Star Channel">
+    <title lang="es">El vals de Navidad</title>
+    <title lang="en">Christmas Waltz</title>
+    <date>2020</date>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
   </programme>
-  <programme start="20240424065700 -0400" stop="20240424074200 -0400" channel="FHD | Star">
+  <programme start="20240425125800 +0200" stop="20240425134300 +0200" channel="[MX]Star Channel">
     <title lang="es">9-1-1: Lone Star</title>
-    <episode-num system="onscreen">S2 E13</episode-num>
+    <sub-title lang="es">Un día</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_9-1-1-lone-star-s02e13-one-day_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  <programme start="20240424074200 -0400" stop="20240424090000 -0400" channel="FHD | Star">
+  <programme start="20240425134300 +0200" stop="20240425150000 +0200" channel="[MX]Star Channel">
     <title lang="es">Cumbia Ninja</title>
-    <episode-num system="onscreen">S2 E14</episode-num>
+    <sub-title lang="es">Incandescente</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cumbia-ninja-s02e14-incandescente_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
-  <programme start="20240424090000 -0400" stop="20240424095700 -0400" channel="FHD | Star">
+  <programme start="20240425150000 +0200" stop="20240425155800 +0200" channel="[MX]Star Channel">
     <title lang="es">9-1-1: Lone Star</title>
-    <episode-num system="onscreen">S2 E14</episode-num>
+    <sub-title lang="es">Polvo al polvo</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_9-1-1-lone-star-s02e14_l_m.jpg"/>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
   </programme>
-  <programme start="20240424095700 -0400" stop="20240424101000 -0400" channel="FHD | Star">
-    <title lang="es">Programación Especial</title>
+  <programme start="20240425155800 +0200" stop="20240425161000 +0200" channel="[MX]Star Channel">
+    <title lang="es">Programación especial</title>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_programacion-especial_l_m.jpg"/>
   </programme>
-  <programme start="20240424101000 -0400" stop="20240424102500 -0400" channel="FHD | Star">
-    <title lang="es">Programación Especial</title>
+  <programme start="20240425161000 +0200" stop="20240425162500 +0200" channel="[MX]Star Channel">
+    <title lang="es">Programación especial</title>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_programacion-especial_l_m.jpg"/>
   </programme>
-  <programme start="20240424102500 -0400" stop="20240424112000 -0400" channel="FHD | Star">
+  <programme start="20240425162500 +0200" stop="20240425172000 +0200" channel="[MX]Star Channel">
     <title lang="es">Cumbia Ninja</title>
-    <episode-num system="onscreen">S3 E1</episode-num>
+    <sub-title lang="es">Fuera de foco</sub-title>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_cumbia-ninja-s03e01-fuera-de-foco_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
   </programme>
-  <programme start="20240424112000 -0400" stop="20240424133200 -0400" channel="FHD | Star">
-    <title lang="es">Jem and the Holograms</title>
+  <programme start="20240425172000 +0200" stop="20240425193300 +0200" channel="[MX]Star Channel">
+    <title lang="es">Jem y los Hologramas</title>
+    <title lang="en">Jem and the Holograms</title>
+    <date>2015</date>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_jem-y-los-hologramas-2015_l_m.jpg"/>
   </programme>
-  <programme start="20240424133200 -0400" stop="20240424151200 -0400" channel="FHD | Star">
-    <title lang="es">Los aliens se comieron mi tarea</title>
+  <programme start="20240425193300 +0200" stop="20240425211300 +0200" channel="[MX]Star Channel">
+    <title lang="es">Los Aliens se comieron mi tarea</title>
+    <title lang="en">Aliens Ate My Homework</title>
+    <date>2018</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-aliens-se-comieron-mi-tarea-2018_l_m.jpg"/>
+    <star-rating>
+      <value>8/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240424151200 -0400" stop="20240424170000 -0400" channel="FHD | Star">
-    <title lang="es">Aliens stole my body</title>
+  <programme start="20240425211300 +0200" stop="20240425230000 +0200" channel="[MX]Star Channel">
+    <title lang="es">Los aliens me robaron el cuerpo</title>
+    <title lang="en">Aliens Stole My Body</title>
+    <date>2020</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
+    <star-rating>
+      <value>5/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240424170000 -0400" stop="20240424190500 -0400" channel="FHD | Star">
+  <programme start="20240425230000 +0200" stop="20240426010500 +0200" channel="[MX]Star Channel">
     <title lang="es">Bajo el sol de Toscana</title>
+    <title lang="en">Under the Tuscan Sun</title>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_bajo-el-sol-de-toscana-2003_l_m.jpg"/>
+    <star-rating>
+      <value>7/10</value>
+    </star-rating>
   </programme>
-  <programme start="20240424190500 -0400" stop="20240424210500 -0400" channel="FHD | Star">
+  <programme start="20240426010500 +0200" stop="20240426030500 +0200" channel="[MX]Star Channel">
     <title lang="es">Horizonte profundo</title>
-  </programme>
-  <programme start="20240424210500 -0400" stop="20240424230500 -0400" channel="FHD | Star">
-    <title lang="es">Una intrusa en la familia</title>
-  </programme>
-  <programme start="20240424230500 -0400" stop="20240424233000 -0400" channel="FHD | Star">
-    <title lang="es">Los Simpson</title>
-    <episode-num system="onscreen">S2 E17</episode-num>
-  </programme>
-  <programme start="20240424233000 -0400" stop="20240425000000 -0400" channel="FHD | Star">
-    <title lang="es">Los Simpson</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20240425000000 -0400" stop="20240425020000 -0400" channel="FHD | Star">
-    <title lang="es">Alien La Resurrección</title>
-  </programme>
-  <programme start="20240425020000 -0400" stop="20240425041500 -0400" channel="FHD | Star">
-    <title lang="es">Alien: Covenant</title>
-    <desc lang="es">La tripulación de la nave colonizadora Covenant encuentran un planeta paradisiaco en lo más lejano de la galaxia, pero no saben el peligro que les espera.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/alien_covenant.jpg"/>
-  </programme>
-  <programme start="20240425041500 -0400" stop="20240425060000 -0400" channel="FHD | Star">
-    <title lang="es">Depredadores</title>
-  </programme>
-  <programme start="20240425060000 -0400" stop="20240425072500 -0400" channel="FHD | Star">
-    <title lang="es">El Último Traje</title>
-    <desc lang="es">Un sastre se dirige a Polonia con el propósito de encontrar al amigo que le salvó la vida para cumplir su promesa de volver y contarle la vida que vivió.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_ultimo_traje.jpg"/>
-  </programme>
-  <programme start="20240425072500 -0400" stop="20240425090000 -0400" channel="FHD | Star">
-    <title lang="es">9-1-1: Lone Star</title>
-    <episode-num system="onscreen">S2 E14</episode-num>
-  </programme>
-  <programme start="20240425090000 -0400" stop="20240425102200 -0400" channel="FHD | Star">
-    <title lang="es">9-1-1: Lone Star</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20240425102200 -0400" stop="20240425111000 -0400" channel="FHD | Star">
-    <title lang="es">Cumbia Ninja</title>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240425111000 -0400" stop="20240425125500 -0400" channel="FHD | Star">
-    <title lang="es">Besouro</title>
-  </programme>
-  <programme start="20240425125500 -0400" stop="20240425145200 -0400" channel="FHD | Star">
-    <title lang="es">Una intrusa en la familia</title>
-  </programme>
-  <programme start="20240425145200 -0400" stop="20240425163700 -0400" channel="FHD | Star">
-    <title lang="es">Florece la esperanza</title>
-  </programme>
-  <programme start="20240425163700 -0400" stop="20240425184500 -0400" channel="FHD | Star">
-    <title lang="es">Ghost Rider El vengador fantasma</title>
-  </programme>
-  <programme start="20240425184500 -0400" stop="20240425210700 -0400" channel="FHD | Star">
-    <title lang="es">Nada es lo que parece 2</title>
-  </programme>
-  <programme start="20240425210700 -0400" stop="20240425230500 -0400" channel="FHD | Star">
-    <title lang="es">Amigos de las Vacaciones</title>
-    <desc lang="es">Una pareja pacífica se topa con una pareja salvaje en unas vacaciones en México, sin saber que meses más tarde irrumpirían en su boda sin ser invitados.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/amigos_de_las_vacaciones.jpg"/>
-  </programme>
-  <programme start="20240425230500 -0400" stop="20240425233000 -0400" channel="FHD | Star">
-    <title lang="es">Los Simpson</title>
-    <episode-num system="onscreen">S2 E19</episode-num>
-  </programme>
-  <programme start="20240425233000 -0400" stop="20240426000000 -0400" channel="FHD | Star">
-    <title lang="es">Los Simpson</title>
-    <episode-num system="onscreen">S2 E20</episode-num>
+    <title lang="en">Deepwater Horizon</title>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_horizonte-profundo-2016_l_m.jpg"/>
   </programme>
   <programme start="20240423004500 -0400" stop="20240423040000 -0400" channel="Canal Multimedios Plus">
     <title lang="es">Es show</title>
