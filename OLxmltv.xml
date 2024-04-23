@@ -2,7 +2,6 @@
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="Canal Azteca Uno">
     <display-name lang="es">FHD | Azteca 13</display-name>
-    <display-name lang="es">FHD | Azteca Uno menos -1</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png"/>
   </channel>
   <channel id="Canal Azteca Uno1">
@@ -12,6 +11,14 @@
   <channel id="Canal Azteca Uno -2 Horas">
     <display-name lang="es">FHD | Azteca Uno menos -2hr</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png"/>
+  </channel>
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <display-name lang="es">FHD | Las Estrellas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png"/>
+  </channel>
+  <channel id="Canal de las Estrellas -2 Horas - México (XEW)">
+    <display-name lang="es">FHD | Las Estrellas -2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png"/>
   </channel>
   <programme start="20240422003000 -0400" stop="20240422011500 -0400" channel="Canal Azteca Uno">
     <title lang="es">Noticiero Hechos de la noche</title>
@@ -456,5 +463,301 @@
   </programme>
   <programme start="20240426023000 -0400" stop="20240426031500 -0400" channel="Canal Azteca Uno -2 Horas">
     <title lang="es">Noticiero Hechos de la noche</title>
+  </programme>
+  <programme start="20240422003000 -0400" stop="20240422010000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Enrique Acevedo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422010000 -0400" stop="20240422020000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tercer Grado Deportivo</title>
+  </programme>
+  <programme start="20240422020000 -0400" stop="20240422023000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240422023000 -0400" stop="20240422063000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422063000 -0400" stop="20240422070000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20240422070000 -0400" stop="20240422073000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422073000 -0400" stop="20240422080000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240422080000 -0400" stop="20240422090000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422090000 -0400" stop="20240422110000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422110000 -0400" stop="20240422140000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422140000 -0400" stop="20240422153000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuéntamelo Ya!</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422153000 -0400" stop="20240422163000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Por ella soy Eva</title>
+  </programme>
+  <programme start="20240422163000 -0400" stop="20240422183000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esmeralda</title>
+  </programme>
+  <programme start="20240422183000 -0400" stop="20240422193000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vivir de Amor</title>
+  </programme>
+  <programme start="20240422193000 -0400" stop="20240422203000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240422203000 -0400" stop="20240422213000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tu Vida es Mi Vida</title>
+  </programme>
+  <programme start="20240422213000 -0400" stop="20240422223000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240422223000 -0400" stop="20240422233000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El amor no tiene receta</title>
+  </programme>
+  <programme start="20240422233000 -0400" stop="20240423003000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240423233000 -0400" stop="20240424003000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240424003000 -0400" stop="20240424010000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Enrique Acevedo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424010000 -0400" stop="20240424013000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">¿Es neta, Eva?</title>
+  </programme>
+  <programme start="20240424013000 -0400" stop="20240424020000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424020000 -0400" stop="20240424023000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240424023000 -0400" stop="20240424063000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240424063000 -0400" stop="20240424070000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20240424070000 -0400" stop="20240424073000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240424073000 -0400" stop="20240424080000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240424080000 -0400" stop="20240424090000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424090000 -0400" stop="20240424110000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424110000 -0400" stop="20240424140000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424140000 -0400" stop="20240424153000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuéntamelo Ya!</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424153000 -0400" stop="20240424163000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Por ella soy Eva</title>
+  </programme>
+  <programme start="20240424163000 -0400" stop="20240424183000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esmeralda</title>
+  </programme>
+  <programme start="20240424183000 -0400" stop="20240424193000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vivir de Amor</title>
+  </programme>
+  <programme start="20240424193000 -0400" stop="20240424203000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240424203000 -0400" stop="20240424213000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tu Vida es Mi Vida</title>
+  </programme>
+  <programme start="20240424213000 -0400" stop="20240424223000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240424223000 -0400" stop="20240424233000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El amor no tiene receta</title>
+  </programme>
+  <programme start="20240424233000 -0400" stop="20240425003000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240425233000 -0400" stop="20240426003000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240426003000 -0400" stop="20240426010000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Enrique Acevedo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240426010000 -0400" stop="20240426020000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tercer Grado</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240426020000 -0400" stop="20240426023000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240426023000 -0400" stop="20240426063000 -0400" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422003000 -0400" stop="20240422013000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">El amor no tiene receta</title>
+  </programme>
+  <programme start="20240422013000 -0400" stop="20240422023000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240422023000 -0400" stop="20240422030000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">En Punto Enrique Acevedo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422030000 -0400" stop="20240422040000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Tercer Grado Deportivo</title>
+  </programme>
+  <programme start="20240422040000 -0400" stop="20240422043000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240422043000 -0400" stop="20240422083000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422083000 -0400" stop="20240422090000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20240422090000 -0400" stop="20240422093000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240422093000 -0400" stop="20240422100000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240422100000 -0400" stop="20240422110000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Las noticias</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422110000 -0400" stop="20240422130000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Despierta</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422130000 -0400" stop="20240422160000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Hoy</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422160000 -0400" stop="20240422173000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Cuéntamelo Ya!</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240422173000 -0400" stop="20240422183000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Por ella soy Eva</title>
+  </programme>
+  <programme start="20240422183000 -0400" stop="20240422203000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Esmeralda</title>
+  </programme>
+  <programme start="20240422203000 -0400" stop="20240422213000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Vivir de Amor</title>
+  </programme>
+  <programme start="20240422213000 -0400" stop="20240422223000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240422223000 -0400" stop="20240422233000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Tu Vida es Mi Vida</title>
+  </programme>
+  <programme start="20240422233000 -0400" stop="20240423003000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240423233000 -0400" stop="20240424003000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240424003000 -0400" stop="20240424013000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">El amor no tiene receta</title>
+  </programme>
+  <programme start="20240424013000 -0400" stop="20240424023000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240424023000 -0400" stop="20240424030000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">En Punto Enrique Acevedo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424030000 -0400" stop="20240424033000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">¿Es neta, Eva?</title>
+  </programme>
+  <programme start="20240424033000 -0400" stop="20240424040000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Contacto deportivo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424040000 -0400" stop="20240424043000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20240424043000 -0400" stop="20240424083000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240424083000 -0400" stop="20240424090000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20240424090000 -0400" stop="20240424093000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240424093000 -0400" stop="20240424100000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20240424100000 -0400" stop="20240424110000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Las noticias</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424110000 -0400" stop="20240424130000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Despierta</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424130000 -0400" stop="20240424160000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Hoy</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424160000 -0400" stop="20240424173000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Cuéntamelo Ya!</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240424173000 -0400" stop="20240424183000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Por ella soy Eva</title>
+  </programme>
+  <programme start="20240424183000 -0400" stop="20240424203000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Esmeralda</title>
+  </programme>
+  <programme start="20240424203000 -0400" stop="20240424213000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Vivir de Amor</title>
+  </programme>
+  <programme start="20240424213000 -0400" stop="20240424223000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20240424223000 -0400" stop="20240424233000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Tu Vida es Mi Vida</title>
+  </programme>
+  <programme start="20240424233000 -0400" stop="20240425003000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240425233000 -0400" stop="20240426003000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20240426003000 -0400" stop="20240426013000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">El amor no tiene receta</title>
+  </programme>
+  <programme start="20240426013000 -0400" stop="20240426023000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Marea de Pasiones</title>
+  </programme>
+  <programme start="20240426023000 -0400" stop="20240426030000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">En Punto Enrique Acevedo</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240426030000 -0400" stop="20240426040000 -0400" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Tercer Grado</title>
+    <category lang="es">En Vivo</category>
   </programme>
 </tv>
