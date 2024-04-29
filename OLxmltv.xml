@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  <channel id="Canal Azteca Uno">
+  <channel id="AZTECA UNO">
     <display-name lang="es">FHD | Azteca 13</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png"/>
+    <icon src="https://www.reportv.com.ar/buscador/img/Logos/633346.jpg"/>
   </channel>
   <channel id="Canal Azteca Uno1">
     <display-name lang="es">FHD | Azteca Uno menos -1</display-name>
@@ -366,129 +366,431 @@
     <display-name lang="es">CH | CDO PREMIUN HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cdo-premium.png"/>
   </channel>
-  <programme start="20240429010000 -0400" stop="20240429020000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">La resolana</title>
+  <programme start="20240428220000 -0600" stop="20240428220500 -0600" channel="AZTECA UNO">
+    <title lang="es">Himno nacional</title>
   </programme>
-  <programme start="20240429020000 -0400" stop="20240429023000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Farmacias Similares</title>
+  <programme start="20240428220500 -0600" stop="20240428223500 -0600" channel="AZTECA UNO">
+    <title lang="es">Farmacias similares</title>
   </programme>
-  <programme start="20240429023000 -0400" stop="20240429043000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
+  <programme start="20240428223500 -0600" stop="20240428230500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240429043000 -0400" stop="20240429063000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
+  <programme start="20240428230500 -0600" stop="20240428233500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
-  <programme start="20240429063000 -0400" stop="20240429080000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
+  <programme start="20240428233500 -0600" stop="20240429000500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240429080000 -0400" stop="20240429090000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Hechos A.M Primera Línea</title>
-    <category lang="es">En Vivo</category>
+  <programme start="20240429000500 -0600" stop="20240429003500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240429090000 -0400" stop="20240429100000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Hechos AM</title>
-    <category lang="es">En Vivo</category>
+  <programme start="20240429003500 -0600" stop="20240429010500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240429100000 -0400" stop="20240429110000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  <programme start="20240429010500 -0600" stop="20240429013500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
-  <programme start="20240429110000 -0400" stop="20240429150000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/venga_la_alegria.png"/>
+  <programme start="20240429013500 -0600" stop="20240429015100 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
-  <programme start="20240429150000 -0400" stop="20240429160000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ventaneando.png"/>
+  <programme start="20240429015100 -0600" stop="20240429015300 -0600" channel="AZTECA UNO">
+    <title lang="es">Inventario obsoleto</title>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20240429160000 -0400" stop="20240429170000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240429015300 -0600" stop="20240429015500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inventario obsoleto ACUN</title>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20240429015500 -0600" stop="20240429023000 -0600" channel="AZTECA UNO">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2033403.jpg"/>
+  </programme>
+  <programme start="20240429023000 -0600" stop="20240429030000 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240429030000 -0600" stop="20240429032500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240429032500 -0600" stop="20240429035500 -0600" channel="AZTECA UNO">
+    <title lang="es">Farmacias similares</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8300750.jpg"/>
+  </programme>
+  <programme start="20240429035500 -0600" stop="20240429040000 -0600" channel="AZTECA UNO">
+    <title lang="es">Himno nacional</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20240429040000 -0600" stop="20240429050000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos AM: Primera lÃ­nea</title>
+    <category lang="es">PeriodÃ­stico</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648841.JPG"/>
+  </programme>
+  <programme start="20240429050000 -0600" stop="20240429060000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos A.M.</title>
+    <category lang="es">PeriodÃ­stico</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4400460.jpg"/>
+  </programme>
+  <programme start="20240429060000 -0600" stop="20240429070000 -0600" channel="AZTECA UNO">
+    <title lang="es">Nosotros ustedes y hechos con los RuÃ­z Lara</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/27249178.jpg"/>
+  </programme>
+  <programme start="20240429070000 -0600" stop="20240429090000 -0600" channel="AZTECA UNO">
+    <title lang="es">Venga la alegrÃ­a</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/34462295.jpg"/>
+  </programme>
+  <programme start="20240429090000 -0600" stop="20240429110000 -0600" channel="AZTECA UNO">
+    <title lang="es">Venga la alegrÃ­a</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/34462294.jpg"/>
+  </programme>
+  <programme start="20240429110000 -0600" stop="20240429120000 -0600" channel="AZTECA UNO">
+    <title lang="es">Ventaneando con Paty Chapoy</title>
+    <category lang="es">EspectÃ¡culo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14492245.jpg"/>
+  </programme>
+  <programme start="20240429120000 -0600" stop="20240429130000 -0600" channel="AZTECA UNO">
     <title lang="es">Hechos meridiano</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/18205509.jpg"/>
   </programme>
-  <programme start="20240429170000 -0400" stop="20240429180000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Escape Perfecto</title>
+  <programme start="20240429130000 -0600" stop="20240429140000 -0600" channel="AZTECA UNO">
+    <title lang="es">Escape perfecto Pro</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22075366.jpg"/>
   </programme>
-  <programme start="20240429180000 -0400" stop="20240429193000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240429140000 -0600" stop="20240429153000 -0600" channel="AZTECA UNO">
     <title lang="es">Al extremo</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/508559.jpg"/>
   </programme>
-  <programme start="20240429193000 -0400" stop="20240429213000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Acércate a Rocío</title>
+  <programme start="20240429153000 -0600" stop="20240429173000 -0600" channel="AZTECA UNO">
+    <title lang="es">AcÃ©rcate a RocÃ­o</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/29812689.jpg"/>
   </programme>
-  <programme start="20240429213000 -0400" stop="20240429223000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Cafe con aroma de mujer</title>
+  <programme start="20240429173000 -0600" stop="20240429183000 -0600" channel="AZTECA UNO">
+    <title lang="es">CafÃ© con aroma de mujer</title>
+    <category lang="es">Drama</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14727711.jpg"/>
   </programme>
-  <programme start="20240429223000 -0400" stop="20240430003000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240429183000 -0600" stop="20240429203000 -0600" channel="AZTECA UNO">
     <title lang="es">Survivor</title>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10009895.jpg"/>
   </programme>
-  <programme start="20240430223000 -0400" stop="20240501003000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Survivor</title>
+  <programme start="20240429203000 -0600" stop="20240429211500 -0600" channel="AZTECA UNO">
+    <title lang="es">Noticiero hechos noche</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648835.JPG"/>
   </programme>
-  <programme start="20240501003000 -0400" stop="20240501011500 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Noticiero Hechos de la noche</title>
-  </programme>
-  <programme start="20240501011500 -0400" stop="20240501013000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240429211500 -0600" stop="20240429211900 -0600" channel="AZTECA UNO">
     <title lang="es">Hechos CDMX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/30326316.jpg"/>
   </programme>
-  <programme start="20240501013000 -0400" stop="20240501014500 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Campañeando</title>
+  <programme start="20240429211900 -0600" stop="20240429213400 -0600" channel="AZTECA UNO">
+    <title lang="es">CampaÃ±eando</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14837284.jpg"/>
   </programme>
-  <programme start="20240501014500 -0400" stop="20240501021500 -0400" channel="Canal Azteca Uno">
+  <programme start="20240429213400 -0600" stop="20240429222500 -0600" channel="AZTECA UNO">
     <title lang="es">Los protagonistas</title>
+    <category lang="es">Deportivo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8597006.jpg"/>
   </programme>
-  <programme start="20240501021500 -0400" stop="20240501031500 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Iglesia Universal</title>
+  <programme start="20240429222500 -0600" stop="20240429225000 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
   </programme>
-  <programme start="20240501031500 -0400" stop="20240501051500 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
+  <programme start="20240429225000 -0600" stop="20240429232000 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
   </programme>
-  <programme start="20240501051500 -0400" stop="20240501071500 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
+  <programme start="20240429232000 -0600" stop="20240429233500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240501071500 -0400" stop="20240501080000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Infomerciales</title>
+  <programme start="20240429233500 -0600" stop="20240430000500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240501080000 -0400" stop="20240501090000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Hechos A.M Primera Línea</title>
-    <category lang="es">En Vivo</category>
+  <programme start="20240430000500 -0600" stop="20240430003500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240501090000 -0400" stop="20240501100000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Hechos AM</title>
-    <category lang="es">En Vivo</category>
+  <programme start="20240430003500 -0600" stop="20240430010500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
   </programme>
-  <programme start="20240501100000 -0400" stop="20240501110000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Nosotros, Ustedes y Hechos</title>
+  <programme start="20240430010500 -0600" stop="20240430013500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
-  <programme start="20240501110000 -0400" stop="20240501150000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/venga_la_alegria.png"/>
+  <programme start="20240430013500 -0600" stop="20240430015100 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
-  <programme start="20240501150000 -0400" stop="20240501160000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ventaneando.png"/>
+  <programme start="20240430015100 -0600" stop="20240430015300 -0600" channel="AZTECA UNO">
+    <title lang="es">Inventario obsoleto</title>
+    <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20240501160000 -0400" stop="20240501170000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240430015300 -0600" stop="20240430015500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inventario obsoleto ACUN</title>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20240430015500 -0600" stop="20240430023000 -0600" channel="AZTECA UNO">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2033403.jpg"/>
+  </programme>
+  <programme start="20240430023000 -0600" stop="20240430030000 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240430030000 -0600" stop="20240430032500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240430032500 -0600" stop="20240430035500 -0600" channel="AZTECA UNO">
+    <title lang="es">Farmacias similares</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8300750.jpg"/>
+  </programme>
+  <programme start="20240430035500 -0600" stop="20240430040000 -0600" channel="AZTECA UNO">
+    <title lang="es">Himno nacional</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20240430040000 -0600" stop="20240430050000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos AM: Primera lÃ­nea</title>
+    <category lang="es">PeriodÃ­stico</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648841.JPG"/>
+  </programme>
+  <programme start="20240430050000 -0600" stop="20240430060000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos A.M.</title>
+    <category lang="es">PeriodÃ­stico</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4400460.jpg"/>
+  </programme>
+  <programme start="20240430060000 -0600" stop="20240430070000 -0600" channel="AZTECA UNO">
+    <title lang="es">Nosotros ustedes y hechos con los RuÃ­z Lara</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/27249178.jpg"/>
+  </programme>
+  <programme start="20240430070000 -0600" stop="20240430090000 -0600" channel="AZTECA UNO">
+    <title lang="es">Venga la alegrÃ­a</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/34462295.jpg"/>
+  </programme>
+  <programme start="20240430090000 -0600" stop="20240430110000 -0600" channel="AZTECA UNO">
+    <title lang="es">Venga la alegrÃ­a</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/34462294.jpg"/>
+  </programme>
+  <programme start="20240430110000 -0600" stop="20240430120000 -0600" channel="AZTECA UNO">
+    <title lang="es">Ventaneando con Paty Chapoy</title>
+    <category lang="es">EspectÃ¡culo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14492245.jpg"/>
+  </programme>
+  <programme start="20240430120000 -0600" stop="20240430130000 -0600" channel="AZTECA UNO">
     <title lang="es">Hechos meridiano</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/18205509.jpg"/>
   </programme>
-  <programme start="20240501170000 -0400" stop="20240501180000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Escape Perfecto</title>
+  <programme start="20240430130000 -0600" stop="20240430140000 -0600" channel="AZTECA UNO">
+    <title lang="es">Escape perfecto Pro</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22075366.jpg"/>
   </programme>
-  <programme start="20240501180000 -0400" stop="20240501193000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240430140000 -0600" stop="20240430153000 -0600" channel="AZTECA UNO">
     <title lang="es">Al extremo</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/508559.jpg"/>
   </programme>
-  <programme start="20240501193000 -0400" stop="20240501213000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Acércate a Rocío</title>
+  <programme start="20240430153000 -0600" stop="20240430173000 -0600" channel="AZTECA UNO">
+    <title lang="es">AcÃ©rcate a RocÃ­o</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/29812689.jpg"/>
   </programme>
-  <programme start="20240501213000 -0400" stop="20240501223000 -0400" channel="Canal Azteca Uno">
-    <title lang="es">Cafe con aroma de mujer</title>
+  <programme start="20240430173000 -0600" stop="20240430183000 -0600" channel="AZTECA UNO">
+    <title lang="es">CafÃ© con aroma de mujer</title>
+    <category lang="es">Drama</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14727711.jpg"/>
   </programme>
-  <programme start="20240501223000 -0400" stop="20240502003000 -0400" channel="Canal Azteca Uno">
+  <programme start="20240430183000 -0600" stop="20240430203000 -0600" channel="AZTECA UNO">
     <title lang="es">Survivor</title>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10009895.jpg"/>
+  </programme>
+  <programme start="20240430203000 -0600" stop="20240430211500 -0600" channel="AZTECA UNO">
+    <title lang="es">Noticiero hechos noche</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648835.JPG"/>
+  </programme>
+  <programme start="20240430211500 -0600" stop="20240430211900 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos CDMX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/30326316.jpg"/>
+  </programme>
+  <programme start="20240430211900 -0600" stop="20240430213400 -0600" channel="AZTECA UNO">
+    <title lang="es">CampaÃ±eando</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14837284.jpg"/>
+  </programme>
+  <programme start="20240430213400 -0600" stop="20240430222500 -0600" channel="AZTECA UNO">
+    <title lang="es">Los protagonistas</title>
+    <category lang="es">Deportivo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8597006.jpg"/>
+  </programme>
+  <programme start="20240430222500 -0600" stop="20240430230000 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+  </programme>
+  <programme start="20240430230000 -0600" stop="20240501000000 -0600" channel="AZTECA UNO">
+    <title lang="es">Ruleta Codere</title>
+  </programme>
+  <programme start="20240501000000 -0600" stop="20240501003500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
+  </programme>
+  <programme start="20240501003500 -0600" stop="20240501010500 -0600" channel="AZTECA UNO">
+    <title lang="es">Inova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/31666684.jpg"/>
+  </programme>
+  <programme start="20240501010500 -0600" stop="20240501013500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240501013500 -0600" stop="20240501015500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240501015500 -0600" stop="20240501023000 -0600" channel="AZTECA UNO">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/2033403.jpg"/>
+  </programme>
+  <programme start="20240501023000 -0600" stop="20240501030000 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240501030000 -0600" stop="20240501032500 -0600" channel="AZTECA UNO">
+    <title lang="es">De compras TV</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240501032500 -0600" stop="20240501035500 -0600" channel="AZTECA UNO">
+    <title lang="es">Farmacias similares</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/8300750.jpg"/>
+  </programme>
+  <programme start="20240501035500 -0600" stop="20240501040000 -0600" channel="AZTECA UNO">
+    <title lang="es">Himno nacional</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20240501040000 -0600" stop="20240501050000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos AM: Primera lÃ­nea</title>
+    <category lang="es">PeriodÃ­stico</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648841.JPG"/>
+  </programme>
+  <programme start="20240501050000 -0600" stop="20240501060000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos A.M.</title>
+    <category lang="es">PeriodÃ­stico</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4400460.jpg"/>
+  </programme>
+  <programme start="20240501060000 -0600" stop="20240501070000 -0600" channel="AZTECA UNO">
+    <title lang="es">Nosotros ustedes y hechos con los RuÃ­z Lara</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/27249178.jpg"/>
+  </programme>
+  <programme start="20240501070000 -0600" stop="20240501090000 -0600" channel="AZTECA UNO">
+    <title lang="es">Venga la alegrÃ­a</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/34462295.jpg"/>
+  </programme>
+  <programme start="20240501090000 -0600" stop="20240501110000 -0600" channel="AZTECA UNO">
+    <title lang="es">Venga la alegrÃ­a</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/34462294.jpg"/>
+  </programme>
+  <programme start="20240501110000 -0600" stop="20240501120000 -0600" channel="AZTECA UNO">
+    <title lang="es">Ventaneando con Paty Chapoy</title>
+    <category lang="es">EspectÃ¡culo</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14492245.jpg"/>
+  </programme>
+  <programme start="20240501120000 -0600" stop="20240501130000 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos meridiano</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/18205509.jpg"/>
+  </programme>
+  <programme start="20240501130000 -0600" stop="20240501140000 -0600" channel="AZTECA UNO">
+    <title lang="es">Escape perfecto Pro</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/22075366.jpg"/>
+  </programme>
+  <programme start="20240501140000 -0600" stop="20240501153000 -0600" channel="AZTECA UNO">
+    <title lang="es">Al extremo</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/508559.jpg"/>
+  </programme>
+  <programme start="20240501153000 -0600" stop="20240501173000 -0600" channel="AZTECA UNO">
+    <title lang="es">AcÃ©rcate a RocÃ­o</title>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/29812689.jpg"/>
+  </programme>
+  <programme start="20240501173000 -0600" stop="20240501183000 -0600" channel="AZTECA UNO">
+    <title lang="es">CafÃ© con aroma de mujer</title>
+    <category lang="es">Drama</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14727711.jpg"/>
+  </programme>
+  <programme start="20240501183000 -0600" stop="20240501203000 -0600" channel="AZTECA UNO">
+    <title lang="es">Survivor</title>
+    <category lang="es">Reality Show</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/10009895.jpg"/>
+  </programme>
+  <programme start="20240501203000 -0600" stop="20240501211500 -0600" channel="AZTECA UNO">
+    <title lang="es">Noticiero hechos noche</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648835.JPG"/>
+  </programme>
+  <programme start="20240501211500 -0600" stop="20240501211900 -0600" channel="AZTECA UNO">
+    <title lang="es">Hechos CDMX</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/30326316.jpg"/>
+  </programme>
+  <programme start="20240501211900 -0600" stop="20240501213400 -0600" channel="AZTECA UNO">
+    <title lang="es">CampaÃ±eando</title>
+    <category lang="es">Magazine</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/14837284.jpg"/>
   </programme>
   <programme start="20240429010000 -0400" stop="20240429020000 -0400" channel="Canal Azteca Uno1">
     <title lang="es">La resolana</title>
@@ -1232,10 +1534,10 @@
     <title lang="es">Trolls ¡No pierdas el ritmo!</title>
   </programme>
   <programme start="20240429123000 -0400" stop="20240429140000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">El amanecer de los Croods</title>
+    <title lang="es">Rápidos y Furiosos</title>
   </programme>
   <programme start="20240429140000 -0400" stop="20240429153000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Kung Fu Panda Las patitas</title>
+    <title lang="es">El amanecer de los Croods</title>
   </programme>
   <programme start="20240429153000 -0400" stop="20240429170000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Los Pitufos</title>
@@ -1257,14 +1559,19 @@
   <programme start="20240429213000 -0400" stop="20240429233000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Malcolm el de en medio</title>
   </programme>
-  <programme start="20240429233000 -0400" stop="20240430013000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Un Día para Vivir</title>
+  <programme start="20240429233000 -0400" stop="20240430003000 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Lotería del Crimen</title>
   </programme>
-  <programme start="20240430233000 -0400" stop="20240501013000 -0400" channel="Canal Azteca 7 (México)">
+  <programme start="20240430233000 -0400" stop="20240501003000 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Lotería del Crimen</title>
+  </programme>
+  <programme start="20240501003000 -0400" stop="20240501013000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Un Día para Vivir</title>
   </programme>
   <programme start="20240501013000 -0400" stop="20240501023000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Macgyver</title>
+    <title lang="es">FBI: Internacional</title>
+    <desc lang="es">Un grupo de élite del FBI con diferentes habilidades arriesga sus vidas para mantener a los Estados Unidos y a su gente a salvo de amenazas internacionales.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/fbi_internacional.jpg"/>
   </programme>
   <programme start="20240501023000 -0400" stop="20240501043000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Infomerciales</title>
@@ -1285,38 +1592,26 @@
     <title lang="es">Molang</title>
   </programme>
   <programme start="20240501083000 -0400" stop="20240501090000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Trulli Tales</title>
+    <title lang="es">Milo</title>
   </programme>
-  <programme start="20240501090000 -0400" stop="20240501093000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Gigantosaurus</title>
-    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/gigantosaurus.jpg"/>
-  </programme>
-  <programme start="20240501093000 -0400" stop="20240501100000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Robocar Poli</title>
-  </programme>
-  <programme start="20240501100000 -0400" stop="20240501103000 -0400" channel="Canal Azteca 7 (México)">
+  <programme start="20240501090000 -0400" stop="20240501103000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Masha y el Oso</title>
     <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/caricaturas/masha_y_el_oso.jpg"/>
   </programme>
-  <programme start="20240501103000 -0400" stop="20240501110000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">LEGO Friends Chicas</title>
+  <programme start="20240501103000 -0400" stop="20240501123000 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Spirit Cabalgando libre</title>
   </programme>
-  <programme start="20240501110000 -0400" stop="20240501123000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Trolls ¡No pierdas el ritmo!</title>
+  <programme start="20240501123000 -0400" stop="20240501144500 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Las Chicas Superpoderosas</title>
+    <desc lang="es">Bombom, Burbuja y Bellota con ayuda de sus ultra super poderes defienden la ciudad de Townsville y al mundo de crímenes, monstruos y las fuerzas del mal.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/las_chicas_superpoderosas.jpg"/>
   </programme>
-  <programme start="20240501123000 -0400" stop="20240501140000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">El amanecer de los Croods</title>
+  <programme start="20240501144500 -0400" stop="20240501163000 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Los 1001 Cuentos Bugs Bunny</title>
   </programme>
-  <programme start="20240501140000 -0400" stop="20240501153000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Kung Fu Panda Las patitas</title>
-  </programme>
-  <programme start="20240501153000 -0400" stop="20240501170000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Los Pitufos</title>
-  </programme>
-  <programme start="20240501170000 -0400" stop="20240501183000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Alvin y las ardillas</title>
+  <programme start="20240501163000 -0400" stop="20240501183000 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Looney Tunes En acción</title>
   </programme>
   <programme start="20240501183000 -0400" stop="20240501193000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">One Piece</title>
@@ -1332,8 +1627,8 @@
   <programme start="20240501213000 -0400" stop="20240501233000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Malcolm el de en medio</title>
   </programme>
-  <programme start="20240501233000 -0400" stop="20240502013000 -0400" channel="Canal Azteca 7 (México)">
-    <title lang="es">Un Día para Vivir</title>
+  <programme start="20240501233000 -0400" stop="20240502003000 -0400" channel="Canal Azteca 7 (México)">
+    <title lang="es">Lotería del Crimen</title>
   </programme>
   <programme start="20240428220000 -0600" stop="20240428223000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">CV directo</title>
@@ -3428,6 +3723,12 @@
   </programme>
   <programme start="20240501192500 -0400" stop="20240501211500 -0400" channel="Canal A&amp;E (Colombia)">
     <title lang="es">Sentencia de muerte</title>
+  </programme>
+  <programme start="20240501211500 -0400" stop="20240501230000 -0400" channel="Canal A&amp;E (Colombia)">
+    <title lang="es">El guardaespaldas 2</title>
+  </programme>
+  <programme start="20240501230000 -0400" stop="20240502005000 -0400" channel="Canal A&amp;E (Colombia)">
+    <title lang="es">Sed de venganza</title>
   </programme>
   <programme start="20240429040500 +0200" stop="20240429050500 +0200" channel="[AR]Comedy Central">
     <title lang="es">CC Stand-Up</title>
@@ -6904,7 +7205,7 @@
     <title lang="es">Universo Unicable</title>
   </programme>
   <programme start="20240429083000 -0400" stop="20240429100000 -0400" channel="Canal Unicable (México)">
-    <title lang="es">Mujer... Casos de la vida real</title>
+    <title lang="es">Mujer casos de la vida real</title>
   </programme>
   <programme start="20240429100000 -0400" stop="20240429113000 -0400" channel="Canal Unicable (México)">
     <title lang="es">Mariposa de barrio</title>
@@ -6961,7 +7262,7 @@
     <title lang="es">Universo Unicable</title>
   </programme>
   <programme start="20240501024000 -0400" stop="20240501033000 -0400" channel="Canal Unicable (México)">
-    <title lang="es">Mujer... Casos de la vida real</title>
+    <title lang="es">Mujer casos de la vida real</title>
   </programme>
   <programme start="20240501033000 -0400" stop="20240501043000 -0400" channel="Canal Unicable (México)">
     <title lang="es">La 3era en discordia</title>
@@ -6982,7 +7283,7 @@
     <title lang="es">Universo Unicable</title>
   </programme>
   <programme start="20240501083000 -0400" stop="20240501100000 -0400" channel="Canal Unicable (México)">
-    <title lang="es">Mujer... Casos de la vida real</title>
+    <title lang="es">Mujer casos de la vida real</title>
   </programme>
   <programme start="20240501100000 -0400" stop="20240501113000 -0400" channel="Canal Unicable (México)">
     <title lang="es">Mariposa de barrio</title>
@@ -13859,13 +14160,13 @@
     <title lang="es">Despertar de la fe</title>
   </programme>
   <programme start="20240429073000 -0400" stop="20240429080000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">RT Reporta</title>
+    <title lang="es">Entrevista RT</title>
   </programme>
   <programme start="20240429080000 -0400" stop="20240429090000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Tú tienes la sazón</title>
   </programme>
   <programme start="20240429090000 -0400" stop="20240429093000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud Integral</title>
+    <title lang="es">Sintonizáte con el Dr. Cardona</title>
   </programme>
   <programme start="20240429093000 -0400" stop="20240429100000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Documentales RT</title>
@@ -13959,13 +14260,13 @@
     <title lang="es">Despertar de la fe</title>
   </programme>
   <programme start="20240430073000 -0400" stop="20240430080000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">RT Reporta</title>
+    <title lang="es">Entrevista RT</title>
   </programme>
   <programme start="20240430080000 -0400" stop="20240430090000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Tú tienes la sazón</title>
   </programme>
   <programme start="20240430090000 -0400" stop="20240430093000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud Integral</title>
+    <title lang="es">Sintonizáte con el Dr. Cardona</title>
   </programme>
   <programme start="20240430093000 -0400" stop="20240430100000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Documentales RT</title>
@@ -13977,7 +14278,7 @@
     <title lang="es">Angel Uriel</title>
   </programme>
   <programme start="20240430110000 -0400" stop="20240430113000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Reflejando belleza</title>
+    <title lang="es">Angel Uriel</title>
   </programme>
   <programme start="20240430113000 -0400" stop="20240430120000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Noticentro 1 red +noticias</title>
@@ -14065,7 +14366,7 @@
     <title lang="es">Tú tienes la sazón</title>
   </programme>
   <programme start="20240501090000 -0400" stop="20240501093000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Salud Integral</title>
+    <title lang="es">Sintonizáte con el Dr. Cardona</title>
   </programme>
   <programme start="20240501093000 -0400" stop="20240501100000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Mejora tu vida</title>
@@ -14080,44 +14381,38 @@
     <title lang="es">Portal de la prosperidad</title>
   </programme>
   <programme start="20240501113000 -0400" stop="20240501120000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Noticentro 1 red +noticias</title>
+    <title lang="es">Mejora tu vida</title>
   </programme>
   <programme start="20240501120000 -0400" stop="20240501130000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">Verde Esperanza</title>
+  </programme>
+  <programme start="20240501130000 -0400" stop="20240501143000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">El Grinch (2018)</title>
+    <desc lang="es">Es la historia del gruñón cínico que solo tiene una misión: Robar la Navidad, pero su corazón cambiará gracias a una niña con el espíritu de la navidad.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_grinch_2018.jpg"/>
+  </programme>
+  <programme start="20240501143000 -0400" stop="20240501153000 -0400" channel="Canal 1 (Colombia)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20240501130000 -0400" stop="20240501140000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Noticentro 1 CM &amp; Primera emisión</title>
+  <programme start="20240501153000 -0400" stop="20240501173000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">Viaje 2 La isla misteriosa</title>
   </programme>
-  <programme start="20240501140000 -0400" stop="20240501143000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">La lista de Erick</title>
+  <programme start="20240501173000 -0400" stop="20240501183000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20240501143000 -0400" stop="20240501150000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Colombiar</title>
-  </programme>
-  <programme start="20240501150000 -0400" stop="20240501170000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Lo Se Todo</title>
-  </programme>
-  <programme start="20240501170000 -0400" stop="20240501180000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Magazin 1</title>
-  </programme>
-  <programme start="20240501180000 -0400" stop="20240501190000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/chicago_fire.jpg"/>
-  </programme>
-  <programme start="20240501190000 -0400" stop="20240501200000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Caso cerrado Edición estelar</title>
+  <programme start="20240501183000 -0400" stop="20240501200000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">El Grinch (2018)</title>
+    <desc lang="es">Es la historia del gruñón cínico que solo tiene una misión: Robar la Navidad, pero su corazón cambiará gracias a una niña con el espíritu de la navidad.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_grinch_2018.jpg"/>
   </programme>
   <programme start="20240501200000 -0400" stop="20240501210000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Sin carreta</title>
+    <title lang="es">Red + Noticias</title>
   </programme>
-  <programme start="20240501210000 -0400" stop="20240501230000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Noticentro 1 CM &amp; Emisión central</title>
+  <programme start="20240501210000 -0400" stop="20240501233000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">La librería</title>
   </programme>
-  <programme start="20240501230000 -0400" stop="20240502000000 -0400" channel="Canal 1 (Colombia)">
-    <title lang="es">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/chicago_fire.jpg"/>
+  <programme start="20240501233000 -0400" stop="20240502010000 -0400" channel="Canal 1 (Colombia)">
+    <title lang="es">El último reino</title>
   </programme>
   <programme start="20240429010000 -0400" stop="20240429020000 -0400" channel="Canal Pasiones (Latinoamérica)">
     <title lang="es">Amar a Muerte</title>
@@ -14251,6 +14546,78 @@
     <title lang="es">Cennet</title>
   </programme>
   <programme start="20240430190000 -0400" stop="20240430200000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20240430200000 -0400" stop="20240430210000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Amar a Muerte</title>
+  </programme>
+  <programme start="20240430210000 -0400" stop="20240430220000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">No sueltes mi mano</title>
+  </programme>
+  <programme start="20240430220000 -0400" stop="20240430230000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20240430230000 -0400" stop="20240501000000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Amar a Muerte</title>
+  </programme>
+  <programme start="20240501000000 -0400" stop="20240501010000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20240501010000 -0400" stop="20240501020000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20240501020000 -0400" stop="20240501030000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Cennet</title>
+  </programme>
+  <programme start="20240501030000 -0400" stop="20240501040000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Alice</title>
+  </programme>
+  <programme start="20240501040000 -0400" stop="20240501050000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Amar a Muerte</title>
+  </programme>
+  <programme start="20240501050000 -0400" stop="20240501060000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20240501060000 -0400" stop="20240501070000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">No sueltes mi mano</title>
+  </programme>
+  <programme start="20240501070000 -0400" stop="20240501080000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20240501080000 -0400" stop="20240501090000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Amar a Muerte</title>
+  </programme>
+  <programme start="20240501090000 -0400" stop="20240501100000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20240501100000 -0400" stop="20240501110000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Cennet</title>
+  </programme>
+  <programme start="20240501110000 -0400" stop="20240501120000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Alice</title>
+  </programme>
+  <programme start="20240501120000 -0400" stop="20240501130000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20240501130000 -0400" stop="20240501140000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Amar a Muerte</title>
+  </programme>
+  <programme start="20240501140000 -0400" stop="20240501150000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Cennet</title>
+  </programme>
+  <programme start="20240501150000 -0400" stop="20240501160000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20240501160000 -0400" stop="20240501170000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">No sueltes mi mano</title>
+  </programme>
+  <programme start="20240501170000 -0400" stop="20240501180000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Alice</title>
+  </programme>
+  <programme start="20240501180000 -0400" stop="20240501190000 -0400" channel="Canal Pasiones (Latinoamérica)">
+    <title lang="es">Cennet</title>
+  </programme>
+  <programme start="20240501190000 -0400" stop="20240501200000 -0400" channel="Canal Pasiones (Latinoamérica)">
     <title lang="es">Elif</title>
   </programme>
   <programme start="20240429050000 +0200" stop="20240429060000 +0200" channel="[AR]Pasiones">
@@ -27864,153 +28231,149 @@
       <value>0/10</value>
     </star-rating>
   </programme>
-  <programme start="20240429002300 -0400" stop="20240429011000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429002600 -0400" stop="20240429011900 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E11</episode-num>
   </programme>
-  <programme start="20240429011000 -0400" stop="20240429020000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429011900 -0400" stop="20240429020900 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E12</episode-num>
   </programme>
-  <programme start="20240429020000 -0400" stop="20240429024600 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429020900 -0400" stop="20240429030000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E13</episode-num>
   </programme>
-  <programme start="20240429024600 -0400" stop="20240429033300 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429030000 -0400" stop="20240429034800 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 14</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E14</episode-num>
   </programme>
-  <programme start="20240429033300 -0400" stop="20240429042100 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429034800 -0400" stop="20240429043600 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 15</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20240429042100 -0400" stop="20240429050600 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429043600 -0400" stop="20240429052400 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E11</episode-num>
   </programme>
-  <programme start="20240429050600 -0400" stop="20240429055300 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429052400 -0400" stop="20240429061100 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E12</episode-num>
   </programme>
-  <programme start="20240429055300 -0400" stop="20240429063700 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429061100 -0400" stop="20240429065800 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E13</episode-num>
   </programme>
-  <programme start="20240429063700 -0400" stop="20240429072500 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429065800 -0400" stop="20240429074600 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 14</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E14</episode-num>
   </programme>
-  <programme start="20240429072500 -0400" stop="20240429081200 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429074600 -0400" stop="20240429080000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 3 | Episodio 15</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20240429081200 -0400" stop="20240429090100 -0400" channel="Canal TNT Series (México)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E9</episode-num>
-  </programme>
-  <programme start="20240429090100 -0400" stop="20240429094700 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429080000 -0400" stop="20240429090000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240429094700 -0400" stop="20240429103200 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429090000 -0400" stop="20240429095000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
-  <programme start="20240429103200 -0400" stop="20240429112100 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429095000 -0400" stop="20240429104200 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20240429112100 -0400" stop="20240429120800 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429104200 -0400" stop="20240429113500 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 18</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20240429120800 -0400" stop="20240429125600 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429113500 -0400" stop="20240429122500 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240429125600 -0400" stop="20240429134500 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429122500 -0400" stop="20240429131800 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240429134500 -0400" stop="20240429142900 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429131800 -0400" stop="20240429140400 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
-  <programme start="20240429142900 -0400" stop="20240429151900 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429140400 -0400" stop="20240429145700 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20240429151900 -0400" stop="20240429160400 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429145700 -0400" stop="20240429154500 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240429160400 -0400" stop="20240429165400 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429154500 -0400" stop="20240429163500 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
-  <programme start="20240429165400 -0400" stop="20240429174200 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429163500 -0400" stop="20240429172800 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E8</episode-num>
   </programme>
-  <programme start="20240429174200 -0400" stop="20240429183200 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429172800 -0400" stop="20240429182100 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E9</episode-num>
   </programme>
-  <programme start="20240429183200 -0400" stop="20240429192300 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429182100 -0400" stop="20240429191200 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 5 | Episodio 3</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S5 E3</episode-num>
   </programme>
-  <programme start="20240429192300 -0400" stop="20240429200800 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429191200 -0400" stop="20240429200100 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 5 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
-  <programme start="20240429200800 -0400" stop="20240429205900 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429200100 -0400" stop="20240429205200 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20240429205900 -0400" stop="20240429215100 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429205200 -0400" stop="20240429214300 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 18</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20240429215100 -0400" stop="20240429223900 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429214300 -0400" stop="20240429223600 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20240429223900 -0400" stop="20240429233000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240429223600 -0400" stop="20240429233000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
@@ -28024,55 +28387,51 @@
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240501002000 -0400" stop="20240501010800 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501002000 -0400" stop="20240501011400 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240501010800 -0400" stop="20240501020000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501011400 -0400" stop="20240501020700 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20240501020000 -0400" stop="20240501025000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501020700 -0400" stop="20240501030000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20240501025000 -0400" stop="20240501033600 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501030000 -0400" stop="20240501035000 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20240501033600 -0400" stop="20240501042400 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501035000 -0400" stop="20240501043600 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20240501042400 -0400" stop="20240501051000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501043600 -0400" stop="20240501052200 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20240501051000 -0400" stop="20240501055900 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501052200 -0400" stop="20240501060900 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20240501055900 -0400" stop="20240501064100 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501060900 -0400" stop="20240501065100 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
-  <programme start="20240501064100 -0400" stop="20240501072700 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501065100 -0400" stop="20240501073600 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20240501072700 -0400" stop="20240501080000 -0400" channel="Canal TNT Series (México)">
+  <programme start="20240501073600 -0400" stop="20240501085500 -0400" channel="Canal TNT Series (México)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 5 | Episodio 3</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S5 E3</episode-num>
-  </programme>
-  <programme start="20240501080000 -0400" stop="20240501085500 -0400" channel="Canal TNT Series (México)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E11</episode-num>
   </programme>
   <programme start="20240501085500 -0400" stop="20240501094200 -0400" channel="Canal TNT Series (México)">
     <title lang="es">Major crimes</title>
@@ -31209,7 +31568,7 @@
     <title lang="es">Futbol Picante</title>
   </programme>
   <programme start="20240429080000 -0400" stop="20240429100000 -0400" channel="Canal ESPN (México)">
-    <title lang="es">O. Marseille vs. Lens</title>
+    <title lang="es">Marseille vs. Lens</title>
   </programme>
   <programme start="20240429100000 -0400" stop="20240429110000 -0400" channel="Canal ESPN (México)">
     <title lang="es">SportsCenter</title>
