@@ -315,31 +315,39 @@
   </channel>
   <channel id="[CL]TVN">
     <display-name lang="es">CH | TVN HD</display-name>
-    <display-name lang="es">CH | TVN SD</display-name>
-    <display-name lang="es">CH | TVN FHD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
   </channel>
   <channel id="[CL]La Red">
     <display-name lang="es">CH | LA RED SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_la-red_m.png"/>
+  </channel>
+  <channel id="CH | LA RED HD">
     <display-name lang="es">CH | LA RED HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_la-red_m.png"/>
   </channel>
   <channel id="[CL]Chilevisión">
     <display-name lang="es">CH | CHILEVISION SD</display-name>
-    <display-name lang="es">CH | CHILEVISION FHD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
   </channel>
   <channel id="[CL]Canal 13">
     <display-name lang="es">CH | CANAL 13 SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
+  </channel>
+  <channel id="CH | CANAL 13 HD">
     <display-name lang="es">CH | CANAL 13 HD</display-name>
-    <display-name lang="es">CH | CANAL 13-HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
   </channel>
   <channel id="[CL]Mega">
     <display-name lang="es">CH | MEGA SD</display-name>
-    <display-name lang="es">CH | MEGA FHD</display-name>
-    <display-name lang="es">CH | MEGA HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
+  </channel>
+  <channel id="CH | MEGA FHD">
+    <display-name lang="es">CH | MEGA FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
+  </channel>
+  <channel id="CH | TVN SD">
+    <display-name lang="es">CH | TVN SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
   </channel>
   <channel id="[CL]24 Horas">
     <display-name lang="es">CH | 24 HORAS</display-name>
@@ -348,6 +356,18 @@
   <channel id="[CL]CNN Chile">
     <display-name lang="es">CH | CNN Chile</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png"/>
+  </channel>
+  <channel id="CH | CANAL 13-HD">
+    <display-name lang="es">CH | CANAL 13-HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
+  </channel>
+  <channel id="CH | MEGA HD">
+    <display-name lang="es">CH | MEGA HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
+  </channel>
+  <channel id="CH | CHILEVISION FHD">
+    <display-name lang="es">CH | CHILEVISION FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
   </channel>
   <channel id="[CL]FOX Sports 1 HD">
     <display-name lang="es">CH | FOX SPORTS 1 HD</display-name>
@@ -365,6 +385,10 @@
   <channel id="[CL]CDO Premium">
     <display-name lang="es">CH | CDO PREMIUN HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cdo-premium.png"/>
+  </channel>
+  <channel id="CH | TVN FHD">
+    <display-name lang="es">CH | TVN FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
   </channel>
   <programme start="20240429000000 -0600" stop="20240429000500 -0600" channel="AZTECA UNO">
     <title lang="es">Himno nacional</title>
@@ -1932,31 +1956,11 @@
   <programme start="20240501233000 -0400" stop="20240502003000 -0400" channel="Canal Azteca 7 (México)">
     <title lang="es">Lotería del Crimen</title>
   </programme>
-  <programme start="20240428220000 -0600" stop="20240428223000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">CV directo</title>
-  </programme>
-  <programme start="20240428223000 -0600" stop="20240428230000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">CV directo</title>
-  </programme>
-  <programme start="20240428230000 -0600" stop="20240428233000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">CV directo</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
-  </programme>
-  <programme start="20240428233000 -0600" stop="20240429000000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">CV directo</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
-  </programme>
   <programme start="20240429000000 -0600" stop="20240429003000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">CV directo</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
   <programme start="20240429003000 -0600" stop="20240429010000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">CV directo</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
   <programme start="20240429010000 -0600" stop="20240429013000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">CV directo</title>
@@ -1983,121 +1987,121 @@
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
   </programme>
-  <programme start="20240429033000 -0600" stop="20240429035000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429033000 -0600" stop="20240429040000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240429040000 -0600" stop="20240429043000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240429043000 -0600" stop="20240429050000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240429050000 -0600" stop="20240429053000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">CV directo</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/648846.JPG"/>
+  </programme>
+  <programme start="20240429053000 -0600" stop="20240429055000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Farmacias similares</title>
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8300750.jpg"/>
   </programme>
-  <programme start="20240429035000 -0600" stop="20240429040000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429055000 -0600" stop="20240429060000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias al amanecer</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648835.JPG"/>
   </programme>
-  <programme start="20240429040000 -0600" stop="20240429050000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429060000 -0600" stop="20240429070000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias con Francisco Zea</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29652385.jpg"/>
   </programme>
-  <programme start="20240429050000 -0600" stop="20240429060000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429070000 -0600" stop="20240429080000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias con Francisco Zea</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29652381.jpg"/>
   </programme>
-  <programme start="20240429060000 -0600" stop="20240429073000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429080000 -0600" stop="20240429093000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Noticiero DPC</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/27334877.jpg"/>
   </programme>
-  <programme start="20240429073000 -0600" stop="20240429093000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429093000 -0600" stop="20240429113000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Sale el sol</title>
     <category lang="es">Magazine</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/10301647.jpg"/>
   </programme>
-  <programme start="20240429093000 -0600" stop="20240429103000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429113000 -0600" stop="20240429123000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Â¡QuÃ© chulada!</title>
     <category lang="es">Magazine</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12451911.jpg"/>
   </programme>
-  <programme start="20240429103000 -0600" stop="20240429120000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429123000 -0600" stop="20240429140000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">El sultÃ¡n</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/6132487.jpg"/>
   </programme>
-  <programme start="20240429120000 -0600" stop="20240429130000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429140000 -0600" stop="20240429150000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/27461019.jpg"/>
   </programme>
-  <programme start="20240429130000 -0600" stop="20240429143000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429150000 -0600" stop="20240429163000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">RocÃ­o a tu lado</title>
     <category lang="es">Talk Show</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/21522479.jpg"/>
   </programme>
-  <programme start="20240429143000 -0600" stop="20240429163000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429163000 -0600" stop="20240429183000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">De primera mano</title>
     <category lang="es">EspectÃ¡culo</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12438129.jpg"/>
   </programme>
-  <programme start="20240429163000 -0600" stop="20240429173000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429183000 -0600" stop="20240429193000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Pecado original</title>
     <category lang="es">Telenovela</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/14625763.jpg"/>
   </programme>
-  <programme start="20240429173000 -0600" stop="20240429183000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429193000 -0600" stop="20240429203000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Reyes</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/36076202.jpg"/>
   </programme>
-  <programme start="20240429183000 -0600" stop="20240429193000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429203000 -0600" stop="20240429213000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Tres hermanas</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/31181156.jpg"/>
   </programme>
-  <programme start="20240429193000 -0600" stop="20240429203000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429213000 -0600" stop="20240429223000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Golden Boy</title>
     <category lang="es">RomÃ¡ntica</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29308742.jpg"/>
   </programme>
-  <programme start="20240429203000 -0600" stop="20240429211000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429223000 -0600" stop="20240429231000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9881259.jpg"/>
   </programme>
-  <programme start="20240429211000 -0600" stop="20240429214000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429231000 -0600" stop="20240429234000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Â¡QuÃ© importa!</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9881252.jpg"/>
   </programme>
-  <programme start="20240429214000 -0600" stop="20240429220000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240429234000 -0600" stop="20240430000000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Farmacias similares</title>
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8300750.jpg"/>
   </programme>
-  <programme start="20240429220000 -0600" stop="20240429223000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-  </programme>
-  <programme start="20240429223000 -0600" stop="20240429230000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-  </programme>
-  <programme start="20240429230000 -0600" stop="20240429233000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
-  </programme>
-  <programme start="20240429233000 -0600" stop="20240430000000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
-  </programme>
   <programme start="20240430000000 -0600" stop="20240430003000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
   <programme start="20240430003000 -0600" stop="20240430010000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
   <programme start="20240430010000 -0600" stop="20240430013000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
@@ -2119,121 +2123,121 @@
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
-  <programme start="20240430030000 -0600" stop="20240430034500 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430030000 -0600" stop="20240430033000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
-  <programme start="20240430034500 -0600" stop="20240430040000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430033000 -0600" stop="20240430040000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240430040000 -0600" stop="20240430043000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240430043000 -0600" stop="20240430050000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240430050000 -0600" stop="20240430054500 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240430054500 -0600" stop="20240430060000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias al amanecer</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648835.JPG"/>
   </programme>
-  <programme start="20240430040000 -0600" stop="20240430050000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430060000 -0600" stop="20240430070000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias con Francisco Zea</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29652385.jpg"/>
   </programme>
-  <programme start="20240430050000 -0600" stop="20240430060000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430070000 -0600" stop="20240430080000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias con Francisco Zea</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29652381.jpg"/>
   </programme>
-  <programme start="20240430060000 -0600" stop="20240430073000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430080000 -0600" stop="20240430093000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Noticiero DPC</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/27334877.jpg"/>
   </programme>
-  <programme start="20240430073000 -0600" stop="20240430093000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430093000 -0600" stop="20240430113000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Sale el sol</title>
     <category lang="es">Magazine</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/10301647.jpg"/>
   </programme>
-  <programme start="20240430093000 -0600" stop="20240430103000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430113000 -0600" stop="20240430123000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Â¡QuÃ© chulada!</title>
     <category lang="es">Magazine</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12451911.jpg"/>
   </programme>
-  <programme start="20240430103000 -0600" stop="20240430120000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430123000 -0600" stop="20240430140000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">El sultÃ¡n</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/6132487.jpg"/>
   </programme>
-  <programme start="20240430120000 -0600" stop="20240430130000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430140000 -0600" stop="20240430150000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/27461019.jpg"/>
   </programme>
-  <programme start="20240430130000 -0600" stop="20240430143000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430150000 -0600" stop="20240430163000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">RocÃ­o a tu lado</title>
     <category lang="es">Talk Show</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/21522479.jpg"/>
   </programme>
-  <programme start="20240430143000 -0600" stop="20240430163000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430163000 -0600" stop="20240430183000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">De primera mano</title>
     <category lang="es">EspectÃ¡culo</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12438129.jpg"/>
   </programme>
-  <programme start="20240430163000 -0600" stop="20240430173000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430183000 -0600" stop="20240430193000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Pecado original</title>
     <category lang="es">Telenovela</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/14625763.jpg"/>
   </programme>
-  <programme start="20240430173000 -0600" stop="20240430183000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430193000 -0600" stop="20240430203000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Reyes</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/36076202.jpg"/>
   </programme>
-  <programme start="20240430183000 -0600" stop="20240430193000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430203000 -0600" stop="20240430213000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Tres hermanas</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/31181156.jpg"/>
   </programme>
-  <programme start="20240430193000 -0600" stop="20240430203000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430213000 -0600" stop="20240430223000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Golden Boy</title>
     <category lang="es">RomÃ¡ntica</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29308742.jpg"/>
   </programme>
-  <programme start="20240430203000 -0600" stop="20240430211000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430223000 -0600" stop="20240430231000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9881259.jpg"/>
   </programme>
-  <programme start="20240430211000 -0600" stop="20240430214000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430231000 -0600" stop="20240430234000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Â¡QuÃ© importa!</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9881252.jpg"/>
   </programme>
-  <programme start="20240430214000 -0600" stop="20240430220000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240430234000 -0600" stop="20240501000000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Farmacias similares</title>
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/8300750.jpg"/>
   </programme>
-  <programme start="20240430220000 -0600" stop="20240430223000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-  </programme>
-  <programme start="20240430223000 -0600" stop="20240430230000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-  </programme>
-  <programme start="20240430230000 -0600" stop="20240430233000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
-  </programme>
-  <programme start="20240430233000 -0600" stop="20240501000000 -0600" channel="IMAGEN TELEVISION">
-    <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
-  </programme>
   <programme start="20240501000000 -0600" stop="20240501003000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
   <programme start="20240501003000 -0600" stop="20240501010000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
-    <category lang="es">Publicidad</category>
-    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
   <programme start="20240501010000 -0600" stop="20240501013000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
@@ -2255,87 +2259,107 @@
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
-  <programme start="20240501030000 -0600" stop="20240501034500 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501030000 -0600" stop="20240501033000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Innova</title>
     <category lang="es">Publicidad</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
   </programme>
-  <programme start="20240501034500 -0600" stop="20240501040000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501033000 -0600" stop="20240501040000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240501040000 -0600" stop="20240501043000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240501043000 -0600" stop="20240501050000 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240501050000 -0600" stop="20240501054500 -0600" channel="IMAGEN TELEVISION">
+    <title lang="es">Innova</title>
+    <category lang="es">Publicidad</category>
+    <icon src="https://www.reportv.com.ar/buscador/img/Programas/4385106.jpg"/>
+  </programme>
+  <programme start="20240501054500 -0600" stop="20240501060000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias al amanecer</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/648835.JPG"/>
   </programme>
-  <programme start="20240501040000 -0600" stop="20240501050000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501060000 -0600" stop="20240501070000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias con Francisco Zea</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29652385.jpg"/>
   </programme>
-  <programme start="20240501050000 -0600" stop="20240501060000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501070000 -0600" stop="20240501080000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias con Francisco Zea</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29652381.jpg"/>
   </programme>
-  <programme start="20240501060000 -0600" stop="20240501073000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501080000 -0600" stop="20240501093000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Noticiero DPC</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/27334877.jpg"/>
   </programme>
-  <programme start="20240501073000 -0600" stop="20240501093000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501093000 -0600" stop="20240501113000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Sale el sol</title>
     <category lang="es">Magazine</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/10301647.jpg"/>
   </programme>
-  <programme start="20240501093000 -0600" stop="20240501103000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501113000 -0600" stop="20240501123000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Â¡QuÃ© chulada!</title>
     <category lang="es">Magazine</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12451911.jpg"/>
   </programme>
-  <programme start="20240501103000 -0600" stop="20240501120000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501123000 -0600" stop="20240501140000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">El sultÃ¡n</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/6132487.jpg"/>
   </programme>
-  <programme start="20240501120000 -0600" stop="20240501130000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501140000 -0600" stop="20240501150000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/27461019.jpg"/>
   </programme>
-  <programme start="20240501130000 -0600" stop="20240501143000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501150000 -0600" stop="20240501163000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">RocÃ­o a tu lado</title>
     <category lang="es">Talk Show</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/21522479.jpg"/>
   </programme>
-  <programme start="20240501143000 -0600" stop="20240501163000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501163000 -0600" stop="20240501183000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">De primera mano</title>
     <category lang="es">EspectÃ¡culo</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/12438129.jpg"/>
   </programme>
-  <programme start="20240501163000 -0600" stop="20240501173000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501183000 -0600" stop="20240501193000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Pecado original</title>
     <category lang="es">Telenovela</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/14625763.jpg"/>
   </programme>
-  <programme start="20240501173000 -0600" stop="20240501183000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501193000 -0600" stop="20240501203000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Reyes</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/36076202.jpg"/>
   </programme>
-  <programme start="20240501183000 -0600" stop="20240501193000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501203000 -0600" stop="20240501213000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Tres hermanas</title>
     <category lang="es">Drama</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/31181156.jpg"/>
   </programme>
-  <programme start="20240501193000 -0600" stop="20240501203000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501213000 -0600" stop="20240501223000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Golden Boy</title>
     <category lang="es">RomÃ¡ntica</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/29308742.jpg"/>
   </programme>
-  <programme start="20240501203000 -0600" stop="20240501211000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501223000 -0600" stop="20240501231000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Imagen noticias</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9881259.jpg"/>
   </programme>
-  <programme start="20240501211000 -0600" stop="20240501214000 -0600" channel="IMAGEN TELEVISION">
+  <programme start="20240501231000 -0600" stop="20240501234000 -0600" channel="IMAGEN TELEVISION">
     <title lang="es">Â¡QuÃ© importa!</title>
     <category lang="es">Noticiero</category>
     <icon src="https://www.reportv.com.ar/buscador/img/Programas/9881252.jpg"/>
@@ -33003,6 +33027,196 @@
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
   </programme>
+  <programme start="20240429060000 +0200" stop="20240429084500 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240429084500 +0200" stop="20240429110000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_m.jpg"/>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429160000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240429160000 +0200" stop="20240429210000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210000 +0200" stop="20240429223000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240429223000 +0200" stop="20240429225000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plaza-sesamo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429225000 +0200" stop="20240429231000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plaza-sesamo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429231000 +0200" stop="20240429233000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plaza-sesamo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429233000 +0200" stop="20240430003000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Saras y Kumud</title>
+    <desc lang="es">A un joven aristocrático llamado Saras Vyas le organizan una boda acordada con Kumud Desai, pero él se niega y con el transcurrir del tiempo, él se da cuenta de que aquella decisión fue un gran error.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_saras-y-kumud_l_m.jpg"/>
+  </programme>
+  <programme start="20240430003000 +0200" stop="20240430013000 +0200" channel="CH | LA RED HD">
+    <title lang="es">El amor más grande</title>
+    <desc lang="es">Las hermanas Maila y Natalie tienen un enfoque diferente de su madre, Onay, que tiene acondroplasia. Mientras que Maila es una hija agradable y atenta, Natalie es arrogante y desobediente.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430013000 +0200" stop="20240430030000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
+  </programme>
+  <programme start="20240430030000 +0200" stop="20240430050000 +0200" channel="CH | LA RED HD">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-confirmar_l_m.jpg"/>
+  </programme>
+  <programme start="20240430050000 +0200" stop="20240430080000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Caja de Pandora</title>
+    <desc lang="es">Programa que incorpora la entretención, el humor, los juegos y temas contingentes con grandes invitados y artistas que harán de las noches una excelente opción para disfrutar en casa.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430080000 +0200" stop="20240430110000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_m.jpg"/>
+  </programme>
+  <programme start="20240430110000 +0200" stop="20240430160000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240430160000 +0200" stop="20240430210000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
+  </programme>
+  <programme start="20240430210000 +0200" stop="20240430233000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240430233000 +0200" stop="20240501003000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Saras y Kumud</title>
+    <desc lang="es">A un joven aristocrático llamado Saras Vyas le organizan una boda acordada con Kumud Desai, pero él se niega y con el transcurrir del tiempo, él se da cuenta de que aquella decisión fue un gran error.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_saras-y-kumud_l_m.jpg"/>
+  </programme>
+  <programme start="20240501003000 +0200" stop="20240501013000 +0200" channel="CH | LA RED HD">
+    <title lang="es">El amor más grande</title>
+    <desc lang="es">Las hermanas Maila y Natalie tienen un enfoque diferente de su madre, Onay, que tiene acondroplasia. Mientras que Maila es una hija agradable y atenta, Natalie es arrogante y desobediente.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501013000 +0200" stop="20240501023000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
+  </programme>
+  <programme start="20240501023000 +0200" stop="20240501030000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240501030000 +0200" stop="20240501070000 +0200" channel="CH | LA RED HD">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_a-confirmar_l_m.jpg"/>
+  </programme>
+  <programme start="20240501070000 +0200" stop="20240501080000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Águila roja</title>
+    <desc lang="es">En el Siglo de Oro, durante el reinado de Felipe IV, Gonzalo de Montalvo, maestro de profesión, se verá envuelto en diversas aventuras e intrigas, tratando de descubrir la conspiración que se esconde tras el asesinato de su esposa.</desc>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aguila-roja_l_m.jpg"/>
+  </programme>
+  <programme start="20240501080000 +0200" stop="20240501110000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_m.jpg"/>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501160000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240501160000 +0200" stop="20240501210000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210000 +0200" stop="20240501225000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+    <desc lang="es">Las mejores soluciones de salud, belleza y bienestar de origen natural.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_swiss-nature-labs-1_l_m.jpg"/>
+  </programme>
+  <programme start="20240501225000 +0200" stop="20240501231000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plaza-sesamo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501231000 +0200" stop="20240501233000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Abelardo, Elmo, Enrique y todos sus amigos enseñan a los niños de todo el mundo a contar, sumar, leer y conocer los colores y el mundo que los rodea; pero más importante aún, les enseñan el valioso principio de la amistad.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plaza-sesamo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501233000 +0200" stop="20240502003000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Saras y Kumud</title>
+    <desc lang="es">A un joven aristocrático llamado Saras Vyas le organizan una boda acordada con Kumud Desai, pero él se niega y con el transcurrir del tiempo, él se da cuenta de que aquella decisión fue un gran error.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_saras-y-kumud_l_m.jpg"/>
+  </programme>
+  <programme start="20240502003000 +0200" stop="20240502013000 +0200" channel="CH | LA RED HD">
+    <title lang="es">El amor más grande</title>
+    <desc lang="es">Las hermanas Maila y Natalie tienen un enfoque diferente de su madre, Onay, que tiene acondroplasia. Mientras que Maila es una hija agradable y atenta, Natalie es arrogante y desobediente.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502013000 +0200" stop="20240502030000 +0200" channel="CH | LA RED HD">
+    <title lang="es">Antena 3D</title>
+    <desc lang="es">Espacio que pone a tu alcance una amplia gama de productos para el hogar, belleza, cuidado del cuerpo y salud ofreciéndote la satisfacción, exclusividad, calidad y servicios que mereces.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_m.jpg"/>
+  </programme>
   <programme start="20240429044000 +0200" stop="20240429063000 +0200" channel="[CL]Chilevisión">
     <title lang="es">Got Talent Chile</title>
     <desc lang="es">Un reality en el que los participantes, su talento y sus historias de vida permiten conocer más sobre las raíces chilenas. Además, propone inspirar, emocionar y divertir.</desc>
@@ -33373,6 +33587,228 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
   </programme>
+  <programme start="20240429042000 +0200" stop="20240429061000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429061000 +0200" stop="20240429065500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Secretos de familia</title>
+    <desc lang="es">La vida de Elena Valdés cambia para siempre tras su retorno a Chile luego de 15 años de vivir en España y encontrarse con el misterioso suicidio de su hermana, Sara. Sin embargo, ella sospecha que, en realidad, se trató de un homicidio.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429065500 +0200" stop="20240429083500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429083500 +0200" stop="20240429093500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">La ley y el orden</title>
+    <desc lang="es">Analiza la ley y el crimen desde una perspectiva dual, donde los detectives investigan crímenes y detienen a los sospechosos quienes quedan bajo la supervisión de la teniente, Anita Van Buren.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-ley-y-el-orden_l_m.jpg"/>
+  </programme>
+  <programme start="20240429093500 +0200" stop="20240429110000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">T13 en vivo informa</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas, reporteros y expertos analizan los acontecimientos diarios para que el público se informe al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_t13-en-vivo-informa_l_m.jpg"/>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429120000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">3x3</title>
+    <desc lang="es">Despierta junto al infomativo en un formato libre y distendido que da inicio nuestra programación.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_3x3_l_m.jpg"/>
+  </programme>
+  <programme start="20240429120000 +0200" stop="20240429140000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429190000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Tu día</title>
+    <desc lang="es">En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429190000 +0200" stop="20240429203000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece Tarde</title>
+    <desc lang="es">Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429203000 +0200" stop="20240429203500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429203500 +0200" stop="20240429213500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ana de nadie</title>
+    <desc lang="es">Ana, una mujer de 50 años, deberá replantear aspectos claves de su vida al descubrir que su marido con el que ha estado 25 años le es infiel.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429213500 +0200" stop="20240429223500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Melissa</title>
+    <desc lang="es">Alegre y verborrágica, Melissa es una niña que ha quedado huérfana de bebé. Tras ser echada de su hogar adoptivo, conoce a un hombre de mediana edad que la lleva a vivir con él y su hermana a su finca, donde se sentirá parte de la familia.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429223500 +0200" stop="20240429235500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Papi Ricky</title>
+    <desc lang="es">Ricardo, un hombre soltero y joven, es padre de Alicia, una niña de 8 años a la que ha criado solo. Tras una vida nómade, Ricardo decide volver a Chile a trabajar, donde se enamora de una profesora que no le cae simpática a Alicia.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papi-ricky_l_m.jpg"/>
+  </programme>
+  <programme start="20240429235500 +0200" stop="20240430000000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Avance Ganar o servir?</title>
+    <desc lang="es">Programa especial en el que se comparten adelantos de lo que se viene en el reality ¿Ganar o Servir? Este show cuenta con la participación de 16 concursantes (famosos y desconocidos) aislados en un recinto ubicado al sur de Lima, Perú.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430000000 +0200" stop="20240430010000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Rastros de mentiras</title>
+    <desc lang="es">Paloma es una mujer perseverante cuyo bebé recién nacido es secuestrado por su propio hermano Félix, que planea ser el único heredero de la fortuna de su familia.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rastros-de-mentiras_l_m.jpg"/>
+  </programme>
+  <programme start="20240430010000 +0200" stop="20240430024500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">¡Qué dice Chile!</title>
+    <desc lang="es">Dos grupos de cuatro personas compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. El programa cuenta con un público que participa en vivo y enviando preguntas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430024500 +0200" stop="20240430041000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
+  </programme>
+  <programme start="20240430041000 +0200" stop="20240430042000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240430042000 +0200" stop="20240501042000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501042000 +0200" stop="20240501061500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501061500 +0200" stop="20240501070000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Secretos de familia</title>
+    <desc lang="es">La vida de Elena Valdés cambia para siempre tras su retorno a Chile luego de 15 años de vivir en España y encontrarse con el misterioso suicidio de su hermana, Sara. Sin embargo, ella sospecha que, en realidad, se trató de un homicidio.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501070000 +0200" stop="20240501080000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501080000 +0200" stop="20240501090000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece noche</title>
+    <desc lang="es">Segmento informativo transmitido a la medianoche, en el cual podrás conocer un resumen sobre las informaciones más destacadas de la actualidad en Chile y el mundo, incluyendo diversas secciones.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-noche_l_m.jpg"/>
+  </programme>
+  <programme start="20240501090000 +0200" stop="20240501100000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">La ley y el orden: UVE</title>
+    <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-ley-y-el-orden-uve_l_m.jpg"/>
+  </programme>
+  <programme start="20240501100000 +0200" stop="20240501110000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">T13 en vivo informa</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas, reporteros y expertos analizan los acontecimientos diarios para que el público se informe al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_t13-en-vivo-informa_l_m.jpg"/>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501120000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">3x3</title>
+    <desc lang="es">Despierta junto al infomativo en un formato libre y distendido que da inicio nuestra programación.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_3x3_l_m.jpg"/>
+  </programme>
+  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501190000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Tu día</title>
+    <desc lang="es">En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501190000 +0200" stop="20240501203000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece Tarde</title>
+    <desc lang="es">Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501203000 +0200" stop="20240501203500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501203500 +0200" stop="20240501213500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Ana de nadie</title>
+    <desc lang="es">Ana, una mujer de 50 años, deberá replantear aspectos claves de su vida al descubrir que su marido con el que ha estado 25 años le es infiel.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501213500 +0200" stop="20240501223500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Melissa</title>
+    <desc lang="es">Alegre y verborrágica, Melissa es una niña que ha quedado huérfana de bebé. Tras ser echada de su hogar adoptivo, conoce a un hombre de mediana edad que la lleva a vivir con él y su hermana a su finca, donde se sentirá parte de la familia.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501223500 +0200" stop="20240501235500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Papi Ricky</title>
+    <desc lang="es">Ricardo, un hombre soltero y joven, es padre de Alicia, una niña de 8 años a la que ha criado solo. Tras una vida nómade, Ricardo decide volver a Chile a trabajar, donde se enamora de una profesora que no le cae simpática a Alicia.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papi-ricky_l_m.jpg"/>
+  </programme>
+  <programme start="20240501235500 +0200" stop="20240502000000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Avance Ganar o servir?</title>
+    <desc lang="es">Programa especial en el que se comparten adelantos de lo que se viene en el reality ¿Ganar o Servir? Este show cuenta con la participación de 16 concursantes (famosos y desconocidos) aislados en un recinto ubicado al sur de Lima, Perú.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502000000 +0200" stop="20240502010000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Rastros de mentiras</title>
+    <desc lang="es">Paloma es una mujer perseverante cuyo bebé recién nacido es secuestrado por su propio hermano Félix, que planea ser el único heredero de la fortuna de su familia.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rastros-de-mentiras_l_m.jpg"/>
+  </programme>
+  <programme start="20240502010000 +0200" stop="20240502024500 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">¡Qué dice Chile!</title>
+    <desc lang="es">Dos grupos de cuatro personas compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. El programa cuenta con un público que participa en vivo y enviando preguntas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502024500 +0200" stop="20240502041000 +0200" channel="CH | CANAL 13 HD">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
+  </programme>
   <programme start="20240429044000 +0200" stop="20240429110000 +0200" channel="[CL]Mega">
     <title lang="es">Seyran y Ferit</title>
     <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
@@ -33571,6 +34007,444 @@
     <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20240429044000 +0200" stop="20240429110000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.130.</episode-num>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429130000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Oye</title>
+    <desc lang="es">Programa de música junto a Francisca Gómez.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429130000 +0200" stop="20240429140000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Meganoticias amanece</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429180000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Mucho gusto</title>
+    <desc lang="es">Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos. El conductor José Antonio Neme reúne un panel de expertos para debatir los hechos más destacados de la actualidad.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mucho-gusto_l_m.jpg"/>
+  </programme>
+  <programme start="20240429180000 +0200" stop="20240429210000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Meganoticias alerta</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210000 +0200" stop="20240429210500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210500 +0200" stop="20240429214500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.325.</episode-num>
+  </programme>
+  <programme start="20240429214500 +0200" stop="20240429222000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240429222000 +0200" stop="20240430000000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Secretos de sangre</title>
+    <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430000000 +0200" stop="20240430010000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Papá en apuros</title>
+    <desc lang="es">Martín Seminario, un estricto capitán de fragata de la Marina, es viudo y padre de cuatro hijos. Su vida colapsa cuando cae en la cuenta de que no está preparado para criar a sus hijos solo y que ellos necesitan una madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.72.</episode-num>
+  </programme>
+  <programme start="20240430010000 +0200" stop="20240430020000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430020000 +0200" stop="20240430023000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240430023000 +0200" stop="20240430032000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240430032000 +0200" stop="20240430041000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticia nacional e internacional. Los conductores Arístegui Armijo y Juan Manuel Astorga informan al público sobre los acontecimientos diarios en Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_m.jpg"/>
+  </programme>
+  <programme start="20240430041000 +0200" stop="20240430041500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240430041500 +0200" stop="20240501041500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Como la vida misma</title>
+    <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.238.</episode-num>
+  </programme>
+  <programme start="20240501041500 +0200" stop="20240501053000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Como la vida misma</title>
+    <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.238.</episode-num>
+  </programme>
+  <programme start="20240501053000 +0200" stop="20240501063000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.131.</episode-num>
+  </programme>
+  <programme start="20240501063000 +0200" stop="20240501073000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Secretos de sangre</title>
+    <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.234.</episode-num>
+  </programme>
+  <programme start="20240501073000 +0200" stop="20240501081500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Como la vida misma</title>
+    <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501081500 +0200" stop="20240501110000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Juegos de poder</title>
+    <sub-title lang="es">La terapia de Susan</sub-title>
+    <desc lang="es">Una implacable búsqueda por encontrar la verdad se desencadena con el fiscal Aníbal Ramos como líder, quien no descansará hasta descubrir a los responsables de un atropello del que fueron víctimas dos hermanos universitarios.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_juegos-de-poder-s01e68-la-terapia-de-susan_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.67.</episode-num>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501130000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Oye</title>
+    <desc lang="es">Programa de música junto a Francisca Gómez.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501130000 +0200" stop="20240501140000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Meganoticias amanece</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501180000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Mucho gusto</title>
+    <desc lang="es">Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos. El conductor José Antonio Neme reúne un panel de expertos para debatir los hechos más destacados de la actualidad.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mucho-gusto_l_m.jpg"/>
+  </programme>
+  <programme start="20240501180000 +0200" stop="20240501210000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Meganoticias alerta</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210000 +0200" stop="20240501210500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210500 +0200" stop="20240501214500 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240501214500 +0200" stop="20240501222000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.327.</episode-num>
+  </programme>
+  <programme start="20240501222000 +0200" stop="20240502000000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Secretos de sangre</title>
+    <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502000000 +0200" stop="20240502010000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Papá en apuros</title>
+    <desc lang="es">Martín Seminario, un estricto capitán de fragata de la Marina, es viudo y padre de cuatro hijos. Su vida colapsa cuando cae en la cuenta de que no está preparado para criar a sus hijos solo y que ellos necesitan una madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.73.</episode-num>
+  </programme>
+  <programme start="20240502010000 +0200" stop="20240502020000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502020000 +0200" stop="20240502023000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240502023000 +0200" stop="20240502032000 +0200" channel="CH | MEGA FHD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20240429044000 +0200" stop="20240429064500 +0200" channel="CH | TVN SD">
+    <title lang="es">Rambo</title>
+    <title lang="en">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rambo-1982_l_m.jpg"/>
+    <star-rating>
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240429064500 +0200" stop="20240429081500 +0200" channel="CH | TVN SD">
+    <title lang="es">El día menos pensado</title>
+    <desc lang="es">Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-dia-menos-pensado_l_m.jpg"/>
+  </programme>
+  <programme start="20240429081500 +0200" stop="20240429090000 +0200" channel="CH | TVN SD">
+    <title lang="es">La noche menos pensada</title>
+    <desc lang="es">Carlos Pinto analiza cada uno de los casos recreados en "El día menos pensado" junto a invitados expertos en la temática presentada y con personas que vivieron en carne propia situaciones similares.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429090000 +0200" stop="20240429091500 +0200" channel="CH | TVN SD">
+    <title lang="es">Informe final TV Tiempo</title>
+    <desc lang="es">Sobre el final de la jornada, el informe del tiempo y los pronósticos climáticos para todo Chile en los próximas horas y días.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_informe-final-tv-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429091500 +0200" stop="20240429103000 +0200" channel="CH | TVN SD">
+    <title lang="es">Mea Culpa</title>
+    <desc lang="es">Crímenes que han marcado un hito en la historia policial chilena, recreados para llevar a Ud. el testimonio de las víctimas y el ''Mea Culpa'' de los condenados.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mea-culpa_l_m.jpg"/>
+  </programme>
+  <programme start="20240429103000 +0200" stop="20240429110000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 Horas deportes</title>
+    <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
+    <category lang="es">24 Horas deportes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-24-horas-deportes_l_m.jpg"/>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429113000 +0200" channel="CH | TVN SD">
+    <title lang="es">Hora 24</title>
+    <desc lang="es">Actualidad e información.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hora-24_l_m.jpg"/>
+  </programme>
+  <programme start="20240429113000 +0200" stop="20240429120000 +0200" channel="CH | TVN SD">
+    <title lang="es">La previa</title>
+    <desc lang="es">Espacio matutino de noticias, con toda la información de la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-previa_l_m.jpg"/>
+  </programme>
+  <programme start="20240429120000 +0200" stop="20240429140000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429190000 +0200" channel="CH | TVN SD">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_m.jpg"/>
+  </programme>
+  <programme start="20240429190000 +0200" stop="20240429210000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">El análisis de las informaciones más destacadas de Chile y el Mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210000 +0200" stop="20240429214000 +0200" channel="CH | TVN SD">
+    <title lang="es">Amor en juego</title>
+    <desc lang="es">Seis meses es el tiempo que tendrá una joven para enamorar, casarse y dejar a un empresario exitoso. Dafne, desesperada por saldar una deuda familiar, aceptará el sorprendente reto propuesto por la tía de un diseñador millonario.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429214000 +0200" stop="20240429222000 +0200" channel="CH | TVN SD">
+    <title lang="es">¿Quién se robó mi vida?</title>
+    <desc lang="es">Bahar es una joven ingenua que tiene una vida modesta en Estambul. Es muy trabajadora, reflexiva y optimista. Debido a las dificultades financieras de su familia, abandona la escuela y comienza a trabajar en una pastelería.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-se-robo-mi-vida_l_m.jpg"/>
+  </programme>
+  <programme start="20240429222000 +0200" stop="20240430000000 +0200" channel="CH | TVN SD">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240430000000 +0200" stop="20240430013000 +0200" channel="CH | TVN SD">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_m.jpg"/>
+  </programme>
+  <programme start="20240430013000 +0200" stop="20240430030000 +0200" channel="CH | TVN SD">
+    <title lang="es">Ahora caigo</title>
+    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430030000 +0200" stop="20240430044000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_m.jpg"/>
+  </programme>
+  <programme start="20240430044000 +0200" stop="20240430044500 +0200" channel="CH | TVN SD">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tv-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240430044500 +0200" stop="20240501044500 +0200" channel="CH | TVN SD">
+    <title lang="es">Yo decido amar</title>
+    <desc lang="es">Doga y Fatih, los hijos de dos familias con diferentes culturas, se casan de forma clandestina. La boda de los protagonistas inicia un fuerte enfrentamiento entre una familia moderna y otra conservadora.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501044500 +0200" stop="20240501055000 +0200" channel="CH | TVN SD">
+    <title lang="es">Yo decido amar</title>
+    <desc lang="es">Doga y Fatih, los hijos de dos familias con diferentes culturas, se casan de forma clandestina. La boda de los protagonistas inicia un fuerte enfrentamiento entre una familia moderna y otra conservadora.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501055000 +0200" stop="20240501064500 +0200" channel="CH | TVN SD">
+    <title lang="es">Todo por mi familia</title>
+    <desc lang="es">La serie sigue la historia a cuatro hermanos - Kadir, Ömer, Asiye y Emel - quienes, después de la muerte de su padre y su madre, deberán seguir adelante con sus vidas y enfrentarse a sus problemas.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501064500 +0200" stop="20240501073000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 noche</title>
+    <desc lang="es">Edición nocturna de 24 Horas.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501073000 +0200" stop="20240501074500 +0200" channel="CH | TVN SD">
+    <title lang="es">Informe final TV Tiempo</title>
+    <desc lang="es">Sobre el final de la jornada, el informe del tiempo y los pronósticos climáticos para todo Chile en los próximas horas y días.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_informe-final-tv-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501074500 +0200" stop="20240501081500 +0200" channel="CH | TVN SD">
+    <title lang="es">El clon</title>
+    <desc lang="es">Una joven huérfana se muda a Marruecos con su tío y tiene que adaptarse a la religión islámica, donde se enamora de un joven que es un amor imposible. Pero veinte años después el destino los vuelve a juntar.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-clon_l_m.jpg"/>
+  </programme>
+  <programme start="20240501081500 +0200" stop="20240501091500 +0200" channel="CH | TVN SD">
+    <title lang="es">Mea Culpa</title>
+    <desc lang="es">Crímenes que han marcado un hito en la historia policial chilena, recreados para llevar a Ud. el testimonio de las víctimas y el ''Mea Culpa'' de los condenados.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mea-culpa_l_m.jpg"/>
+  </programme>
+  <programme start="20240501091500 +0200" stop="20240501101500 +0200" channel="CH | TVN SD">
+    <title lang="es">El cuento del tío</title>
+    <desc lang="es">El conductor Carlos Pinto presenta recreaciones de casos de estafas ocurridos en Chile. Así el programa busca conscientizar para que el público no se deje engañar a la vez que se abordan situaciones dramáticas desde el humor.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501101500 +0200" stop="20240501103000 +0200" channel="CH | TVN SD">
+    <title lang="es">Chile conectado</title>
+    <desc lang="es">Espacio en el que te presentamos los mejores reportajes y notas del acontecer local de la gran mayoría de regiones chilenas, narrados por periodistas de cada uno de los territorios.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chile-conectado_l_m.jpg"/>
+  </programme>
+  <programme start="20240501103000 +0200" stop="20240501110000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 Horas deportes</title>
+    <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
+    <category lang="es">24 Horas deportes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-24-horas-deportes_l_m.jpg"/>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501113000 +0200" channel="CH | TVN SD">
+    <title lang="es">Hora 24</title>
+    <desc lang="es">Actualidad e información.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hora-24_l_m.jpg"/>
+  </programme>
+  <programme start="20240501113000 +0200" stop="20240501120000 +0200" channel="CH | TVN SD">
+    <title lang="es">La previa</title>
+    <desc lang="es">Espacio matutino de noticias, con toda la información de la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-previa_l_m.jpg"/>
+  </programme>
+  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501190000 +0200" channel="CH | TVN SD">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_m.jpg"/>
+  </programme>
+  <programme start="20240501190000 +0200" stop="20240501210000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">El análisis de las informaciones más destacadas de Chile y el Mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210000 +0200" stop="20240501214000 +0200" channel="CH | TVN SD">
+    <title lang="es">Amor en juego</title>
+    <desc lang="es">Seis meses es el tiempo que tendrá una joven para enamorar, casarse y dejar a un empresario exitoso. Dafne, desesperada por saldar una deuda familiar, aceptará el sorprendente reto propuesto por la tía de un diseñador millonario.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501214000 +0200" stop="20240501222000 +0200" channel="CH | TVN SD">
+    <title lang="es">¿Quién se robó mi vida?</title>
+    <desc lang="es">Bahar es una joven ingenua que tiene una vida modesta en Estambul. Es muy trabajadora, reflexiva y optimista. Debido a las dificultades financieras de su familia, abandona la escuela y comienza a trabajar en una pastelería.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-se-robo-mi-vida_l_m.jpg"/>
+  </programme>
+  <programme start="20240501222000 +0200" stop="20240502000000 +0200" channel="CH | TVN SD">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240502000000 +0200" stop="20240502013000 +0200" channel="CH | TVN SD">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_m.jpg"/>
+  </programme>
+  <programme start="20240502013000 +0200" stop="20240502030000 +0200" channel="CH | TVN SD">
+    <title lang="es">Ahora caigo</title>
+    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502030000 +0200" stop="20240502044000 +0200" channel="CH | TVN SD">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_m.jpg"/>
   </programme>
   <programme start="20240429044500 +0200" stop="20240429064500 +0200" channel="[CL]24 Horas">
     <title lang="es">Estado nacional</title>
@@ -34376,6 +35250,575 @@
     <desc lang="es">Únase a los principales presentadores de CNN para eventos especiales y conversaciones únicas sobre los temas más importantes.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cnn-prime_l_m.jpg"/>
+  </programme>
+  <programme start="20240429042000 +0200" stop="20240429061000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429061000 +0200" stop="20240429065500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Secretos de familia</title>
+    <desc lang="es">La vida de Elena Valdés cambia para siempre tras su retorno a Chile luego de 15 años de vivir en España y encontrarse con el misterioso suicidio de su hermana, Sara. Sin embargo, ella sospecha que, en realidad, se trató de un homicidio.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429065500 +0200" stop="20240429083500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429083500 +0200" stop="20240429093500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">La ley y el orden</title>
+    <desc lang="es">Analiza la ley y el crimen desde una perspectiva dual, donde los detectives investigan crímenes y detienen a los sospechosos quienes quedan bajo la supervisión de la teniente, Anita Van Buren.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-ley-y-el-orden_l_m.jpg"/>
+  </programme>
+  <programme start="20240429093500 +0200" stop="20240429110000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">T13 en vivo informa</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas, reporteros y expertos analizan los acontecimientos diarios para que el público se informe al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_t13-en-vivo-informa_l_m.jpg"/>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429120000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">3x3</title>
+    <desc lang="es">Despierta junto al infomativo en un formato libre y distendido que da inicio nuestra programación.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_3x3_l_m.jpg"/>
+  </programme>
+  <programme start="20240429120000 +0200" stop="20240429140000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429190000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Tu día</title>
+    <desc lang="es">En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429190000 +0200" stop="20240429203000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece Tarde</title>
+    <desc lang="es">Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429203000 +0200" stop="20240429203500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429203500 +0200" stop="20240429213500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ana de nadie</title>
+    <desc lang="es">Ana, una mujer de 50 años, deberá replantear aspectos claves de su vida al descubrir que su marido con el que ha estado 25 años le es infiel.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429213500 +0200" stop="20240429223500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Melissa</title>
+    <desc lang="es">Alegre y verborrágica, Melissa es una niña que ha quedado huérfana de bebé. Tras ser echada de su hogar adoptivo, conoce a un hombre de mediana edad que la lleva a vivir con él y su hermana a su finca, donde se sentirá parte de la familia.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429223500 +0200" stop="20240429235500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Papi Ricky</title>
+    <desc lang="es">Ricardo, un hombre soltero y joven, es padre de Alicia, una niña de 8 años a la que ha criado solo. Tras una vida nómade, Ricardo decide volver a Chile a trabajar, donde se enamora de una profesora que no le cae simpática a Alicia.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papi-ricky_l_m.jpg"/>
+  </programme>
+  <programme start="20240429235500 +0200" stop="20240430000000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Avance Ganar o servir?</title>
+    <desc lang="es">Programa especial en el que se comparten adelantos de lo que se viene en el reality ¿Ganar o Servir? Este show cuenta con la participación de 16 concursantes (famosos y desconocidos) aislados en un recinto ubicado al sur de Lima, Perú.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430000000 +0200" stop="20240430010000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Rastros de mentiras</title>
+    <desc lang="es">Paloma es una mujer perseverante cuyo bebé recién nacido es secuestrado por su propio hermano Félix, que planea ser el único heredero de la fortuna de su familia.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rastros-de-mentiras_l_m.jpg"/>
+  </programme>
+  <programme start="20240430010000 +0200" stop="20240430024500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">¡Qué dice Chile!</title>
+    <desc lang="es">Dos grupos de cuatro personas compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. El programa cuenta con un público que participa en vivo y enviando preguntas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430024500 +0200" stop="20240430041000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
+  </programme>
+  <programme start="20240430041000 +0200" stop="20240430042000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240430042000 +0200" stop="20240501042000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501042000 +0200" stop="20240501061500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501061500 +0200" stop="20240501070000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Secretos de familia</title>
+    <desc lang="es">La vida de Elena Valdés cambia para siempre tras su retorno a Chile luego de 15 años de vivir en España y encontrarse con el misterioso suicidio de su hermana, Sara. Sin embargo, ella sospecha que, en realidad, se trató de un homicidio.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501070000 +0200" stop="20240501080000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ganar o servir? Extra</title>
+    <desc lang="es">Edición especial con momentos seleccionados que complementan el capítulo estreno del reality show ¿Ganar o servir? El programa cuenta con la participación de 16 personas, famosos y desconocidos, que deben superar diversos desafíos.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501080000 +0200" stop="20240501090000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece noche</title>
+    <desc lang="es">Segmento informativo transmitido a la medianoche, en el cual podrás conocer un resumen sobre las informaciones más destacadas de la actualidad en Chile y el mundo, incluyendo diversas secciones.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-noche_l_m.jpg"/>
+  </programme>
+  <programme start="20240501090000 +0200" stop="20240501100000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">La ley y el orden: UVE</title>
+    <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-ley-y-el-orden-uve_l_m.jpg"/>
+  </programme>
+  <programme start="20240501100000 +0200" stop="20240501110000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">T13 en vivo informa</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas, reporteros y expertos analizan los acontecimientos diarios para que el público se informe al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_t13-en-vivo-informa_l_m.jpg"/>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501120000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">3x3</title>
+    <desc lang="es">Despierta junto al infomativo en un formato libre y distendido que da inicio nuestra programación.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_3x3_l_m.jpg"/>
+  </programme>
+  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece AM</title>
+    <desc lang="es">Informativo matinal con la revisión de las noticias más relevantes de las últimas horas. Además el programa incluye despachos en directo y entrevistas a personajes relevantes del acontecer nacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501190000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Tu día</title>
+    <desc lang="es">En este matinal encuentra información, servicios y entretenimiento, bajo una mirada amena y cercana para transmitir las últimas noticias a todos los espectadores.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501190000 +0200" stop="20240501203000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece Tarde</title>
+    <desc lang="es">Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501203000 +0200" stop="20240501203500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501203500 +0200" stop="20240501213500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Ana de nadie</title>
+    <desc lang="es">Ana, una mujer de 50 años, deberá replantear aspectos claves de su vida al descubrir que su marido con el que ha estado 25 años le es infiel.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501213500 +0200" stop="20240501223500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Melissa</title>
+    <desc lang="es">Alegre y verborrágica, Melissa es una niña que ha quedado huérfana de bebé. Tras ser echada de su hogar adoptivo, conoce a un hombre de mediana edad que la lleva a vivir con él y su hermana a su finca, donde se sentirá parte de la familia.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501223500 +0200" stop="20240501235500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Papi Ricky</title>
+    <desc lang="es">Ricardo, un hombre soltero y joven, es padre de Alicia, una niña de 8 años a la que ha criado solo. Tras una vida nómade, Ricardo decide volver a Chile a trabajar, donde se enamora de una profesora que no le cae simpática a Alicia.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_papi-ricky_l_m.jpg"/>
+  </programme>
+  <programme start="20240501235500 +0200" stop="20240502000000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Avance Ganar o servir?</title>
+    <desc lang="es">Programa especial en el que se comparten adelantos de lo que se viene en el reality ¿Ganar o Servir? Este show cuenta con la participación de 16 concursantes (famosos y desconocidos) aislados en un recinto ubicado al sur de Lima, Perú.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502000000 +0200" stop="20240502010000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Rastros de mentiras</title>
+    <desc lang="es">Paloma es una mujer perseverante cuyo bebé recién nacido es secuestrado por su propio hermano Félix, que planea ser el único heredero de la fortuna de su familia.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rastros-de-mentiras_l_m.jpg"/>
+  </programme>
+  <programme start="20240502010000 +0200" stop="20240502024500 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">¡Qué dice Chile!</title>
+    <desc lang="es">Dos grupos de cuatro personas compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. El programa cuenta con un público que participa en vivo y enviando preguntas.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502024500 +0200" stop="20240502041000 +0200" channel="CH | CANAL 13-HD">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
+  </programme>
+  <programme start="20240429044000 +0200" stop="20240429110000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.130.</episode-num>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429130000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Oye</title>
+    <desc lang="es">Programa de música junto a Francisca Gómez.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429130000 +0200" stop="20240429140000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Meganoticias amanece</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429180000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Mucho gusto</title>
+    <desc lang="es">Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos. El conductor José Antonio Neme reúne un panel de expertos para debatir los hechos más destacados de la actualidad.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mucho-gusto_l_m.jpg"/>
+  </programme>
+  <programme start="20240429180000 +0200" stop="20240429210000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Meganoticias alerta</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210000 +0200" stop="20240429210500 +0200" channel="CH | MEGA HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210500 +0200" stop="20240429214500 +0200" channel="CH | MEGA HD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.325.</episode-num>
+  </programme>
+  <programme start="20240429214500 +0200" stop="20240429222000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240429222000 +0200" stop="20240430000000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Secretos de sangre</title>
+    <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430000000 +0200" stop="20240430010000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Papá en apuros</title>
+    <desc lang="es">Martín Seminario, un estricto capitán de fragata de la Marina, es viudo y padre de cuatro hijos. Su vida colapsa cuando cae en la cuenta de que no está preparado para criar a sus hijos solo y que ellos necesitan una madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.72.</episode-num>
+  </programme>
+  <programme start="20240430010000 +0200" stop="20240430020000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430020000 +0200" stop="20240430023000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240430023000 +0200" stop="20240430032000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240430032000 +0200" stop="20240430041000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticia nacional e internacional. Los conductores Arístegui Armijo y Juan Manuel Astorga informan al público sobre los acontecimientos diarios en Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_m.jpg"/>
+  </programme>
+  <programme start="20240430041000 +0200" stop="20240430041500 +0200" channel="CH | MEGA HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240430041500 +0200" stop="20240501041500 +0200" channel="CH | MEGA HD">
+    <title lang="es">Como la vida misma</title>
+    <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.238.</episode-num>
+  </programme>
+  <programme start="20240501041500 +0200" stop="20240501053000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Como la vida misma</title>
+    <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.238.</episode-num>
+  </programme>
+  <programme start="20240501053000 +0200" stop="20240501063000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.131.</episode-num>
+  </programme>
+  <programme start="20240501063000 +0200" stop="20240501073000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Secretos de sangre</title>
+    <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.234.</episode-num>
+  </programme>
+  <programme start="20240501073000 +0200" stop="20240501081500 +0200" channel="CH | MEGA HD">
+    <title lang="es">Como la vida misma</title>
+    <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501081500 +0200" stop="20240501110000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Juegos de poder</title>
+    <sub-title lang="es">La terapia de Susan</sub-title>
+    <desc lang="es">Una implacable búsqueda por encontrar la verdad se desencadena con el fiscal Aníbal Ramos como líder, quien no descansará hasta descubrir a los responsables de un atropello del que fueron víctimas dos hermanos universitarios.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_juegos-de-poder-s01e68-la-terapia-de-susan_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.67.</episode-num>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501130000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Oye</title>
+    <desc lang="es">Programa de música junto a Francisca Gómez.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501130000 +0200" stop="20240501140000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Meganoticias amanece</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501180000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Mucho gusto</title>
+    <desc lang="es">Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos. El conductor José Antonio Neme reúne un panel de expertos para debatir los hechos más destacados de la actualidad.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mucho-gusto_l_m.jpg"/>
+  </programme>
+  <programme start="20240501180000 +0200" stop="20240501210000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Meganoticias alerta</title>
+    <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210000 +0200" stop="20240501210500 +0200" channel="CH | MEGA HD">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
+    <category lang="es">Clima</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210500 +0200" stop="20240501214500 +0200" channel="CH | MEGA HD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.326.</episode-num>
+  </programme>
+  <programme start="20240501214500 +0200" stop="20240501222000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Juego de Ilusiones</title>
+    <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.327.</episode-num>
+  </programme>
+  <programme start="20240501222000 +0200" stop="20240502000000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Secretos de sangre</title>
+    <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502000000 +0200" stop="20240502010000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Papá en apuros</title>
+    <desc lang="es">Martín Seminario, un estricto capitán de fragata de la Marina, es viudo y padre de cuatro hijos. Su vida colapsa cuando cae en la cuenta de que no está preparado para criar a sus hijos solo y que ellos necesitan una madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.73.</episode-num>
+  </programme>
+  <programme start="20240502010000 +0200" stop="20240502020000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Seyran y Ferit</title>
+    <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502020000 +0200" stop="20240502023000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240502023000 +0200" stop="20240502032000 +0200" channel="CH | MEGA HD">
+    <title lang="es">Al sur del corazón</title>
+    <desc lang="es">La historia de una familia de mujeres que trabajan activamente en un campo del sur de Chile, en un entorno generalmente dominado por los hombres. En ese lugar tienen una lechería con la que han salido adelante apoyándose unas a otras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.15.</episode-num>
+  </programme>
+  <programme start="20240429044000 +0200" stop="20240429063000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Got Talent Chile</title>
+    <desc lang="es">Un reality en el que los participantes, su talento y sus historias de vida permiten conocer más sobre las raíces chilenas. Además, propone inspirar, emocionar y divertir.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_got-talent-chile-s00e20_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20240429063000 +0200" stop="20240429083000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">PH: Podemos hablar</title>
+    <desc lang="es">Seis invitados de distinta índole convergen en un espacio físico donde intercambian opiniones sobre temas variados. El conductor explora aspectos nunca planteados sobre sus vidas, sus experiencias, sus opiniones y más.</desc>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ph-podemos-hablar_l_m.jpg"/>
+  </programme>
+  <programme start="20240429083000 +0200" stop="20240429114500 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Programación de trasnoche</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429114500 +0200" stop="20240429123000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Primera página</title>
+    <desc lang="es">Claudio Salinas nos invita a informarnos de la actualidad nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_primera-pagina_l_m.jpg"/>
+  </programme>
+  <programme start="20240429123000 +0200" stop="20240429140000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Contigo CHV Noticias A.M.</title>
+    <desc lang="es">Información fresca de lo que pasa en nuestro país como también a nivel mundial. Todo esto a través del profesionalismo que caracteriza a ambos conductores, acompañado de carisma y cercanía... ese es el sello.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-chv-noticias-a-m_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429190000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Contigo en la mañana</title>
+    <desc lang="es">Espacio de información y entretenimiento que invita al público a mantenerse al día sobre los temas que mueven sus vidas diarias, los llevan a tomar decisiones y a formar sus propias opiniones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-la-manana-s00e1327_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.1326.</episode-num>
+  </programme>
+  <programme start="20240429190000 +0200" stop="20240429213000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">CHV Noticias tarde</title>
+    <desc lang="es">La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-tarde_l_m.jpg"/>
+  </programme>
+  <programme start="20240429213000 +0200" stop="20240429233000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Contigo en directo</title>
+    <desc lang="es">Acompaña a Karina Álvarez a analizar todos los acontecimientos de la jornada a nivel político y policial del país, junto a un destacado equipo periodístico y diversos panelistas invitados.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429233000 +0200" stop="20240430003000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-mil-y-una-noches_l_m.jpg"/>
+  </programme>
+  <programme start="20240430003000 +0200" stop="20240430013000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">La traición</title>
+    <desc lang="es">Neslihan vive una aparente felicidad junto a su marido, Murat, y sus dos hijos hasta que una amiga de la infancia, Damla, remueve los cimientos de su matrimonio. Sin querer darse por vencida, decide luchar por ella, su familia y sus hijos.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430013000 +0200" stop="20240430023000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Pasión prohibida</title>
+    <desc lang="es">Bianca Santillana vive con un gran resentimiento hacia su madre, al culparla de ser la causante de la muerte de su padre. En venganza, Bianca contrae nupcias con Ariel Piamonte, para evitar que su madre lo utilice para resolver sus deudas.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pasion-prohibida_l_m.jpg"/>
+  </programme>
+  <programme start="20240430023000 +0200" stop="20240430044000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_m.jpg"/>
+  </programme>
+  <programme start="20240430044000 +0200" stop="20240501044000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Got Talent Chile</title>
+    <desc lang="es">Un reality en el que los participantes, su talento y sus historias de vida permiten conocer más sobre las raíces chilenas. Además, propone inspirar, emocionar y divertir.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_got-talent-chile-s00e21_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240501044000 +0200" stop="20240501063000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Got Talent Chile</title>
+    <desc lang="es">Un reality en el que los participantes, su talento y sus historias de vida permiten conocer más sobre las raíces chilenas. Además, propone inspirar, emocionar y divertir.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_got-talent-chile-s00e21_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.20.</episode-num>
+  </programme>
+  <programme start="20240501063000 +0200" stop="20240501073000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Doctor Milagro</title>
+    <desc lang="es">Ferman le asigna a Ali las tareas que nadie quiere hacer y Ali se toma el encargo al pie de la letra. Nazli intenta ayudar a Ali dentro y fuera del hospital.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_doctor-milagro-s01e05_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20240501073000 +0200" stop="20240501114500 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Programación de trasnoche</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501114500 +0200" stop="20240501123000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Primera página</title>
+    <desc lang="es">Claudio Salinas nos invita a informarnos de la actualidad nacional e internacional.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_primera-pagina_l_m.jpg"/>
+  </programme>
+  <programme start="20240501123000 +0200" stop="20240501140000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Contigo CHV Noticias A.M.</title>
+    <desc lang="es">Información fresca de lo que pasa en nuestro país como también a nivel mundial. Todo esto a través del profesionalismo que caracteriza a ambos conductores, acompañado de carisma y cercanía... ese es el sello.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-chv-noticias-a-m_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501190000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Contigo en la mañana</title>
+    <desc lang="es">Espacio de información y entretenimiento que invita al público a mantenerse al día sobre los temas que mueven sus vidas diarias, los llevan a tomar decisiones y a formar sus propias opiniones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-la-manana-s00e1328_l_m.jpg"/>
+    <episode-num system="xmltv_ns">.1327.</episode-num>
+  </programme>
+  <programme start="20240501190000 +0200" stop="20240501213000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">CHV Noticias tarde</title>
+    <desc lang="es">La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-tarde_l_m.jpg"/>
+  </programme>
+  <programme start="20240501213000 +0200" stop="20240501233000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Contigo en directo</title>
+    <desc lang="es">Acompaña a Karina Álvarez a analizar todos los acontecimientos de la jornada a nivel político y policial del país, junto a un destacado equipo periodístico y diversos panelistas invitados.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_contigo-en-directo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501233000 +0200" stop="20240502003000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-mil-y-una-noches_l_m.jpg"/>
+  </programme>
+  <programme start="20240502003000 +0200" stop="20240502013000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">La traición</title>
+    <desc lang="es">Neslihan vive una aparente felicidad junto a su marido, Murat, y sus dos hijos hasta que una amiga de la infancia, Damla, remueve los cimientos de su matrimonio. Sin querer darse por vencida, decide luchar por ella, su familia y sus hijos.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502013000 +0200" stop="20240502023000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">Pasión prohibida</title>
+    <desc lang="es">Bianca Santillana vive con un gran resentimiento hacia su madre, al culparla de ser la causante de la muerte de su padre. En venganza, Bianca contrae nupcias con Ariel Piamonte, para evitar que su madre lo utilice para resolver sus deudas.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pasion-prohibida_l_m.jpg"/>
+  </programme>
+  <programme start="20240502023000 +0200" stop="20240502044000 +0200" channel="CH | CHILEVISION FHD">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_m.jpg"/>
   </programme>
   <programme start="20240429040000 +0200" stop="20240429070000 +0200" channel="[CL]FOX Sports 1 HD">
     <title lang="es">Honda Indy Grand Prix of Alabama, Barber Motorsports Park, Birmingham, Alabama</title>
@@ -35324,5 +36767,244 @@
     <desc lang="es">Desde el medio día, Felipe Bianchi y Rodrigo Gómez pasan revista a los aspectos más atractivos de la actualidad. Noticias, cultura, fútbol y todos los deportes desde una perspectiva intrépida, abierta y diversa</desc>
     <category lang="es">Metrópolis</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-metropolis_l_m.jpg"/>
+  </programme>
+  <programme start="20240429044000 +0200" stop="20240429064500 +0200" channel="CH | TVN FHD">
+    <title lang="es">Rambo</title>
+    <title lang="en">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rambo-1982_l_m.jpg"/>
+    <star-rating>
+      <value>7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240429064500 +0200" stop="20240429081500 +0200" channel="CH | TVN FHD">
+    <title lang="es">El día menos pensado</title>
+    <desc lang="es">Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.</desc>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-dia-menos-pensado_l_m.jpg"/>
+  </programme>
+  <programme start="20240429081500 +0200" stop="20240429090000 +0200" channel="CH | TVN FHD">
+    <title lang="es">La noche menos pensada</title>
+    <desc lang="es">Carlos Pinto analiza cada uno de los casos recreados en "El día menos pensado" junto a invitados expertos en la temática presentada y con personas que vivieron en carne propia situaciones similares.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429090000 +0200" stop="20240429091500 +0200" channel="CH | TVN FHD">
+    <title lang="es">Informe final TV Tiempo</title>
+    <desc lang="es">Sobre el final de la jornada, el informe del tiempo y los pronósticos climáticos para todo Chile en los próximas horas y días.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_informe-final-tv-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240429091500 +0200" stop="20240429103000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Mea Culpa</title>
+    <desc lang="es">Crímenes que han marcado un hito en la historia policial chilena, recreados para llevar a Ud. el testimonio de las víctimas y el ''Mea Culpa'' de los condenados.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mea-culpa_l_m.jpg"/>
+  </programme>
+  <programme start="20240429103000 +0200" stop="20240429110000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 Horas deportes</title>
+    <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
+    <category lang="es">24 Horas deportes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-24-horas-deportes_l_m.jpg"/>
+  </programme>
+  <programme start="20240429110000 +0200" stop="20240429113000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Hora 24</title>
+    <desc lang="es">Actualidad e información.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hora-24_l_m.jpg"/>
+  </programme>
+  <programme start="20240429113000 +0200" stop="20240429120000 +0200" channel="CH | TVN FHD">
+    <title lang="es">La previa</title>
+    <desc lang="es">Espacio matutino de noticias, con toda la información de la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-previa_l_m.jpg"/>
+  </programme>
+  <programme start="20240429120000 +0200" stop="20240429140000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240429140000 +0200" stop="20240429190000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_m.jpg"/>
+  </programme>
+  <programme start="20240429190000 +0200" stop="20240429210000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">El análisis de las informaciones más destacadas de Chile y el Mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_l_m.jpg"/>
+  </programme>
+  <programme start="20240429210000 +0200" stop="20240429214000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Amor en juego</title>
+    <desc lang="es">Seis meses es el tiempo que tendrá una joven para enamorar, casarse y dejar a un empresario exitoso. Dafne, desesperada por saldar una deuda familiar, aceptará el sorprendente reto propuesto por la tía de un diseñador millonario.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240429214000 +0200" stop="20240429222000 +0200" channel="CH | TVN FHD">
+    <title lang="es">¿Quién se robó mi vida?</title>
+    <desc lang="es">Bahar es una joven ingenua que tiene una vida modesta en Estambul. Es muy trabajadora, reflexiva y optimista. Debido a las dificultades financieras de su familia, abandona la escuela y comienza a trabajar en una pastelería.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-se-robo-mi-vida_l_m.jpg"/>
+  </programme>
+  <programme start="20240429222000 +0200" stop="20240430000000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240430000000 +0200" stop="20240430013000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_m.jpg"/>
+  </programme>
+  <programme start="20240430013000 +0200" stop="20240430030000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Ahora caigo</title>
+    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240430030000 +0200" stop="20240430044000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_m.jpg"/>
+  </programme>
+  <programme start="20240430044000 +0200" stop="20240430044500 +0200" channel="CH | TVN FHD">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tv-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240430044500 +0200" stop="20240501044500 +0200" channel="CH | TVN FHD">
+    <title lang="es">Yo decido amar</title>
+    <desc lang="es">Doga y Fatih, los hijos de dos familias con diferentes culturas, se casan de forma clandestina. La boda de los protagonistas inicia un fuerte enfrentamiento entre una familia moderna y otra conservadora.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501044500 +0200" stop="20240501055000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Yo decido amar</title>
+    <desc lang="es">Doga y Fatih, los hijos de dos familias con diferentes culturas, se casan de forma clandestina. La boda de los protagonistas inicia un fuerte enfrentamiento entre una familia moderna y otra conservadora.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501055000 +0200" stop="20240501064500 +0200" channel="CH | TVN FHD">
+    <title lang="es">Todo por mi familia</title>
+    <desc lang="es">La serie sigue la historia a cuatro hermanos - Kadir, Ömer, Asiye y Emel - quienes, después de la muerte de su padre y su madre, deberán seguir adelante con sus vidas y enfrentarse a sus problemas.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501064500 +0200" stop="20240501073000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 noche</title>
+    <desc lang="es">Edición nocturna de 24 Horas.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501073000 +0200" stop="20240501074500 +0200" channel="CH | TVN FHD">
+    <title lang="es">Informe final TV Tiempo</title>
+    <desc lang="es">Sobre el final de la jornada, el informe del tiempo y los pronósticos climáticos para todo Chile en los próximas horas y días.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_informe-final-tv-tiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240501074500 +0200" stop="20240501081500 +0200" channel="CH | TVN FHD">
+    <title lang="es">El clon</title>
+    <desc lang="es">Una joven huérfana se muda a Marruecos con su tío y tiene que adaptarse a la religión islámica, donde se enamora de un joven que es un amor imposible. Pero veinte años después el destino los vuelve a juntar.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-clon_l_m.jpg"/>
+  </programme>
+  <programme start="20240501081500 +0200" stop="20240501091500 +0200" channel="CH | TVN FHD">
+    <title lang="es">Mea Culpa</title>
+    <desc lang="es">Crímenes que han marcado un hito en la historia policial chilena, recreados para llevar a Ud. el testimonio de las víctimas y el ''Mea Culpa'' de los condenados.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mea-culpa_l_m.jpg"/>
+  </programme>
+  <programme start="20240501091500 +0200" stop="20240501101500 +0200" channel="CH | TVN FHD">
+    <title lang="es">El cuento del tío</title>
+    <desc lang="es">El conductor Carlos Pinto presenta recreaciones de casos de estafas ocurridos en Chile. Así el programa busca conscientizar para que el público no se deje engañar a la vez que se abordan situaciones dramáticas desde el humor.</desc>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501101500 +0200" stop="20240501103000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Chile conectado</title>
+    <desc lang="es">Espacio en el que te presentamos los mejores reportajes y notas del acontecer local de la gran mayoría de regiones chilenas, narrados por periodistas de cada uno de los territorios.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chile-conectado_l_m.jpg"/>
+  </programme>
+  <programme start="20240501103000 +0200" stop="20240501110000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 Horas deportes</title>
+    <desc lang="es">Lo más destacado del día en diferentes disciplinas. Sigue la actualidad deportiva nacional e internacional a través de TVN.</desc>
+    <category lang="es">24 Horas deportes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-24-horas-deportes_l_m.jpg"/>
+  </programme>
+  <programme start="20240501110000 +0200" stop="20240501113000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Hora 24</title>
+    <desc lang="es">Actualidad e información.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hora-24_l_m.jpg"/>
+  </programme>
+  <programme start="20240501113000 +0200" stop="20240501120000 +0200" channel="CH | TVN FHD">
+    <title lang="es">La previa</title>
+    <desc lang="es">Espacio matutino de noticias, con toda la información de la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-previa_l_m.jpg"/>
+  </programme>
+  <programme start="20240501120000 +0200" stop="20240501140000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 AM</title>
+    <desc lang="es">Un noticiario que tendrá mucho trabajo en terreno, recogiendo los hechos que marcaron la noche y la madrugada, como también revisando los primeras hechos que comienzan a marcar la jornada.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-am_l_m.jpg"/>
+  </programme>
+  <programme start="20240501140000 +0200" stop="20240501190000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Buenos días a todos</title>
+    <desc lang="es">Un magazine matutino en el que se presentan servicios, conversaciones, humor y la mejor compañía para empezar cada día.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_buenos-dias-a-todos_l_m.jpg"/>
+  </programme>
+  <programme start="20240501190000 +0200" stop="20240501210000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 Tarde</title>
+    <desc lang="es">El análisis de las informaciones más destacadas de Chile y el Mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_l_m.jpg"/>
+  </programme>
+  <programme start="20240501210000 +0200" stop="20240501214000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Amor en juego</title>
+    <desc lang="es">Seis meses es el tiempo que tendrá una joven para enamorar, casarse y dejar a un empresario exitoso. Dafne, desesperada por saldar una deuda familiar, aceptará el sorprendente reto propuesto por la tía de un diseñador millonario.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240501214000 +0200" stop="20240501222000 +0200" channel="CH | TVN FHD">
+    <title lang="es">¿Quién se robó mi vida?</title>
+    <desc lang="es">Bahar es una joven ingenua que tiene una vida modesta en Estambul. Es muy trabajadora, reflexiva y optimista. Debido a las dificultades financieras de su familia, abandona la escuela y comienza a trabajar en una pastelería.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-se-robo-mi-vida_l_m.jpg"/>
+  </programme>
+  <programme start="20240501222000 +0200" stop="20240502000000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Caso cerrado</title>
+    <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_caso-cerrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240502000000 +0200" stop="20240502013000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Carmen Gloria a tu servicio</title>
+    <desc lang="es">La Ley puede ser un mundo lejano y complicado, por eso Carmen Gloria nos introduce en significativas historias de la vida real que buscan ayudar, orientar y educar, dando un cierre definitivo a los problemas que aquejan a muchos chilenos.</desc>
+    <category lang="es">Talk Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_carmen-gloria-a-tu-servicio_l_m.jpg"/>
+  </programme>
+  <programme start="20240502013000 +0200" stop="20240502030000 +0200" channel="CH | TVN FHD">
+    <title lang="es">Ahora caigo</title>
+    <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  </programme>
+  <programme start="20240502030000 +0200" stop="20240502044000 +0200" channel="CH | TVN FHD">
+    <title lang="es">24 horas central</title>
+    <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_m.jpg"/>
   </programme>
 </tv>
