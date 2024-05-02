@@ -346,7 +346,7 @@
     <icon src="https://cdn.mitvstatic.com/channels/mx_film-arts_m.png.png"/>
   </channel>
   <channel id="MX | History">
-    <display-name lang="es">MX | History Channel</display-name>
+    <display-name lang="es">MX | History</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_history_m.png"/>
   </channel>
   <channel id="MX | History 2">
@@ -357,8 +357,8 @@
     <display-name lang="es">MX | Ingenio Tv</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ingenio_tv.png"/>
   </channel>
-  <channel id="MX | NatGeo">
-    <display-name lang="es">MX | NatGeo</display-name>
+  <channel id="MX | NatGeo Channel">
+    <display-name lang="es">MX | NatGeo Channel</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png"/>
   </channel>
   <channel id="MX | HGTV HD">
@@ -38748,684 +38748,684 @@
   <programme start="20240504233000 -0400" stop="20240505000000 -0400" channel="MX | Ingenio Tv">
     <title lang="es">Qué tanto es tantito</title>
   </programme>
-  <programme start="20240502050000 +0200" stop="20240502060000 +0200" channel="MX | NatGeo">
+  <programme start="20240502050000 +0200" stop="20240502060000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Traficante de fe</sub-title>
     <desc lang="es">La policía intenta descubrir qué esconden un supuesto exportador de vinos y un estudiante de teología. El grupo de fronteras debe asistir a un niño angustiado, mietras otros agentes intentan que un hombre ebrio no pierda su avión.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s08e02-traficante-de-fe_l_m.jpg"/>
     <episode-num system="xmltv_ns">7.1.</episode-num>
   </programme>
-  <programme start="20240502060000 +0200" stop="20240502065500 +0200" channel="MX | NatGeo">
+  <programme start="20240502060000 +0200" stop="20240502065500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Directiva letal</sub-title>
     <desc lang="es">El vuelo 302 de Ethiopian Airlines se estrelló poco después del despegue. La catástrofe llevó a que toda la flota de aviones Boeing 737 MAX 8 quedara inmovilizada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s23e01-directiva-letal_l_m.jpg"/>
     <episode-num system="xmltv_ns">22.0.</episode-num>
   </programme>
-  <programme start="20240502065500 +0200" stop="20240502075000 +0200" channel="MX | NatGeo">
+  <programme start="20240502065500 +0200" stop="20240502075000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Terror sobre el Pacífico</sub-title>
     <desc lang="es">Una explosión desgarra el fuselaje de un Boeing 747 que sobrevuela Hawái y los investigadores descubren un cortocircuito letal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s24e01-terror-sobre-el-pacifico_l_m.jpg"/>
     <episode-num system="xmltv_ns">23.0.</episode-num>
   </programme>
-  <programme start="20240502075000 +0200" stop="20240502085000 +0200" channel="MX | NatGeo">
+  <programme start="20240502075000 +0200" stop="20240502085000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Los primeros habitantes de Alaska</title>
     <sub-title lang="es">Una carga valiosa</sub-title>
     <desc lang="es">Cuando los pájaros vuelven a la tierra, Teresa lleva a sus hijas a la tundra de sus ancestros para una emocionante cacería.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.9.</episode-num>
   </programme>
-  <programme start="20240502085000 +0200" stop="20240502095000 +0200" channel="MX | NatGeo">
+  <programme start="20240502085000 +0200" stop="20240502095000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secretos de los pulpos</title>
     <sub-title lang="es">Expertos en redes sociales</sub-title>
     <desc lang="es">Siempre se ha creído que los pulpos eran ermitaños por naturaleza. Hoy conocemos su vida social secreta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20240502095000 +0200" stop="20240502104000 +0200" channel="MX | NatGeo">
+  <programme start="20240502095000 +0200" stop="20240502104000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Atrapado en un atasco</sub-title>
     <desc lang="es">Después de que un turbohélice de pasajeros en Nueva Zelanda choca contra un terreno montañoso, los investigadores investigan si solo se trató de un problema con el tren de aterrizaje o si la explicación está en la cabina del piloto.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s20e08-atrapado-en-un-atasco_l_m.jpg"/>
     <episode-num system="xmltv_ns">19.7.</episode-num>
   </programme>
-  <programme start="20240502104000 +0200" stop="20240502112500 +0200" channel="MX | NatGeo">
+  <programme start="20240502104000 +0200" stop="20240502112500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">Secretos del Lago Ness</sub-title>
     <desc lang="es">Secreto en los Oceanos resuelve uno de los grandes misterios del mundo, la identidad del monstruo del lago Ness, con el uso de tecnología de escaneo de grado militar y una cortina de sonar dibujada en toda su superficie.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_secreto-en-los-oceanos-s02e11-secretos-del-lago-ness_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20240502112500 +0200" stop="20240502121000 +0200" channel="MX | NatGeo">
+  <programme start="20240502112500 +0200" stop="20240502121000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Solo contra el mundo</title>
     <sub-title lang="es">Maestros del fuego</sub-title>
     <desc lang="es">Hazen Audel viaja a Surinam para encontrarse con la tribu Saramacca, descendiente de esclavos africanos que huyeron de sus captores hace 300 años.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_solo-contra-el-mundo-s05e04-maestros-del-fuego_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.3.</episode-num>
   </programme>
-  <programme start="20240502121000 +0200" stop="20240502125500 +0200" channel="MX | NatGeo">
+  <programme start="20240502121000 +0200" stop="20240502125500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Celda para dos</sub-title>
     <desc lang="es">La policía federal desbarata el envío de más de 35 kilogramos de cocaína, investiga las verdaderas intenciones de una pasajera embarazada con un extraño itinerario y controla el ingreso al país de dos pasajeros sospechosos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s06e07-papa-en-tres-meses_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.6.</episode-num>
   </programme>
-  <programme start="20240502125500 +0200" stop="20240502133500 +0200" channel="MX | NatGeo">
+  <programme start="20240502125500 +0200" stop="20240502133500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Luna de miel en prisión</sub-title>
     <desc lang="es">Los agentes antidrogas deben revelar si el curioso souvenir que transporta una pareja de supuestos recién casados es tan inocente como parece, mientras intervienen a tres pasajeras que intentan viajar a África.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s06e08-papa-en-tres-meses_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.7.</episode-num>
   </programme>
-  <programme start="20240502133500 +0200" stop="20240502140000 +0200" channel="MX | NatGeo">
+  <programme start="20240502133500 +0200" stop="20240502140000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Pizza y cerveza</sub-title>
     <desc lang="es">Descubra cómo la pizza se hace portátil, cómo la cerveza de jengibre obtiene su toque, cómo el azúcar en polvo se vuelve chupetines, y cómo las nueces con chocolate y caramelo son de tamaño bocado.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s02e09-pizza-y-cerveza_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.8.</episode-num>
   </programme>
-  <programme start="20240502140000 +0200" stop="20240502142000 +0200" channel="MX | NatGeo">
+  <programme start="20240502140000 +0200" stop="20240502142000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Patatas fritas y caramelo</sub-title>
     <desc lang="es">En este episodio, Mexi-Fries, caramelos de chocolate y almendras, y absenta verde.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.25.</episode-num>
   </programme>
-  <programme start="20240502142000 +0200" stop="20240502144000 +0200" channel="MX | NatGeo">
+  <programme start="20240502142000 +0200" stop="20240502144000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Fiestas mexicanas</sub-title>
     <desc lang="es">Este episodio incluye comidas perfectas para una fiesta mexicana: tamales de chile y queso, cóctel de margarita congelado, chips con sabor a guacamole y polvorones cítricos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s06e08-fiestas-mexicanas_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.7.</episode-num>
   </programme>
-  <programme start="20240502144000 +0200" stop="20240502150000 +0200" channel="MX | NatGeo">
+  <programme start="20240502144000 +0200" stop="20240502150000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">El futuro del transporte</sub-title>
     <desc lang="es">En este episodio, Lara explora la necesidad de reducir las emisiones en el transporte y lo que podría lograr el cambio del auto de gasolina por autos eléctricos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.16.</episode-num>
   </programme>
-  <programme start="20240502150000 +0200" stop="20240502152500 +0200" channel="MX | NatGeo">
+  <programme start="20240502150000 +0200" stop="20240502152500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Restaurar la naturaleza</sub-title>
     <desc lang="es">Anja explora cómo se puede reequilibrar la naturaleza con la intervención humana y por qué es necesaria esta acción, en primer lugar. Ahora, debemos intervenir para gestionar el delicado equilibrio de nuestros hábitats.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20240502152500 +0200" stop="20240502155000 +0200" channel="MX | NatGeo">
+  <programme start="20240502152500 +0200" stop="20240502155000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Ciudades re-imaginadas</sub-title>
     <desc lang="es">Se espera que la población de Irlanda aumente en más de 1 millón de personas durante los próximos 20 años, el 75% de las cuales vivirá en ciudades. ¿Pueden los centros urbanos con esto? Duncan Stewart lo investigará.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.38.</episode-num>
   </programme>
-  <programme start="20240502155000 +0200" stop="20240502161500 +0200" channel="MX | NatGeo">
+  <programme start="20240502155000 +0200" stop="20240502161500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Preservación de las aves</sub-title>
     <desc lang="es">Anja Murray investiga las razones detrás del alarmante declive de las poblaciones de aves irlandesas. ¿Qué se puede hacer, si es que se puede hacer algo, para frenar o detener la caída de los números?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.23.</episode-num>
   </programme>
-  <programme start="20240502161500 +0200" stop="20240502164000 +0200" channel="MX | NatGeo">
+  <programme start="20240502161500 +0200" stop="20240502164000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Fideos y calabaza</sub-title>
     <desc lang="es">Hay una cascada de chocolate en esta fábrica de dulces. Conoce al escuadrón detrás de montañas de canelones. Averigua qué se necesita para hacer montones de fideos de arroz. Y un equipo elimina la molestia de preparar la calabaza.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s05e05-fideos-y-calabaza_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.4.</episode-num>
   </programme>
-  <programme start="20240502164000 +0200" stop="20240502171000 +0200" channel="MX | NatGeo">
+  <programme start="20240502164000 +0200" stop="20240502171000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Cannoli y queso</sub-title>
     <desc lang="es">En este episodio de Megaindustria de Alimentos: Estados Unidos, visitaremos el imperio de Cheez Doodles, donde 44.000 bolitas de queso son cocinadas y pintadas con queso cada minuto.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20240502171000 +0200" stop="20240502173500 +0200" channel="MX | NatGeo">
+  <programme start="20240502171000 +0200" stop="20240502173500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Higo y mantequilla orgánica</sub-title>
     <desc lang="es">En este episodio con productos orgánicos, Newtons de higo, mantequilla y caramelos duros de granada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.22.</episode-num>
   </programme>
-  <programme start="20240502173500 +0200" stop="20240502183500 +0200" channel="MX | NatGeo">
+  <programme start="20240502173500 +0200" stop="20240502183500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Nueva Zelanda</sub-title>
     <desc lang="es">El Chef Ramsay viaja a los remotos rincones de Nueva Zelanda para descubrir los secretos de la cocina maorí.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_gordon-ramsay-sabores-extremos-s01e04-nueva-zelanda_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240502183500 +0200" stop="20240502193000 +0200" channel="MX | NatGeo">
+  <programme start="20240502183500 +0200" stop="20240502193000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Decisión fatal</sub-title>
     <desc lang="es">Este episodio investiga una decisión mortal que derribó un avión de pasajeros, en Illinois.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s21e08-decision-fatal_l_m.jpg"/>
     <episode-num system="xmltv_ns">20.7.</episode-num>
   </programme>
-  <programme start="20240502193000 +0200" stop="20240502202000 +0200" channel="MX | NatGeo">
+  <programme start="20240502193000 +0200" stop="20240502202000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Falso informante</sub-title>
     <desc lang="es">La Policía Antidrogas del Aeropuerto Jorge Chávez de Lima, Perú, confronta a una pasajera que lleva cocaína introducida en su cuerpo, y un pasante intenta intimidar a los agentes con falsas declaraciones.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s03e09-falso-informante_l_m.jpg"/>
     <episode-num system="xmltv_ns">2.8.</episode-num>
   </programme>
-  <programme start="20240502202000 +0200" stop="20240502211500 +0200" channel="MX | NatGeo">
+  <programme start="20240502202000 +0200" stop="20240502211500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alaska: los nuevos pioneros</title>
     <sub-title lang="es">Recursos vitales</sub-title>
     <desc lang="es">A medida que el Ártico entra en la temporada de invierno, los que viven al margen de la sociedad deben trabajar con gran esmero para obtener recursos vitales.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alaska-los-nuevos-pioneros-s01e02-recursos-vitales_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20240502211500 +0200" stop="20240502221000 +0200" channel="MX | NatGeo">
+  <programme start="20240502211500 +0200" stop="20240502221000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Salvajemente famosos</title>
     <sub-title lang="es">Benedict Cumberbatch en la isla de Skye</sub-title>
     <desc lang="es">La megaestrella Benedict Cumberbatch se une a Bear Grylls en un recorrido peligroso con un final sorpresivo que jamás olvidará.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_salvajemente-famosos-s07e02-benedict-cumberbatch-en-la-isla-de-skye_l_m.jpg"/>
     <episode-num system="xmltv_ns">6.1.</episode-num>
   </programme>
-  <programme start="20240502221000 +0200" stop="20240502230500 +0200" channel="MX | NatGeo">
+  <programme start="20240502221000 +0200" stop="20240502230500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Solo contra el mundo</title>
     <sub-title lang="es">Cazadores del bosque nuboso</sub-title>
     <desc lang="es">Hazen viaja a las montañas del norte de Laos para encontrarse con la tribu Akha, que caza con mosquetes de pólvora caseros. Después de aprender sus formas de supervivencia, se adentra solo en la naturaleza.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_solo-contra-el-mundo-s05e01-cazadores-del-bosque-nuboso_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.0.</episode-num>
   </programme>
-  <programme start="20240502230500 +0200" stop="20240503000000 +0200" channel="MX | NatGeo">
+  <programme start="20240502230500 +0200" stop="20240503000000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secretos de los pulpos</title>
     <sub-title lang="es">Ases de la metamorfosis</sub-title>
     <desc lang="es">Ya sea para desaparecer o para confundir a su enemigo más letal, los pulpos utilizan su extraordinario superpoder de transformación para sobrevivir.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240503000000 +0200" stop="20240503010000 +0200" channel="MX | NatGeo">
+  <programme start="20240503000000 +0200" stop="20240503010000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Los depredadores más peligrosos de África</title>
     <sub-title lang="es">Robar o morir</sub-title>
     <desc lang="es">La selva africana está llena de ladrones. En el oscuro mundo criminal de Botswana, nadie está a salvo. Cuando las cosas se ponen difíciles en esta tierra, incluso los personajes más increíbles se ven obligados a recurrir al lado oscuro.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_los-depredadores-mas-peligrosos-de-africa-s04e01-robar-o-morir_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.0.</episode-num>
   </programme>
-  <programme start="20240503010000 +0200" stop="20240503020000 +0200" channel="MX | NatGeo">
+  <programme start="20240503010000 +0200" stop="20240503020000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Asesino en la cabina</sub-title>
     <desc lang="es">Unos guardabosques en Namibia finalmente descubren los restos que dan la primera pista importante, tras descartar posibles causas, los investigadores llegan a una conclusión escalofriante.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s19e09-asesino-en-la-cabina_l_m.jpg"/>
     <episode-num system="xmltv_ns">18.8.</episode-num>
   </programme>
-  <programme start="20240503020000 +0200" stop="20240503030000 +0200" channel="MX | NatGeo">
+  <programme start="20240503020000 +0200" stop="20240503030000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">Historia secreta de Londres</sub-title>
     <desc lang="es">Londres es una de las ciudades más emblemáticas y poderosas de la Tierra. Pero, ¿cómo se hizo tan dominante como el centro de un vasto imperio? A través de una serie de hallazgos marítimos se revela la historia secreta de la ciudad.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_secreto-en-los-oceanos-s02e12-historia-secreta-de-londres_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
-  <programme start="20240503030000 +0200" stop="20240503040000 +0200" channel="MX | NatGeo">
+  <programme start="20240503030000 +0200" stop="20240503040000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Cómplices</sub-title>
     <desc lang="es">En este episodio los agentes detienen a un pasajero que viaja con una mochila de aspecto inusual, mientras investigan a un hombre que viaja en silla de ruedas, cuyo equipaje de mano resulta sospechosamente pesado.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s04e01-complices_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.0.</episode-num>
   </programme>
-  <programme start="20240503040000 +0200" stop="20240503050000 +0200" channel="MX | NatGeo">
+  <programme start="20240503040000 +0200" stop="20240503050000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Escala criminal</sub-title>
     <desc lang="es">Las fuerzas de seguridad de El Dorado detectan casos de falsificación de documentos y frustran los más ingeniosos intentos de tráfico de drogas al revisar el equipaje de unos 400 vuelos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s02e02-escala-criminal_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20240503050000 +0200" stop="20240503060000 +0200" channel="MX | NatGeo">
+  <programme start="20240503050000 +0200" stop="20240503060000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Hawái</sub-title>
     <desc lang="es">El Chef Ramsay viaja a la Isla de Maui en Hawái para explorar los secretos de la cocina hawaiana en la costa de Hana.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_gordon-ramsay-sabores-extremos-s01e05-hawai_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20240503060000 +0200" stop="20240503065500 +0200" channel="MX | NatGeo">
+  <programme start="20240503060000 +0200" stop="20240503065500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Gordon, Gino y Fred</title>
     <sub-title lang="es">Mamma Mia!</sub-title>
     <desc lang="es">En esta oportunidad, Gordon, Gino y Fred viajan a Grecia, la cuna de la civilización, para sumergirse en las tradiciones culinarias y el espectacular paisaje del viejo mundo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
-  <programme start="20240503065500 +0200" stop="20240503072500 +0200" channel="MX | NatGeo">
+  <programme start="20240503065500 +0200" stop="20240503072500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Pizzas y aceites</sub-title>
     <desc lang="es">Descubramos la maquinaria de última generación que hace 50.000 perfectas pizzas congeladas por día. Además, la relación del aceite de canola y la mantequilla cremosa. También, el cultivo de los asombrosos hongos orgánicos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s01e17-pizzas-y-aceites_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.16.</episode-num>
   </programme>
-  <programme start="20240503072500 +0200" stop="20240503075000 +0200" channel="MX | NatGeo">
+  <programme start="20240503072500 +0200" stop="20240503075000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">La magia del trigo</sub-title>
     <desc lang="es">Descubra cómo producir 15 toneladas métricas de sabroso queso de cabra por semana; el proceso detrás de 8.000 pastelitos a la semana; la relación entre los imanes y la molienda de trigo; y cómo encurtir 15.000 kg de deliciosos arenques.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s01e18-la-magia-del-trigo_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.17.</episode-num>
   </programme>
-  <programme start="20240503075000 +0200" stop="20240503085000 +0200" channel="MX | NatGeo">
+  <programme start="20240503075000 +0200" stop="20240503085000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Los primeros habitantes de Alaska</title>
     <sub-title lang="es">Que suene el tambor</sub-title>
     <desc lang="es">Aprovechando los largos días del verano, los nativos de Alaska se preparan para el invierno que se acerca y confían en la sabiduría ancestral para combatir los desafíos futuros.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20240503085000 +0200" stop="20240503095000 +0200" channel="MX | NatGeo">
+  <programme start="20240503085000 +0200" stop="20240503095000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secretos de los pulpos</title>
     <sub-title lang="es">Ases de la metamorfosis</sub-title>
     <desc lang="es">Ya sea para desaparecer o para confundir a su enemigo más letal, los pulpos utilizan su extraordinario superpoder de transformación para sobrevivir.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240503095000 +0200" stop="20240503104000 +0200" channel="MX | NatGeo">
+  <programme start="20240503095000 +0200" stop="20240503104000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Desperfectos inesperados</sub-title>
     <desc lang="es">Los pilotos del Propair 420 sufren una falla hidráulica doble y un incendio en el motor que causa la muerte de todos a bordo. Ahora, los investigadores deberán determinar qué provocó una serie de fallas mortales en solo cinco minutos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s20e09-desperfectos-inesperados_l_m.jpg"/>
     <episode-num system="xmltv_ns">19.8.</episode-num>
   </programme>
-  <programme start="20240503104000 +0200" stop="20240503112500 +0200" channel="MX | NatGeo">
+  <programme start="20240503104000 +0200" stop="20240503112500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">Historia secreta de Londres</sub-title>
     <desc lang="es">Londres es una de las ciudades más emblemáticas y poderosas de la Tierra. Pero, ¿cómo se hizo tan dominante como el centro de un vasto imperio? A través de una serie de hallazgos marítimos se revela la historia secreta de la ciudad.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_secreto-en-los-oceanos-s02e12-historia-secreta-de-londres_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
-  <programme start="20240503112500 +0200" stop="20240503121000 +0200" channel="MX | NatGeo">
+  <programme start="20240503112500 +0200" stop="20240503121000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Solo contra el mundo: Cruce de los Andes</title>
     <sub-title lang="es">Selva irregular</sub-title>
     <desc lang="es">Hazen Audel lucha contra cascadas y pantanos mortales, en el bosque atlántico.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240503121000 +0200" stop="20240503125500 +0200" channel="MX | NatGeo">
+  <programme start="20240503121000 +0200" stop="20240503125500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Luna de miel en prisión</sub-title>
     <desc lang="es">Los agentes antidrogas deben revelar si el curioso souvenir que transporta una pareja de supuestos recién casados es tan inocente como parece, mientras intervienen a tres pasajeras que intentan viajar a África.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s06e08-papa-en-tres-meses_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.7.</episode-num>
   </programme>
-  <programme start="20240503125500 +0200" stop="20240503133500 +0200" channel="MX | NatGeo">
+  <programme start="20240503125500 +0200" stop="20240503133500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Amigos son los amigos</sub-title>
     <desc lang="es">La división de estupefacientes revisa el equipaje de tres amigos que dicen viajar para visitar familia y la tensión desata acusaciones cruzadas entre ellos. Un pasajero revela la dramática historia que lo llevó a emigrar de su país.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s07e01-amigos-son-los-amigos_l_m.jpg"/>
     <episode-num system="xmltv_ns">6.0.</episode-num>
   </programme>
-  <programme start="20240503133500 +0200" stop="20240503140000 +0200" channel="MX | NatGeo">
+  <programme start="20240503133500 +0200" stop="20240503140000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Menta y chutney</sub-title>
     <desc lang="es">Descubra los caramelos de menta; unos palitos de queso que equilibran queso y masa; el chutney, el aderezo favorito de la India y unos icónicos dulces con frases románticas grabadas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s02e10-menta-y-chutney_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.9.</episode-num>
   </programme>
-  <programme start="20240503140000 +0200" stop="20240503142000 +0200" channel="MX | NatGeo">
+  <programme start="20240503140000 +0200" stop="20240503142000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Caramelos Premium</sub-title>
     <desc lang="es">¿Cuánta crema se necesita para hacer un dulce toffee de primera calidad? ¿Qué ingredientes se necesitan para hacer un delicioso pesto vegetariano? ¿Cómo lograr la taza de café perfecta?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s01e01-caramelos-premium_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240503142000 +0200" stop="20240503144000 +0200" channel="MX | NatGeo">
+  <programme start="20240503142000 +0200" stop="20240503144000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Snacks para el cine</sub-title>
     <desc lang="es">Un menú de aperitivos para la noche de cine que incluye: pastillas rellenas de chocolate, snacks Lucky Fox, sándwiches de helado gourmet artesanales y galletas bañadas en chocolate Moon Pie Bites.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s06e09-snacks-para-el-cine_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.8.</episode-num>
   </programme>
-  <programme start="20240503144000 +0200" stop="20240503150000 +0200" channel="MX | NatGeo">
+  <programme start="20240503144000 +0200" stop="20240503150000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Químicos peligrosos</sub-title>
     <desc lang="es">El episodio se centrará en los problemas asociados con los productos químicos para el hogar y el jardín, junto con algunas de las posibles soluciones.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.17.</episode-num>
   </programme>
-  <programme start="20240503150000 +0200" stop="20240503152500 +0200" channel="MX | NatGeo">
+  <programme start="20240503150000 +0200" stop="20240503152500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Viaje activo</sub-title>
     <desc lang="es">La Dra. Lara Dungan investiga por qué nuestra sociedad dio la espalda a las actividades saludables y descubre que nuestro entorno se adaptó demasiado al automóvil.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
-  <programme start="20240503152500 +0200" stop="20240503155000 +0200" channel="MX | NatGeo">
+  <programme start="20240503152500 +0200" stop="20240503155000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Ciudades en transición</sub-title>
     <desc lang="es">Duncan Stewart investiga la implacable desaparición de las pequeñas ciudades irlandesas y se pregunta qué se está haciendo ahora para detener su deterioro.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.39.</episode-num>
   </programme>
-  <programme start="20240503155000 +0200" stop="20240503161500 +0200" channel="MX | NatGeo">
+  <programme start="20240503155000 +0200" stop="20240503161500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">La Tierra importa</sub-title>
     <desc lang="es">La Dra. Lara Dungan se reune con los agricultores y expertos, para averiguar si la carne vacuna y los lácteos tienen futuro en un mundo de cambio climático.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.24.</episode-num>
   </programme>
-  <programme start="20240503161500 +0200" stop="20240503164000 +0200" channel="MX | NatGeo">
+  <programme start="20240503161500 +0200" stop="20240503164000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Palomitas de maíz y jarabe de arce</sub-title>
     <desc lang="es">Del árbol a la botella, sigue la asombrosa historia del jarabe de arce, las deliciosas palomitas de maíz Almond Roca, la delicia turca con un toque moderno y descubre el secreto de las manzanas que saben a uvas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s05e06-palomitas-de-maiz-y-jarabe-de-arce_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.5.</episode-num>
   </programme>
-  <programme start="20240503164000 +0200" stop="20240503171000 +0200" channel="MX | NatGeo">
+  <programme start="20240503164000 +0200" stop="20240503171000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Patatas fritas y piruletas</sub-title>
     <desc lang="es">En este episodio de Megaindustria de Alimentos: Estados Unidos: las papas fritas Herr's son cortadas con amor y fritas a la perfección.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20240503171000 +0200" stop="20240503173500 +0200" channel="MX | NatGeo">
+  <programme start="20240503171000 +0200" stop="20240503173500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Galletas de té y helado</sub-title>
     <desc lang="es">En este episodio, hojas de té, salsa hoisin, y sándwiches de helado.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.23.</episode-num>
   </programme>
-  <programme start="20240503173500 +0200" stop="20240503183500 +0200" channel="MX | NatGeo">
+  <programme start="20240503173500 +0200" stop="20240503183500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Hawái</sub-title>
     <desc lang="es">El Chef Ramsay viaja a la Isla de Maui en Hawái para explorar los secretos de la cocina hawaiana en la costa de Hana.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_gordon-ramsay-sabores-extremos-s01e05-hawai_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20240503183500 +0200" stop="20240503193000 +0200" channel="MX | NatGeo">
+  <programme start="20240503183500 +0200" stop="20240503193000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Vuelo de prueba</sub-title>
     <desc lang="es">El desastre de un turbohélice revela un problema mortal que afecta a toda la industria.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s21e09-vuelo-de-prueba_l_m.jpg"/>
     <episode-num system="xmltv_ns">20.8.</episode-num>
   </programme>
-  <programme start="20240503193000 +0200" stop="20240503202000 +0200" channel="MX | NatGeo">
+  <programme start="20240503193000 +0200" stop="20240503202000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Amor traicionado</sub-title>
     <desc lang="es">Un hombre engaña a su pareja para que lleve droga en su maleta, convirtiendo unas supuestas vacaciones románticas en una pesadilla. Un pasajero transporta cocaína en paquetes alimenticios y otro la lleva meticulosamente oculta en su ropa.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s03e10-amor-traicionado_l_m.jpg"/>
     <episode-num system="xmltv_ns">2.9.</episode-num>
   </programme>
-  <programme start="20240503202000 +0200" stop="20240503211500 +0200" channel="MX | NatGeo">
+  <programme start="20240503202000 +0200" stop="20240503211500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alaska: los nuevos pioneros</title>
     <sub-title lang="es">Independencia</sub-title>
     <desc lang="es">Los habitantes de Alaska deben enfrentar la dura realidad cuando llega el invierno para poder llevar la vida independiente que buscan.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alaska-los-nuevos-pioneros-s01e03-independencia_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20240503211500 +0200" stop="20240503221000 +0200" channel="MX | NatGeo">
+  <programme start="20240503211500 +0200" stop="20240503221000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Salvajemente famosos</title>
     <sub-title lang="es">Cynthia Erivo en la cordillera de los Brecon Beacons</sub-title>
     <desc lang="es">Bear Grylls ayuda a Cynthia Erivo a navegar por cenotes peligrosos y cascadas embravecidas en los Brecon Beacons, uno de los lugares en donde Bear realizó su entrenamiento para las Fuerzas Especiales.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_salvajemente-famosos-s07e03-cynthia-erivo-en-la-cordillera-de-los-brecon-beacons_l_m.jpg"/>
     <episode-num system="xmltv_ns">6.2.</episode-num>
   </programme>
-  <programme start="20240503221000 +0200" stop="20240503230500 +0200" channel="MX | NatGeo">
+  <programme start="20240503221000 +0200" stop="20240503230500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Solo contra el mundo</title>
     <sub-title lang="es">Emboscada en la selva</sub-title>
     <desc lang="es">Hazen viaja en busca de la tribu Mani, antiguos cazadores-recolectores que usan cerbatanas armadas con dardos con punta venenosa. Antes de unirse a la cacería, Hazen debe demostrar que puede sobrevivir solo en esta peligrosa tierra.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_solo-contra-el-mundo-s05e02-emboscada-en-la-selva_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.1.</episode-num>
   </programme>
-  <programme start="20240503230500 +0200" stop="20240504000000 +0200" channel="MX | NatGeo">
+  <programme start="20240503230500 +0200" stop="20240504000000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secretos de los pulpos</title>
     <sub-title lang="es">Mentes maestras</sub-title>
     <desc lang="es">Extremadamente curioso, estratégico y superastuto, el pulpo es uno de los mejores solucionadores de problemas en la naturaleza.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20240504000000 +0200" stop="20240504010000 +0200" channel="MX | NatGeo">
+  <programme start="20240504000000 +0200" stop="20240504010000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Los más peligrosos de África</title>
     <sub-title lang="es">Colmillos que matan</sub-title>
     <desc lang="es">Batallas por la supervivencia en los entornos más extremos del planeta. Depredadores mortales, grandes carnívoros que pueden destrozar a sus presas en segundos con sus caninos y su inigualable tenacidad.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_los-mas-peligrosos-de-africa-s04e02-colmillos-que-matan_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.1.</episode-num>
   </programme>
-  <programme start="20240504010000 +0200" stop="20240504020000 +0200" channel="MX | NatGeo">
+  <programme start="20240504010000 +0200" stop="20240504020000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Cabina tormentosa</sub-title>
     <desc lang="es">Un avión 737, prácticamente nuevo, cae sobre África occidental durante una gran tormenta, pero los investigadores finalmente descubren que el clima no tuvo nada que ver con el accidente.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s19e10-cabina-tormentosa_l_m.jpg"/>
     <episode-num system="xmltv_ns">18.9.</episode-num>
   </programme>
-  <programme start="20240504020000 +0200" stop="20240504030000 +0200" channel="MX | NatGeo">
+  <programme start="20240504020000 +0200" stop="20240504030000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">Gigantes perdidos</sub-title>
     <desc lang="es">Durante el siglo pasado, surgió una nueva raza de gigantes navíos oceánicos, y los arqueólogos marítimos acompañan a los historiadores en busca de los restos de naufragios más grandes jamás hundidos bajo los mares.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_secreto-en-los-oceanos-s02e13-gigantes-perdidos_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  <programme start="20240504030000 +0200" stop="20240504040000 +0200" channel="MX | NatGeo">
+  <programme start="20240504030000 +0200" stop="20240504040000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Corte y confesión</sub-title>
     <desc lang="es">Un pasajero que lleva una abultada mochila de alta montaña y dos ciudadanos nigerianos, llaman la atención de los agentes de estupefacientes; y un joven es investigado cuando los oficiales sospechan de su verdadera identidad.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s04e02-corte-y-confesion_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.1.</episode-num>
   </programme>
-  <programme start="20240504040000 +0200" stop="20240504050000 +0200" channel="MX | NatGeo">
+  <programme start="20240504040000 +0200" stop="20240504050000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Doble riesgo</sub-title>
     <desc lang="es">La policía de El Dorado no tiene respiro en su cruzada contra el narcotráfico: en este episodio, detectan drogas camufladas en medicamentos y objetos decorativos, e incluso enfrenta una emergencia médica.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s02e03-doble-riesgo_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.2.</episode-num>
   </programme>
-  <programme start="20240504050000 +0200" stop="20240504060000 +0200" channel="MX | NatGeo">
+  <programme start="20240504050000 +0200" stop="20240504060000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Los primeros habitantes de Alaska</title>
     <sub-title lang="es">Lecciones de supervivencia</sub-title>
     <desc lang="es">Cuando llega el invierno, los pueblos indígenas de Alaska dependen de su conocimiento ancestral de la tierra para sobrevivir y prosperar en condiciones árticas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20240504060000 +0200" stop="20240504065500 +0200" channel="MX | NatGeo">
+  <programme start="20240504060000 +0200" stop="20240504065500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Life Below Zero: Next Generation: Survival Mode</title>
     <sub-title lang="es">El mensajero</sub-title>
     <desc lang="es">Los nuevos pioneros deben estar preparados para los peligros y desafíos que pueden surgir al vivir en el interior salvaje de Alaska.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.18.</episode-num>
   </programme>
-  <programme start="20240504065500 +0200" stop="20240504075000 +0200" channel="MX | NatGeo">
+  <programme start="20240504065500 +0200" stop="20240504075000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Life Below Zero: Next Generation: Survival Mode</title>
     <sub-title lang="es">Este no es el final</sub-title>
     <desc lang="es">Con el invierno en el horizonte, los nuevos pioneros deben adaptarse y aprender las lecciones de las difíciles zonas rurales de Alaska para sobrevivir un día más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.19.</episode-num>
   </programme>
-  <programme start="20240504075000 +0200" stop="20240504085000 +0200" channel="MX | NatGeo">
+  <programme start="20240504075000 +0200" stop="20240504085000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Los primeros habitantes de Alaska</title>
     <sub-title lang="es">Pasar la antorcha</sub-title>
     <desc lang="es">Los pueblos nativos de Alaska utilizan sus conocimientos para enseñarles a las generaciones más jóvenes cómo sobrevivir en su tierra ancestral.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
-  <programme start="20240504085000 +0200" stop="20240504095000 +0200" channel="MX | NatGeo">
+  <programme start="20240504085000 +0200" stop="20240504095000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secretos de los pulpos</title>
     <sub-title lang="es">Mentes maestras</sub-title>
     <desc lang="es">Extremadamente curioso, estratégico y superastuto, el pulpo es uno de los mejores solucionadores de problemas en la naturaleza.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20240504095000 +0200" stop="20240504104000 +0200" channel="MX | NatGeo">
+  <programme start="20240504095000 +0200" stop="20240504104000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Cargamento mortal</sub-title>
     <desc lang="es">Después de que un vuelo de carga nocturno golpea una arboleda y se estrella a un kilómetro y medio de la pista, en Alabama, los investigadores deberán adoptar un enfoque inusual para determinar qué salió mal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s20e10-cargamento-mortal_l_m.jpg"/>
     <episode-num system="xmltv_ns">19.9.</episode-num>
   </programme>
-  <programme start="20240504104000 +0200" stop="20240504112500 +0200" channel="MX | NatGeo">
+  <programme start="20240504104000 +0200" stop="20240504112500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">Gigantes perdidos</sub-title>
     <desc lang="es">Durante el siglo pasado, surgió una nueva raza de gigantes navíos oceánicos, y los arqueólogos marítimos acompañan a los historiadores en busca de los restos de naufragios más grandes jamás hundidos bajo los mares.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_secreto-en-los-oceanos-s02e13-gigantes-perdidos_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
-  <programme start="20240504112500 +0200" stop="20240504121000 +0200" channel="MX | NatGeo">
+  <programme start="20240504112500 +0200" stop="20240504121000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Solo contra el mundo: Cruce de los Andes</title>
     <sub-title lang="es">Infierno y marea alta</sub-title>
     <desc lang="es">Hazen Audel se encuentra con anacondas y caimanes en los pantanos del Gran Chaco.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20240504121000 +0200" stop="20240504125500 +0200" channel="MX | NatGeo">
+  <programme start="20240504121000 +0200" stop="20240504125500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Amigos son los amigos</sub-title>
     <desc lang="es">La división de estupefacientes revisa el equipaje de tres amigos que dicen viajar para visitar familia y la tensión desata acusaciones cruzadas entre ellos. Un pasajero revela la dramática historia que lo llevó a emigrar de su país.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s07e01-amigos-son-los-amigos_l_m.jpg"/>
     <episode-num system="xmltv_ns">6.0.</episode-num>
   </programme>
-  <programme start="20240504125500 +0200" stop="20240504133500 +0200" channel="MX | NatGeo">
+  <programme start="20240504125500 +0200" stop="20240504133500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Café con aroma a delito</sub-title>
     <desc lang="es">Los policías revisan un equipaje en busca de una carga ilegal, mientras entre las pocas pertenencias de un joven encuentran un objeto que podría no ser lo que parece y llevan una búsqueda contra reloj para detener dos posibles ilícitos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s07e02-cafe-con-aroma-a-delito_l_m.jpg"/>
     <episode-num system="xmltv_ns">6.1.</episode-num>
   </programme>
-  <programme start="20240504133500 +0200" stop="20240504140000 +0200" channel="MX | NatGeo">
+  <programme start="20240504133500 +0200" stop="20240504140000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Té verde y caramelos</sub-title>
     <desc lang="es">Descubra cómo se hacen los caramelos Mike and Ike, por qué el mozzarella es ideal para los nachos, cómo el té verde Arizona mantiene su sabor y cómo los Turkish Taffy son crujientes y suaves a la vez.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s02e11-te-verde-y-caramelos_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20240504140000 +0200" stop="20240504142000 +0200" channel="MX | NatGeo">
+  <programme start="20240504140000 +0200" stop="20240504142000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">El helado perfecto</sub-title>
     <desc lang="es">Descubriamos el baño de chocolate, esencial para un cono de helado perfecto. ¿Cómo hacen los amantes de las sodas para tener su dosis diaria? Te mostramos cómo hacer diecisiete millones de trozos de chicle cada día.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s01e04-ingredientes-secretos_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240504142000 +0200" stop="20240504144000 +0200" channel="MX | NatGeo">
+  <programme start="20240504142000 +0200" stop="20240504144000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Todo sobre cumpleaños</sub-title>
     <desc lang="es">Este episodio incluye helado de cumpleaños, vasitos comestibles, y una piñata de chocolate.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s06e10-todo-sobre-cumpleanos_l_m.jpg"/>
     <episode-num system="xmltv_ns">5.9.</episode-num>
   </programme>
-  <programme start="20240504144000 +0200" stop="20240504150000 +0200" channel="MX | NatGeo">
+  <programme start="20240504144000 +0200" stop="20240504150000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">La importancia del abejorro</sub-title>
     <desc lang="es">La ecologista Anja Murray se reúne con científicos y ciudadanos para tratar de comprender por qué el número de polinizadores, incluidas las abejas salvajes irlandesas, está disminuyendo tan rápidamente.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.18.</episode-num>
   </programme>
-  <programme start="20240504150000 +0200" stop="20240504152500 +0200" channel="MX | NatGeo">
+  <programme start="20240504150000 +0200" stop="20240504152500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Aguas prístinas</sub-title>
     <desc lang="es">La ecologista Anja Murray, explora el declive de los sitios de agua, hogar del mejillón perla de agua dulce, en peligro de extinción.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
-  <programme start="20240504152500 +0200" stop="20240504155000 +0200" channel="MX | NatGeo">
+  <programme start="20240504152500 +0200" stop="20240504155000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Horizontes azules</sub-title>
     <desc lang="es">Debido a un nuevo desarrollo sin precedentes que está previsto para las costas de Irlanda, Anja Murray examina el equilibrio entre la expansión de la economía azul irlandesa y la protección y potenciación de los ecosistemas marinos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.40.</episode-num>
   </programme>
-  <programme start="20240504155000 +0200" stop="20240504161500 +0200" channel="MX | NatGeo">
+  <programme start="20240504155000 +0200" stop="20240504161500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Eco-Eye: soluciones sustentables</title>
     <sub-title lang="es">Energía del siglo XXI</sub-title>
     <desc lang="es">Duncan Stewart analizará una de las preguntas más cruciales que nos afecta a todos, ¿Cómo impulsar la mejora del planeta?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.25.</episode-num>
   </programme>
-  <programme start="20240504161500 +0200" stop="20240504164000 +0200" channel="MX | NatGeo">
+  <programme start="20240504161500 +0200" stop="20240504164000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Guacamole y queso</sub-title>
     <desc lang="es">Se necesitan 80 mil manzanas para producir un solo lote de frutas deshidratadas. Descubre el secreto de un queso en grano adictivo. Las barras Hello Dolly tienen una versión vegana. Y hay un divertido equipo detrás de este guacamole.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s05e07-guacamole-y-queso_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.6.</episode-num>
   </programme>
-  <programme start="20240504164000 +0200" stop="20240504171000 +0200" channel="MX | NatGeo">
+  <programme start="20240504164000 +0200" stop="20240504171000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Salsas y chocolate</sub-title>
     <desc lang="es">Emparedados White Castle, salsa Red Gold y cerezas cubiertas en chocolate.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20240504171000 +0200" stop="20240504173500 +0200" channel="MX | NatGeo">
+  <programme start="20240504171000 +0200" stop="20240504173500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Aceitunas, paletas y chips</sub-title>
     <desc lang="es">En este episodio, aceitunas negras, un licuado de frutas en palito helado y pepas de chocolate.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.24.</episode-num>
   </programme>
-  <programme start="20240504173500 +0200" stop="20240504183500 +0200" channel="MX | NatGeo">
+  <programme start="20240504173500 +0200" stop="20240504183500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Alaska</sub-title>
     <desc lang="es">El chef Ramsay viaja a Alaska a mediados del invierno para adquirir habilidades de supervivencia en los locales y descubrir los secretos de la vibrante cocina del norte.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_gordon-ramsay-sabores-extremos-s01e06-alaska_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20240504183500 +0200" stop="20240504193000 +0200" channel="MX | NatGeo">
+  <programme start="20240504183500 +0200" stop="20240504193000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Helicóptero letal</sub-title>
     <desc lang="es">Este episodio investigará la muerte de la leyenda del baloncesto Kobe Bryant, en un accidente de helicóptero en Los Ángeles.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_mayday-catastrofes-aereas-s21e10-helicoptero-letal_l_m.jpg"/>
     <episode-num system="xmltv_ns">20.9.</episode-num>
   </programme>
-  <programme start="20240504193000 +0200" stop="20240504195500 +0200" channel="MX | NatGeo">
+  <programme start="20240504193000 +0200" stop="20240504195500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos</title>
     <sub-title lang="es">Caviar</sub-title>
     <desc lang="es">Un solo esturión puede producir un plato de caviar sostenible de $ 12,000. Este pastel de carne inglés agrega un toque moderno a la receta clásica de mamá.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_megaindustria-de-alimentos-s05e09-batatas-y-pavo_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.8.</episode-num>
   </programme>
-  <programme start="20240504195500 +0200" stop="20240504202000 +0200" channel="MX | NatGeo">
+  <programme start="20240504195500 +0200" stop="20240504202000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
     <sub-title lang="es">Bollos y palomitas de maíz</sub-title>
     <desc lang="es">En este episodio, S'mores, pan de hamburguesa y chips de palomitas de maíz.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.8.</episode-num>
   </programme>
-  <programme start="20240504202000 +0200" stop="20240504211500 +0200" channel="MX | NatGeo">
+  <programme start="20240504202000 +0200" stop="20240504211500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Perú</sub-title>
     <desc lang="es">En lo alto del Valle Sagrado de los Incas de Perú, el Chef Ramsay está en una misión: viajar en motocicleta para descubrir los secretos de la cocina de gran altitud.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_gordon-ramsay-sabores-extremos-s01e01-peru_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20240504211500 +0200" stop="20240504221000 +0200" channel="MX | NatGeo">
+  <programme start="20240504211500 +0200" stop="20240504221000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Cesar Millan: mejores humanos, mejores perros</title>
     <sub-title lang="es">Contra el miedo</sub-title>
     <desc lang="es">César ayuda a dos perros que están anclados en el pasado: un beagle que se volvió agresivo tras la muerte de su hermano y un malinois que le teme a la correa ya que fue hallado atado a un poste en Tijuana.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20240504221000 +0200" stop="20240504230500 +0200" channel="MX | NatGeo">
+  <programme start="20240504221000 +0200" stop="20240504230500 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Hogar para perros</title>
     <desc lang="es">Un documental de observación ambientado dentro de la organización benéfica de animales Wood Green en Godmanchester. Un seguimiento del trabajo del personal que se compromete a emparejar a sus perros con posibles nuevos propietarios.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_hogar-para-perros-s04e07_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.6.</episode-num>
   </programme>
-  <programme start="20240504230500 +0200" stop="20240505000000 +0200" channel="MX | NatGeo">
+  <programme start="20240504230500 +0200" stop="20240505000000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">El increíble Dr. Pol</title>
     <sub-title lang="es">Un perro en apuros</sub-title>
     <desc lang="es">El servicio veterinario Pol se ocupa de un perro tan enfermo que apenas puede caminar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_el-increible-dr-pol-s12e05-un-perro-en-apuros_l_m.jpg"/>
     <episode-num system="xmltv_ns">11.4.</episode-num>
   </programme>
-  <programme start="20240505000000 +0200" stop="20240505003000 +0200" channel="MX | NatGeo">
+  <programme start="20240505000000 +0200" stop="20240505003000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Bichero</title>
     <sub-title lang="es">El coloso del cielo</sub-title>
     <desc lang="es">Antonio va en busca del Cóndor Andino, una de las aves voladoras más grandes del mundo. Debido a que este animal se encuentra amenazado, el Bichero deberá inspirarse en la perseverancia de estos animales para conseguir su objetivo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20240505003000 +0200" stop="20240505010000 +0200" channel="MX | NatGeo">
+  <programme start="20240505003000 +0200" stop="20240505010000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Bichero</title>
     <sub-title lang="es">Un gigante gentil</sub-title>
     <desc lang="es">Antonio navega en la inmensidad del océano con el objetivo de ver a una ballena junto a su cría.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20240505010000 +0200" stop="20240505020000 +0200" channel="MX | NatGeo">
+  <programme start="20240505010000 +0200" stop="20240505020000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Una veterinaria todoterreno</title>
     <sub-title lang="es">Control de embarazo</sub-title>
     <desc lang="es">La Dra. Oakley opera a un gatito que tiene un ojo saltón y Sierra intenta determinar si una vaca miniatura está preñada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_una-veterinaria-todoterreno-s11e09-control-de-embarazo_l_m.jpg"/>
     <episode-num system="xmltv_ns">10.8.</episode-num>
   </programme>
-  <programme start="20240505020000 +0200" stop="20240505030000 +0200" channel="MX | NatGeo">
+  <programme start="20240505020000 +0200" stop="20240505030000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Destinos fascinantes: Guizhou</title>
     <desc lang="es">El fotógrafo y explorador del National Geographic, Ben Horton, emprende una nueva aventura por la naturaleza mística, las icónicas atracciones y las maravillas ocultas de Guizhou, China, donde a cada instante hay una historia para contar.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240505030000 +0200" stop="20240505040000 +0200" channel="MX | NatGeo">
+  <programme start="20240505030000 +0200" stop="20240505040000 +0200" channel="MX | NatGeo Channel">
     <title lang="es">Tutankamón: secretos de la tumba tóxica</title>
     <sub-title lang="es">Tumba Tóxica de Tut</sub-title>
     <desc lang="es">¿Podrá la ciencia moderna explicar la verdad que se esconde tras la maldición de Tutankamón?</desc>
