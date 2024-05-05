@@ -343,7 +343,7 @@
   </channel>
   <channel id="MX | Film &amp; Arts">
     <display-name lang="es">MX | Film &amp; Arts</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_film-arts_m.png.png"/>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png.png"/>
   </channel>
   <channel id="MX | History">
     <display-name lang="es">MX | History</display-name>
@@ -35084,31 +35084,18 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_chopped-s16e03-gyro_l_m.jpg"/>
     <episode-num system="xmltv_ns">15.2.</episode-num>
   </programme>
-  <programme start="20240505050000 +0200" stop="20240505055300 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Locos por Moliere</title>
-    <desc lang="es">Víctor ha encontrado una oportunidad laboral para el grupo: una empresa que organiza una cena espectáculo con sus empleados. El grupo tendrá que preparar un espectáculo con bailes, canciones, momentos divertidos y cobrarán un buen dinero.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-  </programme>
-  <programme start="20240505055300 +0200" stop="20240505060000 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Graciela Borges: mi vida en el cine</title>
-    <sub-title lang="es">El primer beso</sub-title>
-    <desc lang="es">Especial original creado a partir de una cuidada selección de momentos del podcast Graciela Borges: Mi vida en el cine.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_graciela-borges-mi-vida-en-el-cine-s00e02-el-primer-beso_l_m.jpg"/>
-    <episode-num system="xmltv_ns">.1.</episode-num>
-  </programme>
-  <programme start="20240505060000 +0200" stop="20240505080500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505030000 +0200" stop="20240505050500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">El peleador</title>
     <title lang="en">The Fighter</title>
     <desc lang="es">Un boxeador, entrenado por su familia, sólo acumula derrotas, hasta que su novia lo convence de buscar a un entrenador profesional. Pero una oferta para pelear por el título lo hace volver a confiar en los suyos e iniciar una nueva carrera.</desc>
     <date>2010</date>
     <category lang="es">Biográfico</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_el-peleador-2010_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-peleador-2010_l_m.jpg"/>
     <star-rating>
-      <value>9/10</value>
+      <value>8/10</value>
     </star-rating>
   </programme>
-  <programme start="20240505080500 +0200" stop="20240505095000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505050500 +0200" stop="20240505065000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Guerra fría</title>
     <title lang="en">Zimna wojna</title>
     <desc lang="es">En los cincuenta, un director musical se enamora de una cantante e intenta persuadirla de que abandone la Polonia comunista por Francia.</desc>
@@ -35116,154 +35103,184 @@
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
   </programme>
-  <programme start="20240505095000 +0200" stop="20240505105000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505065000 +0200" stop="20240505075000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Jacques Loussier - Clásico y Jazz</title>
     <desc lang="es">Un análisis de la importancia de Jacques Loussier para la escena del jazz del siglo XX.</desc>
-    <category lang="es">- Clásico y Jazz</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240505105000 +0200" stop="20240505113500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505075000 +0200" stop="20240505083500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Concierto privado con Daniel Barenboim</title>
     <desc lang="es">El maestro Barenboim nos abre las puertas de su casa en Berlín e interpreta el famoso "Geistertrio" ("Trío fantasma") de Beethoven, con su hijo Michael Barenboim al violín y Kian Soltani al violonchelo.</desc>
     <category lang="es">Concierto</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240505113500 +0200" stop="20240505123500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505083500 +0200" stop="20240505093500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Philharmonia</title>
     <desc lang="es">Selena tiene serios problemas y Helene acude a la madre de Selena para conocer su propio pasado. Pero el tiempo se acaba y el concierto final se acerca, por lo que Hélène debe jugar su última carta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20240505123500 +0200" stop="20240505132500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505093500 +0200" stop="20240505102500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Locos por Moliere</title>
     <desc lang="es">Víctor ha encontrado una oportunidad laboral para el grupo: una empresa que organiza una cena espectáculo con sus empleados. El grupo tendrá que preparar un espectáculo con bailes, canciones, momentos divertidos y cobrarán un buen dinero.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20240505132500 +0200" stop="20240505133000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505102500 +0200" stop="20240505103000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Graciela Borges: mi vida en el cine</title>
     <sub-title lang="es">El primer beso</sub-title>
     <desc lang="es">Especial original creado a partir de una cuidada selección de momentos del podcast Graciela Borges: Mi vida en el cine.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_graciela-borges-mi-vida-en-el-cine-s00e02-el-primer-beso_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_graciela-borges-mi-vida-en-el-cine-s00e02-el-primer-beso_l_m.jpg"/>
     <episode-num system="xmltv_ns">.1.</episode-num>
   </programme>
-  <programme start="20240505133000 +0200" stop="20240505140000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505103000 +0200" stop="20240505110000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Film&amp;Arts desde el West End</title>
     <sub-title lang="es">Measure by Measure</sub-title>
     <desc lang="es">El West End de Londres es el epicentro musical y teatral de Europa. Este magazine brinda toda la actualidad de la actividad teatral londinense, con una perspectiva latinoamericana.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_film-arts-desde-el-west-end-s00e06-royal-shakespeare-company-barbican-centre-measure-for-measure_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_film-arts-desde-el-west-end-s00e06-royal-shakespeare-company-barbican-centre-measure-for-measure_l_m.jpg"/>
     <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20240505140000 +0200" stop="20240505143000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505110000 +0200" stop="20240505113000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Film&amp;Arts desde el West End</title>
     <sub-title lang="es">As You Like It</sub-title>
     <desc lang="es">Una mirada a la obra "Measure for Measure", en el West End de Londres, epicentro musical y teatral de Europa. Una mirada a la obra "Measure for Measure".</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_film-arts-desde-el-west-end-s01e06-as-you-like-it_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_film-arts-desde-el-west-end-s01e06-as-you-like-it_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20240505143000 +0200" stop="20240505153000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505113000 +0200" stop="20240505123000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">El primer folio de Shakespeare</title>
     <desc lang="es">Un recorrido por la historia del First Folio de Shakespeare, desde sus comienzos cuando dos amigos del escritor, Heminges y Condel, decidieron comenzar con la tarea de recolectar las obras.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240505153000 +0200" stop="20240505170000 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Guerra fría</title>
-    <title lang="en">Zimna wojna</title>
-    <desc lang="es">En los cincuenta, un director musical se enamora de una cantante e intenta persuadirla de que abandone la Polonia comunista por Francia.</desc>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
+  <programme start="20240505123000 +0200" stop="20240505130000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240505170000 +0200" stop="20240505183000 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Bernard Haitink - El maestro enigmático</title>
-    <title lang="en">Bernard Haitink</title>
-    <desc lang="es">Bernard Haitink se jubiló recientemente a la edad de 90 años. El documental lo observa en el trabajo mientras prepara sus conciertos finales. Algunos de los músicos con los que ha trabajado intentan explicar su técnica.</desc>
-    <date>2019</date>
-    <category lang="es">Documental</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
+  <programme start="20240505130000 +0200" stop="20240505133000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240505183000 +0200" stop="20240505190000 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Film&amp;Arts desde el West End</title>
-    <sub-title lang="es">Matilda: The Musical</sub-title>
-    <desc lang="es">El West End de Londres es el epicentro musical y teatral de Europa. Este magazine brinda toda la actualidad de la actividad teatral londinense, con una perspectiva latinoamericana.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_film-arts-desde-el-west-end-s01e03-matilda-the-musical_l_m.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20240505133000 +0200" stop="20240505140000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240505190000 +0200" stop="20240505200000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505140000 +0200" stop="20240505143000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240505143000 +0200" stop="20240505150000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240505150000 +0200" stop="20240505153000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240505153000 +0200" stop="20240505160000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240505160000 +0200" stop="20240505170000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Jacques Loussier - Clásico y Jazz</title>
     <desc lang="es">Un análisis de la importancia de Jacques Loussier para la escena del jazz del siglo XX.</desc>
-    <category lang="es">- Clásico y Jazz</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240505200000 +0200" stop="20240505210000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505170000 +0200" stop="20240505180000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Momentos mágicos de la música</title>
     <sub-title lang="es">Nigel Kennedy - Las cuatro estaciones</sub-title>
     <desc lang="es">Es una grabación que está revolucionando el panorama de la música clásica. Nigel Kennedy logra vencer los temores de un público para el que Schubert y Beethoven habían sido anteriormente demasiado distantes.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_momentos-magicos-de-la-musica-s02e05-nigel-kennedy-las-cuatro-estaciones_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_momentos-magicos-de-la-musica-s02e05-nigel-kennedy-las-cuatro-estaciones_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  <programme start="20240505210000 +0200" stop="20240505220000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505180000 +0200" stop="20240505190000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Philharmonia</title>
     <desc lang="es">Selena tiene serios problemas y Helene acude a la madre de Selena para conocer su propio pasado. Pero el tiempo se acaba y el concierto final se acerca, por lo que Hélène debe jugar su última carta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20240505220000 +0200" stop="20240505225000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505190000 +0200" stop="20240505195000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Locos por Moliere</title>
     <desc lang="es">Víctor ha encontrado una oportunidad laboral para el grupo: una empresa que organiza una cena espectáculo con sus empleados. El grupo tendrá que preparar un espectáculo con bailes, canciones, momentos divertidos y cobrarán un buen dinero.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20240505225000 +0200" stop="20240506010000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505195000 +0200" stop="20240505220000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">El peleador</title>
     <title lang="en">The Fighter</title>
     <desc lang="es">Un boxeador, entrenado por su familia, sólo acumula derrotas, hasta que su novia lo convence de buscar a un entrenador profesional. Pero una oferta para pelear por el título lo hace volver a confiar en los suyos e iniciar una nueva carrera.</desc>
     <date>2010</date>
     <category lang="es">Biográfico</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_el-peleador-2010_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-peleador-2010_l_m.jpg"/>
     <star-rating>
-      <value>9/10</value>
+      <value>8/10</value>
     </star-rating>
   </programme>
-  <programme start="20240506010000 +0200" stop="20240506020000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505220000 +0200" stop="20240505230000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Brad Pitt - La revancha de un rubio</title>
     <desc lang="es">Brad Pitt es un actor singular en el mundo glamoroso de Hollywood, rompiendo su "imagen de playboy" y encarnando la renovación del cine estadounidense. Descubre el lado oculto del hombre más guapo del mundo.</desc>
     <category lang="es">Biográfico</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240506020000 +0200" stop="20240506023000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505230000 +0200" stop="20240505233000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Film&amp;Arts desde el West End</title>
     <sub-title lang="es">Pretty Woman</sub-title>
     <desc lang="es">¡Una de las historias más queridas de Hollywood de todos los tiempos llega ahora al West End!</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_film-arts-desde-el-west-end-s02e01-pretty-woman_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_film-arts-desde-el-west-end-s02e01-pretty-woman_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20240506023000 +0200" stop="20240506050000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240505233000 +0200" stop="20240506020000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">The Tony Awards 2023</title>
     <desc lang="es">La entrega número 76 de los Tony Awards en vivo y en directo desde el histórico United Palace, en Nueva York. La celebración reconocerá todas las categorías de premios y honrará el increíble arte de la temporada 2022-2023.</desc>
     <category lang="es">Especial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240506050000 +0200" stop="20240506060000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240506020000 +0200" stop="20240506030000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Miss Scarlet and the Duke</title>
     <sub-title lang="es">Memento Mori</sub-title>
     <desc lang="es">Eliza es contratada por un fotógrafo de la muerte, que recibe mensajes extraños y amenazantes desde más allá de la tumba.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240506060000 +0200" stop="20240506081000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240506030000 +0200" stop="20240507030000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Moliére</title>
     <title lang="en">Molière</title>
     <desc lang="es">Molière, de veintidos años, es un actor sin éxito con una compañía de teatro en bancarrota. Por sus deudas es encarcelado, pero, al salir, desaparece para vivir nuevas experiencias que lo convertirán en un gran dramaturgo.</desc>
     <date>2007</date>
     <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_moliere-2007_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_moliere-2007_l_m.jpg"/>
     <star-rating>
       <value>1/10</value>
     </star-rating>
   </programme>
-  <programme start="20240506081000 +0200" stop="20240506101500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507030000 +0200" stop="20240507051000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Moliére</title>
+    <title lang="en">Molière</title>
+    <desc lang="es">Molière, de veintidos años, es un actor sin éxito con una compañía de teatro en bancarrota. Por sus deudas es encarcelado, pero, al salir, desaparece para vivir nuevas experiencias que lo convertirán en un gran dramaturgo.</desc>
+    <date>2007</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_moliere-2007_l_m.jpg"/>
+    <star-rating>
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240507051000 +0200" stop="20240507071500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">El Cairo confidencial</title>
     <title lang="en">The Nile Hilton Incident</title>
     <desc lang="es">Noureddine, un detective corrupto con un futuro brillante en el cuerpo de policía, es enviado al hotel Nile Hilton, donde acaban de descubrir el cadáver de una hermosa mujer.</desc>
@@ -35274,51 +35291,76 @@
       <value>7/10</value>
     </star-rating>
   </programme>
-  <programme start="20240506101500 +0200" stop="20240506103500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507071500 +0200" stop="20240507073500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Film&amp;Arts desde el West End</title>
     <sub-title lang="es">Pretty Woman</sub-title>
     <desc lang="es">¡Una de las historias más queridas de Hollywood de todos los tiempos llega ahora al West End!</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_film-arts-desde-el-west-end-s02e01-pretty-woman_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_film-arts-desde-el-west-end-s02e01-pretty-woman_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20240506103500 +0200" stop="20240506130000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507073500 +0200" stop="20240507100000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">The Tony Awards 2023</title>
     <desc lang="es">La entrega número 76 de los Tony Awards en vivo y en directo desde el histórico United Palace, en Nueva York. La celebración reconocerá todas las categorías de premios y honrará el increíble arte de la temporada 2022-2023.</desc>
     <category lang="es">Especial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240506130000 +0200" stop="20240506140000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507100000 +0200" stop="20240507110000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Miss Scarlet and the Duke</title>
     <sub-title lang="es">Memento Mori</sub-title>
     <desc lang="es">Eliza es contratada por un fotógrafo de la muerte, que recibe mensajes extraños y amenazantes desde más allá de la tumba.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240506140000 +0200" stop="20240506153000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507110000 +0200" stop="20240507123000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Film&amp;Arts desde el West End</title>
     <sub-title lang="es">Henry IV</sub-title>
     <desc lang="es">El West End de Londres es el epicentro musical y teatral de Europa. Los actores más prestigiosos de Hollywood y del mundo suelen dedicar temporadas enteras a actuar en obras clásicas o proyectos personales.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_film-arts-desde-el-west-end-s00e08-henry-iv_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_film-arts-desde-el-west-end-s00e08-henry-iv_l_m.jpg"/>
     <episode-num system="xmltv_ns">.7.</episode-num>
   </programme>
-  <programme start="20240506153000 +0200" stop="20240506170000 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Kafka: El Juicio - Ballet Nacional Checo</title>
-    <desc lang="es">En la oscuridad del sueño, se abre una puerta y entra una mujer vestida con hojas de papel, que simbolizan el destino y la prueba que le sobrevendrá al protagonista. Esta es la premisa de 'El proceso', un ballet de Mauro Bigonzetti.</desc>
-    <category lang="es">Ballet</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
+  <programme start="20240507123000 +0200" stop="20240507130000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240506170000 +0200" stop="20240506190000 +0200" channel="MX | Film &amp; Arts">
-    <title lang="es">Moliére</title>
-    <title lang="en">Molière</title>
-    <desc lang="es">Molière, de veintidos años, es un actor sin éxito con una compañía de teatro en bancarrota. Por sus deudas es encarcelado, pero, al salir, desaparece para vivir nuevas experiencias que lo convertirán en un gran dramaturgo.</desc>
-    <date>2007</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_moliere-2007_l_m.jpg"/>
-    <star-rating>
-      <value>1/10</value>
-    </star-rating>
+  <programme start="20240507130000 +0200" stop="20240507133000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240506190000 +0200" stop="20240506204500 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507133000 +0200" stop="20240507140000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240507140000 +0200" stop="20240507143000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240507143000 +0200" stop="20240507150000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240507150000 +0200" stop="20240507153000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240507153000 +0200" stop="20240507160000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_m.jpg"/>
+  </programme>
+  <programme start="20240507160000 +0200" stop="20240507174500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Un hombre molesto</title>
     <title lang="en">Den Brysomme Mannen</title>
     <desc lang="es">Andreas, sin saber cómo, acaba de llegar a una extraña ciudad. Tiene trabajo, casa e incluso esposa, pero nota que algo no va bien: la gente que lo rodea parece vacía y superficial, y sus intentos de escapar son en vano.</desc>
@@ -35326,37 +35368,37 @@
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
   </programme>
-  <programme start="20240506204500 +0200" stop="20240506215000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507174500 +0200" stop="20240507185000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Gesualdo: madrigales y muerte</title>
     <desc lang="es">Carlo Gesualdo, asesino y compositor divino, está atormentado por el espantoso acto que cometió en 1590. A partir de esta secuencia inicial, el documental cuenta la historia de este personaje extraordinario.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240506215000 +0200" stop="20240506225000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507185000 +0200" stop="20240507195000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Miss Scarlet and the Duke</title>
     <sub-title lang="es">Memento Mori</sub-title>
     <desc lang="es">Eliza es contratada por un fotógrafo de la muerte, que recibe mensajes extraños y amenazantes desde más allá de la tumba.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20240506225000 +0200" stop="20240507020000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507195000 +0200" stop="20240507230000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Moliére</title>
     <title lang="en">Molière</title>
     <desc lang="es">Molière, de veintidos años, es un actor sin éxito con una compañía de teatro en bancarrota. Por sus deudas es encarcelado, pero, al salir, desaparece para vivir nuevas experiencias que lo convertirán en un gran dramaturgo.</desc>
     <date>2007</date>
     <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_moliere-2007_l_m.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_moliere-2007_l_m.jpg"/>
     <star-rating>
       <value>1/10</value>
     </star-rating>
   </programme>
-  <programme start="20240507020000 +0200" stop="20240507032000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240507230000 +0200" stop="20240508002000 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Zurbarán y sus doce hijos</title>
     <desc lang="es">El viaje alrededor del mundo de la serie de Zurbarán 'Jacob y sus doce hijos' sirve de hilo conductor para adentrarnos en la vida y la obra de uno de los titanes del barroco español, a la vez que descubrimos la historia de esta serie.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240507032000 +0200" stop="20240508032000 +0200" channel="MX | Film &amp; Arts">
+  <programme start="20240508002000 +0200" stop="20240508020500 +0200" channel="MX | Film &amp; Arts">
     <title lang="es">Michelangelo infinito</title>
     <desc lang="es">La historia del genio del Renacimiento, Michelangelo Buonarotti. Un hombre reservado con marcados contrastes y de fuertes pasiones que sostuvo sus creencias.</desc>
     <date>2017</date>
@@ -35365,6 +35407,20 @@
     <star-rating>
       <value>2/10</value>
     </star-rating>
+  </programme>
+  <programme start="20240508020500 +0200" stop="20240508030000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Agatha Christie's Hjerson</title>
+    <sub-title lang="es">Metamorfosis - Parte 1</sub-title>
+    <desc lang="es">Un actor de renombre muere a tiros con balas reales en el rodaje de una película en Aland. Klara intenta involucrar a Hjerson en el caso, pero él está demasiado ocupado indagando en su pasado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20240508030000 +0200" stop="20240508040000 +0200" channel="MX | Film &amp; Arts">
+    <title lang="es">Miss Scarlet and the Duke</title>
+    <sub-title lang="es">Celda 99</sub-title>
+    <desc lang="es">El libro de casos de Henry Scarlet, conduce a Eliza a una prisión abandonada en las afueras de Londres. Ella y Duke investigan lo que parece un edificio vacío, pero pronto descubren que es el escondite de una banda criminal.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
   <programme start="20240505045700 +0200" stop="20240505055000 +0200" channel="MX | History">
     <title lang="es">Lo mejor de El precio de la historia</title>
