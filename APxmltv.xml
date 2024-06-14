@@ -28,8 +28,8 @@
     <display-name lang="es">CH | CHILEVISION SD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
   </channel>
-  <channel id="CH | MEGA FHD">
-    <display-name lang="es">CH | MEGA FHD</display-name>
+  <channel id="CH | MEGA - FHD">
+    <display-name lang="es">CH | MEGA - FHD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
   </channel>
   <channel id="CH | MEGA HD - www.tonycasino.bet">
@@ -1470,193 +1470,193 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_m.jpg"/>
   </programme>
-  <programme start="20240614044000 +0200" stop="20240614053000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614044000 +0200" stop="20240614053000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Como la vida misma</title>
     <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.265.</episode-num>
   </programme>
-  <programme start="20240614053000 +0200" stop="20240614063000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614053000 +0200" stop="20240614063000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Seyran y Ferit</title>
     <desc lang="es">Ferit es obligado a casarse con una joven. Pero él, además de ser rico, vive una vida sin restricciones ni obligaciones. ¿La vida matrimonial cambiará sus hábitos? ¿Y cómo será aceptado un hombre así por una esposa de buen corazón?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.165.</episode-num>
   </programme>
-  <programme start="20240614063000 +0200" stop="20240614073000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614063000 +0200" stop="20240614073000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Secretos de sangre</title>
     <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.265.</episode-num>
   </programme>
-  <programme start="20240614073000 +0200" stop="20240614081500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614073000 +0200" stop="20240614081500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Como la vida misma</title>
     <desc lang="es">La serie cuenta la historia de Sole y Alonso, dos adultos de más de 40 años que están separados, pero que luego de sus respectivos distanciamientos amorosos no han logrado rehacer sus vidas. Ambos tendrán la tarea de fusionar sus familias.</desc>
     <category lang="es">Romántica</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240614081500 +0200" stop="20240614110000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614081500 +0200" stop="20240614110000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias</title>
     <desc lang="es">Toda la información de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240614110000 +0200" stop="20240614120000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614110000 +0200" stop="20240614120000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Oye</title>
     <desc lang="es">Programa de música junto a Francisca Gómez.</desc>
     <category lang="es">Musical</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240614120000 +0200" stop="20240614140000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614120000 +0200" stop="20240614140000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias amanece</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240614140000 +0200" stop="20240614180000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614140000 +0200" stop="20240614180000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Mucho gusto</title>
     <desc lang="es">Un programa que se encarga de llevar información y entretenimiento de una manera muy alegre a los hogares chilenos. El conductor José Antonio Neme reúne un panel de expertos para debatir los hechos más destacados de la actualidad.</desc>
     <category lang="es">Magazine</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_mucho-gusto_l_m.jpg"/>
   </programme>
-  <programme start="20240614180000 +0200" stop="20240614210000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614180000 +0200" stop="20240614210000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias alerta</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
   </programme>
-  <programme start="20240614210000 +0200" stop="20240614210500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614210000 +0200" stop="20240614210500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
     <category lang="es">Clima</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240614210500 +0200" stop="20240614214500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614210500 +0200" stop="20240614214500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Juego de Ilusiones</title>
     <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.359.</episode-num>
   </programme>
-  <programme start="20240614214500 +0200" stop="20240614222000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614214500 +0200" stop="20240614222000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Juego de Ilusiones</title>
     <desc lang="es">La vida de Mariana Nazir cambia radicalmente cuando descubre la infidelidad de su marido con su mejor amiga.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.360.</episode-num>
   </programme>
-  <programme start="20240614222000 +0200" stop="20240615000000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240614222000 +0200" stop="20240615000000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Secretos de sangre</title>
     <desc lang="es">Ilgaz y Ceylin son dos desconocidos cuyos caminos se cruzan para siempre de manera inesperada. Surge a raíz de un asesinato, a partir del cual empezarán a trabajar juntos para dar con el culpable.</desc>
     <category lang="es">Policial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615000000 +0200" stop="20240615010000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615000000 +0200" stop="20240615010000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Papá en apuros</title>
     <desc lang="es">Martín Seminario, un estricto capitán de fragata de la Marina, es viudo y padre de cuatro hijos. Su vida colapsa cuando cae en la cuenta de que no está preparado para criar a sus hijos solo y que ellos necesitan una madre.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.103.</episode-num>
   </programme>
-  <programme start="20240615010000 +0200" stop="20240615014500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615010000 +0200" stop="20240615014500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Resumen Seyran y Ferit</title>
     <desc lang="es">Ferit, hijo de una familia adinerada, es famoso por su libertinaje. Su abuelo toma la decisión de casarlo con una muchacha de una familia cercana, pero ninguno de los jóvenes se conoce y deben aprender a convivir juntos.</desc>
     <category lang="es">Romántica</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615014500 +0200" stop="20240615040000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615014500 +0200" stop="20240615040000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Argentina vs. Guatemala</title>
     <desc lang="es">Disfruta de los mejores partidos amistosos internacionales.</desc>
     <category lang="es">Amistoso internacional</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615040000 +0200" stop="20240615043000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615040000 +0200" stop="20240615043000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias Prime</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_m.jpg"/>
   </programme>
-  <programme start="20240615043000 +0200" stop="20240615064500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615043000 +0200" stop="20240615064500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
     <category lang="es">Clima</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240615064500 +0200" stop="20240615074500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615064500 +0200" stop="20240615074500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Ruta verde</title>
     <sub-title lang="es">Cariño de raíz</sub-title>
     <desc lang="es">En cada capítulo, Tita Ureta junto a Eliseo Salazar irán en busca de aquellos que están luchando por hacer del planeta un mejor lugar donde vivir.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.42.</episode-num>
   </programme>
-  <programme start="20240615074500 +0200" stop="20240615133000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615074500 +0200" stop="20240615133000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias</title>
     <desc lang="es">Toda la información de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615133000 +0200" stop="20240615143000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615133000 +0200" stop="20240615143000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Ruta verde</title>
     <sub-title lang="es">Comer, amar y cuidar</sub-title>
     <desc lang="es">En cada capítulo, Tita Ureta junto a Eliseo Salazar irán en busca de aquellos que están luchando por hacer del planeta un mejor lugar donde vivir.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.32.</episode-num>
   </programme>
-  <programme start="20240615143000 +0200" stop="20240615190000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615143000 +0200" stop="20240615190000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias alerta</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
   </programme>
-  <programme start="20240615190000 +0200" stop="20240615204000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615190000 +0200" stop="20240615204000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias actualiza</title>
     <desc lang="es">Las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-actualiza-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615204000 +0200" stop="20240615214500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615204000 +0200" stop="20240615214500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Nuestras fiestas</title>
     <sub-title lang="es">Quillón vendimia</sub-title>
     <desc lang="es">Programa que aborda distintas festividades en territorio nacional.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20240615214500 +0200" stop="20240615224500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615214500 +0200" stop="20240615224500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Picadas con Koke Santa Ana</title>
     <sub-title lang="es">Ruta japonesa</sub-title>
     <desc lang="es">El animador Koke Santa Ana llegó hasta la ciudad de Antofagasta, ubicada en el Norte de Chile para mostrar las mejores picadas de comidas junto al experto Pablo Godoy con quien disfrutó de unos maricos y pescados recién salidos del mar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20240615224500 +0200" stop="20240616010000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240615224500 +0200" stop="20240616010000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Colombia vs. Bolivia</title>
     <desc lang="es">Disfruta de los mejores partidos amistosos internacionales.</desc>
     <category lang="es">Amistoso internacional</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616010000 +0200" stop="20240616013000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240616010000 +0200" stop="20240616013000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Tesoros de mi barrio</title>
     <sub-title lang="es">Joaquín / Cajón del Maipo</sub-title>
     <desc lang="es">Nuevo segmento que promete entretener las tardes resaltando lo más característico de lugares emblemáticos con la conducción de Joaquín Méndez y María José Quintanilla. Paseos, comercios y los pecualiares personajes que exhibe cada barrio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20240616013000 +0200" stop="20240616020000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240616013000 +0200" stop="20240616020000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Tesoros de mi barrio</title>
     <sub-title lang="es">Ma j. Quintanilla / Peñaflor</sub-title>
     <desc lang="es">Nuevo segmento que promete entretener las tardes resaltando lo más característico de lugares emblemáticos con la conducción de Joaquín Méndez y María José Quintanilla. Paseos, comercios y los pecualiares personajes que exhibe cada barrio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
-  <programme start="20240616020000 +0200" stop="20240616043000 +0200" channel="CH | MEGA FHD">
+  <programme start="20240616020000 +0200" stop="20240616043000 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Meganoticias Prime</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_m.jpg"/>
   </programme>
-  <programme start="20240616043000 +0200" stop="20240616043500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240616043000 +0200" stop="20240616043500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
     <category lang="es">Clima</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240616043500 +0200" stop="20240617043500 +0200" channel="CH | MEGA FHD">
+  <programme start="20240616043500 +0200" stop="20240617043500 +0200" channel="CH | MEGA - FHD">
     <title lang="es">Bajo el mismo techo</title>
     <sub-title lang="es">Familia Cumbia / Valparaíso</sub-title>
     <desc lang="es">El periodista Rodrigo Sepúlveda conocerá a una nueva familia, con la que compartirá su día a día. El público podrá ser parte de ese viaje íntimo en el que el conductor podrá ser parte de los momentos clave en la historia de cada grupo.</desc>
