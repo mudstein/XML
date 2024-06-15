@@ -268,24 +268,24 @@
     <display-name lang="es">CANAL 13 CHILE CL</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
   </channel>
-  <channel id="CHILE | Canal 13 SD">
-    <display-name lang="es">CHILE | Canal 13 SD</display-name>
+  <channel id="CHILE  | Canal 13 SD">
+    <display-name lang="es">CHILE  | Canal 13 SD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
   </channel>
-  <channel id="CHILE | Chilevision">
-    <display-name lang="es">CHILE | Chilevision</display-name>
+  <channel id="CHILE  | Chilevision">
+    <display-name lang="es">CHILE  | Chilevision</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
   </channel>
-  <channel id="CHILE | Mega FHD">
-    <display-name lang="es">CHILE | Mega FHD</display-name>
+  <channel id="CHILE  | Mega FHD">
+    <display-name lang="es">CHILE  | Mega FHD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
   </channel>
-  <channel id="CHILE | Teletrak chile">
-    <display-name lang="es">CHILE | Teletrak chile</display-name>
+  <channel id="CHILE  | Teletrak chile">
+    <display-name lang="es">CHILE  | Teletrak chile</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png"/>
   </channel>
-  <channel id="CHILE | TVN HD">
-    <display-name lang="es">CHILE | TVN HD</display-name>
+  <channel id="CHILE  | TVN HD">
+    <display-name lang="es">CHILE  | TVN HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
   </channel>
   <channel id="Chile | CANAL 13 C HD">
@@ -17584,13 +17584,13 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
   </programme>
-  <programme start="20240615042000 +0200" stop="20240615060500 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615042000 +0200" stop="20240615060500 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">¡Qué dice Chile!</title>
     <desc lang="es">Dos grupos de cuatro personas compiten entre sí para nombrar las respuestas más populares de una encuesta con el fin de ganar un premio en dinero. El programa cuenta con un público que participa en vivo y enviando preguntas.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615060500 +0200" stop="20240615085000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615060500 +0200" stop="20240615085000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Apuesta maestra</title>
     <title lang="en">Molly's Game</title>
     <desc lang="es">Luego de que un accidente le impida competir en las olimpiadas, Molly Bloom se va a Los Ángeles y se convierte en la anfitriona del juego de póquer más exclusivo del mundo, con importantes personalidades del arte y los negocios.</desc>
@@ -17601,44 +17601,44 @@
       <value>5/10</value>
     </star-rating>
   </programme>
-  <programme start="20240615085000 +0200" stop="20240615095000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615085000 +0200" stop="20240615095000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">La ley y el orden: UVE</title>
     <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.</desc>
     <category lang="es">Policial</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_la-ley-y-el-orden-uve_l_m.jpg"/>
   </programme>
-  <programme start="20240615095000 +0200" stop="20240615130000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615095000 +0200" stop="20240615130000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">T13 en vivo informa</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas, reporteros y expertos analizan los acontecimientos diarios para que el público se informe al completo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_t13-en-vivo-informa_l_m.jpg"/>
   </programme>
-  <programme start="20240615130000 +0200" stop="20240615140000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615130000 +0200" stop="20240615140000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Tiempos de barrio</title>
     <sub-title lang="es">Valparaíso y Persa Bío Bío</sub-title>
     <desc lang="es">Loreto Aravena visita distintos lugares de la capital y recorre lugares donde los vecinos estuvieron encerrados y desconectados por meses debido a la pandemia.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20240615140000 +0200" stop="20240615165000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615140000 +0200" stop="20240615165000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Teletrece a la hora</title>
     <desc lang="es">Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-a-la-hora_l_m.jpg"/>
   </programme>
-  <programme start="20240615165000 +0200" stop="20240615190000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615165000 +0200" stop="20240615190000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Las copas del 13</title>
     <desc lang="es">Programa que transmite los partidos más destacados de la Copa América. Los profesionales más reconocidos del mundo futbolístico comparten resultados, realizan análisis de cada juejo y del desempeño de los deportistas de cada selección.</desc>
     <category lang="es">Las copas del 13</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615190000 +0200" stop="20240615203000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615190000 +0200" stop="20240615203000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Teletrece tarde</title>
     <desc lang="es">Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-tarde_l_m.jpg"/>
   </programme>
-  <programme start="20240615203000 +0200" stop="20240615222500 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615203000 +0200" stop="20240615222500 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Capitán fantástico</title>
     <title lang="en">Captain Fantastic</title>
     <desc lang="es">Ben ha criado a sus seis hijos en los remotos bosques del Pacífico. Un día, la familia debe abandonar su estilo de vida y volver a la civilización. Adaptarse no será sencillo.</desc>
@@ -17649,122 +17649,122 @@
       <value>9/10</value>
     </star-rating>
   </programme>
-  <programme start="20240615222500 +0200" stop="20240616003000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240615222500 +0200" stop="20240616003000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Recomiendo Chile</title>
     <sub-title lang="es">Vicuña y Limarí</sub-title>
     <desc lang="es">Aporta una mirada moderna hacia la gastronomía tradicional de Chile, mostrando los aspectos más relevantes de su cocina y sabores, además de guiarte durante el proceso de preparación de diversos platillos tradicionales del país.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_recomiendo-chile-s00e06-futrono_l_m.jpg"/>
     <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20240616003000 +0200" stop="20240616014000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240616003000 +0200" stop="20240616014000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Lugares que hablan</title>
     <sub-title lang="es">Maule</sub-title>
     <desc lang="es">Pancho Saavedra nos invita a viajar a su región natal, El Maule.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lugares-que-hablan-s11e06-maule_l_m.jpg"/>
     <episode-num system="xmltv_ns">10.5.</episode-num>
   </programme>
-  <programme start="20240616014000 +0200" stop="20240616024500 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240616014000 +0200" stop="20240616024500 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">El lugar donde crecí</title>
     <sub-title lang="es">Sebastián Ugarte</sub-title>
     <desc lang="es">Reconocidas figuras del espectáculo chileno muestran en qué rincón del país pasaron su infancia.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
-  <programme start="20240616024500 +0200" stop="20240616041000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240616024500 +0200" stop="20240616041000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Teletrece</title>
     <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
   </programme>
-  <programme start="20240616041000 +0200" stop="20240616042000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240616041000 +0200" stop="20240616042000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
     <category lang="es">Clima</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240616042000 +0200" stop="20240617042000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240616042000 +0200" stop="20240617042000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Lugares que hablan</title>
     <sub-title lang="es">Los ríos: la lucha de sus valles interiores</sub-title>
     <desc lang="es">Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lugares-que-hablan-s12e14_l_m.jpg"/>
     <episode-num system="xmltv_ns">11.13.</episode-num>
   </programme>
-  <programme start="20240617042000 +0200" stop="20240617060000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617042000 +0200" stop="20240617060000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Lugares que hablan</title>
     <sub-title lang="es">Los ríos: la lucha de sus valles interiores</sub-title>
     <desc lang="es">Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lugares-que-hablan-s12e14_l_m.jpg"/>
     <episode-num system="xmltv_ns">11.13.</episode-num>
   </programme>
-  <programme start="20240617060000 +0200" stop="20240617071000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617060000 +0200" stop="20240617071000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">El lugar donde crecí</title>
     <sub-title lang="es">Sebastián Ugarte</sub-title>
     <desc lang="es">Reconocidas figuras del espectáculo chileno muestran en qué rincón del país pasaron su infancia.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.11.</episode-num>
   </programme>
-  <programme start="20240617071000 +0200" stop="20240617081000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617071000 +0200" stop="20240617081000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Un hombre inocente</title>
     <desc lang="es">Kang Ma Roo es un hombre tan leal que para salvar a la mujer que ama se auto incrimina por un asesinato que no cometió, pero al darse cuenta que ha sido traicionado se convierte en un hombre frívolo que solo utiliza a las mujeres.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_un-hombre-inocente_l_m.jpg"/>
   </programme>
-  <programme start="20240617081000 +0200" stop="20240617091000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617081000 +0200" stop="20240617091000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">La ley y el orden: UVE</title>
     <desc lang="es">Los detectives de una nueva fuerza de elite, la Unidad de Víctimas Especiales, investigan y procesan crímenes de orientación sexual, mientras intentan balancear los efectos de la investigación en sus propias vidas.</desc>
     <category lang="es">Policial</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_la-ley-y-el-orden-uve_l_m.jpg"/>
   </programme>
-  <programme start="20240617091000 +0200" stop="20240617133000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617091000 +0200" stop="20240617133000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">T13 en vivo informa</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas, reporteros y expertos analizan los acontecimientos diarios para que el público se informe al completo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_t13-en-vivo-informa_l_m.jpg"/>
   </programme>
-  <programme start="20240617133000 +0200" stop="20240617140000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617133000 +0200" stop="20240617140000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Santa Misa</title>
     <desc lang="es">La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
     <category lang="es">Religioso</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_santa-misa_l_m.jpg"/>
   </programme>
-  <programme start="20240617140000 +0200" stop="20240617150000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617140000 +0200" stop="20240617150000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Travesía 13C</title>
     <desc lang="es">Disfruta de un interesante recorrido donde conocerás a gente especial y verás las costumbres de nuestro país desde otra mirada. Aprendamos de la cultura y sus mejores programas por las pantallas del 13.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_travesia-13c_l_m.jpg"/>
   </programme>
-  <programme start="20240617150000 +0200" stop="20240617160000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617150000 +0200" stop="20240617160000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Ruta 5</title>
     <sub-title lang="es">Volcán Lonquimay</sub-title>
     <desc lang="es">Claudio Iturra llegó hasta la Región de la Araucanía donde hizo rafting y subió a la cima del volcán Lonquimay.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_ruta-5-s02e11-volcan-lonquimay_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20240617160000 +0200" stop="20240617170000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617160000 +0200" stop="20240617170000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Teletrece a la hora</title>
     <desc lang="es">Un espacio que ofrece toda la información actual de lo que ocurre a nivel nacional e internacional.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-a-la-hora_l_m.jpg"/>
   </programme>
-  <programme start="20240617170000 +0200" stop="20240617190000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617170000 +0200" stop="20240617190000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Mesa central</title>
     <desc lang="es">Una propuesta que busca generar conversaciones a través del análisis de la contingencia, entrevistas, un rat pack con reporteros que aportarán información dura y golpeadora, y un panel de debate y conversación.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_mesa-central_l_m.jpg"/>
   </programme>
-  <programme start="20240617190000 +0200" stop="20240617203000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617190000 +0200" stop="20240617203000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Teletrece tarde</title>
     <desc lang="es">Cuando ya ha terminado la mañana, este informativo presenta las informaciones más importantes que están en desarrollo, con móviles en directo y comentarios que dan más contexto a la jornada.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece-tarde_l_m.jpg"/>
   </programme>
-  <programme start="20240617203000 +0200" stop="20240617223500 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617203000 +0200" stop="20240617223500 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Generación dorada</title>
     <desc lang="es">Serie documental que aborda los mejores momentos de la selección chilena en los Mundiales de la FIFA de los últimos años, incluyendo Francia 1998, Sudáfrica 2010 y Brasil 2014.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_generacion-dorada_l_m.jpg"/>
   </programme>
-  <programme start="20240617223500 +0200" stop="20240618010000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240617223500 +0200" stop="20240618010000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Yo, robot</title>
     <title lang="en">I, Robot</title>
     <desc lang="es">En el año 2035, los robots son un elemento más de la casa y todo el mundo confía en ellos, excepto un detective que está investigando lo que él cree que es un crimen perpetrado por un androide.</desc>
@@ -17775,635 +17775,635 @@
       <value>1/10</value>
     </star-rating>
   </programme>
-  <programme start="20240618010000 +0200" stop="20240618024500 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240618010000 +0200" stop="20240618024500 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Lugares que hablan</title>
     <sub-title lang="es">Los ríos: la lucha de sus valles interiores</sub-title>
     <desc lang="es">Francisco Saavedra realiza un viaje especial para conocer la geografía de Chile, su gente y sus tradiciones.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_lugares-que-hablan-s12e14_l_m.jpg"/>
     <episode-num system="xmltv_ns">11.13.</episode-num>
   </programme>
-  <programme start="20240618024500 +0200" stop="20240618041000 +0200" channel="CHILE | Canal 13 SD">
+  <programme start="20240618024500 +0200" stop="20240618041000 +0200" channel="CHILE  | Canal 13 SD">
     <title lang="es">Teletrece</title>
     <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_teletrece_l_m.jpg"/>
   </programme>
-  <programme start="20240615043000 +0200" stop="20240615070000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615043000 +0200" stop="20240615070000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">PH: Podemos hablar</title>
     <desc lang="es">Programa de conversación en donde seis personalidades de distintos ámbitos (político, actores, músicos deportistas, entre otros), convergen en un espacio físico donde intercambian opiniones y, el que se anima, sus experiencias personales.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_ph-podemos-hablar_l_m.jpg"/>
   </programme>
-  <programme start="20240615070000 +0200" stop="20240615093000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615070000 +0200" stop="20240615093000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Lo mejor de Got Talent</title>
     <desc lang="es">Programa de talentos y entretenimiento basado en la franquicia inglesa con más éxito a nivel mundial. Los concursantes deben mostrar sus habilidades frente a un jurado y un teatro repleto de público que alienta y acompaña cada performance.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615093000 +0200" stop="20240615120000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615093000 +0200" stop="20240615120000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Programación de trasnoche</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615120000 +0200" stop="20240615123000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615120000 +0200" stop="20240615123000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Tu hora Nick</title>
     <desc lang="es">Bloque de monitos de Nickelodeon</desc>
     <category lang="es">Infantil</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615123000 +0200" stop="20240615131500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615123000 +0200" stop="20240615131500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615131500 +0200" stop="20240615134500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615131500 +0200" stop="20240615134500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240615134500 +0200" stop="20240615143000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615134500 +0200" stop="20240615143000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615143000 +0200" stop="20240615190000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615143000 +0200" stop="20240615190000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">CHV Noticias AM - Fin de semana</title>
     <desc lang="es">Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615190000 +0200" stop="20240615204500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615190000 +0200" stop="20240615204500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">CHV Noticias tarde</title>
     <desc lang="es">La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-tarde_l_m.jpg"/>
   </programme>
-  <programme start="20240615204500 +0200" stop="20240615211500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615204500 +0200" stop="20240615211500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Yo vibro con la copa</title>
     <desc lang="es">Un nuevo programa para palpitar el campeonato más esperado del año: la Copa América. Toda la actualidad de los equipos que forman parte del torneo así como también entrevistas y los detalles descubiertos antes de la gran cuenta regresiva.</desc>
     <category lang="es">Yo vibro con la copa</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615211500 +0200" stop="20240616000000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240615211500 +0200" stop="20240616000000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.1356.</episode-num>
   </programme>
-  <programme start="20240616000000 +0200" stop="20240616023000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616000000 +0200" stop="20240616023000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.1357.</episode-num>
   </programme>
-  <programme start="20240616023000 +0200" stop="20240616070000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616023000 +0200" stop="20240616070000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">CHV Noticias central</title>
     <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_m.jpg"/>
   </programme>
-  <programme start="20240616070000 +0200" stop="20240616093000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616070000 +0200" stop="20240616093000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Divina comida de selección</title>
     <desc lang="es">Revivimos las mejores mesas en Divina Comida De Selección, un ciclo en el que cuatro famosos son anfitriones por una noche y preparan una cena (entrada, plato de fondo y postre) para los demás participantes.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616093000 +0200" stop="20240616120000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616093000 +0200" stop="20240616120000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Programación de trasnoche</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616120000 +0200" stop="20240616123000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616120000 +0200" stop="20240616123000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Tu hora Nick</title>
     <desc lang="es">Bloque de monitos de Nickelodeon</desc>
     <category lang="es">Infantil</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616123000 +0200" stop="20240616131500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616123000 +0200" stop="20240616131500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616131500 +0200" stop="20240616134500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616131500 +0200" stop="20240616134500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_m.jpg"/>
   </programme>
-  <programme start="20240616134500 +0200" stop="20240616143000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616134500 +0200" stop="20240616143000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616143000 +0200" stop="20240616190000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616143000 +0200" stop="20240616190000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">CHV Noticias AM - Fin de semana</title>
     <desc lang="es">Infórmate al minuto y en video con uno de los principales noticieros de Chile. Actualización constante de lo que sucede en el país y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616190000 +0200" stop="20240616204500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616190000 +0200" stop="20240616204500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">CHV Noticias tarde</title>
     <desc lang="es">La más completa información de los principales acontecimientos que están marcando la jornada, con despachos y móviles en directo desde el lugar de los hechos.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-tarde_l_m.jpg"/>
   </programme>
-  <programme start="20240616204500 +0200" stop="20240616211500 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616204500 +0200" stop="20240616211500 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Paris será una fiesta</title>
     <desc lang="es">Programa especial del departamento de deporte, anticipando los Juegos de Paris 2024, oficialmente conocidos como los Juegos de la XXXIII Olimpiada, previsto que sean un evento multideportivo internacional durante el verano europeo.</desc>
     <category lang="es">Especial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616211500 +0200" stop="20240617000000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240616211500 +0200" stop="20240617000000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.1358.</episode-num>
   </programme>
-  <programme start="20240617000000 +0200" stop="20240617023000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240617000000 +0200" stop="20240617023000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">Sabingo AM</title>
     <desc lang="es">Vamos en busca de emprendedores a lo largo de Chile, contamos historias humanas, notas de viajes, disfrutamos de comidas típicas y también de fiestas costumbristas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.1359.</episode-num>
   </programme>
-  <programme start="20240617023000 +0200" stop="20240617044000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240617023000 +0200" stop="20240617044000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">CHV Noticias central</title>
     <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chv-noticias-central_l_m.jpg"/>
   </programme>
-  <programme start="20240617044000 +0200" stop="20240618044000 +0200" channel="CHILE | Chilevision">
+  <programme start="20240617044000 +0200" stop="20240618044000 +0200" channel="CHILE  | Chilevision">
     <title lang="es">PH: Podemos hablar</title>
     <desc lang="es">Programa de conversación en donde seis personalidades de distintos ámbitos (político, actores, músicos deportistas, entre otros), convergen en un espacio físico donde intercambian opiniones y, el que se anima, sus experiencias personales.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_ph-podemos-hablar_l_m.jpg"/>
   </programme>
-  <programme start="20240615064500 +0200" stop="20240615074500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615064500 +0200" stop="20240615074500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Ruta verde</title>
     <sub-title lang="es">Cariño de raíz</sub-title>
     <desc lang="es">En cada capítulo, Tita Ureta junto a Eliseo Salazar irán en busca de aquellos que están luchando por hacer del planeta un mejor lugar donde vivir.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.42.</episode-num>
   </programme>
-  <programme start="20240615074500 +0200" stop="20240615133000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615074500 +0200" stop="20240615133000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias</title>
     <desc lang="es">Toda la información de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615133000 +0200" stop="20240615143000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615133000 +0200" stop="20240615143000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Ruta verde</title>
     <sub-title lang="es">Comer, amar y cuidar</sub-title>
     <desc lang="es">En cada capítulo, Tita Ureta junto a Eliseo Salazar irán en busca de aquellos que están luchando por hacer del planeta un mejor lugar donde vivir.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.32.</episode-num>
   </programme>
-  <programme start="20240615143000 +0200" stop="20240615190000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615143000 +0200" stop="20240615190000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias alerta</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
   </programme>
-  <programme start="20240615190000 +0200" stop="20240615204000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615190000 +0200" stop="20240615204000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias actualiza</title>
     <desc lang="es">Las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-actualiza-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615204000 +0200" stop="20240615214500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615204000 +0200" stop="20240615214500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Nuestras fiestas</title>
     <sub-title lang="es">Quillón vendimia</sub-title>
     <desc lang="es">Programa que aborda distintas festividades en territorio nacional.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20240615214500 +0200" stop="20240615224500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615214500 +0200" stop="20240615224500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Picadas con Koke Santa Ana</title>
     <sub-title lang="es">Ruta japonesa</sub-title>
     <desc lang="es">El animador Koke Santa Ana llegó hasta la ciudad de Antofagasta, ubicada en el Norte de Chile para mostrar las mejores picadas de comidas junto al experto Pablo Godoy con quien disfrutó de unos maricos y pescados recién salidos del mar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20240615224500 +0200" stop="20240616010000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240615224500 +0200" stop="20240616010000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Colombia vs. Bolivia</title>
     <desc lang="es">Disfruta de los mejores partidos amistosos internacionales.</desc>
     <category lang="es">Amistoso internacional</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616010000 +0200" stop="20240616013000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240616010000 +0200" stop="20240616013000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Tesoros de mi barrio</title>
     <sub-title lang="es">Joaquín / Cajón del Maipo</sub-title>
     <desc lang="es">Nuevo segmento que promete entretener las tardes resaltando lo más característico de lugares emblemáticos con la conducción de Joaquín Méndez y María José Quintanilla. Paseos, comercios y los pecualiares personajes que exhibe cada barrio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.14.</episode-num>
   </programme>
-  <programme start="20240616013000 +0200" stop="20240616020000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240616013000 +0200" stop="20240616020000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Tesoros de mi barrio</title>
     <sub-title lang="es">Ma j. Quintanilla / Peñaflor</sub-title>
     <desc lang="es">Nuevo segmento que promete entretener las tardes resaltando lo más característico de lugares emblemáticos con la conducción de Joaquín Méndez y María José Quintanilla. Paseos, comercios y los pecualiares personajes que exhibe cada barrio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.15.</episode-num>
   </programme>
-  <programme start="20240616020000 +0200" stop="20240616043000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240616020000 +0200" stop="20240616043000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias Prime</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_m.jpg"/>
   </programme>
-  <programme start="20240616043000 +0200" stop="20240616043500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240616043000 +0200" stop="20240616043500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">El tiempo</title>
     <desc lang="es">Presentamos un reporte que contiene detalles sobre el estatus del tiempo durante el día. Mantente sintonizado y entérate de los cambios ocurridos dentro del panorama climático.</desc>
     <category lang="es">Clima</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240616043500 +0200" stop="20240617043500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240616043500 +0200" stop="20240617043500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Bajo el mismo techo</title>
     <sub-title lang="es">Familia Cumbia / Valparaíso</sub-title>
     <desc lang="es">El periodista Rodrigo Sepúlveda conocerá a una nueva familia, con la que compartirá su día a día. El público podrá ser parte de ese viaje íntimo en el que el conductor podrá ser parte de los momentos clave en la historia de cada grupo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.20.</episode-num>
   </programme>
-  <programme start="20240617043500 +0200" stop="20240617054500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240617043500 +0200" stop="20240617054500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Bajo el mismo techo</title>
     <sub-title lang="es">Familia Cumbia / Valparaíso</sub-title>
     <desc lang="es">El periodista Rodrigo Sepúlveda conocerá a una nueva familia, con la que compartirá su día a día. El público podrá ser parte de ese viaje íntimo en el que el conductor podrá ser parte de los momentos clave en la historia de cada grupo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">1.20.</episode-num>
   </programme>
-  <programme start="20240617054500 +0200" stop="20240617071500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240617054500 +0200" stop="20240617071500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Megateleseries</title>
     <desc lang="es">Programa que recorre y recuerda las producciones más memorables de esta exitosa década. Se trata de un viaje a la nostalgia para preguntarse por qué ellas han dejado una huella indeleble en todos. En cada capítulo se revive una teleserie.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240617071500 +0200" stop="20240617130000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240617071500 +0200" stop="20240617130000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias</title>
     <desc lang="es">Toda la información de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240617130000 +0200" stop="20240617140000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240617130000 +0200" stop="20240617140000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Secretos urbanos</title>
     <sub-title lang="es">Sigrid Alegría</sub-title>
     <desc lang="es">Sigrid Alegría se sometieron al desafío de ver cuánto realmente saben de Santiago desde el parque La Familia ubicado en la comuna de Quinta Normal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_secretos-urbanos-s01e08-sigrid-alegria_l_m.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20240617140000 +0200" stop="20240617190000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240617140000 +0200" stop="20240617190000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias alerta</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-alerta_l_m.jpg"/>
   </programme>
-  <programme start="20240617190000 +0200" stop="20240618010000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240617190000 +0200" stop="20240618010000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias actualiza</title>
     <desc lang="es">Las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-actualiza-1_l_m.jpg"/>
   </programme>
-  <programme start="20240618010000 +0200" stop="20240618013000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240618010000 +0200" stop="20240618013000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias</title>
     <desc lang="es">Toda la información de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240618013000 +0200" stop="20240618023000 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240618013000 +0200" stop="20240618023000 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Mega Deportes</title>
     <desc lang="es">Rodrigo Sepúlveda y Gustavo Huerta presentan todos los goles del torneo nacional y el mejor análisis del deporte.</desc>
     <category lang="es">Mega Deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240618023000 +0200" stop="20240618043500 +0200" channel="CHILE | Mega FHD">
+  <programme start="20240618023000 +0200" stop="20240618043500 +0200" channel="CHILE  | Mega FHD">
     <title lang="es">Meganoticias Prime</title>
     <desc lang="es">Noticiero con las informaciones más relevantes de Chile y el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_meganoticias-prime_l_m.jpg"/>
   </programme>
-  <programme start="20240615050000 +0200" stop="20240615051500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615050000 +0200" stop="20240615051500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240615051500 +0200" stop="20240615060000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615051500 +0200" stop="20240615060000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 08/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-08-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615060000 +0200" stop="20240615064000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615060000 +0200" stop="20240615064000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615064000 +0200" stop="20240615070000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615064000 +0200" stop="20240615070000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <desc lang="es">Una ayuda para todos los amantes de la hípica, con una completa selección de cotejos registrados en horas de la mañana en La Palma. Los fanáticos de la hípica cuentan con un buen parámetro a la hora de determinar las opciones en carrera.</desc>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615070000 +0200" stop="20240615080000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615070000 +0200" stop="20240615080000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 12/06/24</title>
     <desc lang="es">Acontecer semanal del proceso generacional de caballos, con el análisis de las principales pruebas clásicas del selectivo. Notas, entrevistas y un completo resumen estadístico.</desc>
     <category lang="es">Futuros campeones</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-emision-del-dia-12-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615080000 +0200" stop="20240615084500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615080000 +0200" stop="20240615084500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 08/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-08-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615084500 +0200" stop="20240615093000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615084500 +0200" stop="20240615093000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615093000 +0200" stop="20240615103000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615093000 +0200" stop="20240615103000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Sello de raza</title>
     <desc lang="es">Espacio referido a diversos ámbitos del mundo ecuestre, con especial énfasis en la artesanía presente en el rodeo, además de una profunda visión a la crianza del caballo chileno, unidos los paisajes, cultura y tradición de este país.</desc>
     <category lang="es">- Emisión del día 09/06/24</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_sello-de-raza-emision-del-dia-09-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615103000 +0200" stop="20240615113000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615103000 +0200" stop="20240615113000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 10/06/24</title>
     <desc lang="es">Resumen semanal de los principales torneos de equitación en Chile, con notas y entrevistas a los protagonistas del mundo ecuestre.</desc>
     <category lang="es">Punto ecuestre</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-10-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615113000 +0200" stop="20240615115000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615113000 +0200" stop="20240615115000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240615115000 +0200" stop="20240615121500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615115000 +0200" stop="20240615121500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <desc lang="es">Una ayuda para todos los amantes de la hípica, con una completa selección de cotejos registrados en horas de la mañana en La Palma. Los fanáticos de la hípica cuentan con un buen parámetro a la hora de determinar las opciones en carrera.</desc>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615121500 +0200" stop="20240615130000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615121500 +0200" stop="20240615130000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615130000 +0200" stop="20240615140000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615130000 +0200" stop="20240615140000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 12/06/24</title>
     <desc lang="es">Acontecer semanal del proceso generacional de caballos, con el análisis de las principales pruebas clásicas del selectivo. Notas, entrevistas y un completo resumen estadístico.</desc>
     <category lang="es">Futuros campeones</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-emision-del-dia-12-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615140000 +0200" stop="20240615150000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615140000 +0200" stop="20240615150000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Vamos a la hípica</title>
     <desc lang="es">El clásico de la televisión hípica nacional, con la participación de una figura relevante del quehacer turístico, a través de una amena conversación.</desc>
     <category lang="es">Vamos a la hípica</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-vamos-a-la-hipica_l_m.jpg"/>
   </programme>
-  <programme start="20240615150000 +0200" stop="20240615154500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615150000 +0200" stop="20240615154500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 08/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-08-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615154500 +0200" stop="20240615160500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615154500 +0200" stop="20240615160500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <desc lang="es">Una ayuda para todos los amantes de la hípica, con una completa selección de cotejos registrados en horas de la mañana en La Palma. Los fanáticos de la hípica cuentan con un buen parámetro a la hora de determinar las opciones en carrera.</desc>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615160500 +0200" stop="20240615165000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615160500 +0200" stop="20240615165000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 08/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-08-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240615165000 +0200" stop="20240615173000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615165000 +0200" stop="20240615173000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <desc lang="es">Una ayuda para todos los amantes de la hípica, con una completa selección de cotejos registrados en horas de la mañana en La Palma. Los fanáticos de la hípica cuentan con un buen parámetro a la hora de determinar las opciones en carrera.</desc>
     <category lang="es">El cronómetro palmeño</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615173000 +0200" stop="20240615180000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615173000 +0200" stop="20240615180000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">La previa palmeña</title>
     <desc lang="es">Antesala al inicio de cada reunión de carreras en el Hipódromo Chile. Informe de los clásicos, preparativos y pronósticos de los posibles ganadores para cada competencia.</desc>
     <category lang="es">La previa palmeña</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-la-previa-palmena_l_m.jpg"/>
   </programme>
-  <programme start="20240615180000 +0200" stop="20240616031500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240615180000 +0200" stop="20240616031500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Carreras - Hipódromo Chile</title>
     <desc lang="es">Presencia las carreras de caballo más importantes efectuadas en el Hipódromo Chile, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejará el evento.</desc>
     <category lang="es">Carreras - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-carreras-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240616031500 +0200" stop="20240616041500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616031500 +0200" stop="20240616041500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Programación internacional Simulcasting</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_programacion-internacional-simulcasting_l_m.jpg"/>
   </programme>
-  <programme start="20240616041500 +0200" stop="20240616050000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616041500 +0200" stop="20240616050000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Compacto - Hipódromo Chile</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-hipodromo-chile-1_l_m.jpg"/>
   </programme>
-  <programme start="20240616050000 +0200" stop="20240616060000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616050000 +0200" stop="20240616060000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 08/06/24</title>
     <desc lang="es">Acontecer de los diversos ámbitos que conforman la hípica nacional e internacional, con notas, entrevistas y resumen de las últimas pruebas clásicas de los hipódromos nacionales.</desc>
     <category lang="es">Turf Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-emision-del-dia-08-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616060000 +0200" stop="20240616064500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616060000 +0200" stop="20240616064500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 15/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-15-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616064500 +0200" stop="20240616070000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616064500 +0200" stop="20240616070000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240616070000 +0200" stop="20240616074500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616070000 +0200" stop="20240616074500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616074500 +0200" stop="20240616080000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616074500 +0200" stop="20240616080000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240616080000 +0200" stop="20240616082000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616080000 +0200" stop="20240616082000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 13/06/24</title>
     <desc lang="es">Entérate de los principales acontecimientos que giran en torno al equipo de fútbol Concepción, con detalles de su participación en las diferentes jornadas del balompié y datos de interés que no te querrás perder.</desc>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-emision-del-dia-13-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616082000 +0200" stop="20240616090500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616082000 +0200" stop="20240616090500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 15/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-15-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616090500 +0200" stop="20240616095000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616090500 +0200" stop="20240616095000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616095000 +0200" stop="20240616100000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616095000 +0200" stop="20240616100000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240616100000 +0200" stop="20240616102000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616100000 +0200" stop="20240616102000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 13/06/24</title>
     <desc lang="es">Entérate de los principales acontecimientos que giran en torno al equipo de fútbol Concepción, con detalles de su participación en las diferentes jornadas del balompié y datos de interés que no te querrás perder.</desc>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-emision-del-dia-13-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616102000 +0200" stop="20240616110500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616102000 +0200" stop="20240616110500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 14/06/24</title>
     <category lang="es">Compacto - Club Hípico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-14-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616110500 +0200" stop="20240616111500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616110500 +0200" stop="20240616111500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240616111500 +0200" stop="20240616120000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616111500 +0200" stop="20240616120000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 15/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-15-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616120000 +0200" stop="20240616124000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616120000 +0200" stop="20240616124000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Héroes del pasto</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_heroes-del-pasto_l_m.jpg"/>
   </programme>
-  <programme start="20240616124000 +0200" stop="20240616130000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616124000 +0200" stop="20240616130000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 13/06/24</title>
     <desc lang="es">Entérate de los principales acontecimientos que giran en torno al equipo de fútbol Concepción, con detalles de su participación en las diferentes jornadas del balompié y datos de interés que no te querrás perder.</desc>
     <category lang="es">Compacto - Concepción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-emision-del-dia-13-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616130000 +0200" stop="20240616140000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616130000 +0200" stop="20240616140000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 12/06/24</title>
     <desc lang="es">Acontecer semanal del proceso generacional de caballos, con el análisis de las principales pruebas clásicas del selectivo. Notas, entrevistas y un completo resumen estadístico.</desc>
     <category lang="es">Futuros campeones</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-emision-del-dia-12-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616140000 +0200" stop="20240616150000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616140000 +0200" stop="20240616150000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 08/06/24</title>
     <desc lang="es">Acontecer de los diversos ámbitos que conforman la hípica nacional e internacional, con notas, entrevistas y resumen de las últimas pruebas clásicas de los hipódromos nacionales.</desc>
     <category lang="es">Turf Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_turf-emision-del-dia-08-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616150000 +0200" stop="20240616154500 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616150000 +0200" stop="20240616154500 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Emisión del día 15/06/24</title>
     <desc lang="es">Repasa las carreras de caballo más importantes efectuadas durante la jornada, y analiza junto con nuestros presentadores los resultados y las estadísticas que dejó el evento.</desc>
     <category lang="es">Compacto - Hipódromo Chile</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-emision-del-dia-15-06-24_l_m.jpg"/>
   </programme>
-  <programme start="20240616154500 +0200" stop="20240616190000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616154500 +0200" stop="20240616190000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Programación internacional Simulcasting</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_programacion-internacional-simulcasting_l_m.jpg"/>
   </programme>
-  <programme start="20240616190000 +0200" stop="20240617013000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240616190000 +0200" stop="20240617013000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Carreras Valparaíso Sporting</title>
     <desc lang="es">Apuesta en la quiniela y disfruta de este espacio que te trae todos los detalles de las carreras de caballos y competiciones hípicas.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_carreras-valparaiso-sporting_l_m.jpg"/>
   </programme>
-  <programme start="20240617013000 +0200" stop="20240617040000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240617013000 +0200" stop="20240617040000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Programación internacional Simulcasting</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_programacion-internacional-simulcasting_l_m.jpg"/>
   </programme>
-  <programme start="20240617040000 +0200" stop="20240617043000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240617040000 +0200" stop="20240617043000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Compacto - Valparaíso Sporting</title>
     <desc lang="es">Apuesta en la quiniela y disfruta de este espacio que te trae todos los detalles de las carreras de caballos y competiciones hípicas.</desc>
     <category lang="es">Compacto - Valparaíso Sporting</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_equitacion-compacto-valparaiso-sporting_l_m.jpg"/>
   </programme>
-  <programme start="20240617043000 +0200" stop="20240618043000 +0200" channel="CHILE | Teletrak chile">
+  <programme start="20240617043000 +0200" stop="20240618043000 +0200" channel="CHILE  | Teletrak chile">
     <title lang="es">Sello de raza</title>
     <desc lang="es">Espacio referido a diversos ámbitos del mundo ecuestre, con especial énfasis en la artesanía presente en el rodeo, además de una profunda visión a la crianza del caballo chileno, unidos los paisajes, cultura y tradición de este país.</desc>
     <category lang="es">Cultural</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_sello-de-raza_l_m.jpg"/>
   </programme>
-  <programme start="20240615043000 +0200" stop="20240615063000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615043000 +0200" stop="20240615063000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Ahora caigo</title>
     <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615063000 +0200" stop="20240615074500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615063000 +0200" stop="20240615074500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El día menos pensado</title>
     <desc lang="es">Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.</desc>
     <category lang="es">Terror</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-dia-menos-pensado_l_m.jpg"/>
   </programme>
-  <programme start="20240615074500 +0200" stop="20240615084500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615074500 +0200" stop="20240615084500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Dr. House</title>
     <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_dr-house_l_m.jpg"/>
   </programme>
-  <programme start="20240615084500 +0200" stop="20240615094500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615084500 +0200" stop="20240615094500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El cuento del tío</title>
     <desc lang="es">El conductor Carlos Pinto presenta recreaciones de casos de estafas ocurridos en Chile. Así el programa busca conscientizar para que el público no se deje engañar a la vez que se abordan situaciones dramáticas desde el humor.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615094500 +0200" stop="20240615104500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615094500 +0200" stop="20240615104500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El cuento del tío</title>
     <desc lang="es">El conductor Carlos Pinto presenta recreaciones de casos de estafas ocurridos en Chile. Así el programa busca conscientizar para que el público no se deje engañar a la vez que se abordan situaciones dramáticas desde el humor.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615104500 +0200" stop="20240615114500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615104500 +0200" stop="20240615114500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">La vida es una lotería</title>
     <desc lang="es">Conoce las historias reales de varios ganadores de Kino, Imán y Boleto Lotería y cómo la alegría que estos juegos de azar hacen que sus vidas cambien por completo.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_la-vida-es-una-loteria_l_m.jpg"/>
   </programme>
-  <programme start="20240615114500 +0200" stop="20240615120000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615114500 +0200" stop="20240615120000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Chile conectado</title>
     <desc lang="es">Espacio en el que te presentamos los mejores reportajes y notas del acontecer local de la gran mayoría de regiones chilenas, narrados por periodistas de cada uno de los territorios.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chile-conectado_l_m.jpg"/>
   </programme>
-  <programme start="20240615120000 +0200" stop="20240615121500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615120000 +0200" stop="20240615121500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Frutos del país</title>
     <desc lang="es">Un ciclo donde no sólo recorreremos las comarcas en busca de costumbres tradicionales, sino que también podremos ver las nuevas manifestaciones culturales que están dando vida a los campos y ciudades de este nuevo Chile.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_frutos-del-pais_l_m.jpg"/>
   </programme>
-  <programme start="20240615121500 +0200" stop="20240615125000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615121500 +0200" stop="20240615125000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Puertas abiertas</title>
     <desc lang="es">Uno de los espacios de orientación cristiana con mayor antigüedad, el cual te lleva un mensaje práctico y relevante acerca de la palabra de Dios.</desc>
     <category lang="es">Religioso</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_puertas-abiertas_l_m.jpg"/>
   </programme>
-  <programme start="20240615125000 +0200" stop="20240615134500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615125000 +0200" stop="20240615134500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Frutos del país</title>
     <desc lang="es">Un ciclo donde no sólo recorreremos las comarcas en busca de costumbres tradicionales, sino que también podremos ver las nuevas manifestaciones culturales que están dando vida a los campos y ciudades de este nuevo Chile.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_frutos-del-pais_l_m.jpg"/>
   </programme>
-  <programme start="20240615134500 +0200" stop="20240615153000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615134500 +0200" stop="20240615153000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Hermanos a la obra</title>
     <desc lang="es">Los hermanos Drew y Jonathan tienen como objetivo ayudar a las parejas a encontrar, comprar y transformar propiedades desastrosas en la casa de sus sueños. Ellos usan imágenes generadas por computadora para plasmar su visión del futuro.</desc>
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_hermanos-a-la-obra_l_m.jpg"/>
   </programme>
-  <programme start="20240615153000 +0200" stop="20240615163000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615153000 +0200" stop="20240615163000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Cuando habla el corazón</title>
     <desc lang="es">Miguel y Cecilia son hijos de un rico hacendero. Por su parte, Cruz es un niño huérfano y pobre. Los tres amigos crecerán juntos, encontrándose, ya de grandes, con una serie de problemas producidos por desamores y traiciones.</desc>
     <date>1943</date>
@@ -18413,7 +18413,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20240615163000 +0200" stop="20240615190000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615163000 +0200" stop="20240615190000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El patrullero 777</title>
     <desc lang="es">Diógenes vive siendo reprendido por su jefe, ya que acostumbra a resolver con métodos muy peculiares y poco ortodoxos los casos que se le asignan como vigilante de la ciudad de México.</desc>
     <date>1978</date>
@@ -18423,55 +18423,55 @@
       <value>5/10</value>
     </star-rating>
   </programme>
-  <programme start="20240615190000 +0200" stop="20240615210000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615190000 +0200" stop="20240615210000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">24 Tarde</title>
     <desc lang="es">El análisis de las informaciones más destacadas de Chile y el Mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_l_m.jpg"/>
   </programme>
-  <programme start="20240615210000 +0200" stop="20240615223000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615210000 +0200" stop="20240615223000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Había una vez</title>
     <desc lang="es">El Archivo del deporte para recordar diversos hechos deportivos que marcaron la historia de distintas disciplinas, repasando de paso los contextos sociales y culturales de las épocas en cuestión.</desc>
     <category lang="es">Había una vez</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-habia-una-vez_l_m.jpg"/>
   </programme>
-  <programme start="20240615223000 +0200" stop="20240615233000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615223000 +0200" stop="20240615233000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Mi lugar en el mundo</title>
     <desc lang="es">Historias inspiradoras de jóvenes agentes de cambio que están construyendo el Chile del mañana.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615233000 +0200" stop="20240616003000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240615233000 +0200" stop="20240616003000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El hacedor de hambre patrimonial</title>
     <desc lang="es">Programa que nos lleva a descubrir productos propios de nuestro territorio, que marcan nuestra identidad.</desc>
     <category lang="es">Cultural</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616003000 +0200" stop="20240616013000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240616003000 +0200" stop="20240616013000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Selva viva</title>
     <desc lang="es">El entomólogo Alfredo Ugarte y el veterinario Felipe Sotomayor Sse internan en la selva del Perú, donde viven un mágico encuentro con su fauna y habitantes.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616013000 +0200" stop="20240616024500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240616013000 +0200" stop="20240616024500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">La odisea</title>
     <desc lang="es">Un grupo de siete aventureros nos mostrará los lugares más extremos y hermosos de la zona austral de Chile, en una travesía de 2.000 millas náuticas entre Puerto Montt y Puerto Williams.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_la-odisea_l_m.jpg"/>
   </programme>
-  <programme start="20240616024500 +0200" stop="20240616042000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240616024500 +0200" stop="20240616042000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">24 horas central</title>
     <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_m.jpg"/>
   </programme>
-  <programme start="20240616042000 +0200" stop="20240616042500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240616042000 +0200" stop="20240616042500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">TV Tiempo</title>
     <desc lang="es">El informe meteorológico de nuestro país y de Sudamérica, proyecciones y pronósticos avalados por la Dirección Meteorológica de Chile.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_tv-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240616042500 +0200" stop="20240617042500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240616042500 +0200" stop="20240617042500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Perdida</title>
     <title lang="en">Gone Girl</title>
     <desc lang="es">El día de su aniversario, Nick informa que su esposa ha desaparecido. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse, y su extraña conducta lo convierte en sospechoso.</desc>
@@ -18482,7 +18482,7 @@
       <value>1/10</value>
     </star-rating>
   </programme>
-  <programme start="20240617042500 +0200" stop="20240617072500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617042500 +0200" stop="20240617072500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Perdida</title>
     <title lang="en">Gone Girl</title>
     <desc lang="es">El día de su aniversario, Nick informa que su esposa ha desaparecido. Pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse, y su extraña conducta lo convierte en sospechoso.</desc>
@@ -18493,85 +18493,85 @@
       <value>1/10</value>
     </star-rating>
   </programme>
-  <programme start="20240617072500 +0200" stop="20240617082500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617072500 +0200" stop="20240617082500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Hora 25</title>
     <desc lang="es">Programa televisivo de cultura chileno con la participación de diversos panelistas pertenecientes al mundo artístico como críticos literarios, de espectáculos o arquitectos. En la actualidad, está conducido por la actriz Blanca Lewin.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240617082500 +0200" stop="20240617091500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617082500 +0200" stop="20240617091500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Dr. House</title>
     <desc lang="es">Un irreverente, controvertido y a la vez brillante médico, Gregory House, se especializa en diagnósticos y hace lo que sea necesario para resolver casos desconcertantes que vienen a él, con la ayuda de su equipo de doctores y su ingenio.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_dr-house_l_m.jpg"/>
   </programme>
-  <programme start="20240617091500 +0200" stop="20240617093000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617091500 +0200" stop="20240617093000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Informe final TV Tiempo</title>
     <desc lang="es">Sobre el final de la jornada, el informe del tiempo y los pronósticos climáticos para todo Chile en los próximas horas y días.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_informe-final-tv-tiempo_l_m.jpg"/>
   </programme>
-  <programme start="20240617093000 +0200" stop="20240617103000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617093000 +0200" stop="20240617103000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El día menos pensado</title>
     <desc lang="es">Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.</desc>
     <category lang="es">Terror</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-dia-menos-pensado_l_m.jpg"/>
   </programme>
-  <programme start="20240617103000 +0200" stop="20240617111500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617103000 +0200" stop="20240617111500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">El día menos pensado</title>
     <desc lang="es">Una producción que recrea historias atribuidas a sucesos paranormales, como encuentros con otras dimensiones y la vida después de la muerte.</desc>
     <category lang="es">Terror</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_el-dia-menos-pensado_l_m.jpg"/>
   </programme>
-  <programme start="20240617111500 +0200" stop="20240617120000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617111500 +0200" stop="20240617120000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Chile conectado</title>
     <desc lang="es">Espacio en el que te presentamos los mejores reportajes y notas del acontecer local de la gran mayoría de regiones chilenas, narrados por periodistas de cada uno de los territorios.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_chile-conectado_l_m.jpg"/>
   </programme>
-  <programme start="20240617120000 +0200" stop="20240617123000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617120000 +0200" stop="20240617123000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Santa Misa</title>
     <desc lang="es">La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
     <category lang="es">Religioso</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_santa-misa_l_m.jpg"/>
   </programme>
-  <programme start="20240617123000 +0200" stop="20240617133000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617123000 +0200" stop="20240617133000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Frutos del país</title>
     <desc lang="es">Un ciclo donde no sólo recorreremos las comarcas en busca de costumbres tradicionales, sino que también podremos ver las nuevas manifestaciones culturales que están dando vida a los campos y ciudades de este nuevo Chile.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_frutos-del-pais_l_m.jpg"/>
   </programme>
-  <programme start="20240617133000 +0200" stop="20240617140000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617133000 +0200" stop="20240617140000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Reporte agrícola</title>
     <desc lang="es">Espacio conducido por el periodista Jose Ignacio Atenas, que busca explorar cómo los campos chilenos enfrentan los desafíos climáticos que cambian día a día. Análisis, entrevistas con expertos, infomración y noticias actualizada para todos.</desc>
     <category lang="es">Agro</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240617140000 +0200" stop="20240617150000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617140000 +0200" stop="20240617150000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">¿Cuál es tu huella?</title>
     <desc lang="es">Este espacio tiene como objetivo motivar conductas que ayuden a mejorar las condiciones sociales y ambientales del planeta, incentivando a la sustentabilidad y a hacernos responsables de nuestro propio impacto en el medio ambiente.</desc>
     <category lang="es">Ecología</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_cual-es-tu-huella-1_l_m.jpg"/>
   </programme>
-  <programme start="20240617150000 +0200" stop="20240617170000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617150000 +0200" stop="20240617170000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">24 horas a la hora</title>
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-a-la-hora_l_m.jpg"/>
   </programme>
-  <programme start="20240617170000 +0200" stop="20240617190000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617170000 +0200" stop="20240617190000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Estado nacional</title>
     <desc lang="es">Espacio de actualidad y debate político, trasmitido cada domingo. Éste cuenta, cada semana, con uno o dos invitados que nos ayudaran a conocer lo que sucede en nuestro país.</desc>
     <category lang="es">Político</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_estado-nacional_l_m.jpg"/>
   </programme>
-  <programme start="20240617190000 +0200" stop="20240617203000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617190000 +0200" stop="20240617203000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">24 Tarde</title>
     <desc lang="es">El análisis de las informaciones más destacadas de Chile y el Mundo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-tarde_l_m.jpg"/>
   </programme>
-  <programme start="20240617203000 +0200" stop="20240617224000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617203000 +0200" stop="20240617224000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Junior</title>
     <desc lang="es">Arnold Schwarzenegger es un estrafalario científico que es sometido por su colega, Danny DeVito, para ser inseminado con esperma masculino y un óvulo para que un embarazo fecunde. La comedia tiene un humor ilimitado.</desc>
     <date>1994</date>
@@ -18581,7 +18581,7 @@
       <value>6/10</value>
     </star-rating>
   </programme>
-  <programme start="20240617224000 +0200" stop="20240618004500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240617224000 +0200" stop="20240618004500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Patch Adams</title>
     <desc lang="es">Hunter "Patch" Adams es un gran héroe que está decidido a convertirse en médico porque le gusta ayudar a la gente. Se aventuró donde ningún doctor lo hizo antes, usando el humor y los buenos sentimientos hacia sus pacientes.</desc>
     <date>1998</date>
@@ -18591,13 +18591,13 @@
       <value>7/10</value>
     </star-rating>
   </programme>
-  <programme start="20240618004500 +0200" stop="20240618024500 +0200" channel="CHILE | TVN HD">
+  <programme start="20240618004500 +0200" stop="20240618024500 +0200" channel="CHILE  | TVN HD">
     <title lang="es">Ahora caigo</title>
     <desc lang="es">Un único concursante se enfrenta a diez contrincantes, respondiendo preguntas con un poquito de ayuda en una lucha contrarreloj, donde deberá hacer lo posible por ganar y reclamar el millonario premio final.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240618024500 +0200" stop="20240618043000 +0200" channel="CHILE | TVN HD">
+  <programme start="20240618024500 +0200" stop="20240618043000 +0200" channel="CHILE  | TVN HD">
     <title lang="es">24 horas central</title>
     <desc lang="es">Noticiero central, con despachos en directo y corresponsalías en todo el mundo.</desc>
     <category lang="es">Noticiero</category>
