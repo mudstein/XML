@@ -100,8 +100,8 @@
     <display-name lang="es">AR | America TV SD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
   </channel>
-  <channel id="AR | Argentinisima HD">
-    <display-name lang="es">AR | Argentinisima HD</display-name>
+  <channel id="AR | Argentisima HD">
+    <display-name lang="es">AR | Argentisima HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png"/>
   </channel>
   <channel id="AR | C5N FHD">
@@ -112,8 +112,8 @@
     <display-name lang="es">=AR | C5N HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_c5n_m.png"/>
   </channel>
-  <channel id="AR | DEPORTV HD">
-    <display-name lang="es">=AR | DEPORTV HD</display-name>
+  <channel id="AR | DEPORTV  HD">
+    <display-name lang="es">=AR | DEPORTV  HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png"/>
   </channel>
   <channel id="AR | El trece HD">
@@ -127,6 +127,10 @@
   <channel id="AR | FOX SPORTS 2">
     <display-name lang="es">AR | FOX SPORTS 2</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"/>
+  </channel>
+  <channel id="AR | FOX SPORTS 3">
+    <display-name lang="es">AR | FOX SPORTS 3</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_fox-sports-3_m.png"/>
   </channel>
   <channel id="AR | FOX SPORTS PREMIUM SD">
     <display-name lang="es">AR | FOX SPORTS PREMIUM SD</display-name>
@@ -7043,117 +7047,117 @@
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240615050000 +0200" stop="20240615080000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615050000 +0200" stop="20240615080000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240615080000 +0200" stop="20240615110000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615080000 +0200" stop="20240615110000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240615110000 +0200" stop="20240615140000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615110000 +0200" stop="20240615140000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240615140000 +0200" stop="20240615170000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615140000 +0200" stop="20240615170000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240615170000 +0200" stop="20240615200000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615170000 +0200" stop="20240615200000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240615200000 +0200" stop="20240615230000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615200000 +0200" stop="20240615230000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240615230000 +0200" stop="20240616020000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240615230000 +0200" stop="20240616020000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616020000 +0200" stop="20240616050000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616020000 +0200" stop="20240616050000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616050000 +0200" stop="20240616080000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616050000 +0200" stop="20240616080000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616080000 +0200" stop="20240616110000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616080000 +0200" stop="20240616110000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616110000 +0200" stop="20240616140000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616110000 +0200" stop="20240616140000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616140000 +0200" stop="20240616170000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616140000 +0200" stop="20240616170000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616170000 +0200" stop="20240616200000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616170000 +0200" stop="20240616200000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616200000 +0200" stop="20240616230000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616200000 +0200" stop="20240616230000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240616230000 +0200" stop="20240617020000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240616230000 +0200" stop="20240617020000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617020000 +0200" stop="20240617050000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617020000 +0200" stop="20240617050000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617050000 +0200" stop="20240617080000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617050000 +0200" stop="20240617080000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617080000 +0200" stop="20240617110000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617080000 +0200" stop="20240617110000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617110000 +0200" stop="20240617140000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617110000 +0200" stop="20240617140000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617140000 +0200" stop="20240617170000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617140000 +0200" stop="20240617170000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617170000 +0200" stop="20240617200000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617170000 +0200" stop="20240617200000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617200000 +0200" stop="20240617230000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617200000 +0200" stop="20240617230000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
   </programme>
-  <programme start="20240617230000 +0200" stop="20240618020000 +0200" channel="AR | Argentinisima HD">
+  <programme start="20240617230000 +0200" stop="20240618020000 +0200" channel="AR | Argentisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_m.jpg"/>
@@ -7502,468 +7506,468 @@
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_duro-de-domar_l_m.jpg"/>
   </programme>
-  <programme start="20240615050000 +0200" stop="20240615060000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615050000 +0200" stop="20240615060000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Central</title>
     <desc lang="es">El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
     <category lang="es">DeporTV Central</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615060000 +0200" stop="20240615083000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615060000 +0200" stop="20240615083000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Argentina vs. México</title>
     <category lang="es">3er puesto</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615083000 +0200" stop="20240615090000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615083000 +0200" stop="20240615090000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Clásico rival</title>
     <desc lang="es">Este ciclo reconstruye, a partir de un formato de género "docu-reality", los grandes duelos dentro del universo deportivo que han hecho historia y que son actualmente reconocidos.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_clasico-rival_l_m.jpg"/>
   </programme>
-  <programme start="20240615090000 +0200" stop="20240615093000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615090000 +0200" stop="20240615093000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fútbol pasión</title>
     <desc lang="es">El reconocido escritor Eduardo Galeano comparte una de sus más grandes pasiones: el fútbol. Sus leyendas, tragedias y mitos, los mundiales, los jugadores, los entrenadores, los hinchas.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-pasion_l_m.jpg"/>
   </programme>
-  <programme start="20240615093000 +0200" stop="20240615103000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615093000 +0200" stop="20240615103000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Museo del TC</title>
     <desc lang="es">El Museo del Turismo Carretera es un congelador de recuerdos, donde se hace honor no sólo a los corredores que quedarán en los corazones de todos nosotros, sino también a sus equipos que hicieron posible la conquista de las pistas.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_museo-del-tc_l_m.jpg"/>
   </programme>
-  <programme start="20240615103000 +0200" stop="20240615110000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615103000 +0200" stop="20240615110000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Nuestro clásico</title>
     <desc lang="es">Dos equipos deportivos de una localidad compiten con su clásico rival. Conoceremos cuál es la disciplina más representativa y seguimos el entrenamiento y la preparación de los grupos.</desc>
     <category lang="es">Nuestro clásico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-nuestro-clasico_l_m.jpg"/>
   </programme>
-  <programme start="20240615110000 +0200" stop="20240615120000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615110000 +0200" stop="20240615120000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Central</title>
     <desc lang="es">El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
     <category lang="es">DeporTV Central</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615120000 +0200" stop="20240615130000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615120000 +0200" stop="20240615130000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fangio, viaje a la memoria</title>
     <sub-title lang="es">La consagración</sub-title>
     <desc lang="es">En 1951, el Chueco se consagra en el circuito de Pedralbes con su primer Campeonato Mundial, para desandar luego un cúmulo de lauros.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_fangio-viaje-a-la-memoria-s00e04-mas-alla-del-mito_l_m.jpg"/>
     <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20240615130000 +0200" stop="20240615133000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615130000 +0200" stop="20240615133000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">El centímetro de Fontanarrosa</title>
     <desc lang="es">Un novedoso formato que se propone perder el miedo a perder y aborda la idea del fracaso desde una nueva perspectiva. A través de anécdotas de consagrados deportistas y entrenadores, pensamos con humor el tema de la derrota.</desc>
     <category lang="es">Losers</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615133000 +0200" stop="20240615143000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615133000 +0200" stop="20240615143000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Equipo mixto</title>
     <sub-title lang="es">Giménez - Chediek</sub-title>
     <desc lang="es">Un inédito ciclo de entrevistas en el que personajes de mundos distintos, periodismo y deporte, comparten una conversación que les permitirá descubrir sus diferencias y sus puntos en común.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_equipo-mixto-s02e00-conte-schapiro_l_m.jpg"/>
     <episode-num system="xmltv_ns">1..</episode-num>
   </programme>
-  <programme start="20240615143000 +0200" stop="20240615150000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615143000 +0200" stop="20240615150000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Volverte a ver</title>
     <desc lang="es">La Generación Dorada de básquet llenó de gloria al deporte argentino y se convirtió en leyenda. Más de quince años después, aquellos héroes ya no son los mismos...</desc>
     <category lang="es">Volverte a ver</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-volverte-a-ver_l_m.jpg"/>
   </programme>
-  <programme start="20240615150000 +0200" stop="20240615160000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615150000 +0200" stop="20240615160000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Pablo Aimar</title>
     <desc lang="es">En un set único, intimista y con una mesa repleta de libros, el escritor Eduardo Sacheri recibe cada semana a destacadas personalidades del deporte argentino. La excusa: leer juntos un cuento o el fragmento de un libro..</desc>
     <category lang="es">Contar la vida</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-pablo-aimar_l_m.jpg"/>
   </programme>
-  <programme start="20240615160000 +0200" stop="20240615170000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615160000 +0200" stop="20240615170000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">TC en Rafaela</title>
     <desc lang="es">Viví todo lo que acontece en las prácticas de las mejores categorías del automovilismo nacional: Turismo Carretera, el TC Pista, el TC Mouras y el Turismo Nacional.</desc>
     <category lang="es">Entrenamientos - Automovilismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-tc-en-rafaela-5_l_m.jpg"/>
   </programme>
-  <programme start="20240615170000 +0200" stop="20240615173000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615170000 +0200" stop="20240615173000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Abriendo pista</title>
     <desc lang="es">Programa dedicado a la cobertura de los mejores #RallyRaid del mundo.</desc>
     <category lang="es">Abriendo pista</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615173000 +0200" stop="20240615183000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615173000 +0200" stop="20240615183000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fernando "Puma" Martinez</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615183000 +0200" stop="20240615190000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615183000 +0200" stop="20240615190000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Futsal</title>
     <desc lang="es">Dos equipos deportivos de una localidad compiten con su clásico rival. Conoceremos cuál es la disciplina más representativa y seguimos el entrenamiento y la preparación de los grupos.</desc>
     <category lang="es">Nuestro clásico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-futsal-1_l_m.jpg"/>
   </programme>
-  <programme start="20240615190000 +0200" stop="20240615200000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615190000 +0200" stop="20240615200000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Gamer</title>
     <desc lang="es">Toda la actualidad del gaming en Argentina.</desc>
     <category lang="es">DeporTV Gamer</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240615200000 +0200" stop="20240615223000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615200000 +0200" stop="20240615223000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">TC en Rafaela</title>
     <desc lang="es">Los pilotos corren la clasificación de las distintas categorías.</desc>
     <category lang="es">Clasificación - Automovilismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-tc-en-rafaela-4_l_m.jpg"/>
   </programme>
-  <programme start="20240615223000 +0200" stop="20240615233000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615223000 +0200" stop="20240615233000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Maratón Man</title>
     <sub-title lang="es">EE.UU, maratón del infierno en California / Estados Unidos, vaqueros, indios y aliens en el desierto</sub-title>
     <desc lang="es">Raúl Gómez es un runner que viaja por el mundo buscando las carreras más curiosas del planeta. Cada semana Maraton Man descubre países, convive con sus gentes y nos muestra apasionantes historias de superación personal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_maraton-man-s04e11-estados-unidos-maraton-del-infierno-en-california_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.10.</episode-num>
   </programme>
-  <programme start="20240615233000 +0200" stop="20240615234500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615233000 +0200" stop="20240615234500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Boca campeón de América: Riquelme hablando con Maradona y más - El Retrovisor - Cap. 10</title>
     <desc lang="es">Los inolvidables momentos que los ídolos y las ídolas del deporte argentino tuvieron en la historia de la televisión argentina.</desc>
     <category lang="es">El retrovisor</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-boca-campeon-de-america-riquelme-hablando-con-maradona-y-mas-el-retrovisor-cap-10_l_m.jpg"/>
   </programme>
-  <programme start="20240615234500 +0200" stop="20240616001500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240615234500 +0200" stop="20240616001500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">La mítica 40</title>
     <desc lang="es">Un grupo de ciclistas recorre el camino más emblemático de la geografía argentina, revelando sus secretos y sus paisajes más increíbles.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg"/>
     <episode-num system="xmltv_ns">.3.</episode-num>
   </programme>
-  <programme start="20240616001500 +0200" stop="20240616004500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616001500 +0200" stop="20240616004500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">El gran Willy</title>
     <desc lang="es">Una serie que homenajea al tenista argentino Guillermo Vilas, con imágenes de archivo y testimonios de periodistas especializados, entre ellos Eduardo Puppo, amigos y rivales del destacado deportista marplatense.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_el-gran-willy-s00e03_l_m.jpg"/>
     <episode-num system="xmltv_ns">.2.</episode-num>
   </programme>
-  <programme start="20240616004500 +0200" stop="20240616011500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616004500 +0200" stop="20240616011500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fernando Gago</title>
     <desc lang="es">En un set único, intimista y con una mesa repleta de libros, el escritor Eduardo Sacheri recibe cada semana a destacadas personalidades del deporte argentino. La excusa: leer juntos un cuento o el fragmento de un libro..</desc>
     <category lang="es">Contar la vida</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-fernando-gago_l_m.jpg"/>
   </programme>
-  <programme start="20240616011500 +0200" stop="20240616014500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616011500 +0200" stop="20240616014500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Psicología</title>
     <desc lang="es">Un gimnasio convertido en un laboratorio de pensamiento sobre el deporte. Martín Reich se sirve de dispositivos digitales y redes sociales para poner en crisis los grandes mitos del deporte nacional.</desc>
     <category lang="es">El observatorio</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-psicologia_l_m.jpg"/>
   </programme>
-  <programme start="20240616014500 +0200" stop="20240616020000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616014500 +0200" stop="20240616020000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">De clubes y potreros</title>
     <desc lang="es">Una serie de microprogramas animados que narra la historia de los clubes del fútbol argentino.</desc>
     <category lang="es">De clubes y potreros</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-de-clubes-y-potreros_l_m.jpg"/>
   </programme>
-  <programme start="20240616020000 +0200" stop="20240616030000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616020000 +0200" stop="20240616030000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Gamer</title>
     <desc lang="es">Toda la actualidad del gaming en Argentina.</desc>
     <category lang="es">DeporTV Gamer</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616030000 +0200" stop="20240616040000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616030000 +0200" stop="20240616040000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Julieta Puente</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616040000 +0200" stop="20240616044500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616040000 +0200" stop="20240616044500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">El cruce del plata</title>
     <desc lang="es">A lo largo de cien años, más de 500 nadadores han intentado cruzar el río más ancho del mundo. Este es el registro de los esfuerzos de estos deportistas que enfrentaron las imprevisibles aguas del Río de La Plata.</desc>
     <date>2022</date>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
   </programme>
-  <programme start="20240616044500 +0200" stop="20240616050000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616044500 +0200" stop="20240616050000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">HIPNÓTICO: Diego hace jueguito con lo que sea, Sabella, el Pocho y más</title>
     <desc lang="es">Los inolvidables momentos que los ídolos y las ídolas del deporte argentino tuvieron en la historia de la televisión argentina.</desc>
     <category lang="es">El retrovisor</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-hipnotico-diego-hace-jueguito-con-lo-que-sea-sabella-el-pocho-y-mas_l_m.jpg"/>
   </programme>
-  <programme start="20240616050000 +0200" stop="20240616070000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616050000 +0200" stop="20240616070000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">TC Mouras en La Plata</title>
     <desc lang="es">Los pilotos corren la clasificación de las distintas categorías.</desc>
     <category lang="es">Clasificación - Automovilismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-tc-mouras-en-la-plata-3_l_m.jpg"/>
   </programme>
-  <programme start="20240616070000 +0200" stop="20240616093000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616070000 +0200" stop="20240616093000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Australia vs. Japón</title>
     <category lang="es">Final</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616093000 +0200" stop="20240616103000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616093000 +0200" stop="20240616103000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Museo del TC</title>
     <desc lang="es">El Museo del Turismo Carretera es un congelador de recuerdos, donde se hace honor no sólo a los corredores que quedarán en los corazones de todos nosotros, sino también a sus equipos que hicieron posible la conquista de las pistas.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_museo-del-tc_l_m.jpg"/>
   </programme>
-  <programme start="20240616103000 +0200" stop="20240616110000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616103000 +0200" stop="20240616110000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Nuestro clásico</title>
     <desc lang="es">Dos equipos deportivos de una localidad compiten con su clásico rival. Conoceremos cuál es la disciplina más representativa y seguimos el entrenamiento y la preparación de los grupos.</desc>
     <category lang="es">Nuestro clásico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-nuestro-clasico_l_m.jpg"/>
   </programme>
-  <programme start="20240616110000 +0200" stop="20240616111500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616110000 +0200" stop="20240616111500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">El retrovisor</title>
     <desc lang="es">Los inolvidables momentos que los ídolos y las ídolas del deporte argentino tuvieron en la historia de la televisión argentina.</desc>
     <category lang="es">El retrovisor</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-el-retrovisor_l_m.jpg"/>
   </programme>
-  <programme start="20240616111500 +0200" stop="20240616140000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616111500 +0200" stop="20240616140000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Taekwondo Argentina Tour</title>
     <desc lang="es">Seguí toda la acción del mejor taekwondo nacional.</desc>
     <category lang="es">Taekwondo Argentina Tour</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-taekwondo-argentina-tour_l_m.jpg"/>
   </programme>
-  <programme start="20240616140000 +0200" stop="20240616150000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616140000 +0200" stop="20240616150000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Rafaela</title>
     <desc lang="es">Competición de automovilismo de velocidad creada en 2017 para reemplazar al campeonato conocido como la GP2 Series.</desc>
     <category lang="es">Fórmula 2</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616150000 +0200" stop="20240616151500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616150000 +0200" stop="20240616151500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">De clubes y potreros</title>
     <desc lang="es">Una serie de microprogramas animados que narra la historia de los clubes del fútbol argentino.</desc>
     <category lang="es">De clubes y potreros</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-de-clubes-y-potreros_l_m.jpg"/>
   </programme>
-  <programme start="20240616151500 +0200" stop="20240616154500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616151500 +0200" stop="20240616154500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Tabú</title>
     <desc lang="es">Un gimnasio convertido en un laboratorio de pensamiento sobre el deporte. Martín Reich se sirve de dispositivos digitales y redes sociales para poner en crisis los grandes mitos del deporte nacional.</desc>
     <category lang="es">El observatorio</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-tabu-1_l_m.jpg"/>
   </programme>
-  <programme start="20240616154500 +0200" stop="20240616161500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616154500 +0200" stop="20240616161500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Gimnasia aeróbica</title>
     <desc lang="es">Dos equipos deportivos de una localidad compiten con su clásico rival. Conoceremos cuál es la disciplina más representativa y seguimos el entrenamiento y la preparación de los grupos.</desc>
     <category lang="es">Nuestro clásico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-gimnasia-aerobica_l_m.jpg"/>
   </programme>
-  <programme start="20240616161500 +0200" stop="20240616170000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616161500 +0200" stop="20240616170000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Firpo vs. Dempsey - 100 años</title>
     <desc lang="es">El documental sobre la mítica pelea que convirtió a un criollo en monumento.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg"/>
   </programme>
-  <programme start="20240616170000 +0200" stop="20240616180000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616170000 +0200" stop="20240616180000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fernando "Puma" Martinez</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616180000 +0200" stop="20240616181500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616180000 +0200" stop="20240616181500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">El retrovisor</title>
     <desc lang="es">Los inolvidables momentos que los ídolos y las ídolas del deporte argentino tuvieron en la historia de la televisión argentina.</desc>
     <category lang="es">El retrovisor</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-el-retrovisor_l_m.jpg"/>
   </programme>
-  <programme start="20240616181500 +0200" stop="20240616184500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616181500 +0200" stop="20240616184500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Abriendo pista</title>
     <desc lang="es">Programa dedicado a la cobertura de los mejores #RallyRaid del mundo.</desc>
     <category lang="es">Abriendo pista</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616184500 +0200" stop="20240616194500 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616184500 +0200" stop="20240616194500 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Gamer</title>
     <desc lang="es">Toda la actualidad del gaming en Argentina.</desc>
     <category lang="es">DeporTV Gamer</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616194500 +0200" stop="20240616203000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616194500 +0200" stop="20240616203000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Instinto natural</title>
     <sub-title lang="es">Ironman 70,3 San Juan</sub-title>
     <desc lang="es">Deje que San Juan lo impresione con sus paisajes montañosos únicos, sus lagos cristalinos junto con una ciudad encantadora.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_instinto-natural-s04e03-ironman-70-3-san-juan_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.2.</episode-num>
   </programme>
-  <programme start="20240616203000 +0200" stop="20240616210000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616203000 +0200" stop="20240616210000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Colores del fútbol</title>
     <category lang="es">Colores del fútbol</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616210000 +0200" stop="20240616220000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616210000 +0200" stop="20240616220000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Maratón Man</title>
     <sub-title lang="es">Jamaica, el país de la velocidad</sub-title>
     <desc lang="es">Maraton Man llega a la capital de Jamaica para correr la maratón más popular del país. Allí conoce a una mujer que se ha convertido en ejemplo deportivo nacional. Luego, se hospeda en casa del hada madrina de un club de corredores.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_maraton-man-s05e03-jamaica-el-pais-de-la-velocidad_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.2.</episode-num>
   </programme>
-  <programme start="20240616220000 +0200" stop="20240616223000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616220000 +0200" stop="20240616223000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Abriendo pista</title>
     <desc lang="es">Programa dedicado a la cobertura de los mejores #RallyRaid del mundo.</desc>
     <category lang="es">Abriendo pista</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616223000 +0200" stop="20240616230000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616223000 +0200" stop="20240616230000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Luis Islas</title>
     <desc lang="es">Eduardo Sacheri recibe a un invitado con la excusa de leer juntos un cuento o el fragmento de un libro.</desc>
     <category lang="es">Contar la vida - Mundial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240616230000 +0200" stop="20240617000000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240616230000 +0200" stop="20240617000000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Textual</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617000000 +0200" stop="20240617010000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617000000 +0200" stop="20240617010000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">DeporTV Gamer</title>
     <desc lang="es">Toda la actualidad del gaming en Argentina.</desc>
     <category lang="es">DeporTV Gamer</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617010000 +0200" stop="20240617050000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617010000 +0200" stop="20240617050000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">TC en Rafaela</title>
     <desc lang="es">Vive junto a nosotros todo lo que acontece en las mejores categorías del automovilismo nacional: Turismo Carretera, el TC Pista, el TC Mouras y el Turismo Nacional.</desc>
     <category lang="es">Automovilismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-tc-en-rafaela-3_l_m.jpg"/>
   </programme>
-  <programme start="20240617050000 +0200" stop="20240617070000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617050000 +0200" stop="20240617070000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Argentina vs. Paraguay</title>
     <desc lang="es">Disfruta del amistoso internacional de la Selección Nacional de Futsal.</desc>
     <category lang="es">Amistoso internacional de futsal</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617070000 +0200" stop="20240617080000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617070000 +0200" stop="20240617080000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Capitanes</title>
     <desc lang="es">Entrevista a capitanes y ex capitanes que vistieron la casaca albiceleste en diversos deportes. Los temas abordados son múltiples: la trayectoria, sus comienzos, los éxitos y los fracasos, la primera capitanía, y su relación con el entorno.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_capitanes_l_m.jpg"/>
   </programme>
-  <programme start="20240617080000 +0200" stop="20240617083000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617080000 +0200" stop="20240617083000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Alma naranja</title>
     <desc lang="es">Una serie de 26 documentales sobre la historia, el presente y el futuro del Basquetbol Argentino, un juego popular y federal que ha dado verdadera gloria al deporte nacional.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_alma-naranja_l_m.jpg"/>
   </programme>
-  <programme start="20240617083000 +0200" stop="20240617090000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617083000 +0200" stop="20240617090000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Clásico rival</title>
     <desc lang="es">Este ciclo reconstruye, a partir de un formato de género "docu-reality", los grandes duelos dentro del universo deportivo que han hecho historia y que son actualmente reconocidos.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_clasico-rival_l_m.jpg"/>
   </programme>
-  <programme start="20240617090000 +0200" stop="20240617093000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617090000 +0200" stop="20240617093000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fútbol pasión</title>
     <desc lang="es">El reconocido escritor Eduardo Galeano comparte una de sus más grandes pasiones: el fútbol. Sus leyendas, tragedias y mitos, los mundiales, los jugadores, los entrenadores, los hinchas.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-pasion_l_m.jpg"/>
   </programme>
-  <programme start="20240617093000 +0200" stop="20240617103000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617093000 +0200" stop="20240617103000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Museo del TC</title>
     <desc lang="es">El Museo del Turismo Carretera es un congelador de recuerdos, donde se hace honor no sólo a los corredores que quedarán en los corazones de todos nosotros, sino también a sus equipos que hicieron posible la conquista de las pistas.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_museo-del-tc_l_m.jpg"/>
   </programme>
-  <programme start="20240617103000 +0200" stop="20240617110000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617103000 +0200" stop="20240617110000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Tierra de fanáticos</title>
     <desc lang="es">En las provincias argentinas existen fiestas del deporte en las que se imprime la identidad del lugar y de sus habitantes. Son lugares donde podemos apreciar el "afuera" y el "adentro" de cada disciplina deportiva.</desc>
     <category lang="es">Tierra de fanáticos</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-tierra-de-fanaticos_l_m.jpg"/>
   </programme>
-  <programme start="20240617110000 +0200" stop="20240617113000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617110000 +0200" stop="20240617113000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Liderazgo</title>
     <desc lang="es">Un gimnasio convertido en un laboratorio de pensamiento sobre el deporte. Martín Reich se sirve de dispositivos digitales y redes sociales para poner en crisis los grandes mitos del deporte nacional.</desc>
     <category lang="es">El observatorio</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-liderazgo_l_m.jpg"/>
   </programme>
-  <programme start="20240617113000 +0200" stop="20240617120000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617113000 +0200" stop="20240617120000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Un gol al arcoíris</title>
     <desc lang="es">Una serie documental que recorre los ámbitos futbolísticos donde aprenden a jugar los niños y las niñas, donde se relacionan con los adultos y aprenden a formar parte de un deporte colectivo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_un-gol-al-arcoiris-s00e06-1_l_m.jpg"/>
     <episode-num system="xmltv_ns">.5.</episode-num>
   </programme>
-  <programme start="20240617120000 +0200" stop="20240617123000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617120000 +0200" stop="20240617123000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Casetta 1 y 2</title>
     <desc lang="es">Programa que pone al alcance de los adultos mayores y público en general una serie de rutinas de entrenamiento y gimnasia para que puedan realizarlas en sus casas con sus propios objetos durante la cuarentena por la pandemia del COVID-19.</desc>
     <category lang="es">Movete Argentina</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-casetta-1-y-2_l_m.jpg"/>
   </programme>
-  <programme start="20240617123000 +0200" stop="20240617133000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617123000 +0200" stop="20240617133000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Maratón Man</title>
     <sub-title lang="es">Rumanía, carrera solidaria en Transilvania</sub-title>
     <desc lang="es">Raúl viaja a Rumanía, un país de leyendas y ciudades medievales, para correr una media maratón solidaria en la ciudad de Sibiú. En este viaje, visita la ciudad de Drácula y conoce a un atleta especial que trabaja con niños hospitalizados.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_maraton-man-s04e09-rumania-carrera-solidaria-en-transilvania_l_m.jpg"/>
     <episode-num system="xmltv_ns">3.8.</episode-num>
   </programme>
-  <programme start="20240617133000 +0200" stop="20240617140000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617133000 +0200" stop="20240617140000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Instantáneas</title>
     <desc lang="es">Un ciclo que rescata las fotos más emblemáticas del deporte, y pone en relieve los sentimientos capturados por las lentes de las cámaras.</desc>
     <category lang="es">- Revancha</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_instantaneas-revancha_l_m.jpg"/>
   </programme>
-  <programme start="20240617140000 +0200" stop="20240617143000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617140000 +0200" stop="20240617143000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Casetta 1 y 2</title>
     <desc lang="es">Programa que pone al alcance de los adultos mayores y público en general una serie de rutinas de entrenamiento y gimnasia para que puedan realizarlas en sus casas con sus propios objetos durante la cuarentena por la pandemia del COVID-19.</desc>
     <category lang="es">Movete Argentina</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-casetta-1-y-2_l_m.jpg"/>
   </programme>
-  <programme start="20240617143000 +0200" stop="20240617160000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617143000 +0200" stop="20240617160000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">CIDECO vs. Argentinos Jrs.</title>
     <desc lang="es">Los mejores jugadores argentinos se enfrentarán cada semana en un emocionante partido correspondiente al Torneo Metropolitano de Handball, donde nacen los futuros gladiadores.</desc>
     <category lang="es">Torneo Metropolitano de Handball</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_handball-cideco-vs-argentinos-jrs_l_m.jpg"/>
   </programme>
-  <programme start="20240617160000 +0200" stop="20240617170000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617160000 +0200" stop="20240617170000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Julieta Puente</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617170000 +0200" stop="20240617180000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617170000 +0200" stop="20240617180000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Fernando "Puma" Martinez</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617180000 +0200" stop="20240617190000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617180000 +0200" stop="20240617190000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Locomotora Oliveras</title>
     <desc lang="es">DEPORTV Textual es el nuevo programa de entrevistas en el que Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
     <category lang="es">DeporTV Textual</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617190000 +0200" stop="20240617200000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617190000 +0200" stop="20240617200000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Lescano / Rojas / Moreno</title>
     <desc lang="es">El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
     <category lang="es">DeporTV Central</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617200000 +0200" stop="20240617203000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617200000 +0200" stop="20240617203000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Volverte a ver</title>
     <desc lang="es">La Generación Dorada de básquet llenó de gloria al deporte argentino y se convirtió en leyenda. Más de quince años después, aquellos héroes ya no son los mismos...</desc>
     <category lang="es">Volverte a ver</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-volverte-a-ver_l_m.jpg"/>
   </programme>
-  <programme start="20240617203000 +0200" stop="20240617210000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617203000 +0200" stop="20240617210000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Natación</title>
     <desc lang="es">Dos equipos deportivos de una localidad compiten con su clásico rival. Conoceremos cuál es la disciplina más representativa y seguimos el entrenamiento y la preparación de los grupos.</desc>
     <category lang="es">Nuestro clásico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-natacion-2_l_m.jpg"/>
   </programme>
-  <programme start="20240617210000 +0200" stop="20240617220000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617210000 +0200" stop="20240617220000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Maratón Man</title>
     <sub-title lang="es">India, en la tierra del Libro de la selva</sub-title>
     <desc lang="es">Raúl Gómez es un runner que viaja por el mundo buscando las carreras más curiosas del planeta. Cada semana Maraton Man descubre países, convive con sus gentes y nos muestra apasionantes historias de superación personal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_maraton-man-s05e01-india-en-la-tierra-del-libro-de-la-selva_l_m.jpg"/>
     <episode-num system="xmltv_ns">4.0.</episode-num>
   </programme>
-  <programme start="20240617220000 +0200" stop="20240617223000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617220000 +0200" stop="20240617223000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">El bicho sagrado</title>
     <desc lang="es">Ariel Scher abre la bitácora de sus propios viajes a las "bestias" y fábulas del deporte argentino, donde explora, desde un carácter periodístico-poético, los rasgos que nos hipnotizan de los hitos, anécdotas y criaturas de ese mundo.</desc>
     <category lang="es">Bestiario</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-el-bicho-sagrado_l_m.jpg"/>
   </programme>
-  <programme start="20240617223000 +0200" stop="20240617230000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617223000 +0200" stop="20240617230000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Abriendo pista</title>
     <desc lang="es">Programa dedicado a la cobertura de los mejores #RallyRaid del mundo.</desc>
     <category lang="es">Abriendo pista</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
-  <programme start="20240617230000 +0200" stop="20240618030000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240617230000 +0200" stop="20240618030000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">TC en Rafaela</title>
     <desc lang="es">Vive junto a nosotros todo lo que acontece en las mejores categorías del automovilismo nacional: Turismo Carretera, el TC Pista, el TC Mouras y el Turismo Nacional.</desc>
     <category lang="es">Automovilismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-tc-en-rafaela-3_l_m.jpg"/>
   </programme>
-  <programme start="20240618030000 +0200" stop="20240618040000 +0200" channel="AR | DEPORTV HD">
+  <programme start="20240618030000 +0200" stop="20240618040000 +0200" channel="AR | DEPORTV  HD">
     <title lang="es">Última vuelta</title>
     <desc lang="es">Un clásico del automovilismo argentino que te cuenta lo que pasó y sucederá en cada uno de los circuitos de nuestro país, más el clásico debate de la mesa con la conducción de Eduardo Ruiz.</desc>
     <category lang="es">Última vuelta</category>
@@ -8567,6 +8571,186 @@
     <desc lang="es">Un espacio que reúne a los protagonistas del deporte y los negocios, con las últimas noticias, entrevistas, lanzamientos y más. Los principales eventos deportivos desde otro lugar.</desc>
     <category lang="es">Marketing registrado</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-marketing-registrado_l_m.jpg"/>
+  </programme>
+  <programme start="20240615050000 +0200" stop="20240615060000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Sean unidos</title>
+    <desc lang="es">Show con debate, humor, chicanas y un ida y vuelta para los hinchas del River Plate y Boca Jrs. y el mundo del fútbol en general.</desc>
+    <category lang="es">Sean unidos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615060000 +0200" stop="20240615070000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">La croqueta</title>
+    <desc lang="es">Nuestro host, Joaqo, acompañado de streamers de distintos ámbitos deportivos, nos proponen una manera diferente de ver el fútbol. Con reacciones, chat en vivo e interacción con la comunidad.</desc>
+    <category lang="es">La croqueta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615070000 +0200" stop="20240615090000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Rugbeat</title>
+    <desc lang="es">Toda la información y las noticias sobre el mundo del Rugby, con entrevistas y contenidos variados.</desc>
+    <category lang="es">Rugbeat</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615090000 +0200" stop="20240615120000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo</desc>
+    <category lang="es">WWE Raw</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lucha-wwe-raw_l_m.jpg"/>
+  </programme>
+  <programme start="20240615120000 +0200" stop="20240615130000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Sean unidos</title>
+    <desc lang="es">Show con debate, humor, chicanas y un ida y vuelta para los hinchas del River Plate y Boca Jrs. y el mundo del fútbol en general.</desc>
+    <category lang="es">Sean unidos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615130000 +0200" stop="20240615140000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">La croqueta</title>
+    <desc lang="es">Nuestro host, Joaqo, acompañado de streamers de distintos ámbitos deportivos, nos proponen una manera diferente de ver el fútbol. Con reacciones, chat en vivo e interacción con la comunidad.</desc>
+    <category lang="es">La croqueta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615140000 +0200" stop="20240615150000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Entretiempo</title>
+    <desc lang="es">Serie de charlas íntimas con personalidades y protagonistas del ámbito.</desc>
+    <category lang="es">Entretiempo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-entretiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240615150000 +0200" stop="20240615163000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Valparaiso</title>
+    <desc lang="es">Una carrera de ciclismo de montaña en la modalidad de descenso urbano.</desc>
+    <category lang="es">Red Bull Cerro abajo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615163000 +0200" stop="20240615180000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Stop #1: Atenas</title>
+    <desc lang="es">Sea parte de la serie internacional anual de acantilados, en la que un número de competidores saltan desde una plataforma a una altura que oscila entre los veintiséis y veintiocho metros.</desc>
+    <category lang="es">Red Bull Cliff Diving</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615180000 +0200" stop="20240615200000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE SmackDown</title>
+    <desc lang="es">WWE - Smackdown es el segundo programa de Lucha Libre profesional, más popular del mundo despues de RAW</desc>
+    <category lang="es">WWE SmackDown</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240615200000 +0200" stop="20240615233000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Evento 1: Bs As</title>
+    <desc lang="es">Rotax Buenos Aires comienza la segunda mitad de su temporada 2022, que se inició allá por mes de febrero. Ahora llega el "Torneo de Invierno" que tiene similares características al anterior.</desc>
+    <category lang="es">ROTAX - Trofeo de invierno</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-evento-1-bs-as_l_m.jpg"/>
+  </programme>
+  <programme start="20240615233000 +0200" stop="20240616023000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo</desc>
+    <category lang="es">WWE Raw</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lucha-wwe-raw_l_m.jpg"/>
+  </programme>
+  <programme start="20240616023000 +0200" stop="20240616043000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Red Bull Hardline</title>
+    <desc lang="es">Retransmisión de la carrera de mountain bike downhill,Red Bull Hardline, en su edición 2022. La competencia más difícil del mundo es una dura prueba de habilidad y valor que reune a treinta de los mejores y más valientes riders del mundo.</desc>
+    <category lang="es">Red Bull Hardline</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240616043000 +0200" stop="20240617043000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">El espectáculo cuenta con las superestrellas de WWE y Divas, en este programa se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal</desc>
+    <category lang="es">WWE Main Event</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-wwe-main-event_l_m.jpg"/>
+  </programme>
+  <programme start="20240617043000 +0200" stop="20240617053000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">El espectáculo cuenta con las superestrellas de WWE y Divas, en este programa se realizan combates interpromocionales de las marcas Raw y Smackdown, además del evento principal</desc>
+    <category lang="es">WWE Main Event</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-wwe-main-event_l_m.jpg"/>
+  </programme>
+  <programme start="20240617053000 +0200" stop="20240617060000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">UFC Ultimate Knockouts</title>
+    <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'</desc>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-ufc-ultimate-knockouts_l_m.jpg"/>
+  </programme>
+  <programme start="20240617060000 +0200" stop="20240617070000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">¡Juegue!</title>
+    <desc lang="es">El universo del gaming, los e-Sports y el mundo de internet. Tutoriales, cobertura de eventos, duelos de talentos, influencers y creadores de contenido en vivo.</desc>
+    <category lang="es">¡Juegue!</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617070000 +0200" stop="20240617080000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">¡Juegue!</title>
+    <desc lang="es">El universo del gaming, los e-Sports y el mundo de internet. Tutoriales, cobertura de eventos, duelos de talentos, influencers y creadores de contenido en vivo.</desc>
+    <category lang="es">¡Juegue!</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617080000 +0200" stop="20240617090000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">¡Juegue!</title>
+    <desc lang="es">El universo del gaming, los e-Sports y el mundo de internet. Tutoriales, cobertura de eventos, duelos de talentos, influencers y creadores de contenido en vivo.</desc>
+    <category lang="es">¡Juegue!</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617090000 +0200" stop="20240617120000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE Raw</title>
+    <desc lang="es">WWE - RAW es el programa de Lucha Libre profesional más popular del mundo</desc>
+    <category lang="es">WWE Raw</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lucha-wwe-raw_l_m.jpg"/>
+  </programme>
+  <programme start="20240617120000 +0200" stop="20240617130000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">¡Juegue!</title>
+    <desc lang="es">El universo del gaming, los e-Sports y el mundo de internet. Tutoriales, cobertura de eventos, duelos de talentos, influencers y creadores de contenido en vivo.</desc>
+    <category lang="es">¡Juegue!</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617130000 +0200" stop="20240617140000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">¡Juegue!</title>
+    <desc lang="es">El universo del gaming, los e-Sports y el mundo de internet. Tutoriales, cobertura de eventos, duelos de talentos, influencers y creadores de contenido en vivo.</desc>
+    <category lang="es">¡Juegue!</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617140000 +0200" stop="20240617150000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">¡Juegue!</title>
+    <desc lang="es">El universo del gaming, los e-Sports y el mundo de internet. Tutoriales, cobertura de eventos, duelos de talentos, influencers y creadores de contenido en vivo.</desc>
+    <category lang="es">¡Juegue!</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617150000 +0200" stop="20240617163000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Guanajuato</title>
+    <desc lang="es">Una carrera de ciclismo de montaña en la modalidad de descenso urbano.</desc>
+    <category lang="es">Red Bull Cerro abajo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617163000 +0200" stop="20240617180000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Boston</title>
+    <desc lang="es">Sea parte de la serie internacional anual de acantilados, en la que un número de competidores saltan desde una plataforma a una altura que oscila entre los veintiséis y veintiocho metros.</desc>
+    <category lang="es">Red Bull Cliff Diving</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
+  </programme>
+  <programme start="20240617180000 +0200" stop="20240617183000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">UFC Ultimate Knockouts</title>
+    <desc lang="es">Transmisión que presenta algunos de los finales más devastadores jamás vistos dentro del octágono de 'Ultimate Fighting Championship'</desc>
+    <category lang="es">UFC Ultimate Knockouts</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_artes-marciales-ufc-ultimate-knockouts_l_m.jpg"/>
+  </programme>
+  <programme start="20240617183000 +0200" stop="20240617193000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE Vintage</title>
+    <desc lang="es">Especiales históricos realizados en base a la gran videoteca de WWE</desc>
+    <category lang="es">WWE Vintage</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lucha-wwe-vintage_l_m.jpg"/>
+  </programme>
+  <programme start="20240617193000 +0200" stop="20240617203000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Entretiempo</title>
+    <desc lang="es">Serie de charlas íntimas con personalidades y protagonistas del ámbito.</desc>
+    <category lang="es">Entretiempo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_deportivo-entretiempo_l_m.jpg"/>
+  </programme>
+  <programme start="20240617203000 +0200" stop="20240618020000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">En este show se darán a conocer las nuevas estrellas de la WWE, provenientes de la FCW. Para debutar, un pro (luchador profesional) les ayudará a destacar en este difícil camino a la fama</desc>
+    <category lang="es">WWE NXT</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lucha-wwe-nxt_l_m.jpg"/>
+  </programme>
+  <programme start="20240618020000 +0200" stop="20240618040000 +0200" channel="AR | FOX SPORTS 3">
+    <title lang="es">Rugbeat</title>
+    <desc lang="es">Toda la información y las noticias sobre el mundo del Rugby, con entrevistas y contenidos variados.</desc>
+    <category lang="es">Rugbeat</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg"/>
   </programme>
   <programme start="20240615040000 +0200" stop="20240615060000 +0200" channel="AR | FOX SPORTS PREMIUM SD">
     <title lang="es">Boca Jrs. vs. Vélez Sarsfield</title>
