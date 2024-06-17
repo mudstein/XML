@@ -362,7 +362,7 @@
   </channel>
   <channel id="CINE HD | GOLDEN PREMIER HD">
     <display-name lang="es">CINE HD | GOLDEN PREMIER HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png"/>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge.png"/>
   </channel>
   <channel id="CINE HD | HBO 2 HD">
     <display-name lang="es">CINE HD | HBO 2 HD</display-name>
@@ -24937,277 +24937,88 @@
   <programme start="20240619235400 -0400" stop="20240620013200 -0400" channel="CINE HD | GOLDEN PLUS HD">
     <title lang="es">Gamer</title>
   </programme>
-  <programme start="20240617040000 +0200" stop="20240617060200 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Terremoto: la falla de San Andrés</title>
-    <title lang="en">San Andreas</title>
-    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud nueve en California. Ray y su ex esposa Emma viajarán a San Francisco para salvar a su única hija, Blake.</desc>
-    <date>2015</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_terremoto-la-falla-de-san-andres-2015-1_l_m.jpg"/>
-    <star-rating>
-      <value>1/10</value>
-    </star-rating>
+  <programme start="20240617003200 -0400" stop="20240617033700 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Fuego contra fuego</title>
   </programme>
-  <programme start="20240617060200 +0200" stop="20240617090700 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Interestelar</title>
-    <title lang="en">Interstellar</title>
-    <desc lang="es">Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper y la científica Amelia emprenden una misión que puede ser la más importante de la historia de la humanidad.</desc>
-    <date>2014</date>
-    <category lang="es">C.Ficción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_interestelar-2014_l_m.jpg"/>
-    <star-rating>
-      <value>6/10</value>
-    </star-rating>
+  <programme start="20240617033700 -0400" stop="20240617051800 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">The girls next door 2</title>
   </programme>
-  <programme start="20240617090700 +0200" stop="20240617110200 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">3 Idiotas</title>
-    <desc lang="es">Cinco años después de finalizar sus estudios superiores, Felipe y Beto se embarcan en una aventura llena de diversión con el objetivo de encontrar a Pancho, su amigo de la universidad, que desapareció un día antes de la graduación.</desc>
-    <date>2017</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_3-idiotas-2017_l_m.jpg"/>
+  <programme start="20240617051800 -0400" stop="20240617074300 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Milagro en la celda 7</title>
   </programme>
-  <programme start="20240617110200 +0200" stop="20240617120300 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Home Office: Un especial de Mirreyes contra Godínez</title>
-    <title lang="en">Mirreyes vs. Godinez Home Office</title>
-    <desc lang="es">Los empleados de Zapaterías Kuri González ya no aguantan la cuarentena y recuperar un cargamento de zapatos en la aduana será más difícil que nunca cuando todos están al borde de un colapso nervioso.</desc>
-    <date>2020</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_home-office-un-especial-de-mirreyes-contra-godinez-2020_l_m.jpg"/>
-    <star-rating>
-      <value>6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20240617120300 +0200" stop="20240617134300 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Educando a mamá</title>
-    <title lang="en">Girl in Progress</title>
-    <desc lang="es">Grace es una madre soltera que lidia con el trabajo, las cuentas y tiene un amorío con un doctor casado. Además, su hija, Ansiedad, planea un atajo a la adultez al inspirarse con las historias de madurez que lee en el colegio.</desc>
-    <date>2012</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_educando-a-mama-2012_l_m.jpg"/>
-    <star-rating>
-      <value>6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20240617134300 +0200" stop="20240617155400 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240617074300 -0400" stop="20240617095800 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">Los indestructibles 3</title>
-    <title lang="en">The Expendables 3</title>
-    <desc lang="es">Los Mercenarios deberán atrapar a Stonebanks, el otro fundador del grupo que incursionó en el mundo del tráfico de armas. Barney y el equipo tendrán que enfrentarlo mientras se debaten entre las viejas y las nuevas tácticas de combate.</desc>
-    <date>2014</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_los-indestructibles-3-2014_l_m.jpg"/>
-    <star-rating>
-      <value>1/10</value>
-    </star-rating>
   </programme>
-  <programme start="20240617155400 +0200" stop="20240617185600 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Interestelar</title>
-    <title lang="en">Interstellar</title>
-    <desc lang="es">Al ver que la vida en la Tierra está llegando a su fin, un grupo de exploradores dirigidos por el piloto Cooper y la científica Amelia emprenden una misión que puede ser la más importante de la historia de la humanidad.</desc>
-    <date>2014</date>
-    <category lang="es">C.Ficción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_interestelar-2014_l_m.jpg"/>
-    <star-rating>
-      <value>6/10</value>
-    </star-rating>
+  <programme start="20240617095800 -0400" stop="20240617130300 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Fuego contra fuego</title>
   </programme>
-  <programme start="20240617185600 +0200" stop="20240617204100 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Kickboxer, el nuevo guerrero</title>
-    <title lang="en">Kickboxer</title>
-    <desc lang="es">El campeón de kickboxing en Estados Unidos queda inválido durante un combate en Bangkok. Con el fin de vengar a su hermano, Kurt, decide aprender a pelear, y para ello acude a un anciano experto en este deporte.</desc>
-    <date>1989</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_kickboxer-el-nuevo-guerrero-1989-1_l_m.jpg"/>
-    <star-rating>
-      <value>4/10</value>
-    </star-rating>
+  <programme start="20240617130300 -0400" stop="20240617145100 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Contacto sangriento</title>
   </programme>
-  <programme start="20240617204100 +0200" stop="20240617222400 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240617145100 -0400" stop="20240617163200 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">Plan de escape: El rescate</title>
-    <title lang="en">Escape Plan: The Extractors</title>
-    <desc lang="es">El experto en seguridad Ray Breslin es contratado para rescatar a la hija de un magnate de la tecnología de Hong Kong que ha sido secuestrada y puesta bajo custodia en una prisión de Letonia.</desc>
-    <date>2019</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
-    <star-rating>
-      <value>4/10</value>
-    </star-rating>
   </programme>
-  <programme start="20240617222400 +0200" stop="20240618001300 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Pompeii: la furia del volcán</title>
-    <title lang="en">Pompeii</title>
-    <desc lang="es">Pompeya, 79 D.C. Milo, un esclavo convertido en gladiador, ve cómo su amada Cassia es obligada a prometerse con un corrupto senador. Cuando el monte Vesubio entra en erupción, Milo intentará salvarla mientras todo se derrumba.</desc>
-    <date>2014</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_pompeii-la-furia-del-volcan-2014_l_m.jpg"/>
-    <star-rating>
-      <value>6/10</value>
-    </star-rating>
+  <programme start="20240617163200 -0400" stop="20240617184000 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Anna: El Peligro Tiene Nombre</title>
+    <desc lang="es">En una bella mujer se encuentra un secreto que desatará su fuerza para convertirse en uno de los asesinos gubernamentales más temidos del mundo.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/anna_el_peligro_tiene_nombre.jpg"/>
   </programme>
-  <programme start="20240618001300 +0200" stop="20240618015800 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240617184000 -0400" stop="20240617202800 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">El salvaje</title>
-    <title lang="en">In hell</title>
-    <desc lang="es">Kyle vive con su esposa en Rusia. Un mafioso asesina a su mujer y es dejado libre. Kyle lo mata en la Corte, y es sentenciado a reclusión perpetua, donde debe sobrevivir con su fuerza física y con su voluntad espiritual.</desc>
-    <date>2003</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
-    <star-rating>
-      <value>1/10</value>
-    </star-rating>
   </programme>
-  <programme start="20240618015800 +0200" stop="20240618040000 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Terremoto: la falla de San Andrés</title>
-    <title lang="en">San Andreas</title>
-    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud nueve en California. Ray y su ex esposa Emma viajarán a San Francisco para salvar a su única hija, Blake.</desc>
-    <date>2015</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_terremoto-la-falla-de-san-andres-2015-1_l_m.jpg"/>
-    <star-rating>
-      <value>1/10</value>
-    </star-rating>
+  <programme start="20240617202800 -0400" stop="20240617223000 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Terremoto: La falla de San Andrés</title>
   </programme>
-  <programme start="20240618040000 +0200" stop="20240619040000 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Nunca más</title>
-    <title lang="en">Enough</title>
-    <desc lang="es">Una camarera en un pequeño pueblo conoce al hombre de sus sueños, se casa con él y después de unos años el hombre de sus sueños se convierte en una pesadilla, un estafador, abusador y violento.</desc>
-    <date>2002</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_nunca-mas-2002_l_m.jpg"/>
-    <star-rating>
-      <value>5/10</value>
-    </star-rating>
+  <programme start="20240617223000 -0400" stop="20240618003800 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Nunca Más</title>
   </programme>
-  <programme start="20240619040000 +0200" stop="20240619060800 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Nunca más</title>
-    <title lang="en">Enough</title>
-    <desc lang="es">Una camarera en un pequeño pueblo conoce al hombre de sus sueños, se casa con él y después de unos años el hombre de sus sueños se convierte en una pesadilla, un estafador, abusador y violento.</desc>
-    <date>2002</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_nunca-mas-2002_l_m.jpg"/>
-    <star-rating>
-      <value>5/10</value>
-    </star-rating>
+  <programme start="20240618223000 -0400" stop="20240619003800 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Nunca Más</title>
   </programme>
-  <programme start="20240619060800 +0200" stop="20240619075000 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">La tierra de los muertos</title>
-    <title lang="en">Land of the Dead</title>
-    <desc lang="es">En este nuevo mundo, los muertos vivos intentan llevar una vida normal en una tierra desértica, en las afueras de una ciudad fortificada en la que se encuentran los sobrevivientes. Un grupo de mercenarios deberá frenar el avance zombi.</desc>
-    <date>2005</date>
-    <category lang="es">Terror</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_la-tierra-de-los-muertos-2005_l_m.jpg"/>
-    <star-rating>
-      <value>3/10</value>
-    </star-rating>
+  <programme start="20240619003800 -0400" stop="20240619022000 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Tierra de los muertos</title>
   </programme>
-  <programme start="20240619075000 +0200" stop="20240619093900 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Todo mal</title>
-    <desc lang="es">Un diplomático acaba de conseguir el logro más importante de su carrera y está a punto de casarse con la mujer de su vida. Todo es perfección con él, a diferencia de con sus dos primos, un ex-estrella Pop y un rocanrolero fallido.</desc>
-    <date>2018</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_todo-mal-2018_l_m.jpg"/>
+  <programme start="20240619022000 -0400" stop="20240619043000 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Escobar: Paraíso perdido</title>
   </programme>
-  <programme start="20240619093900 +0200" stop="20240619114300 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Cómo ser un Latin Lover</title>
-    <title lang="en">How to Be a Latin Lover</title>
-    <desc lang="es">Máximo, un gigoló especializado en la seducción de mujeres ancianas ricas, se casa con una mujer que le dobla en edad. Veinticinco años después recibe la sorpresa de su vida cuando ella termina abandonándolo.</desc>
-    <date>2017</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_como-ser-un-latin-lover-2017-1_l_m.jpg"/>
-    <star-rating>
-      <value>9/10</value>
-    </star-rating>
+  <programme start="20240619043000 -0400" stop="20240619062800 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Código de honor</title>
   </programme>
-  <programme start="20240619114300 +0200" stop="20240619135200 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">No se aceptan devoluciones</title>
-    <title lang="en">Instructions Not Included</title>
-    <desc lang="es">Narra la historia de Valentín, mujeriego, soltero y egoísta que sorpresivamente tiene que hacerse cargo de su pequeña hija a la que no conocía, producto de una aventura ocasional...</desc>
-    <date>2013</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_no-se-aceptan-devoluciones-2013_l_m.jpg"/>
+  <programme start="20240619062800 -0400" stop="20240619080400 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">El mesero</title>
   </programme>
-  <programme start="20240619135200 +0200" stop="20240619153800 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">En defensa propia</title>
-    <title lang="en">First Kill</title>
-    <desc lang="es">El joven padre Will lleva a su familia de viaje a una cabaña en el bosque. Por el camino, el Jefe de Policía les aconseja tener cuidado. Mientras están de caza, Will y su hijo Danny son testigos del intento de asesinato de un hombre.</desc>
-    <date>2017</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_en-defensa-propia-2017_l_m.jpg"/>
+  <programme start="20240619080400 -0400" stop="20240619095300 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">El Último Disparo</title>
+    <desc lang="es">Un agente de bolsa de Wall Street lleva a su familia a un viaje de cacería, pero el viaje toma un giro inesperado cuando un criminal secuestra a su hijo.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_ultimo_disparo.jpg"/>
   </programme>
-  <programme start="20240619153800 +0200" stop="20240619172300 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240619095300 -0400" stop="20240619114000 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">Los indestructibles 2</title>
-    <title lang="en">The Expendables 2</title>
-    <desc lang="es">El equipo se vuelve a reunir cuando el señor Church les encarga un trabajo aparentemente sencillo y muy lucrativo. Sin embargo, el plan cambia cuando un peligroso terrorista llamado Villain les tiende una emboscada.</desc>
-    <date>2012</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_los-indestructibles-2-2012_l_m.jpg"/>
-    <star-rating>
-      <value>7/10</value>
-    </star-rating>
   </programme>
-  <programme start="20240619172300 +0200" stop="20240619190600 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240619114000 -0400" stop="20240619132100 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">Plan de escape: El rescate</title>
-    <title lang="en">Escape Plan: The Extractors</title>
-    <desc lang="es">El experto en seguridad Ray Breslin es contratado para rescatar a la hija de un magnate de la tecnología de Hong Kong que ha sido secuestrada y puesta bajo custodia en una prisión de Letonia.</desc>
-    <date>2019</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
-    <star-rating>
-      <value>4/10</value>
-    </star-rating>
   </programme>
-  <programme start="20240619190600 +0200" stop="20240619204800 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">El experimento de Standford</title>
-    <title lang="en">The Experiment</title>
-    <desc lang="es">Cuenta cómo un grupo de 26 hombres son sometidos a una investigación psiquiátrica con roles de prisionero y guardián.</desc>
-    <date>2010</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_el-experimento-de-standford-2010_l_m.jpg"/>
-    <star-rating>
-      <value>4/10</value>
-    </star-rating>
+  <programme start="20240619132100 -0400" stop="20240619150600 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">El Experimento</title>
+    <desc lang="es">26 hombres son seleccionados para participar en los papeles de guardias y prisioneros en un estudio psicológico que al final se sale de control.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_experimento.jpg"/>
   </programme>
-  <programme start="20240619204800 +0200" stop="20240619225200 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Nunca más</title>
-    <title lang="en">Enough</title>
-    <desc lang="es">Una camarera en un pequeño pueblo conoce al hombre de sus sueños, se casa con él y después de unos años el hombre de sus sueños se convierte en una pesadilla, un estafador, abusador y violento.</desc>
-    <date>2002</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_nunca-mas-2002_l_m.jpg"/>
-    <star-rating>
-      <value>5/10</value>
-    </star-rating>
+  <programme start="20240619150600 -0400" stop="20240619171400 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Nunca Más</title>
   </programme>
-  <programme start="20240619225200 +0200" stop="20240620003500 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240619171400 -0400" stop="20240619190100 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">Instinto predador</title>
-    <title lang="en">Primal</title>
-    <desc lang="es">Los animales salvajes que Frank atrapa en la selva brasileña incluyen un jaguar blanco de 200 kg. Lo envía en el mismo barco que un asesino arrestado. El asesino se libera y libera a los animales.</desc>
-    <date>2019</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
-    <star-rating>
-      <value>7/10</value>
-    </star-rating>
   </programme>
-  <programme start="20240620003500 +0200" stop="20240620021300 +0200" channel="CINE HD | GOLDEN PREMIER HD">
-    <title lang="es">Seguridad</title>
-    <title lang="en">Security</title>
-    <desc lang="es">Un ex soldado que trabaja como guardia de seguridad debe proteger a una niña de once años que corre un grave peligro. La joven ha sido testigo de un asesinato y por eso se ha convertido en el blanco de unos peligrosos delincuentes.</desc>
-    <date>2017</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_seguridad-2017_l_m.jpg"/>
-    <star-rating>
-      <value>7/10</value>
-    </star-rating>
+  <programme start="20240619190100 -0400" stop="20240619204200 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">Vigilante nocturno</title>
   </programme>
-  <programme start="20240620021300 +0200" stop="20240620040000 +0200" channel="CINE HD | GOLDEN PREMIER HD">
+  <programme start="20240619204200 -0400" stop="20240619223000 -0400" channel="CINE HD | GOLDEN PREMIER HD">
     <title lang="es">El salvaje</title>
-    <title lang="en">In hell</title>
-    <desc lang="es">Kyle vive con su esposa en Rusia. Un mafioso asesina a su mujer y es dejado libre. Kyle lo mata en la Corte, y es sentenciado a reclusión perpetua, donde debe sobrevivir con su fuerza física y con su voluntad espiritual.</desc>
-    <date>2003</date>
-    <category lang="es">Acción</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg"/>
-    <star-rating>
-      <value>1/10</value>
-    </star-rating>
+  </programme>
+  <programme start="20240619223000 -0400" stop="20240620004300 -0400" channel="CINE HD | GOLDEN PREMIER HD">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_justiciero_the_equalizer.jpg"/>
   </programme>
   <programme start="20240617040700 +0200" stop="20240617060700 +0200" channel="CINE HD | HBO 2 HD">
     <title lang="es">Barbie</title>
