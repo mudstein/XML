@@ -492,12 +492,12 @@
     <display-name lang="es">CINE HD | HBO Latino HD</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png"/>
   </channel>
-  <channel id="CINE HD | STAR ACTION ( Dual audio)">
-    <display-name lang="es">CINE HD | STAR ACTION ( Dual audio)</display-name>
+  <channel id="CINE HD | STAR ACTION  ( Dual audio)">
+    <display-name lang="es">CINE HD | STAR ACTION  ( Dual audio)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality.png"/>
   </channel>
-  <channel id="CINE HD | STAR COMEDY ( DUAL AUDIO)">
-    <display-name lang="es">CINE HD | STAR COMEDY ( DUAL AUDIO)</display-name>
+  <channel id="CINE HD | STAR COMEDY ( Dual audio)">
+    <display-name lang="es">CINE HD | STAR COMEDY ( Dual audio)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy.png"/>
   </channel>
   <channel id="CINE HD | STAR FUN">
@@ -35181,999 +35181,999 @@
   <programme start="20240620232500 -0400" stop="20240621013100 -0400" channel="CINE HD | HBO Latino HD">
     <title lang="es">Joy</title>
   </programme>
-  <programme start="20240618003000 -0400" stop="20240618012500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618003000 -0400" stop="20240618012500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240618012500 -0400" stop="20240618021000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618012500 -0400" stop="20240618021000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E11</episode-num>
   </programme>
-  <programme start="20240618021000 -0400" stop="20240618025500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618021000 -0400" stop="20240618025500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E12</episode-num>
   </programme>
-  <programme start="20240618025500 -0400" stop="20240618035000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618025500 -0400" stop="20240618035000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240618035000 -0400" stop="20240618044500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618035000 -0400" stop="20240618044500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240618044500 -0400" stop="20240618053500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618044500 -0400" stop="20240618053500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20240618053500 -0400" stop="20240618062500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618053500 -0400" stop="20240618062500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20240618062500 -0400" stop="20240618065000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618062500 -0400" stop="20240618065000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240618065000 -0400" stop="20240618071500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618065000 -0400" stop="20240618071500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240618071500 -0400" stop="20240618074000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618071500 -0400" stop="20240618074000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240618074000 -0400" stop="20240618080000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618074000 -0400" stop="20240618080000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20240618080000 -0400" stop="20240618085000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618080000 -0400" stop="20240618085000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20240618085000 -0400" stop="20240618094000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618085000 -0400" stop="20240618094000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20240618094000 -0400" stop="20240618100500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618094000 -0400" stop="20240618100500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240618100500 -0400" stop="20240618103000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618100500 -0400" stop="20240618103000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240618103000 -0400" stop="20240618105500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618103000 -0400" stop="20240618105500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240618105500 -0400" stop="20240618112000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618105500 -0400" stop="20240618112000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20240618112000 -0400" stop="20240618114500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618112000 -0400" stop="20240618114500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20240618114500 -0400" stop="20240618123000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618114500 -0400" stop="20240618123000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S8 E14</episode-num>
   </programme>
-  <programme start="20240618123000 -0400" stop="20240618131500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618123000 -0400" stop="20240618131500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S8 E15</episode-num>
   </programme>
-  <programme start="20240618131500 -0400" stop="20240618140000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618131500 -0400" stop="20240618140000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S8 E16</episode-num>
   </programme>
-  <programme start="20240618140000 -0400" stop="20240618144500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618140000 -0400" stop="20240618144500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E11</episode-num>
   </programme>
-  <programme start="20240618144500 -0400" stop="20240618153000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618144500 -0400" stop="20240618153000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E12</episode-num>
   </programme>
-  <programme start="20240618153000 -0400" stop="20240618161500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618153000 -0400" stop="20240618161500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E13</episode-num>
   </programme>
-  <programme start="20240618161500 -0400" stop="20240618170000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618161500 -0400" stop="20240618170000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S6 E14</episode-num>
   </programme>
-  <programme start="20240618170000 -0400" stop="20240618174500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618170000 -0400" stop="20240618174500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef Duelos</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240618174500 -0400" stop="20240618183000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618174500 -0400" stop="20240618183000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef Duelos</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240618183000 -0400" stop="20240618185500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618183000 -0400" stop="20240618185500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240618185500 -0400" stop="20240618192000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618185500 -0400" stop="20240618192000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20240618192000 -0400" stop="20240618194500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618192000 -0400" stop="20240618194500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20240618194500 -0400" stop="20240618201000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618194500 -0400" stop="20240618201000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240618201000 -0400" stop="20240618203500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618201000 -0400" stop="20240618203500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240618203500 -0400" stop="20240618212000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618203500 -0400" stop="20240618212000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240618212000 -0400" stop="20240618220500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618212000 -0400" stop="20240618220500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240618220500 -0400" stop="20240618230000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618220500 -0400" stop="20240618230000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240618230000 -0400" stop="20240618234500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618230000 -0400" stop="20240618234500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240618234500 -0400" stop="20240619001000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240618234500 -0400" stop="20240619001000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
-  <programme start="20240619234500 -0400" stop="20240620001000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240619234500 -0400" stop="20240620001000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
-  <programme start="20240620001000 -0400" stop="20240620003000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620001000 -0400" stop="20240620003000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20240620003000 -0400" stop="20240620005500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620003000 -0400" stop="20240620005500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E4</episode-num>
   </programme>
-  <programme start="20240620005500 -0400" stop="20240620011500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620005500 -0400" stop="20240620011500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
-  <programme start="20240620011500 -0400" stop="20240620020000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620011500 -0400" stop="20240620020000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E13</episode-num>
   </programme>
-  <programme start="20240620020000 -0400" stop="20240620024500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620020000 -0400" stop="20240620024500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E14</episode-num>
   </programme>
-  <programme start="20240620024500 -0400" stop="20240620031000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620024500 -0400" stop="20240620031000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
-  <programme start="20240620031000 -0400" stop="20240620033000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620031000 -0400" stop="20240620033000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20240620033000 -0400" stop="20240620035500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620033000 -0400" stop="20240620035500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E4</episode-num>
   </programme>
-  <programme start="20240620035500 -0400" stop="20240620041500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620035500 -0400" stop="20240620041500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Creciendo con los Chrisle</title>
     <episode-num system="onscreen">S4 E3</episode-num>
   </programme>
-  <programme start="20240620041500 -0400" stop="20240620050500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620041500 -0400" stop="20240620050500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20240620050500 -0400" stop="20240620055500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620050500 -0400" stop="20240620055500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20240620055500 -0400" stop="20240620062000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620055500 -0400" stop="20240620062000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240620062000 -0400" stop="20240620064500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620062000 -0400" stop="20240620064500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20240620064500 -0400" stop="20240620071000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620064500 -0400" stop="20240620071000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20240620071000 -0400" stop="20240620073500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620071000 -0400" stop="20240620073500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240620073500 -0400" stop="20240620080000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620073500 -0400" stop="20240620080000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240620080000 -0400" stop="20240620085000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620080000 -0400" stop="20240620085000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20240620085000 -0400" stop="20240620094000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620085000 -0400" stop="20240620094000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Nuestro propio castillo DIY</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240620094000 -0400" stop="20240620100500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620094000 -0400" stop="20240620100500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240620100500 -0400" stop="20240620102500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620100500 -0400" stop="20240620102500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20240620102500 -0400" stop="20240620105000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620102500 -0400" stop="20240620105000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20240620105000 -0400" stop="20240620111000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620105000 -0400" stop="20240620111000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240620111000 -0400" stop="20240620113500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620111000 -0400" stop="20240620113500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240620113500 -0400" stop="20240620122000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620113500 -0400" stop="20240620122000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240620122000 -0400" stop="20240620130500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620122000 -0400" stop="20240620130500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240620130500 -0400" stop="20240620140000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620130500 -0400" stop="20240620140000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240620140000 -0400" stop="20240620144500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620140000 -0400" stop="20240620144500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E13</episode-num>
   </programme>
-  <programme start="20240620144500 -0400" stop="20240620153000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620144500 -0400" stop="20240620153000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S6 E14</episode-num>
   </programme>
-  <programme start="20240620153000 -0400" stop="20240620161500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620153000 -0400" stop="20240620161500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E15</episode-num>
   </programme>
-  <programme start="20240620161500 -0400" stop="20240620170000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620161500 -0400" stop="20240620170000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef All Stars</title>
     <episode-num system="onscreen">S8 E16</episode-num>
   </programme>
-  <programme start="20240620170000 -0400" stop="20240620174500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620170000 -0400" stop="20240620174500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef Duelos</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240620174500 -0400" stop="20240620183000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620174500 -0400" stop="20240620183000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Top Chef Duelos</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240620183000 -0400" stop="20240620185500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620183000 -0400" stop="20240620185500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20240620185500 -0400" stop="20240620191500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620185500 -0400" stop="20240620191500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
-  <programme start="20240620191500 -0400" stop="20240620194000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620191500 -0400" stop="20240620194000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20240620194000 -0400" stop="20240620200000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620194000 -0400" stop="20240620200000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E16</episode-num>
   </programme>
-  <programme start="20240620200000 -0400" stop="20240620202500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620200000 -0400" stop="20240620202500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20240620202500 -0400" stop="20240620204500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620202500 -0400" stop="20240620204500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E18</episode-num>
   </programme>
-  <programme start="20240620204500 -0400" stop="20240620213000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620204500 -0400" stop="20240620213000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240620213000 -0400" stop="20240620221500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620213000 -0400" stop="20240620221500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240620221500 -0400" stop="20240620230000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620221500 -0400" stop="20240620230000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Bajo Cubierta Mediterráne</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20240620230000 -0400" stop="20240620234500 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620230000 -0400" stop="20240620234500 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Below Deck Veleros De Lu</title>
     <episode-num system="onscreen">S4 E13</episode-num>
   </programme>
-  <programme start="20240620234500 -0400" stop="20240621003000 -0400" channel="CINE HD | STAR ACTION ( Dual audio)">
+  <programme start="20240620234500 -0400" stop="20240621003000 -0400" channel="CINE HD | STAR ACTION  ( Dual audio)">
     <title lang="es">Below Deck Veleros De Lu</title>
     <episode-num system="onscreen">S4 E14</episode-num>
   </programme>
-  <programme start="20240618002500 -0400" stop="20240618013500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618002500 -0400" stop="20240618013500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Saturday night live</title>
     <episode-num system="onscreen">S49 E2</episode-num>
   </programme>
-  <programme start="20240618013500 -0400" stop="20240618020000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618013500 -0400" stop="20240618020000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Ghosts</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20240618020000 -0400" stop="20240618022500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618020000 -0400" stop="20240618022500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E24</episode-num>
   </programme>
-  <programme start="20240618022500 -0400" stop="20240618025000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618022500 -0400" stop="20240618025000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240618025000 -0400" stop="20240618033500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618025000 -0400" stop="20240618033500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20240618033500 -0400" stop="20240618040000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618033500 -0400" stop="20240618040000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Kevin Puede Esperar</title>
     <desc lang="es">Temporada 1 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/kevin_puede_esperar.jpg"/>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20240618040000 -0400" stop="20240618042000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618040000 -0400" stop="20240618042000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Kevin Puede Esperar</title>
     <desc lang="es">Temporada 1 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/kevin_puede_esperar.jpg"/>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20240618042000 -0400" stop="20240618044500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618042000 -0400" stop="20240618044500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Kevin Puede Esperar</title>
     <desc lang="es">Temporada 1 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/kevin_puede_esperar.jpg"/>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20240618044500 -0400" stop="20240618051000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618044500 -0400" stop="20240618051000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Kevin Puede Esperar</title>
     <desc lang="es">Temporada 1 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/kevin_puede_esperar.jpg"/>
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20240618051000 -0400" stop="20240618053000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618051000 -0400" stop="20240618053000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Kevin Puede Esperar</title>
     <desc lang="es">Temporada 1 | Episodio 14</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/kevin_puede_esperar.jpg"/>
     <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
-  <programme start="20240618053000 -0400" stop="20240618055500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618053000 -0400" stop="20240618055500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S5 E14</episode-num>
   </programme>
-  <programme start="20240618055500 -0400" stop="20240618062000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618055500 -0400" stop="20240618062000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E1</episode-num>
   </programme>
-  <programme start="20240618062000 -0400" stop="20240618064500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618062000 -0400" stop="20240618064500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E15</episode-num>
   </programme>
-  <programme start="20240618064500 -0400" stop="20240618071000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618064500 -0400" stop="20240618071000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20240618071000 -0400" stop="20240618073500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618071000 -0400" stop="20240618073500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240618073500 -0400" stop="20240618080000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618073500 -0400" stop="20240618080000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Odd Mom Out</title>
     <episode-num system="onscreen">S3 E8</episode-num>
   </programme>
-  <programme start="20240618080000 -0400" stop="20240618082000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618080000 -0400" stop="20240618082000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Biología Aplicada</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240618082000 -0400" stop="20240618084500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618082000 -0400" stop="20240618084500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Biología Aplicada</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240618084500 -0400" stop="20240618091000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618084500 -0400" stop="20240618091000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
-  <programme start="20240618091000 -0400" stop="20240618093500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618091000 -0400" stop="20240618093500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E3</episode-num>
   </programme>
-  <programme start="20240618093500 -0400" stop="20240618100000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618093500 -0400" stop="20240618100000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20240618100000 -0400" stop="20240618102500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618100000 -0400" stop="20240618102500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E18</episode-num>
   </programme>
-  <programme start="20240618102500 -0400" stop="20240618104500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618102500 -0400" stop="20240618104500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240618104500 -0400" stop="20240618111000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618104500 -0400" stop="20240618111000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Odd Mom Out</title>
     <episode-num system="onscreen">S3 E9</episode-num>
   </programme>
-  <programme start="20240618111000 -0400" stop="20240618113500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618111000 -0400" stop="20240618113500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S5 E21</episode-num>
   </programme>
-  <programme start="20240618113500 -0400" stop="20240618120000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618113500 -0400" stop="20240618120000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E1</episode-num>
   </programme>
-  <programme start="20240618120000 -0400" stop="20240618122500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618120000 -0400" stop="20240618122500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240618122500 -0400" stop="20240618125000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618122500 -0400" stop="20240618125000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240618125000 -0400" stop="20240618131500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618125000 -0400" stop="20240618131500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240618131500 -0400" stop="20240618134000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618131500 -0400" stop="20240618134000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20240618134000 -0400" stop="20240618140500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618134000 -0400" stop="20240618140500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20240618140500 -0400" stop="20240618143000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618140500 -0400" stop="20240618143000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20240618143000 -0400" stop="20240618145500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618143000 -0400" stop="20240618145500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20240618145500 -0400" stop="20240618152000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618145500 -0400" stop="20240618152000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E23</episode-num>
   </programme>
-  <programme start="20240618152000 -0400" stop="20240618154500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618152000 -0400" stop="20240618154500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E24</episode-num>
   </programme>
-  <programme start="20240618154500 -0400" stop="20240618160500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618154500 -0400" stop="20240618160500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240618160500 -0400" stop="20240618163000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618160500 -0400" stop="20240618163000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Ghosts</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20240618163000 -0400" stop="20240618171000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618163000 -0400" stop="20240618171000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Ted</title>
     <desc lang="es">Temporada 1 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/ted.jpg"/>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240618171000 -0400" stop="20240618182000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618171000 -0400" stop="20240618182000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Saturday night live</title>
     <episode-num system="onscreen">S49 E2</episode-num>
   </programme>
-  <programme start="20240618182000 -0400" stop="20240618184500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618182000 -0400" stop="20240618184500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
-  <programme start="20240618184500 -0400" stop="20240618191000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618184500 -0400" stop="20240618191000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E3</episode-num>
   </programme>
-  <programme start="20240618191000 -0400" stop="20240618193000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618191000 -0400" stop="20240618193000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20240618193000 -0400" stop="20240618195500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618193000 -0400" stop="20240618195500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E18</episode-num>
   </programme>
-  <programme start="20240618195500 -0400" stop="20240618204000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618195500 -0400" stop="20240618204000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20240618204000 -0400" stop="20240618210500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618204000 -0400" stop="20240618210500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240618210500 -0400" stop="20240618213000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618210500 -0400" stop="20240618213000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S5 E21</episode-num>
   </programme>
-  <programme start="20240618213000 -0400" stop="20240618215500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618213000 -0400" stop="20240618215500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E1</episode-num>
   </programme>
-  <programme start="20240618215500 -0400" stop="20240618222000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618215500 -0400" stop="20240618222000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240618222000 -0400" stop="20240618224500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618222000 -0400" stop="20240618224500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240618224500 -0400" stop="20240618231000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618224500 -0400" stop="20240618231000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240618231000 -0400" stop="20240618233500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618231000 -0400" stop="20240618233500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20240618233500 -0400" stop="20240619000000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240618233500 -0400" stop="20240619000000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20240619000000 -0400" stop="20240619003000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619000000 -0400" stop="20240619003000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Colin From Accounts</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240619003000 -0400" stop="20240619005500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619003000 -0400" stop="20240619005500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E25</episode-num>
   </programme>
-  <programme start="20240619005500 -0400" stop="20240619012000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619005500 -0400" stop="20240619012000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E26</episode-num>
   </programme>
-  <programme start="20240619012000 -0400" stop="20240619014500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619012000 -0400" stop="20240619014500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240619014500 -0400" stop="20240619021000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619014500 -0400" stop="20240619021000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240619021000 -0400" stop="20240619023500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619021000 -0400" stop="20240619023500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240619023500 -0400" stop="20240619032000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619023500 -0400" stop="20240619032000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20240619032000 -0400" stop="20240619034500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619032000 -0400" stop="20240619034500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240619034500 -0400" stop="20240619041000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619034500 -0400" stop="20240619041000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240619041000 -0400" stop="20240619043500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619041000 -0400" stop="20240619043500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240619043500 -0400" stop="20240619050000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619043500 -0400" stop="20240619050000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240619050000 -0400" stop="20240619052500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619050000 -0400" stop="20240619052500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240619052500 -0400" stop="20240619055000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619052500 -0400" stop="20240619055000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
-  <programme start="20240619055000 -0400" stop="20240619061500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619055000 -0400" stop="20240619061500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E3</episode-num>
   </programme>
-  <programme start="20240619061500 -0400" stop="20240619064000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619061500 -0400" stop="20240619064000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20240619064000 -0400" stop="20240619070500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619064000 -0400" stop="20240619070500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E18</episode-num>
   </programme>
-  <programme start="20240619070500 -0400" stop="20240619073000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619070500 -0400" stop="20240619073000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240619073000 -0400" stop="20240619080000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619073000 -0400" stop="20240619080000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Odd Mom Out</title>
     <episode-num system="onscreen">S3 E9</episode-num>
   </programme>
-  <programme start="20240619080000 -0400" stop="20240619083000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619080000 -0400" stop="20240619083000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Biología Aplicada</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240619083000 -0400" stop="20240619085500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619083000 -0400" stop="20240619085500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Biología Aplicada</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240619085500 -0400" stop="20240619092500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619085500 -0400" stop="20240619092500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20240619092500 -0400" stop="20240619095000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619092500 -0400" stop="20240619095000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20240619095000 -0400" stop="20240619102000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619095000 -0400" stop="20240619102000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E19</episode-num>
   </programme>
-  <programme start="20240619102000 -0400" stop="20240619104500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619102000 -0400" stop="20240619104500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20240619104500 -0400" stop="20240619111000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619104500 -0400" stop="20240619111000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240619111000 -0400" stop="20240619113500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619111000 -0400" stop="20240619113500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Odd Mom Out</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20240619113500 -0400" stop="20240619120000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619113500 -0400" stop="20240619120000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
-  <programme start="20240619120000 -0400" stop="20240619122500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619120000 -0400" stop="20240619122500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E3</episode-num>
   </programme>
-  <programme start="20240619122500 -0400" stop="20240619125000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619122500 -0400" stop="20240619125000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20240619125000 -0400" stop="20240619131500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619125000 -0400" stop="20240619131500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240619131500 -0400" stop="20240619134000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619131500 -0400" stop="20240619134000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20240619134000 -0400" stop="20240619140500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619134000 -0400" stop="20240619140500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20240619140500 -0400" stop="20240619143000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619140500 -0400" stop="20240619143000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240619143000 -0400" stop="20240619145500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619143000 -0400" stop="20240619145500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E25</episode-num>
   </programme>
-  <programme start="20240619145500 -0400" stop="20240619152000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619145500 -0400" stop="20240619152000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S6 E26</episode-num>
   </programme>
-  <programme start="20240619152000 -0400" stop="20240619154500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619152000 -0400" stop="20240619154500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240619154500 -0400" stop="20240619161000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619154500 -0400" stop="20240619161000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240619161000 -0400" stop="20240619163500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619161000 -0400" stop="20240619163500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240619163500 -0400" stop="20240619170000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619163500 -0400" stop="20240619170000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240619170000 -0400" stop="20240619172500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619170000 -0400" stop="20240619172500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240619172500 -0400" stop="20240619175000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619172500 -0400" stop="20240619175000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240619175000 -0400" stop="20240619181500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619175000 -0400" stop="20240619181500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240619181500 -0400" stop="20240619184000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619181500 -0400" stop="20240619184000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20240619184000 -0400" stop="20240619190500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619184000 -0400" stop="20240619190500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20240619190500 -0400" stop="20240619193000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619190500 -0400" stop="20240619193000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E19</episode-num>
   </programme>
-  <programme start="20240619193000 -0400" stop="20240619195500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619193000 -0400" stop="20240619195500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20240619195500 -0400" stop="20240619204000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619195500 -0400" stop="20240619204000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240619204000 -0400" stop="20240619210500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619204000 -0400" stop="20240619210500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20240619210500 -0400" stop="20240619213000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619210500 -0400" stop="20240619213000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
-  <programme start="20240619213000 -0400" stop="20240619215500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619213000 -0400" stop="20240619215500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E3</episode-num>
   </programme>
-  <programme start="20240619215500 -0400" stop="20240619222000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619215500 -0400" stop="20240619222000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20240619222000 -0400" stop="20240619224500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619222000 -0400" stop="20240619224500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240619224500 -0400" stop="20240619231000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619224500 -0400" stop="20240619231000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20240619231000 -0400" stop="20240619233500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619231000 -0400" stop="20240619233500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20240619233500 -0400" stop="20240620000000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240619233500 -0400" stop="20240620000000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240620000000 -0400" stop="20240620003000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620000000 -0400" stop="20240620003000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Ghosts</title>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20240620003000 -0400" stop="20240620005500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620003000 -0400" stop="20240620005500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240620005500 -0400" stop="20240620012000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620005500 -0400" stop="20240620012000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20240620012000 -0400" stop="20240620014500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620012000 -0400" stop="20240620014500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20240620014500 -0400" stop="20240620021000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620014500 -0400" stop="20240620021000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240620021000 -0400" stop="20240620023500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620021000 -0400" stop="20240620023500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20240620023500 -0400" stop="20240620032000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620023500 -0400" stop="20240620032000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240620032000 -0400" stop="20240620034500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620032000 -0400" stop="20240620034500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240620034500 -0400" stop="20240620041000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620034500 -0400" stop="20240620041000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240620041000 -0400" stop="20240620043500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620041000 -0400" stop="20240620043500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240620043500 -0400" stop="20240620050000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620043500 -0400" stop="20240620050000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240620050000 -0400" stop="20240620052500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620050000 -0400" stop="20240620052500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un gran chico</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240620052500 -0400" stop="20240620055000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620052500 -0400" stop="20240620055000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20240620055000 -0400" stop="20240620061500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620055000 -0400" stop="20240620061500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20240620061500 -0400" stop="20240620064000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620061500 -0400" stop="20240620064000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E19</episode-num>
   </programme>
-  <programme start="20240620064000 -0400" stop="20240620070500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620064000 -0400" stop="20240620070500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20240620070500 -0400" stop="20240620073000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620070500 -0400" stop="20240620073000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240620073000 -0400" stop="20240620080000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620073000 -0400" stop="20240620080000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Odd Mom Out</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20240620080000 -0400" stop="20240620083000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620080000 -0400" stop="20240620083000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Biología Aplicada</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240620083000 -0400" stop="20240620085500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620083000 -0400" stop="20240620085500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Biología Aplicada</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240620085500 -0400" stop="20240620092500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620085500 -0400" stop="20240620092500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
-  <programme start="20240620092500 -0400" stop="20240620095000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620092500 -0400" stop="20240620095000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E7</episode-num>
   </programme>
-  <programme start="20240620095000 -0400" stop="20240620102000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620095000 -0400" stop="20240620102000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20240620102000 -0400" stop="20240620104500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620102000 -0400" stop="20240620104500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240620104500 -0400" stop="20240620111000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620104500 -0400" stop="20240620111000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240620111000 -0400" stop="20240620113500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620111000 -0400" stop="20240620113500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Odd Mom Out</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240620113500 -0400" stop="20240620120000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620113500 -0400" stop="20240620120000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20240620120000 -0400" stop="20240620122500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620120000 -0400" stop="20240620122500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20240620122500 -0400" stop="20240620125000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620122500 -0400" stop="20240620125000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240620125000 -0400" stop="20240620131500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620125000 -0400" stop="20240620131500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
-  <programme start="20240620131500 -0400" stop="20240620134000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620131500 -0400" stop="20240620134000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20240620134000 -0400" stop="20240620140500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620134000 -0400" stop="20240620140500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E1</episode-num>
   </programme>
-  <programme start="20240620140500 -0400" stop="20240620143000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620140500 -0400" stop="20240620143000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E2</episode-num>
   </programme>
-  <programme start="20240620143000 -0400" stop="20240620145500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620143000 -0400" stop="20240620145500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240620145500 -0400" stop="20240620152000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620145500 -0400" stop="20240620152000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20240620152000 -0400" stop="20240620154500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620152000 -0400" stop="20240620154500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20240620154500 -0400" stop="20240620161000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620154500 -0400" stop="20240620161000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20240620161000 -0400" stop="20240620163500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620161000 -0400" stop="20240620163500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un hombre. Un plan</title>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20240620163500 -0400" stop="20240620170000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620163500 -0400" stop="20240620170000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un hombre. Un plan</title>
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20240620170000 -0400" stop="20240620172500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620170000 -0400" stop="20240620172500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un hombre. Un plan</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20240620172500 -0400" stop="20240620175000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620172500 -0400" stop="20240620175000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un hombre. Un plan</title>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20240620175000 -0400" stop="20240620181500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620175000 -0400" stop="20240620181500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Un hombre. Un plan</title>
     <episode-num system="onscreen">S3 E3</episode-num>
   </programme>
-  <programme start="20240620181500 -0400" stop="20240620184000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620181500 -0400" stop="20240620184000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
-  <programme start="20240620184000 -0400" stop="20240620190500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620184000 -0400" stop="20240620190500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Mindy Project</title>
     <episode-num system="onscreen">S6 E7</episode-num>
   </programme>
-  <programme start="20240620190500 -0400" stop="20240620193000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620190500 -0400" stop="20240620193000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20240620193000 -0400" stop="20240620195500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620193000 -0400" stop="20240620195500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240620195500 -0400" stop="20240620204000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620195500 -0400" stop="20240620204000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240620204000 -0400" stop="20240620210500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620204000 -0400" stop="20240620210500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 3 | Episodio 1</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20240620210500 -0400" stop="20240620213000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620210500 -0400" stop="20240620213000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20240620213000 -0400" stop="20240620215500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620213000 -0400" stop="20240620215500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20240620215500 -0400" stop="20240620222000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620215500 -0400" stop="20240620222000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240620222000 -0400" stop="20240620224500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620222000 -0400" stop="20240620224500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
-  <programme start="20240620224500 -0400" stop="20240620231000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620224500 -0400" stop="20240620231000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20240620231000 -0400" stop="20240620233500 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620231000 -0400" stop="20240620233500 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E1</episode-num>
   </programme>
-  <programme start="20240620233500 -0400" stop="20240621000000 -0400" channel="CINE HD | STAR COMEDY ( DUAL AUDIO)">
+  <programme start="20240620233500 -0400" stop="20240621000000 -0400" channel="CINE HD | STAR COMEDY ( Dual audio)">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E2</episode-num>
   </programme>
