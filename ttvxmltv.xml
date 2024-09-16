@@ -12,6 +12,10 @@
     <display-name lang="es">A&amp;E HD (AR)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_a-e-mundo_m.png"/>
   </channel>
+  <channel id="A3series HD">
+    <display-name lang="es">A3series HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/atreseries.png"/>
+  </channel>
   <programme start="20240917040000 +0200" stop="20240917045000 +0200" channel="A&amp;E SD">
     <title lang="es">Rosario Tijeras</title>
     <desc lang="es">Rosario logra regresar a su casa luego de un calvario, pero no le cuenta a Ruby toda la verdad, solo le dice que le robaron su motocicleta y la golpearon. Mientras tanto, Papá instiga a Dayra para que le diga quién es Johnefe.</desc>
@@ -739,5 +743,66 @@
     <star-rating system="IMDb">
       <value>5.3/10</value>
     </star-rating>
+  </programme>
+  <programme start="20240916010000 -0300" stop="20240916013000 -0300" channel="A3series HD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20240916013000 -0300" stop="20240916024500 -0300" channel="A3series HD">
+    <title lang="es">Con El Culo Al Aire</title>
+  </programme>
+  <programme start="20240916024500 -0300" stop="20240916054500 -0300" channel="A3series HD">
+    <title lang="es">Con El Culo Al Aire</title>
+  </programme>
+  <programme start="20240916054500 -0300" stop="20240916080000 -0300" channel="A3series HD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20240916080000 -0300" stop="20240916141000 -0300" channel="A3series HD">
+    <title lang="es">Rex, un policía diferente</title>
+  </programme>
+  <programme start="20240916141000 -0300" stop="20240916172500 -0300" channel="A3series HD">
+    <title lang="es">El Mentalista</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
+  </programme>
+  <programme start="20240916172500 -0300" stop="20240916210000 -0300" channel="A3series HD">
+    <title lang="es">Los misterios de laura</title>
+  </programme>
+  <programme start="20240916210000 -0300" stop="20240916214500 -0300" channel="A3series HD">
+    <title lang="es">Live Casino</title>
+  </programme>
+  <programme start="20240916214500 -0300" stop="20240917010000 -0300" channel="A3series HD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20240917214500 -0300" stop="20240918010000 -0300" channel="A3series HD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20240918010000 -0300" stop="20240918014000 -0300" channel="A3series HD">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20240918014000 -0300" stop="20240918025500 -0300" channel="A3series HD">
+    <title lang="es">Con El Culo Al Aire</title>
+  </programme>
+  <programme start="20240918025500 -0300" stop="20240918054500 -0300" channel="A3series HD">
+    <title lang="es">Con El Culo Al Aire</title>
+  </programme>
+  <programme start="20240918054500 -0300" stop="20240918081000 -0300" channel="A3series HD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20240918081000 -0300" stop="20240918140000 -0300" channel="A3series HD">
+    <title lang="es">Rex, un policía diferente</title>
+  </programme>
+  <programme start="20240918140000 -0300" stop="20240918172000 -0300" channel="A3series HD">
+    <title lang="es">El Mentalista</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
+  </programme>
+  <programme start="20240918172000 -0300" stop="20240918210000 -0300" channel="A3series HD">
+    <title lang="es">Vera</title>
+  </programme>
+  <programme start="20240918210000 -0300" stop="20240918214500 -0300" channel="A3series HD">
+    <title lang="es">Live Casino</title>
+  </programme>
+  <programme start="20240918214500 -0300" stop="20240919010000 -0300" channel="A3series HD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
 </tv>
