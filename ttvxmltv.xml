@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="A&amp;E HD (AR)">
+    <display-name lang="es">A&amp;E HD (AR)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_a-e-mundo_m.png"/>
+  </channel>
+  <programme start="20240917025000 +0200" stop="20240917043100 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Centurión</title>
+    <title lang="en">Centurion</title>
+    <desc lang="es">Bretaña, año 117 de nuestra era. Un grupo de soldados romanos lucha por salvar sus vidas después de que la legión se vea mermada tras un ataque de la guerrilla local.</desc>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_centurion-2010_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240917043100 +0200" stop="20240917063900 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">El expreso del miedo</title>
+    <title lang="en">Snowpiercer</title>
+    <desc lang="es">Un experimento fallido para solucionar el calentamiento global casi acaba con la vida sobre la Tierra. Los supervivientes son los pasajeros del Snowpiercer, un tren que recorre el mundo impulsado por un motor de movimiento eterno.</desc>
+    <date>2013</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-expreso-del-miedo-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240917063900 +0200" stop="20240917073200 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Rosario Tijeras</title>
+    <desc lang="es">Arteaga se entera de que Rosario está en el hospital y quiere que Brandon la rescate. Mientras tanto, Pamela llega e interroga al teniente sobre lo sucedido.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rosario-tijeras-s01e31-emilio-defendio-a-sam-de-los-maltratos-de-federico_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+  </programme>
+  <programme start="20240917073200 +0200" stop="20240917081800 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Secretos de la poligamia</title>
+    <sub-title lang="es">Novias y niñas</sub-title>
+    <desc lang="es">Aunque Warren Jeffs esté en prisión, las niñas y adolescentes de su secta siguen en riesgo. Matt Browning entrevista a una mujer obligada a casarse con solo 12 años.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20240917081800 +0200" stop="20240917082300 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Intervención</title>
+    <desc lang="es">A Janine el consumir heroína por tantos años le generó la peor de las consecuencias y es no pensar en ella misma, perdió el interés por tener buena salud y por tener dinero en sus bolsillos.</desc>
+    <category lang="es">- Consecuencias sintéticas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_intervencion-consecuencias-sinteticas_l_l.jpg"/>
+  </programme>
+  <programme start="20240917082300 +0200" stop="20240917090800 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Intervención</title>
+    <sub-title lang="es">El centro de la heroína - Parte 2</sub-title>
+    <desc lang="es">La intervencionista Donna Chavous debe reconsiderar la intervención de Janine ahora que está en la cárcel. El intervencionista Jim Reidy se reúne con la familia de Nicole y descubre cómo terminó en las calles.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_intervencion-s20e02-el-centro-de-la-heroina-parte-2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.1.</episode-num>
+  </programme>
+  <programme start="20240917090800 +0200" stop="20240917091300 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Las primeras 48 horas</title>
+    <desc lang="es">Cada minuto cuenta, cada segundo podría significar la diferencia entre hacer justicia o dejar un crimen impune.</desc>
+    <category lang="es">- Un cuerpo y un casquillo hallados</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-primeras-48-horas-un-cuerpo-y-un-casquillo-hallados_l_l.jpg"/>
+  </programme>
+  <programme start="20240917091300 +0200" stop="20240917100000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Las primeras 48 horas</title>
+    <sub-title lang="es">Sin opciones y la reunión</sub-title>
+    <desc lang="es">Mientras en el condado de Tulsa, el detective White intenta convencer a un ex-alumno para que diga la verdad sobre un tiroteo, en un complejo de apartamentos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-primeras-48-horas-s25e495-sin-opciones-y-la-reunion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.494.</episode-num>
+  </programme>
+  <programme start="20240917100000 +0200" stop="20240917102600 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Cam Alert</title>
+    <desc lang="es">Francisco Zea relata las capturas exitosas más impresionantes de México. Hoy maniobras, choques y tiros en una frenética persecución.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cam-alert-s02e06_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20240917102600 +0200" stop="20240917111300 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Testigo de asesinato: evidencia digital</title>
+    <sub-title lang="es">Últimos pasos mortales</sub-title>
+    <desc lang="es">Cuando una joven en Carolina del Sur es encontrada muerta en su bañera, la investigación se centra en 2 sospechosos: su esposo, del que se separó recientemente, y su actual novio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20240917111300 +0200" stop="20240917120000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Testigo de asesinato: evidencia digital</title>
+    <sub-title lang="es">Red de mentiras</sub-title>
+    <desc lang="es">Gracias a la informática forense, las autoridades logran desacreditar la coartada del principal sospechoso de asesinar a una corredora de 24 años que desapareció mientras trotaba en el área rural de Arkansas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20240917120000 +0200" stop="20240917130000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20240917130000 +0200" stop="20240917140000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20240917140000 +0200" stop="20240917145600 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Crímenes no resueltos</title>
+    <sub-title lang="es">Cenizas frías</sub-title>
+    <desc lang="es">Una casa se incendia matando a toda una familia, en la zona rural de Oklahoma. Pero los investigadores sospechan que se trata de un crimen premeditado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_crimenes-no-resueltos-s02e20-cenizas-frias_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+  </programme>
+  <programme start="20240917145600 +0200" stop="20240917155200 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Testigo de asesinato: evidencia digital</title>
+    <sub-title lang="es">Red de mentiras</sub-title>
+    <desc lang="es">Gracias a la informática forense, las autoridades logran desacreditar la coartada del principal sospechoso de asesinar a una corredora de 24 años que desapareció mientras trotaba en el área rural de Arkansas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20240917155200 +0200" stop="20240917171300 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Cerco al enemigo</title>
+    <title lang="en">Enemies Closer</title>
+    <desc lang="es">Después de que una gran embarcación con drogas se perdiera en la frontera de Estados Unidos y Canadá, el guardabosque y militar Henry deberá sobrevivir cuando el cartel de la droga lo obligue a ayudarlos a recuperar la mercancía.</desc>
+    <date>2013</date>
+    <category lang="es">Suspenso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cerco-al-enemigo-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240917171300 +0200" stop="20240917191700 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">El expreso del miedo</title>
+    <title lang="en">Snowpiercer</title>
+    <desc lang="es">Un experimento fallido para solucionar el calentamiento global casi acaba con la vida sobre la Tierra. Los supervivientes son los pasajeros del Snowpiercer, un tren que recorre el mundo impulsado por un motor de movimiento eterno.</desc>
+    <date>2013</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-expreso-del-miedo-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240917191700 +0200" stop="20240917205600 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Biografía</title>
+    <desc lang="es">¿Cómo un niño de un pueblo de Pensilvania se convirtió en un ícono de la cultura pop? Este documental explora cómo el valor y la determinación convirtieron a Bret Michaels en el líder definitivo de la banda Poison.</desc>
+    <category lang="es">- Bret Michaels</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20240917205600 +0200" stop="20240917230100 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Rocky</title>
+    <desc lang="es">Rocky Balboa es un desconocido y humilde boxeador en el que nadie cree. Inesperadamente, se le presenta una oportunidad que podría cambiar su vida: luchar por el título mundial de los pesos pesados contra el temible campeón, Apollo Creed.</desc>
+    <date>1976</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rocky-1976_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240917230100 +0200" stop="20240918010000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Érase una vez en China III</title>
+    <title lang="en">Wong Fei Hung Ji Saam: Si Wong Jaang Ba</title>
+    <desc lang="es">Fei Hung Wong va a Pekín a visitar a su padre, un maestro de la danza del león. Won se entera de un complot para matar al gobernador chino durante una competencia, por lo cual se inscribe con sus alumnos para detener el posible asesinato.</desc>
+    <date>1992</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20240918010000 +0200" stop="20240918015500 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Rosario Tijeras</title>
+    <desc lang="es">Rosario finalmente entra en razón y acepta las sospechas sobre cómo estuvo involucrada la policía en el secuestro de su hija. Decide entregar a Dylan, y le da veinticuatro horas a la agente Pamela para que le devuelvan a su hija.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rosario-tijeras-s03e33_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.32.</episode-num>
+  </programme>
+  <programme start="20240918015500 +0200" stop="20240918025000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">Rosario Tijeras</title>
+    <desc lang="es">Cuando Pamela se da cuenta de lo que sucede, acude al rescate de Dylan. Mientras tanto, Rosario Tijeras logra escapar y busca consuelo con una visita a su padre. Pero cuando parece que las cosas finalmente se han calmado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rosario-tijeras-s03e34_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.33.</episode-num>
+  </programme>
+  <programme start="20240918025000 +0200" stop="20240919025000 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">El encargo</title>
+    <title lang="en">The Bag Man</title>
+    <desc lang="es">Un sicario es contratado para un nuevo trabajo por su jefe. La misión es sencilla: trasladar una misteriosa bolsa, que no puede abrir, de un lugar a otro. El problema es que, en esta ciudad, todos anhelan conseguir esa bolsa.</desc>
+    <date>2014</date>
+    <category lang="es">Crimen</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-encargo-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240919025000 +0200" stop="20240919044100 +0200" channel="A&amp;E HD (AR)">
+    <title lang="es">El encargo</title>
+    <title lang="en">The Bag Man</title>
+    <desc lang="es">Un sicario es contratado para un nuevo trabajo por su jefe. La misión es sencilla: trasladar una misteriosa bolsa, que no puede abrir, de un lugar a otro. El problema es que, en esta ciudad, todos anhelan conseguir esa bolsa.</desc>
+    <date>2014</date>
+    <category lang="es">Crimen</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-encargo-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+</tv>
