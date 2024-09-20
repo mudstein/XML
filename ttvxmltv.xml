@@ -220,8 +220,17 @@
     <display-name lang="es">Sony HD*</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_sony_m.png"/>
   </channel>
-  <channel id="CINE SONY">
-    <display-name lang="xx">CINE SONY</display-name>
+  <channel id="SPACE SD">
+    <display-name lang="es">SPACE SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_space_m.png"/>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="es">Space HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_space_m.png"/>
+  </channel>
+  <channel id="Space FHD">
+    <display-name lang="es">Space FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_space_m.png"/>
   </channel>
   <programme start="20240920050000 +0200" stop="20240920055200 +0200" channel="A&amp;E SD">
     <title lang="es">Rosario Tijeras</title>
@@ -9086,6 +9095,464 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_quien-son-los-millers-2013_l_l.jpg"/>
     <star-rating system="IMDb">
       <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920035000 +0200" stop="20240920060000 +0200" channel="SPACE SD">
+    <title lang="es">El demoledor</title>
+    <title lang="en">Demolition Man</title>
+    <desc lang="es">En 1996, John Spartan, uno de los más eficaces y drásticos policías de Los Ángeles, conocido como Demoliton Man, trata de capturar a Simon Phoenix, un psicópata asesino que está sembrando el terror.</desc>
+    <date>1993</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-demoledor-1993_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920060000 +0200" stop="20240920080800 +0200" channel="SPACE SD">
+    <title lang="es">Guerra mundial Z</title>
+    <title lang="en">World War Z</title>
+    <desc lang="es">Un investigador de las Naciones Unidas busca una solución para frenar a una pandemia de muertos vivientes que amenaza con destruir a la raza humana.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_guerra-mundial-z-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920080800 +0200" stop="20240920094100 +0200" channel="SPACE SD">
+    <title lang="es">Priest, el vengador</title>
+    <title lang="en">Priest</title>
+    <desc lang="es">Un cura guerrero irá al rescate de su sobrina, que ha sido raptada por una banda de vampiros para convertirla en uno de ellos. A la búsqueda se unen el joven sheriff novio de la víctima y una bella sacerdotisa ex guerrera.</desc>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_priest-el-vengador-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920094100 +0200" stop="20240920111100 +0200" channel="SPACE SD">
+    <title lang="es">Jigsaw: El juego continúa</title>
+    <title lang="en">Saw VIII</title>
+    <desc lang="es">Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos.</desc>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_jigsaw-el-juego-continua-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20240920111100 +0200" stop="20240920123300 +0200" channel="SPACE SD">
+    <title lang="es">La maldición de La Llorona</title>
+    <title lang="en">The Curse of La Llorona</title>
+    <desc lang="es">La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones.</desc>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-maldicion-de-la-llorona-2019-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920123300 +0200" stop="20240920140000 +0200" channel="SPACE SD">
+    <title lang="es">Tres</title>
+    <title lang="en">San ren xing</title>
+    <desc lang="es">Un criminal herido durante una redada policial es llevado a un hospital, donde rechaza la asistencia médica para ganar tiempo y permitir que sus secuaces logren rescatarlo. Un detective advierte la jugada y decide atrapar a toda la banda.</desc>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_tres-2016_l_l.jpg"/>
+  </programme>
+  <programme start="20240920140000 +0200" stop="20240920143600 +0200" channel="SPACE SD">
+    <title lang="es">Inside Warner: Cidade de Deus: A luta não para</title>
+    <desc lang="es">Hablamos con los protagonistas y la directora de esta serie original de HBO, quienes nos revelan los secretos y el detrás de escena de la esperada producción.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20240920143600 +0200" stop="20240920163000 +0200" channel="SPACE SD">
+    <title lang="es">Mini espías 2: La isla de los sueños perdidos</title>
+    <title lang="en">Spy Kids 2 - The Island of Lost Dreams</title>
+    <sub-title lang="es">The Island of Lost Dreams</sub-title>
+    <desc lang="es">Carmen y Juni han logrado el nivel 2 como agentes de la OSS, y afrontarán su primer misión solos para salvar al mundo de una misteriosa isla volcánica, poblada por una fauna muy particular.</desc>
+    <date>2002</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mini-espias-2-la-isla-de-los-suenos-perdidos-2002_l_l.jpg"/>
+  </programme>
+  <programme start="20240920163000 +0200" stop="20240920185600 +0200" channel="SPACE SD">
+    <title lang="es">Godzilla</title>
+    <desc lang="es">El famoso monstruo se enfrenta a malvadas criaturas que, animadas por la arrogancia científica de la humanidad, amenazan nuestra propia existencia, en una historia de valor y reconciliación frente a las poderosas fuerzas de la naturaleza.</desc>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_godzilla-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920185600 +0200" stop="20240920213300 +0200" channel="SPACE SD">
+    <title lang="es">El patriota</title>
+    <title lang="en">The Patriot</title>
+    <desc lang="es">En plena guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas de Jorge III, en Carolina del Sur, Benjamin Martin, heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos.</desc>
+    <date>2000</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-patriota-2000_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920213300 +0200" stop="20240920215300 +0200" channel="SPACE SD">
+    <title lang="es">Inside Warner: Cidade de Deus: A luta não para</title>
+    <desc lang="es">Hablamos con los protagonistas y la directora de esta serie original de HBO, quienes nos revelan los secretos y el detrás de escena de la esperada producción.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20240920215300 +0200" stop="20240921001900 +0200" channel="SPACE SD">
+    <title lang="es">Los federales</title>
+    <title lang="en">US Marshals</title>
+    <desc lang="es">Un avión que transportaba presos sufre un accidente y uno de estos presos logra escapar. El agente federal Sam Gerard y su equipo son encargados de su captura.</desc>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-federales-1998_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921001900 +0200" stop="20240921021400 +0200" channel="SPACE SD">
+    <title lang="es">Un detective suelto en Hollywood</title>
+    <title lang="en">Beverly Hills Cop</title>
+    <desc lang="es">Un teniente de policía es individualista e indisciplinado, se ve constantemente en problemas y sus jefes prefieren tenerlo lejos. Durante un enfrentamiento su compañero es cruelmente asesinado y jura venganza.</desc>
+    <date>1984</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-detective-suelto-en-hollywood-1984_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921021400 +0200" stop="20240921040700 +0200" channel="SPACE SD">
+    <title lang="es">Un detective suelto en Hollywood II</title>
+    <title lang="en">Beverly Hills Cop II</title>
+    <desc lang="es">Apenas llega a Detroit, el detective Foley se entera de que los problemas reaparecen en Beverly Hills, donde una serie de robos a los que se conoce como ''los crímenes del alfabeto'' quitan el sueño a la policía local.</desc>
+    <date>1987</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-detective-suelto-en-hollywood-ii-1987_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921040700 +0200" stop="20240922040700 +0200" channel="SPACE SD">
+    <title lang="es">Un detective suelto en Hollywood III</title>
+    <title lang="en">Beverly Hills Cop III</title>
+    <desc lang="es">En esta ocasión el detective Alex Foley se enfrenta a una banda de falsificadores, quienes están utilizando las instalaciones y el equipo del parque de diversiones de Wonder World para imprimir dólares.</desc>
+    <date>1994</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-detective-suelto-en-hollywood-iii-1994_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920030000 +0200" stop="20240920050900 +0200" channel="Space HD">
+    <title lang="es">Guerra mundial Z</title>
+    <title lang="en">World War Z</title>
+    <desc lang="es">Un investigador de las Naciones Unidas busca una solución para frenar a una pandemia de muertos vivientes que amenaza con destruir a la raza humana.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_guerra-mundial-z-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920050900 +0200" stop="20240920065200 +0200" channel="Space HD">
+    <title lang="es">Priest, el vengador</title>
+    <title lang="en">Priest</title>
+    <desc lang="es">Un cura guerrero irá al rescate de su sobrina, que ha sido raptada por una banda de vampiros para convertirla en uno de ellos. A la búsqueda se unen el joven sheriff novio de la víctima y una bella sacerdotisa ex guerrera.</desc>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_priest-el-vengador-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920065200 +0200" stop="20240920082400 +0200" channel="Space HD">
+    <title lang="es">Jigsaw: El juego continúa</title>
+    <title lang="en">Saw VIII</title>
+    <desc lang="es">Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos.</desc>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_jigsaw-el-juego-continua-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20240920082400 +0200" stop="20240920094600 +0200" channel="Space HD">
+    <title lang="es">La maldición de La Llorona</title>
+    <title lang="en">The Curse of La Llorona</title>
+    <desc lang="es">La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones.</desc>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-maldicion-de-la-llorona-2019-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920094600 +0200" stop="20240920102300 +0200" channel="Space HD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con las personalidades de Hollywood sobre sus nuevos proyectos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e14_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240920102300 +0200" stop="20240920110000 +0200" channel="Space HD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con las personalidades de Hollywood sobre sus nuevos proyectos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e15_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240920110000 +0200" stop="20240920143000 +0200" channel="Space HD">
+    <title lang="es">Mini espías 2: La isla de los sueños perdidos</title>
+    <title lang="en">Spy Kids 2 - The Island of Lost Dreams</title>
+    <sub-title lang="es">The Island of Lost Dreams</sub-title>
+    <desc lang="es">Carmen y Juni han logrado el nivel 2 como agentes de la OSS, y afrontarán su primer misión solos para salvar al mundo de una misteriosa isla volcánica, poblada por una fauna muy particular.</desc>
+    <date>2002</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mini-espias-2-la-isla-de-los-suenos-perdidos-2002_l_l.jpg"/>
+  </programme>
+  <programme start="20240920143000 +0200" stop="20240920145100 +0200" channel="Space HD">
+    <title lang="es">Efecto Carbonaro</title>
+    <sub-title lang="es">Trituración</sub-title>
+    <desc lang="es">Michael convence a los clientes de un lavado de coches que él rompió sus ventanas solo para arreglarlas milagrosamente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_efecto-carbonaro-s01e04-trituracion-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20240920145100 +0200" stop="20240920152300 +0200" channel="Space HD">
+    <title lang="es">Efecto Carbonaro</title>
+    <sub-title lang="es">Despedida</sub-title>
+    <desc lang="es">Michael convence a unos clientes de comprar juguetes que posiblemente no existen, como burbujas que se convierten en adornos navideños al atraparlas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_efecto-carbonaro-s01e05-despedida-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20240920152300 +0200" stop="20240920180300 +0200" channel="Space HD">
+    <title lang="es">El patriota</title>
+    <title lang="en">The Patriot</title>
+    <desc lang="es">En plena guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas de Jorge III, en Carolina del Sur, Benjamin Martin, heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos.</desc>
+    <date>2000</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-patriota-2000_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920180300 +0200" stop="20240920182300 +0200" channel="Space HD">
+    <title lang="es">Inside Warner: Cidade de Deus: A luta não para</title>
+    <desc lang="es">Hablamos con los protagonistas y la directora de esta serie original de HBO, quienes nos revelan los secretos y el detrás de escena de la esperada producción.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20240920182300 +0200" stop="20240920204800 +0200" channel="Space HD">
+    <title lang="es">Los federales</title>
+    <title lang="en">US Marshals</title>
+    <desc lang="es">Un avión que transportaba presos sufre un accidente y uno de estos presos logra escapar. El agente federal Sam Gerard y su equipo son encargados de su captura.</desc>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_los-federales-1998_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920204800 +0200" stop="20240920225400 +0200" channel="Space HD">
+    <title lang="es">Un detective suelto en Hollywood</title>
+    <title lang="en">Beverly Hills Cop</title>
+    <desc lang="es">Un teniente de policía es individualista e indisciplinado, se ve constantemente en problemas y sus jefes prefieren tenerlo lejos. Durante un enfrentamiento su compañero es cruelmente asesinado y jura venganza.</desc>
+    <date>1984</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_un-detective-suelto-en-hollywood-1984_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920225400 +0200" stop="20240921005800 +0200" channel="Space HD">
+    <title lang="es">Un detective suelto en Hollywood II</title>
+    <title lang="en">Beverly Hills Cop II</title>
+    <desc lang="es">Apenas llega a Detroit, el detective Foley se entera de que los problemas reaparecen en Beverly Hills, donde una serie de robos a los que se conoce como ''los crímenes del alfabeto'' quitan el sueño a la policía local.</desc>
+    <date>1987</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_un-detective-suelto-en-hollywood-ii-1987_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921005800 +0200" stop="20240921030000 +0200" channel="Space HD">
+    <title lang="es">Un detective suelto en Hollywood III</title>
+    <title lang="en">Beverly Hills Cop III</title>
+    <desc lang="es">En esta ocasión el detective Alex Foley se enfrenta a una banda de falsificadores, quienes están utilizando las instalaciones y el equipo del parque de diversiones de Wonder World para imprimir dólares.</desc>
+    <date>1994</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_un-detective-suelto-en-hollywood-iii-1994_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921030000 +0200" stop="20240921045100 +0200" channel="Space HD">
+    <title lang="es">Jigsaw: El juego continúa</title>
+    <title lang="en">Saw VIII</title>
+    <desc lang="es">Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos.</desc>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_jigsaw-el-juego-continua-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20240921045100 +0200" stop="20240922045100 +0200" channel="Space HD">
+    <title lang="es">La maldición de La Llorona</title>
+    <title lang="en">The Curse of La Llorona</title>
+    <desc lang="es">La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones.</desc>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-maldicion-de-la-llorona-2019-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920030000 +0200" stop="20240920050900 +0200" channel="Space FHD">
+    <title lang="es">Guerra mundial Z</title>
+    <title lang="en">World War Z</title>
+    <desc lang="es">Un investigador de las Naciones Unidas busca una solución para frenar a una pandemia de muertos vivientes que amenaza con destruir a la raza humana.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_guerra-mundial-z-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920050900 +0200" stop="20240920065200 +0200" channel="Space FHD">
+    <title lang="es">Priest, el vengador</title>
+    <title lang="en">Priest</title>
+    <desc lang="es">Un cura guerrero irá al rescate de su sobrina, que ha sido raptada por una banda de vampiros para convertirla en uno de ellos. A la búsqueda se unen el joven sheriff novio de la víctima y una bella sacerdotisa ex guerrera.</desc>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_priest-el-vengador-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920065200 +0200" stop="20240920082400 +0200" channel="Space FHD">
+    <title lang="es">Jigsaw: El juego continúa</title>
+    <title lang="en">Saw VIII</title>
+    <desc lang="es">Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos.</desc>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_jigsaw-el-juego-continua-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20240920082400 +0200" stop="20240920094600 +0200" channel="Space FHD">
+    <title lang="es">La maldición de La Llorona</title>
+    <title lang="en">The Curse of La Llorona</title>
+    <desc lang="es">La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones.</desc>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-maldicion-de-la-llorona-2019-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920094600 +0200" stop="20240920102300 +0200" channel="Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con las personalidades de Hollywood sobre sus nuevos proyectos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e14_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.13.</episode-num>
+  </programme>
+  <programme start="20240920102300 +0200" stop="20240920110000 +0200" channel="Space FHD">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Entrevistas con las personalidades de Hollywood sobre sus nuevos proyectos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e15_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.14.</episode-num>
+  </programme>
+  <programme start="20240920110000 +0200" stop="20240920143000 +0200" channel="Space FHD">
+    <title lang="es">Mini espías 2: La isla de los sueños perdidos</title>
+    <title lang="en">Spy Kids 2 - The Island of Lost Dreams</title>
+    <sub-title lang="es">The Island of Lost Dreams</sub-title>
+    <desc lang="es">Carmen y Juni han logrado el nivel 2 como agentes de la OSS, y afrontarán su primer misión solos para salvar al mundo de una misteriosa isla volcánica, poblada por una fauna muy particular.</desc>
+    <date>2002</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mini-espias-2-la-isla-de-los-suenos-perdidos-2002_l_l.jpg"/>
+  </programme>
+  <programme start="20240920143000 +0200" stop="20240920145100 +0200" channel="Space FHD">
+    <title lang="es">Efecto Carbonaro</title>
+    <sub-title lang="es">Trituración</sub-title>
+    <desc lang="es">Michael convence a los clientes de un lavado de coches que él rompió sus ventanas solo para arreglarlas milagrosamente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_efecto-carbonaro-s01e04-trituracion-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20240920145100 +0200" stop="20240920152300 +0200" channel="Space FHD">
+    <title lang="es">Efecto Carbonaro</title>
+    <sub-title lang="es">Despedida</sub-title>
+    <desc lang="es">Michael convence a unos clientes de comprar juguetes que posiblemente no existen, como burbujas que se convierten en adornos navideños al atraparlas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_efecto-carbonaro-s01e05-despedida-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20240920152300 +0200" stop="20240920180300 +0200" channel="Space FHD">
+    <title lang="es">El patriota</title>
+    <title lang="en">The Patriot</title>
+    <desc lang="es">En plena guerra de Independencia entre los colonos de Nueva Inglaterra y las tropas de Jorge III, en Carolina del Sur, Benjamin Martin, heroico soldado en Francia y en la India, renuncia a combatir para cuidar de sus siete hijos.</desc>
+    <date>2000</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-patriota-2000_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920180300 +0200" stop="20240920182300 +0200" channel="Space FHD">
+    <title lang="es">Inside Warner: Cidade de Deus: A luta não para</title>
+    <desc lang="es">Hablamos con los protagonistas y la directora de esta serie original de HBO, quienes nos revelan los secretos y el detrás de escena de la esperada producción.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20240920182300 +0200" stop="20240920204800 +0200" channel="Space FHD">
+    <title lang="es">Los federales</title>
+    <title lang="en">US Marshals</title>
+    <desc lang="es">Un avión que transportaba presos sufre un accidente y uno de estos presos logra escapar. El agente federal Sam Gerard y su equipo son encargados de su captura.</desc>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_los-federales-1998_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920204800 +0200" stop="20240920225400 +0200" channel="Space FHD">
+    <title lang="es">Un detective suelto en Hollywood</title>
+    <title lang="en">Beverly Hills Cop</title>
+    <desc lang="es">Un teniente de policía es individualista e indisciplinado, se ve constantemente en problemas y sus jefes prefieren tenerlo lejos. Durante un enfrentamiento su compañero es cruelmente asesinado y jura venganza.</desc>
+    <date>1984</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_un-detective-suelto-en-hollywood-1984_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920225400 +0200" stop="20240921005800 +0200" channel="Space FHD">
+    <title lang="es">Un detective suelto en Hollywood II</title>
+    <title lang="en">Beverly Hills Cop II</title>
+    <desc lang="es">Apenas llega a Detroit, el detective Foley se entera de que los problemas reaparecen en Beverly Hills, donde una serie de robos a los que se conoce como ''los crímenes del alfabeto'' quitan el sueño a la policía local.</desc>
+    <date>1987</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_un-detective-suelto-en-hollywood-ii-1987_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921005800 +0200" stop="20240921030000 +0200" channel="Space FHD">
+    <title lang="es">Un detective suelto en Hollywood III</title>
+    <title lang="en">Beverly Hills Cop III</title>
+    <desc lang="es">En esta ocasión el detective Alex Foley se enfrenta a una banda de falsificadores, quienes están utilizando las instalaciones y el equipo del parque de diversiones de Wonder World para imprimir dólares.</desc>
+    <date>1994</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_un-detective-suelto-en-hollywood-iii-1994_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921030000 +0200" stop="20240921045100 +0200" channel="Space FHD">
+    <title lang="es">Jigsaw: El juego continúa</title>
+    <title lang="en">Saw VIII</title>
+    <desc lang="es">Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos.</desc>
+    <date>2017</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_jigsaw-el-juego-continua-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20240921045100 +0200" stop="20240922045100 +0200" channel="Space FHD">
+    <title lang="es">La maldición de La Llorona</title>
+    <title lang="en">The Curse of La Llorona</title>
+    <desc lang="es">La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones.</desc>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-maldicion-de-la-llorona-2019-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
     </star-rating>
   </programme>
 </tv>
