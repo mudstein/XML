@@ -152,8 +152,8 @@
     <display-name lang="es">HBO 2 FHD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png"/>
   </channel>
-  <channel id="HBO Family SD">
-    <display-name lang="es">HBO Family SD</display-name>
+  <channel id="HBO Family">
+    <display-name lang="es">HBO Family</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png"/>
   </channel>
   <channel id="HBO Family HD">
@@ -211,6 +211,14 @@
   <channel id="PARAMOUNT HD (AR)">
     <display-name lang="es">PARAMOUNT HD (AR)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png"/>
+  </channel>
+  <channel id="Sony SD*">
+    <display-name lang="es">Sony SD*</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_sony_m.png"/>
+  </channel>
+  <channel id="Sony HD*">
+    <display-name lang="es">Sony HD*</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_sony_m.png"/>
   </channel>
   <channel id="CINE SONY">
     <display-name lang="xx">CINE SONY</display-name>
@@ -5981,7 +5989,7 @@
       <value>7.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920043300 +0200" stop="20240920064100 +0200" channel="HBO Family SD">
+  <programme start="20240920043300 +0200" stop="20240920064100 +0200" channel="HBO Family">
     <title lang="es">El camino de Hill</title>
     <title lang="en">The Hill</title>
     <desc lang="es">Al crecer en la pobreza en un pequeño pueblo de Texas, el joven Rickey Hill muestra una habilidad extraordinaria para batear una pelota de béisbol, a pesar de estar agobiado por aparatos ortopédicos en las piernas debido a una enfermedad.</desc>
@@ -5992,7 +6000,7 @@
       <value>6.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920064100 +0200" stop="20240920084800 +0200" channel="HBO Family SD">
+  <programme start="20240920064100 +0200" stop="20240920084800 +0200" channel="HBO Family">
     <title lang="es">La flauta de Mozart</title>
     <title lang="en">The Magic Flute</title>
     <desc lang="es">Tim, que aspira a ser cantante, sueña desde niño con estudiar en el Colegio Internacional Mozart.</desc>
@@ -6000,7 +6008,7 @@
     <category lang="es">Fantasía</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
   </programme>
-  <programme start="20240920084800 +0200" stop="20240920103100 +0200" channel="HBO Family SD">
+  <programme start="20240920084800 +0200" stop="20240920103100 +0200" channel="HBO Family">
     <title lang="es">Tom y Jerry</title>
     <title lang="en">Tom &amp; Jerry</title>
     <desc lang="es">Tom y Jerry se conocen y pronto nace la rivalidad entre el gato y el ratón. Jerry se muda a un hotel de Nueva York, pero un desesperado planificador de bodas contrata a Tom para deshacerse de él.</desc>
@@ -6008,7 +6016,7 @@
     <category lang="es">Animación</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tom-y-jerry-2021_l_l.jpg"/>
   </programme>
-  <programme start="20240920103100 +0200" stop="20240920122400 +0200" channel="HBO Family SD">
+  <programme start="20240920103100 +0200" stop="20240920122400 +0200" channel="HBO Family">
     <title lang="es">Definitivamente, quizás</title>
     <title lang="en">Definitely, Maybe</title>
     <desc lang="es">Ante la curiosidad de su pequeña hija, Will recuerda sus romances del pasado y las tres mujeres cruciales en su vida amorosa, instando a su hija a unir las piezas del rompecabezas y adivinar cuál se convirtió en su madre.</desc>
@@ -6019,7 +6027,7 @@
       <value>7.2/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920122400 +0200" stop="20240920140000 +0200" channel="HBO Family SD">
+  <programme start="20240920122400 +0200" stop="20240920140000 +0200" channel="HBO Family">
     <title lang="es">Despereaux, un pequeño gran héroe</title>
     <title lang="en">The Tale of Despereaux</title>
     <desc lang="es">Un valiente y diminuto ratoncito sueña con ser caballero de la corte. Al ser expulsado de su pueblo por tener aspiraciones tan grandes, se embarca en una aventura para rescatar a la princesa de las terribles ratas.</desc>
@@ -6030,7 +6038,7 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920140000 +0200" stop="20240920155700 +0200" channel="HBO Family SD">
+  <programme start="20240920140000 +0200" stop="20240920155700 +0200" channel="HBO Family">
     <title lang="es">Space Jam: Una nueva era</title>
     <title lang="en">Space Jam: A New Legacy</title>
     <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
@@ -6041,7 +6049,7 @@
       <value>4.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920155700 +0200" stop="20240920173700 +0200" channel="HBO Family SD">
+  <programme start="20240920155700 +0200" stop="20240920173700 +0200" channel="HBO Family">
     <title lang="es">Los Croods</title>
     <title lang="en">The Croods</title>
     <desc lang="es">Los Croods son la primera familia de la historia del mundo. Cuando la selva en la que viven comience a destruirse y a transformarse en un lugar peligroso, ellos emprenderán un viaje en el que descubrirán la belleza del mundo.</desc>
@@ -6052,7 +6060,7 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920173700 +0200" stop="20240920191000 +0200" channel="HBO Family SD">
+  <programme start="20240920173700 +0200" stop="20240920191000 +0200" channel="HBO Family">
     <title lang="es">Los pingüinos de Madagascar</title>
     <title lang="en">Penguins of Madagascar</title>
     <desc lang="es">La organización contra el crimen Viento Norte acaba de sumar a tres agentes de elite: Capitán Kowalski, Rico y Soldado. Los simpáticos pingüinos vuelven a las andanzas para proteger el mar y la selva de los peligros que nunca escasean.</desc>
@@ -6063,7 +6071,7 @@
       <value>6.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920191000 +0200" stop="20240920203800 +0200" channel="HBO Family SD">
+  <programme start="20240920191000 +0200" stop="20240920203800 +0200" channel="HBO Family">
     <title lang="es">Reyes de las olas</title>
     <title lang="en">Surf's Up</title>
     <desc lang="es">La pasión del pingüino Cody es el surf, tanto es así que decide abandonar a su familia en la fría Antártida para dirigirse a la Isla Pen Gu, donde se celebra la competencia anual de este deporte.</desc>
@@ -6071,7 +6079,7 @@
     <category lang="es">Familiar</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_reyes-de-las-olas-2007_l_l.jpg"/>
   </programme>
-  <programme start="20240920203800 +0200" stop="20240920221100 +0200" channel="HBO Family SD">
+  <programme start="20240920203800 +0200" stop="20240920221100 +0200" channel="HBO Family">
     <title lang="es">El espantatiburones</title>
     <title lang="en">Shark Tale</title>
     <desc lang="es">Oscar es un pez al cual sus sueños siempre lo meten en líos. Quiere convertirse en rico y vivir en la cima del arrecife; Entonces aprovechará un encuentro con un tiburón para crear una mentira y así transformarse en El espanta tiburones.</desc>
@@ -6082,7 +6090,7 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920221100 +0200" stop="20240920235900 +0200" channel="HBO Family SD">
+  <programme start="20240920221100 +0200" stop="20240920235900 +0200" channel="HBO Family">
     <title lang="es">Los Pitufos 2</title>
     <title lang="en">The Smurfs 2</title>
     <desc lang="es">El malvado brujo Gargamel crea una pareja de criaturas revoltosas, una copia de sus enemigos, llamados Los Malotes, esperando que éstas le permitan aprovecharse de su poderosa y mágica esencia.</desc>
@@ -6093,7 +6101,7 @@
       <value>5.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920235900 +0200" stop="20240921011900 +0200" channel="HBO Family SD">
+  <programme start="20240920235900 +0200" stop="20240921011900 +0200" channel="HBO Family">
     <title lang="es">¡Scooby-Doo y Krypto también!</title>
     <title lang="en">Scooby-Doo! and Krypto, Too!</title>
     <desc lang="es">Scooby y la pandilla deben encontrar a la Liga de la Justicia.</desc>
@@ -6101,7 +6109,7 @@
     <category lang="es">Acción</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
   </programme>
-  <programme start="20240921011900 +0200" stop="20240921030000 +0200" channel="HBO Family SD">
+  <programme start="20240921011900 +0200" stop="20240921030000 +0200" channel="HBO Family">
     <title lang="es">Los Croods</title>
     <title lang="en">The Croods</title>
     <desc lang="es">Los Croods son la primera familia de la historia del mundo. Cuando la selva en la que viven comience a destruirse y a transformarse en un lugar peligroso, ellos emprenderán un viaje en el que descubrirán la belleza del mundo.</desc>
@@ -6112,7 +6120,7 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20240921030000 +0200" stop="20240921043100 +0200" channel="HBO Family SD">
+  <programme start="20240921030000 +0200" stop="20240921043100 +0200" channel="HBO Family">
     <title lang="es">Momias</title>
     <title lang="en">Mummies</title>
     <desc lang="es">Sigue a tres momias que terminan en el Londres actual y se embarcan en un viaje en busca de un antiguo anillo perteneciente a la familia real, robado por el ambicioso arqueólogo Lord Carnaby.</desc>
@@ -6123,7 +6131,7 @@
       <value>5.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20240921043100 +0200" stop="20240922043100 +0200" channel="HBO Family SD">
+  <programme start="20240921043100 +0200" stop="20240922043100 +0200" channel="HBO Family">
     <title lang="es">Charlie y la fábrica de chocolate</title>
     <title lang="en">Charlie and the Chocolate Factory</title>
     <desc lang="es">Charlie Bucket, un niño muy bueno de una familia muy pobre, gana un concurso para disfrutar de una visita de un día a la gigantesca fábrica de chocolate del excéntrico Willy Wonka y su equipo de Oompa-Loompas, junto con otros cuatro niños.</desc>
@@ -8714,6 +8722,370 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_transformers-la-venganza-de-los-caidos-2009_l_l.jpg"/>
     <star-rating system="IMDb">
       <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920045500 +0200" stop="20240920072500 +0200" channel="Sony SD*">
+    <title lang="es">La caída de la Casa Blanca</title>
+    <title lang="en">White House Down</title>
+    <desc lang="es">John Cale ve rechazada su petición de entrar en el servicio secreto para proteger al presidente de los Estados Unidos. Sin embargo, intentará salvar al mandatario en la Casa Blanca y al país entero luego de un ataque.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-caida-de-la-casa-blanca-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920072500 +0200" stop="20240920080500 +0200" channel="Sony SD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Los invasores</sub-title>
+    <desc lang="es">Cuando los Fuseneco salen de fin de semana le dejan las llaves de su casa a sus sobrinos, pero éstos tienen un percance y le dejan las llaves a los Argento, quienes aprovechan para invadirla.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e34-los-invasores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.33.</episode-num>
+  </programme>
+  <programme start="20240920080500 +0200" stop="20240920090000 +0200" channel="Sony SD*">
+    <title lang="es">The Night Shift</title>
+    <sub-title lang="es">Niebla de guerra</sub-title>
+    <desc lang="es">Gwen, T.C. y Drew corren hacia la escena de un accidente automovilístico con múltiples víctimas; La cuñada de T.C. lo visita.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_the-night-shift-s02e06-niebla-de-guerra_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20240920090000 +0200" stop="20240920100000 +0200" channel="Sony SD*">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Ungeahnte perspektiven</sub-title>
+    <desc lang="es">Betty espera con ansias su día libre y, sobre todo, no tener que encontrarse con Stern. También será un día muy especial para Ava, porque la estrella de YouTube David Hofmann está en la estación y ella se esfuerza por atenderlo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+  </programme>
+  <programme start="20240920100000 +0200" stop="20240920110000 +0200" channel="Sony SD*">
+    <title lang="es">Médico a domicilio</title>
+    <sub-title lang="es">Hurts Like a Mother</sub-title>
+    <desc lang="es">El nuevo novio de Divya le pide ayuda al Dr. Sacani. Evan ayuda a Paige a lidiar con un problema familiar. Hank trata a una estudiante tensa y a su madre novelista, quienes se enfermaron.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+  </programme>
+  <programme start="20240920110000 +0200" stop="20240920120000 +0200" channel="Sony SD*">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Zweite Chance</sub-title>
+    <desc lang="es">Hoy simplemente no es el día de Betty: primero Oliver deja pasar la cita y luego ella ayuda a un paciente, desencadenando una catástrofe con consecuencias. A los ojos del Dr Stern, Betty se ha excedido en su autoridad y debe ser sancionada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+  </programme>
+  <programme start="20240920120000 +0200" stop="20240920130000 +0200" channel="Sony SD*">
+    <title lang="es">The Night Shift</title>
+    <sub-title lang="es">Necesito saber</sub-title>
+    <desc lang="es">T.C. descubre la complicada historia de su cuñada después de tratarla por una caída de escaleras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_the-night-shift-s02e07-necesito-saber_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20240920130000 +0200" stop="20240920133000 +0200" channel="Sony SD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920133000 +0200" stop="20240920140000 +0200" channel="Sony SD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920140000 +0200" stop="20240920143000 +0200" channel="Sony SD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920143000 +0200" stop="20240920150000 +0200" channel="Sony SD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920150000 +0200" stop="20240920154500 +0200" channel="Sony SD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Sana, sana, colita de rana</sub-title>
+    <desc lang="es">Moni revisa por primera vez su diploma y descubre que no ha terminado la secundaria por no aprobar biología, así que decide cursar la materia en el colegio de Paola.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s02e46-sana-sana-colita-de-rana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.45.</episode-num>
+  </programme>
+  <programme start="20240920154500 +0200" stop="20240920162500 +0200" channel="Sony SD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Il morto que ladra</sub-title>
+    <desc lang="es">Muy pasada de copas, María Elena choca el auto contra el garaje de los Argento, lo que lleva a Pepe a sospechar que también puede ser la culpable de una trágica pérdida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e35-il-morto-que-ladra_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.34.</episode-num>
+  </programme>
+  <programme start="20240920162500 +0200" stop="20240920170500 +0200" channel="Sony SD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">El deporte y el hambre</sub-title>
+    <desc lang="es">Cuando a Dardo lo echan del banco, a Pepe se le ocurre el brillante plan de abrir un gimnasio en el garaje de su casa, ¡con el vecino como profesor!</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e36-el-deporte-y-el-hambre_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.35.</episode-num>
+  </programme>
+  <programme start="20240920170500 +0200" stop="20240920171500 +0200" channel="Sony SD*">
+    <title lang="es">Los Chubbchubbs</title>
+    <title lang="en">The Chubbchubbs</title>
+    <desc lang="es">Meeper, el humilde conserje del Ale-E-Inn anhela cantar karaoke en el escenario del club nocturno. Sin embargo, cuando una raza de guerreros alienígenas se aproxima, depende de Meeper salvar a todos.</desc>
+    <date>2002</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920171500 +0200" stop="20240920193500 +0200" channel="Sony SD*">
+    <title lang="es">Arma mortal 3</title>
+    <title lang="en">Lethal Weapon 3</title>
+    <desc lang="es">En esta ocasión, Martin y Roger, la pareja de policías de Los Angeles, se enfrentan a un difícil caso que involucra armas confiscadas que, a punto de ser destruidas, han desaparecido de las dependencias oficiales.</desc>
+    <date>1992</date>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_arma-mortal-3-1992_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920193500 +0200" stop="20240920201500 +0200" channel="Sony SD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Il morto que ladra</sub-title>
+    <desc lang="es">Muy pasada de copas, María Elena choca el auto contra el garaje de los Argento, lo que lleva a Pepe a sospechar que también puede ser la culpable de una trágica pérdida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e35-il-morto-que-ladra_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.34.</episode-num>
+  </programme>
+  <programme start="20240920201500 +0200" stop="20240920205500 +0200" channel="Sony SD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">El deporte y el hambre</sub-title>
+    <desc lang="es">Cuando a Dardo lo echan del banco, a Pepe se le ocurre el brillante plan de abrir un gimnasio en el garaje de su casa, ¡con el vecino como profesor!</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e36-el-deporte-y-el-hambre_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.35.</episode-num>
+  </programme>
+  <programme start="20240920205500 +0200" stop="20240920230000 +0200" channel="Sony SD*">
+    <title lang="es">El maestro luchador</title>
+    <title lang="en">Here Comes the Boom</title>
+    <desc lang="es">Scott es profesor de un colegio con problemas económicos. Pero cuando la crisis amenaza con la eliminación de las clases extracurriculares, se convertirá en un luchador de artes marciales mixtas para recaudar fondos.</desc>
+    <date>2012</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-maestro-luchador-2012_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920230000 +0200" stop="20240921005500 +0200" channel="Sony SD*">
+    <title lang="es">Son como niños 2</title>
+    <title lang="en">Grown Ups 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+    <date>2013</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_son-como-ninos-2-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921005500 +0200" stop="20240921030500 +0200" channel="Sony SD*">
+    <title lang="es">Una esposa de mentira</title>
+    <title lang="en">Just Go with It</title>
+    <desc lang="es">Danny desea conquistar a Palmer, una chica mucho más joven que él. Para despertar su interés, contrata a su asistente, Katherine, para demostrarle que su amor por ella es tal que está a punto de divorciarse de su mujer.</desc>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_una-esposa-de-mentira-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921030500 +0200" stop="20240922030500 +0200" channel="Sony SD*">
+    <title lang="es">¿Quién son los Millers?</title>
+    <title lang="en">We're the Millers</title>
+    <desc lang="es">Luego de que le roben la mercancía de toda una semana, el pequeño traficante David es obligado por su jefe a ir a México a buscar un gran cargamento de marihuana. Para ello, idea un plan que le permita cruzar la frontera sin problemas.</desc>
+    <date>2013</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_quien-son-los-millers-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920045500 +0200" stop="20240920072500 +0200" channel="Sony HD*">
+    <title lang="es">La caída de la Casa Blanca</title>
+    <title lang="en">White House Down</title>
+    <desc lang="es">John Cale ve rechazada su petición de entrar en el servicio secreto para proteger al presidente de los Estados Unidos. Sin embargo, intentará salvar al mandatario en la Casa Blanca y al país entero luego de un ataque.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-caida-de-la-casa-blanca-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920072500 +0200" stop="20240920080500 +0200" channel="Sony HD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Los invasores</sub-title>
+    <desc lang="es">Cuando los Fuseneco salen de fin de semana le dejan las llaves de su casa a sus sobrinos, pero éstos tienen un percance y le dejan las llaves a los Argento, quienes aprovechan para invadirla.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e34-los-invasores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.33.</episode-num>
+  </programme>
+  <programme start="20240920080500 +0200" stop="20240920090000 +0200" channel="Sony HD*">
+    <title lang="es">The Night Shift</title>
+    <sub-title lang="es">Niebla de guerra</sub-title>
+    <desc lang="es">Gwen, T.C. y Drew corren hacia la escena de un accidente automovilístico con múltiples víctimas; La cuñada de T.C. lo visita.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_the-night-shift-s02e06-niebla-de-guerra_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20240920090000 +0200" stop="20240920100000 +0200" channel="Sony HD*">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Ungeahnte perspektiven</sub-title>
+    <desc lang="es">Betty espera con ansias su día libre y, sobre todo, no tener que encontrarse con Stern. También será un día muy especial para Ava, porque la estrella de YouTube David Hofmann está en la estación y ella se esfuerza por atenderlo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.21.</episode-num>
+  </programme>
+  <programme start="20240920100000 +0200" stop="20240920110000 +0200" channel="Sony HD*">
+    <title lang="es">Médico a domicilio</title>
+    <sub-title lang="es">Hurts Like a Mother</sub-title>
+    <desc lang="es">El nuevo novio de Divya le pide ayuda al Dr. Sacani. Evan ayuda a Paige a lidiar con un problema familiar. Hank trata a una estudiante tensa y a su madre novelista, quienes se enfermaron.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.11.</episode-num>
+  </programme>
+  <programme start="20240920110000 +0200" stop="20240920120000 +0200" channel="Sony HD*">
+    <title lang="es">Bettys Diagnose</title>
+    <sub-title lang="es">Zweite Chance</sub-title>
+    <desc lang="es">Hoy simplemente no es el día de Betty: primero Oliver deja pasar la cita y luego ella ayuda a un paciente, desencadenando una catástrofe con consecuencias. A los ojos del Dr Stern, Betty se ha excedido en su autoridad y debe ser sancionada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.22.</episode-num>
+  </programme>
+  <programme start="20240920120000 +0200" stop="20240920130000 +0200" channel="Sony HD*">
+    <title lang="es">The Night Shift</title>
+    <sub-title lang="es">Necesito saber</sub-title>
+    <desc lang="es">T.C. descubre la complicada historia de su cuñada después de tratarla por una caída de escaleras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_the-night-shift-s02e07-necesito-saber_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20240920130000 +0200" stop="20240920133000 +0200" channel="Sony HD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920133000 +0200" stop="20240920140000 +0200" channel="Sony HD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920140000 +0200" stop="20240920143000 +0200" channel="Sony HD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920143000 +0200" stop="20240920150000 +0200" channel="Sony HD*">
+    <title lang="es">TeveCompras</title>
+    <sub-title lang="es">Lifewatch Cuotas 24</sub-title>
+    <desc lang="es">Compras por TV donde encuentra los últimos productos del mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras-s01e00-ab-tomic-cp-21-v2_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20240920150000 +0200" stop="20240920154500 +0200" channel="Sony HD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Sana, sana, colita de rana</sub-title>
+    <desc lang="es">Moni revisa por primera vez su diploma y descubre que no ha terminado la secundaria por no aprobar biología, así que decide cursar la materia en el colegio de Paola.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s02e46-sana-sana-colita-de-rana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.45.</episode-num>
+  </programme>
+  <programme start="20240920154500 +0200" stop="20240920162500 +0200" channel="Sony HD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Il morto que ladra</sub-title>
+    <desc lang="es">Muy pasada de copas, María Elena choca el auto contra el garaje de los Argento, lo que lleva a Pepe a sospechar que también puede ser la culpable de una trágica pérdida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e35-il-morto-que-ladra_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.34.</episode-num>
+  </programme>
+  <programme start="20240920162500 +0200" stop="20240920170500 +0200" channel="Sony HD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">El deporte y el hambre</sub-title>
+    <desc lang="es">Cuando a Dardo lo echan del banco, a Pepe se le ocurre el brillante plan de abrir un gimnasio en el garaje de su casa, ¡con el vecino como profesor!</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e36-el-deporte-y-el-hambre_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.35.</episode-num>
+  </programme>
+  <programme start="20240920170500 +0200" stop="20240920171500 +0200" channel="Sony HD*">
+    <title lang="es">Los Chubbchubbs</title>
+    <title lang="en">The Chubbchubbs</title>
+    <desc lang="es">Meeper, el humilde conserje del Ale-E-Inn anhela cantar karaoke en el escenario del club nocturno. Sin embargo, cuando una raza de guerreros alienígenas se aproxima, depende de Meeper salvar a todos.</desc>
+    <date>2002</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920171500 +0200" stop="20240920193500 +0200" channel="Sony HD*">
+    <title lang="es">Arma mortal 3</title>
+    <title lang="en">Lethal Weapon 3</title>
+    <desc lang="es">En esta ocasión, Martin y Roger, la pareja de policías de Los Angeles, se enfrentan a un difícil caso que involucra armas confiscadas que, a punto de ser destruidas, han desaparecido de las dependencias oficiales.</desc>
+    <date>1992</date>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_arma-mortal-3-1992_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920193500 +0200" stop="20240920201500 +0200" channel="Sony HD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">Il morto que ladra</sub-title>
+    <desc lang="es">Muy pasada de copas, María Elena choca el auto contra el garaje de los Argento, lo que lleva a Pepe a sospechar que también puede ser la culpable de una trágica pérdida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e35-il-morto-que-ladra_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.34.</episode-num>
+  </programme>
+  <programme start="20240920201500 +0200" stop="20240920205500 +0200" channel="Sony HD*">
+    <title lang="es">Casados con hijos</title>
+    <sub-title lang="es">El deporte y el hambre</sub-title>
+    <desc lang="es">Cuando a Dardo lo echan del banco, a Pepe se le ocurre el brillante plan de abrir un gimnasio en el garaje de su casa, ¡con el vecino como profesor!</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_casados-con-hijos-s04e36-el-deporte-y-el-hambre_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.35.</episode-num>
+  </programme>
+  <programme start="20240920205500 +0200" stop="20240920230000 +0200" channel="Sony HD*">
+    <title lang="es">El maestro luchador</title>
+    <title lang="en">Here Comes the Boom</title>
+    <desc lang="es">Scott es profesor de un colegio con problemas económicos. Pero cuando la crisis amenaza con la eliminación de las clases extracurriculares, se convertirá en un luchador de artes marciales mixtas para recaudar fondos.</desc>
+    <date>2012</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-maestro-luchador-2012_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240920230000 +0200" stop="20240921005500 +0200" channel="Sony HD*">
+    <title lang="es">Son como niños 2</title>
+    <title lang="en">Grown Ups 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+    <date>2013</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_son-como-ninos-2-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921005500 +0200" stop="20240921030500 +0200" channel="Sony HD*">
+    <title lang="es">Una esposa de mentira</title>
+    <title lang="en">Just Go with It</title>
+    <desc lang="es">Danny desea conquistar a Palmer, una chica mucho más joven que él. Para despertar su interés, contrata a su asistente, Katherine, para demostrarle que su amor por ella es tal que está a punto de divorciarse de su mujer.</desc>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_una-esposa-de-mentira-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20240921030500 +0200" stop="20240922030500 +0200" channel="Sony HD*">
+    <title lang="es">¿Quién son los Millers?</title>
+    <title lang="en">We're the Millers</title>
+    <desc lang="es">Luego de que le roben la mercancía de toda una semana, el pequeño traficante David es obligado por su jefe a ir a México a buscar un gran cargamento de marihuana. Para ello, idea un plan que le permita cruzar la frontera sin problemas.</desc>
+    <date>2013</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_quien-son-los-millers-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
     </star-rating>
   </programme>
 </tv>
