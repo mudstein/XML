@@ -1686,80 +1686,68 @@
     <icon src="https://cdn.mitvstatic.com/programs/gt_csi-s07e09-leyenda-viviente_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.8.</episode-num>
   </programme>
-  <programme start="20240920035500 +0200" stop="20240920045000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920045500 +0200" stop="20240920055000 +0200" channel="AXN HD (AR)">
     <title lang="es">Lost</title>
     <sub-title lang="es">Deudas e intervención</sub-title>
     <desc lang="es">Locke y Boone intentan abrir la escotilla, pero Locke se lesiona. Después, descubren un pequeño avión que se estrelló en lo alto de un árbol. Sawyer, que sufre fuertes dolores de cabeza, se ve obligado a recurrir a Jack en busca de ayuda.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_lost-s01e19-dues-ex-machina_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.18.</episode-num>
   </programme>
-  <programme start="20240920045000 +0200" stop="20240920054500 +0200" channel="AXN HD (AR)">
+  <programme start="20240920055000 +0200" stop="20240920064500 +0200" channel="AXN HD (AR)">
     <title lang="es">Lost</title>
     <sub-title lang="es">No lastimarás</sub-title>
     <desc lang="es">Claire se pone de parto mientras que un indefenso Charlie entra en modo de pánico. Mientras tanto, Locke está desaparecido, Jack atiende a un sobreviviente herido, y Sayid le presenta a Shannon una sorpresa romántica.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_lost-s01e20-do-no-harm_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.19.</episode-num>
   </programme>
-  <programme start="20240920054500 +0200" stop="20240920064000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920064500 +0200" stop="20240920074000 +0200" channel="AXN HD (AR)">
     <title lang="es">Lost</title>
     <sub-title lang="es">El bien mayor</sub-title>
     <desc lang="es">Después de enterrar a uno de los suyos, los ánimos de los náufragos se caldean, las sospechas crecen y un superviviente jura venganza. Mientras tanto, Charlie ayuda a Claire a calmar a su recién nacido.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_lost-s01e21-the-greater-good_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.20.</episode-num>
   </programme>
-  <programme start="20240920064000 +0200" stop="20240920073000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920074000 +0200" stop="20240920083000 +0200" channel="AXN HD (AR)">
     <title lang="es">Hawaii-Five-O</title>
     <sub-title lang="es">Ka laina ma ke one</sub-title>
     <desc lang="es">Five-0 debe enfrentarse a un agresivo oficial de los Estados Unidos, Lincoln, cuando un hombre buscado por asesinato escapa a la captura y busca asilo en la tierra soberana de la Nación de Hawai.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_hawaii-five-o-s07e14-ka-laina-ma-ke-one_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.13.</episode-num>
   </programme>
-  <programme start="20240920073000 +0200" stop="20240920082000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920083000 +0200" stop="20240920092000 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI: Miami</title>
     <sub-title lang="es">Muerto a la llegada</sub-title>
     <desc lang="es">Uno de los finalistas de un reality show de solteros es asesinado, y en equipo debe encontrar al asesino entre los otros concursantes.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-miami-s07e22-dead-on-arrival_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.21.</episode-num>
   </programme>
-  <programme start="20240920082000 +0200" stop="20240920091000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920092000 +0200" stop="20240920101000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">High Society</sub-title>
     <desc lang="es">El equipo del NCIS vincula la droga callejera con la financiación de actividades terroristas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s11e13-alta-sociedad_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.12.</episode-num>
   </programme>
-  <programme start="20240920091000 +0200" stop="20240920100000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920101000 +0200" stop="20240920110000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Commitment Issues</sub-title>
     <desc lang="es">El equipo del NCIS investiga el asesinato de un ingeniero de guerra naval en un evento de poesía hablada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s11e14-problemas-de-compromiso_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.13.</episode-num>
-  </programme>
-  <programme start="20240920100000 +0200" stop="20240920110000 +0200" channel="AXN HD (AR)">
-    <title lang="es">NCIS: Los Ángeles</title>
-    <sub-title lang="es">High Society</sub-title>
-    <desc lang="es">El equipo del NCIS vincula la droga callejera con la financiación de actividades terroristas.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s11e13-alta-sociedad_l_l.jpg"/>
-    <episode-num system="xmltv_ns">10.12.</episode-num>
   </programme>
   <programme start="20240920110000 +0200" stop="20240920120000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS: Los Ángeles</title>
+    <sub-title lang="es">High Society</sub-title>
+    <desc lang="es">El equipo del NCIS vincula la droga callejera con la financiación de actividades terroristas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s11e13-alta-sociedad_l_l.jpg"/>
+    <episode-num system="xmltv_ns">10.12.</episode-num>
+  </programme>
+  <programme start="20240920120000 +0200" stop="20240920130000 +0200" channel="AXN HD (AR)">
+    <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Commitment Issues</sub-title>
     <desc lang="es">El equipo del NCIS investiga el asesinato de un ingeniero de guerra naval en un evento de poesía hablada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s11e14-problemas-de-compromiso_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.13.</episode-num>
-  </programme>
-  <programme start="20240920120000 +0200" stop="20240920123000 +0200" channel="AXN HD (AR)">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
-    <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
-  </programme>
-  <programme start="20240920123000 +0200" stop="20240920130000 +0200" channel="AXN HD (AR)">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
-    <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
   <programme start="20240920130000 +0200" stop="20240920133000 +0200" channel="AXN HD (AR)">
     <title lang="es">TeveCompras</title>
@@ -1774,117 +1762,129 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
   <programme start="20240920140000 +0200" stop="20240920143000 +0200" channel="AXN HD (AR)">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20240920143000 +0200" stop="20240920150000 +0200" channel="AXN HD (AR)">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20240920150000 +0200" stop="20240920153000 +0200" channel="AXN HD (AR)">
     <title lang="es">District 31</title>
     <desc lang="es">Una estación de policía de Montreal que se ocupa de los delitos que ocurren en las grandes ciudades; Secuestros, robos, asesinatos, violencia familiar, narcotráfico, terrorismo y más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.90.</episode-num>
   </programme>
-  <programme start="20240920143000 +0200" stop="20240920152500 +0200" channel="AXN HD (AR)">
+  <programme start="20240920153000 +0200" stop="20240920162500 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS</title>
     <sub-title lang="es">Stranger in Strange Land</sub-title>
     <desc lang="es">Cuando un marine muere, el equipo investiga. Se enteran de que el hombre trabajaba en un centro que ayuda a los inmigrantes afganos. Van allí y se enteran de que el hombre tuvo una acalorada discusión con un afgano.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-s20e17-stranger-in-strange-land_l_l.jpg"/>
     <episode-num system="xmltv_ns">19.16.</episode-num>
   </programme>
-  <programme start="20240920152500 +0200" stop="20240920162000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920162500 +0200" stop="20240920172000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Viuda negra</sub-title>
     <desc lang="es">En Chipre un agente del NCIS muere por asesinato; el asesino aterriza en LAX, y G lo agarra, lo cuestiona y obtiene información a través de un trato; G se infiltra en el equipo de ataque para la siguiente acción letal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s02e02-black-widow_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20240920162000 +0200" stop="20240920171000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920172000 +0200" stop="20240920181000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS: New Orleans</title>
     <sub-title lang="es">Operación Drano, primera parte</sub-title>
     <desc lang="es">Mientras el equipo NCIS investiga una sospechosa muerte, descubren que la pieza clave de evidencia que están buscando es una batería de alta tecnología.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-new-orleans-s07e05-operacion-drano-primera-parte_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.4.</episode-num>
   </programme>
-  <programme start="20240920171000 +0200" stop="20240920180000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920181000 +0200" stop="20240920190000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS</title>
     <sub-title lang="es">Stranger in Strange Land</sub-title>
     <desc lang="es">Cuando un marine muere, el equipo investiga. Se enteran de que el hombre trabajaba en un centro que ayuda a los inmigrantes afganos. Van allí y se enteran de que el hombre tuvo una acalorada discusión con un afgano.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-s20e17-stranger-in-strange-land_l_l.jpg"/>
     <episode-num system="xmltv_ns">19.16.</episode-num>
   </programme>
-  <programme start="20240920180000 +0200" stop="20240920185000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920190000 +0200" stop="20240920195000 +0200" channel="AXN HD (AR)">
     <title lang="es">NCIS: Los Ángeles</title>
     <sub-title lang="es">Viuda negra</sub-title>
     <desc lang="es">En Chipre un agente del NCIS muere por asesinato; el asesino aterriza en LAX, y G lo agarra, lo cuestiona y obtiene información a través de un trato; G se infiltra en el equipo de ataque para la siguiente acción letal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-los-angeles-s02e02-black-widow_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20240920185000 +0200" stop="20240920194000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920195000 +0200" stop="20240920204000 +0200" channel="AXN HD (AR)">
     <title lang="es">SWAT</title>
     <sub-title lang="es">Policía malo</sub-title>
     <desc lang="es">Mientras que el equipo S.W.A.T. investiga una serie de robos a casinos organizados por un misterioso jefe criminal, Street es chantajeado para ayudar a su hermano adoptivo Nate a salir de un aprieto.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_swat-s03e11-policia-malo_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.10.</episode-num>
   </programme>
-  <programme start="20240920194000 +0200" stop="20240920203500 +0200" channel="AXN HD (AR)">
+  <programme start="20240920204000 +0200" stop="20240920213500 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI</title>
     <sub-title lang="es">Ratones de campo</sub-title>
     <desc lang="es">Tres jóvenes de un instituto acuden al laboratorio criminalística para conocer de cerca la labor que llevan a cabo los forenses de Las Vegas. A medida que estos imparten su lección, descubren claves que podrían esclarecer un caso.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-s10e18-field-mice_l_l.jpg"/>
     <episode-num system="xmltv_ns">9.17.</episode-num>
   </programme>
-  <programme start="20240920203500 +0200" stop="20240920213000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920213500 +0200" stop="20240920223000 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI: Miami</title>
     <sub-title lang="es">Amnesia</sub-title>
     <desc lang="es">Los CSI utilizan tecnología radical para descubrir los secretos en la mente de un hombre cuando éste aparece cubierto de sangre y sin recuerdos de dónde ha estado.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-miami-s07e12-amnesia_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.11.</episode-num>
   </programme>
-  <programme start="20240920213000 +0200" stop="20240920222500 +0200" channel="AXN HD (AR)">
+  <programme start="20240920223000 +0200" stop="20240920232500 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI: Miami</title>
     <sub-title lang="es">Y ellos están ofendidos</sub-title>
     <desc lang="es">Cuando un asesinato se produce durante una carrera de caballos, Horatio descubre que Ryan tiene una conexión personal con el caso.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-miami-s07e13-and-they-re-offed_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.12.</episode-num>
   </programme>
-  <programme start="20240920222500 +0200" stop="20240920232000 +0200" channel="AXN HD (AR)">
+  <programme start="20240920232500 +0200" stop="20240921002000 +0200" channel="AXN HD (AR)">
     <title lang="es">Hawaii-Five-O</title>
     <sub-title lang="es">Ua ola loko i ke aloha</sub-title>
     <desc lang="es">El equipo investiga el robo de unas bombas de la segunda guerra mundial.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_hawaii-five-o-s06e12-ua-ola-loko-i-ke-aloha-love-gives-life-within_l_l.jpg"/>
     <episode-num system="xmltv_ns">5.11.</episode-num>
   </programme>
-  <programme start="20240920232000 +0200" stop="20240921001500 +0200" channel="AXN HD (AR)">
+  <programme start="20240921002000 +0200" stop="20240921011500 +0200" channel="AXN HD (AR)">
     <title lang="es">Hawaii-Five-O</title>
     <sub-title lang="es">Umia ka hanu</sub-title>
     <desc lang="es">Lou toma medidas extremas para exponer la verdad sobre la muerte de un amigo, mientras Danny, Steve y Chin compiten en una apuesta amistosa que se vuelve mortal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_hawaii-five-o-s06e13-umia-ka-hanu-hold-the-breath_l_l.jpg"/>
     <episode-num system="xmltv_ns">5.12.</episode-num>
   </programme>
-  <programme start="20240921001500 +0200" stop="20240921011000 +0200" channel="AXN HD (AR)">
+  <programme start="20240921011500 +0200" stop="20240921021000 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI</title>
     <sub-title lang="es">Ratones de campo</sub-title>
     <desc lang="es">Tres jóvenes de un instituto acuden al laboratorio criminalística para conocer de cerca la labor que llevan a cabo los forenses de Las Vegas. A medida que estos imparten su lección, descubren claves que podrían esclarecer un caso.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-s10e18-field-mice_l_l.jpg"/>
     <episode-num system="xmltv_ns">9.17.</episode-num>
   </programme>
-  <programme start="20240921011000 +0200" stop="20240921020500 +0200" channel="AXN HD (AR)">
+  <programme start="20240921021000 +0200" stop="20240921030500 +0200" channel="AXN HD (AR)">
     <title lang="es">SWAT</title>
     <sub-title lang="es">Policía malo</sub-title>
     <desc lang="es">Mientras que el equipo S.W.A.T. investiga una serie de robos a casinos organizados por un misterioso jefe criminal, Street es chantajeado para ayudar a su hermano adoptivo Nate a salir de un aprieto.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_swat-s03e11-policia-malo_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.10.</episode-num>
   </programme>
-  <programme start="20240921020500 +0200" stop="20240921030000 +0200" channel="AXN HD (AR)">
+  <programme start="20240921030500 +0200" stop="20240921040000 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI: Miami</title>
     <sub-title lang="es">Tras la caída</sub-title>
     <desc lang="es">Horatio Caine acude a la escena del crimen donde yace el cuerpo de Michael Johnson. Alexx determina que la víctima no es una persona que ha caído desde la tercera planta, sino alguien a quien el sujeto le cayó encima.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-miami-s03e10-after-the-fall_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.9.</episode-num>
   </programme>
-  <programme start="20240921030000 +0200" stop="20240921035500 +0200" channel="AXN HD (AR)">
+  <programme start="20240921040000 +0200" stop="20240921045500 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI: Miami</title>
     <sub-title lang="es">Adicción</sub-title>
     <desc lang="es">Una pareja es víctima de un robo de automóvil. Como resultado, el hombre queda herido y la mujer, muerta. Horatio y Alexx llegan a la escena para descubrir que ella ha sido arrojada a un terraplén y presenta un disparo en la cabeza.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_csi-miami-s03e11-addiction_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.10.</episode-num>
   </programme>
-  <programme start="20240921035500 +0200" stop="20240922035500 +0200" channel="AXN HD (AR)">
+  <programme start="20240921045500 +0200" stop="20240922045500 +0200" channel="AXN HD (AR)">
     <title lang="es">CSI</title>
     <sub-title lang="es">Bang-Bang</sub-title>
     <desc lang="es">Un hombre acusado de asesinar a su esposa y a sus colegas lleva a los miembros de CSI a una persecución salvaje a través de un atestado casino de Las Vegas.</desc>
