@@ -2137,28 +2137,28 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_ncis-s09e19-the-good-son_l_l.jpg"/>
     <episode-num system="xmltv_ns">8.18.</episode-num>
   </programme>
-  <programme start="20240920053000 -0300" stop="20240920113000 -0300" channel="A3series HD">
+  <programme start="20240921053000 -0300" stop="20240921113000 -0300" channel="A3series HD">
     <title lang="es">Crimen en el paraíso</title>
   </programme>
-  <programme start="20240920113000 -0300" stop="20240920162000 -0300" channel="A3series HD">
+  <programme start="20240921113000 -0300" stop="20240921162000 -0300" channel="A3series HD">
     <title lang="es">Crimen en el paraíso</title>
   </programme>
-  <programme start="20240920162000 -0300" stop="20240920172000 -0300" channel="A3series HD">
+  <programme start="20240921162000 -0300" stop="20240921172000 -0300" channel="A3series HD">
     <title lang="es">Intuición criminal</title>
   </programme>
-  <programme start="20240920172000 -0300" stop="20240920210000 -0300" channel="A3series HD">
+  <programme start="20240921172000 -0300" stop="20240921210000 -0300" channel="A3series HD">
     <title lang="es">Intuición criminal</title>
   </programme>
-  <programme start="20240920210000 -0300" stop="20240920214500 -0300" channel="A3series HD">
+  <programme start="20240921210000 -0300" stop="20240921214500 -0300" channel="A3series HD">
     <title lang="es">Live Casino</title>
-  </programme>
-  <programme start="20240920214500 -0300" stop="20240921002000 -0300" channel="A3series HD">
-    <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
   <programme start="20240921214500 -0300" stop="20240922002000 -0300" channel="A3series HD">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-  <programme start="20240922002000 -0300" stop="20240922005000 -0300" channel="A3series HD">
+  <programme start="20240922214500 -0300" stop="20240923002000 -0300" channel="A3series HD">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20240923002000 -0300" stop="20240923005000 -0300" channel="A3series HD">
     <title lang="es">Más de series</title>
   </programme>
   <programme start="20240921040000 +0200" stop="20240921054500 +0200" channel="Az Cinema HD">
@@ -2709,72 +2709,17 @@
       <value>7.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920010000 -0300" stop="20240920023000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240921010000 -0300" stop="20240921023000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">La casa de los famosos</title>
     <episode-num system="onscreen">S2</episode-num>
   </programme>
-  <programme start="20240920023000 -0300" stop="20240920030000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240921023000 -0300" stop="20240921030000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Backdoor</title>
   </programme>
-  <programme start="20240920030000 -0300" stop="20240920050000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240921030000 -0300" stop="20240921050000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20240920050000 -0300" stop="20240920073000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20240920073000 -0300" stop="20240920080000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Especial de R.T.C</title>
-  </programme>
-  <programme start="20240920080000 -0300" stop="20240920090000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20240920090000 -0300" stop="20240920103000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-  <programme start="20240920103000 -0300" stop="20240920120000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Oddbods</title>
-  </programme>
-  <programme start="20240920120000 -0300" stop="20240920123000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Thomas y sus amigos</title>
-  </programme>
-  <programme start="20240920123000 -0300" stop="20240920130000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Hot Wheels City</title>
-  </programme>
-  <programme start="20240920130000 -0300" stop="20240920140000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Matchbox Adventures</title>
-  </programme>
-  <programme start="20240920140000 -0300" stop="20240920142500 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Polly Pocket Bahía Mágica</title>
-  </programme>
-  <programme start="20240920142500 -0300" stop="20240920150500 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Barbie, un toque de magia</title>
-  </programme>
-  <programme start="20240920150500 -0300" stop="20240920160000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Barbie Somos Dos</title>
-  </programme>
-  <programme start="20240920160000 -0300" stop="20240920164500 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Drake y Josh</title>
-  </programme>
-  <programme start="20240920164500 -0300" stop="20240920191500 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">La vuelta al mundo en 80 días</title>
-  </programme>
-  <programme start="20240920191500 -0300" stop="20240920215500 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">El hombre de la máscara</title>
-  </programme>
-  <programme start="20240920215500 -0300" stop="20240921000000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Necaxa vs. América</title>
-    <category lang="es">En Vivo</category>
-  </programme>
-  <programme start="20240921000000 -0300" stop="20240921020500 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Cruz Azul vs. Guadalajara</title>
-    <desc lang="es">Partido de fútbol donde el Deportivo Cruz Azul recibe al CD Guadalajara en el estadio Azul, en la ciudad de México, México.</desc>
-    <category lang="es">En Vivo</category>
-    <icon src="https://imagenes.gatotv.com/categorias/deportes/cruz_azul_vs_guadalajara.png"/>
-  </programme>
-  <programme start="20240921020500 -0300" stop="20240921033000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Viernes 13</title>
-  </programme>
-  <programme start="20240921033000 -0300" stop="20240921073000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240921050000 -0300" stop="20240921073000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20240921073000 -0300" stop="20240921080000 -0300" channel="Cinecanal HD (MX)">
@@ -2783,29 +2728,84 @@
   <programme start="20240921080000 -0300" stop="20240921090000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20240921090000 -0300" stop="20240921110000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Spyders</title>
+  <programme start="20240921090000 -0300" stop="20240921103000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Santiago de los mares</title>
   </programme>
-  <programme start="20240921110000 -0300" stop="20240921130000 -0300" channel="Cinecanal HD (MX)">
-    <title lang="es">Sam y Cat</title>
+  <programme start="20240921103000 -0300" stop="20240921120000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20240921120000 -0300" stop="20240921123000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20240921123000 -0300" stop="20240921130000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Hot Wheels City</title>
   </programme>
   <programme start="20240921130000 -0300" stop="20240921140000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Matchbox Adventures</title>
+  </programme>
+  <programme start="20240921140000 -0300" stop="20240921142500 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Polly Pocket Bahía Mágica</title>
+  </programme>
+  <programme start="20240921142500 -0300" stop="20240921150500 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Barbie, un toque de magia</title>
+  </programme>
+  <programme start="20240921150500 -0300" stop="20240921160000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Barbie Somos Dos</title>
+  </programme>
+  <programme start="20240921160000 -0300" stop="20240921164500 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Drake y Josh</title>
   </programme>
-  <programme start="20240921140000 -0300" stop="20240921160000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240921164500 -0300" stop="20240921191500 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">La vuelta al mundo en 80 días</title>
+  </programme>
+  <programme start="20240921191500 -0300" stop="20240921215500 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">El hombre de la máscara</title>
+  </programme>
+  <programme start="20240921215500 -0300" stop="20240922000000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Necaxa vs. América</title>
+    <category lang="es">En Vivo</category>
+  </programme>
+  <programme start="20240922000000 -0300" stop="20240922020500 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Cruz Azul vs. Guadalajara</title>
+    <desc lang="es">Partido de fútbol donde el Deportivo Cruz Azul recibe al CD Guadalajara en el estadio Azul, en la ciudad de México, México.</desc>
+    <category lang="es">En Vivo</category>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/cruz_azul_vs_guadalajara.png"/>
+  </programme>
+  <programme start="20240922020500 -0300" stop="20240922033000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Viernes 13</title>
+  </programme>
+  <programme start="20240922033000 -0300" stop="20240922073000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240922073000 -0300" stop="20240922080000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20240922080000 -0300" stop="20240922090000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20240922090000 -0300" stop="20240922110000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Spyders</title>
+  </programme>
+  <programme start="20240922110000 -0300" stop="20240922130000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Sam y Cat</title>
+  </programme>
+  <programme start="20240922130000 -0300" stop="20240922140000 -0300" channel="Cinecanal HD (MX)">
+    <title lang="es">Drake y Josh</title>
+  </programme>
+  <programme start="20240922140000 -0300" stop="20240922160000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Swindle</title>
   </programme>
-  <programme start="20240921160000 -0300" stop="20240921180000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240922160000 -0300" stop="20240922180000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Paulie</title>
   </programme>
-  <programme start="20240921180000 -0300" stop="20240921195500 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240922180000 -0300" stop="20240922195500 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">La telaraña de Charlotte</title>
   </programme>
-  <programme start="20240921195500 -0300" stop="20240921220000 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240922195500 -0300" stop="20240922220000 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">U.N.A.M vs. Tijuana</title>
     <category lang="es">En Vivo</category>
   </programme>
-  <programme start="20240921220000 -0300" stop="20240922000500 -0300" channel="Cinecanal HD (MX)">
+  <programme start="20240922220000 -0300" stop="20240923000500 -0300" channel="Cinecanal HD (MX)">
     <title lang="es">Santos Laguna vs. Toluca</title>
     <desc lang="es">El Club Santos Laguna recibe al Deportivo Toluca en el estadio Corona en la ciudad de Torreón, Coahuila, México.</desc>
     <category lang="es">En Vivo</category>
@@ -3775,58 +3775,58 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920002000 -0300" stop="20240920021000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921002000 -0300" stop="20240921021000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Lagrimas de Amor</title>
   </programme>
-  <programme start="20240920021000 -0300" stop="20240920040000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921021000 -0300" stop="20240921040000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Dos diablillos en apuros</title>
   </programme>
-  <programme start="20240920040000 -0300" stop="20240920043000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921040000 -0300" stop="20240921043000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920043000 -0300" stop="20240920050000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921043000 -0300" stop="20240921050000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920050000 -0300" stop="20240920070000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921050000 -0300" stop="20240921070000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">El socio</title>
   </programme>
-  <programme start="20240920070000 -0300" stop="20240920083000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921070000 -0300" stop="20240921083000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Canta y no llores</title>
   </programme>
-  <programme start="20240920083000 -0300" stop="20240920090000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921083000 -0300" stop="20240921090000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920090000 -0300" stop="20240920093000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921090000 -0300" stop="20240921093000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920093000 -0300" stop="20240920100000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921093000 -0300" stop="20240921100000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920100000 -0300" stop="20240920103000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921100000 -0300" stop="20240921103000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920103000 -0300" stop="20240920110000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921103000 -0300" stop="20240921110000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920110000 -0300" stop="20240920113000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921110000 -0300" stop="20240921113000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20240920113000 -0300" stop="20240920134000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921113000 -0300" stop="20240921134000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Los tres alegres compadres</title>
   </programme>
-  <programme start="20240920134000 -0300" stop="20240920153000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921134000 -0300" stop="20240921153000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">La edad de la tentación</title>
   </programme>
-  <programme start="20240920153000 -0300" stop="20240920171500 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921153000 -0300" stop="20240921171500 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Dinamita kid</title>
   </programme>
-  <programme start="20240920171500 -0300" stop="20240920191000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921171500 -0300" stop="20240921191000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Yo bailé con don porfirio</title>
   </programme>
-  <programme start="20240920191000 -0300" stop="20240920205500 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921191000 -0300" stop="20240921205500 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Pobres millonarios</title>
   </programme>
-  <programme start="20240920205500 -0300" stop="20240920224000 -0300" channel="DE PELICULA CLASICO">
+  <programme start="20240921205500 -0300" stop="20240921224000 -0300" channel="DE PELICULA CLASICO">
     <title lang="es">Barrio bajo</title>
   </programme>
   <programme start="20240921042500 +0200" stop="20240921060500 +0200" channel="DHE">
@@ -5143,178 +5143,119 @@
     <category lang="es">Animación</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_la-vida-secreta-de-las-mascotas-2016_l_l.jpg"/>
   </programme>
-  <programme start="20240920001100 -0300" stop="20240920020000 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921001100 -0300" stop="20240921020000 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">John Wick Sin control</title>
   </programme>
-  <programme start="20240920020000 -0300" stop="20240920031000 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921020000 -0300" stop="20240921031000 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Reliquias oscuras</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240920031000 -0300" stop="20240920050100 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921031000 -0300" stop="20240921050100 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Infierno al Volante</title>
     <desc lang="es">Un padre con sed de venganza logra escapar del infierno y ahora va tras el hombre que asesinó a su hija y secuestró a su nieta.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/infierno_al_volante.jpg"/>
   </programme>
-  <programme start="20240920050100 -0300" stop="20240920062300 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921050100 -0300" stop="20240921062300 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Family Holiday</title>
   </programme>
-  <programme start="20240920062300 -0300" stop="20240920082700 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921062300 -0300" stop="20240921082700 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Una Última y nos vamos</title>
   </programme>
-  <programme start="20240920082700 -0300" stop="20240920102500 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921082700 -0300" stop="20240921102500 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">El Precio del Mañana</title>
     <desc lang="es">En un futuro donde la vejez se detiene a los 25 años y se muere un año más tarde, un joven deberá encontrar la manera de acabar con un sistema corrupto.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_precio_del_manana.jpg"/>
   </programme>
-  <programme start="20240920102500 -0300" stop="20240920125900 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921102500 -0300" stop="20240921125900 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">El Mediador</title>
   </programme>
-  <programme start="20240920125900 -0300" stop="20240920143900 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921125900 -0300" stop="20240921143900 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">El código del miedo</title>
   </programme>
-  <programme start="20240920143900 -0300" stop="20240920161300 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921143900 -0300" stop="20240921161300 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Amityville: El Despertar</title>
     <desc lang="es">Una familia se muda a una casa para poder costear los tratamientos costosos de su hijo comatoso, pero sucesos extraños hacen perturbar la paz de la familia.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_origen_del_terror_en_amityville.jpg"/>
   </programme>
-  <programme start="20240920161300 -0300" stop="20240920183600 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921161300 -0300" stop="20240921183600 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Inframundo</title>
   </programme>
-  <programme start="20240920183600 -0300" stop="20240920203700 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921183600 -0300" stop="20240921203700 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Rendirse jamás</title>
   </programme>
-  <programme start="20240920203700 -0300" stop="20240920222600 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240921203700 -0300" stop="20240921222600 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Dragón</title>
-  </programme>
-  <programme start="20240920222600 -0300" stop="20240921010000 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">The Karate Kid</title>
   </programme>
   <programme start="20240921222600 -0300" stop="20240922010000 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">The Karate Kid</title>
   </programme>
-  <programme start="20240922010000 -0300" stop="20240922021000 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240922222600 -0300" stop="20240923010000 -0300" channel="GOLDEN EDGE HD*">
+    <title lang="es">The Karate Kid</title>
+  </programme>
+  <programme start="20240923010000 -0300" stop="20240923021000 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">Reliquias oscuras</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240922021000 -0300" stop="20240922035800 -0300" channel="GOLDEN EDGE HD*">
+  <programme start="20240923021000 -0300" stop="20240923035800 -0300" channel="GOLDEN EDGE HD*">
     <title lang="es">First times &amp; Second chances 3</title>
   </programme>
-  <programme start="20240922035800 -0300" stop="20240922054000 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">El hubiera sí existe</title>
-  </programme>
-  <programme start="20240922054000 -0300" stop="20240922080800 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">Detective Chinatown</title>
-  </programme>
-  <programme start="20240922080800 -0300" stop="20240922104200 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">El Mediador</title>
-  </programme>
-  <programme start="20240922104200 -0300" stop="20240922130600 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">Inframundo</title>
-  </programme>
-  <programme start="20240922130600 -0300" stop="20240922145500 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">Dragón</title>
-  </programme>
-  <programme start="20240922145500 -0300" stop="20240922165600 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">Rendirse jamás</title>
-  </programme>
-  <programme start="20240922165600 -0300" stop="20240922193000 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">The Karate Kid</title>
-  </programme>
-  <programme start="20240922193000 -0300" stop="20240922211000 -0300" channel="GOLDEN EDGE HD*">
-    <title lang="es">El código del miedo</title>
-  </programme>
-  <programme start="20240920010000 -0300" stop="20240920024200 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921010000 -0300" stop="20240921024200 -0300" channel="GOLDEN PREMIER">
     <title lang="es">A Dark Song</title>
     <desc lang="es">Una joven mujer y un ocultista experto arriesgan sus vidas y almas para hacer un ritual peligroso durante seis meses que les dará lo que ellos desean.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/el_ritual_del_mas_alla.jpg"/>
   </programme>
-  <programme start="20240920024200 -0300" stop="20240920040700 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921024200 -0300" stop="20240921040700 -0300" channel="GOLDEN PREMIER">
     <title lang="es">The Babysister Vol. 12</title>
   </programme>
-  <programme start="20240920040700 -0300" stop="20240920054100 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921040700 -0300" stop="20240921054100 -0300" channel="GOLDEN PREMIER">
     <title lang="es">La herencia del mal</title>
   </programme>
-  <programme start="20240920054100 -0300" stop="20240920071100 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921054100 -0300" stop="20240921071100 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Cosas imposibles</title>
   </programme>
-  <programme start="20240920071100 -0300" stop="20240920084800 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921071100 -0300" stop="20240921084800 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Un milagro inesperado</title>
   </programme>
-  <programme start="20240920084800 -0300" stop="20240920102800 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921084800 -0300" stop="20240921102800 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Pánico bajo el agua</title>
   </programme>
-  <programme start="20240920102800 -0300" stop="20240920121800 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921102800 -0300" stop="20240921121800 -0300" channel="GOLDEN PREMIER">
     <title lang="es">El centinela</title>
   </programme>
-  <programme start="20240920121800 -0300" stop="20240920134600 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921121800 -0300" stop="20240921134600 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Robo por Duplicado</title>
   </programme>
-  <programme start="20240920134600 -0300" stop="20240920152600 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921134600 -0300" stop="20240921152600 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Viviendo en la Linea</title>
   </programme>
-  <programme start="20240920152600 -0300" stop="20240920172900 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921152600 -0300" stop="20240921172900 -0300" channel="GOLDEN PREMIER">
     <title lang="es">El cliente</title>
   </programme>
-  <programme start="20240920172900 -0300" stop="20240920191000 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921172900 -0300" stop="20240921191000 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Anton</title>
   </programme>
-  <programme start="20240920191000 -0300" stop="20240920204000 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921191000 -0300" stop="20240921204000 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Cómplices</title>
   </programme>
-  <programme start="20240920204000 -0300" stop="20240920220800 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921204000 -0300" stop="20240921220800 -0300" channel="GOLDEN PREMIER">
     <title lang="es">La cabeza de buda</title>
   </programme>
-  <programme start="20240920220800 -0300" stop="20240920233500 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240921220800 -0300" stop="20240921233500 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Nuevo Orden</title>
     <desc lang="es">La lucha de clases, la corrupción en México y la desigualdad económica, hacen estallar una revolución en la que se desdibujan las líneas éticas y morales.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/nuevo_orden.jpg"/>
   </programme>
-  <programme start="20240920233500 -0300" stop="20240921010000 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Campamento del terror</title>
-  </programme>
   <programme start="20240921233500 -0300" stop="20240922010000 -0300" channel="GOLDEN PREMIER">
     <title lang="es">Campamento del terror</title>
   </programme>
-  <programme start="20240922010000 -0300" stop="20240922024200 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240922233500 -0300" stop="20240923010000 -0300" channel="GOLDEN PREMIER">
+    <title lang="es">Campamento del terror</title>
+  </programme>
+  <programme start="20240923010000 -0300" stop="20240923024200 -0300" channel="GOLDEN PREMIER">
     <title lang="es">El descenso</title>
   </programme>
-  <programme start="20240922024200 -0300" stop="20240922040200 -0300" channel="GOLDEN PREMIER">
+  <programme start="20240923024200 -0300" stop="20240923040200 -0300" channel="GOLDEN PREMIER">
     <title lang="es">The Sex Therapist Vol. 2</title>
-  </programme>
-  <programme start="20240922040200 -0300" stop="20240922054600 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">La mujer del pantano</title>
-  </programme>
-  <programme start="20240922054600 -0300" stop="20240922073100 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">La cantera</title>
-  </programme>
-  <programme start="20240922073100 -0300" stop="20240922085700 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">American curious</title>
-  </programme>
-  <programme start="20240922085700 -0300" stop="20240922105000 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Los sueños se derrumban</title>
-  </programme>
-  <programme start="20240922105000 -0300" stop="20240922125100 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Samba</title>
-  </programme>
-  <programme start="20240922125100 -0300" stop="20240922143800 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Bajo el mismo cielo</title>
-  </programme>
-  <programme start="20240922143800 -0300" stop="20240922164000 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Sr. y Sra. Smith</title>
-  </programme>
-  <programme start="20240922164000 -0300" stop="20240922183100 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Sin tregua</title>
-  </programme>
-  <programme start="20240922183100 -0300" stop="20240922210200 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Perdida (Gone Girl)</title>
-    <desc lang="es">Un hombre reporta la desaparición de su esposa el mismo día de su quinto aniversario, ahora los medios y sus actitudes hacen poner en duda su inocencia.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/perdida_gone_girl.jpg"/>
-  </programme>
-  <programme start="20240922210200 -0300" stop="20240922223900 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">Los Curados</title>
-  </programme>
-  <programme start="20240922223900 -0300" stop="20240923010000 -0300" channel="GOLDEN PREMIER">
-    <title lang="es">El club de la pelea</title>
   </programme>
   <programme start="20240921041000 +0200" stop="20240921060000 +0200" channel="HBO SD">
     <title lang="es">Garfield: fuera de casa</title>
@@ -10737,435 +10678,325 @@
       <value>6.4/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920002000 -0300" stop="20240920011000 -0300" channel="USA HD">
+  <programme start="20240921002000 -0300" stop="20240921011000 -0300" channel="USA HD">
     <title lang="es">Blue Bloods</title>
     <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
   </programme>
-  <programme start="20240920011000 -0300" stop="20240920020000 -0300" channel="USA HD">
+  <programme start="20240921011000 -0300" stop="20240921020000 -0300" channel="USA HD">
     <title lang="es">Blue Bloods</title>
     <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
   </programme>
-  <programme start="20240920020000 -0300" stop="20240920025000 -0300" channel="USA HD">
+  <programme start="20240921020000 -0300" stop="20240921025000 -0300" channel="USA HD">
     <title lang="es">Prodigal Son</title>
     <episode-num system="onscreen">E106</episode-num>
   </programme>
-  <programme start="20240920025000 -0300" stop="20240920034000 -0300" channel="USA HD">
+  <programme start="20240921025000 -0300" stop="20240921034000 -0300" channel="USA HD">
     <title lang="es">The Rookie</title>
     <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
   </programme>
-  <programme start="20240920034000 -0300" stop="20240920043000 -0300" channel="USA HD">
+  <programme start="20240921034000 -0300" stop="20240921043000 -0300" channel="USA HD">
     <title lang="es">Rookie blue</title>
   </programme>
-  <programme start="20240920043000 -0300" stop="20240920050000 -0300" channel="USA HD">
+  <programme start="20240921043000 -0300" stop="20240921050000 -0300" channel="USA HD">
     <title lang="es">Syfy games ! filler</title>
     <episode-num system="onscreen">E36</episode-num>
   </programme>
-  <programme start="20240920050000 -0300" stop="20240920054500 -0300" channel="USA HD">
+  <programme start="20240921050000 -0300" stop="20240921054500 -0300" channel="USA HD">
     <title lang="es">Day of the Dead</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240920054500 -0300" stop="20240920063000 -0300" channel="USA HD">
+  <programme start="20240921054500 -0300" stop="20240921063000 -0300" channel="USA HD">
     <title lang="es">Face off</title>
   </programme>
-  <programme start="20240920063000 -0300" stop="20240920071500 -0300" channel="USA HD">
+  <programme start="20240921063000 -0300" stop="20240921071500 -0300" channel="USA HD">
     <title lang="es">Surreal Estate</title>
   </programme>
-  <programme start="20240920071500 -0300" stop="20240920080000 -0300" channel="USA HD">
+  <programme start="20240921071500 -0300" stop="20240921080000 -0300" channel="USA HD">
     <title lang="es">Almost Paradise</title>
   </programme>
-  <programme start="20240920080000 -0300" stop="20240920083000 -0300" channel="USA HD">
+  <programme start="20240921080000 -0300" stop="20240921083000 -0300" channel="USA HD">
     <title lang="es">Syfy games ! filler</title>
     <episode-num system="onscreen">E37</episode-num>
   </programme>
-  <programme start="20240920083000 -0300" stop="20240920092000 -0300" channel="USA HD">
+  <programme start="20240921083000 -0300" stop="20240921092000 -0300" channel="USA HD">
     <title lang="es">Surreal Estate</title>
   </programme>
-  <programme start="20240920092000 -0300" stop="20240920101000 -0300" channel="USA HD">
+  <programme start="20240921092000 -0300" stop="20240921101000 -0300" channel="USA HD">
     <title lang="es">Surreal Estate</title>
   </programme>
-  <programme start="20240920101000 -0300" stop="20240920110000 -0300" channel="USA HD">
+  <programme start="20240921101000 -0300" stop="20240921110000 -0300" channel="USA HD">
     <title lang="es">The Rookie</title>
     <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
   </programme>
-  <programme start="20240920110000 -0300" stop="20240920115000 -0300" channel="USA HD">
+  <programme start="20240921110000 -0300" stop="20240921115000 -0300" channel="USA HD">
     <title lang="es">The Rookie</title>
     <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
   </programme>
-  <programme start="20240920115000 -0300" stop="20240920124000 -0300" channel="USA HD">
+  <programme start="20240921115000 -0300" stop="20240921124000 -0300" channel="USA HD">
     <title lang="es">The Rookie</title>
     <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
   </programme>
-  <programme start="20240920124000 -0300" stop="20240920133000 -0300" channel="USA HD">
+  <programme start="20240921124000 -0300" stop="20240921133000 -0300" channel="USA HD">
     <title lang="es">The Rookie</title>
     <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
   </programme>
-  <programme start="20240920133000 -0300" stop="20240920142000 -0300" channel="USA HD">
+  <programme start="20240921133000 -0300" stop="20240921142000 -0300" channel="USA HD">
     <title lang="es">The Lazarus Project</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20240920142000 -0300" stop="20240920151000 -0300" channel="USA HD">
+  <programme start="20240921142000 -0300" stop="20240921151000 -0300" channel="USA HD">
     <title lang="es">Prodigal Son</title>
     <episode-num system="onscreen">E106</episode-num>
   </programme>
-  <programme start="20240920151000 -0300" stop="20240920160000 -0300" channel="USA HD">
+  <programme start="20240921151000 -0300" stop="20240921160000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
   </programme>
-  <programme start="20240920160000 -0300" stop="20240920165000 -0300" channel="USA HD">
+  <programme start="20240921160000 -0300" stop="20240921165000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
   </programme>
-  <programme start="20240920165000 -0300" stop="20240920174000 -0300" channel="USA HD">
+  <programme start="20240921165000 -0300" stop="20240921174000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20240920174000 -0300" stop="20240920183000 -0300" channel="USA HD">
+  <programme start="20240921174000 -0300" stop="20240921183000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240920183000 -0300" stop="20240920192000 -0300" channel="USA HD">
+  <programme start="20240921183000 -0300" stop="20240921192000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240920192000 -0300" stop="20240920201000 -0300" channel="USA HD">
+  <programme start="20240921192000 -0300" stop="20240921201000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
   </programme>
-  <programme start="20240920201000 -0300" stop="20240920210000 -0300" channel="USA HD">
+  <programme start="20240921201000 -0300" stop="20240921210000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240920210000 -0300" stop="20240920215000 -0300" channel="USA HD">
+  <programme start="20240921210000 -0300" stop="20240921215000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240920215000 -0300" stop="20240920224000 -0300" channel="USA HD">
+  <programme start="20240921215000 -0300" stop="20240921224000 -0300" channel="USA HD">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">E111</episode-num>
   </programme>
-  <programme start="20240920224000 -0300" stop="20240920233000 -0300" channel="USA HD">
+  <programme start="20240921224000 -0300" stop="20240921233000 -0300" channel="USA HD">
     <title lang="es">Bullet Head</title>
     <desc lang="es">Tras llevar acabar el atraco de sus vidas, tres criminales se encuentran atrapados en una bodega, sin saber que en ella una amenaza mayor les espera.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/la_trampa_2017.jpg"/>
   </programme>
-  <programme start="20240920233000 -0300" stop="20240921002000 -0300" channel="USA HD">
-    <title lang="es">Magnum P.I.</title>
-  </programme>
   <programme start="20240921233000 -0300" stop="20240922002000 -0300" channel="USA HD">
     <title lang="es">Magnum P.I.</title>
   </programme>
-  <programme start="20240922002000 -0300" stop="20240922011000 -0300" channel="USA HD">
+  <programme start="20240922233000 -0300" stop="20240923002000 -0300" channel="USA HD">
     <title lang="es">Magnum P.I.</title>
   </programme>
-  <programme start="20240922011000 -0300" stop="20240922014000 -0300" channel="USA HD">
+  <programme start="20240923002000 -0300" stop="20240923011000 -0300" channel="USA HD">
+    <title lang="es">Magnum P.I.</title>
+  </programme>
+  <programme start="20240923011000 -0300" stop="20240923014000 -0300" channel="USA HD">
     <title lang="es">#Syfygames</title>
     <episode-num system="onscreen">E38</episode-num>
   </programme>
-  <programme start="20240922014000 -0300" stop="20240922023000 -0300" channel="USA HD">
+  <programme start="20240923014000 -0300" stop="20240923023000 -0300" channel="USA HD">
     <title lang="es">Magnum P.I.</title>
   </programme>
-  <programme start="20240922023000 -0300" stop="20240922032000 -0300" channel="USA HD">
+  <programme start="20240923023000 -0300" stop="20240923032000 -0300" channel="USA HD">
     <title lang="es">Magnum P.I. (2018)</title>
     <desc lang="es">Un antiguo SEAL de la Marina al regresar a casa desde Afganistán, vuelve a usar sus habilidades militares para convertirse en un investigador privado.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/magnum_p_i_2018.jpg"/>
   </programme>
-  <programme start="20240922032000 -0300" stop="20240922041000 -0300" channel="USA HD">
-    <title lang="es">Magnum P.I. (2018)</title>
-    <desc lang="es">Un antiguo SEAL de la Marina al regresar a casa desde Afganistán, vuelve a usar sus habilidades militares para convertirse en un investigador privado.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/magnum_p_i_2018.jpg"/>
-  </programme>
-  <programme start="20240922041000 -0300" stop="20240922050000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922050000 -0300" stop="20240922054500 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods (Familia de Policías)</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922054500 -0300" stop="20240922063000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922063000 -0300" stop="20240922071500 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods (Familia de Policías)</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922071500 -0300" stop="20240922074500 -0300" channel="USA HD">
-    <title lang="es">#Syfygames</title>
-    <episode-num system="onscreen">E38</episode-num>
-  </programme>
-  <programme start="20240922074500 -0300" stop="20240922075500 -0300" channel="USA HD">
-    <title lang="es">Syfy games ! filler</title>
-    <episode-num system="onscreen">E37</episode-num>
-  </programme>
-  <programme start="20240922075500 -0300" stop="20240922080000 -0300" channel="USA HD">
-    <title lang="es">#SyfyYa!</title>
-    <episode-num system="onscreen">E37</episode-num>
-  </programme>
-  <programme start="20240922080000 -0300" stop="20240922083000 -0300" channel="USA HD">
-    <title lang="es">#Syfygames</title>
-    <episode-num system="onscreen">E38</episode-num>
-  </programme>
-  <programme start="20240922083000 -0300" stop="20240922092000 -0300" channel="USA HD">
-    <title lang="es">Surreal Estate</title>
-  </programme>
-  <programme start="20240922092000 -0300" stop="20240922101000 -0300" channel="USA HD">
-    <title lang="es">Surreal Estate</title>
-  </programme>
-  <programme start="20240922101000 -0300" stop="20240922110000 -0300" channel="USA HD">
-    <title lang="es">The Rookie</title>
-    <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
-  </programme>
-  <programme start="20240922110000 -0300" stop="20240922115000 -0300" channel="USA HD">
-    <title lang="es">The Rookie</title>
-    <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
-  </programme>
-  <programme start="20240922115000 -0300" stop="20240922124000 -0300" channel="USA HD">
-    <title lang="es">The Rookie</title>
-    <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
-  </programme>
-  <programme start="20240922124000 -0300" stop="20240922133000 -0300" channel="USA HD">
-    <title lang="es">The Rookie</title>
-    <desc lang="es">Comenzar de nuevo no es fácil, en especial para un pueblerino, tras un incidente que altera su vida, decide perseguir su sueño de ser un oficial de policía.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_rookie.jpg"/>
-  </programme>
-  <programme start="20240922133000 -0300" stop="20240922142000 -0300" channel="USA HD">
-    <title lang="es">Rookie blue</title>
-  </programme>
-  <programme start="20240922142000 -0300" stop="20240922151000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922151000 -0300" stop="20240922160000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922160000 -0300" stop="20240922165000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922165000 -0300" stop="20240922174000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922174000 -0300" stop="20240922183000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922183000 -0300" stop="20240922192000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922192000 -0300" stop="20240922201000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240922201000 -0300" stop="20240922210000 -0300" channel="USA HD">
-    <title lang="es">Blue Bloods</title>
-    <desc lang="es">Tom Selleck, Donnie Wahlberg y Will Estes. Los Reagan son una familia de policías de la ciudad de New York (NYPD).</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/blue_bloods.png"/>
-  </programme>
-  <programme start="20240920010600 -0300" stop="20240920015600 -0300" channel="TNT NOVELAS">
+  <programme start="20240921010600 -0300" stop="20240921015600 -0300" channel="TNT NOVELAS">
     <title lang="es">Lady, la vendedora de rosas</title>
   </programme>
-  <programme start="20240920015600 -0300" stop="20240920024600 -0300" channel="TNT NOVELAS">
+  <programme start="20240921015600 -0300" stop="20240921024600 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
     <episode-num system="onscreen">E73</episode-num>
   </programme>
-  <programme start="20240920024600 -0300" stop="20240920033200 -0300" channel="TNT NOVELAS">
+  <programme start="20240921024600 -0300" stop="20240921033200 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Será que es amor?</title>
   </programme>
-  <programme start="20240920033200 -0300" stop="20240920041800 -0300" channel="TNT NOVELAS">
+  <programme start="20240921033200 -0300" stop="20240921041800 -0300" channel="TNT NOVELAS">
     <title lang="es">Traicionada</title>
   </programme>
-  <programme start="20240920041800 -0300" stop="20240920050400 -0300" channel="TNT NOVELAS">
+  <programme start="20240921041800 -0300" stop="20240921050400 -0300" channel="TNT NOVELAS">
     <title lang="es">Seyran y Ferit</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240920050400 -0300" stop="20240920060400 -0300" channel="TNT NOVELAS">
+  <programme start="20240921050400 -0300" stop="20240921060400 -0300" channel="TNT NOVELAS">
     <title lang="es">La promesa</title>
     <episode-num system="onscreen">E120</episode-num>
   </programme>
-  <programme start="20240920060400 -0300" stop="20240920064800 -0300" channel="TNT NOVELAS">
+  <programme start="20240921060400 -0300" stop="20240921064800 -0300" channel="TNT NOVELAS">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme start="20240920064800 -0300" stop="20240920073200 -0300" channel="TNT NOVELAS">
+  <programme start="20240921064800 -0300" stop="20240921073200 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
     <episode-num system="onscreen">E73</episode-num>
   </programme>
-  <programme start="20240920073200 -0300" stop="20240920081600 -0300" channel="TNT NOVELAS">
+  <programme start="20240921073200 -0300" stop="20240921081600 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Será que es amor?</title>
   </programme>
-  <programme start="20240920081600 -0300" stop="20240920090000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921081600 -0300" stop="20240921090000 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Será que es amor?</title>
   </programme>
-  <programme start="20240920090000 -0300" stop="20240920100000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921090000 -0300" stop="20240921100000 -0300" channel="TNT NOVELAS">
     <title lang="es">La promesa</title>
     <episode-num system="onscreen">E116</episode-num>
   </programme>
-  <programme start="20240920100000 -0300" stop="20240920110000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921100000 -0300" stop="20240921110000 -0300" channel="TNT NOVELAS">
     <title lang="es">La promesa</title>
     <episode-num system="onscreen">E117</episode-num>
   </programme>
-  <programme start="20240920110000 -0300" stop="20240920120000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921110000 -0300" stop="20240921120000 -0300" channel="TNT NOVELAS">
     <title lang="es">La promesa</title>
     <episode-num system="onscreen">E118</episode-num>
   </programme>
-  <programme start="20240920120000 -0300" stop="20240920130000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921120000 -0300" stop="20240921130000 -0300" channel="TNT NOVELAS">
     <title lang="es">La promesa</title>
   </programme>
-  <programme start="20240920130000 -0300" stop="20240920140000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921130000 -0300" stop="20240921140000 -0300" channel="TNT NOVELAS">
     <title lang="es">La promesa</title>
     <episode-num system="onscreen">E120</episode-num>
   </programme>
-  <programme start="20240920140000 -0300" stop="20240920145000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921140000 -0300" stop="20240921145000 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Y tú quién eres?</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240920145000 -0300" stop="20240920154000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921145000 -0300" stop="20240921154000 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Y tú quién eres?</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240920154000 -0300" stop="20240920163000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921154000 -0300" stop="20240921163000 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Y tú quién eres?</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20240920163000 -0300" stop="20240920172000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921163000 -0300" stop="20240921172000 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Y tú quién eres?</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240920172000 -0300" stop="20240920181000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921172000 -0300" stop="20240921181000 -0300" channel="TNT NOVELAS">
     <title lang="es">¿Y tú quién eres?</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20240920181000 -0300" stop="20240920190000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921181000 -0300" stop="20240921190000 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
   </programme>
-  <programme start="20240920190000 -0300" stop="20240920195000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921190000 -0300" stop="20240921195000 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
     <episode-num system="onscreen">E70</episode-num>
   </programme>
-  <programme start="20240920195000 -0300" stop="20240920204000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921195000 -0300" stop="20240921204000 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
     <episode-num system="onscreen">E71</episode-num>
   </programme>
-  <programme start="20240920204000 -0300" stop="20240920213000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921204000 -0300" stop="20240921213000 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
     <episode-num system="onscreen">E72</episode-num>
   </programme>
-  <programme start="20240920213000 -0300" stop="20240920222000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921213000 -0300" stop="20240921222000 -0300" channel="TNT NOVELAS">
     <title lang="es">Fuerza de Mujer</title>
     <episode-num system="onscreen">E73</episode-num>
   </programme>
-  <programme start="20240920222000 -0300" stop="20240920231000 -0300" channel="TNT NOVELAS">
+  <programme start="20240921222000 -0300" stop="20240921231000 -0300" channel="TNT NOVELAS">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme start="20240920231000 -0300" stop="20240921000000 -0300" channel="TNT NOVELAS">
-    <title lang="es">Olvídame si puedes</title>
-    <episode-num system="onscreen">E47</episode-num>
-  </programme>
-  <programme start="20240921000000 -0300" stop="20240921005000 -0300" channel="TNT NOVELAS">
-    <title lang="es">Olvídame si puedes</title>
-  </programme>
-  <programme start="20240921005000 -0300" stop="20240921014000 -0300" channel="TNT NOVELAS">
-    <title lang="es">Olvídame si puedes</title>
-  </programme>
-  <programme start="20240921014000 -0300" stop="20240921023000 -0300" channel="TNT NOVELAS">
-    <title lang="es">Olvídame si puedes</title>
-  </programme>
-  <programme start="20240921023000 -0300" stop="20240921032000 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921032000 -0300" stop="20240921041000 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921041000 -0300" stop="20240921050000 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921050000 -0300" stop="20240921054800 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921054800 -0300" stop="20240921063600 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921063600 -0300" stop="20240921072400 -0300" channel="TNT NOVELAS">
-    <title lang="es">Seyran y Ferit</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20240921072400 -0300" stop="20240921081200 -0300" channel="TNT NOVELAS">
-    <title lang="es">El heredero</title>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20240921081200 -0300" stop="20240921090000 -0300" channel="TNT NOVELAS">
-    <title lang="es">Seyran y Ferit</title>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20240921090000 -0300" stop="20240921095100 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921095100 -0300" stop="20240921104200 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921104200 -0300" stop="20240921113300 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921113300 -0300" stop="20240921122400 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921122400 -0300" stop="20240921131500 -0300" channel="TNT NOVELAS">
-    <title lang="es">¿Será que es amor?</title>
-  </programme>
-  <programme start="20240921131500 -0300" stop="20240921140600 -0300" channel="TNT NOVELAS">
-    <title lang="es">Olvídame si puedes</title>
-  </programme>
-  <programme start="20240921140600 -0300" stop="20240921145700 -0300" channel="TNT NOVELAS">
+  <programme start="20240921231000 -0300" stop="20240922000000 -0300" channel="TNT NOVELAS">
     <title lang="es">Olvídame si puedes</title>
     <episode-num system="onscreen">E47</episode-num>
   </programme>
-  <programme start="20240921145700 -0300" stop="20240921154800 -0300" channel="TNT NOVELAS">
+  <programme start="20240922000000 -0300" stop="20240922005000 -0300" channel="TNT NOVELAS">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme start="20240921154800 -0300" stop="20240921163900 -0300" channel="TNT NOVELAS">
+  <programme start="20240922005000 -0300" stop="20240922014000 -0300" channel="TNT NOVELAS">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme start="20240921163900 -0300" stop="20240921173000 -0300" channel="TNT NOVELAS">
+  <programme start="20240922014000 -0300" stop="20240922023000 -0300" channel="TNT NOVELAS">
     <title lang="es">Olvídame si puedes</title>
   </programme>
-  <programme start="20240921173000 -0300" stop="20240921182100 -0300" channel="TNT NOVELAS">
+  <programme start="20240922023000 -0300" stop="20240922032000 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922032000 -0300" stop="20240922041000 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922041000 -0300" stop="20240922050000 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922050000 -0300" stop="20240922054800 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922054800 -0300" stop="20240922063600 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922063600 -0300" stop="20240922072400 -0300" channel="TNT NOVELAS">
     <title lang="es">Seyran y Ferit</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240921182100 -0300" stop="20240921191200 -0300" channel="TNT NOVELAS">
+  <programme start="20240922072400 -0300" stop="20240922081200 -0300" channel="TNT NOVELAS">
     <title lang="es">El heredero</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240921191200 -0300" stop="20240921200300 -0300" channel="TNT NOVELAS">
+  <programme start="20240922081200 -0300" stop="20240922090000 -0300" channel="TNT NOVELAS">
     <title lang="es">Seyran y Ferit</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20240921200300 -0300" stop="20240921205400 -0300" channel="TNT NOVELAS">
+  <programme start="20240922090000 -0300" stop="20240922095100 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922095100 -0300" stop="20240922104200 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922104200 -0300" stop="20240922113300 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922113300 -0300" stop="20240922122400 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922122400 -0300" stop="20240922131500 -0300" channel="TNT NOVELAS">
+    <title lang="es">¿Será que es amor?</title>
+  </programme>
+  <programme start="20240922131500 -0300" stop="20240922140600 -0300" channel="TNT NOVELAS">
+    <title lang="es">Olvídame si puedes</title>
+  </programme>
+  <programme start="20240922140600 -0300" stop="20240922145700 -0300" channel="TNT NOVELAS">
+    <title lang="es">Olvídame si puedes</title>
+    <episode-num system="onscreen">E47</episode-num>
+  </programme>
+  <programme start="20240922145700 -0300" stop="20240922154800 -0300" channel="TNT NOVELAS">
+    <title lang="es">Olvídame si puedes</title>
+  </programme>
+  <programme start="20240922154800 -0300" stop="20240922163900 -0300" channel="TNT NOVELAS">
+    <title lang="es">Olvídame si puedes</title>
+  </programme>
+  <programme start="20240922163900 -0300" stop="20240922173000 -0300" channel="TNT NOVELAS">
+    <title lang="es">Olvídame si puedes</title>
+  </programme>
+  <programme start="20240922173000 -0300" stop="20240922182100 -0300" channel="TNT NOVELAS">
+    <title lang="es">Seyran y Ferit</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20240922182100 -0300" stop="20240922191200 -0300" channel="TNT NOVELAS">
+    <title lang="es">El heredero</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20240922191200 -0300" stop="20240922200300 -0300" channel="TNT NOVELAS">
+    <title lang="es">Seyran y Ferit</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20240922200300 -0300" stop="20240922205400 -0300" channel="TNT NOVELAS">
     <title lang="es">Seyran y Ferit</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240921205400 -0300" stop="20240921214500 -0300" channel="TNT NOVELAS">
+  <programme start="20240922205400 -0300" stop="20240922214500 -0300" channel="TNT NOVELAS">
     <title lang="es">Seyran y Ferit</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
@@ -11705,569 +11536,305 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920003000 -0300" stop="20240920012100 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921003000 -0300" stop="20240921012100 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
-  <programme start="20240920012100 -0300" stop="20240920020900 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921012100 -0300" stop="20240921020900 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S5 E11</episode-num>
   </programme>
-  <programme start="20240920020900 -0300" stop="20240920025700 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921020900 -0300" stop="20240921025700 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 7 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240920025700 -0300" stop="20240920034100 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921025700 -0300" stop="20240921034100 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 7 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240920034100 -0300" stop="20240920043000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921034100 -0300" stop="20240921043000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E17</episode-num>
   </programme>
-  <programme start="20240920043000 -0300" stop="20240920051700 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921043000 -0300" stop="20240921051700 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20240920051700 -0300" stop="20240920060300 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921051700 -0300" stop="20240921060300 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20240920060300 -0300" stop="20240920065000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921060300 -0300" stop="20240921065000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20240920065000 -0300" stop="20240920073400 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921065000 -0300" stop="20240921073400 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S6 E12</episode-num>
   </programme>
-  <programme start="20240920073400 -0300" stop="20240920082000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921073400 -0300" stop="20240921082000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S6 E13</episode-num>
   </programme>
-  <programme start="20240920082000 -0300" stop="20240920090000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921082000 -0300" stop="20240921090000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 7 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240920090000 -0300" stop="20240920095000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921090000 -0300" stop="20240921095000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240920095000 -0300" stop="20240920103500 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921095000 -0300" stop="20240921103500 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240920103500 -0300" stop="20240920112300 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921103500 -0300" stop="20240921112300 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240920112300 -0300" stop="20240920120700 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921112300 -0300" stop="20240921120700 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240920120700 -0300" stop="20240920125500 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921120700 -0300" stop="20240921125500 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240920125500 -0300" stop="20240920134000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921125500 -0300" stop="20240921134000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240920134000 -0300" stop="20240920142900 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921134000 -0300" stop="20240921142900 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20240920142900 -0300" stop="20240920152000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921142900 -0300" stop="20240921152000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20240920152000 -0300" stop="20240920160700 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921152000 -0300" stop="20240921160700 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20240920160700 -0300" stop="20240920165700 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921160700 -0300" stop="20240921165700 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E23</episode-num>
   </programme>
-  <programme start="20240920165700 -0300" stop="20240920174500 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921165700 -0300" stop="20240921174500 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240920174500 -0300" stop="20240920183400 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921174500 -0300" stop="20240921183400 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20240920183400 -0300" stop="20240920193100 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921183400 -0300" stop="20240921193100 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20240920193100 -0300" stop="20240920202400 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921193100 -0300" stop="20240921202400 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20240920202400 -0300" stop="20240920211400 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921202400 -0300" stop="20240921211400 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240920211400 -0300" stop="20240920220400 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921211400 -0300" stop="20240921220400 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20240920220400 -0300" stop="20240920225200 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921220400 -0300" stop="20240921225200 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240920225200 -0300" stop="20240920233700 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240921225200 -0300" stop="20240921233700 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240920233700 -0300" stop="20240921002600 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Major crimes</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20240921233700 -0300" stop="20240922002600 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240922002600 -0300" stop="20240922011300 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240922233700 -0300" stop="20240923002600 -0300" channel="TNT SERIES SD (MX)">
+    <title lang="es">Major crimes</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240923002600 -0300" stop="20240923011300 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240922011300 -0300" stop="20240922020000 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240923011300 -0300" stop="20240923020000 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240922020000 -0300" stop="20240922025600 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240923020000 -0300" stop="20240923025600 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Wild Republic</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240922025600 -0300" stop="20240922035100 -0300" channel="TNT SERIES SD (MX)">
+  <programme start="20240923025600 -0300" stop="20240923035100 -0300" channel="TNT SERIES SD (MX)">
     <title lang="es">Wild Republic</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240922035100 -0300" stop="20240922042000 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Tainted</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240922042000 -0300" stop="20240922044900 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Tainted</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922044900 -0300" stop="20240922053600 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E20</episode-num>
-  </programme>
-  <programme start="20240922053600 -0300" stop="20240922062400 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E21</episode-num>
-  </programme>
-  <programme start="20240922062400 -0300" stop="20240922071000 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E22</episode-num>
-  </programme>
-  <programme start="20240922071000 -0300" stop="20240922075800 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E23</episode-num>
-  </programme>
-  <programme start="20240922075800 -0300" stop="20240922090000 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S7 E1</episode-num>
-  </programme>
-  <programme start="20240922090000 -0300" stop="20240922095000 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20240922095000 -0300" stop="20240922104500 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
-  </programme>
-  <programme start="20240922104500 -0300" stop="20240922113600 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240922113600 -0300" stop="20240922122700 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240922122700 -0300" stop="20240922131600 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240922131600 -0300" stop="20240922140300 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 16</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E16</episode-num>
-  </programme>
-  <programme start="20240922140300 -0300" stop="20240922145100 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 17</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E17</episode-num>
-  </programme>
-  <programme start="20240922145100 -0300" stop="20240922153800 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 18</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E18</episode-num>
-  </programme>
-  <programme start="20240922153800 -0300" stop="20240922162600 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 19</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E19</episode-num>
-  </programme>
-  <programme start="20240922162600 -0300" stop="20240922171500 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 20</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E20</episode-num>
-  </programme>
-  <programme start="20240922171500 -0300" stop="20240922180300 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 21</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E21</episode-num>
-  </programme>
-  <programme start="20240922180300 -0300" stop="20240922185100 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 22</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E22</episode-num>
-  </programme>
-  <programme start="20240922185100 -0300" stop="20240922193800 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 23</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E23</episode-num>
-  </programme>
-  <programme start="20240922193800 -0300" stop="20240922202600 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 1</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E1</episode-num>
-  </programme>
-  <programme start="20240922202600 -0300" stop="20240922211400 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 2</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240922211400 -0300" stop="20240922220300 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 6</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922220300 -0300" stop="20240922225300 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 7</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20240922225300 -0300" stop="20240922233900 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 8</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240922233900 -0300" stop="20240923002900 -0300" channel="TNT SERIES SD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 9</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20240920003000 -0300" stop="20240920012100 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921003000 -0300" stop="20240921012100 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
-  <programme start="20240920012100 -0300" stop="20240920020900 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921012100 -0300" stop="20240921020900 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S5 E11</episode-num>
   </programme>
-  <programme start="20240920020900 -0300" stop="20240920025700 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921020900 -0300" stop="20240921025700 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 7 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240920025700 -0300" stop="20240920034100 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921025700 -0300" stop="20240921034100 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 7 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20240920034100 -0300" stop="20240920043000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921034100 -0300" stop="20240921043000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E17</episode-num>
   </programme>
-  <programme start="20240920043000 -0300" stop="20240920051700 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921043000 -0300" stop="20240921051700 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Person of interest</title>
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20240920051700 -0300" stop="20240920060300 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921051700 -0300" stop="20240921060300 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20240920060300 -0300" stop="20240920065000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921060300 -0300" stop="20240921065000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 4 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20240920065000 -0300" stop="20240920073400 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921065000 -0300" stop="20240921073400 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S6 E12</episode-num>
   </programme>
-  <programme start="20240920073400 -0300" stop="20240920082000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921073400 -0300" stop="20240921082000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S6 E13</episode-num>
   </programme>
-  <programme start="20240920082000 -0300" stop="20240920090000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921082000 -0300" stop="20240921090000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 7 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20240920090000 -0300" stop="20240920095000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921090000 -0300" stop="20240921095000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240920095000 -0300" stop="20240920103500 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921095000 -0300" stop="20240921103500 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240920103500 -0300" stop="20240920112300 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921103500 -0300" stop="20240921112300 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240920112300 -0300" stop="20240920120700 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921112300 -0300" stop="20240921120700 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240920120700 -0300" stop="20240920125500 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921120700 -0300" stop="20240921125500 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240920125500 -0300" stop="20240920134000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921125500 -0300" stop="20240921134000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240920134000 -0300" stop="20240920142900 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921134000 -0300" stop="20240921142900 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20240920142900 -0300" stop="20240920152000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921142900 -0300" stop="20240921152000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20240920152000 -0300" stop="20240920160700 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921152000 -0300" stop="20240921160700 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20240920160700 -0300" stop="20240920165700 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921160700 -0300" stop="20240921165700 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S6 E23</episode-num>
   </programme>
-  <programme start="20240920165700 -0300" stop="20240920174500 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921165700 -0300" stop="20240921174500 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E1</episode-num>
   </programme>
-  <programme start="20240920174500 -0300" stop="20240920183400 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921174500 -0300" stop="20240921183400 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20240920183400 -0300" stop="20240920193100 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921183400 -0300" stop="20240921193100 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20240920193100 -0300" stop="20240920202400 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921193100 -0300" stop="20240921202400 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20240920202400 -0300" stop="20240920211400 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921202400 -0300" stop="20240921211400 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240920211400 -0300" stop="20240920220400 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921211400 -0300" stop="20240921220400 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">The Closer</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20240920220400 -0300" stop="20240920225200 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921220400 -0300" stop="20240921225200 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240920225200 -0300" stop="20240920233700 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240921225200 -0300" stop="20240921233700 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240920233700 -0300" stop="20240921002600 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Major crimes</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20240921233700 -0300" stop="20240922002600 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240922002600 -0300" stop="20240922011300 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240922233700 -0300" stop="20240923002600 -0300" channel="TNT SERIES HD (MX)">
+    <title lang="es">Major crimes</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20240923002600 -0300" stop="20240923011300 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240922011300 -0300" stop="20240922020000 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240923011300 -0300" stop="20240923020000 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Major crimes</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240922020000 -0300" stop="20240922025600 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240923020000 -0300" stop="20240923025600 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Wild Republic</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240922025600 -0300" stop="20240922035100 -0300" channel="TNT SERIES HD (MX)">
+  <programme start="20240923025600 -0300" stop="20240923035100 -0300" channel="TNT SERIES HD (MX)">
     <title lang="es">Wild Republic</title>
     <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922035100 -0300" stop="20240922042000 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Tainted</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20240922042000 -0300" stop="20240922044900 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Tainted</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922044900 -0300" stop="20240922053600 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E20</episode-num>
-  </programme>
-  <programme start="20240922053600 -0300" stop="20240922062400 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E21</episode-num>
-  </programme>
-  <programme start="20240922062400 -0300" stop="20240922071000 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E22</episode-num>
-  </programme>
-  <programme start="20240922071000 -0300" stop="20240922075800 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S6 E23</episode-num>
-  </programme>
-  <programme start="20240922075800 -0300" stop="20240922090000 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Cold Case</title>
-    <episode-num system="onscreen">S7 E1</episode-num>
-  </programme>
-  <programme start="20240922090000 -0300" stop="20240922095000 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20240922095000 -0300" stop="20240922104500 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
-  </programme>
-  <programme start="20240922104500 -0300" stop="20240922113600 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S2 E1</episode-num>
-  </programme>
-  <programme start="20240922113600 -0300" stop="20240922122700 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240922122700 -0300" stop="20240922131600 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Closer</title>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20240922131600 -0300" stop="20240922140300 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 16</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E16</episode-num>
-  </programme>
-  <programme start="20240922140300 -0300" stop="20240922145100 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 17</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E17</episode-num>
-  </programme>
-  <programme start="20240922145100 -0300" stop="20240922153800 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 18</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E18</episode-num>
-  </programme>
-  <programme start="20240922153800 -0300" stop="20240922162600 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 19</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E19</episode-num>
-  </programme>
-  <programme start="20240922162600 -0300" stop="20240922171500 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 20</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E20</episode-num>
-  </programme>
-  <programme start="20240922171500 -0300" stop="20240922180300 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 21</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E21</episode-num>
-  </programme>
-  <programme start="20240922180300 -0300" stop="20240922185100 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 22</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E22</episode-num>
-  </programme>
-  <programme start="20240922185100 -0300" stop="20240922193800 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 3 | Episodio 23</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S3 E23</episode-num>
-  </programme>
-  <programme start="20240922193800 -0300" stop="20240922202600 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 1</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E1</episode-num>
-  </programme>
-  <programme start="20240922202600 -0300" stop="20240922211400 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 2</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240922211400 -0300" stop="20240922220300 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 6</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922220300 -0300" stop="20240922225300 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 7</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20240922225300 -0300" stop="20240922233900 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 8</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20240922233900 -0300" stop="20240923002900 -0300" channel="TNT SERIES HD (MX)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 1 | Episodio 9</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
   <programme start="20240921042200 +0200" stop="20240921051400 +0200" channel="TNT SERIES HD (AR)">
     <title lang="es">El mentalista</title>
@@ -13654,759 +13221,632 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.21.</episode-num>
   </programme>
-  <programme start="20240920010000 -0300" stop="20240920025000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921010000 -0300" stop="20240921025000 -0300" channel="Universal Cinema HD">
     <title lang="es">Crepúsculo la Saga: Amanecer – Parte 1</title>
     <desc lang="es">Luego del matrimonio, Bella queda embarazada. Pero el feto que lleva en su vientre traerá serias consecuencias.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/crepusculo_la_saga_amanecer_parte_1.jpg"/>
   </programme>
-  <programme start="20240920025000 -0300" stop="20240920044000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921025000 -0300" stop="20240921044000 -0300" channel="Universal Cinema HD">
     <title lang="es">Crepúsculo la Saga: Amanecer – Parte 1</title>
     <desc lang="es">Luego del matrimonio, Bella queda embarazada. Pero el feto que lleva en su vientre traerá serias consecuencias.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/crepusculo_la_saga_amanecer_parte_1.jpg"/>
   </programme>
-  <programme start="20240920044000 -0300" stop="20240920060000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921044000 -0300" stop="20240921060000 -0300" channel="Universal Cinema HD">
     <title lang="es">El hijo del diablo</title>
   </programme>
-  <programme start="20240920060000 -0300" stop="20240920080000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921060000 -0300" stop="20240921080000 -0300" channel="Universal Cinema HD">
     <title lang="es">Aprendices Fuera de Línea</title>
     <desc lang="es">Dos vendedores quedan desempleados y ahora deberán intentar ser contratados por el gigante de internet google compitiendo por jóvenes con más talento.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/aprendices_fuera_de_linea.jpg"/>
   </programme>
-  <programme start="20240920080000 -0300" stop="20240920083000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921080000 -0300" stop="20240921083000 -0300" channel="Universal Cinema HD">
     <title lang="es">Fullscreen</title>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20240920083000 -0300" stop="20240920090000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921083000 -0300" stop="20240921090000 -0300" channel="Universal Cinema HD">
     <title lang="es">Fullscreen</title>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20240920090000 -0300" stop="20240920092500 -0300" channel="Universal Cinema HD">
+  <programme start="20240921090000 -0300" stop="20240921092500 -0300" channel="Universal Cinema HD">
     <title lang="es">Fullscreen</title>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20240920092500 -0300" stop="20240920095000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921092500 -0300" stop="20240921095000 -0300" channel="Universal Cinema HD">
     <title lang="es">Fullscreen</title>
     <episode-num system="onscreen">S5</episode-num>
   </programme>
-  <programme start="20240920095000 -0300" stop="20240920112000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921095000 -0300" stop="20240921112000 -0300" channel="Universal Cinema HD">
     <title lang="es">Los aliens se comieron</title>
   </programme>
-  <programme start="20240920112000 -0300" stop="20240920132000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921112000 -0300" stop="20240921132000 -0300" channel="Universal Cinema HD">
     <title lang="es">Pasajeros</title>
   </programme>
-  <programme start="20240920132000 -0300" stop="20240920145000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921132000 -0300" stop="20240921145000 -0300" channel="Universal Cinema HD">
     <title lang="es">Tripulación Dave</title>
   </programme>
-  <programme start="20240920145000 -0300" stop="20240920174000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921145000 -0300" stop="20240921174000 -0300" channel="Universal Cinema HD">
     <title lang="es">Interestelar</title>
     <desc lang="es">Una tripulación de astronautas es reclutada para hacer uso de una nueva forma de viajar hacia el universo y poder buscar un nuevo planeta para vivir.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/interestelar.jpg"/>
   </programme>
-  <programme start="20240920174000 -0300" stop="20240920194000 -0300" channel="Universal Cinema HD">
+  <programme start="20240921174000 -0300" stop="20240921194000 -0300" channel="Universal Cinema HD">
     <title lang="es">La Llegada</title>
   </programme>
-  <programme start="20240920194000 -0300" stop="20240920212500 -0300" channel="Universal Cinema HD">
+  <programme start="20240921194000 -0300" stop="20240921212500 -0300" channel="Universal Cinema HD">
     <title lang="es">Nuestra historia de amor</title>
   </programme>
-  <programme start="20240920212500 -0300" stop="20240920230500 -0300" channel="Universal Cinema HD">
+  <programme start="20240921212500 -0300" stop="20240921230500 -0300" channel="Universal Cinema HD">
     <title lang="es">Honey 4, Levántate y Baila</title>
-  </programme>
-  <programme start="20240920230500 -0300" stop="20240921010000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Más notas perfectas</title>
   </programme>
   <programme start="20240921230500 -0300" stop="20240922010000 -0300" channel="Universal Cinema HD">
     <title lang="es">Más notas perfectas</title>
   </programme>
-  <programme start="20240922010000 -0300" stop="20240922024500 -0300" channel="Universal Cinema HD">
+  <programme start="20240922230500 -0300" stop="20240923010000 -0300" channel="Universal Cinema HD">
+    <title lang="es">Más notas perfectas</title>
+  </programme>
+  <programme start="20240923010000 -0300" stop="20240923024500 -0300" channel="Universal Cinema HD">
     <title lang="es">De noche con Kate</title>
   </programme>
-  <programme start="20240922024500 -0300" stop="20240922045500 -0300" channel="Universal Cinema HD">
+  <programme start="20240923024500 -0300" stop="20240923045500 -0300" channel="Universal Cinema HD">
     <title lang="es">El gran truco</title>
   </programme>
-  <programme start="20240922045500 -0300" stop="20240922065500 -0300" channel="Universal Cinema HD">
-    <title lang="es">Una Esposa de Mentira</title>
-    <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa.</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/una_esposa_de_mentira.jpg"/>
-  </programme>
-  <programme start="20240922065500 -0300" stop="20240922083000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Elektra</title>
-  </programme>
-  <programme start="20240922083000 -0300" stop="20240922090000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Fullscreen</title>
-    <episode-num system="onscreen">S5</episode-num>
-  </programme>
-  <programme start="20240922090000 -0300" stop="20240922093000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Fullscreen</title>
-    <episode-num system="onscreen">S5</episode-num>
-  </programme>
-  <programme start="20240922093000 -0300" stop="20240922100000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Fullscreen</title>
-    <episode-num system="onscreen">S5</episode-num>
-  </programme>
-  <programme start="20240922100000 -0300" stop="20240922103000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Fullscreen</title>
-    <episode-num system="onscreen">S5</episode-num>
-  </programme>
-  <programme start="20240922103000 -0300" stop="20240922121500 -0300" channel="Universal Cinema HD">
-    <title lang="es">En la oscuridad</title>
-  </programme>
-  <programme start="20240922121500 -0300" stop="20240922134500 -0300" channel="Universal Cinema HD">
-    <title lang="es">Drones, Teme a lo que vuela</title>
-  </programme>
-  <programme start="20240922134500 -0300" stop="20240922154000 -0300" channel="Universal Cinema HD">
-    <title lang="es">La Iglesia De La Salvación</title>
-  </programme>
-  <programme start="20240922154000 -0300" stop="20240922170500 -0300" channel="Universal Cinema HD">
-    <title lang="es">Reyes</title>
-  </programme>
-  <programme start="20240922170500 -0300" stop="20240922191500 -0300" channel="Universal Cinema HD">
-    <title lang="es">La chica en la niebla</title>
-  </programme>
-  <programme start="20240922191500 -0300" stop="20240922203000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Shopkins Viajan por el Mundo</title>
-  </programme>
-  <programme start="20240922203000 -0300" stop="20240922220000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Trolls</title>
-  </programme>
-  <programme start="20240922220000 -0300" stop="20240922232500 -0300" channel="Universal Cinema HD">
-    <title lang="es">Madagascar 2 Escape África</title>
-  </programme>
-  <programme start="20240922232500 -0300" stop="20240923010000 -0300" channel="Universal Cinema HD">
-    <title lang="es">Madagascar 3 Los fugitivos</title>
-  </programme>
-  <programme start="20240919211000 -0300" stop="20240919213500 -0300" channel="Universal Comedy HD">
+  <programme start="20240920211000 -0300" stop="20240920213500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
-  <programme start="20240919213500 -0300" stop="20240919220000 -0300" channel="Universal Comedy HD">
+  <programme start="20240920213500 -0300" stop="20240920220000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
-  <programme start="20240919220000 -0300" stop="20240919222500 -0300" channel="Universal Comedy HD">
+  <programme start="20240920220000 -0300" stop="20240920222500 -0300" channel="Universal Comedy HD">
     <title lang="es">Upright</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240919222500 -0300" stop="20240919225000 -0300" channel="Universal Comedy HD">
+  <programme start="20240920222500 -0300" stop="20240920225000 -0300" channel="Universal Comedy HD">
     <title lang="es">Ghosts</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240919225000 -0300" stop="20240919231500 -0300" channel="Universal Comedy HD">
+  <programme start="20240920225000 -0300" stop="20240920231500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S8 E5</episode-num>
   </programme>
-  <programme start="20240919231500 -0300" stop="20240919234000 -0300" channel="Universal Comedy HD">
+  <programme start="20240920231500 -0300" stop="20240920234000 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S8 E6</episode-num>
   </programme>
-  <programme start="20240919234000 -0300" stop="20240920000500 -0300" channel="Universal Comedy HD">
+  <programme start="20240920234000 -0300" stop="20240921000500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S8 E7</episode-num>
   </programme>
-  <programme start="20240920000500 -0300" stop="20240920003000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921000500 -0300" stop="20240921003000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240920003000 -0300" stop="20240920005500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921003000 -0300" stop="20240921005500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20240920005500 -0300" stop="20240920014000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921005500 -0300" stop="20240921014000 -0300" channel="Universal Comedy HD">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240920014000 -0300" stop="20240920021000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921014000 -0300" stop="20240921021000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Odd couple</title>
     <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
-  <programme start="20240920021000 -0300" stop="20240920023500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921021000 -0300" stop="20240921023500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Odd couple</title>
     <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
-  <programme start="20240920023500 -0300" stop="20240920030000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921023500 -0300" stop="20240921030000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Odd couple</title>
     <episode-num system="onscreen">S3 E8</episode-num>
   </programme>
-  <programme start="20240920030000 -0300" stop="20240920033000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921030000 -0300" stop="20240921033000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Odd couple</title>
     <episode-num system="onscreen">S3 E9</episode-num>
   </programme>
-  <programme start="20240920033000 -0300" stop="20240920035500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921033000 -0300" stop="20240921035500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Odd couple</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20240920035500 -0300" stop="20240920042000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921035500 -0300" stop="20240921042000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240920042000 -0300" stop="20240920044500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921042000 -0300" stop="20240921044500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240920044500 -0300" stop="20240920051000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921044500 -0300" stop="20240921051000 -0300" channel="Universal Comedy HD">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20240920051000 -0300" stop="20240920053500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921051000 -0300" stop="20240921053500 -0300" channel="Universal Comedy HD">
     <title lang="es">30 Rock</title>
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
-  <programme start="20240920053500 -0300" stop="20240920060000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921053500 -0300" stop="20240921060000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Millers</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240920060000 -0300" stop="20240920062500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921060000 -0300" stop="20240921062500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240920062500 -0300" stop="20240920065000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921062500 -0300" stop="20240921065000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20240920065000 -0300" stop="20240920071500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921065000 -0300" stop="20240921071500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20240920071500 -0300" stop="20240920074000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921071500 -0300" stop="20240921074000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240920074000 -0300" stop="20240920080500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921074000 -0300" stop="20240921080500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240920080500 -0300" stop="20240920083000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921080500 -0300" stop="20240921083000 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20240920083000 -0300" stop="20240920085500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921083000 -0300" stop="20240921085500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E16</episode-num>
   </programme>
-  <programme start="20240920085500 -0300" stop="20240920092000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921085500 -0300" stop="20240921092000 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20240920092000 -0300" stop="20240920094500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921092000 -0300" stop="20240921094500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E18</episode-num>
   </programme>
-  <programme start="20240920094500 -0300" stop="20240920101000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921094500 -0300" stop="20240921101000 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E19</episode-num>
   </programme>
-  <programme start="20240920101000 -0300" stop="20240920103500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921101000 -0300" stop="20240921103500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20240920103500 -0300" stop="20240920110000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921103500 -0300" stop="20240921110000 -0300" channel="Universal Comedy HD">
     <title lang="es">Señor alcalde</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240920110000 -0300" stop="20240920112500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921110000 -0300" stop="20240921112500 -0300" channel="Universal Comedy HD">
     <title lang="es">Ghosts</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240920112500 -0300" stop="20240920123500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921112500 -0300" stop="20240921123500 -0300" channel="Universal Comedy HD">
     <title lang="es">Saturday night live</title>
     <episode-num system="onscreen">S49 E17</episode-num>
   </programme>
-  <programme start="20240920123500 -0300" stop="20240920130000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921123500 -0300" stop="20240921130000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E1</episode-num>
   </programme>
-  <programme start="20240920130000 -0300" stop="20240920132000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921130000 -0300" stop="20240921132000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E2</episode-num>
   </programme>
-  <programme start="20240920132000 -0300" stop="20240920134500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921132000 -0300" stop="20240921134500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E3</episode-num>
   </programme>
-  <programme start="20240920134500 -0300" stop="20240920141000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921134500 -0300" stop="20240921141000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E4</episode-num>
   </programme>
-  <programme start="20240920141000 -0300" stop="20240920143000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921141000 -0300" stop="20240921143000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E5</episode-num>
   </programme>
-  <programme start="20240920143000 -0300" stop="20240920145500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921143000 -0300" stop="20240921145500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E6</episode-num>
   </programme>
-  <programme start="20240920145500 -0300" stop="20240920152000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921145500 -0300" stop="20240921152000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E7</episode-num>
   </programme>
-  <programme start="20240920152000 -0300" stop="20240920154500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921152000 -0300" stop="20240921154500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E8</episode-num>
   </programme>
-  <programme start="20240920154500 -0300" stop="20240920160500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921154500 -0300" stop="20240921160500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E9</episode-num>
   </programme>
-  <programme start="20240920160500 -0300" stop="20240920163000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921160500 -0300" stop="20240921163000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S8 E10</episode-num>
   </programme>
-  <programme start="20240920163000 -0300" stop="20240920165500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921163000 -0300" stop="20240921165500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240920165500 -0300" stop="20240920171500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921165500 -0300" stop="20240921171500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240920171500 -0300" stop="20240920174000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921171500 -0300" stop="20240921174000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240920174000 -0300" stop="20240920180000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921174000 -0300" stop="20240921180000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240920180000 -0300" stop="20240920182500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921180000 -0300" stop="20240921182500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240920182500 -0300" stop="20240920185000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921182500 -0300" stop="20240921185000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240920185000 -0300" stop="20240920191500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921185000 -0300" stop="20240921191500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20240920191500 -0300" stop="20240920210000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921191500 -0300" stop="20240921210000 -0300" channel="Universal Comedy HD">
     <title lang="es">La Familia de Mi Novia</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240920210000 -0300" stop="20240920230000 -0300" channel="Universal Comedy HD">
+  <programme start="20240921210000 -0300" stop="20240921230000 -0300" channel="Universal Comedy HD">
     <title lang="es">Los cazanovias</title>
   </programme>
-  <programme start="20240920230000 -0300" stop="20240921004500 -0300" channel="Universal Comedy HD">
+  <programme start="20240921230000 -0300" stop="20240922004500 -0300" channel="Universal Comedy HD">
     <title lang="es">Robo en las alturas</title>
   </programme>
-  <programme start="20240921004500 -0300" stop="20240921011000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922004500 -0300" stop="20240922011000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20240921011000 -0300" stop="20240921013500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922011000 -0300" stop="20240922013500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20240921013500 -0300" stop="20240921020000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922013500 -0300" stop="20240922020000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20240921020000 -0300" stop="20240921022500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922020000 -0300" stop="20240922022500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20240921022500 -0300" stop="20240921025000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922022500 -0300" stop="20240922025000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20240921025000 -0300" stop="20240921031500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922025000 -0300" stop="20240922031500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20240921031500 -0300" stop="20240921034000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922031500 -0300" stop="20240922034000 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E14</episode-num>
   </programme>
-  <programme start="20240921034000 -0300" stop="20240921040500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922034000 -0300" stop="20240922040500 -0300" channel="Universal Comedy HD">
     <title lang="es">Brooklyn nine-nine</title>
     <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
-  <programme start="20240921040500 -0300" stop="20240921043000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922040500 -0300" stop="20240922043000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240921043000 -0300" stop="20240921045000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922043000 -0300" stop="20240922045000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240921045000 -0300" stop="20240921051500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922045000 -0300" stop="20240922051500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240921051500 -0300" stop="20240921053500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922051500 -0300" stop="20240922053500 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240921053500 -0300" stop="20240921060000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922053500 -0300" stop="20240922060000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240921060000 -0300" stop="20240921063000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922060000 -0300" stop="20240922063000 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E20</episode-num>
   </programme>
-  <programme start="20240921063000 -0300" stop="20240921065500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922063000 -0300" stop="20240922065500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E21</episode-num>
   </programme>
-  <programme start="20240921065500 -0300" stop="20240921072500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922065500 -0300" stop="20240922072500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E22</episode-num>
   </programme>
-  <programme start="20240921072500 -0300" stop="20240921075000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922072500 -0300" stop="20240922075000 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E23</episode-num>
   </programme>
-  <programme start="20240921075000 -0300" stop="20240921081500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922075000 -0300" stop="20240922081500 -0300" channel="Universal Comedy HD">
     <title lang="es">The office</title>
     <episode-num system="onscreen">S7 E24</episode-num>
   </programme>
-  <programme start="20240921081500 -0300" stop="20240921090000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922081500 -0300" stop="20240922090000 -0300" channel="Universal Comedy HD">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20240921090000 -0300" stop="20240921094500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922090000 -0300" stop="20240922094500 -0300" channel="Universal Comedy HD">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20240921094500 -0300" stop="20240921103500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922094500 -0300" stop="20240922103500 -0300" channel="Universal Comedy HD">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20240921103500 -0300" stop="20240921112000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922103500 -0300" stop="20240922112000 -0300" channel="Universal Comedy HD">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20240921112000 -0300" stop="20240921120500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922112000 -0300" stop="20240922120500 -0300" channel="Universal Comedy HD">
     <title lang="es">Girlfriends' Guide to Divorce</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20240921120500 -0300" stop="20240921123000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922120500 -0300" stop="20240922123000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 3</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20240921123000 -0300" stop="20240921130000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922123000 -0300" stop="20240922130000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20240921130000 -0300" stop="20240921132500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922130000 -0300" stop="20240922132500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240921132500 -0300" stop="20240921135000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922132500 -0300" stop="20240922135000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240921135000 -0300" stop="20240921141500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922135000 -0300" stop="20240922141500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 7</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20240921141500 -0300" stop="20240921144000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922141500 -0300" stop="20240922144000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 8</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20240921144000 -0300" stop="20240921150500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922144000 -0300" stop="20240922150500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 9</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20240921150500 -0300" stop="20240921153000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922150500 -0300" stop="20240922153000 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20240921153000 -0300" stop="20240921155500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922153000 -0300" stop="20240922155500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240921155500 -0300" stop="20240921162500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922155500 -0300" stop="20240922162500 -0300" channel="Universal Comedy HD">
     <title lang="es">The Good Place</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20240921162500 -0300" stop="20240921165000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922162500 -0300" stop="20240922165000 -0300" channel="Universal Comedy HD">
     <title lang="es">Dr. Ken</title>
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20240921165000 -0300" stop="20240921171500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922165000 -0300" stop="20240922171500 -0300" channel="Universal Comedy HD">
     <title lang="es">Señor alcalde</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240921171500 -0300" stop="20240921174000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922171500 -0300" stop="20240922174000 -0300" channel="Universal Comedy HD">
     <title lang="es">Upright</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240921174000 -0300" stop="20240921180500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922174000 -0300" stop="20240922180500 -0300" channel="Universal Comedy HD">
     <title lang="es">Ghosts</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240921180500 -0300" stop="20240921191500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922180500 -0300" stop="20240922191500 -0300" channel="Universal Comedy HD">
     <title lang="es">Saturday night live</title>
     <episode-num system="onscreen">S49 E17</episode-num>
   </programme>
-  <programme start="20240921191500 -0300" stop="20240921194000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922191500 -0300" stop="20240922194000 -0300" channel="Universal Comedy HD">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S6 E15</episode-num>
   </programme>
-  <programme start="20240921194000 -0300" stop="20240921200500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922194000 -0300" stop="20240922200500 -0300" channel="Universal Comedy HD">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240921200500 -0300" stop="20240921203000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922200500 -0300" stop="20240922203000 -0300" channel="Universal Comedy HD">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240921203000 -0300" stop="20240921205500 -0300" channel="Universal Comedy HD">
+  <programme start="20240922203000 -0300" stop="20240922205500 -0300" channel="Universal Comedy HD">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240921205500 -0300" stop="20240921212000 -0300" channel="Universal Comedy HD">
+  <programme start="20240922205500 -0300" stop="20240922212000 -0300" channel="Universal Comedy HD">
     <title lang="es">Superstore</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240919214500 -0300" stop="20240919223000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240920214500 -0300" stop="20240920223000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S5 E7</episode-num>
   </programme>
-  <programme start="20240919223000 -0300" stop="20240919233500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240920223000 -0300" stop="20240920233500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Wolf</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240919233500 -0300" stop="20240920003500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240920233500 -0300" stop="20240921003500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Billions</title>
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
-  <programme start="20240920003500 -0300" stop="20240920013500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921003500 -0300" stop="20240921013500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Billions</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20240920013500 -0300" stop="20240920022500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921013500 -0300" stop="20240921022500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Suits</title>
     <episode-num system="onscreen">S3 E4</episode-num>
   </programme>
-  <programme start="20240920022500 -0300" stop="20240920031500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921022500 -0300" stop="20240921031500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Suits</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240920031500 -0300" stop="20240920040500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921031500 -0300" stop="20240921040500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20240920040500 -0300" stop="20240920051000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921040500 -0300" stop="20240921051000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Wolf</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240920051000 -0300" stop="20240920060000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921051000 -0300" stop="20240921060000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S4 E13</episode-num>
   </programme>
-  <programme start="20240920060000 -0300" stop="20240920064500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921060000 -0300" stop="20240921064500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240920064500 -0300" stop="20240920073000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921064500 -0300" stop="20240921073000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20240920073000 -0300" stop="20240920081500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921073000 -0300" stop="20240921081500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20240920081500 -0300" stop="20240920090000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921081500 -0300" stop="20240921090000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20240920090000 -0300" stop="20240920094500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921090000 -0300" stop="20240921094500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S3 E3</episode-num>
   </programme>
-  <programme start="20240920094500 -0300" stop="20240920103000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921094500 -0300" stop="20240921103000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S3 E4</episode-num>
   </programme>
-  <programme start="20240920103000 -0300" stop="20240920111500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921103000 -0300" stop="20240921111500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20240920111500 -0300" stop="20240920120000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921111500 -0300" stop="20240921120000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
-  <programme start="20240920120000 -0300" stop="20240920124500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921120000 -0300" stop="20240921124500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
-  <programme start="20240920124500 -0300" stop="20240920133000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921124500 -0300" stop="20240921133000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20240920133000 -0300" stop="20240920141500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921133000 -0300" stop="20240921141500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Quantum leap</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240920141500 -0300" stop="20240920151000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921141500 -0300" stop="20240921151000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">A Friend of the Family</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240920151000 -0300" stop="20240920160000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921151000 -0300" stop="20240921160000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">La pareja de al lado</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240920160000 -0300" stop="20240920170000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921160000 -0300" stop="20240921170000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20240920170000 -0300" stop="20240920175000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921170000 -0300" stop="20240921175000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">The Lazarus Project</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20240920175000 -0300" stop="20240920185500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921175000 -0300" stop="20240921185500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Wolf</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240920185500 -0300" stop="20240920194000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921185500 -0300" stop="20240921194000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20240920194000 -0300" stop="20240920202500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240921194000 -0300" stop="20240921202500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S4 E21</episode-num>
-  </programme>
-  <programme start="20240920202500 -0300" stop="20240920211000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Fbi</title>
-    <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
   <programme start="20240921202500 -0300" stop="20240921211000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
-  <programme start="20240921211000 -0300" stop="20240921215500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240922202500 -0300" stop="20240922211000 -0300" channel="Universal PREMIERE HD">
+    <title lang="es">Fbi</title>
+    <episode-num system="onscreen">S4 E22</episode-num>
+  </programme>
+  <programme start="20240922211000 -0300" stop="20240922215500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
-  <programme start="20240921215500 -0300" stop="20240921224000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240922215500 -0300" stop="20240922224000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Fbi</title>
     <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
-  <programme start="20240921224000 -0300" stop="20240921232500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240922224000 -0300" stop="20240922232500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Quantum leap</title>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20240921232500 -0300" stop="20240922002000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240922232500 -0300" stop="20240923002000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">A Friend of the Family</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240922002000 -0300" stop="20240922011000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240923002000 -0300" stop="20240923011000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">La pareja de al lado</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240922011000 -0300" stop="20240922021000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240923011000 -0300" stop="20240923021000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S4 E2</episode-num>
   </programme>
-  <programme start="20240922021000 -0300" stop="20240922025500 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240923021000 -0300" stop="20240923025500 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240922025500 -0300" stop="20240922034000 -0300" channel="Universal PREMIERE HD">
+  <programme start="20240923025500 -0300" stop="20240923034000 -0300" channel="Universal PREMIERE HD">
     <title lang="es">Cardinal</title>
     <episode-num system="onscreen">S2 E6</episode-num>
-  </programme>
-  <programme start="20240922034000 -0300" stop="20240922042500 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Cardinal</title>
-    <episode-num system="onscreen">S3 E1</episode-num>
-  </programme>
-  <programme start="20240922042500 -0300" stop="20240922051000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Cardinal</title>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20240922051000 -0300" stop="20240922060000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">House MD</title>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240922060000 -0300" stop="20240922065000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Quantum leap</title>
-    <episode-num system="onscreen">S2 E11</episode-num>
-  </programme>
-  <programme start="20240922065000 -0300" stop="20240922074000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">La pareja de al lado</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20240922074000 -0300" stop="20240922083500 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">A Friend of the Family</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922083500 -0300" stop="20240922092500 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">The Lazarus Project</title>
-    <episode-num system="onscreen">S2 E2</episode-num>
-  </programme>
-  <programme start="20240922092500 -0300" stop="20240922103000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Wolf</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20240922103000 -0300" stop="20240922113000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Evil</title>
-    <episode-num system="onscreen">S4 E2</episode-num>
-  </programme>
-  <programme start="20240922113000 -0300" stop="20240922123000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S4 E8</episode-num>
-  </programme>
-  <programme start="20240922123000 -0300" stop="20240922133000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S4 E9</episode-num>
-  </programme>
-  <programme start="20240922133000 -0300" stop="20240922143000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S4 E10</episode-num>
-  </programme>
-  <programme start="20240922143000 -0300" stop="20240922153000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S4 E11</episode-num>
-  </programme>
-  <programme start="20240922153000 -0300" stop="20240922163000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S4 E12</episode-num>
-  </programme>
-  <programme start="20240922163000 -0300" stop="20240922173000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S5 E1</episode-num>
-  </programme>
-  <programme start="20240922173000 -0300" stop="20240922183000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S5 E2</episode-num>
-  </programme>
-  <programme start="20240922183000 -0300" stop="20240922193000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S5 E3</episode-num>
-  </programme>
-  <programme start="20240922193000 -0300" stop="20240922203000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S5 E4</episode-num>
-  </programme>
-  <programme start="20240922203000 -0300" stop="20240922213000 -0300" channel="Universal PREMIERE HD">
-    <title lang="es">Billions</title>
-    <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
   <programme start="20240921030000 +0200" stop="20240921060600 +0200" channel="Warner Channel SD">
     <title lang="es">Batman vs. Superman: El origen de la justicia</title>
@@ -14888,142 +14328,103 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20240920001500 -0300" stop="20240920014500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921001500 -0300" stop="20240921014500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">La Víctima Equivocada</title>
   </programme>
-  <programme start="20240920014500 -0300" stop="20240920030000 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921014500 -0300" stop="20240921030000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">La Clínica</title>
   </programme>
-  <programme start="20240920030000 -0300" stop="20240920042000 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921030000 -0300" stop="20240921042000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Nina en Roma</title>
   </programme>
-  <programme start="20240920042000 -0300" stop="20240920060000 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921042000 -0300" stop="20240921060000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Fuera de Límites</title>
   </programme>
-  <programme start="20240920060000 -0300" stop="20240920074500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921060000 -0300" stop="20240921074500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">De Sol y Sangre</title>
   </programme>
-  <programme start="20240920074500 -0300" stop="20240920091500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921074500 -0300" stop="20240921091500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Obsesionada</title>
   </programme>
-  <programme start="20240920091500 -0300" stop="20240920110500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921091500 -0300" stop="20240921110500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Bosque de hielo</title>
   </programme>
-  <programme start="20240920110500 -0300" stop="20240920124500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921110500 -0300" stop="20240921124500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Ronda Final</title>
   </programme>
-  <programme start="20240920124500 -0300" stop="20240920141500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921124500 -0300" stop="20240921141500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">El Cirujano</title>
   </programme>
-  <programme start="20240920141500 -0300" stop="20240920154500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921141500 -0300" stop="20240921154500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Besos escondidos</title>
   </programme>
-  <programme start="20240920154500 -0300" stop="20240920172500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921154500 -0300" stop="20240921172500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">La piel de zapa</title>
   </programme>
-  <programme start="20240920172500 -0300" stop="20240920191000 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921172500 -0300" stop="20240921191000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">De Sol y Sangre</title>
   </programme>
-  <programme start="20240920191000 -0300" stop="20240920203500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921191000 -0300" stop="20240921203500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Burlesque</title>
   </programme>
-  <programme start="20240920203500 -0300" stop="20240920221500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921203500 -0300" stop="20240921221500 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Fuera de Límites</title>
   </programme>
-  <programme start="20240920221500 -0300" stop="20240920233000 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240921221500 -0300" stop="20240921233000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">La falla</title>
-  </programme>
-  <programme start="20240920233000 -0300" stop="20240921011000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Duplicidad</title>
   </programme>
   <programme start="20240921233000 -0300" stop="20240922011000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Duplicidad</title>
   </programme>
-  <programme start="20240922011000 -0300" stop="20240922030000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Muerte bajo cero</title>
-  </programme>
-  <programme start="20240922030000 -0300" stop="20240922043000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Rumores</title>
-  </programme>
-  <programme start="20240922043000 -0300" stop="20240922060000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">El Cortejo</title>
-  </programme>
-  <programme start="20240922060000 -0300" stop="20240922073000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Deseo oscuro</title>
-  </programme>
-  <programme start="20240922073000 -0300" stop="20240922090500 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Niño en peligro</title>
-  </programme>
-  <programme start="20240922090500 -0300" stop="20240922103500 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">El Cirujano</title>
-  </programme>
-  <programme start="20240922103500 -0300" stop="20240922120500 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Obsesionada</title>
-  </programme>
-  <programme start="20240922120500 -0300" stop="20240922134500 -0300" channel="EURO CHANNEL FHD">
+  <programme start="20240922233000 -0300" stop="20240923011000 -0300" channel="EURO CHANNEL FHD">
     <title lang="es">Duplicidad</title>
   </programme>
-  <programme start="20240922134500 -0300" stop="20240922150000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">La Clínica</title>
+  <programme start="20240923011000 -0300" stop="20240923030000 -0300" channel="EURO CHANNEL FHD">
+    <title lang="es">Muerte bajo cero</title>
   </programme>
-  <programme start="20240922150000 -0300" stop="20240922163000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">La tentación</title>
+  <programme start="20240923030000 -0300" stop="20240923043000 -0300" channel="EURO CHANNEL FHD">
+    <title lang="es">Rumores</title>
   </programme>
-  <programme start="20240922163000 -0300" stop="20240922180000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Rastros de sangre</title>
-  </programme>
-  <programme start="20240922180000 -0300" stop="20240922194000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Notas de libertad</title>
-  </programme>
-  <programme start="20240922194000 -0300" stop="20240922220000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Las Fugitivas</title>
-  </programme>
-  <programme start="20240922220000 -0300" stop="20240922234000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">Fuera de Límites</title>
-  </programme>
-  <programme start="20240922234000 -0300" stop="20240923011000 -0300" channel="EURO CHANNEL FHD">
-    <title lang="es">La Víctima Equivocada</title>
-  </programme>
-  <programme start="20240920010500 -0300" stop="20240920020000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921010500 -0300" stop="20240921020000 -0300" channel="US: HBO Latino West">
     <title lang="es">City of God: The Fight Rages On</title>
   </programme>
-  <programme start="20240920020000 -0300" stop="20240920030500 -0300" channel="US: HBO Latino West">
+  <programme start="20240921020000 -0300" stop="20240921030500 -0300" channel="US: HBO Latino West">
     <title lang="es">Industry</title>
   </programme>
-  <programme start="20240920030500 -0300" stop="20240920040000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921030500 -0300" stop="20240921040000 -0300" channel="US: HBO Latino West">
     <title lang="es">City of God: The Fight Rages On</title>
   </programme>
-  <programme start="20240920040000 -0300" stop="20240920041700 -0300" channel="US: HBO Latino West">
+  <programme start="20240921040000 -0300" stop="20240921041700 -0300" channel="US: HBO Latino West">
     <title lang="es">Acuitzeramo</title>
   </programme>
-  <programme start="20240920041700 -0300" stop="20240920060400 -0300" channel="US: HBO Latino West">
+  <programme start="20240921041700 -0300" stop="20240921060400 -0300" channel="US: HBO Latino West">
     <title lang="es">Unbreakable</title>
   </programme>
-  <programme start="20240920060400 -0300" stop="20240920070000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921060400 -0300" stop="20240921070000 -0300" channel="US: HBO Latino West">
     <title lang="es">Charlie Hustle &amp; the Matter of Pete Rose</title>
   </programme>
-  <programme start="20240920070000 -0300" stop="20240920090900 -0300" channel="US: HBO Latino West">
+  <programme start="20240921070000 -0300" stop="20240921090900 -0300" channel="US: HBO Latino West">
     <title lang="es">Batman</title>
   </programme>
-  <programme start="20240920090900 -0300" stop="20240920113000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921090900 -0300" stop="20240921113000 -0300" channel="US: HBO Latino West">
     <title lang="es">Batman Begins</title>
   </programme>
-  <programme start="20240920113000 -0300" stop="20240920140400 -0300" channel="US: HBO Latino West">
+  <programme start="20240921113000 -0300" stop="20240921140400 -0300" channel="US: HBO Latino West">
     <title lang="es">The Dark Knight</title>
   </programme>
-  <programme start="20240920140400 -0300" stop="20240920165000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921140400 -0300" stop="20240921165000 -0300" channel="US: HBO Latino West">
     <title lang="es">The Dark Knight Rises</title>
   </programme>
-  <programme start="20240920165000 -0300" stop="20240920195000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921165000 -0300" stop="20240921195000 -0300" channel="US: HBO Latino West">
     <title lang="es">Batman</title>
   </programme>
-  <programme start="20240920195000 -0300" stop="20240920210000 -0300" channel="US: HBO Latino West">
+  <programme start="20240921195000 -0300" stop="20240921210000 -0300" channel="US: HBO Latino West">
     <title lang="es">The Penguin</title>
     <sub-title lang="es">After Hours</sub-title>
     <desc lang="es">After Hours</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/el_pinguino.jpg"/>
   </programme>
-  <programme start="20240920210000 -0300" stop="20240920232100 -0300" channel="US: HBO Latino West">
+  <programme start="20240921210000 -0300" stop="20240921232100 -0300" channel="US: HBO Latino West">
     <title lang="es">Everything Everywhere All at Once</title>
     <desc lang="es">Cuando una ruptura interdimensional amenaza con desentrañar la realidad, el destino del mundo está repentinamente en manos de una madre inmigrante agobiada.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/todo_en_todas_partes_al_mismo_tiempo.jpg"/>
