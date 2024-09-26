@@ -488,6 +488,10 @@
     <display-name lang="es">EL GOURMET  HD*</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png"/>
   </channel>
+  <channel id="Food Network HD">
+    <display-name lang="es">Food Network HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_food-network_m.png"/>
+  </channel>
   <channel id="Food Network">
     <display-name lang="es">Food Network</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_food-network_m.png"/>
@@ -26072,6 +26076,307 @@
     <desc lang="es">En el partido de Las Heras, provincia de Mendoza, Gabriel nos prepara un delicioso osobuco al Malbec. Y a muy pocos kilómetros, en Crucecitas, Belén nos cocina una chaya de pavita, y de postre pastelitos de membrillo con almíbar de lavanda.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_los-fogones-tradicionales-argentina-s01e08-gabriel-y-belen-mendoza_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20240926044800 +0200" stop="20240926051300 +0200" channel="Food Network HD">
+    <title lang="es">Prueba a ciegas</title>
+    <sub-title lang="es">Finalistas de Junior Bake Off</sub-title>
+    <desc lang="es">En este episodio, los participantes pertenecen a la categoría finalistas de Junior Bake Off: Matteo, Roberta y Gianluca.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_prueba-a-ciegas-s01e51-finalistas-de-junior-bake-off_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.50.</episode-num>
+  </programme>
+  <programme start="20240926051300 +0200" stop="20240926053800 +0200" channel="Food Network HD">
+    <title lang="es">Cocinando con fuego</title>
+    <sub-title lang="es">Celebração de primavera no Kentucky</sub-title>
+    <desc lang="es">Roger Mooking se dirige a la celebración anual de primavera de Marsbury Farm Marke</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocinando-con-fuego-s03e13-celebrac-o-de-primavera-no-kentucky_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20240926053800 +0200" stop="20240926060300 +0200" channel="Food Network HD">
+    <title lang="es">Cocinando con fuego</title>
+    <sub-title lang="es">Maravillas de carne</sub-title>
+    <desc lang="es">Roger pasa tiempo en Palatine, Illinois, y Brooklyn, Nueva York, donde los restaurantes sirven maravillas de carne como filetes tomahawk y cerdo entero asado con deliciosos waffles de batata.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocinando-con-fuego-s06e08-maravillas-de-carne_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+  </programme>
+  <programme start="20240926060300 +0200" stop="20240926062800 +0200" channel="Food Network HD">
+    <title lang="es">Nación Food Truck</title>
+    <sub-title lang="es">Costillas, ramen y pastel de mantequilla</sub-title>
+    <desc lang="es">Brad Miller comienza en Seattle con enormes costillas de res ahumadas y alitas de pollo. Luego encuentra ramen de panceta de cerdo en Portland, Oregón, y una especialidad de St. Louis, un pastel de mantequilla pegajoso, en Misuri.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_nacion-food-truck-s02e10-costillas-ramen-y-pastel-de-mantequilla_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20240926062800 +0200" stop="20240926071800 +0200" channel="Food Network HD">
+    <title lang="es">En la cocina</title>
+    <sub-title lang="es">Guerreros de las noches entre semana</sub-title>
+    <desc lang="es">Es verano y GZ, Katie, Sunny, Jeff y Donal Skehan tienen una semana de comidas fáciles, desde pollo hasta pastel de mantequilla de maní con chocolate sin hornear.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_en-la-cocina-s17e11-guerreros-de-las-noches-entre-semana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">16.10.</episode-num>
+  </programme>
+  <programme start="20240926071800 +0200" stop="20240926080400 +0200" channel="Food Network HD">
+    <title lang="es">Entrenamiento para chefs</title>
+    <sub-title lang="es">Dos chefs y medio</sub-title>
+    <desc lang="es">El chef Cliff Crooks interviene para ayudar a un psicólogo que se convirtió en chef, con el proposito de intervenir en el restaurante de sus suegros y al propietario de un food truck.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20240926080400 +0200" stop="20240926084800 +0200" channel="Food Network HD">
+    <title lang="es">Cupcake Wars</title>
+    <sub-title lang="es">Muñecas Derby</sub-title>
+    <desc lang="es">Cuatro pasteleros tratan de que sus cupcakes se luzcan en una fiesta que se hará en homenaje a las Derby Dolls de Los Ángeles.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cupcake-wars-s05e07_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+  </programme>
+  <programme start="20240926084800 +0200" stop="20240926091000 +0200" channel="Food Network HD">
+    <title lang="es">El rey del sándwich</title>
+    <sub-title lang="es">Dosis doble de comodidad</sub-title>
+    <desc lang="es">Durante los años de formación de Jeff, él trabajó en una tienda de delicatessen, donde sus compañeros fueron el corned beef, el pastrami y diversos panes de centeno fresco. Inspirado en ello, Jeff tiene que hacer un sabroso sándwich Reuben.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-rey-del-sandwich-s02e03-dosis-doble-de-comodidad_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20240926091000 +0200" stop="20240926093200 +0200" channel="Food Network HD">
+    <title lang="es">Las recetas de Daphne</title>
+    <sub-title lang="es">Vacaciones de verano</sub-title>
+    <desc lang="es">Daphne celebra el verano con una fiesta de bajo presupuesto en el patio trasero.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-recetas-de-daphne-s02e02-vacaciones-de-verano_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20240926093200 +0200" stop="20240926101600 +0200" channel="Food Network HD">
+    <title lang="es">Dulce genio</title>
+    <sub-title lang="es">Genilidad alocada</sub-title>
+    <desc lang="es">Los espectadores se embarcan en un viaje azucarado mientras cuatro de los principales pasteleros de Estados Unidos compiten cada semana en tres desafíos únicos de eliminación juzgados por el propio Ben-Israel.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_dulce-genio-s03e01-genilidad-alocada_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20240926101600 +0200" stop="20240926110000 +0200" channel="Food Network HD">
+    <title lang="es">Food Network: la próxima estrella</title>
+    <sub-title lang="es">La cena del tiburón</sub-title>
+    <desc lang="es">Los finalistas preparan un menú de cinco platos como parte de una cena VIP inspirada en las dietas de los tiburones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_food-network-la-proxima-estrella-s14e06-la-cena-del-tiburon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">13.5.</episode-num>
+  </programme>
+  <programme start="20240926110000 +0200" stop="20240926112200 +0200" channel="Food Network HD">
+    <title lang="es">Recetas en 30 minutos</title>
+    <sub-title lang="es">Fiesta todo el día</sub-title>
+    <desc lang="es">Comida mexicana para todo el día y en solo 30 minutos, una fiesta que durara desde la mañana hasta la noche. Rachael Ray te enseña a preparar unas fritatas tostadas con huevo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_recetas-en-30-minutos-s25e17-fiesta-todo-el-dia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.16.</episode-num>
+  </programme>
+  <programme start="20240926112200 +0200" stop="20240926114400 +0200" channel="Food Network HD">
+    <title lang="es">Recetas en 30 minutos</title>
+    <sub-title lang="es">Vacaciones en el mar</sub-title>
+    <desc lang="es">Un día de fiesta con comida de mar que no descepcionará. Atún y ensalada de verduras; tocino bañado en Balsámico; camarones al ajillo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_recetas-en-30-minutos-s19e25-vacaciones-en-el-mar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.24.</episode-num>
+  </programme>
+  <programme start="20240926114400 +0200" stop="20240926122800 +0200" channel="Food Network HD">
+    <title lang="es">En la cocina</title>
+    <sub-title lang="es">Fiesta de verano</sub-title>
+    <desc lang="es">Recetas e ideas fáciles para las fiestas de verano. Katie hace pechuga de pavo a la parrilla, la mejor ensalada de batata de Jeff y más.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_en-la-cocina-s17e12-fiesta-de-verano_l_l.jpg"/>
+    <episode-num system="xmltv_ns">16.11.</episode-num>
+  </programme>
+  <programme start="20240926122800 +0200" stop="20240926125000 +0200" channel="Food Network HD">
+    <title lang="es">Rodando por América</title>
+    <sub-title lang="es">Alrededor del mundo</sub-title>
+    <desc lang="es">Guy se sumerge en un mundo de sabores alrededor de Estados Unidos. Desde la increíble comida asiática en Georgia y los sabrosos tacos en Texas, hasta la deliciosa comida libanesa en Utah.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_rodando-por-america-s29e11-alrededor-del-mundo_l_l.jpg"/>
+    <episode-num system="xmltv_ns">28.10.</episode-num>
+  </programme>
+  <programme start="20240926125000 +0200" stop="20240926131200 +0200" channel="Food Network HD">
+    <title lang="es">Cocina en la granja</title>
+    <sub-title lang="es">Los juegos familiares de los Yeh-Hagen</sub-title>
+    <desc lang="es">Molly Yeh inicia los primeros juegos oficiales de la familia Yeh-Hagen con una gran y deliciosa explosión. Ella prepara tacos de carne y un plato mexicano con maíz. Para el postre hay chupetines de mango y coco y brownies con smores.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocina-en-la-granja-s07e10-los-juegos-familiares-de-los-yeh-hagen_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.9.</episode-num>
+  </programme>
+  <programme start="20240926131200 +0200" stop="20240926135600 +0200" channel="Food Network HD">
+    <title lang="es">Cupcake Wars</title>
+    <sub-title lang="es">Los cupcakes del Comic Con</sub-title>
+    <desc lang="es">Cuatro talentosos pasteleros deberán usar sus poderes si quieren tener una posibilidad de que sus deliciosos cupcakes estén en una exclusiva fiesta de historietas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cupcake-wars-s03e10-comic-con_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20240926135600 +0200" stop="20240926144000 +0200" channel="Food Network HD">
+    <title lang="es">Cupcake Wars</title>
+    <sub-title lang="es">Match.com</sub-title>
+    <desc lang="es">Cada semana, cuatro de los mejores reposteros de pasteles del país se enfrentan en tres desafíos eliminatorios hasta que solo queda uno de ellos. El dulce premio es de diez mil dólares y la oportunidad de dar a conocer su trabajo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cupcake-wars-s09e12-match-com_l_l.jpg"/>
+    <episode-num system="xmltv_ns">8.11.</episode-num>
+  </programme>
+  <programme start="20240926144000 +0200" stop="20240926150400 +0200" channel="Food Network HD">
+    <title lang="es">Cocina en la granja</title>
+    <sub-title lang="es">Fiesta de pintura para las chicas</sub-title>
+    <desc lang="es">Molly está preparando una gran cantidad de platos coloridos. El menú incluye sándwiches de albóndigas de cerdo y ensalada de arroz crujiente con col rizada. ¡Para el postre, hay un pastel de gelatina de mosaico para dibujar y luego devorar!</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocina-en-la-granja-s08e06-fiesta-de-pintura-para-las-chicas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.5.</episode-num>
+  </programme>
+  <programme start="20240926150400 +0200" stop="20240926152800 +0200" channel="Food Network HD">
+    <title lang="es">Nación Food Truck</title>
+    <sub-title lang="es">Salchichas, po' boys de camarones, y sándwiches de mantequilla de maní con mermelada</sub-title>
+    <desc lang="es">Brad Miller encuentra una salchicha doble al estilo guatemalteco en Las Vegas. En Denver, toma un po' boy de camarones tostados seguido de un sándwich de mantequilla de maní y mermelada relleno con un pastel de arándanos con corteza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_nacion-food-truck-s02e01-salchichas-po-boys-de-camarones-y-sandwiches-de-mantequilla-de-mani-con-mermelada_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20240926152800 +0200" stop="20240926161800 +0200" channel="Food Network HD">
+    <title lang="es">Chefs al acecho</title>
+    <sub-title lang="es">Volver al pasado</sub-title>
+    <desc lang="es">Alex Guarnaschelli viaja en el tiempo en el estacionamiento. Puede que no se estén volviendo más jóvenes mientras cocinan sus platos favoritos de la infancia para los jueces, pero el futuro parece muy brillante para un chef talentoso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chefs-al-acecho-s05e04-volver-al-pasado_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+  </programme>
+  <programme start="20240926161800 +0200" stop="20240926164300 +0200" channel="Food Network HD">
+    <title lang="es">Derrota a Bobby Flay</title>
+    <sub-title lang="es">Cualquier domingo</sub-title>
+    <desc lang="es">Kathy Cary se enfrenta a la aclamada chef Shanna O'Hea para ver quién tiene lo necesario para representar a las madres en contra de Bobby Flay.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_derrota-a-bobby-flay-s04e10-un-domingo-cualquiera_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+  </programme>
+  <programme start="20240926164300 +0200" stop="20240926173300 +0200" channel="Food Network HD">
+    <title lang="es">Food Network: la próxima estrella</title>
+    <sub-title lang="es">Pánico en el panel</sub-title>
+    <desc lang="es">El editor en jefe de la revista People, Jess Cagle, divide a los participantes en dos equipos para juzgar y evaluar a Bobby Flay y Giada De Laurentiis en los platos que los hicieron famosos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_food-network-la-proxima-estrella-s14e04-panico-en-el-panel_l_l.jpg"/>
+    <episode-num system="xmltv_ns">13.3.</episode-num>
+  </programme>
+  <programme start="20240926173300 +0200" stop="20240926182300 +0200" channel="Food Network HD">
+    <title lang="es">Cupcake Wars</title>
+    <sub-title lang="es">Los cupcakes cómicos</sub-title>
+    <desc lang="es">Cuatro pasteleros deberán crear confituras "de otro mundo" si quieren servirlas en una gala que recordará la llegada de la sonda espacial Endeavour en Los Ángeles. El Dr. Kenneth Phillips, del California Science Center, es el juez invitado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cupcake-wars-s08e07_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.6.</episode-num>
+  </programme>
+  <programme start="20240926182300 +0200" stop="20240926184800 +0200" channel="Food Network HD">
+    <title lang="es">Cocina en la granja</title>
+    <sub-title lang="es">Sopas y pijamada</sub-title>
+    <desc lang="es">Molly Yeh prepara un almuerzo acogedor con ramen de miso y luego tiene una fiesta de pijamas en casa de sus padres. Para la fiesta, Molly sirve su mezcla de refrigerios estilo ranchero, almohadas de pizza con pesto y un espectacular pastel.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocina-en-la-granja-s08e12-sopas-y-pijamada_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.11.</episode-num>
+  </programme>
+  <programme start="20240926184800 +0200" stop="20240926191300 +0200" channel="Food Network HD">
+    <title lang="es">Las delicias de la señorita Brown</title>
+    <sub-title lang="es">¡Limpiando el refrigerador!</sub-title>
+    <desc lang="es">Al igual que la mayoría de las personas, el refrigerador de Kardea Brown se llena de verduras, frutas y otras recetas que ha preparado al azar. Se vuelve creativa y usa las sobras en salsa de lasaña, brocheta de berenjena y un vino.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-delicias-de-la-senorita-brown-s05e08-limpiando-el-refrigerador_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+  </programme>
+  <programme start="20240926191300 +0200" stop="20240926193800 +0200" channel="Food Network HD">
+    <title lang="es">Las delicias de la señorita Brown</title>
+    <sub-title lang="es">Platos que parecen infinitos</sub-title>
+    <desc lang="es">Kardea Brown aprovecha al máximo su día libre para preparar platos perfectos usando sobras. Primero hace tarta de pollo y luego muchas bolas de sémola de jamón y queso con mayonesa picante y un poco de salvia asada y puré de calabaza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-delicias-de-la-senorita-brown-s03e07-platos-que-parecen-infinitos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20240926193800 +0200" stop="20240926200300 +0200" channel="Food Network HD">
+    <title lang="es">Brunch con Bobby Flay</title>
+    <sub-title lang="es">Inspirado en Italia</sub-title>
+    <desc lang="es">Bobby Flay prepara un brunch inspirado en Italia para su amiga Laura Vitale.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_brunch-con-bobby-flay-s07e13-inspirado-en-italia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.12.</episode-num>
+  </programme>
+  <programme start="20240926200300 +0200" stop="20240926202800 +0200" channel="Food Network HD">
+    <title lang="es">Cocinando con fuego</title>
+    <sub-title lang="es">Carne en la ciudad de la música</sub-title>
+    <desc lang="es">Roger echa un vistazo a algunas de las salchichas, costillas de cerdo, cangrejos de río, pollo condimentado y frijoles horneados con carne más deliciosos de Nashville.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocinando-con-fuego-s06e09-carne-en-la-ciudad-de-la-musica_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+  </programme>
+  <programme start="20240926202800 +0200" stop="20240926211800 +0200" channel="Food Network HD">
+    <title lang="es">En la cocina</title>
+    <sub-title lang="es">Un comienzo dulce y salado</sub-title>
+    <desc lang="es">¡En la cocina despierta tu rutina de desayuno con recetas dulces y saladas que incluyen una tabla de desayuno con sándwiches, moca mexicano casero, panqueques de s'mores y más!</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_en-la-cocina-s18e13-un-comienzo-dulce-y-salado_l_l.jpg"/>
+    <episode-num system="xmltv_ns">17.12.</episode-num>
+  </programme>
+  <programme start="20240926211800 +0200" stop="20240926220800 +0200" channel="Food Network HD">
+    <title lang="es">Chopped</title>
+    <sub-title lang="es">Come tus vegetales</sub-title>
+    <desc lang="es">Martha Stewart, la reina de la cocina de la granja a la mesa, está emocionada por ser jueza en una competencia que incluye comida de granja en cada canasta.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chopped-s39e06-come-tus-vegetales_l_l.jpg"/>
+    <episode-num system="xmltv_ns">38.5.</episode-num>
+  </programme>
+  <programme start="20240926220800 +0200" stop="20240926225800 +0200" channel="Food Network HD">
+    <title lang="es">Explorador de sabores</title>
+    <sub-title lang="es">Pollo</sub-title>
+    <desc lang="es">Roger Mooking viaja por todo Estados Unidos en busca de los doce mejores platos de pollo, desde los fritos y horneados hasta la parrilla. Él pasa el rato con los chefs mientras exploran las mejores formas de cocinar alitas, tartas y más.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20240926225800 +0200" stop="20240926234800 +0200" channel="Food Network HD">
+    <title lang="es">Dulce genio</title>
+    <sub-title lang="es">Genios de pavo</sub-title>
+    <desc lang="es">La inspiración para la primera prueba proviene directamente del banquete de Acción de Gracias, al igual que uno de los ingredientes obligatorios.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_dulce-genio-s03e09-genios-de-pavo_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20240926234800 +0200" stop="20240927001300 +0200" channel="Food Network HD">
+    <title lang="es">Experto en dulces</title>
+    <sub-title lang="es">Momento crujiente</sub-title>
+    <desc lang="es">Adam Gertler hunde sus dientes en dulces que llevan el crujido al extremo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20240927001300 +0200" stop="20240927003800 +0200" channel="Food Network HD">
+    <title lang="es">Nación Food Truck</title>
+    <sub-title lang="es">Burritos, brochetas y s'mores</sub-title>
+    <desc lang="es">En St. Louis, Brad Miller encuentra un burrito de barbacoa coreano relleno de carne de res y arroz frito picante con kimchi.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_nacion-food-truck-s02e08-burritos-brochetas-y-s-mores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20240927003800 +0200" stop="20240927012800 +0200" channel="Food Network HD">
+    <title lang="es">En la cocina</title>
+    <sub-title lang="es">La riqueza de los sabores otoñales</sub-title>
+    <desc lang="es">Los sabores del otoño: carne rostizada con vegetales. Pastel de jarabe de arce. Minestrone de vegetales. Vegetales de la temporada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_en-la-cocina-s19e02-la-riqueza-de-los-sabores-otonales_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.1.</episode-num>
+  </programme>
+  <programme start="20240927012800 +0200" stop="20240927015300 +0200" channel="Food Network HD">
+    <title lang="es">Las delicias de la señorita Brown</title>
+    <sub-title lang="es">Platos que parecen infinitos</sub-title>
+    <desc lang="es">Kardea Brown aprovecha al máximo su día libre para preparar platos perfectos usando sobras. Primero hace tarta de pollo y luego muchas bolas de sémola de jamón y queso con mayonesa picante y un poco de salvia asada y puré de calabaza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-delicias-de-la-senorita-brown-s03e07-platos-que-parecen-infinitos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20240927015300 +0200" stop="20240927021800 +0200" channel="Food Network HD">
+    <title lang="es">Derrota a Bobby Flay</title>
+    <sub-title lang="es">Bien cocido</sub-title>
+    <desc lang="es">El chef de Louisiana, Robert Vasquez, y el chef de Carolina del Sur, Aaron Rivera, provenientes de la línea Mason-Dixon, compiten por la oportunidad de vencer a Bobby Flay.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_derrota-a-bobby-flay-s08e08-fully-baked_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.7.</episode-num>
+  </programme>
+  <programme start="20240927021800 +0200" stop="20240927030800 +0200" channel="Food Network HD">
+    <title lang="es">Los fabulosos hermanos Herbert: Gran Bretaña</title>
+    <sub-title lang="es">Winchester</sub-title>
+    <desc lang="es">Tom y Henry inician un viaje para descubrir el producto típico de la ciudad de Winchester. Ellos preparan pesto de berros y crean un magnífico plato de salmón con remolacha y wasabi, pastel de arándanos, hamburguesas de ternera y un pudín.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_los-fabulosos-hermanos-herbert-gran-bretana-s01e03-winchester_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20240927030800 +0200" stop="20240927033300 +0200" channel="Food Network HD">
+    <title lang="es">Las delicias de la señorita Brown</title>
+    <sub-title lang="es">Comida de hermanos</sub-title>
+    <desc lang="es">Kardea invita a sus hermanos y hermanas a ponerse al día y compartir una comida. Ella comienza con salsa de cebolla asada, y para el plato principal, lasaña de verduras y ensalada César de repollo rizado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-delicias-de-la-senorita-brown-s02e12-comida-de-hermanos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20240927033300 +0200" stop="20240927035800 +0200" channel="Food Network HD">
+    <title lang="es">Las delicias de la señorita Brown</title>
+    <sub-title lang="es">Inspirada por lo mejor de Charleston</sub-title>
+    <desc lang="es">Kardea Brown invita a su amiga KJ Kearney a probar sus versiones de los mejores platos de Charleston.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-delicias-de-la-senorita-brown-s05e13-inspirada-por-lo-mejor-de-charleston_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+  </programme>
+  <programme start="20240927035800 +0200" stop="20240927044800 +0200" channel="Food Network HD">
+    <title lang="es">Campeonato de reposteros: Halloween</title>
+    <sub-title lang="es">Terror de dulce o truco</sub-title>
+    <desc lang="es">Carla Hall se encuentra con los competidores restantes en el aterrador porche delantero, atormentada por los trucos o dulces. Los reposteros tienen el desafío de crear profiteroles dulces de Halloween con una ilusión increíblemente dulce.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_campeonato-de-reposteros-halloween-s06e02-terror-de-dulce-o-truco_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+  </programme>
+  <programme start="20240927044800 +0200" stop="20240928044800 +0200" channel="Food Network HD">
+    <title lang="es">Prueba a ciegas</title>
+    <sub-title lang="es">Profesionales de la reutilización</sub-title>
+    <desc lang="es">En este episodio, los participantes pertenecen a la categoría profesionales de la reutilización: Stefano, Alessandro y Paolo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_prueba-a-ciegas-s01e52-profesionales-de-la-reutilizacion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.51.</episode-num>
   </programme>
   <programme start="20240926044800 +0200" stop="20240926051300 +0200" channel="Food Network">
     <title lang="es">Prueba a ciegas</title>
