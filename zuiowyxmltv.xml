@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="ARG | A 24">
+    <display-name lang="es">ARG | A 24</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_america-24_m.png"/>
+  </channel>
+  <channel id="ARG | America TV">
+    <display-name lang="es">ARG | America TV</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
+  </channel>
+  <channel id="ARG | America TV HD">
+    <display-name lang="es">ARG | America TV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
+  </channel>
+  <programme start="20241005050000 +0200" stop="20241005053000 +0200" channel="ARG | A 24">
+    <title lang="es">Boca es Boca</title>
+    <desc lang="es">Información y actualidad de todo lo que acontece en el mundo Boca. Notas, sorteos, la opinión de la gente y un poquito de humor.</desc>
+    <category lang="es">Boca es Boca</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-boca-es-boca_l_l.jpg"/>
+  </programme>
+  <programme start="20241005053000 +0200" stop="20241005060000 +0200" channel="ARG | A 24">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005060000 +0200" stop="20241005070000 +0200" channel="ARG | A 24">
+    <title lang="es">El valor de tus joyas</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-valor-de-tus-joyas_l_l.jpg"/>
+  </programme>
+  <programme start="20241005070000 +0200" stop="20241005080000 +0200" channel="ARG | A 24">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241005080000 +0200" stop="20241005090000 +0200" channel="ARG | A 24">
+    <title lang="es">Resumen A24</title>
+    <desc lang="es">Un resumen informativo informal para repasar los hechos más destacados del día, que busca mantenerte en todo momento enterado de los acontecimientos en un clima distendido.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_resumen-a24_l_l.jpg"/>
+  </programme>
+  <programme start="20241005090000 +0200" stop="20241005100000 +0200" channel="ARG | A 24">
+    <title lang="es">Resumen A24</title>
+    <desc lang="es">Un resumen informativo informal para repasar los hechos más destacados del día, que busca mantenerte en todo momento enterado de los acontecimientos en un clima distendido.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_resumen-a24_l_l.jpg"/>
+  </programme>
+  <programme start="20241005100000 +0200" stop="20241005120000 +0200" channel="ARG | A 24">
+    <title lang="es">Resumen A24</title>
+    <desc lang="es">Un resumen informativo informal para repasar los hechos más destacados del día, que busca mantenerte en todo momento enterado de los acontecimientos en un clima distendido.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_resumen-a24_l_l.jpg"/>
+  </programme>
+  <programme start="20241005120000 +0200" stop="20241005180000 +0200" channel="ARG | A 24">
+    <title lang="es">Vivo el sábado</title>
+    <desc lang="es">Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_vivo-el-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241005180000 +0200" stop="20241005190000 +0200" channel="ARG | A 24">
+    <title lang="es">Lo justo y necesario</title>
+    <desc lang="es">Programa que brinda toda la información del ámbito social que involucra a nuestros jubilados y trabajadores mayores.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lo-justo-y-necesario_l_l.jpg"/>
+  </programme>
+  <programme start="20241005190000 +0200" stop="20241005211500 +0200" channel="ARG | A 24">
+    <title lang="es">Todo en uno</title>
+    <desc lang="es">Resumen de las noticias de la semana, policiales, espectáculos y deportes. Además, invitados en vivo, videos increíbles y mucha diversión.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_todo-en-uno_l_l.jpg"/>
+  </programme>
+  <programme start="20241005211500 +0200" stop="20241005220000 +0200" channel="ARG | A 24">
+    <title lang="es">El secreto mejor guardado</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005220000 +0200" stop="20241006010000 +0200" channel="ARG | A 24">
+    <title lang="es">América noticias</title>
+    <desc lang="es">Las noticias del día, transmitidas por el único informativo independiente, además de los temas que más te interesan: actualidad, servicios, informes y móviles en vivo, en el lugar de los hechos.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_america-noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006010000 +0200" stop="20241006020000 +0200" channel="ARG | A 24">
+    <title lang="es">Transición 2030: Hacia un país de energías limpias</title>
+    <desc lang="es">Cata D'elia conversa con actores indispensables para llevar a nuestro país hacia una matriz de energías limpias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_transicion-2030-hacia-un-pais-de-energias-limpias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006030000 +0200" channel="ARG | A 24">
+    <title lang="es">Mundo visual</title>
+    <desc lang="es">Programa de turismo, realizado íntegramente en exteriores, que recorre el mundo y que enriquece sus contenidos con los bastos conocimientos que la conductora posee sobre turismo, hotelería y paseos.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mundo-visual_l_l.jpg"/>
+  </programme>
+  <programme start="20241006030000 +0200" stop="20241006040000 +0200" channel="ARG | A 24">
+    <title lang="es">¿Qué hacemos con los pesos?</title>
+    <desc lang="es">Mariano Otálora y un equipo de especialistas te ayuda a que puedas tomar las mejores decisiones con tu dinero.</desc>
+    <category lang="es">Economía</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_que-hacemos-con-los-pesos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006040000 +0200" stop="20241006050000 +0200" channel="ARG | A 24">
+    <title lang="es">Especiales A24</title>
+    <desc lang="es">Ediciones de informes de América noticias.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-a24_l_l.jpg"/>
+  </programme>
+  <programme start="20241006050000 +0200" stop="20241006053000 +0200" channel="ARG | A 24">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | A 24">
+    <title lang="es">LP Moda</title>
+    <desc lang="es">Descubre cuál es el mejor corte de cabello según tu tipo de rostro y la coloración que va con tu tono de piel, atendiendo las orientaciones del famoso estilista Leo Paparella.</desc>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lp-moda_l_l.jpg"/>
+  </programme>
+  <programme start="20241006060000 +0200" stop="20241006070000 +0200" channel="ARG | A 24">
+    <title lang="es">Transición 2030: Hacia un país de energías limpias</title>
+    <desc lang="es">Cata D'elia conversa con actores indispensables para llevar a nuestro país hacia una matriz de energías limpias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_transicion-2030-hacia-un-pais-de-energias-limpias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006070000 +0200" stop="20241006080000 +0200" channel="ARG | A 24">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241006080000 +0200" stop="20241006084500 +0200" channel="ARG | A 24">
+    <title lang="es">El secreto mejor guardado</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006084500 +0200" stop="20241006090000 +0200" channel="ARG | A 24">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006090000 +0200" stop="20241006100000 +0200" channel="ARG | A 24">
+    <title lang="es">Ambiente y medio</title>
+    <desc lang="es">Un ciclo que informa y debate sobre los temas ambientales más relevantes: los efectos de la crisis climática, la huella que deja la basura, la contaminación, los animales en peligro de extinción y la transición energética.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ambiente-y-medio_l_l.jpg"/>
+  </programme>
+  <programme start="20241006100000 +0200" stop="20241006110000 +0200" channel="ARG | A 24">
+    <title lang="es">Especiales A24</title>
+    <desc lang="es">Ediciones de informes de América noticias.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-a24_l_l.jpg"/>
+  </programme>
+  <programme start="20241006110000 +0200" stop="20241006113000 +0200" channel="ARG | A 24">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006113000 +0200" stop="20241006120000 +0200" channel="ARG | A 24">
+    <title lang="es">Boca es Boca</title>
+    <desc lang="es">Información y actualidad de todo lo que acontece en el mundo Boca. Notas, sorteos, la opinión de la gente y un poquito de humor.</desc>
+    <category lang="es">Boca es Boca</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_futbol-boca-es-boca_l_l.jpg"/>
+  </programme>
+  <programme start="20241006120000 +0200" stop="20241006130000 +0200" channel="ARG | A 24">
+    <title lang="es">Lo justo y necesario</title>
+    <desc lang="es">Programa que brinda toda la información del ámbito social que involucra a nuestros jubilados y trabajadores mayores.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lo-justo-y-necesario_l_l.jpg"/>
+  </programme>
+  <programme start="20241006130000 +0200" stop="20241006140000 +0200" channel="ARG | A 24">
+    <title lang="es">Mundo visual</title>
+    <desc lang="es">Programa de turismo, realizado íntegramente en exteriores, que recorre el mundo y que enriquece sus contenidos con los bastos conocimientos que la conductora posee sobre turismo, hotelería y paseos.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mundo-visual_l_l.jpg"/>
+  </programme>
+  <programme start="20241006140000 +0200" stop="20241006190000 +0200" channel="ARG | A 24">
+    <title lang="es">Vivo el domingo</title>
+    <desc lang="es">Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_vivo-el-domingo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006190000 +0200" stop="20241006200000 +0200" channel="ARG | A 24">
+    <title lang="es">Mundo visual</title>
+    <desc lang="es">Programa de turismo, realizado íntegramente en exteriores, que recorre el mundo y que enriquece sus contenidos con los bastos conocimientos que la conductora posee sobre turismo, hotelería y paseos.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mundo-visual_l_l.jpg"/>
+  </programme>
+  <programme start="20241006200000 +0200" stop="20241007000000 +0200" channel="ARG | A 24">
+    <title lang="es">América noticias - Domingo</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros en el lugar de los hechos y expertos, el público podrá informarse al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241007000000 +0200" stop="20241007010000 +0200" channel="ARG | A 24">
+    <title lang="es">América noticias - Informe especial</title>
+    <desc lang="es">Informe especial sobre las elecciones en Venezuela y la actualidad de Argentina.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241007010000 +0200" stop="20241007040000 +0200" channel="ARG | A 24">
+    <title lang="es">GPS</title>
+    <desc lang="es">Programa semanal de investigación periodística, en el cual se emitirán dos historias largas de profundidad. Las investigaciones son de carácter político, policial, social, de consumo y de interés en general.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gps_l_l.jpg"/>
+  </programme>
+  <programme start="20241005053000 +0200" stop="20241005063000 +0200" channel="ARG | America TV">
+    <title lang="es">Pasó en América</title>
+    <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005063000 +0200" stop="20241005070000 +0200" channel="ARG | America TV">
+    <title lang="es">Modo Selfie</title>
+    <desc lang="es">De la mano de Agustín Neglia y con la compañía de figuras invitadas, recorreremos los principales puntos turísticos para conocer lo mejor de la temporada.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie_l_l.jpg"/>
+  </programme>
+  <programme start="20241005070000 +0200" stop="20241005080000 +0200" channel="ARG | America TV">
+    <title lang="es">El valor de tus joyas</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-valor-de-tus-joyas_l_l.jpg"/>
+  </programme>
+  <programme start="20241005080000 +0200" stop="20241005130000 +0200" channel="ARG | America TV">
+    <title lang="es">A la tarde</title>
+    <desc lang="es">Karina Mazzoco brinda un análisis de especialistas, móviles en todos los puntos del país y entrevistas con diversos pensadores. Además, la conductora visibilizará diversas historias de vida atravesadas por la situación del país.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005130000 +0200" stop="20241005133000 +0200" channel="ARG | America TV">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241005133000 +0200" stop="20241005150000 +0200" channel="ARG | America TV">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005153000 +0200" channel="ARG | America TV">
+    <title lang="es">Comer para creer</title>
+    <desc lang="es">Lourdes Sánchez te lleva a una recorrida por los mejores lugares gastronómicos de la ciudad y el país con los invitados más divertidos y, por supuesto, te enseñará las mejores recetas para que puedas hacer en tu casa.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_comer-para-creer_l_l.jpg"/>
+  </programme>
+  <programme start="20241005153000 +0200" stop="20241005160000 +0200" channel="ARG | America TV">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | America TV">
+    <title lang="es">Modo Selfie sábado</title>
+    <desc lang="es">Conocemos diversos lugares del mundo y de Argentina a través de la lente de Agustín Neglia.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241005170000 +0200" stop="20241005180000 +0200" channel="ARG | America TV">
+    <title lang="es">Franquicias que crecen</title>
+    <desc lang="es">Es el primer reality de franquicias donde los emprendedores pueden hacer realidad el sueño del negocio propio.</desc>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_franquicias-que-crecen_l_l.jpg"/>
+  </programme>
+  <programme start="20241005180000 +0200" stop="20241006000000 +0200" channel="ARG | America TV">
+    <title lang="es">Pasión de sábado</title>
+    <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241006000000 +0200" stop="20241006020000 +0200" channel="ARG | America TV">
+    <title lang="es">América noticias - Sábado</title>
+    <desc lang="es">Toda la información de la actualidad de Argentina y del resto del mundo. Móviles en vivo y todo lo que sucede al instante.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_america-noticias-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006040000 +0200" channel="ARG | America TV">
+    <title lang="es">Secretos verdaderos</title>
+    <desc lang="es">Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_secretos-verdaderos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006040000 +0200" stop="20241006053000 +0200" channel="ARG | America TV">
+    <title lang="es">Pasó en América</title>
+    <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | America TV">
+    <title lang="es">Devuelta</title>
+    <desc lang="es">Rafael Juli entrevista a famosos mientras caminan en el exterior, por lugares significativos para el invitado especial.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006060000 +0200" stop="20241006063000 +0200" channel="ARG | America TV">
+    <title lang="es">Chicas guapas</title>
+    <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
+  </programme>
+  <programme start="20241006063000 +0200" stop="20241006070000 +0200" channel="ARG | America TV">
+    <title lang="es">Modo Foodie</title>
+    <desc lang="es">Experiencias en primera persona y contadas por Agustín para acceder a los mejores y mas secretos lugares. Platos típicos y comidas tradicionales para disfrutar de la gastronomía mundial con todos los sentidos.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-foodie_l_l.jpg"/>
+  </programme>
+  <programme start="20241006070000 +0200" stop="20241006130000 +0200" channel="ARG | America TV">
+    <title lang="es">Pasión de sábado</title>
+    <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241006130000 +0200" stop="20241006133000 +0200" channel="ARG | America TV">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241006133000 +0200" stop="20241006140000 +0200" channel="ARG | America TV">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241006140000 +0200" stop="20241006144500 +0200" channel="ARG | America TV">
+    <title lang="es">Modo Selfie domingo</title>
+    <desc lang="es">Conocemos diversos lugares del mundo y de Argentina bajo la lente de Agustín Neglia.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-domingo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006144500 +0200" stop="20241006150000 +0200" channel="ARG | America TV">
+    <title lang="es">Fitness y belleza</title>
+    <desc lang="es">El programa abarca una temática actual referida al mundo de la salud y la estética personal.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_fitness-y-belleza_l_l.jpg"/>
+  </programme>
+  <programme start="20241006150000 +0200" stop="20241006153000 +0200" channel="ARG | America TV">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006153000 +0200" stop="20241006160000 +0200" channel="ARG | America TV">
+    <title lang="es">Chicas guapas</title>
+    <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
+  </programme>
+  <programme start="20241006160000 +0200" stop="20241006163000 +0200" channel="ARG | America TV">
+    <title lang="es">El tío y el sobrino</title>
+    <desc lang="es">Programa de cocina y turismo donde se fusiona la comida coreana y la argentina. En cada programa Martín y Esteban Ho visitan un rincón de la Argentina mostrando la cultura del lugar, su arte, su industria y sus atractivos turísticos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006163000 +0200" stop="20241006170000 +0200" channel="ARG | America TV">
+    <title lang="es">Pedalearg</title>
+    <desc lang="es">De Argentina para el mundo, para los amantes de las dos ruedas, la movilidad sustentable y la vida saludable. Khaled Hallar trae un espacio para los apasionados del ciclismo.</desc>
+    <category lang="es">Pedalearg</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ciclismo-pedalearg_l_l.jpg"/>
+  </programme>
+  <programme start="20241006170000 +0200" stop="20241006180000 +0200" channel="ARG | America TV">
+    <title lang="es">Ambiente y medio</title>
+    <desc lang="es">Un ciclo que informa y debate sobre los temas ambientales más relevantes: los efectos de la crisis climática, la huella que deja la basura, la contaminación, los animales en peligro de extinción y la transición energética.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ambiente-y-medio_l_l.jpg"/>
+  </programme>
+  <programme start="20241006180000 +0200" stop="20241006200000 +0200" channel="ARG | America TV">
+    <title lang="es">Cocineros argentinos</title>
+    <desc lang="es">Popular programa de cocina argentina que presenta deliciosas y económicas recetas. Además, información exclusiva sobre los hábitos alimentarios de las regiones argentinas y diversas técnicas para la preparación de los platos más nutritivos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocineros-argentinos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006200000 +0200" stop="20241006213000 +0200" channel="ARG | America TV">
+    <title lang="es">Mascotas al rescate</title>
+    <desc lang="es">Un espacio para fomentar las adopciones y tránsitos responsables, dar difusión a la búsqueda de mascotas perdidas y también compartir historias de vida junto a esos animalitos que forman parte de nuestras familias.</desc>
+    <category lang="es">Servicios</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006213000 +0200" stop="20241007000000 +0200" channel="ARG | America TV">
+    <title lang="es">América noticias Domingo</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros en el lugar de los hechos y expertos, el público podrá informarse al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241007000000 +0200" stop="20241007020000 +0200" channel="ARG | America TV">
+    <title lang="es">Team Ubfal Show</title>
+    <desc lang="es">Los más jugosos chismes junto a Laura Ubfal en un espacio lleno de entretenimiento.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241007020000 +0200" stop="20241007040000 +0200" channel="ARG | America TV">
+    <title lang="es">Noche al Dente</title>
+    <desc lang="es">Un late night show conducido por Fernando Dente, quien recibe a diversos invitados famosos. Cada celebridad se animará a contar sus mejores anécdotas y recorrerá junto a una banda en vivo las canciones que marcaron su vida.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005053000 +0200" stop="20241005063000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Pasó en América</title>
+    <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005063000 +0200" stop="20241005070000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Modo Selfie</title>
+    <desc lang="es">De la mano de Agustín Neglia y con la compañía de figuras invitadas, recorreremos los principales puntos turísticos para conocer lo mejor de la temporada.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie_l_l.jpg"/>
+  </programme>
+  <programme start="20241005070000 +0200" stop="20241005080000 +0200" channel="ARG | America TV HD">
+    <title lang="es">El valor de tus joyas</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-valor-de-tus-joyas_l_l.jpg"/>
+  </programme>
+  <programme start="20241005080000 +0200" stop="20241005130000 +0200" channel="ARG | America TV HD">
+    <title lang="es">A la tarde</title>
+    <desc lang="es">Karina Mazzoco brinda un análisis de especialistas, móviles en todos los puntos del país y entrevistas con diversos pensadores. Además, la conductora visibilizará diversas historias de vida atravesadas por la situación del país.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005130000 +0200" stop="20241005133000 +0200" channel="ARG | America TV HD">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241005133000 +0200" stop="20241005150000 +0200" channel="ARG | America TV HD">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005153000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Comer para creer</title>
+    <desc lang="es">Lourdes Sánchez te lleva a una recorrida por los mejores lugares gastronómicos de la ciudad y el país con los invitados más divertidos y, por supuesto, te enseñará las mejores recetas para que puedas hacer en tu casa.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_comer-para-creer_l_l.jpg"/>
+  </programme>
+  <programme start="20241005153000 +0200" stop="20241005160000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Modo Selfie sábado</title>
+    <desc lang="es">Conocemos diversos lugares del mundo y de Argentina a través de la lente de Agustín Neglia.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241005170000 +0200" stop="20241005180000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Franquicias que crecen</title>
+    <desc lang="es">Es el primer reality de franquicias donde los emprendedores pueden hacer realidad el sueño del negocio propio.</desc>
+    <category lang="es">Reality Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_franquicias-que-crecen_l_l.jpg"/>
+  </programme>
+  <programme start="20241005180000 +0200" stop="20241006000000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Pasión de sábado</title>
+    <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241006000000 +0200" stop="20241006020000 +0200" channel="ARG | America TV HD">
+    <title lang="es">América noticias - Sábado</title>
+    <desc lang="es">Toda la información de la actualidad de Argentina y del resto del mundo. Móviles en vivo y todo lo que sucede al instante.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_america-noticias-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006040000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Secretos verdaderos</title>
+    <desc lang="es">Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_secretos-verdaderos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006040000 +0200" stop="20241006053000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Pasó en América</title>
+    <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Devuelta</title>
+    <desc lang="es">Rafael Juli entrevista a famosos mientras caminan en el exterior, por lugares significativos para el invitado especial.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006060000 +0200" stop="20241006063000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Chicas guapas</title>
+    <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
+  </programme>
+  <programme start="20241006063000 +0200" stop="20241006070000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Modo Foodie</title>
+    <desc lang="es">Experiencias en primera persona y contadas por Agustín para acceder a los mejores y mas secretos lugares. Platos típicos y comidas tradicionales para disfrutar de la gastronomía mundial con todos los sentidos.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-foodie_l_l.jpg"/>
+  </programme>
+  <programme start="20241006070000 +0200" stop="20241006130000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Pasión de sábado</title>
+    <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241006130000 +0200" stop="20241006133000 +0200" channel="ARG | America TV HD">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241006133000 +0200" stop="20241006140000 +0200" channel="ARG | America TV HD">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
+  </programme>
+  <programme start="20241006140000 +0200" stop="20241006144500 +0200" channel="ARG | America TV HD">
+    <title lang="es">Modo Selfie domingo</title>
+    <desc lang="es">Conocemos diversos lugares del mundo y de Argentina bajo la lente de Agustín Neglia.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-domingo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006144500 +0200" stop="20241006150000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Fitness y belleza</title>
+    <desc lang="es">El programa abarca una temática actual referida al mundo de la salud y la estética personal.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_fitness-y-belleza_l_l.jpg"/>
+  </programme>
+  <programme start="20241006150000 +0200" stop="20241006153000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Tecno tendencias</title>
+    <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
+    <category lang="es">Tecnología</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006153000 +0200" stop="20241006160000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Chicas guapas</title>
+    <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
+    <category lang="es">Moda</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
+  </programme>
+  <programme start="20241006160000 +0200" stop="20241006163000 +0200" channel="ARG | America TV HD">
+    <title lang="es">El tío y el sobrino</title>
+    <desc lang="es">Programa de cocina y turismo donde se fusiona la comida coreana y la argentina. En cada programa Martín y Esteban Ho visitan un rincón de la Argentina mostrando la cultura del lugar, su arte, su industria y sus atractivos turísticos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006163000 +0200" stop="20241006170000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Pedalearg</title>
+    <desc lang="es">De Argentina para el mundo, para los amantes de las dos ruedas, la movilidad sustentable y la vida saludable. Khaled Hallar trae un espacio para los apasionados del ciclismo.</desc>
+    <category lang="es">Pedalearg</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ciclismo-pedalearg_l_l.jpg"/>
+  </programme>
+  <programme start="20241006170000 +0200" stop="20241006180000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Ambiente y medio</title>
+    <desc lang="es">Un ciclo que informa y debate sobre los temas ambientales más relevantes: los efectos de la crisis climática, la huella que deja la basura, la contaminación, los animales en peligro de extinción y la transición energética.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ambiente-y-medio_l_l.jpg"/>
+  </programme>
+  <programme start="20241006180000 +0200" stop="20241006200000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Cocineros argentinos</title>
+    <desc lang="es">Popular programa de cocina argentina que presenta deliciosas y económicas recetas. Además, información exclusiva sobre los hábitos alimentarios de las regiones argentinas y diversas técnicas para la preparación de los platos más nutritivos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cocineros-argentinos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006200000 +0200" stop="20241006213000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Mascotas al rescate</title>
+    <desc lang="es">Un espacio para fomentar las adopciones y tránsitos responsables, dar difusión a la búsqueda de mascotas perdidas y también compartir historias de vida junto a esos animalitos que forman parte de nuestras familias.</desc>
+    <category lang="es">Servicios</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006213000 +0200" stop="20241007000000 +0200" channel="ARG | America TV HD">
+    <title lang="es">América noticias Domingo</title>
+    <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros en el lugar de los hechos y expertos, el público podrá informarse al completo.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241007000000 +0200" stop="20241007020000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Team Ubfal Show</title>
+    <desc lang="es">Los más jugosos chismes junto a Laura Ubfal en un espacio lleno de entretenimiento.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241007020000 +0200" stop="20241007040000 +0200" channel="ARG | America TV HD">
+    <title lang="es">Noche al Dente</title>
+    <desc lang="es">Un late night show conducido por Fernando Dente, quien recibe a diversos invitados famosos. Cada celebridad se animará a contar sus mejores anécdotas y recorrerá junto a una banda en vivo las canciones que marcaron su vida.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+</tv>
