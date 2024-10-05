@@ -37,7 +37,8 @@
     <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
   </channel>
   <channel id="ARG | ESPN Premium">
-    <display-name lang="xx">ARG | ESPN Premium</display-name>
+    <display-name lang="es">ARG | ESPN Premium</display-name>
+    <icon src="https://www.telered.com.ar/img/logos_ch/ESPN_PREMIUM.png"/>
   </channel>
   <programme start="20241005050000 +0200" stop="20241005053000 +0200" channel="ARG | A 24">
     <title lang="es">Boca es Boca</title>
@@ -1665,5 +1666,77 @@
     <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
     <category lang="es">Miniserie</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005010000 -0300" stop="20241005030000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Huracán vs. Sarmiento, Fecha 17, Estadio Tomás Adolfo Ducó - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005030000 -0300" stop="20241005050000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Racing Club vs. Platense, Fecha 16, Estadio Presidente Perón - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005050000 -0300" stop="20241005065500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Rosario Central vs. Vélez Sarsfield, Fecha 16, Estadio Gigante de Arroyito - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005065500 -0300" stop="20241005085000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Tigre vs. Independiente, Fecha 16, Estadio José Dellagiovanna - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005085000 -0300" stop="20241005104500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Huracán vs. Sarmiento, Fecha 17, Estadio Tomás Adolfo Ducó - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005104500 -0300" stop="20241005124500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">River Plate vs. Talleres (Cba.), Fecha 16, Estadio Antonio Vespucio Liberti - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005124500 -0300" stop="20241005144500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Unión vs. Central Córdoba, Fecha 17, Estadio 15 de Abril - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005144500 -0300" stop="20241005170500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Vélez Sarsfield vs. Racing Club, Fecha 17, Estadio José Amalfitani - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005170500 -0300" stop="20241005192500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Newell’s vs. Lanús, Fecha 17, Estadio Coloso del Parque Marcelo Bielsa - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005192500 -0300" stop="20241005213000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Vélez Sarsfield vs. Racing Club, Fecha 17, Estadio José Amalfitani - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005213000 -0300" stop="20241005233000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Newell’s vs. Lanús, Fecha 17, Estadio Coloso del Parque Marcelo Bielsa - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241005233000 -0300" stop="20241006013000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Gimnasia (LP) vs. Godoy Cruz, Fecha 17, Estadio Juan Carmelo Zerillo - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006013000 -0300" stop="20241006033000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Instituto vs. San Lorenzo, Fecha 17, Estadio Juan Domingo Perón - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006033000 -0300" stop="20241006053000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Huracán vs. Sarmiento, Fecha 17, Estadio Tomás Adolfo Ducó - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006053000 -0300" stop="20241006073000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Unión vs. Central Córdoba, Fecha 17, Estadio 15 de Abril - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006073000 -0300" stop="20241006075500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Independiente vs. Racing Club, Fecha 7 - Interzonal, Estadio Lib. de América - Ricardo Bochini - Review</title>
+  </programme>
+  <programme start="20241006075500 -0300" stop="20241006100000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Instituto vs. San Lorenzo, Fecha 17, Estadio Juan Domingo Perón - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006100000 -0300" stop="20241006120500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Gimnasia (LP) vs. Godoy Cruz, Fecha 17, Estadio Juan Carmelo Zerillo - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006120500 -0300" stop="20241006141000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Newell’s vs. Lanús, Fecha 17, Estadio Coloso del Parque Marcelo Bielsa - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006141000 -0300" stop="20241006161500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Vélez Sarsfield vs. Racing Club, Fecha 17, Estadio José Amalfitani - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006161500 -0300" stop="20241006183000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Talleres (Cba.) vs. Belgrano, Fecha 17, Estadio Mario Alberto Kempes - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006183000 -0300" stop="20241006205500 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Platense vs. River Plate, Fecha 17, Estadio Ciudad de Vicente López - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006205500 -0300" stop="20241006230000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Independiente vs. Dep. Riestra, Fecha 17, Estadio Lib. de América - Ricardo E. Bochini - Liga Profesional 2024</title>
+  </programme>
+  <programme start="20241006230000 -0300" stop="20241007010000 -0300" channel="ARG | ESPN Premium">
+    <title lang="es">Platense vs. River Plate, Fecha 17, Estadio Ciudad de Vicente López - Liga Profesional 2024</title>
   </programme>
 </tv>
