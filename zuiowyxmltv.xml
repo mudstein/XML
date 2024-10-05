@@ -12,6 +12,33 @@
     <display-name lang="es">ARG | America TV HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
   </channel>
+  <channel id="ARG | C5N HD">
+    <display-name lang="es">ARG | C5N HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_c5n_m.png"/>
+  </channel>
+  <channel id="ARG | Canal 26 HD">
+    <display-name lang="es">ARG | Canal 26 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png"/>
+  </channel>
+  <channel id="ARG | Canal 9">
+    <display-name lang="es">ARG | Canal 9</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"/>
+  </channel>
+  <channel id="ARG | Cronica HD">
+    <display-name lang="es">ARG | Cronica HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_cronica_m.png"/>
+  </channel>
+  <channel id="ARG | El Trece HD">
+    <display-name lang="es">ARG | El Trece HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
+  </channel>
+  <channel id="ARG | El Trece Internacional HD">
+    <display-name lang="es">ARG | El Trece Internacional HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
+  </channel>
+  <channel id="ARG | ESPN Premium">
+    <display-name lang="xx">ARG | ESPN Premium</display-name>
+  </channel>
   <programme start="20241005050000 +0200" stop="20241005053000 +0200" channel="ARG | A 24">
     <title lang="es">Boca es Boca</title>
     <desc lang="es">Información y actualidad de todo lo que acontece en el mundo Boca. Notas, sorteos, la opinión de la gente y un poquito de humor.</desc>
@@ -208,388 +235,1435 @@
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_gps_l_l.jpg"/>
   </programme>
-  <programme start="20241005053000 +0200" stop="20241005063000 +0200" channel="ARG | America TV">
+  <programme start="20241005043000 +0200" stop="20241005053000 +0200" channel="ARG | America TV">
     <title lang="es">Pasó en América</title>
     <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241005063000 +0200" stop="20241005070000 +0200" channel="ARG | America TV">
+  <programme start="20241005053000 +0200" stop="20241005060000 +0200" channel="ARG | America TV">
     <title lang="es">Modo Selfie</title>
     <desc lang="es">De la mano de Agustín Neglia y con la compañía de figuras invitadas, recorreremos los principales puntos turísticos para conocer lo mejor de la temporada.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie_l_l.jpg"/>
   </programme>
-  <programme start="20241005070000 +0200" stop="20241005080000 +0200" channel="ARG | America TV">
+  <programme start="20241005060000 +0200" stop="20241005070000 +0200" channel="ARG | America TV">
     <title lang="es">El valor de tus joyas</title>
     <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_el-valor-de-tus-joyas_l_l.jpg"/>
   </programme>
-  <programme start="20241005080000 +0200" stop="20241005130000 +0200" channel="ARG | America TV">
+  <programme start="20241005070000 +0200" stop="20241005120000 +0200" channel="ARG | America TV">
     <title lang="es">A la tarde</title>
     <desc lang="es">Karina Mazzoco brinda un análisis de especialistas, móviles en todos los puntos del país y entrevistas con diversos pensadores. Además, la conductora visibilizará diversas historias de vida atravesadas por la situación del país.</desc>
     <category lang="es">Magazine</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241005130000 +0200" stop="20241005133000 +0200" channel="ARG | America TV">
+  <programme start="20241005120000 +0200" stop="20241005123000 +0200" channel="ARG | America TV">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241005133000 +0200" stop="20241005150000 +0200" channel="ARG | America TV">
+  <programme start="20241005123000 +0200" stop="20241005140000 +0200" channel="ARG | America TV">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241005150000 +0200" stop="20241005153000 +0200" channel="ARG | America TV">
+  <programme start="20241005140000 +0200" stop="20241005143000 +0200" channel="ARG | America TV">
     <title lang="es">Comer para creer</title>
     <desc lang="es">Lourdes Sánchez te lleva a una recorrida por los mejores lugares gastronómicos de la ciudad y el país con los invitados más divertidos y, por supuesto, te enseñará las mejores recetas para que puedas hacer en tu casa.</desc>
     <category lang="es">Cocina</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_comer-para-creer_l_l.jpg"/>
   </programme>
-  <programme start="20241005153000 +0200" stop="20241005160000 +0200" channel="ARG | America TV">
+  <programme start="20241005143000 +0200" stop="20241005150000 +0200" channel="ARG | America TV">
     <title lang="es">Tecno tendencias</title>
     <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
     <category lang="es">Tecnología</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005160000 +0200" channel="ARG | America TV">
+    <title lang="es">Modo Selfie sábado</title>
+    <desc lang="es">Conocemos diversos lugares del mundo y de Argentina a través de la lente de Agustín Neglia.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-sabado_l_l.jpg"/>
   </programme>
   <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | America TV">
-    <title lang="es">Modo Selfie sábado</title>
-    <desc lang="es">Conocemos diversos lugares del mundo y de Argentina a través de la lente de Agustín Neglia.</desc>
-    <category lang="es">Turismo</category>
-    <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-sabado_l_l.jpg"/>
-  </programme>
-  <programme start="20241005170000 +0200" stop="20241005180000 +0200" channel="ARG | America TV">
     <title lang="es">Franquicias que crecen</title>
     <desc lang="es">Es el primer reality de franquicias donde los emprendedores pueden hacer realidad el sueño del negocio propio.</desc>
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_franquicias-que-crecen_l_l.jpg"/>
   </programme>
-  <programme start="20241005180000 +0200" stop="20241006000000 +0200" channel="ARG | America TV">
+  <programme start="20241005170000 +0200" stop="20241005230000 +0200" channel="ARG | America TV">
     <title lang="es">Pasión de sábado</title>
     <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
     <category lang="es">Musical</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241006000000 +0200" stop="20241006020000 +0200" channel="ARG | America TV">
+  <programme start="20241005230000 +0200" stop="20241006010000 +0200" channel="ARG | America TV">
     <title lang="es">América noticias - Sábado</title>
     <desc lang="es">Toda la información de la actualidad de Argentina y del resto del mundo. Móviles en vivo y todo lo que sucede al instante.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_america-noticias-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241006020000 +0200" stop="20241006040000 +0200" channel="ARG | America TV">
+  <programme start="20241006010000 +0200" stop="20241006030000 +0200" channel="ARG | America TV">
     <title lang="es">Secretos verdaderos</title>
     <desc lang="es">Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_secretos-verdaderos_l_l.jpg"/>
   </programme>
-  <programme start="20241006040000 +0200" stop="20241006053000 +0200" channel="ARG | America TV">
+  <programme start="20241006030000 +0200" stop="20241006043000 +0200" channel="ARG | America TV">
     <title lang="es">Pasó en América</title>
     <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | America TV">
+  <programme start="20241006043000 +0200" stop="20241006050000 +0200" channel="ARG | America TV">
     <title lang="es">Devuelta</title>
     <desc lang="es">Rafael Juli entrevista a famosos mientras caminan en el exterior, por lugares significativos para el invitado especial.</desc>
     <category lang="es">Especial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006060000 +0200" stop="20241006063000 +0200" channel="ARG | America TV">
+  <programme start="20241006050000 +0200" stop="20241006053000 +0200" channel="ARG | America TV">
     <title lang="es">Chicas guapas</title>
     <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
     <category lang="es">Moda</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
   </programme>
-  <programme start="20241006063000 +0200" stop="20241006070000 +0200" channel="ARG | America TV">
+  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | America TV">
     <title lang="es">Modo Foodie</title>
     <desc lang="es">Experiencias en primera persona y contadas por Agustín para acceder a los mejores y mas secretos lugares. Platos típicos y comidas tradicionales para disfrutar de la gastronomía mundial con todos los sentidos.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-foodie_l_l.jpg"/>
   </programme>
-  <programme start="20241006070000 +0200" stop="20241006130000 +0200" channel="ARG | America TV">
+  <programme start="20241006060000 +0200" stop="20241006120000 +0200" channel="ARG | America TV">
     <title lang="es">Pasión de sábado</title>
     <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
     <category lang="es">Musical</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241006130000 +0200" stop="20241006133000 +0200" channel="ARG | America TV">
+  <programme start="20241006120000 +0200" stop="20241006123000 +0200" channel="ARG | America TV">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241006133000 +0200" stop="20241006140000 +0200" channel="ARG | America TV">
+  <programme start="20241006123000 +0200" stop="20241006130000 +0200" channel="ARG | America TV">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241006140000 +0200" stop="20241006144500 +0200" channel="ARG | America TV">
+  <programme start="20241006130000 +0200" stop="20241006134500 +0200" channel="ARG | America TV">
     <title lang="es">Modo Selfie domingo</title>
     <desc lang="es">Conocemos diversos lugares del mundo y de Argentina bajo la lente de Agustín Neglia.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-domingo_l_l.jpg"/>
   </programme>
-  <programme start="20241006144500 +0200" stop="20241006150000 +0200" channel="ARG | America TV">
+  <programme start="20241006134500 +0200" stop="20241006140000 +0200" channel="ARG | America TV">
     <title lang="es">Fitness y belleza</title>
     <desc lang="es">El programa abarca una temática actual referida al mundo de la salud y la estética personal.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_fitness-y-belleza_l_l.jpg"/>
   </programme>
-  <programme start="20241006150000 +0200" stop="20241006153000 +0200" channel="ARG | America TV">
+  <programme start="20241006140000 +0200" stop="20241006143000 +0200" channel="ARG | America TV">
     <title lang="es">Tecno tendencias</title>
     <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
     <category lang="es">Tecnología</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
   </programme>
-  <programme start="20241006153000 +0200" stop="20241006160000 +0200" channel="ARG | America TV">
+  <programme start="20241006143000 +0200" stop="20241006150000 +0200" channel="ARG | America TV">
     <title lang="es">Chicas guapas</title>
     <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
     <category lang="es">Moda</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
   </programme>
-  <programme start="20241006160000 +0200" stop="20241006163000 +0200" channel="ARG | America TV">
+  <programme start="20241006150000 +0200" stop="20241006153000 +0200" channel="ARG | America TV">
     <title lang="es">El tío y el sobrino</title>
     <desc lang="es">Programa de cocina y turismo donde se fusiona la comida coreana y la argentina. En cada programa Martín y Esteban Ho visitan un rincón de la Argentina mostrando la cultura del lugar, su arte, su industria y sus atractivos turísticos.</desc>
     <category lang="es">Cocina</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006163000 +0200" stop="20241006170000 +0200" channel="ARG | America TV">
+  <programme start="20241006153000 +0200" stop="20241006160000 +0200" channel="ARG | America TV">
     <title lang="es">Pedalearg</title>
     <desc lang="es">De Argentina para el mundo, para los amantes de las dos ruedas, la movilidad sustentable y la vida saludable. Khaled Hallar trae un espacio para los apasionados del ciclismo.</desc>
     <category lang="es">Pedalearg</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ciclismo-pedalearg_l_l.jpg"/>
   </programme>
-  <programme start="20241006170000 +0200" stop="20241006180000 +0200" channel="ARG | America TV">
+  <programme start="20241006160000 +0200" stop="20241006170000 +0200" channel="ARG | America TV">
     <title lang="es">Ambiente y medio</title>
     <desc lang="es">Un ciclo que informa y debate sobre los temas ambientales más relevantes: los efectos de la crisis climática, la huella que deja la basura, la contaminación, los animales en peligro de extinción y la transición energética.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ambiente-y-medio_l_l.jpg"/>
   </programme>
-  <programme start="20241006180000 +0200" stop="20241006200000 +0200" channel="ARG | America TV">
+  <programme start="20241006170000 +0200" stop="20241006190000 +0200" channel="ARG | America TV">
     <title lang="es">Cocineros argentinos</title>
     <desc lang="es">Popular programa de cocina argentina que presenta deliciosas y económicas recetas. Además, información exclusiva sobre los hábitos alimentarios de las regiones argentinas y diversas técnicas para la preparación de los platos más nutritivos.</desc>
     <category lang="es">Cocina</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_cocineros-argentinos_l_l.jpg"/>
   </programme>
-  <programme start="20241006200000 +0200" stop="20241006213000 +0200" channel="ARG | America TV">
+  <programme start="20241006190000 +0200" stop="20241006203000 +0200" channel="ARG | America TV">
     <title lang="es">Mascotas al rescate</title>
     <desc lang="es">Un espacio para fomentar las adopciones y tránsitos responsables, dar difusión a la búsqueda de mascotas perdidas y también compartir historias de vida junto a esos animalitos que forman parte de nuestras familias.</desc>
     <category lang="es">Servicios</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006213000 +0200" stop="20241007000000 +0200" channel="ARG | America TV">
+  <programme start="20241006203000 +0200" stop="20241006230000 +0200" channel="ARG | America TV">
     <title lang="es">América noticias Domingo</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros en el lugar de los hechos y expertos, el público podrá informarse al completo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241007000000 +0200" stop="20241007020000 +0200" channel="ARG | America TV">
+  <programme start="20241006230000 +0200" stop="20241007010000 +0200" channel="ARG | America TV">
     <title lang="es">Team Ubfal Show</title>
     <desc lang="es">Los más jugosos chismes junto a Laura Ubfal en un espacio lleno de entretenimiento.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241007020000 +0200" stop="20241007040000 +0200" channel="ARG | America TV">
+  <programme start="20241007010000 +0200" stop="20241007030000 +0200" channel="ARG | America TV">
     <title lang="es">Noche al Dente</title>
     <desc lang="es">Un late night show conducido por Fernando Dente, quien recibe a diversos invitados famosos. Cada celebridad se animará a contar sus mejores anécdotas y recorrerá junto a una banda en vivo las canciones que marcaron su vida.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241005053000 +0200" stop="20241005063000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005043000 +0200" stop="20241005053000 +0200" channel="ARG | America TV HD">
     <title lang="es">Pasó en América</title>
     <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241005063000 +0200" stop="20241005070000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005053000 +0200" stop="20241005060000 +0200" channel="ARG | America TV HD">
     <title lang="es">Modo Selfie</title>
     <desc lang="es">De la mano de Agustín Neglia y con la compañía de figuras invitadas, recorreremos los principales puntos turísticos para conocer lo mejor de la temporada.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie_l_l.jpg"/>
   </programme>
-  <programme start="20241005070000 +0200" stop="20241005080000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005060000 +0200" stop="20241005070000 +0200" channel="ARG | America TV HD">
     <title lang="es">El valor de tus joyas</title>
     <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_el-valor-de-tus-joyas_l_l.jpg"/>
   </programme>
-  <programme start="20241005080000 +0200" stop="20241005130000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005070000 +0200" stop="20241005120000 +0200" channel="ARG | America TV HD">
     <title lang="es">A la tarde</title>
     <desc lang="es">Karina Mazzoco brinda un análisis de especialistas, móviles en todos los puntos del país y entrevistas con diversos pensadores. Además, la conductora visibilizará diversas historias de vida atravesadas por la situación del país.</desc>
     <category lang="es">Magazine</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241005130000 +0200" stop="20241005133000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005120000 +0200" stop="20241005123000 +0200" channel="ARG | America TV HD">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241005133000 +0200" stop="20241005150000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005123000 +0200" stop="20241005140000 +0200" channel="ARG | America TV HD">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241005150000 +0200" stop="20241005153000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005140000 +0200" stop="20241005143000 +0200" channel="ARG | America TV HD">
     <title lang="es">Comer para creer</title>
     <desc lang="es">Lourdes Sánchez te lleva a una recorrida por los mejores lugares gastronómicos de la ciudad y el país con los invitados más divertidos y, por supuesto, te enseñará las mejores recetas para que puedas hacer en tu casa.</desc>
     <category lang="es">Cocina</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_comer-para-creer_l_l.jpg"/>
   </programme>
-  <programme start="20241005153000 +0200" stop="20241005160000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005143000 +0200" stop="20241005150000 +0200" channel="ARG | America TV HD">
     <title lang="es">Tecno tendencias</title>
     <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
     <category lang="es">Tecnología</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
   </programme>
-  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005150000 +0200" stop="20241005160000 +0200" channel="ARG | America TV HD">
     <title lang="es">Modo Selfie sábado</title>
     <desc lang="es">Conocemos diversos lugares del mundo y de Argentina a través de la lente de Agustín Neglia.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241005170000 +0200" stop="20241005180000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | America TV HD">
     <title lang="es">Franquicias que crecen</title>
     <desc lang="es">Es el primer reality de franquicias donde los emprendedores pueden hacer realidad el sueño del negocio propio.</desc>
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_franquicias-que-crecen_l_l.jpg"/>
   </programme>
-  <programme start="20241005180000 +0200" stop="20241006000000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005170000 +0200" stop="20241005230000 +0200" channel="ARG | America TV HD">
     <title lang="es">Pasión de sábado</title>
     <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
     <category lang="es">Musical</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241006000000 +0200" stop="20241006020000 +0200" channel="ARG | America TV HD">
+  <programme start="20241005230000 +0200" stop="20241006010000 +0200" channel="ARG | America TV HD">
     <title lang="es">América noticias - Sábado</title>
     <desc lang="es">Toda la información de la actualidad de Argentina y del resto del mundo. Móviles en vivo y todo lo que sucede al instante.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_america-noticias-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241006020000 +0200" stop="20241006040000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006010000 +0200" stop="20241006030000 +0200" channel="ARG | America TV HD">
     <title lang="es">Secretos verdaderos</title>
     <desc lang="es">Las biografías no autorizadas de los artistas más importantes del mundo del espectáculo, la política, el deporte y el jet set internacional.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_secretos-verdaderos_l_l.jpg"/>
   </programme>
-  <programme start="20241006040000 +0200" stop="20241006053000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006030000 +0200" stop="20241006043000 +0200" channel="ARG | America TV HD">
     <title lang="es">Pasó en América</title>
     <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006043000 +0200" stop="20241006050000 +0200" channel="ARG | America TV HD">
     <title lang="es">Devuelta</title>
     <desc lang="es">Rafael Juli entrevista a famosos mientras caminan en el exterior, por lugares significativos para el invitado especial.</desc>
     <category lang="es">Especial</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006060000 +0200" stop="20241006063000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006050000 +0200" stop="20241006053000 +0200" channel="ARG | America TV HD">
     <title lang="es">Chicas guapas</title>
     <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
     <category lang="es">Moda</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
   </programme>
-  <programme start="20241006063000 +0200" stop="20241006070000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006053000 +0200" stop="20241006060000 +0200" channel="ARG | America TV HD">
     <title lang="es">Modo Foodie</title>
     <desc lang="es">Experiencias en primera persona y contadas por Agustín para acceder a los mejores y mas secretos lugares. Platos típicos y comidas tradicionales para disfrutar de la gastronomía mundial con todos los sentidos.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-foodie_l_l.jpg"/>
   </programme>
-  <programme start="20241006070000 +0200" stop="20241006130000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006060000 +0200" stop="20241006120000 +0200" channel="ARG | America TV HD">
     <title lang="es">Pasión de sábado</title>
     <desc lang="es">El programa que reúne cada sábado a las mejores bandas del momento, invitándote a que te diviertas, bailes y rías al mejor estilo tropical. Si está en la movida, está en Pasión de Sábado.</desc>
     <category lang="es">Musical</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-de-sabado_l_l.jpg"/>
   </programme>
-  <programme start="20241006130000 +0200" stop="20241006133000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006120000 +0200" stop="20241006123000 +0200" channel="ARG | America TV HD">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241006133000 +0200" stop="20241006140000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006123000 +0200" stop="20241006130000 +0200" channel="ARG | America TV HD">
     <title lang="es">TeveCompras</title>
     <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras", los cuales pueden ser adquiridos telefónicamente.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tevecompras_l_l.jpg"/>
   </programme>
-  <programme start="20241006140000 +0200" stop="20241006144500 +0200" channel="ARG | America TV HD">
+  <programme start="20241006130000 +0200" stop="20241006134500 +0200" channel="ARG | America TV HD">
     <title lang="es">Modo Selfie domingo</title>
     <desc lang="es">Conocemos diversos lugares del mundo y de Argentina bajo la lente de Agustín Neglia.</desc>
     <category lang="es">Turismo</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_modo-selfie-domingo_l_l.jpg"/>
   </programme>
-  <programme start="20241006144500 +0200" stop="20241006150000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006134500 +0200" stop="20241006140000 +0200" channel="ARG | America TV HD">
     <title lang="es">Fitness y belleza</title>
     <desc lang="es">El programa abarca una temática actual referida al mundo de la salud y la estética personal.</desc>
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_fitness-y-belleza_l_l.jpg"/>
   </programme>
-  <programme start="20241006150000 +0200" stop="20241006153000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006140000 +0200" stop="20241006143000 +0200" channel="ARG | America TV HD">
     <title lang="es">Tecno tendencias</title>
     <desc lang="es">Programa de tendencias, tecnología, cibercultura, redes sociales, nuevos medios y curiosidades. Con visitas a las ferias tecnológicas mas importantes del mundo, las apps del momento, edición de fotos y video.</desc>
     <category lang="es">Tecnología</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tecno-tendencias_l_l.jpg"/>
   </programme>
-  <programme start="20241006153000 +0200" stop="20241006160000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006143000 +0200" stop="20241006150000 +0200" channel="ARG | America TV HD">
     <title lang="es">Chicas guapas</title>
     <desc lang="es">Un espacio que cuenta con las últimas novedades de moda, belleza, gastronomía, música, arte, cine y teatro. Bajo la conducción de Lucía Ugarte, esta propuesta traerá en exclusiva los eventos más importantes nacionales e internacionales.</desc>
     <category lang="es">Moda</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-guapas_l_l.jpg"/>
   </programme>
-  <programme start="20241006160000 +0200" stop="20241006163000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006150000 +0200" stop="20241006153000 +0200" channel="ARG | America TV HD">
     <title lang="es">El tío y el sobrino</title>
     <desc lang="es">Programa de cocina y turismo donde se fusiona la comida coreana y la argentina. En cada programa Martín y Esteban Ho visitan un rincón de la Argentina mostrando la cultura del lugar, su arte, su industria y sus atractivos turísticos.</desc>
     <category lang="es">Cocina</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006163000 +0200" stop="20241006170000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006153000 +0200" stop="20241006160000 +0200" channel="ARG | America TV HD">
     <title lang="es">Pedalearg</title>
     <desc lang="es">De Argentina para el mundo, para los amantes de las dos ruedas, la movilidad sustentable y la vida saludable. Khaled Hallar trae un espacio para los apasionados del ciclismo.</desc>
     <category lang="es">Pedalearg</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ciclismo-pedalearg_l_l.jpg"/>
   </programme>
-  <programme start="20241006170000 +0200" stop="20241006180000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006160000 +0200" stop="20241006170000 +0200" channel="ARG | America TV HD">
     <title lang="es">Ambiente y medio</title>
     <desc lang="es">Un ciclo que informa y debate sobre los temas ambientales más relevantes: los efectos de la crisis climática, la huella que deja la basura, la contaminación, los animales en peligro de extinción y la transición energética.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ambiente-y-medio_l_l.jpg"/>
   </programme>
-  <programme start="20241006180000 +0200" stop="20241006200000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006170000 +0200" stop="20241006190000 +0200" channel="ARG | America TV HD">
     <title lang="es">Cocineros argentinos</title>
     <desc lang="es">Popular programa de cocina argentina que presenta deliciosas y económicas recetas. Además, información exclusiva sobre los hábitos alimentarios de las regiones argentinas y diversas técnicas para la preparación de los platos más nutritivos.</desc>
     <category lang="es">Cocina</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_cocineros-argentinos_l_l.jpg"/>
   </programme>
-  <programme start="20241006200000 +0200" stop="20241006213000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006190000 +0200" stop="20241006203000 +0200" channel="ARG | America TV HD">
     <title lang="es">Mascotas al rescate</title>
     <desc lang="es">Un espacio para fomentar las adopciones y tránsitos responsables, dar difusión a la búsqueda de mascotas perdidas y también compartir historias de vida junto a esos animalitos que forman parte de nuestras familias.</desc>
     <category lang="es">Servicios</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241006213000 +0200" stop="20241007000000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006203000 +0200" stop="20241006230000 +0200" channel="ARG | America TV HD">
     <title lang="es">América noticias Domingo</title>
     <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. A través del trabajo de periodistas, reporteros en el lugar de los hechos y expertos, el público podrá informarse al completo.</desc>
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241007000000 +0200" stop="20241007020000 +0200" channel="ARG | America TV HD">
+  <programme start="20241006230000 +0200" stop="20241007010000 +0200" channel="ARG | America TV HD">
     <title lang="es">Team Ubfal Show</title>
     <desc lang="es">Los más jugosos chismes junto a Laura Ubfal en un espacio lleno de entretenimiento.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20241007020000 +0200" stop="20241007040000 +0200" channel="ARG | America TV HD">
+  <programme start="20241007010000 +0200" stop="20241007030000 +0200" channel="ARG | America TV HD">
     <title lang="es">Noche al Dente</title>
     <desc lang="es">Un late night show conducido por Fernando Dente, quien recibe a diversos invitados famosos. Cada celebridad se animará a contar sus mejores anécdotas y recorrerá junto a una banda en vivo las canciones que marcaron su vida.</desc>
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005050000 +0200" stop="20241005053000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Right Now</title>
+    <desc lang="es">Programa que cuenta con entrevistas a distintos artistas, segmentos de moda, gastronomía, fitness y espectáculos.</desc>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_right-now_l_l.jpg"/>
+  </programme>
+  <programme start="20241005053000 +0200" stop="20241005060000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Show sobre ruedas</title>
+    <desc lang="es">Acompaña a Alejandra Maglietti en este magazine que llevará a tu pantalla los eventos más importantes en el sector automovilístico y, además, trae para ti un resumen de lo más novedoso en este sector, con entrevistas a invitados especiales.</desc>
+    <category lang="es">Show sobre ruedas</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-show-sobre-ruedas_l_l.jpg"/>
+  </programme>
+  <programme start="20241005060000 +0200" stop="20241005070000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Hacete cargo</title>
+    <desc lang="es">Encuentra tu paz interior a través de la palabra de Claudio María Domínguez, quien se referirá a la existencia de Dios, el ego, el conocimiento, entre otros temas relacionados con la espiritualidad.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_hacete-cargo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005070000 +0200" stop="20241005073000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Música para ver</title>
+    <desc lang="es">Edición en la que podrás disfrutar de lo mejor del pentagrama internacional con los éxitos del momento de tus artistas favoritos en géneros como salsa, merengue, rock, pop, jazz y electrónica.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005073000 +0200" stop="20241005080000 +0200" channel="ARG | C5N HD">
+    <title lang="es">La noche</title>
+    <desc lang="es">Magazine que se emite durante la madrugada de los sábados, con cinco horas en vivo, donde presentan invitados, bandas en vivo y las más divertidas secciones. Pasarás un momento cargado de mucho entretenimiento.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-noche_l_l.jpg"/>
+  </programme>
+  <programme start="20241005080000 +0200" stop="20241005083000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Chicas pochocleras</title>
+    <desc lang="es">Un ciclo con entrevistas a actores consagrados, viajes, recomendaciones de cine y series, invitados y mucho más.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_chicas-pochocleras_l_l.jpg"/>
+  </programme>
+  <programme start="20241005083000 +0200" stop="20241005093000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Hacete cargo</title>
+    <desc lang="es">Encuentra tu paz interior a través de la palabra de Claudio María Domínguez, quien se referirá a la existencia de Dios, el ego, el conocimiento, entre otros temas relacionados con la espiritualidad.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_hacete-cargo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005093000 +0200" stop="20241005113000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Minuto final</title>
+    <desc lang="es">Un repaso de las noticias más destacadas de la semana y un adelanto de lo que ocurrirá.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005113000 +0200" stop="20241005140000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Bien de sábado</title>
+    <desc lang="es">Acompáñanos y entérate de los últimos acontecimientos relacionados al deporte, los espectáculos, la economía, ecología, educación, entre muchos otros ámbitos, de una manera totalmente diferente y entretenida.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_bien-de-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241005140000 +0200" stop="20241005183000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Argentina en vivo</title>
+    <desc lang="es">Actualidad, información, móviles al instante en el lugar exacto en donde sucede la noticia.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_argentina-en-vivo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005183000 +0200" stop="20241005190000 +0200" channel="ARG | C5N HD">
+    <title lang="es">C5N en tu barrio</title>
+    <desc lang="es">Con el equipo de C5N paseamos por tu barrio para conocer las problemáticas de los vecinos.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005190000 +0200" stop="20241006000000 +0200" channel="ARG | C5N HD">
+    <title lang="es">La voz de la calle</title>
+    <desc lang="es">Programa que toca los casos resonantes de la semana en formato de resumen con información, opinión y debate.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006000000 +0200" stop="20241006020000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Fuera de agenda</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006040000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Sobredosis de TV</title>
+    <desc lang="es">Un repaso por las noticias más importantes de la semana, a puro archivo recargado y mirada crítica.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_sobredosis-de-tv_l_l.jpg"/>
+  </programme>
+  <programme start="20241006040000 +0200" stop="20241006043000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Right Now</title>
+    <desc lang="es">Programa que cuenta con entrevistas a distintos artistas, segmentos de moda, gastronomía, fitness y espectáculos.</desc>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_right-now_l_l.jpg"/>
+  </programme>
+  <programme start="20241006043000 +0200" stop="20241007043000 +0200" channel="ARG | C5N HD">
+    <title lang="es">Desde el conocimiento</title>
+    <desc lang="es">Universidades, ciencia, tecnología, cultura, deportes y arte.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_desde-el-conocimiento_l_l.jpg"/>
+  </programme>
+  <programme start="20241005050000 +0200" stop="20241005080000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Trasnoche 26</title>
+    <desc lang="es">Un espacio que transmite las noticias más relevantes y todo tipo de información.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_trasnoche-26_l_l.jpg"/>
+  </programme>
+  <programme start="20241005080000 +0200" stop="20241005090000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Resumen internacional</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_resumen-internacional_l_l.jpg"/>
+  </programme>
+  <programme start="20241005090000 +0200" stop="20241005110000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Informativo 26 am</title>
+    <desc lang="es">Toda la información que necesitas saber para mantenerte actualizado.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005110000 +0200" stop="20241005130000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Resumen 26</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_resumen-26_l_l.jpg"/>
+  </programme>
+  <programme start="20241005130000 +0200" stop="20241005150000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Fin de semana</title>
+    <desc lang="es">Toda la información y las últimas noticias del fin de semana.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_fin-de-semana_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005180000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">El diario del sábado</title>
+    <desc lang="es">El equipo te espera todos los sábados con la mejor información, entrevistas e invitados. Este segmento propone informar de una manera ágil, divertida y amena.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-diario-del-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241005180000 +0200" stop="20241005190000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">El turismo y la hospitalidad</title>
+    <desc lang="es">Espacio que te lleva en esta fantástica aventura de viajar para que, a través de las imágenes, disfrutes de las bellezas turísticas de la región y el mundo, en un recorrido por los lugares más pintorescos del país y el planeta.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-turismo-y-la-hospitalidad_l_l.jpg"/>
+  </programme>
+  <programme start="20241005190000 +0200" stop="20241005193000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">26 Planeta: documentales</title>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005193000 +0200" stop="20241005200000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Euronews</title>
+    <desc lang="es">Noticias internacionales y avances informativos sobre temas de actualidad</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_euronews_l_l.jpg"/>
+  </programme>
+  <programme start="20241005200000 +0200" stop="20241005203000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Documentales DW</title>
+    <desc lang="es">El reino animal, la botánica, los museos del mundo, las obras maestras, los avances científicos y tecnológicos. Los personajes y descubrimientos que hicieron historia, los grandes maestros del arte y la música clásica que marcó una época.</desc>
+    <category lang="es">Cultural</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_documentales-dw_l_l.jpg"/>
+  </programme>
+  <programme start="20241005203000 +0200" stop="20241005210000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">AFP Noticias</title>
+    <desc lang="es">Toda la información actual que necesitas saber.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005210000 +0200" stop="20241005213000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">RT noticias</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005213000 +0200" stop="20241006000000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Fin de semana</title>
+    <desc lang="es">Toda la información y las últimas noticias del fin de semana.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_fin-de-semana_l_l.jpg"/>
+  </programme>
+  <programme start="20241006000000 +0200" stop="20241006003000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">26 Historia</title>
+    <desc lang="es">Viajamos a través del tiempo para revisar hechos y personajes de la historia y traerlos a la coyuntura actual.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006003000 +0200" stop="20241006010000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Euronews</title>
+    <desc lang="es">Noticias internacionales y avances informativos sobre temas de actualidad</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_euronews_l_l.jpg"/>
+  </programme>
+  <programme start="20241006010000 +0200" stop="20241006013000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">26 global</title>
+    <desc lang="es">Una propuesta internacional de la señal con informes, análisis y segmentos de investigación.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006013000 +0200" stop="20241006020000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Informe Klipphan</title>
+    <desc lang="es">Un segmento de investigación que aborda los temas del acontecer actual con la conducción de Andrés Klipphan.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_informe-klipphan_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006040000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Las imágenes más espectaculares</title>
+    <desc lang="es">Espacio en el que se presentan imágenes donde se evidencian escenas de experimentos, lugares, personas y hechos insólitos para sorprender, entretener y divertir al espectador, con un toque irónico y de humor.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-imagenes-mas-espectaculares-1_l_l.jpg"/>
+  </programme>
+  <programme start="20241006040000 +0200" stop="20241006043000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Realidades del mundo</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006043000 +0200" stop="20241007043000 +0200" channel="ARG | Canal 26 HD">
+    <title lang="es">Resumen 26</title>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_resumen-26_l_l.jpg"/>
+  </programme>
+  <programme start="20241005050000 +0200" stop="20241005053000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Lo mejor del 9</title>
+    <desc lang="es">Si querés saber lo más destacado de cada jornada, no te pierdas este resumen con lo mejor de El Nueve.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lo-mejor-del-9_l_l.jpg"/>
+  </programme>
+  <programme start="20241005053000 +0200" stop="20241005060000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Pastor Cinalli</title>
+    <desc lang="es">El Pastor Cinalli comparte la Palabra de Dios.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005060000 +0200" stop="20241005061500 +0200" channel="ARG | Canal 9">
+    <title lang="es">Lo mejor del 9</title>
+    <desc lang="es">Si querés saber lo más destacado de cada jornada, no te pierdas este resumen con lo mejor de El Nueve.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lo-mejor-del-9_l_l.jpg"/>
+  </programme>
+  <programme start="20241005061500 +0200" stop="20241005071500 +0200" channel="ARG | Canal 9">
+    <title lang="es">TV compras</title>
+    <desc lang="es">Infomerciales de productos de excelencia para el hogar de "TV compras".</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tv-compras-1_l_l.jpg"/>
+  </programme>
+  <programme start="20241005071500 +0200" stop="20241005074500 +0200" channel="ARG | Canal 9">
+    <title lang="es">El valor de tus joyas</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-valor-de-tus-joyas_l_l.jpg"/>
+  </programme>
+  <programme start="20241005074500 +0200" stop="20241005083000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Telenueve central</title>
+    <desc lang="es">El noticiero más completo. Para saber lo que está pasando, Telenueve te presenta toda la información del día y al instante, con un análisis destacado de los hechos en sus cuatro ediciones.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_telenueve-central_l_l.jpg"/>
+  </programme>
+  <programme start="20241005083000 +0200" stop="20241005120000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Cierre de transmisión</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cierre-de-transmision_l_l.jpg"/>
+  </programme>
+  <programme start="20241005120000 +0200" stop="20241005140000 +0200" channel="ARG | Canal 9">
+    <title lang="es">TV compras</title>
+    <desc lang="es">Infomerciales de productos de excelencia para el hogar de "TV compras".</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tv-compras-1_l_l.jpg"/>
+  </programme>
+  <programme start="20241005140000 +0200" stop="20241005150000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Suterh con vos</title>
+    <desc lang="es">Un espacio que trae información de interés para los afiliados al Sindicato único Trabajadores Edificios Renta y Horizontal y la comunidad en general y la comunidad en general.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_suterh-con-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005153000 +0200" channel="ARG | Canal 9">
+    <title lang="es">La Cava</title>
+    <desc lang="es">Una propuesta para adentrarse en el mundo del vino, sus sabores, variedades y las actividades que genera. El programa se desarrollará en una cava en la cual se probarán, de la mano de someliers destacados, todos los tipos de vinos.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005153000 +0200" stop="20241005160000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Lo mejor del 9</title>
+    <desc lang="es">Si querés saber lo más destacado de cada jornada, no te pierdas este resumen con lo mejor de El Nueve.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lo-mejor-del-9_l_l.jpg"/>
+  </programme>
+  <programme start="20241005160000 +0200" stop="20241005163000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Prevenir</title>
+    <desc lang="es">El primer programa de prevención y seguridad de la Policía Federal Argentina.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_prevenir_l_l.jpg"/>
+  </programme>
+  <programme start="20241005163000 +0200" stop="20241005170000 +0200" channel="ARG | Canal 9">
+    <title lang="es">MAG</title>
+    <desc lang="es">Un magazine semanal que se propone entretener e informar a una audiencia que disfrute de la moda, el turismo y la gastronomía.</desc>
+    <category lang="es">Magazine</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005170000 +0200" stop="20241005180000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Somos bonaerenses</title>
+    <desc lang="es">Un noticiero semanal que repasa las novedades más importantes de la gestión provincial como así también los personajes, paisajes, historias y las curiosidades más inéditas de la identidad bonaerense.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005180000 +0200" stop="20241005190000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Nara que ver</title>
+    <desc lang="es">Ciclo de entrevistas a reconocidos artistas del mundo del espectáculo.</desc>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_nara-que-ver_l_l.jpg"/>
+  </programme>
+  <programme start="20241005190000 +0200" stop="20241005203000 +0200" channel="ARG | Canal 9">
+    <title lang="es">La Cocina del 9</title>
+    <desc lang="es">Disfruta de las mejores recetas que preparamos en "¡Qué mañana!".</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_la-cocina-del-9-1_l_l.jpg"/>
+  </programme>
+  <programme start="20241005203000 +0200" stop="20241005213000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Lo mejor del 9</title>
+    <desc lang="es">Si querés saber lo más destacado de cada jornada, no te pierdas este resumen con lo mejor de El Nueve.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_lo-mejor-del-9_l_l.jpg"/>
+  </programme>
+  <programme start="20241005213000 +0200" stop="20241005230000 +0200" channel="ARG | Canal 9">
+    <title lang="es">70-20-Hoy</title>
+    <desc lang="es">Programa de periodismo e investigación.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_70-20-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20241005230000 +0200" stop="20241006010000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Implacables</title>
+    <desc lang="es">Toda la actualidad del mundo de la farándula y las últimas novedades. El equipo de Implacables te brinda la mejor información con notas, informes especiales, móviles e invitados.</desc>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_implacables_l_l.jpg"/>
+  </programme>
+  <programme start="20241006010000 +0200" stop="20241006013000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Los deconstrui2</title>
+    <desc lang="es">Desde el humor, Coco Sily y Diego Pérez abren debates y presentan juegos junto a invitados especiales y televidentes.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006013000 +0200" stop="20241006020000 +0200" channel="ARG | Canal 9">
+    <title lang="es">BA emergencias</title>
+    <desc lang="es">Cuando el peligro aparece, cuando no se respeta la ley, cuando de la urgencia depende la vida. En la ciudad de Buenos Aires, el equipo de emergencias se pone en acción.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006030000 +0200" channel="ARG | Canal 9">
+    <title lang="es">TL9 Denuncia</title>
+    <desc lang="es">Damos lugar a las denuncias sociales y policiales.</desc>
+    <category lang="es">Policial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006030000 +0200" stop="20241006043000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Millotón</title>
+    <desc lang="es">Gana a lo grande con los juegos más divertidos y emocionantes.</desc>
+    <category lang="es">Juegos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006043000 +0200" stop="20241007043000 +0200" channel="ARG | Canal 9">
+    <title lang="es">Knock Out 9</title>
+    <desc lang="es">La vuelta de un clásico con los combates que harán vibrar el ring. Una nueva manera de ver el boxeo y otras disciplinas como el kickboxing y las artes marciales mixtas, en primera persona.</desc>
+    <category lang="es">Knock Out 9</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20241005050000 +0200" stop="20241005051500 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El tasador</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-tasador_l_l.jpg"/>
+  </programme>
+  <programme start="20241005051500 +0200" stop="20241005060000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Mensaje de Dios</title>
+    <desc lang="es">Para conocer de una manera teológica, actual y diferente la Biblia, con escritos inspiradores que fortalecerán fe de los fieles, mediante, el mensaje que Dios tiene reservado para los cristianos en infinitas bendiciones.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mensaje-de-dios_l_l.jpg"/>
+  </programme>
+  <programme start="20241005060000 +0200" stop="20241005061500 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El tasador</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-tasador_l_l.jpg"/>
+  </programme>
+  <programme start="20241005061500 +0200" stop="20241005063000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Mensaje de Dios</title>
+    <desc lang="es">Para conocer de una manera teológica, actual y diferente la Biblia, con escritos inspiradores que fortalecerán fe de los fieles, mediante, el mensaje que Dios tiene reservado para los cristianos en infinitas bendiciones.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mensaje-de-dios_l_l.jpg"/>
+  </programme>
+  <programme start="20241005063000 +0200" stop="20241005073000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Mensaje de Dios</title>
+    <desc lang="es">Para conocer de una manera teológica, actual y diferente la Biblia, con escritos inspiradores que fortalecerán fe de los fieles, mediante, el mensaje que Dios tiene reservado para los cristianos en infinitas bendiciones.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mensaje-de-dios_l_l.jpg"/>
+  </programme>
+  <programme start="20241005073000 +0200" stop="20241005083000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El tasador</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-tasador_l_l.jpg"/>
+  </programme>
+  <programme start="20241005083000 +0200" stop="20241005093000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Paranormal</title>
+    <desc lang="es">Programa que recorre y se inserta en el mundo de los fenómenos paranormales.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_paranormal_l_l.jpg"/>
+  </programme>
+  <programme start="20241005093000 +0200" stop="20241005103000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Mate de por medio</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005103000 +0200" stop="20241005110000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Camino antiguo</title>
+    <desc lang="es">Descubre las verdaderas doctrinas de nuestro Señor Jesucristo en la Biblia.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005110000 +0200" stop="20241005130000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica Noticias</title>
+    <desc lang="es">Un espacio para conocer la actualidad de las noticias con toda la información al alcance.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cronica-noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005130000 +0200" stop="20241005160000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica con vos</title>
+    <desc lang="es">Noticiero informal para arrancar bien informados los sábados con el singular estilo de Edith Hermida.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El defensor</title>
+    <desc lang="es">Espacio dedicado para que los jubilados consulten y esclarezcan, en vivo, sus dudas sobre temas previsionales con la conducción del Dr. Adrián Frascino.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-defensor_l_l.jpg"/>
+  </programme>
+  <programme start="20241005170000 +0200" stop="20241005210000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica Noticias sábado</title>
+    <desc lang="es">Un espacio para conocer la actualidad de las noticias con toda la información al alcance.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cronica-noticias-sabado_l_l.jpg"/>
+  </programme>
+  <programme start="20241005210000 +0200" stop="20241005230000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El runrún del espectáculo</title>
+    <desc lang="es">Noticiero de espectáculos con pura información: primicias, enigmáticos y entrevistas exclusivas. Para enterarse de todo lo que pasa en el espectáculo sin filtro.</desc>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-runrun-del-espectaculo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005230000 +0200" stop="20241006023000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Siempre noticias</title>
+    <desc lang="es">Un espacio que cuenta con toda la información y las noticias más relevantes.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_siempre-noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006023000 +0200" stop="20241006043000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Tragedias de los famosos</title>
+    <desc lang="es">Programa icónico de Crónica que investiga los casos más trágicos de los famosos</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tragedias-de-los-famosos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006043000 +0200" stop="20241006050000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Paranormal</title>
+    <desc lang="es">Programa que recorre y se inserta en el mundo de los fenómenos paranormales.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_paranormal_l_l.jpg"/>
+  </programme>
+  <programme start="20241006050000 +0200" stop="20241006051500 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Horacio L. Scarlato - Metafísico</title>
+    <desc lang="es">Horacio Luis Scarlato se especializa en temas de pareja, retornos, uniones, armonizaciones, fenómenos paranormales y destrucción de maleficios con métodos absolutamente cristianos.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241006051500 +0200" stop="20241006060000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Mensaje de Dios</title>
+    <desc lang="es">Para conocer de una manera teológica, actual y diferente la Biblia, con escritos inspiradores que fortalecerán fe de los fieles, mediante, el mensaje que Dios tiene reservado para los cristianos en infinitas bendiciones.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mensaje-de-dios_l_l.jpg"/>
+  </programme>
+  <programme start="20241006060000 +0200" stop="20241006063000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El tasador</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-tasador_l_l.jpg"/>
+  </programme>
+  <programme start="20241006063000 +0200" stop="20241006073000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Mensaje de Dios</title>
+    <desc lang="es">Para conocer de una manera teológica, actual y diferente la Biblia, con escritos inspiradores que fortalecerán fe de los fieles, mediante, el mensaje que Dios tiene reservado para los cristianos en infinitas bendiciones.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mensaje-de-dios_l_l.jpg"/>
+  </programme>
+  <programme start="20241006073000 +0200" stop="20241006083000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El tasador</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-tasador_l_l.jpg"/>
+  </programme>
+  <programme start="20241006083000 +0200" stop="20241006110000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica Noticias: el resumen</title>
+    <desc lang="es">Un resumen de las noticias más relevantes del día.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cronica-noticias-el-resumen_l_l.jpg"/>
+  </programme>
+  <programme start="20241006110000 +0200" stop="20241006130000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica Noticias</title>
+    <desc lang="es">Un espacio para conocer la actualidad de las noticias con toda la información al alcance.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cronica-noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006130000 +0200" stop="20241006170000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica Noticias domingo</title>
+    <desc lang="es">Un espacio para conocer la actualidad de las noticias con toda la información al alcance.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cronica-noticias-domingo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006170000 +0200" stop="20241006210000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Crónica Noticias domingo</title>
+    <desc lang="es">Un espacio para conocer la actualidad de las noticias con toda la información al alcance.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_cronica-noticias-domingo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006210000 +0200" stop="20241006230000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">El runrún del espectáculo</title>
+    <desc lang="es">Noticiero de espectáculos con pura información: primicias, enigmáticos y entrevistas exclusivas. Para enterarse de todo lo que pasa en el espectáculo sin filtro.</desc>
+    <category lang="es">Espectáculo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-runrun-del-espectaculo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006230000 +0200" stop="20241007010000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Último momento</title>
+    <desc lang="es">Todas las primicias sobre política, deporte, ocio y sociedad.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ultimo-momento_l_l.jpg"/>
+  </programme>
+  <programme start="20241007010000 +0200" stop="20241007030000 +0200" channel="ARG | Cronica HD">
+    <title lang="es">Duro de callar</title>
+    <desc lang="es">Programa periodístico de investigación con revelaciones exclusivas, informes impactantes y columnistas de primer nivel.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20241005050000 +0200" stop="20241005054500 +0200" channel="ARG | El Trece HD">
+    <title lang="es">En síntesis</title>
+    <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_en-sintesis_l_l.jpg"/>
+  </programme>
+  <programme start="20241005054500 +0200" stop="20241005060000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cucinare_l_l.jpg"/>
+  </programme>
+  <programme start="20241005060000 +0200" stop="20241005070000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005070000 +0200" stop="20241005083000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El gato desaparece</title>
+    <desc lang="es">Luego de la salida de Luis del hospital psiquiátrico, su esposa Beatriz experimenta sentimientos encontrados, ya que extraños acontecimientos comienzan a suceder en su hogar, y ella desconfía cada vez más de él.</desc>
+    <date>2011</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-gato-desaparece-2011_l_l.jpg"/>
+  </programme>
+  <programme start="20241005083000 +0200" stop="20241005093000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Tiempos compulsivos</title>
+    <desc lang="es">En encuentros grupales diarios, un equipo de profesionales hará que sus pacientes enfrenten sus miedos, sus angustias y deseos, siendo el eje de sus propios dramas y, a veces, el reflejo o la multiplicación de los traumas del otro.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiempos-compulsivos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005093000 +0200" stop="20241005110000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241005110000 +0200" stop="20241005120000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005120000 +0200" stop="20241005130000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Para vestir santos</title>
+    <desc lang="es">Susi, Virgi y Male, que están todas solteras, comprobarán que la muerte de su madre no implica liberación alguna. Son tres mujeres inteligentes, hermosas, jóvenes, pero que no pueden formar pareja. Sólo se tienen unas a las otras.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_para-vestir-santos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005130000 +0200" stop="20241005140000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Socias</title>
+    <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
+    <category lang="es">Miniserie</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005140000 +0200" stop="20241005150000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005160000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Solamente vos</title>
+    <desc lang="es">Juan Cousteau lleva una vida que podríamos definir como apacible: está casado, tiene cinco hijos. Pero su mundo entra en crisis cuando su esposa Ingrid, La Polaca, le pide un tiempo para reencontrarse consigo misma y descubrir quién es.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Plan TV</title>
+    <desc lang="es">Un ciclo dedicado a resaltar momentos desopilantes de la televisión.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plan-tv_l_l.jpg"/>
+  </programme>
+  <programme start="20241005170000 +0200" stop="20241005183000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El gato desaparece</title>
+    <desc lang="es">Luego de la salida de Luis del hospital psiquiátrico, su esposa Beatriz experimenta sentimientos encontrados, ya que extraños acontecimientos comienzan a suceder en su hogar, y ella desconfía cada vez más de él.</desc>
+    <date>2011</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-gato-desaparece-2011_l_l.jpg"/>
+  </programme>
+  <programme start="20241005183000 +0200" stop="20241005193000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Tiempos compulsivos</title>
+    <desc lang="es">En encuentros grupales diarios, un equipo de profesionales hará que sus pacientes enfrenten sus miedos, sus angustias y deseos, siendo el eje de sus propios dramas y, a veces, el reflejo o la multiplicación de los traumas del otro.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiempos-compulsivos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005193000 +0200" stop="20241005203000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Hacelo feliz</title>
+    <desc lang="es">En cada duelo los competidores deberán impresionar con su performance a un jurado incógnito que estará oculto dentro de un gran diamante ubicado en el centro del estudio.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hacelo-feliz_l_l.jpg"/>
+  </programme>
+  <programme start="20241005203000 +0200" stop="20241005210000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Los musicales de Solamente vos</title>
+    <desc lang="es">La relación de Juan y Aurora tiene características artísticas: le cantaron al amor, a la familia y a la soledad. En esta oportunidad, se podrán revivir estos inolvidables momentos que ambos compartieron con reconocidos músicos y cantantes</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-musicales-de-solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005210000 +0200" stop="20241005223000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241005223000 +0200" stop="20241006000000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Los 8 escalones - Especial: 25 millones de pesos</title>
+    <desc lang="es">Se inicia un torneo especial en Los 8 Escalones, en donde los participantes podrán clasificar a una gran final y así concursar por un premio de 25 millones de pesos.</desc>
+    <category lang="es">- Emisión del día viernes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20241006000000 +0200" stop="20241006010000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006010000 +0200" stop="20241006020000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006023000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Los musicales de Solamente vos</title>
+    <desc lang="es">La relación de Juan y Aurora tiene características artísticas: le cantaron al amor, a la familia y a la soledad. En esta oportunidad, se podrán revivir estos inolvidables momentos que ambos compartieron con reconocidos músicos y cantantes</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-musicales-de-solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006023000 +0200" stop="20241006041500 +0200" channel="ARG | El Trece HD">
+    <title lang="es">La noche de Mirtha</title>
+    <desc lang="es">La Chiqui encabezará las mesas con las figuras y los invitados más representativos, importantes y destacados de la cultura, política, espectáculos y el deporte.</desc>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-noche-de-mirtha_l_l.jpg"/>
+  </programme>
+  <programme start="20241006041500 +0200" stop="20241006050000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Resto del mundo</title>
+    <desc lang="es">Fede Bal nos invita a recorrer distintos lugares del mundo y conocer diversas culturas y tradiciones. Los destinos de esta temporada serán República Checa, Alemania, Estados Unidos, Países Bajos, Francia y Japón.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_resto-del-mundo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006050000 +0200" stop="20241006051500 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Clips programación</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_clips-programacion_l_l.jpg"/>
+  </programme>
+  <programme start="20241006051500 +0200" stop="20241006054500 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cucinare_l_l.jpg"/>
+  </programme>
+  <programme start="20241006054500 +0200" stop="20241006060000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg"/>
+  </programme>
+  <programme start="20241006060000 +0200" stop="20241006070000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006070000 +0200" stop="20241006083000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El fútbol o yo</title>
+    <desc lang="es">Pedro Pintos, un fanático del fútbol, sin distinción de club, camiseta, bandera ni nacionalidad, ve amenazado su matrimonio con Verónica cuando su adicción a la pelota comienza a ocupar el lugar de sus afectos.</desc>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-futbol-o-yo-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20241006083000 +0200" stop="20241006093000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Tiempos compulsivos</title>
+    <desc lang="es">En encuentros grupales diarios, un equipo de profesionales hará que sus pacientes enfrenten sus miedos, sus angustias y deseos, siendo el eje de sus propios dramas y, a veces, el reflejo o la multiplicación de los traumas del otro.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiempos-compulsivos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006093000 +0200" stop="20241006110000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241006110000 +0200" stop="20241006120000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006120000 +0200" stop="20241006130000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Para vestir santos</title>
+    <desc lang="es">Susi, Virgi y Male, que están todas solteras, comprobarán que la muerte de su madre no implica liberación alguna. Son tres mujeres inteligentes, hermosas, jóvenes, pero que no pueden formar pareja. Sólo se tienen unas a las otras.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_para-vestir-santos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006130000 +0200" stop="20241006140000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Socias</title>
+    <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
+    <category lang="es">Miniserie</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006140000 +0200" stop="20241006150000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241006150000 +0200" stop="20241006160000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Solamente vos</title>
+    <desc lang="es">Juan Cousteau lleva una vida que podríamos definir como apacible: está casado, tiene cinco hijos. Pero su mundo entra en crisis cuando su esposa Ingrid, La Polaca, le pide un tiempo para reencontrarse consigo misma y descubrir quién es.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006160000 +0200" stop="20241006170000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Plan TV</title>
+    <desc lang="es">Un ciclo dedicado a resaltar momentos desopilantes de la televisión.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plan-tv_l_l.jpg"/>
+  </programme>
+  <programme start="20241006170000 +0200" stop="20241006184500 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El fútbol o yo</title>
+    <desc lang="es">Pedro Pintos, un fanático del fútbol, sin distinción de club, camiseta, bandera ni nacionalidad, ve amenazado su matrimonio con Verónica cuando su adicción a la pelota comienza a ocupar el lugar de sus afectos.</desc>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-futbol-o-yo-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20241006184500 +0200" stop="20241006204500 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Almorzando con Juana</title>
+    <desc lang="es">Juana Viale y los mejores invitados de la política, cultura, deporte y el espectáculo nacional.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_almorzando-con-juana_l_l.jpg"/>
+  </programme>
+  <programme start="20241006204500 +0200" stop="20241006223000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241006223000 +0200" stop="20241007000000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Los 8 escalones - Especial: 25 millones de pesos</title>
+    <desc lang="es">Se inicia un torneo especial en Los 8 Escalones, en donde los participantes podrán clasificar a una gran final y así concursar por un premio de 25 millones de pesos.</desc>
+    <category lang="es">- Emisión del día viernes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20241007000000 +0200" stop="20241007010000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241007010000 +0200" stop="20241007020000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241007020000 +0200" stop="20241007030000 +0200" channel="ARG | El Trece HD">
+    <title lang="es">Socias</title>
+    <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
+    <category lang="es">Miniserie</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005050000 +0200" stop="20241005054500 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">En síntesis</title>
+    <desc lang="es">La información de último momento y lo que pasó durante la noche se complementa con tres resúmenes de noticias: una síntesis con los temas nacionales, una internacional y otra de deportes.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_en-sintesis_l_l.jpg"/>
+  </programme>
+  <programme start="20241005054500 +0200" stop="20241005060000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cucinare_l_l.jpg"/>
+  </programme>
+  <programme start="20241005060000 +0200" stop="20241005070000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005070000 +0200" stop="20241005083000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El gato desaparece</title>
+    <desc lang="es">Luego de la salida de Luis del hospital psiquiátrico, su esposa Beatriz experimenta sentimientos encontrados, ya que extraños acontecimientos comienzan a suceder en su hogar, y ella desconfía cada vez más de él.</desc>
+    <date>2011</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-gato-desaparece-2011_l_l.jpg"/>
+  </programme>
+  <programme start="20241005083000 +0200" stop="20241005093000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Tiempos compulsivos</title>
+    <desc lang="es">En encuentros grupales diarios, un equipo de profesionales hará que sus pacientes enfrenten sus miedos, sus angustias y deseos, siendo el eje de sus propios dramas y, a veces, el reflejo o la multiplicación de los traumas del otro.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiempos-compulsivos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005093000 +0200" stop="20241005110000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241005110000 +0200" stop="20241005120000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241005120000 +0200" stop="20241005130000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Para vestir santos</title>
+    <desc lang="es">Susi, Virgi y Male, que están todas solteras, comprobarán que la muerte de su madre no implica liberación alguna. Son tres mujeres inteligentes, hermosas, jóvenes, pero que no pueden formar pareja. Sólo se tienen unas a las otras.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_para-vestir-santos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005130000 +0200" stop="20241005140000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Socias</title>
+    <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
+    <category lang="es">Miniserie</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
+  </programme>
+  <programme start="20241005140000 +0200" stop="20241005150000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241005150000 +0200" stop="20241005160000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Solamente vos</title>
+    <desc lang="es">Juan Cousteau lleva una vida que podríamos definir como apacible: está casado, tiene cinco hijos. Pero su mundo entra en crisis cuando su esposa Ingrid, La Polaca, le pide un tiempo para reencontrarse consigo misma y descubrir quién es.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005160000 +0200" stop="20241005170000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Plan TV</title>
+    <desc lang="es">Un ciclo dedicado a resaltar momentos desopilantes de la televisión.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plan-tv_l_l.jpg"/>
+  </programme>
+  <programme start="20241005170000 +0200" stop="20241005183000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El gato desaparece</title>
+    <desc lang="es">Luego de la salida de Luis del hospital psiquiátrico, su esposa Beatriz experimenta sentimientos encontrados, ya que extraños acontecimientos comienzan a suceder en su hogar, y ella desconfía cada vez más de él.</desc>
+    <date>2011</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-gato-desaparece-2011_l_l.jpg"/>
+  </programme>
+  <programme start="20241005183000 +0200" stop="20241005193000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Tiempos compulsivos</title>
+    <desc lang="es">En encuentros grupales diarios, un equipo de profesionales hará que sus pacientes enfrenten sus miedos, sus angustias y deseos, siendo el eje de sus propios dramas y, a veces, el reflejo o la multiplicación de los traumas del otro.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiempos-compulsivos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005193000 +0200" stop="20241005203000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Hacelo feliz</title>
+    <desc lang="es">En cada duelo los competidores deberán impresionar con su performance a un jurado incógnito que estará oculto dentro de un gran diamante ubicado en el centro del estudio.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hacelo-feliz_l_l.jpg"/>
+  </programme>
+  <programme start="20241005203000 +0200" stop="20241005210000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Los musicales de Solamente vos</title>
+    <desc lang="es">La relación de Juan y Aurora tiene características artísticas: le cantaron al amor, a la familia y a la soledad. En esta oportunidad, se podrán revivir estos inolvidables momentos que ambos compartieron con reconocidos músicos y cantantes</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-musicales-de-solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241005210000 +0200" stop="20241005223000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241005223000 +0200" stop="20241006000000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Los 8 escalones - Especial: 25 millones de pesos</title>
+    <desc lang="es">Se inicia un torneo especial en Los 8 Escalones, en donde los participantes podrán clasificar a una gran final y así concursar por un premio de 25 millones de pesos.</desc>
+    <category lang="es">- Emisión del día viernes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20241006000000 +0200" stop="20241006010000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006010000 +0200" stop="20241006020000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241006020000 +0200" stop="20241006023000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Los musicales de Solamente vos</title>
+    <desc lang="es">La relación de Juan y Aurora tiene características artísticas: le cantaron al amor, a la familia y a la soledad. En esta oportunidad, se podrán revivir estos inolvidables momentos que ambos compartieron con reconocidos músicos y cantantes</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-musicales-de-solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006023000 +0200" stop="20241006041500 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">La noche de Mirtha</title>
+    <desc lang="es">La Chiqui encabezará las mesas con las figuras y los invitados más representativos, importantes y destacados de la cultura, política, espectáculos y el deporte.</desc>
+    <category lang="es">Entrevista</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-noche-de-mirtha_l_l.jpg"/>
+  </programme>
+  <programme start="20241006041500 +0200" stop="20241006050000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Resto del mundo</title>
+    <desc lang="es">Fede Bal nos invita a recorrer distintos lugares del mundo y conocer diversas culturas y tradiciones. Los destinos de esta temporada serán República Checa, Alemania, Estados Unidos, Países Bajos, Francia y Japón.</desc>
+    <category lang="es">Turismo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_resto-del-mundo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006050000 +0200" stop="20241006051500 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Clips programación</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_clips-programacion_l_l.jpg"/>
+  </programme>
+  <programme start="20241006051500 +0200" stop="20241006054500 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Cucinare</title>
+    <desc lang="es">Si no sabés qué cocinarle a los chicos para que coman sin esfuerzo. Si te gustaría preparar los postres más deliciosos, pero no tenés idea de cómo arrancar, Cucinare es para vos.</desc>
+    <category lang="es">Cocina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cucinare_l_l.jpg"/>
+  </programme>
+  <programme start="20241006054500 +0200" stop="20241006060000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_fin-de-transmision_l_l.jpg"/>
+  </programme>
+  <programme start="20241006060000 +0200" stop="20241006070000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006070000 +0200" stop="20241006083000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El fútbol o yo</title>
+    <desc lang="es">Pedro Pintos, un fanático del fútbol, sin distinción de club, camiseta, bandera ni nacionalidad, ve amenazado su matrimonio con Verónica cuando su adicción a la pelota comienza a ocupar el lugar de sus afectos.</desc>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-futbol-o-yo-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20241006083000 +0200" stop="20241006093000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Tiempos compulsivos</title>
+    <desc lang="es">En encuentros grupales diarios, un equipo de profesionales hará que sus pacientes enfrenten sus miedos, sus angustias y deseos, siendo el eje de sus propios dramas y, a veces, el reflejo o la multiplicación de los traumas del otro.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tiempos-compulsivos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006093000 +0200" stop="20241006110000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241006110000 +0200" stop="20241006120000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241006120000 +0200" stop="20241006130000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Para vestir santos</title>
+    <desc lang="es">Susi, Virgi y Male, que están todas solteras, comprobarán que la muerte de su madre no implica liberación alguna. Son tres mujeres inteligentes, hermosas, jóvenes, pero que no pueden formar pareja. Sólo se tienen unas a las otras.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_para-vestir-santos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006130000 +0200" stop="20241006140000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Socias</title>
+    <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
+    <category lang="es">Miniserie</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
+  </programme>
+  <programme start="20241006140000 +0200" stop="20241006150000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241006150000 +0200" stop="20241006160000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Solamente vos</title>
+    <desc lang="es">Juan Cousteau lleva una vida que podríamos definir como apacible: está casado, tiene cinco hijos. Pero su mundo entra en crisis cuando su esposa Ingrid, La Polaca, le pide un tiempo para reencontrarse consigo misma y descubrir quién es.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_solamente-vos_l_l.jpg"/>
+  </programme>
+  <programme start="20241006160000 +0200" stop="20241006170000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Plan TV</title>
+    <desc lang="es">Un ciclo dedicado a resaltar momentos desopilantes de la televisión.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_plan-tv_l_l.jpg"/>
+  </programme>
+  <programme start="20241006170000 +0200" stop="20241006184500 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El fútbol o yo</title>
+    <desc lang="es">Pedro Pintos, un fanático del fútbol, sin distinción de club, camiseta, bandera ni nacionalidad, ve amenazado su matrimonio con Verónica cuando su adicción a la pelota comienza a ocupar el lugar de sus afectos.</desc>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-futbol-o-yo-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20241006184500 +0200" stop="20241006204500 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Almorzando con Juana</title>
+    <desc lang="es">Juana Viale y los mejores invitados de la política, cultura, deporte y el espectáculo nacional.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_almorzando-con-juana_l_l.jpg"/>
+  </programme>
+  <programme start="20241006204500 +0200" stop="20241006223000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Me gusta tu canción</title>
+    <desc lang="es">Programa de entretenimiento con los mejores participantes que te harán emocionar a través de sus canciones.</desc>
+    <category lang="es">Entretenimientos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_me-gusta-tu-cancion_l_l.jpg"/>
+  </programme>
+  <programme start="20241006223000 +0200" stop="20241007000000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Los 8 escalones - Especial: 25 millones de pesos</title>
+    <desc lang="es">Se inicia un torneo especial en Los 8 Escalones, en donde los participantes podrán clasificar a una gran final y así concursar por un premio de 25 millones de pesos.</desc>
+    <category lang="es">- Emisión del día viernes</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20241007000000 +0200" stop="20241007010000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Lobo</title>
+    <desc lang="es">En Lucas nace el mito del Lobisón. 7mo hijo varón, con un destino que desconoce: una vez cumplidos sus 30 años, durante las noches de luna llena, se transformará en hombre lobo y llevará adelante el peor de los crímenes: matar a su padre.</desc>
+    <category lang="es">Telenovela</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lobo_l_l.jpg"/>
+  </programme>
+  <programme start="20241007010000 +0200" stop="20241007020000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">El Tigre Verón</title>
+    <desc lang="es">Miguel "El Tigre" Verón es un experimentado sindicalista, al frente de la UTCA, un gremio fuerte que ha consolidado su personería gracias a la capacidad de negociación de su líder. Pero lo suyo no es el diálogo ni la conciliación.</desc>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-tigre-veron_l_l.jpg"/>
+  </programme>
+  <programme start="20241007020000 +0200" stop="20241007030000 +0200" channel="ARG | El Trece Internacional HD">
+    <title lang="es">Socias</title>
+    <desc lang="es">Cuenta la historia de tres mujeres, amigas y abogadas, que son socias en un buffet jurídico, donde presentan diversos casos que terminan siendo un espejo de los conflictos que cada una de ellas vive en su propia realidad.</desc>
+    <category lang="es">Miniserie</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_socias_l_l.jpg"/>
   </programme>
 </tv>
