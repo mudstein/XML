@@ -4,342 +4,6 @@
     <display-name lang="es">ARG | A 24</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_america-24_m.png"/>
   </channel>
-  <channel id="ARG | America TV">
-    <display-name lang="es">ARG | America TV</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
-  </channel>
-  <channel id="ARG | America TV HD">
-    <display-name lang="es">ARG | America TV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
-  </channel>
-  <channel id="ARG | C5N HD">
-    <display-name lang="es">ARG | C5N HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_c5n_m.png"/>
-  </channel>
-  <channel id="ARG | Canal 26 HD">
-    <display-name lang="es">ARG | Canal 26 HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png"/>
-  </channel>
-  <channel id="ARG | Canal 9">
-    <display-name lang="es">ARG | Canal 9</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"/>
-  </channel>
-  <channel id="ARG | Cronica HD">
-    <display-name lang="es">ARG | Cronica HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_cronica_m.png"/>
-  </channel>
-  <channel id="ARG | El Trece HD">
-    <display-name lang="es">ARG | El Trece HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
-  </channel>
-  <channel id="ARG | El Trece Internacional HD">
-    <display-name lang="es">ARG | El Trece Internacional HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
-  </channel>
-  <channel id="ARG | ESPN Premium">
-    <display-name lang="es">ARG | ESPN Premium</display-name>
-    <icon src="https://www.telered.com.ar/img/logos_ch/ESPN_PREMIUM.png"/>
-  </channel>
-  <channel id="ARG | LN ( La Nacion+ )">
-    <display-name lang="es">ARG | LN ( La Nacion+ )</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png"/>
-  </channel>
-  <channel id="ARG | Argentinisima HD">
-    <display-name lang="es">ARG | Argentinisima HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png"/>
-  </channel>
-  <channel id="ARG | Telefe Internacional HD OPC. 1">
-    <display-name lang="es">ARG | Telefe Internacional HD OPC. 1</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png"/>
-  </channel>
-  <channel id="ARG | Telefe HD (1)">
-    <display-name lang="es">ARG | Telefe HD (1)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"/>
-  </channel>
-  <channel id="ARG | Telefe HD (2)">
-    <display-name lang="es">ARG | Telefe HD (2)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"/>
-  </channel>
-  <channel id="ARG | TN Todo noticias">
-    <display-name lang="es">ARG | TN Todo noticias</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tn_m.png"/>
-  </channel>
-  <channel id="ARG | TNT Sports HD (1)">
-    <display-name lang="es">ARG | TNT Sports HD (1)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tnt-sports_m.png"/>
-  </channel>
-  <channel id="ARG | TNT Sports HD (2)">
-    <display-name lang="es">ARG | TNT Sports HD (2)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tnt-sports_m.png"/>
-  </channel>
-  <channel id="ARG | TV Publica">
-    <display-name lang="es">ARG | TV Publica</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png"/>
-  </channel>
-  <channel id="ARG | TyC Sports HD (1)">
-    <display-name lang="es">ARG | TyC Sports HD (1)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png"/>
-  </channel>
-  <channel id="ARG | TyC Sports HD (2)">
-    <display-name lang="es">ARG | TyC Sports HD (2)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png"/>
-  </channel>
-  <channel id="ARG | TYC Sports Internacional HD">
-    <display-name lang="es">ARG | TYC Sports Internacional HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png"/>
-  </channel>
-  <channel id="ARG | DeporTV HD">
-    <display-name lang="es">ARG | DeporTV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png"/>
-  </channel>
-  <channel id="ARG | Garage TV SD">
-    <display-name lang="es">ARG | Garage TV SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png"/>
-  </channel>
-  <channel id="ARG | Ciudad Magazine TV HD">
-    <display-name lang="es">ARG | Ciudad Magazine TV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_magazine_m.png"/>
-  </channel>
-  <channel id="ARG | Cine Argentina HD">
-    <display-name lang="es">ARG | Cine Argentina HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png"/>
-  </channel>
-  <channel id="ARG | Volver TV SD">
-    <display-name lang="es">ARG | Volver TV SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_volver_m.png"/>
-  </channel>
-  <channel id="ARG | Canal 9 Multivision HD Salta">
-    <display-name lang="es">ARG | Canal 9 Multivision HD Salta</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"/>
-  </channel>
-  <channel id="ARG | Canal Rural SD">
-    <display-name lang="es">ARG | Canal Rural SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png"/>
-  </channel>
-  <channel id="ARG | TD TV SD">
-    <display-name lang="es">ARG | TD TV SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tn_m.png"/>
-  </channel>
-  <channel id="ARG | TEC TV HD">
-    <display-name lang="es">ARG | TEC TV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"/>
-  </channel>
-  <channel id="ARG | Canal U SD">
-    <display-name lang="es">ARG | Canal U SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png"/>
-  </channel>
-  <channel id="ARG | NET TV HD">
-    <display-name lang="es">ARG | NET TV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png"/>
-  </channel>
-  <channel id="ARG | PAKA PAKA">
-    <display-name lang="es">ARG | PAKA PAKA</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_pakapaka_m.png"/>
-  </channel>
-  <channel id="ARG | Canal 7 TV HD Catamarca">
-    <display-name lang="es">ARG | Canal 7 TV HD Catamarca</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png"/>
-  </channel>
-  <channel id="ARG | QMusica TV HD">
-    <display-name lang="es">ARG | QMusica TV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_quiero_m.png"/>
-  </channel>
-  <channel id="ARG | Telefe Internacional HD OPC. 2">
-    <display-name lang="es">ARG | Telefe Internacional HD OPC. 2</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png"/>
-  </channel>
-  <channel id="CHILE | 13C">
-    <display-name lang="es">CHILE | 13C</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png"/>
-  </channel>
-  <channel id="Chile | Canal 13 FHD">
-    <display-name lang="es">Chile | Canal 13 FHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
-  </channel>
-  <channel id="CHILE | Canal 13 HD">
-    <display-name lang="es">CHILE | Canal 13 HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
-  </channel>
-  <channel id="CHILE | Canal 13 (E)">
-    <display-name lang="es">CHILE | Canal 13 (E)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
-  </channel>
-  <channel id="CHILE | CDO Basico">
-    <display-name lang="es">CHILE | CDO Basico</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png"/>
-  </channel>
-  <channel id="CHILE | CDO Premium">
-    <display-name lang="es">CHILE | CDO Premium</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png"/>
-  </channel>
-  <channel id="CHILE | CDO Premium HD">
-    <display-name lang="es">CHILE | CDO Premium HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png"/>
-  </channel>
-  <channel id="CHILE | CHV HD Opc 2">
-    <display-name lang="es">CHILE | CHV HD Opc 2</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
-  </channel>
-  <channel id="CHILE | CHV HD">
-    <display-name lang="es">CHILE | CHV HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
-  </channel>
-  <channel id="CHILE | ETC">
-    <display-name lang="es">CHILE | ETC</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_etc-tv_m.png"/>
-  </channel>
-  <channel id="CHILE | Fox Sports 1 UHD">
-    <display-name lang="es">CHILE | Fox Sports 1 UHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png"/>
-  </channel>
-  <channel id="CHILE | La Red HD">
-    <display-name lang="es">CHILE | La Red HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_la-red_m.png"/>
-  </channel>
-  <channel id="CHILE | Mega FHD">
-    <display-name lang="es">CHILE | Mega FHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
-  </channel>
-  <channel id="CHILE | Mega HD">
-    <display-name lang="es">CHILE | Mega HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
-  </channel>
-  <channel id="CHILE | Mega SD">
-    <display-name lang="es">CHILE | Mega SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
-  </channel>
-  <channel id="CHILE | TNT SPORTS">
-    <display-name lang="es">CHILE | TNT SPORTS</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png"/>
-  </channel>
-  <channel id="CHILE | TNT SPORTS PREMIUM">
-    <display-name lang="es">CHILE | TNT SPORTS PREMIUM</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
-  </channel>
-  <channel id="CHILE | TNT SPORTS PREMIUM HD">
-    <display-name lang="es">CHILE | TNT SPORTS PREMIUM HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
-  </channel>
-  <channel id="CHILE | TNT Sports FHD">
-    <display-name lang="es">CHILE | TNT Sports FHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
-  </channel>
-  <channel id="Chile | TV Chile">
-    <display-name lang="es">Chile | TV Chile</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png"/>
-  </channel>
-  <channel id="CHILE | TV+">
-    <display-name lang="es">CHILE | TV+</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_m.png"/>
-  </channel>
-  <channel id="CHILE | TVN">
-    <display-name lang="es">CHILE | TVN</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
-  </channel>
-  <channel id="Chile | TVN UHD">
-    <display-name lang="es">Chile | TVN UHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
-  </channel>
-  <channel id="CHILE | CHV HD Opc 3">
-    <display-name lang="es">CHILE | CHV HD Opc 3</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
-  </channel>
-  <channel id="CHILE | Zona Latina TV SD">
-    <display-name lang="es">CHILE | Zona Latina TV SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_zona-latina_m.png"/>
-  </channel>
-  <channel id="CHILE | Rec TV SD">
-    <display-name lang="es">CHILE | Rec TV SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_rec-tv_m.png"/>
-  </channel>
-  <channel id="CHILE | Canal 24 Horas SD">
-    <display-name lang="es">CHILE | Canal 24 Horas SD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png"/>
-  </channel>
-  <channel id="CHILE | Via X TV">
-    <display-name lang="es">CHILE | Via X TV</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_via-x_m.png"/>
-  </channel>
-  <channel id="Cine | A&amp;E">
-    <display-name lang="es">Cine  | A&amp;E</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png"/>
-  </channel>
-  <channel id="Cine | Paramount Channel HD">
-    <display-name lang="es">Cine | Paramount Channel HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png"/>
-  </channel>
-  <channel id="Cine | AMC UHD">
-    <display-name lang="es">Cine | AMC UHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_amc_m.png"/>
-  </channel>
-  <channel id="Cine | AZ Cinema">
-    <display-name lang="es">Cine | AZ Cinema</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png"/>
-  </channel>
-  <channel id="Cine | Cine Latino HD">
-    <display-name lang="es">Cine | Cine Latino HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_cine-latino_m.png"/>
-  </channel>
-  <channel id="Cine | Cinecanal HD">
-    <display-name lang="es">Cine | Cinecanal HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png"/>
-  </channel>
-  <channel id="Cine | Cinemax HD (Lat)">
-    <display-name lang="es">Cine | Cinemax HD (Lat)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png"/>
-  </channel>
-  <channel id="Cine | Cinemax HD (MX)">
-    <display-name lang="es">Cine | Cinemax HD (MX)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png"/>
-  </channel>
-  <channel id="Cine | De Pelicula UHD">
-    <display-name lang="es">Cine | De Pelicula UHD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png"/>
-  </channel>
-  <channel id="Cine | FX HD">
-    <display-name lang="es">Cine | FX HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_fx_m.png"/>
-  </channel>
-  <channel id="Cine | Golden Plus HD">
-    <display-name lang="es">Cine | Golden Plus HD</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus.png"/>
-  </channel>
-  <channel id="Cine | Golden Edge HD">
-    <display-name lang="es">Cine | Golden Edge HD</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge.png"/>
-  </channel>
-  <channel id="CINE | HBO (Lat) HD">
-    <display-name lang="es">CINE | HBO (Lat) HD</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png"/>
-  </channel>
-  <channel id="CINE | HBO (MX) HD">
-    <display-name lang="es">CINE | HBO (MX) HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png"/>
-  </channel>
-  <channel id="CINE | HBO 2 HD">
-    <display-name lang="es">CINE | HBO 2 HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
-  </channel>
-  <channel id="CINE | HBO Family HD">
-    <display-name lang="es">CINE | HBO Family HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png"/>
-  </channel>
-  <channel id="CINE | HBO Plus HD">
-    <display-name lang="es">CINE | HBO Plus HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png"/>
-  </channel>
-  <channel id="CINE | HBO Pop HD">
-    <display-name lang="es">CINE | HBO Pop HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_max-up_m.png"/>
-  </channel>
-  <channel id="CINE | HBO Signature HD">
-    <display-name lang="es">CINE | HBO Signature HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png"/>
-  </channel>
-  <channel id="CINE | HBO Xtreme HD">
-    <display-name lang="es">CINE | HBO Xtreme HD</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png"/>
-  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | A 24">
     <title lang="es">Resumen A24</title>
     <desc lang="es">Un resumen informativo informal para repasar los hechos más destacados del día, que busca mantenerte en todo momento enterado de los acontecimientos en un clima distendido.</desc>
@@ -514,6 +178,10 @@
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | America TV">
+    <display-name lang="es">ARG | America TV</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
+  </channel>
   <programme start="20241009043000 +0200" stop="20241009053000 +0200" channel="ARG | America TV">
     <title lang="es">Pasó en América</title>
     <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
@@ -616,6 +284,10 @@
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | America TV HD">
+    <display-name lang="es">ARG | America TV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
+  </channel>
   <programme start="20241009043000 +0200" stop="20241009053000 +0200" channel="ARG | America TV HD">
     <title lang="es">Pasó en América</title>
     <desc lang="es">Un resumen de lo que se vio en el día. Lo más impactante, los momentos imperdibles, los temas de los que todos hablan y lo más divertido del día lo volvemos a ver en Pasó en América.</desc>
@@ -718,6 +390,10 @@
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | C5N HD">
+    <display-name lang="es">ARG | C5N HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_c5n_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009053000 +0200" channel="ARG | C5N HD">
     <title lang="es">Música para ver</title>
     <desc lang="es">Edición en la que podrás disfrutar de lo mejor del pentagrama internacional con los éxitos del momento de tus artistas favoritos en géneros como salsa, merengue, rock, pop, jazz y electrónica.</desc>
@@ -886,6 +562,10 @@
     <category lang="es">Interés general</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_duro-de-domar_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Canal 26 HD">
+    <display-name lang="es">ARG | Canal 26 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_26-tv_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009080000 +0200" channel="ARG | Canal 26 HD">
     <title lang="es">Trasnoche 26</title>
     <desc lang="es">Un espacio que transmite las noticias más relevantes y todo tipo de información.</desc>
@@ -1009,6 +689,10 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Canal 9">
+    <display-name lang="es">ARG | Canal 9</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009053000 +0200" channel="ARG | Canal 9">
     <title lang="es">Lo mejor del 9</title>
     <desc lang="es">Si querés saber lo más destacado de cada jornada, no te pierdas este resumen con lo mejor de El Nueve.</desc>
@@ -1229,6 +913,10 @@
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Cronica HD">
+    <display-name lang="es">ARG | Cronica HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_cronica_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009051500 +0200" channel="ARG | Cronica HD">
     <title lang="es">El tasador</title>
     <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
@@ -1427,6 +1115,10 @@
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_solo-periodismo_l_l.jpg"/>
   </programme>
+  <channel id="ARG | El Trece HD">
+    <display-name lang="es">ARG | El Trece HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
+  </channel>
   <programme start="20241009041500 +0200" stop="20241009053000 +0200" channel="ARG | El Trece HD">
     <title lang="es">Por amor o por dinero</title>
     <desc lang="es">Un reality que pone a prueba el amor, la confianza y la relación con el dinero de diez parejas argentinas. Cada una de las diez parejas participantes recibe 50 millones de pesos y tendrán que decidir si gastarlos o no.</desc>
@@ -1559,6 +1251,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | El Trece Internacional HD">
+    <display-name lang="es">ARG | El Trece Internacional HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_el-trece-internacional_m.png"/>
+  </channel>
   <programme start="20241009041500 +0200" stop="20241009053000 +0200" channel="ARG | El Trece Internacional HD">
     <title lang="es">Por amor o por dinero</title>
     <desc lang="es">Un reality que pone a prueba el amor, la confianza y la relación con el dinero de diez parejas argentinas. Cada una de las diez parejas participantes recibe 50 millones de pesos y tendrán que decidir si gastarlos o no.</desc>
@@ -1691,6 +1387,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | ESPN Premium">
+    <display-name lang="es">ARG | ESPN Premium</display-name>
+    <icon src="https://www.telered.com.ar/img/logos_ch/ESPN_PREMIUM.png"/>
+  </channel>
   <programme start="20241009010000 -0300" stop="20241009030000 -0300" channel="ARG | ESPN Premium">
     <title lang="es">Independiente vs. Dep. Riestra, Fecha 17, Estadio Lib. de América - Ricardo E. Bochini - Liga Profesional 2024</title>
   </programme>
@@ -1763,6 +1463,10 @@
   <programme start="20241010230000 -0300" stop="20241011010000 -0300" channel="ARG | ESPN Premium">
     <title lang="es">Boca Jrs. vs. Argentinos Jrs., Fecha 17, Estadio Alberto J. Armando - Liga Profesional 2024</title>
   </programme>
+  <channel id="ARG | LN ( La Nacion+ )">
+    <display-name lang="es">ARG | LN ( La Nacion+ )</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009070000 +0200" channel="ARG | LN ( La Nacion+ )">
     <title lang="es">El noticiero de LN+</title>
     <desc lang="es">Un gran equipo de periodistas analiza la actualidad e informa con calidad y profesionalismo.</desc>
@@ -1919,6 +1623,10 @@
     <category lang="es">Político</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Argentinisima HD">
+    <display-name lang="es">ARG | Argentinisima HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009080000 +0200" channel="ARG | Argentinisima HD">
     <title lang="es">Argentinisima satelital</title>
     <category lang="es">Variedades</category>
@@ -1994,6 +1702,10 @@
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_argentinisima-satelital_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Telefe Internacional HD OPC. 1">
+    <display-name lang="es">ARG | Telefe Internacional HD OPC. 1</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png"/>
+  </channel>
   <programme start="20241009034500 +0200" stop="20241009054500 +0200" channel="ARG | Telefe Internacional HD OPC. 1">
     <title lang="es">Susana Giménez</title>
     <desc lang="es">El clásico ciclo lleno de novedades, sorpresas e invitados. En cada programa, Susana Giménez brindará la posibilidad de ganar 200 millones de pesos, 100 millones mediante el llamado telefónico y otros 100 en el juego Salven los Millones.</desc>
@@ -2144,6 +1856,10 @@
     <category lang="es">Gravedad Zero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_d-extremos-gravedad-zero_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Telefe HD (1)">
+    <display-name lang="es">ARG | Telefe HD (1)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"/>
+  </channel>
   <programme start="20241009044500 +0200" stop="20241009054500 +0200" channel="ARG | Telefe HD (1)">
     <title lang="es">Survivor, Expedición Robinson</title>
     <desc lang="es">Un grupo de 25 participantes deberá sobrevivir en aislamiento total, enfrentándose a una gran cantidad de peligros en un lugar paradisíaco: el Tapón del Darién, uno de los puntos más inaccesibles del mundo.</desc>
@@ -2251,6 +1967,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Telefe HD (2)">
+    <display-name lang="es">ARG | Telefe HD (2)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"/>
+  </channel>
   <programme start="20241009044500 +0200" stop="20241009054500 +0200" channel="ARG | Telefe HD (2)">
     <title lang="es">Survivor, Expedición Robinson</title>
     <desc lang="es">Un grupo de 25 participantes deberá sobrevivir en aislamiento total, enfrentándose a una gran cantidad de peligros en un lugar paradisíaco: el Tapón del Darién, uno de los puntos más inaccesibles del mundo.</desc>
@@ -2358,6 +2078,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TN Todo noticias">
+    <display-name lang="es">ARG | TN Todo noticias</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tn_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009060000 +0200" channel="ARG | TN Todo noticias">
     <title lang="es">TN de noche</title>
     <desc lang="es">En su emisión estelar, el noticiero te mostrará lo más impactante y relevante sobre los diferentes aspectos del acontecer nacional e internacional.</desc>
@@ -2429,6 +2153,10 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tn-de-noche_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TNT Sports HD (1)">
+    <display-name lang="es">ARG | TNT Sports HD (1)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tnt-sports_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009060000 +0200" channel="ARG | TNT Sports HD (1)">
     <title lang="es">TNT Sports en CNN Radio</title>
     <desc lang="es">Pablo Giralt y equipo nos acompañan para cerrar la jornada actualizados sobre las noticias del día y con anticipos de lo que se hablará. Información, debates y más.</desc>
@@ -2514,6 +2242,10 @@
     <category lang="es">TNT Sports en CNN Radio</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TNT Sports HD (2)">
+    <display-name lang="es">ARG | TNT Sports HD (2)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tnt-sports_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009060000 +0200" channel="ARG | TNT Sports HD (2)">
     <title lang="es">TNT Sports en CNN Radio</title>
     <desc lang="es">Pablo Giralt y equipo nos acompañan para cerrar la jornada actualizados sobre las noticias del día y con anticipos de lo que se hablará. Información, debates y más.</desc>
@@ -2599,6 +2331,10 @@
     <category lang="es">TNT Sports en CNN Radio</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TV Publica">
+    <display-name lang="es">ARG | TV Publica</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009113000 +0200" channel="ARG | TV Publica">
     <title lang="es">Fin de transmisión</title>
     <desc lang="es">Fin de transmisión.</desc>
@@ -2814,6 +2550,10 @@
     <category lang="es">Cultural</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TyC Sports HD (1)">
+    <display-name lang="es">ARG | TyC Sports HD (1)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | TyC Sports HD (1)">
     <title lang="es">Sportia</title>
     <desc lang="es">Pablo González conduce este espacio completo de noticias que inicia la jornada con toda la información deportiva y la actualidad del fútbol argentino: móviles, notas, resultados, goles y testimonios de los deportistas del momento.</desc>
@@ -3043,6 +2783,10 @@
     <category lang="es">Fecha 9</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TyC Sports HD (2)">
+    <display-name lang="es">ARG | TyC Sports HD (2)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | TyC Sports HD (2)">
     <title lang="es">Sportia</title>
     <desc lang="es">Pablo González conduce este espacio completo de noticias que inicia la jornada con toda la información deportiva y la actualidad del fútbol argentino: móviles, notas, resultados, goles y testimonios de los deportistas del momento.</desc>
@@ -3272,6 +3016,10 @@
     <category lang="es">Fecha 9</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TYC Sports Internacional HD">
+    <display-name lang="es">ARG | TYC Sports Internacional HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tyc-sports_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | TYC Sports Internacional HD">
     <title lang="es">Sportia</title>
     <desc lang="es">Pablo González conduce este espacio completo de noticias que inicia la jornada con toda la información deportiva y la actualidad del fútbol argentino: móviles, notas, resultados, goles y testimonios de los deportistas del momento.</desc>
@@ -3501,6 +3249,10 @@
     <category lang="es">Fecha 9</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="ARG | DeporTV HD">
+    <display-name lang="es">ARG | DeporTV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | DeporTV HD">
     <title lang="es">DeporTV Central</title>
     <desc lang="es">El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
@@ -3850,6 +3602,10 @@
     <category lang="es">Torneo Metropolitano de Handball</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_handball-torneo-metropolitano-de-handball_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Garage TV SD">
+    <display-name lang="es">ARG | Garage TV SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009053000 +0200" channel="ARG | Garage TV SD">
     <title lang="es">Mr. Gasket Garage</title>
     <desc lang="es">Nico Orqueda y su equipo recorren el mundo Hot Rod en busca de los mejores talleres, proyectos y encuentros. Un espacio dedicado a los fierreros de sangre, en el que vas a aprender y conocer el estilo desde adentro.</desc>
@@ -4372,6 +4128,10 @@
     <category lang="es">Mr. Gasket Garage</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Ciudad Magazine TV HD">
+    <display-name lang="es">ARG | Ciudad Magazine TV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_magazine_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009053000 +0200" channel="ARG | Ciudad Magazine TV HD">
     <title lang="es">Medical Hair TV</title>
     <desc lang="es">Medical Hair es un infomercial sobre tratamientos capilares. En el mismo rotan en cada salida, las personas entrevistadas, quienes cuentan sus experiencias.</desc>
@@ -4734,6 +4494,10 @@
       <value>5.0/10</value>
     </star-rating>
   </programme>
+  <channel id="ARG | Cine Argentina HD">
+    <display-name lang="es">ARG | Cine Argentina HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009070000 +0200" channel="ARG | Cine Argentina HD">
     <title lang="es">Santa</title>
     <desc lang="es">Robinson, junto a su primo mayor José y su amiga Ornella, buscan desesperadamente a su hermana Santa, víctima de un cruel secuestro por una red de trata, en un pueblo alejado de la provincia de Buenos Aires.</desc>
@@ -4917,6 +4681,10 @@
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Volver TV SD">
+    <display-name lang="es">ARG | Volver TV SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_volver_m.png"/>
+  </channel>
   <programme start="20241009044500 +0200" stop="20241009063000 +0200" channel="ARG | Volver TV SD">
     <title lang="es">Che, muerte de una utopía</title>
     <desc lang="es">Con motivo del trigésimo aniversario de la muerte del Che Guevara, el cineasta Fernando Birri viajó, cámara en mano, por varios países tras las huellas de este legendario personaje.</desc>
@@ -5073,6 +4841,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
+  <channel id="ARG | Canal 9 Multivision HD Salta">
+    <display-name lang="es">ARG | Canal 9 Multivision HD Salta</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009053000 +0200" channel="ARG | Canal 9 Multivision HD Salta">
     <title lang="es">Lo mejor del 9</title>
     <desc lang="es">Si querés saber lo más destacado de cada jornada, no te pierdas este resumen con lo mejor de El Nueve.</desc>
@@ -5293,6 +5065,10 @@
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Canal Rural SD">
+    <display-name lang="es">ARG | Canal Rural SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | Canal Rural SD">
     <title lang="es">Canal Rural noticias</title>
     <desc lang="es">Los acontecimientos más importantes del sector agropecuario son reseñados en este espacio en el que el productor y el campesino podrán obtener la información que necesitan para su jornada.</desc>
@@ -5762,6 +5538,10 @@
     <category lang="es">Agro</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_salta-agropecuaria_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TD TV SD">
+    <display-name lang="es">ARG | TD TV SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tn_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009060000 +0200" channel="ARG | TD TV SD">
     <title lang="es">TN de noche</title>
     <desc lang="es">En su emisión estelar, el noticiero te mostrará lo más impactante y relevante sobre los diferentes aspectos del acontecer nacional e internacional.</desc>
@@ -5833,6 +5613,10 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_tn-de-noche_l_l.jpg"/>
   </programme>
+  <channel id="ARG | TEC TV HD">
+    <display-name lang="es">ARG | TEC TV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009090000 +0200" channel="ARG | TEC TV HD">
     <title lang="es">TecTV</title>
     <category lang="es">Variedades</category>
@@ -5888,6 +5672,10 @@
     <category lang="es">Variedades</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Canal U SD">
+    <display-name lang="es">ARG | Canal U SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009160000 +0200" channel="ARG | Canal U SD">
     <title lang="es">Audio radio universidad</title>
     <desc lang="es">Segmento que invita al espectador a repasar testimonios, datos de interés, curiosidades y audios para comprender y recordar lo que ocurrió en Argentina hace cuatro décadas.</desc>
@@ -6107,6 +5895,10 @@
     <category lang="es">Cultural</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_ciudad-u_l_l.jpg"/>
   </programme>
+  <channel id="ARG | NET TV HD">
+    <display-name lang="es">ARG | NET TV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | NET TV HD">
     <title lang="es">Mas caras</title>
     <category lang="es">Interés general</category>
@@ -6283,6 +6075,10 @@
     <category lang="es">Película</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | PAKA PAKA">
+    <display-name lang="es">ARG | PAKA PAKA</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_pakapaka_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009051500 +0200" channel="ARG | PAKA PAKA">
     <title lang="es">Tina y Tony</title>
     <desc lang="es">El pueblo Cookie es un hogar lleno de sueños coloridos y un mundo de aventuras, donde Tina y Tony viven con sus amigos increíbles.</desc>
@@ -7236,6 +7032,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">.6.</episode-num>
   </programme>
+  <channel id="ARG | Canal 7 TV HD Catamarca">
+    <display-name lang="es">ARG | Canal 7 TV HD Catamarca</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009113000 +0200" channel="ARG | Canal 7 TV HD Catamarca">
     <title lang="es">Fin de transmisión</title>
     <desc lang="es">Fin de transmisión.</desc>
@@ -7451,6 +7251,10 @@
     <category lang="es">Cultural</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="ARG | QMusica TV HD">
+    <display-name lang="es">ARG | QMusica TV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_quiero_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="ARG | QMusica TV HD">
     <title lang="es">Quiero clásicos</title>
     <desc lang="es">Disfrutarás de todos aquellos videos que vale la pena volver a ver. Las canciones que nunca pasan de moda serán las protagonistas de este espacio, un repaso por los temas musicales más exitosos de los últimos quince años.</desc>
@@ -7703,6 +7507,10 @@
     <category lang="es">- Intimo Rafaga / Agapornis</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
   </programme>
+  <channel id="ARG | Telefe Internacional HD OPC. 2">
+    <display-name lang="es">ARG | Telefe Internacional HD OPC. 2</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_telefe-internacional_m.png"/>
+  </channel>
   <programme start="20241009034500 +0200" stop="20241009054500 +0200" channel="ARG | Telefe Internacional HD OPC. 2">
     <title lang="es">Susana Giménez</title>
     <desc lang="es">El clásico ciclo lleno de novedades, sorpresas e invitados. En cada programa, Susana Giménez brindará la posibilidad de ganar 200 millones de pesos, 100 millones mediante el llamado telefónico y otros 100 en el juego Salven los Millones.</desc>
@@ -7853,6 +7661,10 @@
     <category lang="es">Gravedad Zero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_d-extremos-gravedad-zero_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | 13C">
+    <display-name lang="es">CHILE | 13C</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13-c_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009060000 +0200" channel="CHILE | 13C">
     <title lang="es">Sueños de Patagonia</title>
     <sub-title lang="es">Ruta de Sendero Laguna Altas</sub-title>
@@ -8196,6 +8008,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
+  <channel id="Chile | Canal 13 FHD">
+    <display-name lang="es">Chile | Canal 13 FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
+  </channel>
   <programme start="20241009033500 +0200" stop="20241009060000 +0200" channel="Chile | Canal 13 FHD">
     <title lang="es">Ganar o Servir</title>
     <desc lang="es">Famosos se enfrentan a desafíos para ver si serán señores con beneficios o quienes los atiendan.</desc>
@@ -8310,6 +8126,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | Canal 13 HD">
+    <display-name lang="es">CHILE | Canal 13 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
+  </channel>
   <programme start="20241009033500 +0200" stop="20241009060000 +0200" channel="CHILE | Canal 13 HD">
     <title lang="es">Ganar o Servir</title>
     <desc lang="es">Famosos se enfrentan a desafíos para ver si serán señores con beneficios o quienes los atiendan.</desc>
@@ -8424,6 +8244,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | Canal 13 (E)">
+    <display-name lang="es">CHILE | Canal 13 (E)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_canal-13_m.png"/>
+  </channel>
   <programme start="20241009033500 +0200" stop="20241009060000 +0200" channel="CHILE | Canal 13 (E)">
     <title lang="es">Ganar o Servir</title>
     <desc lang="es">Famosos se enfrentan a desafíos para ver si serán señores con beneficios o quienes los atiendan.</desc>
@@ -8538,6 +8362,10 @@
     <category lang="es">Reality Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | CDO Basico">
+    <display-name lang="es">CHILE | CDO Basico</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009053000 +0200" channel="CHILE | CDO Basico">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
@@ -8648,6 +8476,10 @@
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | CDO Premium">
+    <display-name lang="es">CHILE | CDO Premium</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009053000 +0200" channel="CHILE | CDO Premium">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
@@ -8758,6 +8590,10 @@
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | CDO Premium HD">
+    <display-name lang="es">CHILE | CDO Premium HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009053000 +0200" channel="CHILE | CDO Premium HD">
     <title lang="es">Hola deportes</title>
     <category lang="es">Hola deportes</category>
@@ -8868,6 +8704,10 @@
     <category lang="es">Hola deportes</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-hola-deportes_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | CHV HD Opc 2">
+    <display-name lang="es">CHILE | CHV HD Opc 2</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
+  </channel>
   <programme start="20241009034000 +0200" stop="20241009073000 +0200" channel="CHILE | CHV HD Opc 2">
     <title lang="es">Gran hermano</title>
     <desc lang="es">Un grupo de desconocidos conviven en una casa equipada con decenas de cámaras y micrófonos. Cada semana, los participantes nominan a sus compañeros y la audiencia, con sus votos, decide quién es expulsado de la casa.</desc>
@@ -8933,6 +8773,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.72.</episode-num>
   </programme>
+  <channel id="CHILE | CHV HD">
+    <display-name lang="es">CHILE | CHV HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
+  </channel>
   <programme start="20241009034000 +0200" stop="20241009073000 +0200" channel="CHILE | CHV HD">
     <title lang="es">Gran hermano</title>
     <desc lang="es">Un grupo de desconocidos conviven en una casa equipada con decenas de cámaras y micrófonos. Cada semana, los participantes nominan a sus compañeros y la audiencia, con sus votos, decide quién es expulsado de la casa.</desc>
@@ -8998,6 +8842,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.72.</episode-num>
   </programme>
+  <channel id="CHILE | ETC">
+    <display-name lang="es">CHILE | ETC</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_etc-tv_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009053500 +0200" channel="CHILE | ETC">
     <title lang="es">Rey chamán: Flores</title>
     <sub-title lang="es">Demonios, ataquen</sub-title>
@@ -9605,6 +9453,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.38.</episode-num>
   </programme>
+  <channel id="CHILE | Fox Sports 1 UHD">
+    <display-name lang="es">CHILE | Fox Sports 1 UHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009070000 +0200" channel="CHILE | Fox Sports 1 UHD">
     <title lang="es">Borussia Dortmund (Ale) vs. Celtic (Esc)</title>
     <sub-title lang="es">Fase de Liga, Signal Iduna Park</sub-title>
@@ -9774,6 +9626,10 @@
     <category lang="es">Fecha 2 - Fase de Liga, Estadio Montilivi</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | La Red HD">
+    <display-name lang="es">CHILE | La Red HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_la-red_m.png"/>
+  </channel>
   <programme start="20241009070000 +0200" stop="20241009110000 +0200" channel="CHILE | La Red HD">
     <title lang="es">Fin de transmisión</title>
     <desc lang="es">Fin de transmisión.</desc>
@@ -9897,6 +9753,10 @@
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_antena-3d_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | Mega FHD">
+    <display-name lang="es">CHILE | Mega FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
+  </channel>
   <programme start="20241009042000 +0200" stop="20241009051500 +0200" channel="CHILE | Mega FHD">
     <title lang="es">Luz de día</title>
     <desc lang="es">La organizadora de bodas Elif estuvo casada con Hakan desde su años escolares y fue muy feliz. Sin embargo, un día pierde a su marido en un accidente de tráfico y todo cambia porque se entera que lleva años viviendo una gran mentira.</desc>
@@ -10017,6 +9877,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
+  <channel id="CHILE | Mega HD">
+    <display-name lang="es">CHILE | Mega HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
+  </channel>
   <programme start="20241009042000 +0200" stop="20241009051500 +0200" channel="CHILE | Mega HD">
     <title lang="es">Luz de día</title>
     <desc lang="es">La organizadora de bodas Elif estuvo casada con Hakan desde su años escolares y fue muy feliz. Sin embargo, un día pierde a su marido en un accidente de tráfico y todo cambia porque se entera que lleva años viviendo una gran mentira.</desc>
@@ -10137,6 +10001,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
+  <channel id="CHILE | Mega SD">
+    <display-name lang="es">CHILE | Mega SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mega_m.png"/>
+  </channel>
   <programme start="20241009042000 +0200" stop="20241009051500 +0200" channel="CHILE | Mega SD">
     <title lang="es">Luz de día</title>
     <desc lang="es">La organizadora de bodas Elif estuvo casada con Hakan desde su años escolares y fue muy feliz. Sin embargo, un día pierde a su marido en un accidente de tráfico y todo cambia porque se entera que lleva años viviendo una gran mentira.</desc>
@@ -10257,6 +10125,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
+  <channel id="CHILE | TNT SPORTS">
+    <display-name lang="es">CHILE | TNT SPORTS</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009061500 +0200" channel="CHILE | TNT SPORTS">
     <title lang="es">Fecha 27 del Campeonato Nacional 2024</title>
     <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
@@ -10326,6 +10198,10 @@
     <category lang="es">TNT Data Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | TNT SPORTS PREMIUM">
+    <display-name lang="es">CHILE | TNT SPORTS PREMIUM</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
   <programme start="20241009041500 +0200" stop="20241009051500 +0200" channel="CHILE | TNT SPORTS PREMIUM">
     <title lang="es">Luis Musrri</title>
     <desc lang="es">Un programa de entrevistas en primera persona a distintas personalidades destacadas del deporte, su vida, su trayectoria, sus éxitos y los obstáculos que tuvo que superar para alcanzar sus objetivos y convertirse en un profesional.</desc>
@@ -10410,6 +10286,10 @@
     <category lang="es">TNT Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | TNT SPORTS PREMIUM HD">
+    <display-name lang="es">CHILE | TNT SPORTS PREMIUM HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
   <programme start="20241009041500 +0200" stop="20241009051500 +0200" channel="CHILE | TNT SPORTS PREMIUM HD">
     <title lang="es">Luis Musrri</title>
     <desc lang="es">Un programa de entrevistas en primera persona a distintas personalidades destacadas del deporte, su vida, su trayectoria, sus éxitos y los obstáculos que tuvo que superar para alcanzar sus objetivos y convertirse en un profesional.</desc>
@@ -10494,6 +10374,10 @@
     <category lang="es">TNT Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | TNT Sports FHD">
+    <display-name lang="es">CHILE | TNT Sports FHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
   <programme start="20241009041500 +0200" stop="20241009051500 +0200" channel="CHILE | TNT Sports FHD">
     <title lang="es">Luis Musrri</title>
     <desc lang="es">Un programa de entrevistas en primera persona a distintas personalidades destacadas del deporte, su vida, su trayectoria, sus éxitos y los obstáculos que tuvo que superar para alcanzar sus objetivos y convertirse en un profesional.</desc>
@@ -10578,6 +10462,10 @@
     <category lang="es">TNT Sports</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
   </programme>
+  <channel id="Chile | TV Chile">
+    <display-name lang="es">Chile | TV Chile</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png"/>
+  </channel>
   <programme start="20241009044500 +0200" stop="20241009063000 +0200" channel="Chile | TV Chile">
     <title lang="es">Conectados</title>
     <desc lang="es">Abordamos las problemáticas de la región y del mundo, interconectando las historias y eventos más relevantes. Las noticias que suceden a millones de kilómetros o a la vuelta de la esquina y su impacto real en la ciudadanía.</desc>
@@ -10680,6 +10568,10 @@
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_conectados_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | TV+">
+    <display-name lang="es">CHILE | TV+</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_ucv-tv_m.png"/>
+  </channel>
   <programme start="20241009043000 +0200" stop="20241009053000 +0200" channel="CHILE | TV+">
     <title lang="es">Toc Show</title>
     <desc lang="es">El periodista Juan Carlos "Pollo" Valdivia conduce este espacio de conversación y entretención. Junto a su equipo, tocan temas de actualidad, espectáculos y hablan de la contingencia nacional con un estilo distendido.</desc>
@@ -10804,6 +10696,10 @@
     <category lang="es">Talk Show</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_toc-show_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | TVN">
+    <display-name lang="es">CHILE | TVN</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
+  </channel>
   <programme start="20241009034000 +0200" stop="20241009053000 +0200" channel="CHILE | TVN">
     <title lang="es">Mi nombre es</title>
     <desc lang="es">Programa en el que se premia a los mejores imitadores de los artistas más reconocidos de Chile y del mundo. Este reality cuenta con la conducción de Sergio Lagos y un jurado estelar, quienes tienen la responsabilidad de elegir la gran voz.</desc>
@@ -10924,6 +10820,10 @@
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="Chile | TVN UHD">
+    <display-name lang="es">Chile | TVN UHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn_m.png"/>
+  </channel>
   <programme start="20241009034000 +0200" stop="20241009053000 +0200" channel="Chile | TVN UHD">
     <title lang="es">Mi nombre es</title>
     <desc lang="es">Programa en el que se premia a los mejores imitadores de los artistas más reconocidos de Chile y del mundo. Este reality cuenta con la conducción de Sergio Lagos y un jurado estelar, quienes tienen la responsabilidad de elegir la gran voz.</desc>
@@ -11044,6 +10944,10 @@
     <category lang="es">Entretenimientos</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | CHV HD Opc 3">
+    <display-name lang="es">CHILE | CHV HD Opc 3</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_chilevision_m.png"/>
+  </channel>
   <programme start="20241009034000 +0200" stop="20241009073000 +0200" channel="CHILE | CHV HD Opc 3">
     <title lang="es">Gran hermano</title>
     <desc lang="es">Un grupo de desconocidos conviven en una casa equipada con decenas de cámaras y micrófonos. Cada semana, los participantes nominan a sus compañeros y la audiencia, con sus votos, decide quién es expulsado de la casa.</desc>
@@ -11109,6 +11013,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.72.</episode-num>
   </programme>
+  <channel id="CHILE | Zona Latina TV SD">
+    <display-name lang="es">CHILE | Zona Latina TV SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_zona-latina_m.png"/>
+  </channel>
   <programme start="20241009043000 +0200" stop="20241009063000 +0200" channel="CHILE | Zona Latina TV SD">
     <title lang="es">Que te lo digo</title>
     <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
@@ -11205,6 +11113,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.177.</episode-num>
   </programme>
+  <channel id="CHILE | Rec TV SD">
+    <display-name lang="es">CHILE | Rec TV SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_rec-tv_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009070000 +0200" channel="CHILE | Rec TV SD">
     <title lang="es">¡Por fin es lunes!</title>
     <desc lang="es">Espacio de divulgación que pretende mostrar a una amplia audiencia cómo los procesos de digitalización, tecnificación y aplicación de los últimos avances en tecnología artificial están revolucionando al mundo laboral y sus empleados.</desc>
@@ -11474,6 +11386,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/cl_conciertos-rec-s00e28_l_l.jpg"/>
     <episode-num system="xmltv_ns">.27.</episode-num>
   </programme>
+  <channel id="CHILE | Canal 24 Horas SD">
+    <display-name lang="es">CHILE | Canal 24 Horas SD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009054500 +0200" channel="CHILE | Canal 24 Horas SD">
     <title lang="es">24 horas a la hora</title>
     <desc lang="es">Noticiero, con despachos en directo y corresponsalías en todo el mundo.</desc>
@@ -11828,6 +11744,10 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-central_l_l.jpg"/>
   </programme>
+  <channel id="CHILE | Via X TV">
+    <display-name lang="es">CHILE | Via X TV</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_via-x_m.png"/>
+  </channel>
   <programme start="20241009033000 +0200" stop="20241009053000 +0200" channel="CHILE | Via X TV">
     <title lang="es">Todo va a estar bien</title>
     <desc lang="es">Nuevo late show de charla en el que el conductor, Eduardo de la Iglesia, busca sorprender a sus invitdos así como también a la audiencia. Este programa acompaña y entretiene por la noche con conversaciones con diversas personalidades.</desc>
@@ -11972,6 +11892,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.152.</episode-num>
   </programme>
+  <channel id="Cine | A&amp;E">
+    <display-name lang="es">Cine  | A&amp;E</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009055500 +0200" channel="Cine | A&amp;E">
     <title lang="es">Rosario Tijeras</title>
     <desc lang="es">Rosario le pide una reunión a Arteaga, para mostrarle la traición de Tobías. Fierro se vuelve loco cuando Emilio arruina sus planes con Rosario. Más tarde, Emilio encuentra el cadáver que Fierro dejó en su baúl.</desc>
@@ -12310,6 +12234,10 @@
       <value>6.2/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | Paramount Channel HD">
+    <display-name lang="es">Cine | Paramount Channel HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png"/>
+  </channel>
   <programme start="20241009031000 +0200" stop="20241009052000 +0200" channel="Cine | Paramount Channel HD">
     <title lang="es">¡Madre!</title>
     <title lang="en">Mother!</title>
@@ -12494,6 +12422,10 @@
       <value>7.3/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | AMC UHD">
+    <display-name lang="es">Cine | AMC UHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_amc_m.png"/>
+  </channel>
   <programme start="20241009035500 +0200" stop="20241009060000 +0200" channel="Cine | AMC UHD">
     <title lang="es">Jungla</title>
     <title lang="en">Jungle</title>
@@ -12685,6 +12617,10 @@
       <value>5.2/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | AZ Cinema">
+    <display-name lang="es">Cine | AZ Cinema</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009054500 +0200" channel="Cine | AZ Cinema">
     <title lang="es">Dos gallos en Palenque</title>
     <desc lang="es">Un famoso publicista debe viajar a Venezuela para una importante campaña donde participa la exótica duquesa de Montesquiu, a quien desde el primer instante comenzará a cortejar.</desc>
@@ -12802,6 +12738,10 @@
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_rayando-el-sol-1946-1_l_l.jpg"/>
   </programme>
+  <channel id="Cine | Cine Latino HD">
+    <display-name lang="es">Cine | Cine Latino HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_cine-latino_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009063500 +0200" channel="Cine | Cine Latino HD">
     <title lang="es">La mataviejitas</title>
     <desc lang="es">Basada en un hecho verídico, narra la historia de una asesina serial, su personalidad, fantasmas, temores y frustraciones, que la llevaron a protagonizar crueles delitos en contra de nobles ancianas.</desc>
@@ -13059,6 +12999,10 @@
       <value>3.4/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | Cinecanal HD">
+    <display-name lang="es">Cine | Cinecanal HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png"/>
+  </channel>
   <programme start="20241009031800 +0200" stop="20241009060000 +0200" channel="Cine | Cinecanal HD">
     <title lang="es">Aliens, el regreso</title>
     <title lang="en">Aliens</title>
@@ -13192,6 +13136,10 @@
       <value>7.4/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | Cinemax HD (Lat)">
+    <display-name lang="es">Cine | Cinemax HD (Lat)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png"/>
+  </channel>
   <programme start="20241009045000 +0200" stop="20241009063800 +0200" channel="Cine | Cinemax HD (Lat)">
     <title lang="es">Brahms: El niño II</title>
     <title lang="en">Brahms: The Boy II</title>
@@ -13333,6 +13281,10 @@
       <value>6.5/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | Cinemax HD (MX)">
+    <display-name lang="es">Cine | Cinemax HD (MX)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009075500 +0200" channel="Cine | Cinemax HD (MX)">
     <title lang="es">2012</title>
     <desc lang="es">En el calendario de los mayas aparece señalado el año 2012 como la fecha en la que se producirá el fin del mundo, que irá acompañado de diversas catástrofes naturales: erupciones volcánicas, tifones, glaciares que inundarán el planeta.</desc>
@@ -13570,6 +13522,10 @@
       <value>5.6/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | De Pelicula UHD">
+    <display-name lang="es">Cine | De Pelicula UHD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_de-pelicula_m.png"/>
+  </channel>
   <programme start="20241009041800 +0200" stop="20241009061100 +0200" channel="Cine | De Pelicula UHD">
     <title lang="es">Se equivocó la cigüeña</title>
     <desc lang="es">El hijo de un importante empresario ha sido secuestrado del hospital y llega accidentalmente a las manos de una vendedora de fruta que lo cuida sin importarle las consecuencias que traerá esta acción.</desc>
@@ -13699,6 +13655,10 @@
       <value>8.4/10</value>
     </star-rating>
   </programme>
+  <channel id="Cine | FX HD">
+    <display-name lang="es">Cine | FX HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_fx_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009061100 +0200" channel="Cine | FX HD">
     <title lang="es">Yo, robot</title>
     <title lang="en">I, Robot</title>
@@ -13840,6 +13800,10 @@
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_los-pequenos-fockers-2010_l_l.jpg"/>
   </programme>
+  <channel id="Cine | Golden Plus HD">
+    <display-name lang="es">Cine | Golden Plus HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus.png"/>
+  </channel>
   <programme start="20241009005200 -0300" stop="20241009023500 -0300" channel="Cine | Golden Plus HD">
     <title lang="es">Cuando las mujeres no lloran</title>
   </programme>
@@ -13893,6 +13857,10 @@
   <programme start="20241011021300 -0300" stop="20241011040800 -0300" channel="Cine | Golden Plus HD">
     <title lang="es">La caída de un campeón</title>
   </programme>
+  <channel id="Cine | Golden Edge HD">
+    <display-name lang="es">Cine | Golden Edge HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge.png"/>
+  </channel>
   <programme start="20241009010000 -0300" stop="20241009020300 -0300" channel="Cine | Golden Edge HD">
     <title lang="es">Reliquias oscuras</title>
   </programme>
@@ -13942,6 +13910,10 @@
     <desc lang="es">Un padre con sed de venganza logra escapar del infierno y ahora va tras el hombre que asesinó a su hija y secuestró a su nieta.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/infierno_al_volante.jpg"/>
   </programme>
+  <channel id="CINE | HBO (Lat) HD">
+    <display-name lang="es">CINE | HBO (Lat) HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica.png"/>
+  </channel>
   <programme start="20241009004700 -0300" stop="20241009023200 -0300" channel="CINE | HBO (Lat) HD">
     <title lang="es">Money Electric: The Bitcoin Mystery</title>
   </programme>
@@ -14021,6 +13993,10 @@
   <programme start="20241011021700 -0300" stop="20241011042000 -0300" channel="CINE | HBO (Lat) HD">
     <title lang="es">Scream 2</title>
   </programme>
+  <channel id="CINE | HBO (MX) HD">
+    <display-name lang="es">CINE | HBO (MX) HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-oeste_m.png"/>
+  </channel>
   <programme start="20241009041000 +0200" stop="20241009060000 +0200" channel="CINE | HBO (MX) HD">
     <title lang="es">Hazme el favor</title>
     <title lang="en">No Hard Feelings</title>
@@ -14152,6 +14128,10 @@
       <value>7.0/10</value>
     </star-rating>
   </programme>
+  <channel id="CINE | HBO 2 HD">
+    <display-name lang="es">CINE | HBO 2 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
+  </channel>
   <programme start="20241009035700 +0200" stop="20241009060000 +0200" channel="CINE | HBO 2 HD">
     <title lang="es">Cazafantasmas - Imperio helado</title>
     <title lang="en">Ghostbusters: Frozen Empire</title>
@@ -14279,6 +14259,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/mx_my-brilliant-friend-s04e05_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.4.</episode-num>
   </programme>
+  <channel id="CINE | HBO Family HD">
+    <display-name lang="es">CINE | HBO Family HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-family_m.png"/>
+  </channel>
   <programme start="20241009043500 +0200" stop="20241009062000 +0200" channel="CINE | HBO Family HD">
     <title lang="es">Escalofríos</title>
     <title lang="en">Goosebumps</title>
@@ -14435,6 +14419,10 @@
       <value>7.1/10</value>
     </star-rating>
   </programme>
+  <channel id="CINE | HBO Plus HD">
+    <display-name lang="es">CINE | HBO Plus HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-plus-mexico_m.png"/>
+  </channel>
   <programme start="20241009040000 +0200" stop="20241009054000 +0200" channel="CINE | HBO Plus HD">
     <title lang="es">La maldición de La Llorona</title>
     <title lang="en">The Curse of La Llorona</title>
@@ -14596,6 +14584,10 @@
       <value>7.5/10</value>
     </star-rating>
   </programme>
+  <channel id="CINE | HBO Pop HD">
+    <display-name lang="es">CINE | HBO Pop HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_max-up_m.png"/>
+  </channel>
   <programme start="20241009043000 +0200" stop="20241009051000 +0200" channel="CINE | HBO Pop HD">
     <title lang="es">Last Week Tonight with John Oliver</title>
     <desc lang="es">El comediante John Oliver es el encargado de este espacio de humor que, durante treinta minutos, le da una satírica mirada a las noticias, política y a los acontecimientos de la actualidad.</desc>
@@ -14746,6 +14738,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
+  <channel id="CINE | HBO Signature HD">
+    <display-name lang="es">CINE | HBO Signature HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png"/>
+  </channel>
   <programme start="20241009045100 +0200" stop="20241009055200 +0200" channel="CINE | HBO Signature HD">
     <title lang="es">Ciudad de Dios - La lucha sigue</title>
     <desc lang="es">Wilson fotografía la guerra contra el narcotráfico y conoce a Lígia, una reportera que investiga la corrupción policial. Su hija Leka intenta hacer carrera en la música y Berenice lucha por mantener a su novio PQD alejado del crimen.</desc>
@@ -15014,6 +15010,10 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
+  <channel id="CINE | HBO Xtreme HD">
+    <display-name lang="es">CINE | HBO Xtreme HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png"/>
+  </channel>
   <programme start="20241009050000 +0200" stop="20241009071600 +0200" channel="CINE | HBO Xtreme HD">
     <title lang="es">El escuadrón suicida</title>
     <title lang="en">The Suicide Squad</title>
@@ -15148,6 +15148,241 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_jurassic-world-mundo-jurasico-2015-1_l_l.jpg"/>
     <star-rating system="IMDb">
       <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <channel id="CINE | SONY HD">
+    <display-name lang="es">CINE | SONY HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_sony_m.png"/>
+  </channel>
+  <programme start="20241009025500 +0200" stop="20241009052500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Un sueño posible</title>
+    <title lang="en">The Blind Side</title>
+    <desc lang="es">Michael Oher es un joven afroamericano sin hogar, que encuentra ayuda y cobijo de una familia dispuesta a prestarle el apoyo necesario para que pueda desarrollar todo su potencial, tanto en el deporte como en la vida.</desc>
+    <date>2009</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-sueno-posible-2009_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241009052500 +0200" stop="20241009070000 +0200" channel="CINE | SONY HD">
+    <title lang="es">La vida secreta de las mascotas</title>
+    <title lang="en">The Secret Life of Pets</title>
+    <desc lang="es">La vida de Max como mascota favorita corre peligro cuando aparece Duke, con quien Max pronto tiene sus diferencias. Pero deben amigarse cuando se enteran de que Snowball está reclutando a un ejército de animales domésticos abandonados.</desc>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-vida-secreta-de-las-mascotas-2016_l_l.jpg"/>
+  </programme>
+  <programme start="20241009070000 +0200" stop="20241009075500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Rake</title>
+    <sub-title lang="es">Cancer</sub-title>
+    <desc lang="es">Mientras defiende a una madre con una grave adicción al juego, Keegan lucha por compensar el hecho de que la leyenda del skate Tony Hawk cancelara su aparición en una recaudación de fondos escolar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20241009075500 +0200" stop="20241009101000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Crepúsculo: Twilight</title>
+    <title lang="en">Twilight</title>
+    <desc lang="es">Historia de amor entre un vampiro y una humana. Bella siempre fue una chica algo diferente. Cuando llega a Forks para vivir con su padre, conoce a Edward, un joven que pronto demuestra no ser como los demás.</desc>
+    <date>2008</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_crepusculo-twilight-2008_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241009101000 +0200" stop="20241009103400 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">The Other Smother</sub-title>
+    <desc lang="es">La microgestión de las búsquedas universitarias de Barry y Erica enfrenta a Beverly con una madre entrometida rival. Erica le dice a Pops que sus esfuerzos por mejorar sus perspectivas universitarias se basan en mentiras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e13-the-other-smother_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+  </programme>
+  <programme start="20241009103400 +0200" stop="20241009110000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">You Opened the Door</sub-title>
+    <desc lang="es">Beverly acompaña al baile de la escuela cuando se entera de que Adam y Dana asistirán juntos. Murray soporta enseñarle a Barry sobre los pájaros y las abejas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e14-you-opened-the-door_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+  </programme>
+  <programme start="20241009110000 +0200" stop="20241009112500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Muscles Mirsky</sub-title>
+    <desc lang="es">Mientras Adam se preocupa por la tensión sexual entre él y su vieja amiga Emmy, Erica y Beverly se enfrentan por la falta de confianza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e15-muscles-mirsky_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20241009112500 +0200" stop="20241009115000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Community</title>
+    <sub-title lang="es">Remedial Chaos Theory</sub-title>
+    <desc lang="es">El grupo de estudio lucha por incorporar a un compañero cuando trabajan en un proyecto para la clase del profesor Kane. Mientras, Chang provoca un incendio al tratar de resolver un misterio inventado por él mismo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_community-s03e04-competitive-ecology_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+  </programme>
+  <programme start="20241009115000 +0200" stop="20241009121500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Community</title>
+    <sub-title lang="es">Horror Fiction in Seven Spooky Steps</sub-title>
+    <desc lang="es">Cuando Britta descubre que un test de personalidad anónimo sugiere que uno de ellos es un homicida maníaco, los miembros del grupo de estudio se valen de una serie de historias de miedo de Halloween para exponer al asesino.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_community-s03e05-horror-fiction-in-seven-spooky-steps_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
+  <programme start="20241009121500 +0200" stop="20241009130500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Médico a domicilio</title>
+    <sub-title lang="es">Me First</sub-title>
+    <desc lang="es">Hank ayuda a una niñera que sufre graves desmayos y toma una decisión profesional sobre la familia de Paige que compromete su relación con Evan. Mientras tanto, Divya tiene su primera cita desde que canceló su boda.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.8.</episode-num>
+  </programme>
+  <programme start="20241009130500 +0200" stop="20241009140000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Médico a domicilio</title>
+    <sub-title lang="es">A Little Art, a Little Science</sub-title>
+    <desc lang="es">Hank ayuda a un coleccionista de arte que tiene convulsiones y recomienda un nuevo procedimiento para la madre de Paige.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+  </programme>
+  <programme start="20241009140000 +0200" stop="20241009145500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Médico a domicilio</title>
+    <sub-title lang="es">A Farewell to Barnes</sub-title>
+    <desc lang="es">Divya reconoce su error, pero descubre que se lo devolverá a Hank. Mientras tanto, Evan se enfrenta al padre de Paige y pierde su bendición para casarse.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20241009145500 +0200" stop="20241009155000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Médico a domicilio</title>
+    <sub-title lang="es">Some Pig</sub-title>
+    <desc lang="es">Hank diagnostica a Jack con lupus, a Evan le da urticaria y cree que es a causa de su compromiso, y Hank y Divya chocan cuando diagnostican una banda cuyos miembros tienen debilidades similares en las piernas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20241009155000 +0200" stop="20241009161500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Community</title>
+    <sub-title lang="es">Advanced Gay</sub-title>
+    <desc lang="es">Cuando la canción de un transformista convierte a Hawthorne Wipes en un producto icónico, Pierce aprovecha la oportunidad, hasta que su padre homofóbico, Cornelius, aparece y arruina la idea.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_community-s03e06-advanced-gay_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20241009161500 +0200" stop="20241009164500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Community</title>
+    <sub-title lang="es">Studies in Modern Movement</sub-title>
+    <desc lang="es">Annie tiene dudas sobre mudarse con Troy y Abed. Además, en un intento de evitar ayudar con la mudanza, Jeff les dice a sus amigos que está enfermo, solo para lograr ser chantajeado por el decano Pelton para pasar el día con él.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_community-s03e07-studies-in-modern-movement_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20241009164500 +0200" stop="20241009171000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Muscles Mirsky</sub-title>
+    <desc lang="es">Mientras Adam se preocupa por la tensión sexual entre él y su vieja amiga Emmy, Erica y Beverly se enfrentan por la falta de confianza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e15-muscles-mirsky_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20241009171000 +0200" stop="20241009173500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Goldbergs Never Say Die!</sub-title>
+    <desc lang="es">Barry y Erica se unen a Adam y sus amigos en una búsqueda del tesoro inspirada en los Goonies para encontrar algunas joyas familiares que Pops extravió.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e16-goldbergs-never-say-die_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+  </programme>
+  <programme start="20241009173500 +0200" stop="20241009180000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Lame Gretzky</sub-title>
+    <desc lang="es">Mientras Murray lucha para que Adam se interese en el hockey, los esfuerzos de Beverly para ayudar a Erica a prepararse para sus exámenes de ingreso a la universidad amenazan con fracasar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e17-lame-gretzky_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20241009180000 +0200" stop="20241009185500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Anatomía según Grey</title>
+    <sub-title lang="es">Training Day</sub-title>
+    <desc lang="es">Addison hace una aparición especial en Gray Sloan para dar la bienvenida a los nuevos aprendices de obstetricia y ginecología de Bailey.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_anatomia-segun-grey-s19e11_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.10.</episode-num>
+  </programme>
+  <programme start="20241009185500 +0200" stop="20241009195000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Anatomía según Grey</title>
+    <sub-title lang="es">Pick Yourself Up</sub-title>
+    <desc lang="es">Inmediatamente después de los impactantes eventos en la clínica, el hospital se cierra y los médicos de Gray Sloan se separan para salvar varias vidas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_anatomia-segun-grey-s19e12-pick-yourself-up_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.11.</episode-num>
+  </programme>
+  <programme start="20241009195000 +0200" stop="20241009215500 +0200" channel="CINE | SONY HD">
+    <title lang="es">El príncipe y yo</title>
+    <title lang="en">The Prince and Me</title>
+    <desc lang="es">Poco convencido de aceptar su destino como futuro rey, Edward huye de sus responsabilidades hacia el Medio-Oeste Americano. Allí, cambia su nombre por el de Eddie, se matricula en la universidad y se enamora de Paige.</desc>
+    <date>2004</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-principe-y-yo-2004_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241009215500 +0200" stop="20241009222000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Community</title>
+    <sub-title lang="es">Advanced Gay</sub-title>
+    <desc lang="es">Cuando la canción de un transformista convierte a Hawthorne Wipes en un producto icónico, Pierce aprovecha la oportunidad, hasta que su padre homofóbico, Cornelius, aparece y arruina la idea.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_community-s03e06-advanced-gay_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20241009222000 +0200" stop="20241009224500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Community</title>
+    <sub-title lang="es">Studies in Modern Movement</sub-title>
+    <desc lang="es">Annie tiene dudas sobre mudarse con Troy y Abed. Además, en un intento de evitar ayudar con la mudanza, Jeff les dice a sus amigos que está enfermo, solo para lograr ser chantajeado por el decano Pelton para pasar el día con él.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_community-s03e07-studies-in-modern-movement_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20241009224500 +0200" stop="20241009231000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Muscles Mirsky</sub-title>
+    <desc lang="es">Mientras Adam se preocupa por la tensión sexual entre él y su vieja amiga Emmy, Erica y Beverly se enfrentan por la falta de confianza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e15-muscles-mirsky_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20241009231000 +0200" stop="20241009233500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Goldbergs Never Say Die!</sub-title>
+    <desc lang="es">Barry y Erica se unen a Adam y sus amigos en una búsqueda del tesoro inspirada en los Goonies para encontrar algunas joyas familiares que Pops extravió.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e16-goldbergs-never-say-die_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+  </programme>
+  <programme start="20241009233500 +0200" stop="20241010000000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Los Goldberg</title>
+    <sub-title lang="es">Lame Gretzky</sub-title>
+    <desc lang="es">Mientras Murray lucha para que Adam se interese en el hockey, los esfuerzos de Beverly para ayudar a Erica a prepararse para sus exámenes de ingreso a la universidad amenazan con fracasar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-goldberg-s01e17-lame-gretzky_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20241010000000 +0200" stop="20241010003000 +0200" channel="CINE | SONY HD">
+    <title lang="es">Casados con hijos</title>
+    <desc lang="es">Un ex jugador de fútbol americano, trabaja como gerente de una zapatería, todo lo que jamás soñó. Día a día, experimenta distintas situaciones de la vida cotidiana junto a su esposa, hijos y vecinos, una pareja peculiar y divertida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_casados-con-hijos-s01e04-whose-room-is-it-anyway_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20241010003000 +0200" stop="20241010022500 +0200" channel="CINE | SONY HD">
+    <title lang="es">Hombres de negro 3</title>
+    <title lang="en">Men in Black 3</title>
+    <desc lang="es">En sus quince años de servicio, el agente J ha visto muchas cosas inexplicables, pero nada, ni siquiera los extraterrestres, le produce tanta perplejidad como su irónico y poco comunicativo compañero, el agente K.</desc>
+    <date>2012</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hombres-de-negro-3-2012_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241010022500 +0200" stop="20241010040000 +0200" channel="CINE | SONY HD">
+    <title lang="es">La vida secreta de las mascotas</title>
+    <title lang="en">The Secret Life of Pets</title>
+    <desc lang="es">La vida de Max como mascota favorita corre peligro cuando aparece Duke, con quien Max pronto tiene sus diferencias. Pero deben amigarse cuando se enteran de que Snowball está reclutando a un ejército de animales domésticos abandonados.</desc>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-vida-secreta-de-las-mascotas-2016_l_l.jpg"/>
+  </programme>
+  <programme start="20241010040000 +0200" stop="20241011040000 +0200" channel="CINE | SONY HD">
+    <title lang="es">La casa del reloj en la pared</title>
+    <title lang="en">The House with a Clock in Its Walls</title>
+    <desc lang="es">Lewis es un niño de diez años huérfano, que se muda a la vieja casa de su tío, la cual tiene un misterioso reloj. Su apacible y monótona vida se verá interrumpida cuando accidentalmente despierte a magos y brujas de un mundo secreto.</desc>
+    <date>2018</date>
+    <category lang="es">Familiar</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-casa-del-reloj-en-la-pared-2018_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.0/10</value>
     </star-rating>
   </programme>
 </tv>
