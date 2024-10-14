@@ -284,6 +284,10 @@
     <display-name lang="es">Cine | Cinecanal HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png"/>
   </channel>
+  <channel id="Cine | Cinemax">
+    <display-name lang="es">Cine | Cinemax</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_cinemax_m.png"/>
+  </channel>
   <channel id="Cine | Cinemax HD (Lat)">
     <display-name lang="es">Cine | Cinemax HD (Lat)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_cinemax-sur_m.png"/>
@@ -420,8 +424,8 @@
     <display-name lang="es">Cine | AXN HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/co_axn_m.png"/>
   </channel>
-  <channel id="Cine | Universal Premiere HD">
-    <display-name lang="es">Cine | Universal Premiere HD</display-name>
+  <channel id="Cine | Universal Premier HD">
+    <display-name lang="es">Cine | Universal Premier HD</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere.png"/>
   </channel>
   <channel id="Cine | Universal TV Channel HD (OPC 3)">
@@ -13365,6 +13369,149 @@
       <value>6.7/10</value>
     </star-rating>
   </programme>
+  <programme start="20241014050000 +0200" stop="20241014080200 +0200" channel="Cine | Cinemax">
+    <title lang="es">Troya</title>
+    <title lang="en">Troy</title>
+    <desc lang="es">1193 A.C. El rapto de Helena, Reina de Esparta, da inicio a la guerra de griegos contra troyanos. Aquiles se erigió como el gran héroe de los griegos, mientras Héctor, hijo del rey de Troya, se convertiría en la única esperanza del pueblo.</desc>
+    <date>2004</date>
+    <category lang="es">Aventura</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_troya-2004_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014080200 +0200" stop="20241014101700 +0200" channel="Cine | Cinemax">
+    <title lang="es">El rey Arturo: la leyenda de la espada</title>
+    <title lang="en">King Arthur: Legend of the Sword</title>
+    <desc lang="es">Arturo es un joven intrépido que dirige a su pandilla por los callejones de Londonium. Tras sacar la espada de Excalibur, se verá obligado a tomar algunas duras decisiones: una de ellas será unir al pueblo para derrotar al tirano Vortigern.</desc>
+    <date>2017</date>
+    <category lang="es">Fantasía</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-rey-arturo-la-leyenda-de-la-espada-2017_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014101700 +0200" stop="20241014130400 +0200" channel="Cine | Cinemax">
+    <title lang="es">El asesinato de Jesse James por el cobarde Robert Ford</title>
+    <title lang="en">The Assassination of Jesse James by the Coward Robert Ford</title>
+    <desc lang="es">Mientras el carismático e impredecible Jesse James planea su próximo gran robo, declara la guerra a sus enemigos, pero la amenaza más importante a su vida puede que venga de aquellos en quienes más confía.</desc>
+    <date>2007</date>
+    <category lang="es">Crimen</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-asesinato-de-jesse-james-por-el-cobarde-robert-ford-2007_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014130400 +0200" stop="20241014134600 +0200" channel="Cine | Cinemax">
+    <title lang="es">Filler</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_filler_l_l.jpg"/>
+  </programme>
+  <programme start="20241014134600 +0200" stop="20241014140000 +0200" channel="Cine | Cinemax">
+    <title lang="es">Filler</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_filler_l_l.jpg"/>
+  </programme>
+  <programme start="20241014140000 +0200" stop="20241014144700 +0200" channel="Cine | Cinemax">
+    <title lang="es">Filler</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_filler_l_l.jpg"/>
+  </programme>
+  <programme start="20241014144700 +0200" stop="20241014160600 +0200" channel="Cine | Cinemax">
+    <title lang="es">Elmo en el país de los gruñones</title>
+    <title lang="en">The Adventures of Elmo in Grouchland</title>
+    <desc lang="es">Elmo el mas divertido personaje de Plaza Sésamo y su amada colcha azul son inseparables. Sin darse cuenta, Oscar deja en la basura a la peluda colcha, Elmo se avienta por ella. Por lo que es enviado a la tierra de los gruñones.</desc>
+    <date>1999</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_elmo-en-el-pais-de-los-grunones-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014160600 +0200" stop="20241014174700 +0200" channel="Cine | Cinemax">
+    <title lang="es">Turbo</title>
+    <desc lang="es">¿Quién imaginó que un caracol podía desarrollar una súper velocidad como para ganar la categoría Indy sin esfuerzo? En su veloz camino a la gloria, Turbo aprenderá que los sueños se hacen realidad junto a los grandes amigos.</desc>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_turbo-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014174700 +0200" stop="20241014192700 +0200" channel="Cine | Cinemax">
+    <title lang="es">Un jefe en pañales</title>
+    <title lang="en">The Boss Baby</title>
+    <desc lang="es">La vida ideal del pequeño Tim comienza a desmoronarse cuando sus padres le anuncian que va a tener un hermanito. Luego de su nacimiento, Tim descubrirá que el bebé tiene un comportamiento extraño: viste traje y corbata, y puede hablar.</desc>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_un-jefe-en-panales-2017_l_l.jpg"/>
+  </programme>
+  <programme start="20241014192700 +0200" stop="20241014215000 +0200" channel="Cine | Cinemax">
+    <title lang="es">Karate Kid</title>
+    <title lang="en">The Karate Kid</title>
+    <desc lang="es">Daniel es un adolescente cuyos problemas de crecimiento se hacen más difíciles al llegar a una nueva ciudad donde debe empezar desde cero y hacer nuevos amigos.</desc>
+    <date>1984</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_karate-kid-1984_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014215000 +0200" stop="20241014232400 +0200" channel="Cine | Cinemax">
+    <title lang="es">El espantatiburones</title>
+    <title lang="en">Shark Tale</title>
+    <desc lang="es">Oscar es un pez al cual sus sueños siempre lo meten en líos. Quiere convertirse en rico y vivir en la cima del arrecife; Entonces aprovechará un encuentro con un tiburón para crear una mentira y así transformarse en El espanta tiburones.</desc>
+    <date>2004</date>
+    <category lang="es">Animación</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-espantatiburones-2004_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241014232400 +0200" stop="20241015004800 +0200" channel="Cine | Cinemax">
+    <title lang="es">Amigos salvajes 3</title>
+    <title lang="en">Open Season 3</title>
+    <desc lang="es">Los amigos de Boog escogen sus responsabilidades familiares por sobre el viaje anual de los muchachos, por lo que Boog, decepcionado, decide hacer el viaje solo, el cual lo lleva al centro de un ring de circo.</desc>
+    <date>2010</date>
+    <category lang="es">Familiar</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_amigos-salvajes-3-2010_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015004800 +0200" stop="20241015020900 +0200" channel="Cine | Cinemax">
+    <title lang="es">Las chicas superpoderosas</title>
+    <title lang="en">The Powerpuff Girls</title>
+    <desc lang="es">El profesor Utonio intenta crear una niña perfecta. Pero su travieso mono agrega a la fórmula un poco de una misteriosa sustancia y se produce una gran explosión de la que surgen tres niñas con increíbles superpoderes.</desc>
+    <date>2002</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-chicas-superpoderosas-2002_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015020900 +0200" stop="20241015034500 +0200" channel="Cine | Cinemax">
+    <title lang="es">Mini espías</title>
+    <title lang="en">Spy Kids</title>
+    <desc lang="es">Gregorio e Ingrid Cortez fueron los mejores espías del mundo. Enamorados, decidieron retirarse y formar una familia. Pero un plan involucra su secuestro y los dos chiquillos enfrentarán la aventura de sus vidas.</desc>
+    <date>2001</date>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mini-espias-2001_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241015034500 +0200" stop="20241016034500 +0200" channel="Cine | Cinemax">
+    <title lang="es">Karate Kid</title>
+    <title lang="en">The Karate Kid</title>
+    <desc lang="es">Daniel es un adolescente cuyos problemas de crecimiento se hacen más difíciles al llegar a una nueva ciudad donde debe empezar desde cero y hacer nuevos amigos.</desc>
+    <date>1984</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_karate-kid-1984_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
   <programme start="20241014024800 +0200" stop="20241014051800 +0200" channel="Cine | Cinemax HD (Lat)">
     <title lang="es">Harry Potter y las reliquias de la muerte: Parte 2</title>
     <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
@@ -19748,139 +19895,139 @@
     <icon src="https://cdn.mitvstatic.com/programs/mx_criminal-minds-s09e10-the-caller_l_l.jpg"/>
     <episode-num system="xmltv_ns">8.9.</episode-num>
   </programme>
-  <programme start="20241014004000 +0200" stop="20241014013000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014004000 +0200" stop="20241014013000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20241014013000 +0200" stop="20241014022500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014013000 +0200" stop="20241014022500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20241014022500 +0200" stop="20241014033000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014022500 +0200" stop="20241014033000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Wolf</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241014033000 +0200" stop="20241014042000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014033000 +0200" stop="20241014042000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">The Lazarus Project</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20241014042000 +0200" stop="20241014051500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014042000 +0200" stop="20241014051500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S4 E6</episode-num>
   </programme>
-  <programme start="20241014051500 +0200" stop="20241014060000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014051500 +0200" stop="20241014060000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20241014060000 +0200" stop="20241014064500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014060000 +0200" stop="20241014064500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20241014064500 +0200" stop="20241014073000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014064500 +0200" stop="20241014073000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20241014073000 +0200" stop="20241014081500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014073000 +0200" stop="20241014081500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20241014081500 +0200" stop="20241014090000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014081500 +0200" stop="20241014090000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20241014090000 +0200" stop="20241014095000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014090000 +0200" stop="20241014095000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20241014095000 +0200" stop="20241014104000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014095000 +0200" stop="20241014104000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20241014104000 +0200" stop="20241014113000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014104000 +0200" stop="20241014113000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20241014113000 +0200" stop="20241014121500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014113000 +0200" stop="20241014121500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Suits</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20241014121500 +0200" stop="20241014130000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014121500 +0200" stop="20241014130000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Suits</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20241014130000 +0200" stop="20241014134500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014130000 +0200" stop="20241014134500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20241014134500 +0200" stop="20241014142500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014134500 +0200" stop="20241014142500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20241014142500 +0200" stop="20241014151000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014142500 +0200" stop="20241014151000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20241014151000 +0200" stop="20241014160000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014151000 +0200" stop="20241014160000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">From</title>
     <episode-num system="onscreen">S3 E3</episode-num>
   </programme>
-  <programme start="20241014160000 +0200" stop="20241014164500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014160000 +0200" stop="20241014164500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20241014164500 +0200" stop="20241014173000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014164500 +0200" stop="20241014173000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Evil</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20241014173000 +0200" stop="20241014181500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014173000 +0200" stop="20241014181500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20241014181500 +0200" stop="20241014190000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014181500 +0200" stop="20241014190000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20241014190000 +0200" stop="20241014194500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014190000 +0200" stop="20241014194500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">House MD</title>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20241014194500 +0200" stop="20241014205000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014194500 +0200" stop="20241014205000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Billions</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20241014205000 +0200" stop="20241014214000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014205000 +0200" stop="20241014214000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Billions</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20241014214000 +0200" stop="20241014222500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014214000 +0200" stop="20241014222500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Suits</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20241014222500 +0200" stop="20241014231000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014222500 +0200" stop="20241014231000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Suits</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20241014231000 +0200" stop="20241014235500 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014231000 +0200" stop="20241014235500 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20241014235500 +0200" stop="20241015004000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241014235500 +0200" stop="20241015004000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20241015235500 +0200" stop="20241016004000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241015235500 +0200" stop="20241016004000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S3 E2</episode-num>
   </programme>
-  <programme start="20241016004000 +0200" stop="20241016013000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241016004000 +0200" stop="20241016013000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S3 E3</episode-num>
   </programme>
-  <programme start="20241016013000 +0200" stop="20241016022000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241016013000 +0200" stop="20241016022000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">From</title>
     <episode-num system="onscreen">S3 E4</episode-num>
   </programme>
-  <programme start="20241016022000 +0200" stop="20241016032000 +0200" channel="Cine | Universal Premiere HD">
+  <programme start="20241016022000 +0200" stop="20241016032000 +0200" channel="Cine | Universal Premier HD">
     <title lang="es">Billions</title>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
