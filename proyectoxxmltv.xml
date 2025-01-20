@@ -8,193 +8,193 @@
     <display-name lang="es">DOC-Discovery TLC (M)(SD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_discovery-tlc_m.png"/>
   </channel>
-  <programme start="20250120054100 +0100" stop="20250120063300 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120034100 +0100" stop="20250120043300 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">De tal madre, tal astilla</title>
     <sub-title lang="es">Mamá consigue todo lo que quiere</sub-title>
     <desc lang="es">Sunhe quiere volver a conectar con Angelica y decide interrumpir su cita con Jason. Kathy y Cristina hacen un plan para convencer a Carlo de que todos deberían mudarse juntos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_de-tal-madre-tal-astilla-s02e01-mama-consigue-todo-lo-que-quiere_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20250120063300 +0100" stop="20250120072600 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120043300 +0100" stop="20250120052600 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">De tal madre, tal astilla</title>
     <sub-title lang="es">Si mamá puede, yo también</sub-title>
     <desc lang="es">Cher y Dawn le contaron a Jared el plan de parto de Cher. Sunhe no puede quedarse en silencio después de invitarse al divorcio de Jason. Los problemas de salud amenazan con quitarle a Alena algo que quiere mucho.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_de-tal-madre-tal-astilla-s02e02-si-mama-puede-yo-tambien_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20250120072600 +0100" stop="20250120082000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120052600 +0100" stop="20250120062000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Hermanas extremas</title>
     <sub-title lang="es">Hermana, hermana</sub-title>
     <desc lang="es">Las gemelas Anna y Lucy se esfuerzan por vivir sus vidas de manera idéntica. Patrix y Patrica revisan un plan no tan secreto solo para hermanas. El arreglo para dormir de Baylee y Brooke pone a prueba el matrimonio de Brooke.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20250120082000 +0100" stop="20250120091000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120062000 +0100" stop="20250120071000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Mi gran boda gitana</title>
     <sub-title lang="es">No sabes lo que es gitano</sub-title>
     <desc lang="es">Sabrina debe demostrar lo que vale frente a la comunidad gitana pasando una prueba humillante. Las tradiciones y los rituales siguen siendo parte integral de la vida gitana moderna y cuando alguien rompe los códigos, siempre paga un precio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_mi-gran-boda-gitana-s05e07_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.6.</episode-num>
   </programme>
-  <programme start="20250120091000 +0100" stop="20250120095700 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120071000 +0100" stop="20250120075700 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Una gran familia</title>
     <sub-title lang="es">Sólo voy dos veces a la semana</sub-title>
     <desc lang="es">Las tensiones llegan a su punto álgido en el hogar de los Johnston, ya que Anna, Jonah y Liz planean mudarse de la casa, mientras Trent y Amber intentan enseñarles las habilidades que necesitan para triunfar por su cuenta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_una-gran-familia-s06e14-solo-voy-dos-veces-a-la-semana_l_l.jpg"/>
     <episode-num system="xmltv_ns">5.13.</episode-num>
   </programme>
-  <programme start="20250120095700 +0100" stop="20250120104500 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120075700 +0100" stop="20250120084500 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Un gran mundo pequeño</title>
     <sub-title lang="es">Roloff a bailar</sub-title>
     <desc lang="es">Ahora que sus hijos tienen sus planes, Matt y Amy buscan nuevas tradiciones. Amy organiza un evento de beneficencia y le pide ayuda a su familia. Pero es difícil deshacerse de los viejos hábitos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_un-gran-mundo-pequeno-s11e14-roloff-a-bailar_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.13.</episode-num>
   </programme>
-  <programme start="20250120104500 +0100" stop="20250120113200 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120084500 +0100" stop="20250120093200 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Amigos y esposos</title>
     <sub-title lang="es">Se termina la luna de miel</sub-title>
     <desc lang="es">Después de encontrar mensajes de texto de un ex en el teléfono celular de Amy, Mike cuestiona su compromiso con el matrimonio. Christian y Amanda se dan cuenta de que tienen puntos de vista diferentes sobre las finanzas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_amigos-y-esposos-s01e03-se-termina-la-luna-de-miel_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20250120113200 +0100" stop="20250120121900 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120093200 +0100" stop="20250120101900 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Amigos y esposos</title>
     <sub-title lang="es">El error de casarse</sub-title>
     <desc lang="es">La mamá de Amanda le dice a Amanda y a Christian que cometieron un grave error al casarse. Amy y Mike luchan para salvar su matrimonio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_amigos-y-esposos-s01e04-el-error-de-casarse_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20250120121900 +0100" stop="20250120131200 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120101900 +0100" stop="20250120111200 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Princesitas</title>
     <sub-title lang="es">Precious Moments 2011</sub-title>
     <desc lang="es">Alana, de 6 años, no es la favorita y compite contra Heaven, también de 6 años, y Laci de 8 años. Ellas harán lo que sea por ganarse la atención de los jueces.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_princesitas-s05e01-precious-moments-2011_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.0.</episode-num>
   </programme>
-  <programme start="20250120131200 +0100" stop="20250120140000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120111200 +0100" stop="20250120120000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Hermanos cazafantasmas</title>
     <sub-title lang="es">Ir a la luz</sub-title>
     <desc lang="es">Dalen, Juwan y Marcus se sumergen en el Faro de Pensacola, en la Costa del Golfo. A medida que los hermanos iluminan el pasado y la presencia paranormal del lugar, descubren que el propio faro puede desempeñar un papel inesperado.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_hermanos-cazafantasmas-s03e06-ir-a-la-luz_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.5.</episode-num>
   </programme>
-  <programme start="20250120140000 +0100" stop="20250120160000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120120000 +0100" stop="20250120140000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Todo en 90 días</title>
     <sub-title lang="es">Presenciar el comienzo</sub-title>
     <desc lang="es">Nikki aterriza en Moldavia, pero le preocupa que Justin la mantenga oculta. Mientras, Jasmine le dice a Gino que se puso implantes. Después de conocer a Manuel, la familia de Ashley cree que esconderlo es una señal de alerta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_todo-en-90-dias-s10e03-presenciar-el-comienzo_l_l.jpg"/>
     <episode-num system="xmltv_ns">9.2.</episode-num>
   </programme>
-  <programme start="20250120160000 +0100" stop="20250120163000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120140000 +0100" stop="20250120143000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Televentas</title>
     <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_televentas_l_l.jpg"/>
   </programme>
-  <programme start="20250120163000 +0100" stop="20250120170000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120143000 +0100" stop="20250120150000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Televentas</title>
     <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_televentas_l_l.jpg"/>
   </programme>
-  <programme start="20250120170000 +0100" stop="20250120173000 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120150000 +0100" stop="20250120153000 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Televentas</title>
     <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_televentas_l_l.jpg"/>
   </programme>
-  <programme start="20250120173000 +0100" stop="20250120182500 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120153000 +0100" stop="20250120162500 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Mi gran boda gitana</title>
     <sub-title lang="es">No sabes lo que es gitano</sub-title>
     <desc lang="es">Sabrina debe demostrar lo que vale frente a la comunidad gitana pasando una prueba humillante. Las tradiciones y los rituales siguen siendo parte integral de la vida gitana moderna y cuando alguien rompe los códigos, siempre paga un precio.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_mi-gran-boda-gitana-s05e07_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.6.</episode-num>
   </programme>
-  <programme start="20250120182500 +0100" stop="20250120191700 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120162500 +0100" stop="20250120171700 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
     <sub-title lang="es">Destino: Imposible</sub-title>
     <desc lang="es">Paola enfrenta la realidad en Oklahoma. Danielle se siente confundida por su amor por Mohamed, ya que él usa el poder de la persuasión. Kyle y Noon analizan sus opciones legales.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_todo-en-90-dias-felices-por-siempre-s01e07-destino-imposible_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20250120191700 +0100" stop="20250120200900 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120171700 +0100" stop="20250120180900 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Todo en 90 días: ¿Felices por siempre?</title>
     <sub-title lang="es">Puedes correr...</sub-title>
     <desc lang="es">Mohamed no cumple con su palabra y Danielle lo responsabiliza. Loren se abre a la familia de Alexei, y Paola cuestiona su futuro con Russ.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_todo-en-90-dias-felices-por-siempre-s01e08-puedes-correr_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20250120200900 +0100" stop="20250120210100 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120180900 +0100" stop="20250120190100 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Todo en 90 días: casados en el extranjero</title>
     <sub-title lang="es">Hay algo sobre JoJo</sub-title>
     <desc lang="es">Los hijos de Joanne quedan atónitos cuando se enteran sobre sus esperanzas para el futuro. Por otro lado, el sueño de Corona de convertirse en partera está en peligro, y Meitalia le da a James un cronograma para tener hijos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_todo-en-90-dias-casados-en-el-extranjero-s06e13-hay-algo-sobre-jojo_l_l.jpg"/>
     <episode-num system="xmltv_ns">5.12.</episode-num>
   </programme>
-  <programme start="20250120210100 +0100" stop="20250120215400 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120190100 +0100" stop="20250120195400 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Todo en 90 días: casados en el extranjero</title>
     <sub-title lang="es">Sustos reales</sub-title>
     <desc lang="es">Shekinah vuelve a vivir con Sarper y descubre una mentira. Mientras, Corona tiene una fecha límite para tomar una decisión sobre su futuro y Statler y Dempsey intentan reconstruir su relación. Josh y Lily chocan frente al hermano de Josh.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_todo-en-90-dias-casados-en-el-extranjero-s06e14-sustos-reales_l_l.jpg"/>
     <episode-num system="xmltv_ns">5.13.</episode-num>
   </programme>
-  <programme start="20250120215400 +0100" stop="20250120224700 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120195400 +0100" stop="20250120204700 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">De tal madre, tal astilla</title>
     <sub-title lang="es">Mamá consigue todo lo que quiere</sub-title>
     <desc lang="es">Sunhe quiere volver a conectar con Angelica y decide interrumpir su cita con Jason. Kathy y Cristina hacen un plan para convencer a Carlo de que todos deberían mudarse juntos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_de-tal-madre-tal-astilla-s02e01-mama-consigue-todo-lo-que-quiere_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20250120224700 +0100" stop="20250120234100 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120204700 +0100" stop="20250120214100 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">De tal madre, tal astilla</title>
     <sub-title lang="es">Si mamá puede, yo también</sub-title>
     <desc lang="es">Cher y Dawn le contaron a Jared el plan de parto de Cher. Sunhe no puede quedarse en silencio después de invitarse al divorcio de Jason. Los problemas de salud amenazan con quitarle a Alena algo que quiere mucho.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_de-tal-madre-tal-astilla-s02e02-si-mama-puede-yo-tambien_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20250120234100 +0100" stop="20250121003300 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120214100 +0100" stop="20250120223300 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Una gran familia</title>
     <sub-title lang="es">La inauguración de papá</sub-title>
     <desc lang="es">Brice sorprende a Liz con una cita especial para distraerse de las complicaciones de la convivencia. Las chicas de Johnston se ponen al día mientras disfrutan de comer sushi. Alex se ofrece a filmar un comercial para el negocio de Trent.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_una-gran-familia-s12e08-la-inauguracion-de-papa_l_l.jpg"/>
     <episode-num system="xmltv_ns">11.7.</episode-num>
   </programme>
-  <programme start="20250121003300 +0100" stop="20250121012600 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120223300 +0100" stop="20250120232600 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Un gran mundo pequeño</title>
     <sub-title lang="es">Una falla en la simulación</sub-title>
     <desc lang="es">Matt toma una gran decisión sobre la granja que seguramente causará revuelo en la familia. Mientras, Tori tiene noticias emocionantes para compartir con Zach. Luego, Amy y Chris visitan a Zach y Tori para ver el nuevo arenero de Zach.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_un-gran-mundo-pequeno-s23e08-una-falla-en-la-simulacion_l_l.jpg"/>
     <episode-num system="xmltv_ns">22.7.</episode-num>
   </programme>
-  <programme start="20250121012600 +0100" stop="20250121021900 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250120232600 +0100" stop="20250121001900 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Un gran mundo pequeño</title>
     <sub-title lang="es">Confesiones y baile</sub-title>
     <desc lang="es">Matt se siente solo en la granja y se pregunta si habrá hecho las cosas bien como padre. Como le gustaría pasar más tiempo con los muchachos, Zach propone un campamento. Además, las chicas también deciden divertirse.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_un-gran-mundo-pequeno-s15e05-confesiones-y-baile_l_l.jpg"/>
     <episode-num system="xmltv_ns">14.4.</episode-num>
   </programme>
-  <programme start="20250121021900 +0100" stop="20250121040200 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250121001900 +0100" stop="20250121020200 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">Todo en 90 días: casados en el extranjero</title>
     <sub-title lang="es">Caminata lejana: la próxima generación</sub-title>
     <desc lang="es">Después de dos años de videollamadas las 24 horas con Mary, Brandan se muda a Filipinas. Antes de mudarse a Países Bajos, Julio quiere que Kirsten conozca a su madre.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_todo-en-90-dias-casados-en-el-extranjero-s05e01-caminata-lejana-la-proxima-generacion_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.0.</episode-num>
   </programme>
-  <programme start="20250121040200 +0100" stop="20250121045300 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250121020200 +0100" stop="20250121025300 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">La vida después de prisión</title>
     <sub-title lang="es">Estafado de nuevo</sub-title>
     <desc lang="es">Las tensiones aumentan cuando Amber rastrea a Puppy. El día familiar de Lacey y Shane no transcurre tan bien como esperaban. El amigo de Daonte les organiza una cita a ciegas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.2.</episode-num>
   </programme>
-  <programme start="20250121045300 +0100" stop="20250121054300 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250121025300 +0100" stop="20250121034300 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">La vida después de prisión</title>
     <sub-title lang="es">Los jugadores son engañados</sub-title>
     <desc lang="es">Con su relación con Shane en problemas, Lacey busca el apoyo de su exprometido. Nicolle se acerca a Daonte. Lisa confronta a Stan sobre su fidelidad.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.3.</episode-num>
   </programme>
-  <programme start="20250121054300 +0100" stop="20250122054300 +0100" channel="DOC-Discovery TLC (M)(1080)">
+  <programme start="20250121034300 +0100" stop="20250122034300 +0100" channel="DOC-Discovery TLC (M)(1080)">
     <title lang="es">4 esposas, 1 marido</title>
     <sub-title lang="es">Me liberó de todos mis miedos</sub-title>
     <desc lang="es">Los Brown pasan la Navidad separados mientras Christine habla con sus hijos sobre su nuevo novio, David. En una reunión, Kody culpa a Meri por su divorcio y Janelle quiere resolver la disputa de propiedad con Kody y seguir adelante.</desc>
