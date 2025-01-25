@@ -552,6 +552,18 @@
     <display-name lang="es">CINE - Universal Reality (Z)(720)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality.png"/>
   </channel>
+  <channel id="CINE - Warner Channel (L)(1080)">
+    <display-name lang="es">CINE - Warner Channel (L)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_warner_m.png"/>
+  </channel>
+  <channel id="CINE - Warner Channel Dual Audio (M)(1080)">
+    <display-name lang="es">CINE - Warner Channel Dual Audio (M)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_warner_m.png"/>
+  </channel>
+  <channel id="CINE - Warner Channel (TV)(720)">
+    <display-name lang="es">CINE - Warner Channel (TV)(720)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_warner_m.png"/>
+  </channel>
   <channel id="CINE - Wobi TV (TV)(1080)">
     <display-name lang="es">CINE - Wobi TV (TV)(1080)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/wobi.png"/>
@@ -23609,6 +23621,585 @@
     <desc lang="es">Temporada 24 | Episodio 10</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
     <episode-num system="onscreen">S24 E10</episode-num>
+  </programme>
+  <programme start="20250125031000 +0100" stop="20250125050000 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Rambo</title>
+    <title lang="xx">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-1982_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125050000 +0100" stop="20250125065100 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Rambo II</title>
+    <title lang="xx">Rambo: First Blood Part II</title>
+    <desc lang="es">Rambo es enviado de vuelta a Vietnam con una misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Sin embargo, tras saltar en la jungla portando un cuchillo y un arco con flechas, el plan no saldrá como esperaba.</desc>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-ii-1985_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125065100 +0100" stop="20250125071700 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Cobra Kai</title>
+    <sub-title lang="es">Esqueleto</sub-title>
+    <desc lang="es">Miguel ayuda a Johnny a anunciar Cobra Kai en la web. Daniel acepta ser chaperón en el baile de Halloween para poder vigilar a su hija.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250125071700 +0100" stop="20250125074900 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Cobra Kai</title>
+    <sub-title lang="es">Cobra Kai nunca muere</sub-title>
+    <desc lang="es">Robbie está en problemas con su padre. Johnny planea cerrar Cobra Kai después de que Miguel se lesione. La relación de Samantha y Kyler toca fondo. Una valla publicitaria destrozada crea tensión para Daniel.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250125074900 +0100" stop="20250125094400 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Rambo III</title>
+    <desc lang="es">Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberarlo. Después de contactar a la resistencia del lugar, entra en la zona sitiada por las tropas enemigas.</desc>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-iii-1988_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125094400 +0100" stop="20250125113300 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Revancha</title>
+    <title lang="xx">Payback</title>
+    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabó con su matrimonio.</desc>
+    <date>1999</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revancha-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125113300 +0100" stop="20250125115300 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La prueba tangible del afecto</sub-title>
+    <desc lang="es">Cuando los chicos tratan de regarle algo significativo en el Día de San Valentín a sus parejas, Raj y Stuart organizan una solitaria fiesta en la tienda de cómics.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e16-the-tangible-affection-proof_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20250125115300 +0100" stop="20250125121600 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">El aislamiento del monstruo</sub-title>
+    <desc lang="es">Después de una cita donde todo sale mal, Raj jura nunca más salir de su departamento. Mientras tanto, Penny termina impresionando a Sheldon con sus capacidades histriónicas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e17-the-monster-isolation_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
+  </programme>
+  <programme start="20250125121600 +0100" stop="20250125123900 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La reconfiguración del armario</sub-title>
+    <desc lang="es">¿Abrir o no abrir? Cuando Howard encuentra una carta de su padre, se ve forzado a enfrentar su pasado. Por su parte, Leonard y Penny hacen una fiesta de cóctel para "adultos" en el departamento.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e19-the-closet-reconfiguration_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+  </programme>
+  <programme start="20250125123900 +0100" stop="20250125130000 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La alternativa de la finalización</sub-title>
+    <desc lang="es">Después de que uno de sus programas de TV fuera cancelado demasiado pronto, Sheldon se siente perdido, así que Amy lo ayuda a conducir su necesidad compulsiva trabajando con su cerebro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e21-the-closure-alternative_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.20.</episode-num>
+  </programme>
+  <programme start="20250125130000 +0100" stop="20250125135100 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Riverdale</title>
+    <sub-title lang="es">Capítulo 120: Educación sexual</sub-title>
+    <desc lang="es">Después de que una lección de educación sexual deja a la pandilla más confundida que nunca, Veronica decide organizar una fiesta de besos en el Pembrooke.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_riverdale-s07e03-chapter-one-hundred-and-twenty-sex-education_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
+  </programme>
+  <programme start="20250125135100 +0100" stop="20250125141600 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Corte nocturna</title>
+    <sub-title lang="es">Maratón-Ton-Ton-Ton-Ton</sub-title>
+    <desc lang="es">Rand, el prometido de Abby, está en la ciudad para ayudarla a entrenar para un maratón al que Olivia decide unirse. Mientras tanto, Gurgs ayuda a Dan a intentar salvar un banco que tiene valor sentimental.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250125141600 +0100" stop="20250125143200 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Obreros milagrosos</title>
+    <sub-title lang="es">Jim Carrey in the Park</sub-title>
+    <desc lang="es">Morris presenta una producción teatral de "Ace Ventura: Detective de mascotas". Sid se va de viaje de fin de semana con Tai y sus amigos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_obreros-milagrosos-s04e05-jim-carrey-in-the-park_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20250125143200 +0100" stop="20250125163900 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">El código enigma</title>
+    <title lang="xx">The Imitation Game</title>
+    <desc lang="es">Alan Turing y su equipo corren una carrera contrarreloj tratando de romper el cifrado de la máquina Enigma de la Alemania Nazi en el ultrasecreto Cuartel General de Comunicaciones del Gobierno del Reino Unido.</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-codigo-enigma-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125163900 +0100" stop="20250125183300 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Revancha</title>
+    <title lang="xx">Payback</title>
+    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabó con su matrimonio.</desc>
+    <date>1999</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revancha-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125183300 +0100" stop="20250125203700 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Top Gun, reto a la gloria</title>
+    <title lang="xx">Top Gun</title>
+    <desc lang="es">Pete Mitchell, un impetuoso y temerario piloto naval, es aceptado en la escuela de élite Fighter School de Miramar, también conocida como Top Gun. Allí, competirá con sus compañeros por quedarse con el prestigioso Top Gun Trophy.</desc>
+    <date>1986</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_top-gun-reto-a-la-gloria-1986_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125203700 +0100" stop="20250125222500 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Rambo</title>
+    <title lang="xx">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-1982_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125222500 +0100" stop="20250126001400 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Rambo II</title>
+    <title lang="xx">Rambo: First Blood Part II</title>
+    <desc lang="es">Rambo es enviado de vuelta a Vietnam con una misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Sin embargo, tras saltar en la jungla portando un cuchillo y un arco con flechas, el plan no saldrá como esperaba.</desc>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-ii-1985_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126001400 +0100" stop="20250126020500 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Rambo III</title>
+    <desc lang="es">Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberarlo. Después de contactar a la resistencia del lugar, entra en la zona sitiada por las tropas enemigas.</desc>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-iii-1988_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126020500 +0100" stop="20250127020500 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Transformers: El lado oscuro de la Luna</title>
+    <title lang="xx">Transformers: Dark of the Moon</title>
+    <desc lang="es">Un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers pueden salvar el planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_transformers-el-lado-oscuro-de-la-luna-2011-2_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250127020500 +0100" stop="20250127050000 +0100" channel="CINE - Warner Channel (L)(1080)">
+    <title lang="es">Transformers: El lado oscuro de la Luna</title>
+    <title lang="xx">Transformers: Dark of the Moon</title>
+    <desc lang="es">Un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers pueden salvar el planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_transformers-el-lado-oscuro-de-la-luna-2011-2_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125031000 +0100" stop="20250125050000 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Rambo</title>
+    <title lang="xx">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-1982_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125050000 +0100" stop="20250125065100 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Rambo II</title>
+    <title lang="xx">Rambo: First Blood Part II</title>
+    <desc lang="es">Rambo es enviado de vuelta a Vietnam con una misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Sin embargo, tras saltar en la jungla portando un cuchillo y un arco con flechas, el plan no saldrá como esperaba.</desc>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-ii-1985_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125065100 +0100" stop="20250125071700 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Cobra Kai</title>
+    <sub-title lang="es">Esqueleto</sub-title>
+    <desc lang="es">Miguel ayuda a Johnny a anunciar Cobra Kai en la web. Daniel acepta ser chaperón en el baile de Halloween para poder vigilar a su hija.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250125071700 +0100" stop="20250125074900 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Cobra Kai</title>
+    <sub-title lang="es">Cobra Kai nunca muere</sub-title>
+    <desc lang="es">Robbie está en problemas con su padre. Johnny planea cerrar Cobra Kai después de que Miguel se lesione. La relación de Samantha y Kyler toca fondo. Una valla publicitaria destrozada crea tensión para Daniel.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250125074900 +0100" stop="20250125094400 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Rambo III</title>
+    <desc lang="es">Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberarlo. Después de contactar a la resistencia del lugar, entra en la zona sitiada por las tropas enemigas.</desc>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-iii-1988_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125094400 +0100" stop="20250125113300 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Revancha</title>
+    <title lang="xx">Payback</title>
+    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabó con su matrimonio.</desc>
+    <date>1999</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revancha-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125113300 +0100" stop="20250125115300 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La prueba tangible del afecto</sub-title>
+    <desc lang="es">Cuando los chicos tratan de regarle algo significativo en el Día de San Valentín a sus parejas, Raj y Stuart organizan una solitaria fiesta en la tienda de cómics.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e16-the-tangible-affection-proof_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20250125115300 +0100" stop="20250125121600 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">El aislamiento del monstruo</sub-title>
+    <desc lang="es">Después de una cita donde todo sale mal, Raj jura nunca más salir de su departamento. Mientras tanto, Penny termina impresionando a Sheldon con sus capacidades histriónicas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e17-the-monster-isolation_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
+  </programme>
+  <programme start="20250125121600 +0100" stop="20250125123900 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La reconfiguración del armario</sub-title>
+    <desc lang="es">¿Abrir o no abrir? Cuando Howard encuentra una carta de su padre, se ve forzado a enfrentar su pasado. Por su parte, Leonard y Penny hacen una fiesta de cóctel para "adultos" en el departamento.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e19-the-closet-reconfiguration_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+  </programme>
+  <programme start="20250125123900 +0100" stop="20250125130000 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La alternativa de la finalización</sub-title>
+    <desc lang="es">Después de que uno de sus programas de TV fuera cancelado demasiado pronto, Sheldon se siente perdido, así que Amy lo ayuda a conducir su necesidad compulsiva trabajando con su cerebro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e21-the-closure-alternative_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.20.</episode-num>
+  </programme>
+  <programme start="20250125130000 +0100" stop="20250125135100 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Riverdale</title>
+    <sub-title lang="es">Capítulo 120: Educación sexual</sub-title>
+    <desc lang="es">Después de que una lección de educación sexual deja a la pandilla más confundida que nunca, Veronica decide organizar una fiesta de besos en el Pembrooke.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_riverdale-s07e03-chapter-one-hundred-and-twenty-sex-education_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
+  </programme>
+  <programme start="20250125135100 +0100" stop="20250125141600 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Corte nocturna</title>
+    <sub-title lang="es">Maratón-Ton-Ton-Ton-Ton</sub-title>
+    <desc lang="es">Rand, el prometido de Abby, está en la ciudad para ayudarla a entrenar para un maratón al que Olivia decide unirse. Mientras tanto, Gurgs ayuda a Dan a intentar salvar un banco que tiene valor sentimental.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250125141600 +0100" stop="20250125143200 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Obreros milagrosos</title>
+    <sub-title lang="es">Jim Carrey in the Park</sub-title>
+    <desc lang="es">Morris presenta una producción teatral de "Ace Ventura: Detective de mascotas". Sid se va de viaje de fin de semana con Tai y sus amigos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_obreros-milagrosos-s04e05-jim-carrey-in-the-park_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20250125143200 +0100" stop="20250125163900 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">El código enigma</title>
+    <title lang="xx">The Imitation Game</title>
+    <desc lang="es">Alan Turing y su equipo corren una carrera contrarreloj tratando de romper el cifrado de la máquina Enigma de la Alemania Nazi en el ultrasecreto Cuartel General de Comunicaciones del Gobierno del Reino Unido.</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-codigo-enigma-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125163900 +0100" stop="20250125183300 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Revancha</title>
+    <title lang="xx">Payback</title>
+    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabó con su matrimonio.</desc>
+    <date>1999</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revancha-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125183300 +0100" stop="20250125203700 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Top Gun, reto a la gloria</title>
+    <title lang="xx">Top Gun</title>
+    <desc lang="es">Pete Mitchell, un impetuoso y temerario piloto naval, es aceptado en la escuela de élite Fighter School de Miramar, también conocida como Top Gun. Allí, competirá con sus compañeros por quedarse con el prestigioso Top Gun Trophy.</desc>
+    <date>1986</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_top-gun-reto-a-la-gloria-1986_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125203700 +0100" stop="20250125222500 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Rambo</title>
+    <title lang="xx">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-1982_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125222500 +0100" stop="20250126001400 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Rambo II</title>
+    <title lang="xx">Rambo: First Blood Part II</title>
+    <desc lang="es">Rambo es enviado de vuelta a Vietnam con una misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Sin embargo, tras saltar en la jungla portando un cuchillo y un arco con flechas, el plan no saldrá como esperaba.</desc>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-ii-1985_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126001400 +0100" stop="20250126020500 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Rambo III</title>
+    <desc lang="es">Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberarlo. Después de contactar a la resistencia del lugar, entra en la zona sitiada por las tropas enemigas.</desc>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-iii-1988_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126020500 +0100" stop="20250127020500 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Transformers: El lado oscuro de la Luna</title>
+    <title lang="xx">Transformers: Dark of the Moon</title>
+    <desc lang="es">Un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers pueden salvar el planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_transformers-el-lado-oscuro-de-la-luna-2011-2_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250127020500 +0100" stop="20250127050000 +0100" channel="CINE - Warner Channel Dual Audio (M)(1080)">
+    <title lang="es">Transformers: El lado oscuro de la Luna</title>
+    <title lang="xx">Transformers: Dark of the Moon</title>
+    <desc lang="es">Un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers pueden salvar el planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_transformers-el-lado-oscuro-de-la-luna-2011-2_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125031000 +0100" stop="20250125050000 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Rambo</title>
+    <title lang="xx">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-1982_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125050000 +0100" stop="20250125065100 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Rambo II</title>
+    <title lang="xx">Rambo: First Blood Part II</title>
+    <desc lang="es">Rambo es enviado de vuelta a Vietnam con una misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Sin embargo, tras saltar en la jungla portando un cuchillo y un arco con flechas, el plan no saldrá como esperaba.</desc>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-ii-1985_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125065100 +0100" stop="20250125071700 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Cobra Kai</title>
+    <sub-title lang="es">Esqueleto</sub-title>
+    <desc lang="es">Miguel ayuda a Johnny a anunciar Cobra Kai en la web. Daniel acepta ser chaperón en el baile de Halloween para poder vigilar a su hija.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250125071700 +0100" stop="20250125074900 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Cobra Kai</title>
+    <sub-title lang="es">Cobra Kai nunca muere</sub-title>
+    <desc lang="es">Robbie está en problemas con su padre. Johnny planea cerrar Cobra Kai después de que Miguel se lesione. La relación de Samantha y Kyler toca fondo. Una valla publicitaria destrozada crea tensión para Daniel.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250125074900 +0100" stop="20250125094400 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Rambo III</title>
+    <desc lang="es">Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberarlo. Después de contactar a la resistencia del lugar, entra en la zona sitiada por las tropas enemigas.</desc>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-iii-1988_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125094400 +0100" stop="20250125113300 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Revancha</title>
+    <title lang="xx">Payback</title>
+    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabó con su matrimonio.</desc>
+    <date>1999</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revancha-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125113300 +0100" stop="20250125115300 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La prueba tangible del afecto</sub-title>
+    <desc lang="es">Cuando los chicos tratan de regarle algo significativo en el Día de San Valentín a sus parejas, Raj y Stuart organizan una solitaria fiesta en la tienda de cómics.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e16-the-tangible-affection-proof_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20250125115300 +0100" stop="20250125121600 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">El aislamiento del monstruo</sub-title>
+    <desc lang="es">Después de una cita donde todo sale mal, Raj jura nunca más salir de su departamento. Mientras tanto, Penny termina impresionando a Sheldon con sus capacidades histriónicas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e17-the-monster-isolation_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
+  </programme>
+  <programme start="20250125121600 +0100" stop="20250125123900 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La reconfiguración del armario</sub-title>
+    <desc lang="es">¿Abrir o no abrir? Cuando Howard encuentra una carta de su padre, se ve forzado a enfrentar su pasado. Por su parte, Leonard y Penny hacen una fiesta de cóctel para "adultos" en el departamento.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e19-the-closet-reconfiguration_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+  </programme>
+  <programme start="20250125123900 +0100" stop="20250125130000 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">The Big Bang Theory</title>
+    <sub-title lang="es">La alternativa de la finalización</sub-title>
+    <desc lang="es">Después de que uno de sus programas de TV fuera cancelado demasiado pronto, Sheldon se siente perdido, así que Amy lo ayuda a conducir su necesidad compulsiva trabajando con su cerebro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-big-bang-theory-s06e21-the-closure-alternative_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.20.</episode-num>
+  </programme>
+  <programme start="20250125130000 +0100" stop="20250125135100 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Riverdale</title>
+    <sub-title lang="es">Capítulo 120: Educación sexual</sub-title>
+    <desc lang="es">Después de que una lección de educación sexual deja a la pandilla más confundida que nunca, Veronica decide organizar una fiesta de besos en el Pembrooke.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_riverdale-s07e03-chapter-one-hundred-and-twenty-sex-education_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.2.</episode-num>
+  </programme>
+  <programme start="20250125135100 +0100" stop="20250125141600 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Corte nocturna</title>
+    <sub-title lang="es">Maratón-Ton-Ton-Ton-Ton</sub-title>
+    <desc lang="es">Rand, el prometido de Abby, está en la ciudad para ayudarla a entrenar para un maratón al que Olivia decide unirse. Mientras tanto, Gurgs ayuda a Dan a intentar salvar un banco que tiene valor sentimental.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250125141600 +0100" stop="20250125143200 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Obreros milagrosos</title>
+    <sub-title lang="es">Jim Carrey in the Park</sub-title>
+    <desc lang="es">Morris presenta una producción teatral de "Ace Ventura: Detective de mascotas". Sid se va de viaje de fin de semana con Tai y sus amigos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_obreros-milagrosos-s04e05-jim-carrey-in-the-park_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20250125143200 +0100" stop="20250125163900 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">El código enigma</title>
+    <title lang="xx">The Imitation Game</title>
+    <desc lang="es">Alan Turing y su equipo corren una carrera contrarreloj tratando de romper el cifrado de la máquina Enigma de la Alemania Nazi en el ultrasecreto Cuartel General de Comunicaciones del Gobierno del Reino Unido.</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-codigo-enigma-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125163900 +0100" stop="20250125183300 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Revancha</title>
+    <title lang="xx">Payback</title>
+    <desc lang="es">Porter es balaceado por su esposa y su mejor amigo, quienes huyen pensando que había fallecido. Cuando logra recuperarse, Porter va en busca de quienes formaron el triángulo amoroso que acabó con su matrimonio.</desc>
+    <date>1999</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revancha-1999_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125183300 +0100" stop="20250125203700 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Top Gun, reto a la gloria</title>
+    <title lang="xx">Top Gun</title>
+    <desc lang="es">Pete Mitchell, un impetuoso y temerario piloto naval, es aceptado en la escuela de élite Fighter School de Miramar, también conocida como Top Gun. Allí, competirá con sus compañeros por quedarse con el prestigioso Top Gun Trophy.</desc>
+    <date>1986</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_top-gun-reto-a-la-gloria-1986_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125203700 +0100" stop="20250125222500 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Rambo</title>
+    <title lang="xx">First Blood</title>
+    <desc lang="es">John Rambo es un veterano de Vietnam que viaja para reunirse con sus compañeros de guerra. Tras ser encarcelado y maltratado, John huye al bosque. Ahora, la policía local y la guardia nacional salen a su caza.</desc>
+    <date>1982</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-1982_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250125222500 +0100" stop="20250126001400 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Rambo II</title>
+    <title lang="xx">Rambo: First Blood Part II</title>
+    <desc lang="es">Rambo es enviado de vuelta a Vietnam con una misión: averiguar el paradero de unos soldados norteamericanos desaparecidos. Sin embargo, tras saltar en la jungla portando un cuchillo y un arco con flechas, el plan no saldrá como esperaba.</desc>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-ii-1985_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126001400 +0100" stop="20250126020500 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Rambo III</title>
+    <desc lang="es">Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberarlo. Después de contactar a la resistencia del lugar, entra en la zona sitiada por las tropas enemigas.</desc>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rambo-iii-1988_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250126020500 +0100" stop="20250127020500 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Transformers: El lado oscuro de la Luna</title>
+    <title lang="xx">Transformers: Dark of the Moon</title>
+    <desc lang="es">Un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers pueden salvar el planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_transformers-el-lado-oscuro-de-la-luna-2011-2_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250127020500 +0100" stop="20250127050000 +0100" channel="CINE - Warner Channel (TV)(720)">
+    <title lang="es">Transformers: El lado oscuro de la Luna</title>
+    <title lang="xx">Transformers: Dark of the Moon</title>
+    <desc lang="es">Un acontecimiento amenaza con provocar una guerra tan grande que ni los propios transformers pueden salvar el planeta. Y una vez más, como casi siempre, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_transformers-el-lado-oscuro-de-la-luna-2011-2_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
   </programme>
   <programme start="20250125003000 -0300" stop="20250125010000 -0300" channel="CINE - Wobi TV (TV)(1080)">
     <title lang="es">Spotlight lindstrom</title>
