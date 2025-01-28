@@ -214,7 +214,7 @@
   </channel>
   <channel id="CINE - HBO. 2 (TV)(1080)">
     <display-name lang="es">CINE - HBO. 2 (TV)(1080)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png"/>
   </channel>
   <channel id="CINE - HBO 2 (T)(1080)">
     <display-name lang="es">CINE - HBO 2 (T)(1080)</display-name>
@@ -11355,14 +11355,61 @@
       <value>5.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20250128040000 +0100" stop="20250128050000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Hysteria!</title>
-    <sub-title lang="es">Can I Play with Madness</sub-title>
-    <desc lang="es">Dethkrunch organiza una reunión de un culto satánico. Por otro lado, Linda intenta comprender qué le está pasando.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
+  <programme start="20250128020000 +0100" stop="20250128040200 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Madame Web</title>
+    <desc lang="es">Tras sobrevivir a un accidente, la paramédica Cassandra Webb comienza a desenvolver sus habilidades clarividentes. Cuando se ve obligada a enfrentarse a los secretos de su pasado, conoce a tres mujeres destinadas a tener futuros poderosos.</desc>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>3.8/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250128050000 +0100" stop="20250128073500 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+  <programme start="20250128040200 +0100" stop="20250128054500 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Sin dejar rastro</title>
+    <title lang="xx">Last Seen Alive</title>
+    <desc lang="es">Un hombre investiga el submundo criminal de la ciudad mientras elude a las autoridades en una carrera contrarreloj para encontrar a su ex mujer, que ha desaparecido misteriosamente en una gasolinera.</desc>
+    <date>2022</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250128054500 +0100" stop="20250128073300 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">¿Qué pasó ayer? - Parte II</title>
+    <title lang="xx">The Hangover - Part II</title>
+    <desc lang="es">Alan, Stu y Phil vuelven a despertarse en otra habitación de otro hotel, y, en esta ocasión, tampoco recuerdan nada. Esta vez sólo saben que están en Tailandia, adonde han viajado Junto a Doug para asistir a la boda de Stu.</desc>
+    <date>2011</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_que-paso-ayer-parte-ii-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250128073300 +0100" stop="20250128100000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Sueño de libertad</title>
+    <title lang="xx">The Shawshank Redemption</title>
+    <desc lang="es">Andy, un joven banquero de éxito, es condenado por un tribunal a cadena perpetua por el asesinato de su esposa y su amante. En la prisión, Andy traba amistad con Red Redding, un preso atípico y muy respetado.</desc>
+    <date>1994</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sueno-de-libertad-1994_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250128100000 +0100" stop="20250128122500 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">El sorprendente Hombre Araña 2: La venganza de Electro</title>
+    <title lang="xx">The Amazing Spider-Man 2</title>
+    <desc lang="es">Peter Parker lleva una vida muy ocupada. Las cosas cambiarán para él cuando aparezca un nuevo villano, Electro, y regrese un viejo amigo, Harry Osborn, al tiempo que descubre nuevas pistas sobre su pasado.</desc>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-sorprendente-hombre-arana-2-la-venganza-de-electro-2014-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250128122500 +0100" stop="20250128150000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
     <title lang="es">Furiosa: de la saga Mad Max</title>
     <title lang="xx">Furiosa: A Mad Max Saga</title>
     <desc lang="es">Con la caída del mundo, una joven Furiosa es arrebatada del Lugar Verde de Muchas Madres y acaba en manos de una gran horda de motoristas liderada por el Señor de la Guerra Dementus y debe sobrevivir para lograr volver a casa.</desc>
@@ -11373,121 +11420,87 @@
       <value>7.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250128073500 +0100" stop="20250128093500 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Jurado nº 2</title>
-    <title lang="xx">Juror #2</title>
-    <desc lang="es">Justin Kemp es un padre de familia que, mientras ejerce de jurado en un juicio por asesinato, se enfrenta a un grave dilema moral que podría utilizar para influir en el veredicto del jurado y condenar, o liberar, al asesino equivocado.</desc>
-    <date>2024</date>
-    <category lang="es">Suspenso</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
-    <star-rating system="IMDb">
-      <value>7.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250128093500 +0100" stop="20250128113500 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Atómica</title>
-    <title lang="xx">Atomic Blonde</title>
-    <desc lang="es">La agente Lorraine Broughton, la joya de la corona del Servicio Secreto de Su Majestad, es enviada a Berlín para entregar un dossier invaluable de la ciudad. Ella se asocia con David Percival para navegar el juego de espías más mortífero.</desc>
-    <date>2017</date>
-    <category lang="es">Thriller</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_atomica-2017_l_l.jpg"/>
-    <star-rating system="IMDb">
-      <value>6.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250128113500 +0100" stop="20250128130000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Cuando las luces se apagan</title>
-    <title lang="xx">Lights Out</title>
-    <desc lang="es">Rebecca es una joven que es perseguida desde niña por Diana, un ser extraño que sólo puede atacar en la oscuridad, y que está relacionado con su madre. Ahora que Rebecca ha crecido, Diana intentará atrapar a Marvin, su pequeño hermano.</desc>
-    <date>2016</date>
-    <category lang="es">Terror</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_cuando-las-luces-se-apagan-2016_l_l.jpg"/>
-  </programme>
-  <programme start="20250128130000 +0100" stop="20250128144600 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Como si fuera la primera vez</title>
-    <title lang="xx">50 First Dates</title>
-    <desc lang="es">Henry Roth es un mujeriego veterinario de la fauna marina que se enamora perdidamente de la adorable Lucy Whitmore. El problema es que cada mañana ella olvida todo lo sucedido el día anterior, incluyendo haberlo conocido a él.</desc>
-    <date>2004</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_como-si-fuera-la-primera-vez-2004_l_l.jpg"/>
-    <star-rating system="IMDb">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250128144600 +0100" stop="20250128161100 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">El cadáver de la novia</title>
-    <title lang="xx">Tim Burton's Corpse Bride</title>
-    <desc lang="es">Víctor está a punto de casarse con Victoria. Una noche, en el bosque, el joven termina por accidente comprometido con el cadáver de una novia. Mientras él intenta regresar al lado de su amor, ella lo espera en el mundo de los vivos.</desc>
-    <date>2005</date>
-    <category lang="es">Animación</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_el-cadaver-de-la-novia-2005_l_l.jpg"/>
-  </programme>
-  <programme start="20250128161100 +0100" stop="20250128180400 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Beetlejuice Beetlejuice</title>
-    <desc lang="es">Tras una inesperada tragedia, tres generaciones de la familia Deetz regresan a Winter River. La vida de Lydia, atormentada por Bitelchús, da un vuelco cuando su hija descubre la maqueta de la ciudad y el portal al Más Allá se abre.</desc>
-    <date>2024</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
-    <star-rating system="IMDb">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250128180400 +0100" stop="20250128190600 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+  <programme start="20250128150000 +0100" stop="20250128160000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
     <title lang="es">Hysteria!</title>
     <sub-title lang="es">Can I Play with Madness</sub-title>
     <desc lang="es">Dethkrunch organiza una reunión de un culto satánico. Por otro lado, Linda intenta comprender qué le está pasando.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20250128190600 +0100" stop="20250128205800 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">La Navidad de las madres rebeldes</title>
-    <title lang="xx">A Bad Moms Christmas</title>
-    <desc lang="es">Amy, Carla y Kiki harán todo lo posible por mantener la compostura y la cordura cuando sus respectivas madres y abuelas de sus hijos les hagan una inesperada visita durante las vacaciones de Navidad.</desc>
-    <date>2017</date>
-    <category lang="es">Comedia</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_la-navidad-de-las-madres-rebeldes-2017_l_l.jpg"/>
+  <programme start="20250128160000 +0100" stop="20250128174000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">La maldición de La Llorona</title>
+    <title lang="xx">The Curse of La Llorona</title>
+    <desc lang="es">La Llorona es una aparición tenebrosa, atrapada entre el Cielo y el Infierno, con un destino terrible sellado por su propia mano. La mera mención de su nombre ha causado terror en todo el mundo durante generaciones.</desc>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-maldicion-de-la-llorona-2019_l_l.jpg"/>
     <star-rating system="IMDb">
-      <value>5.5/10</value>
+      <value>5.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20250128205800 +0100" stop="20250128225000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Caddo Lake</title>
-    <desc lang="es">La historia de una familia que se encuentra quebrada, vuelve a ser golpeada cuando desaparece misteriosamente una niña de 8 años en el lago Caddo. A partir de entonces, el hecho comienza a vincularse a muertes y desapariciones previas.</desc>
-    <date>2024</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  <programme start="20250128174000 +0100" stop="20250128191900 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Pesadilla en la calle Elm</title>
+    <title lang="xx">A Nightmare on Elm Street</title>
+    <desc lang="es">A un grupo de adolescentes los une el mismo lazo: a todos los acecha Freddy Krueger, un horripilante asesino desfigurado que los atormenta en sus sueños. Podrán protegerse entre ellos siempre y cuando se mantengan despiertos.</desc>
+    <date>2010</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pesadilla-en-la-calle-elm-2010_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.2/10</value>
+    </star-rating>
   </programme>
-  <programme start="20250128225000 +0100" stop="20250129012300 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Flash</title>
-    <title lang="xx">The Flash</title>
-    <desc lang="es">Barry altera el futuro cuando utiliza sus poderes para cambiar los acontecimientos del pasado. Ahora, ha quedado atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que llamar para detenerlo.</desc>
-    <date>2023</date>
-    <category lang="es">C.Ficción</category>
+  <programme start="20250128191900 +0100" stop="20250128211400 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Abigail</title>
+    <desc lang="es">Después de que un grupo de delincuentes secuestra a la hija bailarina de 12 años de un poderoso personaje del inframundo, lo único que deben hacer para cobrar un rescate de 50 millones de dólares es vigilar a la niña durante la noche.</desc>
+    <date>2024</date>
+    <category lang="es">Suspenso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250128211400 +0100" stop="20250128232400 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Tornados</title>
+    <title lang="xx">Twisters</title>
+    <desc lang="es">Kate, una ex cazadora de tormentas, Tyler Owens y su estridente equipo se hallan en medio de múltiples sistemas de tormentas que convergen sobre el centro de Oklahoma y los obligarán a luchar por sus vidas.</desc>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250128232400 +0100" stop="20250129020000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">Furiosa: de la saga Mad Max</title>
+    <title lang="xx">Furiosa: A Mad Max Saga</title>
+    <desc lang="es">Con la caída del mundo, una joven Furiosa es arrebatada del Lugar Verde de Muchas Madres y acaba en manos de una gran horda de motoristas liderada por el Señor de la Guerra Dementus y debe sobrevivir para lograr volver a casa.</desc>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250129020000 +0100" stop="20250130020000 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">El especialista</title>
+    <title lang="xx">The Fall Guy</title>
+    <desc lang="es">Recién salido de un accidente que casi acaba con su carrera, un doble de acción tiene que localizar a una estrella de cine desaparecida mientras intenta resolver una conspiración y recuperar al amor de su vida.</desc>
+    <date>2024</date>
+    <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
     <star-rating system="IMDb">
       <value>6.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20250129012300 +0100" stop="20250129031600 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Cincuenta sombras liberadas</title>
-    <title lang="xx">Fifty Shades Freed</title>
-    <desc lang="es">Creyendo que han dejado atrás las sombras del pasado, los recién casados Christian y Anastasia disfrutan de su relación y de su vida llena de lujos. Pero justo cuando Ana empieza a relajarse, aparecen nuevas amenazas.</desc>
-    <date>2018</date>
-    <category lang="es">Drama</category>
-    <icon src="https://cdn.mitvstatic.com/programs/mx_cincuenta-sombras-liberadas-2018_l_l.jpg"/>
-    <star-rating system="IMDb">
-      <value>4.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20250129031600 +0100" stop="20250130031600 +0100" channel="CINE - HBO. 2 (TV)(1080)">
-    <title lang="es">Sin dejar rastro</title>
-    <title lang="xx">Last Seen Alive</title>
-    <desc lang="es">Un hombre investiga el submundo criminal de la ciudad mientras elude a las autoridades en una carrera contrarreloj para encontrar a su ex mujer, que ha desaparecido misteriosamente en una gasolinera.</desc>
-    <date>2022</date>
-    <category lang="es">Acción</category>
+  <programme start="20250130020000 +0100" stop="20250130041200 +0100" channel="CINE - HBO. 2 (TV)(1080)">
+    <title lang="es">El especialista</title>
+    <title lang="xx">The Fall Guy</title>
+    <desc lang="es">Recién salido de un accidente que casi acaba con su carrera, un doble de acción tiene que localizar a una estrella de cine desaparecida mientras intenta resolver una conspiración y recuperar al amor de su vida.</desc>
+    <date>2024</date>
+    <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
     <star-rating system="IMDb">
-      <value>5.7/10</value>
+      <value>6.9/10</value>
     </star-rating>
   </programme>
   <programme start="20250128020000 +0100" stop="20250128040200 +0100" channel="CINE - HBO 2 (T)(1080)">
