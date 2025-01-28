@@ -836,7 +836,7 @@
     <display-name lang="es">NOT-DW (M)(720)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_deutsche-welle-espanol_m.png"/>
   </channel>
-  <channel id="NOT-NTN24 (TV)(720)">
+  <channel id="NOT-NTN 24 (TV)(720)">
     <display-name lang="es">NOT-NTN24 (TV)(720)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24.png"/>
   </channel>
@@ -844,13 +844,69 @@
     <display-name lang="es">NOT-NTN24 (T)(SD)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24.png"/>
   </channel>
-  <channel id="NOT-TelesSur (M)(SD)">
-    <display-name lang="es">NOT-TelesSur (M)(SD)</display-name>
+  <channel id="NOT-TeleSur (M)(SD)">
+    <display-name lang="es">NOT-TeleSur (M)(SD)</display-name>
     <icon src="https://www.reportv.com.ar/buscador/img/Logos/183317.gif"/>
   </channel>
   <channel id="NOT-Wobi (TV)(SD)">
     <display-name lang="es">NOT-Wobi (TV)(SD)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/wobi.png"/>
+  </channel>
+  <channel id="MUS-Bandamax (M)(SD)">
+    <display-name lang="es">MUS-Bandamax (M)(SD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png"/>
+  </channel>
+  <channel id="MUS-Bandamax (TV)(720)">
+    <display-name lang="es">MUS-Bandamax (TV)(720)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png"/>
+  </channel>
+  <channel id="MUS-HTV (M)(720)">
+    <display-name lang="es">MUS-HTV (M)(720)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_htv_m.png"/>
+  </channel>
+  <channel id="MUS-MTV (M)(1080)">
+    <display-name lang="es">MUS-MTV (M)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mtv_m.png"/>
+  </channel>
+  <channel id="MUS-MTV (M)(SD)">
+    <display-name lang="es">MUS-MTV (M)(SD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mtv_m.png"/>
+  </channel>
+  <channel id="MUS-MTV Live (M)(1080)">
+    <display-name lang="es">MUS-MTV Live (M)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mtv-live-hd_m.png"/>
+  </channel>
+  <channel id="MUS-MTV Live (M)(SD)">
+    <display-name lang="es">MUS-MTV Live (M)(SD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mtv-live-hd_m.png"/>
+  </channel>
+  <channel id="MUS-Telehit (M)(1080)">
+    <display-name lang="es">MUS-Telehit (M)(1080)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica.png"/>
+  </channel>
+  <channel id="MUS-Telehit (M)(SD)">
+    <display-name lang="es">MUS-Telehit (M)(SD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica.png"/>
+  </channel>
+  <channel id="MUS-Telehit Plus(M)(1080)">
+    <display-name lang="es">MUS-Telehit Plus(M)(1080)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica_plus.png"/>
+  </channel>
+  <channel id="MUS-VH1 (M)(1080)">
+    <display-name lang="es">MUS-VH1 (M)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_vh1_m.png"/>
+  </channel>
+  <channel id="MUS-VH1 (TV)(720)">
+    <display-name lang="es">MUS-VH1 (TV)(720)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s.png"/>
+  </channel>
+  <channel id="MUS-VH1 Classic(M)(SD)">
+    <display-name lang="es">MUS-VH1 Classic(M)(SD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_mtv-hits_m.png"/>
+  </channel>
+  <channel id="MUS-VH1 Plus (M)(SD)">
+    <display-name lang="es">MUS-VH1 Plus (M)(SD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_vh1_m.png"/>
   </channel>
   <programme start="20250128022500 +0100" stop="20250128041000 +0100" channel="CINE - A&amp;E (L)(1080)">
     <title lang="es">Bala mortal</title>
@@ -49561,157 +49617,157 @@
     <category lang="es">Todo deporte</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-todo-deporte_l_l.jpg"/>
   </programme>
-  <programme start="20250128010000 -0300" stop="20250128020000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128010000 -0300" stop="20250128020000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Poder Latino</title>
   </programme>
-  <programme start="20250128020000 -0300" stop="20250128030000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128020000 -0300" stop="20250128030000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250128030000 -0300" stop="20250128043000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128030000 -0300" stop="20250128043000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Tarde</title>
   </programme>
-  <programme start="20250128043000 -0300" stop="20250128050000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128043000 -0300" stop="20250128050000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20250128050000 -0300" stop="20250128060000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128050000 -0300" stop="20250128060000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Planeta Gente</title>
   </programme>
-  <programme start="20250128060000 -0300" stop="20250128070000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128060000 -0300" stop="20250128070000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Efecto Naím</title>
   </programme>
-  <programme start="20250128070000 -0300" stop="20250128080000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128070000 -0300" stop="20250128080000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250128080000 -0300" stop="20250128083000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128080000 -0300" stop="20250128083000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Flash Fashion</title>
   </programme>
-  <programme start="20250128083000 -0300" stop="20250128090000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128083000 -0300" stop="20250128090000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Contador de Historias</title>
   </programme>
-  <programme start="20250128090000 -0300" stop="20250128110000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128090000 -0300" stop="20250128110000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Mañana</title>
   </programme>
-  <programme start="20250128110000 -0300" stop="20250128120000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128110000 -0300" stop="20250128120000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20250128120000 -0300" stop="20250128123000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128120000 -0300" stop="20250128123000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20250128123000 -0300" stop="20250128133000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128123000 -0300" stop="20250128133000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Efecto Naím</title>
   </programme>
-  <programme start="20250128133000 -0300" stop="20250128140000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128133000 -0300" stop="20250128140000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20250128140000 -0300" stop="20250128150000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128140000 -0300" stop="20250128150000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250128150000 -0300" stop="20250128160000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128150000 -0300" stop="20250128160000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Planeta Gente</title>
   </programme>
-  <programme start="20250128160000 -0300" stop="20250128163000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128160000 -0300" stop="20250128163000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20250128163000 -0300" stop="20250128170000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128163000 -0300" stop="20250128170000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20250128170000 -0300" stop="20250128173000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128170000 -0300" stop="20250128173000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Contador de Historias</title>
   </programme>
-  <programme start="20250128173000 -0300" stop="20250128180000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128173000 -0300" stop="20250128180000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Flash Fashion</title>
   </programme>
-  <programme start="20250128180000 -0300" stop="20250128200000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128180000 -0300" stop="20250128200000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Tarde</title>
   </programme>
-  <programme start="20250128200000 -0300" stop="20250128210000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128200000 -0300" stop="20250128210000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20250128210000 -0300" stop="20250128220000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128210000 -0300" stop="20250128220000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250128220000 -0300" stop="20250128230000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128220000 -0300" stop="20250128230000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20250128230000 -0300" stop="20250129000000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250128230000 -0300" stop="20250129000000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250129000000 -0300" stop="20250129010000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129000000 -0300" stop="20250129010000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Nuestra Tele Deportes</title>
   </programme>
-  <programme start="20250129010000 -0300" stop="20250129020000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129010000 -0300" stop="20250129020000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20250129020000 -0300" stop="20250129030000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129020000 -0300" stop="20250129030000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250129030000 -0300" stop="20250129043000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129030000 -0300" stop="20250129043000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Tarde</title>
   </programme>
-  <programme start="20250129043000 -0300" stop="20250129050000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129043000 -0300" stop="20250129050000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20250129050000 -0300" stop="20250129060000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129050000 -0300" stop="20250129060000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Planeta Gente</title>
   </programme>
-  <programme start="20250129060000 -0300" stop="20250129070000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129060000 -0300" stop="20250129070000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20250129070000 -0300" stop="20250129080000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129070000 -0300" stop="20250129080000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250129080000 -0300" stop="20250129083000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129080000 -0300" stop="20250129083000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Flash Fashion</title>
   </programme>
-  <programme start="20250129083000 -0300" stop="20250129090000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129083000 -0300" stop="20250129090000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Contador de Historias</title>
   </programme>
-  <programme start="20250129090000 -0300" stop="20250129110000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129090000 -0300" stop="20250129110000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Mañana</title>
   </programme>
-  <programme start="20250129110000 -0300" stop="20250129120000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129110000 -0300" stop="20250129120000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20250129120000 -0300" stop="20250129123000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129120000 -0300" stop="20250129123000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20250129123000 -0300" stop="20250129133000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129123000 -0300" stop="20250129133000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20250129133000 -0300" stop="20250129140000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129133000 -0300" stop="20250129140000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20250129140000 -0300" stop="20250129150000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129140000 -0300" stop="20250129150000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250129150000 -0300" stop="20250129160000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129150000 -0300" stop="20250129160000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Planeta Gente</title>
   </programme>
-  <programme start="20250129160000 -0300" stop="20250129163000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129160000 -0300" stop="20250129163000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20250129163000 -0300" stop="20250129170000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129163000 -0300" stop="20250129170000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20250129170000 -0300" stop="20250129173000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129170000 -0300" stop="20250129173000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Contador de Historias</title>
   </programme>
-  <programme start="20250129173000 -0300" stop="20250129180000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129173000 -0300" stop="20250129180000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Flash Fashion</title>
   </programme>
-  <programme start="20250129180000 -0300" stop="20250129200000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129180000 -0300" stop="20250129200000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Tarde</title>
   </programme>
-  <programme start="20250129200000 -0300" stop="20250129210000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129200000 -0300" stop="20250129210000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20250129210000 -0300" stop="20250129220000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129210000 -0300" stop="20250129220000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250129220000 -0300" stop="20250129230000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129220000 -0300" stop="20250129230000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20250129230000 -0300" stop="20250130000000 -0300" channel="NOT-NTN24 (TV)(720)">
+  <programme start="20250129230000 -0300" stop="20250130000000 -0300" channel="NOT-NTN 24 (TV)(720)">
     <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20250128010000 -0300" stop="20250128020000 -0300" channel="NOT-NTN24 (T)(SD)">
@@ -49867,432 +49923,432 @@
   <programme start="20250129230000 -0300" stop="20250130000000 -0300" channel="NOT-NTN24 (T)(SD)">
     <title lang="es">Informativo NTN</title>
   </programme>
-  <programme start="20250128000000 -0400" stop="20250128003000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128000000 -0400" stop="20250128003000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Notables</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250128003000 -0400" stop="20250128010000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128003000 -0400" stop="20250128010000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128010000 -0400" stop="20250128013000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128010000 -0400" stop="20250128013000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Entrevista especial</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Entrevista</category>
   </programme>
-  <programme start="20250128013000 -0400" stop="20250128020000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128013000 -0400" stop="20250128020000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128020000 -0400" stop="20250128023000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128020000 -0400" stop="20250128023000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Somos</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128023000 -0400" stop="20250128030000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128023000 -0400" stop="20250128030000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128030000 -0400" stop="20250128033000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128030000 -0400" stop="20250128033000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Estelar</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128033000 -0400" stop="20250128040000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128033000 -0400" stop="20250128040000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mundo desde el sur</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128040000 -0400" stop="20250128043000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128040000 -0400" stop="20250128043000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El punto en la I</title>
     <category lang="es">Culturales</category>
     <category lang="es">Cultural</category>
   </programme>
-  <programme start="20250128043000 -0400" stop="20250128050000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128043000 -0400" stop="20250128050000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128050000 -0400" stop="20250128053000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128050000 -0400" stop="20250128053000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mapa</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Político</category>
   </programme>
-  <programme start="20250128053000 -0400" stop="20250128060000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128053000 -0400" stop="20250128060000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128060000 -0400" stop="20250128063000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128060000 -0400" stop="20250128063000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Somos</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128063000 -0400" stop="20250128070000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128063000 -0400" stop="20250128070000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128070000 -0400" stop="20250128073000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128070000 -0400" stop="20250128073000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">24 en la lista</title>
     <category lang="es">Documentales</category>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20250128073000 -0400" stop="20250128080000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128073000 -0400" stop="20250128080000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Conexión digital - Matutino</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250128080000 -0400" stop="20250128083000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128080000 -0400" stop="20250128083000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Matutino</title>
     <category lang="es">Noticias</category>
     <category lang="es">Economía</category>
   </programme>
-  <programme start="20250128083000 -0400" stop="20250128093000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128083000 -0400" stop="20250128093000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Agenda abierta</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250128093000 -0400" stop="20250128100000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128093000 -0400" stop="20250128100000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Reportes 360 - Matutino</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128100000 -0400" stop="20250128103000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128100000 -0400" stop="20250128103000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Guía tu cuerpo</title>
     <category lang="es">Culturales</category>
     <category lang="es">Salud</category>
   </programme>
-  <programme start="20250128103000 -0400" stop="20250128110000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128103000 -0400" stop="20250128110000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128110000 -0400" stop="20250128113000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128110000 -0400" stop="20250128113000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Deportes Telesur</title>
     <category lang="es">Deportes</category>
     <category lang="es">Deportivo</category>
   </programme>
-  <programme start="20250128113000 -0400" stop="20250128123000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128113000 -0400" stop="20250128123000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Conexión global</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128123000 -0400" stop="20250128130000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128123000 -0400" stop="20250128130000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mapa</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Político</category>
   </programme>
-  <programme start="20250128130000 -0400" stop="20250128133000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128130000 -0400" stop="20250128133000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Matutino</title>
     <category lang="es">Noticias</category>
     <category lang="es">Economía</category>
   </programme>
-  <programme start="20250128133000 -0400" stop="20250128140000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128133000 -0400" stop="20250128140000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Conexión digital - Vespertino</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250128140000 -0400" stop="20250128143000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128140000 -0400" stop="20250128143000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Notables</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250128143000 -0400" stop="20250128150000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128143000 -0400" stop="20250128150000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Lenguaje de señas</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250128150000 -0400" stop="20250128153000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128150000 -0400" stop="20250128153000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Somos</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128153000 -0400" stop="20250128160000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128153000 -0400" stop="20250128160000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128160000 -0400" stop="20250128163000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128160000 -0400" stop="20250128163000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Guía tu cuerpo</title>
     <category lang="es">Culturales</category>
     <category lang="es">Salud</category>
   </programme>
-  <programme start="20250128163000 -0400" stop="20250128170000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128163000 -0400" stop="20250128170000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Temas del día</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128170000 -0400" stop="20250128173000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128170000 -0400" stop="20250128173000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Deportes Telesur</title>
     <category lang="es">Deportes</category>
     <category lang="es">Deportivo</category>
   </programme>
-  <programme start="20250128173000 -0400" stop="20250128180000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128173000 -0400" stop="20250128180000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128180000 -0400" stop="20250128183000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128180000 -0400" stop="20250128183000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El punto en la I</title>
     <category lang="es">Culturales</category>
     <category lang="es">Cultural</category>
   </programme>
-  <programme start="20250128183000 -0400" stop="20250128190000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128183000 -0400" stop="20250128190000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Reportes 360 - Estelar</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250128190000 -0400" stop="20250128193000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128190000 -0400" stop="20250128193000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Estelar</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128193000 -0400" stop="20250128210000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128193000 -0400" stop="20250128210000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Edición central</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128210000 -0400" stop="20250128213000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128210000 -0400" stop="20250128213000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mundo desde el sur</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128213000 -0400" stop="20250128220000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128213000 -0400" stop="20250128220000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Notables</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250128220000 -0400" stop="20250128223000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128220000 -0400" stop="20250128223000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Entre fronteras</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250128223000 -0400" stop="20250128230000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128223000 -0400" stop="20250128230000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Te lo cuento</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250128230000 -0400" stop="20250128233000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128230000 -0400" stop="20250128233000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mapa</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Político</category>
   </programme>
-  <programme start="20250128233000 -0400" stop="20250129000000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250128233000 -0400" stop="20250129000000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Entrevista especial</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Entrevista</category>
   </programme>
-  <programme start="20250129000000 -0400" stop="20250129003000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129000000 -0400" stop="20250129003000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Notables</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129003000 -0400" stop="20250129010000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129003000 -0400" stop="20250129010000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129010000 -0400" stop="20250129013000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129010000 -0400" stop="20250129013000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El punto en la I</title>
     <category lang="es">Culturales</category>
     <category lang="es">Cultural</category>
   </programme>
-  <programme start="20250129013000 -0400" stop="20250129020000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129013000 -0400" stop="20250129020000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129020000 -0400" stop="20250129023000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129020000 -0400" stop="20250129023000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Somos</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129023000 -0400" stop="20250129030000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129023000 -0400" stop="20250129030000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129030000 -0400" stop="20250129033000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129030000 -0400" stop="20250129033000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Estelar</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129033000 -0400" stop="20250129040000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129033000 -0400" stop="20250129040000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mundo desde el sur</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129040000 -0400" stop="20250129043000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129040000 -0400" stop="20250129043000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Entrevista especial</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Entrevista</category>
   </programme>
-  <programme start="20250129043000 -0400" stop="20250129050000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129043000 -0400" stop="20250129050000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129050000 -0400" stop="20250129053000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129050000 -0400" stop="20250129053000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mapa</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Político</category>
   </programme>
-  <programme start="20250129053000 -0400" stop="20250129060000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129053000 -0400" stop="20250129060000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129060000 -0400" stop="20250129063000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129060000 -0400" stop="20250129063000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Somos</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129063000 -0400" stop="20250129070000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129063000 -0400" stop="20250129070000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129070000 -0400" stop="20250129073000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129070000 -0400" stop="20250129073000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Texto y contexto</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129073000 -0400" stop="20250129080000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129073000 -0400" stop="20250129080000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Conexión digital - Matutino</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250129080000 -0400" stop="20250129083000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129080000 -0400" stop="20250129083000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Matutino</title>
     <category lang="es">Noticias</category>
     <category lang="es">Economía</category>
   </programme>
-  <programme start="20250129083000 -0400" stop="20250129093000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129083000 -0400" stop="20250129093000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Agenda abierta</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250129093000 -0400" stop="20250129100000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129093000 -0400" stop="20250129100000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Reportes 360 - Matutino</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129100000 -0400" stop="20250129103000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129100000 -0400" stop="20250129103000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Destino verde</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129103000 -0400" stop="20250129110000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129103000 -0400" stop="20250129110000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129110000 -0400" stop="20250129113000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129110000 -0400" stop="20250129113000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Deportes Telesur</title>
     <category lang="es">Deportes</category>
     <category lang="es">Deportivo</category>
   </programme>
-  <programme start="20250129113000 -0400" stop="20250129123000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129113000 -0400" stop="20250129123000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Conexión global</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129123000 -0400" stop="20250129130000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129123000 -0400" stop="20250129130000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mapa</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Político</category>
   </programme>
-  <programme start="20250129130000 -0400" stop="20250129133000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129130000 -0400" stop="20250129133000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Matutino</title>
     <category lang="es">Noticias</category>
     <category lang="es">Economía</category>
   </programme>
-  <programme start="20250129133000 -0400" stop="20250129140000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129133000 -0400" stop="20250129140000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Conexión digital - Vespertino</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250129140000 -0400" stop="20250129143000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129140000 -0400" stop="20250129143000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Notables</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129143000 -0400" stop="20250129150000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129143000 -0400" stop="20250129150000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Lenguaje de señas</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129150000 -0400" stop="20250129153000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129150000 -0400" stop="20250129153000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Somos</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129153000 -0400" stop="20250129160000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129153000 -0400" stop="20250129160000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129160000 -0400" stop="20250129163000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129160000 -0400" stop="20250129163000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Destino verde</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129163000 -0400" stop="20250129170000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129163000 -0400" stop="20250129170000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Temas del día</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129170000 -0400" stop="20250129173000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129170000 -0400" stop="20250129173000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Deportes Telesur</title>
     <category lang="es">Deportes</category>
     <category lang="es">Deportivo</category>
   </programme>
-  <programme start="20250129173000 -0400" stop="20250129180000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129173000 -0400" stop="20250129180000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Telesur Noticias</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129180000 -0400" stop="20250129183000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129180000 -0400" stop="20250129183000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Entre fronteras</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250129183000 -0400" stop="20250129190000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129183000 -0400" stop="20250129190000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Reportes 360 - Estelar</title>
     <category lang="es">Periodístico</category>
   </programme>
-  <programme start="20250129190000 -0400" stop="20250129193000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129190000 -0400" stop="20250129193000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Impacto económico - Estelar</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129193000 -0400" stop="20250129210000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129193000 -0400" stop="20250129210000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Edición central</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129210000 -0400" stop="20250129213000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129210000 -0400" stop="20250129213000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mundo desde el sur</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129213000 -0400" stop="20250129220000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129213000 -0400" stop="20250129220000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Notables</title>
     <category lang="es">Variedades</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129220000 -0400" stop="20250129223000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129220000 -0400" stop="20250129223000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Latitud Brasil</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Interés general</category>
   </programme>
-  <programme start="20250129223000 -0400" stop="20250129230000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129223000 -0400" stop="20250129230000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Te lo cuento</title>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20250129230000 -0400" stop="20250129233000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129230000 -0400" stop="20250129233000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">El mapa</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Político</category>
   </programme>
-  <programme start="20250129233000 -0400" stop="20250130000000 -0400" channel="NOT-TelesSur (M)(SD)">
+  <programme start="20250129233000 -0400" stop="20250130000000 -0400" channel="NOT-TeleSur (M)(SD)">
     <title lang="es">Texto y contexto</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Interés general</category>
@@ -50557,5 +50613,1963 @@
   </programme>
   <programme start="20250129233000 -0300" stop="20250130000000 -0300" channel="NOT-Wobi (TV)(SD)">
     <title lang="es">Ideas on stage WOD Madrid</title>
+  </programme>
+  <programme start="20250128082000 +0100" stop="20250128165000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Las 10 más picudas de la cumbia</title>
+    <desc lang="es">Un programa que repasa las novedades musicales más destacadas del regional mexicano y la cumbia. El público podrá disfrutar de los últimos lanzamientos, las giras más destcadas y las mejores melodías con los artistas más destacados.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-10-mas-picudas-de-la-cumbia_l_l.jpg"/>
+  </programme>
+  <programme start="20250128165000 +0100" stop="20250128171500 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Ídolos</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_idolos_l_l.jpg"/>
+  </programme>
+  <programme start="20250128171500 +0100" stop="20250128200000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128220000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Vivo pa'la banda</title>
+    <desc lang="es">Un programa que repasa los éxitos musicales y los últimos lanzamientos del regional mexicano. El público podrá bailar y cantar con las canciones de los artistas más destacados de la escena nacional.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128220000 +0100" stop="20250128223000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Qué News Bandamax</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_que-news-bandamax-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250128223000 +0100" stop="20250129015000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129015000 +0100" stop="20250129082000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Las 10 más picudas</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-10-mas-picudas-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129082000 +0100" stop="20250129103000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Las 10 más picudas</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-10-mas-picudas-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129103000 +0100" stop="20250129165000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Regional clasificado</title>
+    <desc lang="es">Ingrid Lazper te trae las historias más inspiradoras de tus artistas favoritos.</desc>
+    <category lang="es">- Los para - Parte 1</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20250129165000 +0100" stop="20250129171500 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Ídolos</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_idolos_l_l.jpg"/>
+  </programme>
+  <programme start="20250129171500 +0100" stop="20250129200000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129200000 +0100" stop="20250129220000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Vivo pa'la banda</title>
+    <desc lang="es">Un programa que repasa los éxitos musicales y los últimos lanzamientos del regional mexicano. El público podrá bailar y cantar con las canciones de los artistas más destacados de la escena nacional.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129220000 +0100" stop="20250129223000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Qué News Bandamax</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_que-news-bandamax-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129223000 +0100" stop="20250130000000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250130000000 +0100" stop="20250130020000 +0100" channel="MUS-Bandamax (M)(SD)">
+    <title lang="es">Regional clasificado</title>
+    <desc lang="es">Ingrid Lazper te trae las historias más inspiradoras de tus artistas favoritos.</desc>
+    <category lang="es">- Los para - Parte 2</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20250128082000 +0100" stop="20250128165000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Las 10 más picudas de la cumbia</title>
+    <desc lang="es">Un programa que repasa las novedades musicales más destacadas del regional mexicano y la cumbia. El público podrá disfrutar de los últimos lanzamientos, las giras más destcadas y las mejores melodías con los artistas más destacados.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-10-mas-picudas-de-la-cumbia_l_l.jpg"/>
+  </programme>
+  <programme start="20250128165000 +0100" stop="20250128171500 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Ídolos</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_idolos_l_l.jpg"/>
+  </programme>
+  <programme start="20250128171500 +0100" stop="20250128200000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128220000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Vivo pa'la banda</title>
+    <desc lang="es">Un programa que repasa los éxitos musicales y los últimos lanzamientos del regional mexicano. El público podrá bailar y cantar con las canciones de los artistas más destacados de la escena nacional.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128220000 +0100" stop="20250128223000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Qué News Bandamax</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_que-news-bandamax-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250128223000 +0100" stop="20250129015000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129015000 +0100" stop="20250129082000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Las 10 más picudas</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-10-mas-picudas-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129082000 +0100" stop="20250129103000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Las 10 más picudas</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_las-10-mas-picudas-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129103000 +0100" stop="20250129165000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Regional clasificado</title>
+    <desc lang="es">Ingrid Lazper te trae las historias más inspiradoras de tus artistas favoritos.</desc>
+    <category lang="es">- Los para - Parte 1</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20250129165000 +0100" stop="20250129171500 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Ídolos</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_idolos_l_l.jpg"/>
+  </programme>
+  <programme start="20250129171500 +0100" stop="20250129200000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129200000 +0100" stop="20250129220000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Vivo pa'la banda</title>
+    <desc lang="es">Un programa que repasa los éxitos musicales y los últimos lanzamientos del regional mexicano. El público podrá bailar y cantar con las canciones de los artistas más destacados de la escena nacional.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129220000 +0100" stop="20250129223000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Qué News Bandamax</title>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_que-news-bandamax-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129223000 +0100" stop="20250130000000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Buenas Banda</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250130000000 +0100" stop="20250130020000 +0100" channel="MUS-Bandamax (TV)(720)">
+    <title lang="es">Regional clasificado</title>
+    <desc lang="es">Ingrid Lazper te trae las historias más inspiradoras de tus artistas favoritos.</desc>
+    <category lang="es">- Los para - Parte 2</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20250128190000 +0100" stop="20250129060000 +0100" channel="MUS-HTV (M)(720)">
+    <title lang="es">HTV</title>
+    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129060000 +0100" stop="20250129140000 +0100" channel="MUS-HTV (M)(720)">
+    <title lang="es">HTV</title>
+    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129140000 +0100" stop="20250129190000 +0100" channel="MUS-HTV (M)(720)">
+    <title lang="es">HTV</title>
+    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129190000 +0100" stop="20250130190000 +0100" channel="MUS-HTV (M)(720)">
+    <title lang="es">HTV</title>
+    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128031500 +0100" stop="20250128040500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Unfaithful: Caught in the Act</title>
+    <sub-title lang="es">Too Beautiful to Be Crying</sub-title>
+    <desc lang="es">Durante seis años, Ja Van y R. Guy mantuvieron una relación armoniosa. Sin embargo, las cosas cambiaron gradualmente al punto de que Ja Van, se ausenta durante días.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20250128040500 +0100" stop="20250128050000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Jersey Shore: vacaciones en familia</title>
+    <sub-title lang="es">A Telenovela</sub-title>
+    <desc lang="es">La Fiesta de la Paz de JWOWWS no marcha según lo planeado. Mientras tanto, Pauly le enseña a Nikki la diferencia entre rigatoni y linguini. Además, con la previa de la llegada del bebé, Mike organiza la próxima escapada familiar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_jersey-shore-vacaciones-en-familia-s07e26-a-telenovela_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.25.</episode-num>
+  </programme>
+  <programme start="20250128050000 +0100" stop="20250128055000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Jersey Shore: vacaciones en familia</title>
+    <sub-title lang="es">The Big Apple</sub-title>
+    <desc lang="es">El tercer bebé de Mike y Lauren está llegando. Sammi continúa con su viaje de FIV. Mientras tanto, el resto de la pandilla se apodera de la Gran Manzana, para ir a un espectáculo de comedia de Vinny.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_jersey-shore-vacaciones-en-familia-s07e27-the-big-apple_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.26.</episode-num>
+  </programme>
+  <programme start="20250128055000 +0100" stop="20250128064000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">The Surreal Life</title>
+    <sub-title lang="es">Villa of Secrets: Secret Rendezvous</sub-title>
+    <desc lang="es">El arte imita a la vida, cuando Sloan le pide a la casa que recree algunos de los momentos más absurdos y surrealistas que vivieron en la villa, dentro del contexto de una telenovela disparatada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250128064000 +0100" stop="20250128070000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e34_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.33.</episode-num>
+  </programme>
+  <programme start="20250128070000 +0100" stop="20250128074500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ink Master</title>
+    <sub-title lang="es">Heavy Lifting</sub-title>
+    <desc lang="es">Los artistas deberán conducir todo su propio peso en un Flash Challenge por equipos. Los retratos cara a cara en el Elimination Tattoo, alimentan la tensión de los artístas. ¿Quién será el ganador de ésta ronda?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ink-master-s08e13-heavy-lifting_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
+  </programme>
+  <programme start="20250128074500 +0100" stop="20250128081000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e37_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.36.</episode-num>
+  </programme>
+  <programme start="20250128081000 +0100" stop="20250128083500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e38_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.37.</episode-num>
+  </programme>
+  <programme start="20250128083500 +0100" stop="20250128090500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e39_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.38.</episode-num>
+  </programme>
+  <programme start="20250128090500 +0100" stop="20250128100000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250128100000 +0100" stop="20250128110000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250128110000 +0100" stop="20250128120000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250128120000 +0100" stop="20250128130000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Insomnio MTV</title>
+    <desc lang="es">¿No podés o no querés dormir? Quedate escuchando la mejor música en MTV.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insomnio-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250128130000 +0100" stop="20250128140000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250128140000 +0100" stop="20250128145500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250128145500 +0100" stop="20250128160000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250128160000 +0100" stop="20250128164500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <sub-title lang="es">Strength Is a Mentality</sub-title>
+    <desc lang="es">La hija de Cory finalmente tiene su cirugía de corazón. Por otro lado, Cheyenne se preocupa por la salud de Ryder. Además, Catelynn y Tyler tienen una charla con Nova sobre la seguridad corporal y los límites físicos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20250128164500 +0100" stop="20250128173500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e90_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.89.</episode-num>
+  </programme>
+  <programme start="20250128173500 +0100" stop="20250128182000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e91_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.90.</episode-num>
+  </programme>
+  <programme start="20250128182000 +0100" stop="20250128190500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e92_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.91.</episode-num>
+  </programme>
+  <programme start="20250128190500 +0100" stop="20250128195500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Great Ex-pectations</sub-title>
+    <desc lang="es">Un desafío digno de vergüenza invita a las ex de los chicos a hablar un poco de basura. Gio y Stephen finalmente descubren la verdad sobre Julia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+  </programme>
+  <programme start="20250128195500 +0100" stop="20250128204000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Third Eye Blind</sub-title>
+    <desc lang="es">Los viejos conflictos estallan y la casa se desmorona cuando una pelea épica provoca conmoción y lágrimas. Con solo dos Ceremonias de Enfrentamiento restantes, la casa intenta desesperadamente idear una estrategia para ganar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+  </programme>
+  <programme start="20250128204000 +0100" stop="20250128210500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling y Rocsi Diaz XII</sub-title>
+    <desc lang="es">Rob, Steelo y Rocsi Díaz se unen para bajar por algunas: Pistas de escaleras. Luego, pretenden ayudar en: Felping. Además, conocen a algunos fanáticos de la vitamina C que están: Locos por los cítricos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e31-sterling-y-rocsi-diaz-xii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.30.</episode-num>
+  </programme>
+  <programme start="20250128210500 +0100" stop="20250128213000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling y Rocsi Diaz XIII</sub-title>
+    <desc lang="es">Rob, Steelo y Rocsi Diaz descubren que la suciedad puede hacer estragos en: Dirt Damaged. Luego, observan a algunos chefs en autos en: Cruise Cuisine. Además, observan cómo el cuidado del césped se sale de control en: Mowed Down.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e32-sterling-y-rocsi-diaz-xiii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.31.</episode-num>
+  </programme>
+  <programme start="20250128213000 +0100" stop="20250128220000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Nina Agdal LIV</sub-title>
+    <desc lang="es">Rob Dyrdek, Steelo Brim y Nina Agdal buscan algunos amores equinos en: Horse around and find out. Luego, se arriesgan a ver unas: Head Traps. Además, se aferran de la montaña rusa en: Fight and make up.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e33-sterling-and-nina-agdal-liv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.32.</episode-num>
+  </programme>
+  <programme start="20250128220000 +0100" stop="20250128222000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling y Nina Agdal XXXI</sub-title>
+    <desc lang="es">Rob, Steelo y la invitada especial, Nina Agdal, preparan sus raquetas en: Ping ping ding dong. Luego, se enojan jugando: Juegos serios. Además, reciben cumplidos extraños en: Damas torpes ligan.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s35e17-sterling-y-nina-agdal-xxxi_l_l.jpg"/>
+    <episode-num system="xmltv_ns">34.16.</episode-num>
+  </programme>
+  <programme start="20250128222000 +0100" stop="20250128231000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Robert &amp; Ashleigh</sub-title>
+    <desc lang="es">Después de quedar paralizdo siendo un adolescente, Robert conoció a Ashleigh en línea y se enamoraron. Con la noticia de que no le queda mucho tiempo de vida, pide a Nev y Max que le traigan a Ashleigh, y averiguar si su amor fue real.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s06e16-robert-ashleigh_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20250128231000 +0100" stop="20250129000000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e86_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.85.</episode-num>
+  </programme>
+  <programme start="20250129000000 +0100" stop="20250129005000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Nae y Brannon</sub-title>
+    <desc lang="es">Nev y Max intentarán ayudar a que una joven llamada Nae rastree a su novio famoso de internet, pero se encontrarán involucrados en una conspiración inesperada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s07e16-nae-y-brannon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.15.</episode-num>
+  </programme>
+  <programme start="20250129005000 +0100" stop="20250129012500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Mike &amp; Joey</sub-title>
+    <desc lang="es">Nev y la co-conductora, Jane Carrey, ayudan a Mike a elegir entre su vida en Los Ángeles y su profundo afecto por el misterioso Joey, un mecánico del cual él se enamoró en Grindr.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s07e19-mike-joey_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.18.</episode-num>
+  </programme>
+  <programme start="20250129012500 +0100" stop="20250129022000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish Brasil</title>
+    <sub-title lang="es">Leonardo y Mariana</sub-title>
+    <desc lang="es">La musa inspiradora de Leo es Mariana de Río de Janeiro, pero la pareja nunca se conoció en persona. Ahora, Leo recurre a Ciro y Ricardo para despejar la duda de si realmente Mariana es quien dice ser.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-brasil-s01e03-leonardo-mariana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250129022000 +0100" stop="20250129031500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">¿Por qué me escondes?</title>
+    <sub-title lang="es">Lisa &amp; Tee</sub-title>
+    <desc lang="es">Lisa y su hijo, Tee, tenían una relación cercana, pero últimamente él ha estado actuando diferente y la ha bloqueado de sus redes sociales. Su madre exige saber por qué la esconde, pero el secreto de Tee podría separar a esta familia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250129031500 +0100" stop="20250129040000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Unfaithful: Caught in the Act</title>
+    <sub-title lang="es">There's No Future in Frontin'</sub-title>
+    <desc lang="es">Sicorra cree que la personalidad de playboy rapero de su novio es sólo para el escenario, pero ahora sospecha que el arte invita a la vida social y que él realmente puede estar engañándola.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+  </programme>
+  <programme start="20250129040000 +0100" stop="20250129050000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">La venganza de los ex VIP</title>
+    <sub-title lang="es">Los demonios bailan en la villa</sub-title>
+    <desc lang="es">Rufas le rompe el corazón a Carolina. A Jey le toca escena de celos doble. La Sala Tornado sopla todos los chismes de Brandon. El lobo está enjaulado mientras que Yess le hace piojitos. Una fiesta termina con la llegada de un EX.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20250129050000 +0100" stop="20250129060000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">La venganza de los ex VIP</title>
+    <sub-title lang="es">Efectos instantáneos</sub-title>
+    <desc lang="es">Yess se dio tragos hasta encontrar el más amargo. Los bandos tratan de encontrar la paz, pero solo tratan. Isaac ya no puede forzar la máquina y termina a Leslie. Unas pócimas mágicas llenas de alcohol hacen efecto inmediato.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+  </programme>
+  <programme start="20250129060000 +0100" stop="20250129070000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">La venganza de los ex VIP</title>
+    <sub-title lang="es">¡Qué viva la toxicidad!</sub-title>
+    <desc lang="es">Lizbeth y Alí dan los votos a su amor tóxico mientras que los salvados, dan sus votos a la soltería. La Love Suite se abre por última vez con un trío muy caliente y el último brindis trae a un artista sorpresa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20250129070000 +0100" stop="20250129074500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ink Master</title>
+    <sub-title lang="es">Bio-Mechanical Failure</sub-title>
+    <desc lang="es">La competición está en su punto más alto y los artistas deben trabajar en equipo, para poder transformar los lienzos en cyborgs. La batalla continúa por el título de Ink Master.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ink-master-s08e14-bio-mechanical-failure_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.13.</episode-num>
+  </programme>
+  <programme start="20250129074500 +0100" stop="20250129081000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e42_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.41.</episode-num>
+  </programme>
+  <programme start="20250129081000 +0100" stop="20250129083500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Rocsi Diaz VII</sub-title>
+    <desc lang="es">Rob, Steelo y Rocsi Diaz caen en las colinas a alta velocidad en: Going Downhill Fast. Luego, conocen a algunos amantes de los pies en: Foot Fellas. Además, dejan a sus amigos abandonados en Crisis Cowards.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e01-sterling-and-rocsi-diaz-vii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.0.</episode-num>
+  </programme>
+  <programme start="20250129083500 +0100" stop="20250129090500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Carly Aquilino XLIV</sub-title>
+    <desc lang="es">Rob, Steelo y Carly Aquilino se ocupan de los: Pequeños terrores. Luego, organizan sus: Colecciones locas. Además, hacen nuevos: Amigos del baño.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e02-sterling-and-carly-aquilino-xliv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.1.</episode-num>
+  </programme>
+  <programme start="20250129090500 +0100" stop="20250129100000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250129100000 +0100" stop="20250129110000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250129110000 +0100" stop="20250129120000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250129120000 +0100" stop="20250129130000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Insomnio MTV</title>
+    <desc lang="es">¿No podés o no querés dormir? Quedate escuchando la mejor música en MTV.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insomnio-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250129130000 +0100" stop="20250129140000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250129140000 +0100" stop="20250129145500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250129145500 +0100" stop="20250129160000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250129160000 +0100" stop="20250129164500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <sub-title lang="es">Jugando con fuego</sub-title>
+    <desc lang="es">Jade y Cheyenne visitan a Briana. Luego, todos los ojos están puestos en su relación con Devoin. Además, las madres se dejan llevar por un juego de verdad o reto, pero el drama entre Ashley y Cheyenne es el centro de atención.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+  </programme>
+  <programme start="20250129164500 +0100" stop="20250129173500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e93_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.92.</episode-num>
+  </programme>
+  <programme start="20250129173500 +0100" stop="20250129182000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e94_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.93.</episode-num>
+  </programme>
+  <programme start="20250129182000 +0100" stop="20250129190500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e95_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.94.</episode-num>
+  </programme>
+  <programme start="20250129190500 +0100" stop="20250129195500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Todo o nada</sub-title>
+    <desc lang="es">Es todo o nada para llegar a la décima y última ceremonia de enfrentamiento. La estrategia lleva al grupo a creer en una serie de partidos, pero Asaf lucha entre seguir su corazón y ser un jugador de equipo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+  </programme>
+  <programme start="20250129195500 +0100" stop="20250129204000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Desliza a la derecha para el amor</sub-title>
+    <desc lang="es">Veintidós solteros se mudan a una casa en Nueva Orleans para intentar formar 11 parejas perfectas y ganar $ 1,000,000. A medida que las parejas se enamoran dura y rápidamente, se forman triángulos amorosos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20250129204000 +0100" stop="20250129210500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Nina Agdal LV</sub-title>
+    <desc lang="es">Rob y Steelo junto a Nina Agdal descubren que las apariencias engañan en: Looked Real to Me. Luego, se asombran con las cucarachas voladoras en: Roach Air. Además, ven algo de locura en la carretera en: Traffic Reports.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e34-sterling-and-nina-agdal-lv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.33.</episode-num>
+  </programme>
+  <programme start="20250129210500 +0100" stop="20250129213000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Carly Aquilino LV</sub-title>
+    <desc lang="es">Rob, Steelo y Carly Aquilino se preocupan demasiado en: Too Competitive. Luego, aceleran a fondo en: Full Whiskey. Además, visitan Nueva Inglaterra en: Speakin' Boston.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e35-sterling-and-carly-aquilino-lv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.34.</episode-num>
+  </programme>
+  <programme start="20250129213000 +0100" stop="20250129220000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Carly Aquilino LVI</sub-title>
+    <desc lang="es">Rob, Steelo y Carly Aquilino toman el aire peligroso en algunos: Graneros de mal rebote. Luego, se calientan demasiado en la cocina en: Cocineros de fuego. Además, descubren qué sucede cuando no: Esperas tu turno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e36-sterling-and-carly-aquilino-lvi_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.35.</episode-num>
+  </programme>
+  <programme start="20250129220000 +0100" stop="20250129222000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Nina Agdal XXXII</sub-title>
+    <desc lang="es">Rob y Steelo le dan la bienvenida a Nina Agdal, para que se suba a Failed horse girls. Juntos festejan con un presupuesto limitado con Budget Clubbing. Además, deje que todo fluya Gratis para orinar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s35e18-sterling-and-nina-agdal-xxxii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">34.17.</episode-num>
+  </programme>
+  <programme start="20250129222000 +0100" stop="20250129231000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.7.</episode-num>
+  </programme>
+  <programme start="20250129231000 +0100" stop="20250130000000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Mandy y Jose</sub-title>
+    <desc lang="es">Mandy está enamorada de un hombre que le da todo menos la verdad. El hijo de ella tuvo suficiente y llama a Nev y Max para pedir su ayuda. Pero al seguir las pistas solo los lleva más profundo en un camino sin salida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s07e08-mandy-jose_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+  </programme>
+  <programme start="20250130000000 +0100" stop="20250130004500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e04_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.3.</episode-num>
+  </programme>
+  <programme start="20250130004500 +0100" stop="20250130012500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e66_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.65.</episode-num>
+  </programme>
+  <programme start="20250130012500 +0100" stop="20250130022000 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">Catfish Brasil</title>
+    <sub-title lang="es">Milena y Higor</sub-title>
+    <desc lang="es">La pasión entre Milena e Higor lleva tres años. Tímido, Higor utiliza imágenes de otro, dejando a Milena sospechas sobre la verdadera identidad de su gran amor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-brasil-s01e04-milena-y-higor_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250130022000 +0100" stop="20250130031500 +0100" channel="MUS-MTV (M)(1080)">
+    <title lang="es">¿Por qué me escondes?</title>
+    <sub-title lang="es">CJ &amp; Charles</sub-title>
+    <desc lang="es">Tras cuatro años de noviazgo, CJ no entiende por qué Charles no muestra interés en presentarle a su familia, así que busca la ayuda de Travis y Rahne.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250128031500 +0100" stop="20250128040500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Unfaithful: Caught in the Act</title>
+    <sub-title lang="es">Too Beautiful to Be Crying</sub-title>
+    <desc lang="es">Durante seis años, Ja Van y R. Guy mantuvieron una relación armoniosa. Sin embargo, las cosas cambiaron gradualmente al punto de que Ja Van, se ausenta durante días.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20250128040500 +0100" stop="20250128050000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Jersey Shore: vacaciones en familia</title>
+    <sub-title lang="es">A Telenovela</sub-title>
+    <desc lang="es">La Fiesta de la Paz de JWOWWS no marcha según lo planeado. Mientras tanto, Pauly le enseña a Nikki la diferencia entre rigatoni y linguini. Además, con la previa de la llegada del bebé, Mike organiza la próxima escapada familiar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_jersey-shore-vacaciones-en-familia-s07e26-a-telenovela_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.25.</episode-num>
+  </programme>
+  <programme start="20250128050000 +0100" stop="20250128055000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Jersey Shore: vacaciones en familia</title>
+    <sub-title lang="es">The Big Apple</sub-title>
+    <desc lang="es">El tercer bebé de Mike y Lauren está llegando. Sammi continúa con su viaje de FIV. Mientras tanto, el resto de la pandilla se apodera de la Gran Manzana, para ir a un espectáculo de comedia de Vinny.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_jersey-shore-vacaciones-en-familia-s07e27-the-big-apple_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.26.</episode-num>
+  </programme>
+  <programme start="20250128055000 +0100" stop="20250128064000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">The Surreal Life</title>
+    <sub-title lang="es">Villa of Secrets: Secret Rendezvous</sub-title>
+    <desc lang="es">El arte imita a la vida, cuando Sloan le pide a la casa que recree algunos de los momentos más absurdos y surrealistas que vivieron en la villa, dentro del contexto de una telenovela disparatada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250128064000 +0100" stop="20250128070000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e34_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.33.</episode-num>
+  </programme>
+  <programme start="20250128070000 +0100" stop="20250128074500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ink Master</title>
+    <sub-title lang="es">Heavy Lifting</sub-title>
+    <desc lang="es">Los artistas deberán conducir todo su propio peso en un Flash Challenge por equipos. Los retratos cara a cara en el Elimination Tattoo, alimentan la tensión de los artístas. ¿Quién será el ganador de ésta ronda?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ink-master-s08e13-heavy-lifting_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.12.</episode-num>
+  </programme>
+  <programme start="20250128074500 +0100" stop="20250128081000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e37_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.36.</episode-num>
+  </programme>
+  <programme start="20250128081000 +0100" stop="20250128083500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e38_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.37.</episode-num>
+  </programme>
+  <programme start="20250128083500 +0100" stop="20250128090500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e39_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.38.</episode-num>
+  </programme>
+  <programme start="20250128090500 +0100" stop="20250128100000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250128100000 +0100" stop="20250128110000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250128110000 +0100" stop="20250128120000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250128120000 +0100" stop="20250128130000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Insomnio MTV</title>
+    <desc lang="es">¿No podés o no querés dormir? Quedate escuchando la mejor música en MTV.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insomnio-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250128130000 +0100" stop="20250128140000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250128140000 +0100" stop="20250128145500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250128145500 +0100" stop="20250128160000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250128160000 +0100" stop="20250128164500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <sub-title lang="es">Strength Is a Mentality</sub-title>
+    <desc lang="es">La hija de Cory finalmente tiene su cirugía de corazón. Por otro lado, Cheyenne se preocupa por la salud de Ryder. Además, Catelynn y Tyler tienen una charla con Nova sobre la seguridad corporal y los límites físicos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+  </programme>
+  <programme start="20250128164500 +0100" stop="20250128173500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e90_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.89.</episode-num>
+  </programme>
+  <programme start="20250128173500 +0100" stop="20250128182000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e91_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.90.</episode-num>
+  </programme>
+  <programme start="20250128182000 +0100" stop="20250128190500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e92_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.91.</episode-num>
+  </programme>
+  <programme start="20250128190500 +0100" stop="20250128195500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Great Ex-pectations</sub-title>
+    <desc lang="es">Un desafío digno de vergüenza invita a las ex de los chicos a hablar un poco de basura. Gio y Stephen finalmente descubren la verdad sobre Julia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+  </programme>
+  <programme start="20250128195500 +0100" stop="20250128204000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Third Eye Blind</sub-title>
+    <desc lang="es">Los viejos conflictos estallan y la casa se desmorona cuando una pelea épica provoca conmoción y lágrimas. Con solo dos Ceremonias de Enfrentamiento restantes, la casa intenta desesperadamente idear una estrategia para ganar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+  </programme>
+  <programme start="20250128204000 +0100" stop="20250128210500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling y Rocsi Diaz XII</sub-title>
+    <desc lang="es">Rob, Steelo y Rocsi Díaz se unen para bajar por algunas: Pistas de escaleras. Luego, pretenden ayudar en: Felping. Además, conocen a algunos fanáticos de la vitamina C que están: Locos por los cítricos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e31-sterling-y-rocsi-diaz-xii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.30.</episode-num>
+  </programme>
+  <programme start="20250128210500 +0100" stop="20250128213000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling y Rocsi Diaz XIII</sub-title>
+    <desc lang="es">Rob, Steelo y Rocsi Diaz descubren que la suciedad puede hacer estragos en: Dirt Damaged. Luego, observan a algunos chefs en autos en: Cruise Cuisine. Además, observan cómo el cuidado del césped se sale de control en: Mowed Down.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e32-sterling-y-rocsi-diaz-xiii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.31.</episode-num>
+  </programme>
+  <programme start="20250128213000 +0100" stop="20250128220000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Nina Agdal LIV</sub-title>
+    <desc lang="es">Rob Dyrdek, Steelo Brim y Nina Agdal buscan algunos amores equinos en: Horse around and find out. Luego, se arriesgan a ver unas: Head Traps. Además, se aferran de la montaña rusa en: Fight and make up.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e33-sterling-and-nina-agdal-liv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.32.</episode-num>
+  </programme>
+  <programme start="20250128220000 +0100" stop="20250128222000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling y Nina Agdal XXXI</sub-title>
+    <desc lang="es">Rob, Steelo y la invitada especial, Nina Agdal, preparan sus raquetas en: Ping ping ding dong. Luego, se enojan jugando: Juegos serios. Además, reciben cumplidos extraños en: Damas torpes ligan.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s35e17-sterling-y-nina-agdal-xxxi_l_l.jpg"/>
+    <episode-num system="xmltv_ns">34.16.</episode-num>
+  </programme>
+  <programme start="20250128222000 +0100" stop="20250128231000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Robert &amp; Ashleigh</sub-title>
+    <desc lang="es">Después de quedar paralizdo siendo un adolescente, Robert conoció a Ashleigh en línea y se enamoraron. Con la noticia de que no le queda mucho tiempo de vida, pide a Nev y Max que le traigan a Ashleigh, y averiguar si su amor fue real.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s06e16-robert-ashleigh_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.15.</episode-num>
+  </programme>
+  <programme start="20250128231000 +0100" stop="20250129000000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e86_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.85.</episode-num>
+  </programme>
+  <programme start="20250129000000 +0100" stop="20250129005000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Nae y Brannon</sub-title>
+    <desc lang="es">Nev y Max intentarán ayudar a que una joven llamada Nae rastree a su novio famoso de internet, pero se encontrarán involucrados en una conspiración inesperada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s07e16-nae-y-brannon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.15.</episode-num>
+  </programme>
+  <programme start="20250129005000 +0100" stop="20250129012500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Mike &amp; Joey</sub-title>
+    <desc lang="es">Nev y la co-conductora, Jane Carrey, ayudan a Mike a elegir entre su vida en Los Ángeles y su profundo afecto por el misterioso Joey, un mecánico del cual él se enamoró en Grindr.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s07e19-mike-joey_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.18.</episode-num>
+  </programme>
+  <programme start="20250129012500 +0100" stop="20250129022000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish Brasil</title>
+    <sub-title lang="es">Leonardo y Mariana</sub-title>
+    <desc lang="es">La musa inspiradora de Leo es Mariana de Río de Janeiro, pero la pareja nunca se conoció en persona. Ahora, Leo recurre a Ciro y Ricardo para despejar la duda de si realmente Mariana es quien dice ser.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-brasil-s01e03-leonardo-mariana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250129022000 +0100" stop="20250129031500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">¿Por qué me escondes?</title>
+    <sub-title lang="es">Lisa &amp; Tee</sub-title>
+    <desc lang="es">Lisa y su hijo, Tee, tenían una relación cercana, pero últimamente él ha estado actuando diferente y la ha bloqueado de sus redes sociales. Su madre exige saber por qué la esconde, pero el secreto de Tee podría separar a esta familia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250129031500 +0100" stop="20250129040000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Unfaithful: Caught in the Act</title>
+    <sub-title lang="es">There's No Future in Frontin'</sub-title>
+    <desc lang="es">Sicorra cree que la personalidad de playboy rapero de su novio es sólo para el escenario, pero ahora sospecha que el arte invita a la vida social y que él realmente puede estar engañándola.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+  </programme>
+  <programme start="20250129040000 +0100" stop="20250129050000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">La venganza de los ex VIP</title>
+    <sub-title lang="es">Los demonios bailan en la villa</sub-title>
+    <desc lang="es">Rufas le rompe el corazón a Carolina. A Jey le toca escena de celos doble. La Sala Tornado sopla todos los chismes de Brandon. El lobo está enjaulado mientras que Yess le hace piojitos. Una fiesta termina con la llegada de un EX.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20250129050000 +0100" stop="20250129060000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">La venganza de los ex VIP</title>
+    <sub-title lang="es">Efectos instantáneos</sub-title>
+    <desc lang="es">Yess se dio tragos hasta encontrar el más amargo. Los bandos tratan de encontrar la paz, pero solo tratan. Isaac ya no puede forzar la máquina y termina a Leslie. Unas pócimas mágicas llenas de alcohol hacen efecto inmediato.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+  </programme>
+  <programme start="20250129060000 +0100" stop="20250129070000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">La venganza de los ex VIP</title>
+    <sub-title lang="es">¡Qué viva la toxicidad!</sub-title>
+    <desc lang="es">Lizbeth y Alí dan los votos a su amor tóxico mientras que los salvados, dan sus votos a la soltería. La Love Suite se abre por última vez con un trío muy caliente y el último brindis trae a un artista sorpresa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20250129070000 +0100" stop="20250129074500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ink Master</title>
+    <sub-title lang="es">Bio-Mechanical Failure</sub-title>
+    <desc lang="es">La competición está en su punto más alto y los artistas deben trabajar en equipo, para poder transformar los lienzos en cyborgs. La batalla continúa por el título de Ink Master.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ink-master-s08e14-bio-mechanical-failure_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.13.</episode-num>
+  </programme>
+  <programme start="20250129074500 +0100" stop="20250129081000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">Rob Dyrdek nos muestra los videos más locos y divertidos en compañía de invitados famosos y los co-anfitriones Sterling "Steelo" Brim y Chanel West Coast, en un estudio con audiencia en vivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s36e42_l_l.jpg"/>
+    <episode-num system="xmltv_ns">35.41.</episode-num>
+  </programme>
+  <programme start="20250129081000 +0100" stop="20250129083500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Rocsi Diaz VII</sub-title>
+    <desc lang="es">Rob, Steelo y Rocsi Diaz caen en las colinas a alta velocidad en: Going Downhill Fast. Luego, conocen a algunos amantes de los pies en: Foot Fellas. Además, dejan a sus amigos abandonados en Crisis Cowards.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e01-sterling-and-rocsi-diaz-vii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.0.</episode-num>
+  </programme>
+  <programme start="20250129083500 +0100" stop="20250129090500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Carly Aquilino XLIV</sub-title>
+    <desc lang="es">Rob, Steelo y Carly Aquilino se ocupan de los: Pequeños terrores. Luego, organizan sus: Colecciones locas. Además, hacen nuevos: Amigos del baño.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e02-sterling-and-carly-aquilino-xliv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.1.</episode-num>
+  </programme>
+  <programme start="20250129090500 +0100" stop="20250129100000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250129100000 +0100" stop="20250129110000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250129110000 +0100" stop="20250129120000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250129120000 +0100" stop="20250129130000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Insomnio MTV</title>
+    <desc lang="es">¿No podés o no querés dormir? Quedate escuchando la mejor música en MTV.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_insomnio-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250129130000 +0100" stop="20250129140000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Tu mix de hoy</title>
+    <desc lang="es">Sabemos lo que te gusta y te lo ponemos todo junto en una sola playlist. Todos los días, un mix distinto.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tu-mix-de-hoy_l_l.jpg"/>
+  </programme>
+  <programme start="20250129140000 +0100" stop="20250129145500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Arriba MTV</title>
+    <desc lang="es">Hits de ahora y de siempre mientras te preparas para ir al colegio, la facultad o el trabajo. ¡La mañana bien Arriba en MTV!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_arriba-mtv_l_l.jpg"/>
+  </programme>
+  <programme start="20250129145500 +0100" stop="20250129160000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Latino fuerte</title>
+    <desc lang="es">Un bloque de canciones 100% en español. La música que está moviendo al mundo, en Latino Fuerte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_latino-fuerte_l_l.jpg"/>
+  </programme>
+  <programme start="20250129160000 +0100" stop="20250129164500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Teen Mom: The Next Chapter</title>
+    <sub-title lang="es">Jugando con fuego</sub-title>
+    <desc lang="es">Jade y Cheyenne visitan a Briana. Luego, todos los ojos están puestos en su relación con Devoin. Además, las madres se dejan llevar por un juego de verdad o reto, pero el drama entre Ashley y Cheyenne es el centro de atención.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+  </programme>
+  <programme start="20250129164500 +0100" stop="20250129173500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e93_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.92.</episode-num>
+  </programme>
+  <programme start="20250129173500 +0100" stop="20250129182000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e94_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.93.</episode-num>
+  </programme>
+  <programme start="20250129182000 +0100" stop="20250129190500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e95_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.94.</episode-num>
+  </programme>
+  <programme start="20250129190500 +0100" stop="20250129195500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Todo o nada</sub-title>
+    <desc lang="es">Es todo o nada para llegar a la décima y última ceremonia de enfrentamiento. La estrategia lleva al grupo a creer en una serie de partidos, pero Asaf lucha entre seguir su corazón y ser un jugador de equipo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+  </programme>
+  <programme start="20250129195500 +0100" stop="20250129204000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Are You the One?</title>
+    <sub-title lang="es">Desliza a la derecha para el amor</sub-title>
+    <desc lang="es">Veintidós solteros se mudan a una casa en Nueva Orleans para intentar formar 11 parejas perfectas y ganar $ 1,000,000. A medida que las parejas se enamoran dura y rápidamente, se forman triángulos amorosos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20250129204000 +0100" stop="20250129210500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Nina Agdal LV</sub-title>
+    <desc lang="es">Rob y Steelo junto a Nina Agdal descubren que las apariencias engañan en: Looked Real to Me. Luego, se asombran con las cucarachas voladoras en: Roach Air. Además, ven algo de locura en la carretera en: Traffic Reports.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e34-sterling-and-nina-agdal-lv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.33.</episode-num>
+  </programme>
+  <programme start="20250129210500 +0100" stop="20250129213000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Carly Aquilino LV</sub-title>
+    <desc lang="es">Rob, Steelo y Carly Aquilino se preocupan demasiado en: Too Competitive. Luego, aceleran a fondo en: Full Whiskey. Además, visitan Nueva Inglaterra en: Speakin' Boston.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e35-sterling-and-carly-aquilino-lv_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.34.</episode-num>
+  </programme>
+  <programme start="20250129213000 +0100" stop="20250129220000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Carly Aquilino LVI</sub-title>
+    <desc lang="es">Rob, Steelo y Carly Aquilino toman el aire peligroso en algunos: Graneros de mal rebote. Luego, se calientan demasiado en la cocina en: Cocineros de fuego. Además, descubren qué sucede cuando no: Esperas tu turno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s37e36-sterling-and-carly-aquilino-lvi_l_l.jpg"/>
+    <episode-num system="xmltv_ns">36.35.</episode-num>
+  </programme>
+  <programme start="20250129220000 +0100" stop="20250129222000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Ridiculousness</title>
+    <sub-title lang="es">Sterling and Nina Agdal XXXII</sub-title>
+    <desc lang="es">Rob y Steelo le dan la bienvenida a Nina Agdal, para que se suba a Failed horse girls. Juntos festejan con un presupuesto limitado con Budget Clubbing. Además, deje que todo fluya Gratis para orinar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ridiculousness-s35e18-sterling-and-nina-agdal-xxxii_l_l.jpg"/>
+    <episode-num system="xmltv_ns">34.17.</episode-num>
+  </programme>
+  <programme start="20250129222000 +0100" stop="20250129231000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.7.</episode-num>
+  </programme>
+  <programme start="20250129231000 +0100" stop="20250130000000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <sub-title lang="es">Mandy y Jose</sub-title>
+    <desc lang="es">Mandy está enamorada de un hombre que le da todo menos la verdad. El hijo de ella tuvo suficiente y llama a Nev y Max para pedir su ayuda. Pero al seguir las pistas solo los lleva más profundo en un camino sin salida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s07e08-mandy-jose_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+  </programme>
+  <programme start="20250130000000 +0100" stop="20250130004500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e04_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.3.</episode-num>
+  </programme>
+  <programme start="20250130004500 +0100" stop="20250130012500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish</title>
+    <desc lang="es">Nev y su compañero cinematográfico Max ayudarán a parejas que no se han conocido en la vida real. En cada episodio, un nuevo protagonista emprenderá un viaje emocional para descubrir la verdad sobre su pareja.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-s80e66_l_l.jpg"/>
+    <episode-num system="xmltv_ns">79.65.</episode-num>
+  </programme>
+  <programme start="20250130012500 +0100" stop="20250130022000 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">Catfish Brasil</title>
+    <sub-title lang="es">Milena y Higor</sub-title>
+    <desc lang="es">La pasión entre Milena e Higor lleva tres años. Tímido, Higor utiliza imágenes de otro, dejando a Milena sospechas sobre la verdadera identidad de su gran amor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_catfish-brasil-s01e04-milena-y-higor_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250130022000 +0100" stop="20250130031500 +0100" channel="MUS-MTV (M)(SD)">
+    <title lang="es">¿Por qué me escondes?</title>
+    <sub-title lang="es">CJ &amp; Charles</sub-title>
+    <desc lang="es">Tras cuatro años de noviazgo, CJ no entiende por qué Charles no muestra interés en presentarle a su familia, así que busca la ayuda de Travis y Rahne.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250128034000 +0100" stop="20250128040500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Family Legacy</title>
+    <sub-title lang="es">Boyz II Men &amp; TLC</sub-title>
+    <desc lang="es">Nathan Morris II improvisa con viejos clips del debut de su padre en Boyz II Men. Por su parte, Tron Austin, el hijo de Chilli de TLC, relata sus recuerdos de las giras con la banda de su madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-family-legacy-s01e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250128040500 +0100" stop="20250128043000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Unplugged: Lady Gaga &amp; Tony Bennett</title>
+    <desc lang="es">Este episodio tan esperado de MTV Unplugged presenta a Lady Gaga y Tony Bennett interpretando una combinación de duetos sencillos y canciones en solitario de su álbum, Love For Sale.</desc>
+    <category lang="es">Concierto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128043000 +0100" stop="20250128060000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">High Definition Hits!</title>
+    <desc lang="es">Los éxitos musicales en alta definición.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_high-definition-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128060000 +0100" stop="20250128070000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Global Beats!</title>
+    <desc lang="es">Una selección de los mejores ritmos que se están apoderando del mundo.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_global-beats_l_l.jpg"/>
+  </programme>
+  <programme start="20250128070000 +0100" stop="20250128080000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Rewind</title>
+    <desc lang="es">Entra en nuestra Máquina del Tiempo y haz un breve viaje al 2021.</desc>
+    <category lang="es">- 2021</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-rewind-2021_l_l.jpg"/>
+  </programme>
+  <programme start="20250128080000 +0100" stop="20250128093000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">10s vs. 20s: Stars of MTV!</title>
+    <desc lang="es">Revisamos las décadas de 2010 y 2020 para traerte las estrellas musicales más importantes de ambas décadas. ¿Pero cuál tenía la ventaja? ¡Tú decides!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128093000 +0100" stop="20250128100000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128100000 +0100" stop="20250128110000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Eat, Sleep, Dance, Repeat!</title>
+    <desc lang="es">¡Come, duerme, baila, repite! ¡Come, duerme, baila, repite! Come, duerme... ¡entiendes la idea! ¡Estos son tus éxitos de baile esenciales para pasar el día!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_eat-sleep-dance-repeat_l_l.jpg"/>
+  </programme>
+  <programme start="20250128110000 +0100" stop="20250128120000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Rock.Alt.Indie</title>
+    <desc lang="es">¡Conecta tu guitarra y aumenta el volumen porque te traemos lo mejor de lo mejor de la escena Rock, Alternativa e Indie!</desc>
+    <category lang="es">Rock</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rock-alt-indie_l_l.jpg"/>
+  </programme>
+  <programme start="20250128120000 +0100" stop="20250128124000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Behind the Music</title>
+    <sub-title lang="es">Shania Twain</sub-title>
+    <desc lang="es">Shania creció pobre en Canadá y pasó gran parte de su infancia en una reserva india. Aunque su primer álbum no fue un gran éxito, el legendario productor Mutt Lange descubre su talento y ella pasa de cantante de country a superestrella pop.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+  </programme>
+  <programme start="20250128124000 +0100" stop="20250128130500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Family Legacy</title>
+    <sub-title lang="es">Boyz II Men &amp; TLC</sub-title>
+    <desc lang="es">Nathan Morris II improvisa con viejos clips del debut de su padre en Boyz II Men. Por su parte, Tron Austin, el hijo de Chilli de TLC, relata sus recuerdos de las giras con la banda de su madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-family-legacy-s01e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250128130500 +0100" stop="20250128132500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Unplugged: Lady Gaga &amp; Tony Bennett</title>
+    <desc lang="es">Este episodio tan esperado de MTV Unplugged presenta a Lady Gaga y Tony Bennett interpretando una combinación de duetos sencillos y canciones en solitario de su álbum, Love For Sale.</desc>
+    <category lang="es">Concierto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128132500 +0100" stop="20250128150000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">High Definition Hits!</title>
+    <desc lang="es">Los éxitos musicales en alta definición.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_high-definition-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128150000 +0100" stop="20250128155500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Rewind</title>
+    <desc lang="es">Entra en nuestra Máquina del Tiempo y haz un breve viaje al 2021.</desc>
+    <category lang="es">- 2021</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-rewind-2021_l_l.jpg"/>
+  </programme>
+  <programme start="20250128155500 +0100" stop="20250128173000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">10s vs. 20s: Stars of MTV!</title>
+    <desc lang="es">Revisamos las décadas de 2010 y 2020 para traerte las estrellas musicales más importantes de ambas décadas. ¿Pero cuál tenía la ventaja? ¡Tú decides!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128173000 +0100" stop="20250128180000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128180000 +0100" stop="20250128190000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Eat, Sleep, Dance, Repeat!</title>
+    <desc lang="es">¡Come, duerme, baila, repite! ¡Come, duerme, baila, repite! Come, duerme... ¡entiendes la idea! ¡Estos son tus éxitos de baile esenciales para pasar el día!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_eat-sleep-dance-repeat_l_l.jpg"/>
+  </programme>
+  <programme start="20250128190000 +0100" stop="20250128200000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Rock.Alt.Indie</title>
+    <desc lang="es">¡Conecta tu guitarra y aumenta el volumen porque te traemos lo mejor de lo mejor de la escena Rock, Alternativa e Indie!</desc>
+    <category lang="es">Rock</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rock-alt-indie_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128204500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV World Stage</title>
+    <desc lang="es">Los gigantes musicales OneRepublic, encabezaron un increíble evento de World Stage desde la icónica Plaza de los Héroes, en Budapest, Hungría.</desc>
+    <category lang="es">- OneRepublic Hungary</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-world-stage-onerepublic-hungary_l_l.jpg"/>
+  </programme>
+  <programme start="20250128204500 +0100" stop="20250128213000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Blackpool Illuminations Switch on 2022: The Best Bits</title>
+    <desc lang="es">Algunos de los nombres más importantes de la música iluminan el escenario en el icónico salón de baile Blackpool Tower.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-blackpool-illuminations-switch-on-2022-the-best-bits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128213000 +0100" stop="20250128230000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">High Definition Hits!</title>
+    <desc lang="es">Los éxitos musicales en alta definición.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_high-definition-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128230000 +0100" stop="20250129000000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Rewind</title>
+    <desc lang="es">Entra en nuestra Máquina del Tiempo y haz un breve viaje al 2021.</desc>
+    <category lang="es">- 2021</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-rewind-2021_l_l.jpg"/>
+  </programme>
+  <programme start="20250129000000 +0100" stop="20250129013000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">10s vs. 20s: Stars of MTV!</title>
+    <desc lang="es">Revisamos las décadas de 2010 y 2020 para traerte las estrellas musicales más importantes de ambas décadas. ¿Pero cuál tenía la ventaja? ¡Tú decides!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129013000 +0100" stop="20250129020000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129020000 +0100" stop="20250129030000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">Rock.Alt.Indie</title>
+    <desc lang="es">¡Conecta tu guitarra y aumenta el volumen porque te traemos lo mejor de lo mejor de la escena Rock, Alternativa e Indie!</desc>
+    <category lang="es">Rock</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rock-alt-indie_l_l.jpg"/>
+  </programme>
+  <programme start="20250129030000 +0100" stop="20250129032000 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV Unplugged: Pearl Jam</title>
+    <desc lang="es">Aprovechando el éxito de su álbum debut, Pearl Jam grabó este episodio de Unplugged a medianoche en Kaufman Astoria Studios en marzo de 1992.</desc>
+    <category lang="es">Concierto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-unplugged-pearl-jam-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129032000 +0100" stop="20250129034500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">I Want My MTV</title>
+    <sub-title lang="es">Sum 41</sub-title>
+    <desc lang="es">Sum 41 llega a la sede de MTV para hablar sobre los videos musicales que los convirtieron en los artistas exitosos que son hoy. ¿Cuál fue el primer video que vieron en MTV?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20250129034500 +0100" stop="20250130034500 +0100" channel="MUS-MTV Live (M)(1080)">
+    <title lang="es">MTV World Stage</title>
+    <desc lang="es">Veremos a la banda británica Bush interpretando sus grandes éxitos en Manchester en noviembre de 2024.</desc>
+    <category lang="es">- Bush</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-world-stage-bush_l_l.jpg"/>
+  </programme>
+  <programme start="20250128034000 +0100" stop="20250128040500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Family Legacy</title>
+    <sub-title lang="es">Boyz II Men &amp; TLC</sub-title>
+    <desc lang="es">Nathan Morris II improvisa con viejos clips del debut de su padre en Boyz II Men. Por su parte, Tron Austin, el hijo de Chilli de TLC, relata sus recuerdos de las giras con la banda de su madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-family-legacy-s01e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250128040500 +0100" stop="20250128043000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Unplugged: Lady Gaga &amp; Tony Bennett</title>
+    <desc lang="es">Este episodio tan esperado de MTV Unplugged presenta a Lady Gaga y Tony Bennett interpretando una combinación de duetos sencillos y canciones en solitario de su álbum, Love For Sale.</desc>
+    <category lang="es">Concierto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128043000 +0100" stop="20250128060000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">High Definition Hits!</title>
+    <desc lang="es">Los éxitos musicales en alta definición.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_high-definition-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128060000 +0100" stop="20250128070000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Global Beats!</title>
+    <desc lang="es">Una selección de los mejores ritmos que se están apoderando del mundo.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_global-beats_l_l.jpg"/>
+  </programme>
+  <programme start="20250128070000 +0100" stop="20250128080000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Rewind</title>
+    <desc lang="es">Entra en nuestra Máquina del Tiempo y haz un breve viaje al 2021.</desc>
+    <category lang="es">- 2021</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-rewind-2021_l_l.jpg"/>
+  </programme>
+  <programme start="20250128080000 +0100" stop="20250128093000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">10s vs. 20s: Stars of MTV!</title>
+    <desc lang="es">Revisamos las décadas de 2010 y 2020 para traerte las estrellas musicales más importantes de ambas décadas. ¿Pero cuál tenía la ventaja? ¡Tú decides!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128093000 +0100" stop="20250128100000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128100000 +0100" stop="20250128110000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Eat, Sleep, Dance, Repeat!</title>
+    <desc lang="es">¡Come, duerme, baila, repite! ¡Come, duerme, baila, repite! Come, duerme... ¡entiendes la idea! ¡Estos son tus éxitos de baile esenciales para pasar el día!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_eat-sleep-dance-repeat_l_l.jpg"/>
+  </programme>
+  <programme start="20250128110000 +0100" stop="20250128120000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Rock.Alt.Indie</title>
+    <desc lang="es">¡Conecta tu guitarra y aumenta el volumen porque te traemos lo mejor de lo mejor de la escena Rock, Alternativa e Indie!</desc>
+    <category lang="es">Rock</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rock-alt-indie_l_l.jpg"/>
+  </programme>
+  <programme start="20250128120000 +0100" stop="20250128124000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Behind the Music</title>
+    <sub-title lang="es">Shania Twain</sub-title>
+    <desc lang="es">Shania creció pobre en Canadá y pasó gran parte de su infancia en una reserva india. Aunque su primer álbum no fue un gran éxito, el legendario productor Mutt Lange descubre su talento y ella pasa de cantante de country a superestrella pop.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+  </programme>
+  <programme start="20250128124000 +0100" stop="20250128130500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Family Legacy</title>
+    <sub-title lang="es">Boyz II Men &amp; TLC</sub-title>
+    <desc lang="es">Nathan Morris II improvisa con viejos clips del debut de su padre en Boyz II Men. Por su parte, Tron Austin, el hijo de Chilli de TLC, relata sus recuerdos de las giras con la banda de su madre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-family-legacy-s01e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250128130500 +0100" stop="20250128132500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Unplugged: Lady Gaga &amp; Tony Bennett</title>
+    <desc lang="es">Este episodio tan esperado de MTV Unplugged presenta a Lady Gaga y Tony Bennett interpretando una combinación de duetos sencillos y canciones en solitario de su álbum, Love For Sale.</desc>
+    <category lang="es">Concierto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128132500 +0100" stop="20250128150000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">High Definition Hits!</title>
+    <desc lang="es">Los éxitos musicales en alta definición.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_high-definition-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128150000 +0100" stop="20250128155500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Rewind</title>
+    <desc lang="es">Entra en nuestra Máquina del Tiempo y haz un breve viaje al 2021.</desc>
+    <category lang="es">- 2021</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-rewind-2021_l_l.jpg"/>
+  </programme>
+  <programme start="20250128155500 +0100" stop="20250128173000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">10s vs. 20s: Stars of MTV!</title>
+    <desc lang="es">Revisamos las décadas de 2010 y 2020 para traerte las estrellas musicales más importantes de ambas décadas. ¿Pero cuál tenía la ventaja? ¡Tú decides!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128173000 +0100" stop="20250128180000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128180000 +0100" stop="20250128190000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Eat, Sleep, Dance, Repeat!</title>
+    <desc lang="es">¡Come, duerme, baila, repite! ¡Come, duerme, baila, repite! Come, duerme... ¡entiendes la idea! ¡Estos son tus éxitos de baile esenciales para pasar el día!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_eat-sleep-dance-repeat_l_l.jpg"/>
+  </programme>
+  <programme start="20250128190000 +0100" stop="20250128200000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Rock.Alt.Indie</title>
+    <desc lang="es">¡Conecta tu guitarra y aumenta el volumen porque te traemos lo mejor de lo mejor de la escena Rock, Alternativa e Indie!</desc>
+    <category lang="es">Rock</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rock-alt-indie_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128204500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV World Stage</title>
+    <desc lang="es">Los gigantes musicales OneRepublic, encabezaron un increíble evento de World Stage desde la icónica Plaza de los Héroes, en Budapest, Hungría.</desc>
+    <category lang="es">- OneRepublic Hungary</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-world-stage-onerepublic-hungary_l_l.jpg"/>
+  </programme>
+  <programme start="20250128204500 +0100" stop="20250128213000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Blackpool Illuminations Switch on 2022: The Best Bits</title>
+    <desc lang="es">Algunos de los nombres más importantes de la música iluminan el escenario en el icónico salón de baile Blackpool Tower.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-blackpool-illuminations-switch-on-2022-the-best-bits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128213000 +0100" stop="20250128230000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">High Definition Hits!</title>
+    <desc lang="es">Los éxitos musicales en alta definición.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_high-definition-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128230000 +0100" stop="20250129000000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Rewind</title>
+    <desc lang="es">Entra en nuestra Máquina del Tiempo y haz un breve viaje al 2021.</desc>
+    <category lang="es">- 2021</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-rewind-2021_l_l.jpg"/>
+  </programme>
+  <programme start="20250129000000 +0100" stop="20250129013000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">10s vs. 20s: Stars of MTV!</title>
+    <desc lang="es">Revisamos las décadas de 2010 y 2020 para traerte las estrellas musicales más importantes de ambas décadas. ¿Pero cuál tenía la ventaja? ¡Tú decides!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129013000 +0100" stop="20250129020000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129020000 +0100" stop="20250129030000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">Rock.Alt.Indie</title>
+    <desc lang="es">¡Conecta tu guitarra y aumenta el volumen porque te traemos lo mejor de lo mejor de la escena Rock, Alternativa e Indie!</desc>
+    <category lang="es">Rock</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rock-alt-indie_l_l.jpg"/>
+  </programme>
+  <programme start="20250129030000 +0100" stop="20250129032000 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV Unplugged: Pearl Jam</title>
+    <desc lang="es">Aprovechando el éxito de su álbum debut, Pearl Jam grabó este episodio de Unplugged a medianoche en Kaufman Astoria Studios en marzo de 1992.</desc>
+    <category lang="es">Concierto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-unplugged-pearl-jam-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129032000 +0100" stop="20250129034500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">I Want My MTV</title>
+    <sub-title lang="es">Sum 41</sub-title>
+    <desc lang="es">Sum 41 llega a la sede de MTV para hablar sobre los videos musicales que los convirtieron en los artistas exitosos que son hoy. ¿Cuál fue el primer video que vieron en MTV?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20250129034500 +0100" stop="20250130034500 +0100" channel="MUS-MTV Live (M)(SD)">
+    <title lang="es">MTV World Stage</title>
+    <desc lang="es">Veremos a la banda británica Bush interpretando sus grandes éxitos en Manchester en noviembre de 2024.</desc>
+    <category lang="es">- Bush</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-world-stage-bush_l_l.jpg"/>
+  </programme>
+  <programme start="20250128004000 -0300" stop="20250128013500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128013500 -0300" stop="20250128023000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128023000 -0300" stop="20250128030000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128030000 -0300" stop="20250128035500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128035500 -0300" stop="20250128045000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128045000 -0300" stop="20250128054500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128054500 -0300" stop="20250128064000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250128064000 -0300" stop="20250128073500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250128073500 -0300" stop="20250128083000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128083000 -0300" stop="20250128090000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128090000 -0300" stop="20250128095500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128095500 -0300" stop="20250128105000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128105000 -0300" stop="20250128114500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128114500 -0300" stop="20250128124000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250128124000 -0300" stop="20250128133500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250128133500 -0300" stop="20250128143000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128143000 -0300" stop="20250128150000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128150000 -0300" stop="20250128155500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128155500 -0300" stop="20250128165000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128165000 -0300" stop="20250128174500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128174500 -0300" stop="20250128184000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250128184000 -0300" stop="20250128193500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250128193500 -0300" stop="20250128203000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128203000 -0300" stop="20250128210000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128210000 -0300" stop="20250128215500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128215500 -0300" stop="20250128225000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128225000 -0300" stop="20250128234500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128234500 -0300" stop="20250129004000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250129234500 -0300" stop="20250130004000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250130004000 -0300" stop="20250130013500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250130013500 -0300" stop="20250130023000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250130023000 -0300" stop="20250130030000 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250130030000 -0300" stop="20250130035500 -0300" channel="MUS-Telehit (M)(1080)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20250128004000 -0300" stop="20250128013500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128013500 -0300" stop="20250128023000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128023000 -0300" stop="20250128030000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128030000 -0300" stop="20250128035500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128035500 -0300" stop="20250128045000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128045000 -0300" stop="20250128054500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128054500 -0300" stop="20250128064000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250128064000 -0300" stop="20250128073500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250128073500 -0300" stop="20250128083000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128083000 -0300" stop="20250128090000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128090000 -0300" stop="20250128095500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128095500 -0300" stop="20250128105000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128105000 -0300" stop="20250128114500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128114500 -0300" stop="20250128124000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250128124000 -0300" stop="20250128133500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250128133500 -0300" stop="20250128143000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128143000 -0300" stop="20250128150000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128150000 -0300" stop="20250128155500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128155500 -0300" stop="20250128165000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128165000 -0300" stop="20250128174500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128174500 -0300" stop="20250128184000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250128184000 -0300" stop="20250128193500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250128193500 -0300" stop="20250128203000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250128203000 -0300" stop="20250128210000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250128210000 -0300" stop="20250128215500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Super Hits</title>
+  </programme>
+  <programme start="20250128215500 -0300" stop="20250128225000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Mixología</title>
+  </programme>
+  <programme start="20250128225000 -0300" stop="20250128234500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Musicología</title>
+  </programme>
+  <programme start="20250128234500 -0300" stop="20250129004000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250129234500 -0300" stop="20250130004000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Telehitazos</title>
+  </programme>
+  <programme start="20250130004000 -0300" stop="20250130013500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">90s Pop Hits</title>
+  </programme>
+  <programme start="20250130013500 -0300" stop="20250130023000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Suena el Dembow</title>
+  </programme>
+  <programme start="20250130023000 -0300" stop="20250130030000 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Playlist Telehit</title>
+  </programme>
+  <programme start="20250130030000 -0300" stop="20250130035500 -0300" channel="MUS-Telehit (M)(SD)">
+    <title lang="es">Top 10</title>
+  </programme>
+  <programme start="20250128010000 -0300" stop="20250128020000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250128020000 -0300" stop="20250128030000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250128030000 -0300" stop="20250128060000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250128060000 -0300" stop="20250128070000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250128070000 -0300" stop="20250128080000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250128080000 -0300" stop="20250128090000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250128090000 -0300" stop="20250128120000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250128120000 -0300" stop="20250128130000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250128130000 -0300" stop="20250128140000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250128140000 -0300" stop="20250128150000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250128150000 -0300" stop="20250128180000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250128180000 -0300" stop="20250128190000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250128190000 -0300" stop="20250128200000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250128200000 -0300" stop="20250128210000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250128210000 -0300" stop="20250129000000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250129000000 -0300" stop="20250129010000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250129010000 -0300" stop="20250129020000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250129020000 -0300" stop="20250129030000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250129030000 -0300" stop="20250129060000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250129060000 -0300" stop="20250129070000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250129070000 -0300" stop="20250129080000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250129080000 -0300" stop="20250129090000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250129090000 -0300" stop="20250129120000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250129120000 -0300" stop="20250129130000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250129130000 -0300" stop="20250129140000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250129140000 -0300" stop="20250129150000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250129150000 -0300" stop="20250129180000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250129180000 -0300" stop="20250129190000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Fcking Love Plus</title>
+  </programme>
+  <programme start="20250129190000 -0300" stop="20250129200000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">La calle suena plus</title>
+  </programme>
+  <programme start="20250129200000 -0300" stop="20250129210000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Rock Me Plus</title>
+  </programme>
+  <programme start="20250129210000 -0300" stop="20250130000000 -0300" channel="MUS-Telehit Plus(M)(1080)">
+    <title lang="es">Playlist Telehit Plus</title>
+  </programme>
+  <programme start="20250128040000 +0100" stop="20250128090000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250128090000 +0100" stop="20250128140000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Hits on Shuffle!</title>
+    <desc lang="es">Una mezcla variada con los mejores temas para escuchar y disfrutar.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128140000 +0100" stop="20250128150000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Rap &amp; R'n'B Jamz</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rap-r-n-b-jamz-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250128150000 +0100" stop="20250128200000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128210000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">We Belong Together! Classic Collabs</title>
+    <desc lang="es">Algunas de las canciones más icónicas para disfrutar en este ranking de clásicos.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128210000 +0100" stop="20250129030000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Hits Don't Lie</title>
+    <desc lang="es">Los mayores y mejores éxitos mundiales del pasado al presente.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hits-don-t-lie_l_l.jpg"/>
+  </programme>
+  <programme start="20250129030000 +0100" stop="20250129040000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Chillout Zone</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chillout-zone_l_l.jpg"/>
+  </programme>
+  <programme start="20250129040000 +0100" stop="20250129070000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">You + Me... 40 Love Anthems</title>
+    <desc lang="es">Los años 2000 marcaron a toda una generación con éxitos románticos que todos conocen y siguen emocionando. En este especial del amor, se puede volver a disfrutar al hilo de 40 canciones que enamoran de la mano de los artistas del momento.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129070000 +0100" stop="20250129090000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250129090000 +0100" stop="20250129140000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Hits on Shuffle!</title>
+    <desc lang="es">Una mezcla variada con los mejores temas para escuchar y disfrutar.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129140000 +0100" stop="20250129150000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Supermassive Rock Anthems!</title>
+    <desc lang="es">Los más impactantes e inspiradores temas del rock para escuchar y disfrutar.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_supermassive-rock-anthems_l_l.jpg"/>
+  </programme>
+  <programme start="20250129150000 +0100" stop="20250129200000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250129200000 +0100" stop="20250129210000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Rap &amp; R'n'B Jamz</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rap-r-n-b-jamz-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129210000 +0100" stop="20250130030000 +0100" channel="MUS-VH1 (M)(1080)">
+    <title lang="es">Hits Don't Lie</title>
+    <desc lang="es">Los mayores y mejores éxitos mundiales del pasado al presente.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hits-don-t-lie_l_l.jpg"/>
+  </programme>
+  <programme start="20250128030000 -0300" stop="20250128050000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">1987 Wrapped!</title>
+  </programme>
+  <programme start="20250128050000 -0300" stop="20250128070000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">1987 Wrapped!</title>
+  </programme>
+  <programme start="20250128070000 -0300" stop="20250128080000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">1987 Wrapped!</title>
+  </programme>
+  <programme start="20250128080000 -0300" stop="20250128090000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">80s Double Shots 2 From 1!</title>
+  </programme>
+  <programme start="20250128090000 -0300" stop="20250128110000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">40 Years Young In 2025! Top 50</title>
+  </programme>
+  <programme start="20250128110000 -0300" stop="20250128130000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">40 Years Young In 2025! Top 50</title>
+  </programme>
+  <programme start="20250128130000 -0300" stop="20250128140000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">40 Years Young In 2025! Top 50</title>
+  </programme>
+  <programme start="20250128140000 -0300" stop="20250128150000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Guess the year</title>
+  </programme>
+  <programme start="20250128150000 -0300" stop="20250128170000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Ultimate 50 80s Soft Rock Anth</title>
+  </programme>
+  <programme start="20250128170000 -0300" stop="20250128190000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Ultimate 50 80s Soft Rock Anth</title>
+  </programme>
+  <programme start="20250128190000 -0300" stop="20250128200000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Ultimate 50 80s Soft Rock Anth</title>
+  </programme>
+  <programme start="20250128200000 -0300" stop="20250128220000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">I Want My MTV 80s!</title>
+  </programme>
+  <programme start="20250128220000 -0300" stop="20250129000000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Forever 80s</title>
+  </programme>
+  <programme start="20250129000000 -0300" stop="20250129030000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">I Want My MTV 80s!</title>
+  </programme>
+  <programme start="20250129030000 -0300" stop="20250129050000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Ultimate 50 80s Soft Rock Anth</title>
+  </programme>
+  <programme start="20250129050000 -0300" stop="20250129070000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Ultimate 50 80s Soft Rock Anth</title>
+  </programme>
+  <programme start="20250129070000 -0300" stop="20250129080000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Ultimate 50 80s Soft Rock Anth</title>
+  </programme>
+  <programme start="20250129080000 -0300" stop="20250129090000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">80s Double Shots 2 From 1!</title>
+  </programme>
+  <programme start="20250129090000 -0300" stop="20250129110000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">1987 Wrapped!</title>
+  </programme>
+  <programme start="20250129110000 -0300" stop="20250129130000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">1987 Wrapped!</title>
+  </programme>
+  <programme start="20250129130000 -0300" stop="20250129140000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">1987 Wrapped!</title>
+  </programme>
+  <programme start="20250129140000 -0300" stop="20250129150000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Guess the year</title>
+  </programme>
+  <programme start="20250129150000 -0300" stop="20250129170000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">50 Grammy Winners Of The 80s!</title>
+  </programme>
+  <programme start="20250129170000 -0300" stop="20250129190000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">50 Grammy Winners Of The 80s!</title>
+  </programme>
+  <programme start="20250129190000 -0300" stop="20250129200000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">50 Grammy Winners Of The 80s!</title>
+  </programme>
+  <programme start="20250129200000 -0300" stop="20250129220000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">I Want My MTV 80s!</title>
+  </programme>
+  <programme start="20250129220000 -0300" stop="20250130000000 -0300" channel="MUS-VH1 (TV)(720)">
+    <title lang="es">Forever 80s</title>
+  </programme>
+  <programme start="20250128030000 +0100" stop="20250128050000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Today's Top Hits</title>
+    <desc lang="es">Echa un vistazo a las pistas más importantes y los éxitos más populares de la actualidad.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_today-s-top-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128050000 +0100" stop="20250128070000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Non-Stop Hits!</title>
+    <desc lang="es">Los temas del momento y más te los tenemos en este espacio lleno de mucha música, para que disfrutes de los éxitos que suenan en la actualidad.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-hits-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250128070000 +0100" stop="20250128090000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Today's Top Hits</title>
+    <desc lang="es">Echa un vistazo a las pistas más importantes y los éxitos más populares de la actualidad.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_today-s-top-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128090000 +0100" stop="20250128150000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Worldwide Hits</title>
+    <desc lang="es">Un vistazo a veinte canciones de artistas que gobernaron el mundo.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_worldwide-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128150000 +0100" stop="20250128200000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">MTV's 50 Feel-Good Anthems</title>
+    <desc lang="es">Un abrazo musical para sentirse bien: los 50 mejores himnos.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128210000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Grammys 2025: The Nominees</title>
+    <desc lang="es">Conozcamos a los nominados a la noche más importante de la música, los Grammy 2025.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128210000 +0100" stop="20250128220000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Coldplay: The Hits</title>
+    <desc lang="es">Lo mejor de la carrera de Coldplay, una de las bandas británicas más reconocidas del mundo.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_coldplay-the-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128220000 +0100" stop="20250129000000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">MTV Top 20</title>
+    <desc lang="es">Disfruta de la mejor lista de reproducción con todos los éxitos de tus artistas preferidos.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mtv-top-20_l_l.jpg"/>
+  </programme>
+  <programme start="20250129000000 +0100" stop="20250129020000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Guess the Year</title>
+    <desc lang="es">Pon a prueba tus conocimientos musicales en este espacio que te trasladará nuevamente a temas que dejaron huella en la industria. Rememora los mejores años a través de varios géneros.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_guess-the-year_l_l.jpg"/>
+  </programme>
+  <programme start="20250129020000 +0100" stop="20250129030000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Worldwide Hits</title>
+    <desc lang="es">Un vistazo a veinte canciones de artistas que gobernaron el mundo.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_worldwide-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250129030000 +0100" stop="20250130030000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Today's Top Hits</title>
+    <desc lang="es">Echa un vistazo a las pistas más importantes y los éxitos más populares de la actualidad.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_today-s-top-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250130030000 +0100" stop="20250130050000 +0100" channel="MUS-VH1 Classic(M)(SD)">
+    <title lang="es">Today's Top Hits</title>
+    <desc lang="es">Echa un vistazo a las pistas más importantes y los éxitos más populares de la actualidad.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_today-s-top-hits_l_l.jpg"/>
+  </programme>
+  <programme start="20250128040000 +0100" stop="20250128090000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250128090000 +0100" stop="20250128140000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Hits on Shuffle!</title>
+    <desc lang="es">Una mezcla variada con los mejores temas para escuchar y disfrutar.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128140000 +0100" stop="20250128150000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Rap &amp; R'n'B Jamz</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rap-r-n-b-jamz-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250128150000 +0100" stop="20250128200000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250128200000 +0100" stop="20250128210000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">We Belong Together! Classic Collabs</title>
+    <desc lang="es">Algunas de las canciones más icónicas para disfrutar en este ranking de clásicos.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250128210000 +0100" stop="20250129030000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Hits Don't Lie</title>
+    <desc lang="es">Los mayores y mejores éxitos mundiales del pasado al presente.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hits-don-t-lie_l_l.jpg"/>
+  </programme>
+  <programme start="20250129030000 +0100" stop="20250129040000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Chillout Zone</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_chillout-zone_l_l.jpg"/>
+  </programme>
+  <programme start="20250129040000 +0100" stop="20250129070000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">You + Me... 40 Love Anthems</title>
+    <desc lang="es">Los años 2000 marcaron a toda una generación con éxitos románticos que todos conocen y siguen emocionando. En este especial del amor, se puede volver a disfrutar al hilo de 40 canciones que enamoran de la mano de los artistas del momento.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129070000 +0100" stop="20250129090000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250129090000 +0100" stop="20250129140000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Hits on Shuffle!</title>
+    <desc lang="es">Una mezcla variada con los mejores temas para escuchar y disfrutar.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250129140000 +0100" stop="20250129150000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Supermassive Rock Anthems!</title>
+    <desc lang="es">Los más impactantes e inspiradores temas del rock para escuchar y disfrutar.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_supermassive-rock-anthems_l_l.jpg"/>
+  </programme>
+  <programme start="20250129150000 +0100" stop="20250129200000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Non-Stop Y2Ks!</title>
+    <desc lang="es">¡Los 00s nos dieron algunas pistas icónicas y vamos a tocar algunas de ellas sin parar!</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-y2ks_l_l.jpg"/>
+  </programme>
+  <programme start="20250129200000 +0100" stop="20250129210000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Rap &amp; R'n'B Jamz</title>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rap-r-n-b-jamz-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250129210000 +0100" stop="20250130030000 +0100" channel="MUS-VH1 Plus (M)(SD)">
+    <title lang="es">Hits Don't Lie</title>
+    <desc lang="es">Los mayores y mejores éxitos mundiales del pasado al presente.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hits-don-t-lie_l_l.jpg"/>
   </programme>
 </tv>
