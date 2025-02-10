@@ -846,6 +846,7 @@
   </channel>
   <channel id="NOT-TeleSur (M)(SD)">
     <display-name lang="es">NOT-TeleSur (M)(SD)</display-name>
+    <icon src="https://www.reportv.com.ar/buscador/img/Logos/183317.gif"/>
   </channel>
   <channel id="NOT-Wobi (TV)(SD)">
     <display-name lang="es">NOT-Wobi (TV)(SD)</display-name>
@@ -7989,8 +7990,8 @@
   </programme>
   <programme start="20250210043000 +0100" stop="20250210050000 +0100" channel="CINE - El Gourmet (M)(1080)">
     <title lang="es">Devuélveme los tápers</title>
-    <sub-title lang="es">Juan Carlos - Aida</sub-title>
-    <desc lang="es">En este episodio, Zahie conoce a Juan Carlos Soto, que le cocinará una pasta al morrón y salmón a la mantequilla a su papá. Además, visita a Aida Lira Ortiz, que le preparará un lomo relleno a su vecina Hortensia.</desc>
+    <sub-title lang="es">Santino - Mery</sub-title>
+    <desc lang="es">Hoy Felicitas conoce a Santino, quien todos los fines de semana le lleva comida a su papá. En esta oportunidad, le cocinará pollo al champiñón con papas al horno. Luego, visita a Mery, quien le preparará a su abuela unos scones.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
@@ -8379,8 +8380,8 @@
   </programme>
   <programme start="20250211113000 +0100" stop="20250211120000 +0100" channel="CINE - El Gourmet (M)(1080)">
     <title lang="es">Devuélveme los tápers</title>
-    <sub-title lang="es">Maribel - Lourdes</sub-title>
-    <desc lang="es">En esta oportunidad, Zahie visita a las hermanas Copado: Maribel y Lourdes. Mientras que Maribel les prepara enchiladas mineras a sus viejas amigas Martha y Blanca, Lourdes le cocina uchepos con chile a sus sobrinos Gabriela y Pepe.</desc>
+    <sub-title lang="es">Natalia - Guillermo</sub-title>
+    <desc lang="es">En esta oportunidad, conoceremos a Natalia, que le prepara comidas caseras a su esposo que es piloto y siempre está viajando. También visitaremos a Guillermo, que cocina cinco veces a la semana para su sobrino.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
@@ -8498,8 +8499,8 @@
   </programme>
   <programme start="20250211200000 +0100" stop="20250211203000 +0100" channel="CINE - El Gourmet (M)(1080)">
     <title lang="es">Devuélveme los tápers</title>
-    <sub-title lang="es">Maribel - Lourdes</sub-title>
-    <desc lang="es">En esta oportunidad, Zahie visita a las hermanas Copado: Maribel y Lourdes. Mientras que Maribel les prepara enchiladas mineras a sus viejas amigas Martha y Blanca, Lourdes le cocina uchepos con chile a sus sobrinos Gabriela y Pepe.</desc>
+    <sub-title lang="es">Natalia - Guillermo</sub-title>
+    <desc lang="es">En esta oportunidad, conoceremos a Natalia, que le prepara comidas caseras a su esposo que es piloto y siempre está viajando. También visitaremos a Guillermo, que cocina cinco veces a la semana para su sobrino.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
@@ -8561,8 +8562,8 @@
   </programme>
   <programme start="20250212010000 +0100" stop="20250212013000 +0100" channel="CINE - El Gourmet (M)(1080)">
     <title lang="es">Devuélveme los tápers</title>
-    <sub-title lang="es">Maribel - Lourdes</sub-title>
-    <desc lang="es">En esta oportunidad, Zahie visita a las hermanas Copado: Maribel y Lourdes. Mientras que Maribel les prepara enchiladas mineras a sus viejas amigas Martha y Blanca, Lourdes le cocina uchepos con chile a sus sobrinos Gabriela y Pepe.</desc>
+    <sub-title lang="es">Natalia - Guillermo</sub-title>
+    <desc lang="es">En esta oportunidad, conoceremos a Natalia, que le prepara comidas caseras a su esposo que es piloto y siempre está viajando. También visitaremos a Guillermo, que cocina cinco veces a la semana para su sobrino.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
@@ -18183,6 +18184,50 @@
   <programme start="20250210200200 -0300" stop="20250210221900 -0300" channel="CINE - Space (TV)(1080)">
     <title lang="es">Desconocido</title>
   </programme>
+  <programme start="20250210221900 -0300" stop="20250211000000 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Cobra</title>
+  </programme>
+  <programme start="20250211000000 -0300" stop="20250211022100 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">John Wick: Chapter 2</title>
+    <desc lang="es">John Wick, un legendario sicario se ve obligado a retirarse por una conspiración de ex asociados para tomar el control del oscuro gremio de asesinos.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/john_wick_2.jpg"/>
+  </programme>
+  <programme start="20250211022100 -0300" stop="20250211041900 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Arma mortal</title>
+  </programme>
+  <programme start="20250211041900 -0300" stop="20250211060000 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Life: Vida Inteligente</title>
+    <desc lang="es">La tripulación de la Estación Espacial Internacional descubre que en la capsula proveniente de Marte hay un espécimen con vida sin saber del peligro que representa.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/life_vida_inteligente.jpg"/>
+  </programme>
+  <programme start="20250211060000 -0300" stop="20250211080000 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Terror a bordo</title>
+  </programme>
+  <programme start="20250211080000 -0300" stop="20250211085200 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Counter Atack</title>
+  </programme>
+  <programme start="20250211085200 -0300" stop="20250211104700 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Cinta roja</title>
+  </programme>
+  <programme start="20250211104700 -0300" stop="20250211130600 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Godzilla</title>
+    <desc lang="es">Una lagartija muta a un tamaño descomunal por culpa de experimentos radioactivos que ahora amenaza con destruir la isla de Manhattan.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/godzilla.jpg"/>
+  </programme>
+  <programme start="20250211130600 -0300" stop="20250211145500 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Cobra</title>
+  </programme>
+  <programme start="20250211145500 -0300" stop="20250211170800 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20250211170800 -0300" stop="20250211192900 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Arma mortal 2</title>
+  </programme>
+  <programme start="20250211192900 -0300" stop="20250211221200 -0300" channel="CINE - Space (TV)(1080)">
+    <title lang="es">Patriots Day</title>
+    <desc lang="es">Tommy, un policía de Boston, presencia un atentado terrorista en una maratón, esto lo lleva a tomar una decisión para ayudar a encontrar a los culpables.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/dia_de_heroes.jpg"/>
+  </programme>
   <programme start="20250210030000 +0100" stop="20250210050700 +0100" channel="CINE - Space (TV)(720)">
     <title lang="es">¿Qué pasó ayer? - Parte III</title>
     <title lang="xx">The Hangover - Part III</title>
@@ -19815,6 +19860,27 @@
   </programme>
   <programme start="20250210203000 -0300" stop="20250210212500 -0300" channel="CINE - Star TVE (M)(1080)">
     <title lang="es">Servir y proteger</title>
+  </programme>
+  <programme start="20250210212500 -0300" stop="20250210213000 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">Acacias 38</title>
+  </programme>
+  <programme start="20250210213000 -0300" stop="20250210222000 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">Acacias 38</title>
+  </programme>
+  <programme start="20250210222000 -0300" stop="20250210222500 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">La promesa</title>
+  </programme>
+  <programme start="20250210222500 -0300" stop="20250210232000 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">La promesa</title>
+  </programme>
+  <programme start="20250210232000 -0300" stop="20250210232500 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">El continental</title>
+  </programme>
+  <programme start="20250210232500 -0300" stop="20250211031000 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">Star HD</title>
+  </programme>
+  <programme start="20250211232500 -0300" stop="20250212031000 -0300" channel="CINE - Star TVE (M)(1080)">
+    <title lang="es">Star HD</title>
   </programme>
   <programme start="20250210035000 +0100" stop="20250210060000 +0100" channel="CINE - Studio Universal (M)(1080)">
     <title lang="es">Hombres de negro: Internacional</title>
@@ -21774,177 +21840,177 @@
   <programme start="20250211232200 -0300" stop="20250212001400 -0300" channel="CINE - TNT Novelas  (M)(1080)">
     <title lang="es">El chico de oro -</title>
   </programme>
+  <programme start="20250210000300 -0300" stop="20250210005200 -0300" channel="CINE - TNT Series (L)(720)">
+    <title lang="es">The Mentalist</title>
+    <desc lang="es">Temporada 2 | Episodio 14</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
   <programme start="20250210005200 -0300" stop="20250210014000 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 15</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20250210014000 -0300" stop="20250210023100 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210014000 -0300" stop="20250210023900 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20250210023100 -0300" stop="20250210032200 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210023900 -0300" stop="20250210031600 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20250210032200 -0300" stop="20250210040800 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210031600 -0300" stop="20250210040300 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 18</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20250210040800 -0300" stop="20250210045900 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210040300 -0300" stop="20250210045100 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20250210045900 -0300" stop="20250210054500 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210045100 -0300" stop="20250210053700 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20250210054500 -0300" stop="20250210063100 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210053700 -0300" stop="20250210062100 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20250210063100 -0300" stop="20250210071600 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210062100 -0300" stop="20250210070200 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20250210071600 -0300" stop="20250210080300 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210070200 -0300" stop="20250210074600 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20250210080300 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (L)(720)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 2 | Episodio 14</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S2 E14</episode-num>
+  <programme start="20250210074600 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (L)(720)">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210090000 -0300" stop="20250210093500 -0300" channel="CINE - TNT Series (L)(720)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 9</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E9</episode-num>
+  <programme start="20250210090000 -0300" stop="20250210100200 -0300" channel="CINE - TNT Series (L)(720)">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210093500 -0300" stop="20250210102700 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210100200 -0300" stop="20250210105000 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210102700 -0300" stop="20250210111900 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210105000 -0300" stop="20250210113800 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 22</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20250210111900 -0300" stop="20250210120700 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210113800 -0300" stop="20250210122700 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250210120700 -0300" stop="20250210125800 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210122700 -0300" stop="20250210131400 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250210125800 -0300" stop="20250210134900 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210131400 -0300" stop="20250210140200 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E19</episode-num>
   </programme>
-  <programme start="20250210134900 -0300" stop="20250210143400 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210140200 -0300" stop="20250210144900 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E20</episode-num>
   </programme>
-  <programme start="20250210143400 -0300" stop="20250210152400 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210144900 -0300" stop="20250210153700 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210152400 -0300" stop="20250210161400 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210153700 -0300" stop="20250210162600 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210161400 -0300" stop="20250210170200 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210162600 -0300" stop="20250210171100 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210170200 -0300" stop="20250210175400 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210171100 -0300" stop="20250210180100 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210175400 -0300" stop="20250210184200 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210180100 -0300" stop="20250210185100 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20250210184200 -0300" stop="20250210193100 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210185100 -0300" stop="20250210193900 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20250210193100 -0300" stop="20250210202100 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210193900 -0300" stop="20250210202700 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20250210202100 -0300" stop="20250210210900 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210202700 -0300" stop="20250210211400 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20250210210900 -0300" stop="20250210215900 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210211400 -0300" stop="20250210220200 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210215900 -0300" stop="20250210225100 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210220200 -0300" stop="20250210225200 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210225100 -0300" stop="20250210233700 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210225200 -0300" stop="20250210234000 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210233700 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250210234000 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250211233700 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (L)(720)">
+  <programme start="20250211234000 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (L)(720)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
@@ -21974,177 +22040,177 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
+  <programme start="20250210000300 -0300" stop="20250210005200 -0300" channel="CINE - TNT Series (M)(1080)">
+    <title lang="es">The Mentalist</title>
+    <desc lang="es">Temporada 2 | Episodio 14</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
   <programme start="20250210005200 -0300" stop="20250210014000 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 15</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20250210014000 -0300" stop="20250210023100 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210014000 -0300" stop="20250210023900 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20250210023100 -0300" stop="20250210032200 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210023900 -0300" stop="20250210031600 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20250210032200 -0300" stop="20250210040800 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210031600 -0300" stop="20250210040300 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 18</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20250210040800 -0300" stop="20250210045900 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210040300 -0300" stop="20250210045100 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20250210045900 -0300" stop="20250210054500 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210045100 -0300" stop="20250210053700 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20250210054500 -0300" stop="20250210063100 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210053700 -0300" stop="20250210062100 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20250210063100 -0300" stop="20250210071600 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210062100 -0300" stop="20250210070200 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20250210071600 -0300" stop="20250210080300 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210070200 -0300" stop="20250210074600 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20250210080300 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (M)(1080)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 2 | Episodio 14</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S2 E14</episode-num>
+  <programme start="20250210074600 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (M)(1080)">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210090000 -0300" stop="20250210093500 -0300" channel="CINE - TNT Series (M)(1080)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 9</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E9</episode-num>
+  <programme start="20250210090000 -0300" stop="20250210100200 -0300" channel="CINE - TNT Series (M)(1080)">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210093500 -0300" stop="20250210102700 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210100200 -0300" stop="20250210105000 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210102700 -0300" stop="20250210111900 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210105000 -0300" stop="20250210113800 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 22</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20250210111900 -0300" stop="20250210120700 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210113800 -0300" stop="20250210122700 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250210120700 -0300" stop="20250210125800 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210122700 -0300" stop="20250210131400 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250210125800 -0300" stop="20250210134900 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210131400 -0300" stop="20250210140200 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E19</episode-num>
   </programme>
-  <programme start="20250210134900 -0300" stop="20250210143400 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210140200 -0300" stop="20250210144900 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E20</episode-num>
   </programme>
-  <programme start="20250210143400 -0300" stop="20250210152400 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210144900 -0300" stop="20250210153700 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210152400 -0300" stop="20250210161400 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210153700 -0300" stop="20250210162600 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210161400 -0300" stop="20250210170200 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210162600 -0300" stop="20250210171100 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210170200 -0300" stop="20250210175400 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210171100 -0300" stop="20250210180100 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210175400 -0300" stop="20250210184200 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210180100 -0300" stop="20250210185100 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20250210184200 -0300" stop="20250210193100 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210185100 -0300" stop="20250210193900 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20250210193100 -0300" stop="20250210202100 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210193900 -0300" stop="20250210202700 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20250210202100 -0300" stop="20250210210900 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210202700 -0300" stop="20250210211400 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20250210210900 -0300" stop="20250210215900 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210211400 -0300" stop="20250210220200 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210215900 -0300" stop="20250210225100 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210220200 -0300" stop="20250210225200 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210225100 -0300" stop="20250210233700 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210225200 -0300" stop="20250210234000 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210233700 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250210234000 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250211233700 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (M)(1080)">
+  <programme start="20250211234000 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (M)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
@@ -22174,177 +22240,177 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
+  <programme start="20250210000300 -0300" stop="20250210005200 -0300" channel="CINE - TNT Series (TV)(1080)">
+    <title lang="es">The Mentalist</title>
+    <desc lang="es">Temporada 2 | Episodio 14</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
   <programme start="20250210005200 -0300" stop="20250210014000 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 15</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20250210014000 -0300" stop="20250210023100 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210014000 -0300" stop="20250210023900 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20250210023100 -0300" stop="20250210032200 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210023900 -0300" stop="20250210031600 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20250210032200 -0300" stop="20250210040800 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210031600 -0300" stop="20250210040300 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 18</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20250210040800 -0300" stop="20250210045900 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210040300 -0300" stop="20250210045100 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20250210045900 -0300" stop="20250210054500 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210045100 -0300" stop="20250210053700 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20250210054500 -0300" stop="20250210063100 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210053700 -0300" stop="20250210062100 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20250210063100 -0300" stop="20250210071600 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210062100 -0300" stop="20250210070200 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20250210071600 -0300" stop="20250210080300 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210070200 -0300" stop="20250210074600 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20250210080300 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (TV)(1080)">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 2 | Episodio 14</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S2 E14</episode-num>
+  <programme start="20250210074600 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (TV)(1080)">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210090000 -0300" stop="20250210093500 -0300" channel="CINE - TNT Series (TV)(1080)">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 9</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E9</episode-num>
+  <programme start="20250210090000 -0300" stop="20250210100200 -0300" channel="CINE - TNT Series (TV)(1080)">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210093500 -0300" stop="20250210102700 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210100200 -0300" stop="20250210105000 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210102700 -0300" stop="20250210111900 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210105000 -0300" stop="20250210113800 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 22</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20250210111900 -0300" stop="20250210120700 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210113800 -0300" stop="20250210122700 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250210120700 -0300" stop="20250210125800 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210122700 -0300" stop="20250210131400 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250210125800 -0300" stop="20250210134900 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210131400 -0300" stop="20250210140200 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E19</episode-num>
   </programme>
-  <programme start="20250210134900 -0300" stop="20250210143400 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210140200 -0300" stop="20250210144900 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E20</episode-num>
   </programme>
-  <programme start="20250210143400 -0300" stop="20250210152400 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210144900 -0300" stop="20250210153700 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210152400 -0300" stop="20250210161400 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210153700 -0300" stop="20250210162600 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210161400 -0300" stop="20250210170200 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210162600 -0300" stop="20250210171100 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210170200 -0300" stop="20250210175400 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210171100 -0300" stop="20250210180100 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210175400 -0300" stop="20250210184200 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210180100 -0300" stop="20250210185100 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20250210184200 -0300" stop="20250210193100 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210185100 -0300" stop="20250210193900 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20250210193100 -0300" stop="20250210202100 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210193900 -0300" stop="20250210202700 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20250210202100 -0300" stop="20250210210900 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210202700 -0300" stop="20250210211400 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20250210210900 -0300" stop="20250210215900 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210211400 -0300" stop="20250210220200 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210215900 -0300" stop="20250210225100 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210220200 -0300" stop="20250210225200 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210225100 -0300" stop="20250210233700 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210225200 -0300" stop="20250210234000 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210233700 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250210234000 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250211233700 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (TV)(1080)">
+  <programme start="20250211234000 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (TV)(1080)">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
@@ -22374,177 +22440,177 @@
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
+  <programme start="20250210000300 -0300" stop="20250210005200 -0300" channel="CINE - TNT Series (Z)(720).">
+    <title lang="es">The Mentalist</title>
+    <desc lang="es">Temporada 2 | Episodio 14</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
   <programme start="20250210005200 -0300" stop="20250210014000 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 15</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E15</episode-num>
   </programme>
-  <programme start="20250210014000 -0300" stop="20250210023100 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210014000 -0300" stop="20250210023900 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E16</episode-num>
   </programme>
-  <programme start="20250210023100 -0300" stop="20250210032200 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210023900 -0300" stop="20250210031600 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20250210032200 -0300" stop="20250210040800 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210031600 -0300" stop="20250210040300 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 18</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E18</episode-num>
   </programme>
-  <programme start="20250210040800 -0300" stop="20250210045900 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210040300 -0300" stop="20250210045100 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20250210045900 -0300" stop="20250210054500 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210045100 -0300" stop="20250210053700 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20250210054500 -0300" stop="20250210063100 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210053700 -0300" stop="20250210062100 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 11</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E11</episode-num>
   </programme>
-  <programme start="20250210063100 -0300" stop="20250210071600 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210062100 -0300" stop="20250210070200 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 12</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20250210071600 -0300" stop="20250210080300 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210070200 -0300" stop="20250210074600 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 2 | Episodio 13</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20250210080300 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (Z)(720).">
-    <title lang="es">The Mentalist</title>
-    <desc lang="es">Temporada 2 | Episodio 14</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
-    <episode-num system="onscreen">S2 E14</episode-num>
+  <programme start="20250210074600 -0300" stop="20250210090000 -0300" channel="CINE - TNT Series (Z)(720).">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210090000 -0300" stop="20250210093500 -0300" channel="CINE - TNT Series (Z)(720).">
-    <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">Temporada 4 | Episodio 9</desc>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
-    <episode-num system="onscreen">S4 E9</episode-num>
+  <programme start="20250210090000 -0300" stop="20250210100200 -0300" channel="CINE - TNT Series (Z)(720).">
+    <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20250210093500 -0300" stop="20250210102700 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210100200 -0300" stop="20250210105000 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210102700 -0300" stop="20250210111900 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210105000 -0300" stop="20250210113800 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 6 | Episodio 22</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S6 E22</episode-num>
   </programme>
-  <programme start="20250210111900 -0300" stop="20250210120700 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210113800 -0300" stop="20250210122700 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250210120700 -0300" stop="20250210125800 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210122700 -0300" stop="20250210131400 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Cold Case</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250210125800 -0300" stop="20250210134900 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210131400 -0300" stop="20250210140200 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E19</episode-num>
   </programme>
-  <programme start="20250210134900 -0300" stop="20250210143400 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210140200 -0300" stop="20250210144900 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 8 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S8 E20</episode-num>
   </programme>
-  <programme start="20250210143400 -0300" stop="20250210152400 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210144900 -0300" stop="20250210153700 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210152400 -0300" stop="20250210161400 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210153700 -0300" stop="20250210162600 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210161400 -0300" stop="20250210170200 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210162600 -0300" stop="20250210171100 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210170200 -0300" stop="20250210175400 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210171100 -0300" stop="20250210180100 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250210175400 -0300" stop="20250210184200 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210180100 -0300" stop="20250210185100 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 16</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E16</episode-num>
   </programme>
-  <programme start="20250210184200 -0300" stop="20250210193100 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210185100 -0300" stop="20250210193900 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI: Miami</title>
     <desc lang="es">Temporada 6 | Episodio 17</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_miami.jpg"/>
     <episode-num system="onscreen">S6 E17</episode-num>
   </programme>
-  <programme start="20250210193100 -0300" stop="20250210202100 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210193900 -0300" stop="20250210202700 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 4</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20250210202100 -0300" stop="20250210210900 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210202700 -0300" stop="20250210211400 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">Law &amp; Order: SVU</title>
     <desc lang="es">Temporada 2 | Episodio 5</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/ley_y_orden_unidad_de_victimas_especiales.jpg"/>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20250210210900 -0300" stop="20250210215900 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210211400 -0300" stop="20250210220200 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 19</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20250210215900 -0300" stop="20250210225100 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210220200 -0300" stop="20250210225200 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">The Mentalist</title>
     <desc lang="es">Temporada 1 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20250210225100 -0300" stop="20250210233700 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210225200 -0300" stop="20250210234000 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 20</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E20</episode-num>
   </programme>
-  <programme start="20250210233700 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250210234000 -0300" stop="20250211003000 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
     <episode-num system="onscreen">S6 E21</episode-num>
   </programme>
-  <programme start="20250211233700 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (Z)(720).">
+  <programme start="20250211234000 -0300" stop="20250212003000 -0300" channel="CINE - TNT Series (Z)(720).">
     <title lang="es">CSI</title>
     <desc lang="es">Temporada 6 | Episodio 21</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/csi_crime_scene_investigation.jpg"/>
@@ -25215,7 +25281,7 @@
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
   <programme start="20250210040000 -0300" stop="20250210045000 -0300" channel="CINE - Universal Premier (L)(720)">
-    <title lang="es">FBI: Most Wanted</title>
+    <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
   <programme start="20250210045000 -0300" stop="20250210054000 -0300" channel="CINE - Universal Premier (L)(720)">
@@ -25361,7 +25427,7 @@
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
   <programme start="20250210010000 -0300" stop="20250210015000 -0300" channel="CINE - Universal Premier (M)(1080) [Dual Audio]">
-    <title lang="es">FBI: Most Wanted</title>
+    <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
   <programme start="20250210015000 -0300" stop="20250210024000 -0300" channel="CINE - Universal Premier (M)(1080) [Dual Audio]">
@@ -25525,7 +25591,7 @@
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
   <programme start="20250210010000 -0300" stop="20250210015000 -0300" channel="CINE - Universal Premier (T)(720)">
-    <title lang="es">FBI: Most Wanted</title>
+    <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
   <programme start="20250210015000 -0300" stop="20250210024000 -0300" channel="CINE - Universal Premier (T)(720)">
@@ -25689,7 +25755,7 @@
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
   <programme start="20250210010000 -0300" stop="20250210015000 -0300" channel="CINE - Universal Premiere Norte (Z)(720)">
-    <title lang="es">FBI: Most Wanted</title>
+    <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
   <programme start="20250210015000 -0300" stop="20250210024000 -0300" channel="CINE - Universal Premiere Norte (Z)(720)">
@@ -25853,7 +25919,7 @@
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
   <programme start="20250210040000 -0300" stop="20250210045000 -0300" channel="CINE - Universal Premiere Sur (Z)(720)">
-    <title lang="es">FBI: Most Wanted</title>
+    <title lang="es">FBI Most Wanted</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
   <programme start="20250210045000 -0300" stop="20250210054000 -0300" channel="CINE - Universal Premiere Sur (Z)(720)">
@@ -27909,317 +27975,317 @@
       <value>7.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250209002700 -0400" stop="20250209023100 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210002700 -0400" stop="20250210023100 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Los santos de la mafia</title>
     <category lang="es">Cine</category>
     <category lang="es">Crimen</category>
   </programme>
-  <programme start="20250209023100 -0400" stop="20250209040700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210023100 -0400" stop="20250210040700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La leyenda de Hércules</title>
     <category lang="es">Cine</category>
     <category lang="es">Aventura</category>
   </programme>
-  <programme start="20250209040700 -0400" stop="20250209042400 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210040700 -0400" stop="20250210042400 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209042400 -0400" stop="20250209044600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210042400 -0400" stop="20250210044600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209044600 -0400" stop="20250209050700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210044600 -0400" stop="20250210050700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209050700 -0400" stop="20250209052700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210050700 -0400" stop="20250210052700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209052700 -0400" stop="20250209054800 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210052700 -0400" stop="20250210054800 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209054800 -0400" stop="20250209060000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210054800 -0400" stop="20250210060000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Hollywood One on One</title>
     <category lang="es">Periodístico</category>
     <category lang="es">Entrevista</category>
   </programme>
-  <programme start="20250209060000 -0400" stop="20250209064500 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210060000 -0400" stop="20250210064500 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Superman &amp; Lois</title>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
   </programme>
-  <programme start="20250209064500 -0400" stop="20250209072900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210064500 -0400" stop="20250210072900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Riverdale</title>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20250209072900 -0400" stop="20250209074900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210072900 -0400" stop="20250210074900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Obreros milagrosos</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209074900 -0400" stop="20250209075200 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210074900 -0400" stop="20250210075200 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">TNT Buzz</title>
     <category lang="es">Variedades</category>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20250209075200 -0400" stop="20250209075300 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210075200 -0400" stop="20250210075300 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">TNT Buzz</title>
     <category lang="es">Variedades</category>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20250209075300 -0400" stop="20250209081700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210075300 -0400" stop="20250210081700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209081700 -0400" stop="20250209084200 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210081700 -0400" stop="20250210084200 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209084200 -0400" stop="20250209090600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210084200 -0400" stop="20250210090600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209090600 -0400" stop="20250209111900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210090600 -0400" stop="20250210111900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Arma mortal 4</title>
     <category lang="es">Cine</category>
     <category lang="es">Policial</category>
   </programme>
-  <programme start="20250209111900 -0400" stop="20250209125700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210111900 -0400" stop="20250210125700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La leyenda de Hércules</title>
     <category lang="es">Cine</category>
     <category lang="es">Aventura</category>
   </programme>
-  <programme start="20250209125700 -0400" stop="20250209143400 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210125700 -0400" stop="20250210143400 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Héroe de centro comercial 2</title>
     <category lang="es">Cine</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209143400 -0400" stop="20250209145700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210143400 -0400" stop="20250210145700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209145700 -0400" stop="20250209151800 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210145700 -0400" stop="20250210151800 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209151800 -0400" stop="20250209154000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210151800 -0400" stop="20250210154000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209154000 -0400" stop="20250209160400 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210154000 -0400" stop="20250210160400 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209160400 -0400" stop="20250209162900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210160400 -0400" stop="20250210162900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209162900 -0400" stop="20250209165400 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210162900 -0400" stop="20250210165400 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209165400 -0400" stop="20250209171900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210165400 -0400" stop="20250210171900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La niñera</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209171900 -0400" stop="20250209174600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210171900 -0400" stop="20250210174600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La niñera</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250209174600 -0400" stop="20250209194700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210174600 -0400" stop="20250210194700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Kong: La isla calavera</title>
     <category lang="es">Cine</category>
     <category lang="es">Aventura</category>
   </programme>
-  <programme start="20250209194700 -0400" stop="20250209220000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210194700 -0400" stop="20250210220000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Sherlock Holmes</title>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
   </programme>
-  <programme start="20250209220000 -0400" stop="20250210000900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250210220000 -0400" stop="20250211000900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Escuadrón suicida</title>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
   </programme>
-  <programme start="20250210000900 -0400" stop="20250210014200 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211000900 -0400" stop="20250211014200 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Jigsaw: El juego continúa</title>
     <category lang="es">Cine</category>
     <category lang="es">Terror</category>
   </programme>
-  <programme start="20250210014200 -0400" stop="20250210020600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211014200 -0400" stop="20250211020600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210020600 -0400" stop="20250210023000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211020600 -0400" stop="20250211023000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210023000 -0400" stop="20250210025500 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211023000 -0400" stop="20250211025500 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210025500 -0400" stop="20250210031900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211025500 -0400" stop="20250211031900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La niñera</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210031900 -0400" stop="20250210034500 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211031900 -0400" stop="20250211034500 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La niñera</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210034500 -0400" stop="20250210040500 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211034500 -0400" stop="20250211040500 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210040500 -0400" stop="20250210042600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211040500 -0400" stop="20250211042600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210042600 -0400" stop="20250210044800 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211042600 -0400" stop="20250211044800 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210044800 -0400" stop="20250210051100 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211044800 -0400" stop="20250211051100 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210051100 -0400" stop="20250210053200 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211051100 -0400" stop="20250211053200 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210053200 -0400" stop="20250210055400 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211053200 -0400" stop="20250211055400 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210055400 -0400" stop="20250210055700 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211055400 -0400" stop="20250211055700 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">TNT Buzz</title>
     <category lang="es">Variedades</category>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20250210055700 -0400" stop="20250210060000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211055700 -0400" stop="20250211060000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">TNT Buzz</title>
     <category lang="es">Variedades</category>
     <category lang="es">Entretenimientos</category>
   </programme>
-  <programme start="20250210060000 -0400" stop="20250210064900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211060000 -0400" stop="20250211064900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Superman &amp; Lois</title>
     <category lang="es">Series</category>
     <category lang="es">Acción</category>
   </programme>
-  <programme start="20250210064900 -0400" stop="20250210073300 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211064900 -0400" stop="20250211073300 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Riverdale</title>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20250210073300 -0400" stop="20250210075600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211073300 -0400" stop="20250211075600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210075600 -0400" stop="20250210082100 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211075600 -0400" stop="20250211082100 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210082100 -0400" stop="20250210084500 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211082100 -0400" stop="20250211084500 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210084500 -0400" stop="20250210103300 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211084500 -0400" stop="20250211103300 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Snatch: cerdos y diamantes</title>
     <category lang="es">Cine</category>
     <category lang="es">Crimen</category>
   </programme>
-  <programme start="20250210103300 -0400" stop="20250210122900 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211103300 -0400" stop="20250211122900 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">El juego de Ender</title>
     <category lang="es">Cine</category>
     <category lang="es">Aventura</category>
   </programme>
-  <programme start="20250210122900 -0400" stop="20250210144300 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211122900 -0400" stop="20250211144300 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Sherlock Holmes</title>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
   </programme>
-  <programme start="20250210144300 -0400" stop="20250210150500 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211144300 -0400" stop="20250211150500 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210150500 -0400" stop="20250210152600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211150500 -0400" stop="20250211152600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210152600 -0400" stop="20250210155000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211152600 -0400" stop="20250211155000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">The Big Bang Theory</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210155000 -0400" stop="20250210161300 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211155000 -0400" stop="20250211161300 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210161300 -0400" stop="20250210163800 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211161300 -0400" stop="20250211163800 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210163800 -0400" stop="20250210170300 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211163800 -0400" stop="20250211170300 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Friends</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210170300 -0400" stop="20250210173000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211170300 -0400" stop="20250211173000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La niñera</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210173000 -0400" stop="20250210175600 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211173000 -0400" stop="20250211175600 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">La niñera</title>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20250210175600 -0400" stop="20250210195000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211175600 -0400" stop="20250211195000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Dunkerque</title>
     <category lang="es">Cine</category>
     <category lang="es">Bélica</category>
   </programme>
-  <programme start="20250210195000 -0400" stop="20250210220000 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211195000 -0400" stop="20250211220000 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Los ángeles de Charlie</title>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
   </programme>
-  <programme start="20250210220000 -0400" stop="20250211000200 -0400" channel="CINE - Warner Channel (Z)(1080)">
+  <programme start="20250211220000 -0400" stop="20250212000200 -0400" channel="CINE - Warner Channel (Z)(1080)">
     <title lang="es">Terremoto: la falla de San Andrés</title>
     <category lang="es">Cine</category>
     <category lang="es">Acción</category>
@@ -36749,7 +36815,7 @@
     <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20250210100300 -0300" stop="20250210103000 -0300" channel="DOC-DW En Español (Z)(1080)">
-    <title lang="es">Aquí estoy</title>
+    <title lang="es">¡Aquí Estoy!</title>
   </programme>
   <programme start="20250210103000 -0300" stop="20250210110000 -0300" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Hecho en Alemania</title>
@@ -36918,7 +36984,7 @@
     <title lang="es">¿Cómo te afecta?</title>
   </programme>
   <programme start="20250211063000 -0300" stop="20250211070000 -0300" channel="DOC-DW En Español (Z)(1080)">
-    <title lang="es">Aquí estoy</title>
+    <title lang="es">¡Aquí Estoy!</title>
   </programme>
   <programme start="20250211070000 -0300" stop="20250211070300 -0300" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW Noticias</title>
@@ -38379,8 +38445,8 @@
   </programme>
   <programme start="20250211190000 +0100" stop="20250211193000 +0100" channel="DOC-Gourmet (Z)(1080)">
     <title lang="es">Devuélveme los tápers</title>
-    <sub-title lang="es">Santino - Mery</sub-title>
-    <desc lang="es">Hoy Felicitas conoce a Santino, quien todos los fines de semana le lleva comida a su papá. En esta oportunidad, le cocinará pollo al champiñón con papas al horno. Luego, visita a Mery, quien le preparará a su abuela unos scones.</desc>
+    <sub-title lang="es">Juan Carlos - Aida</sub-title>
+    <desc lang="es">En este episodio, Zahie conoce a Juan Carlos Soto, que le cocinará una pasta al morrón y salmón a la mantequilla a su papá. Además, visita a Aida Lira Ortiz, que le preparará un lomo relleno a su vecina Hortensia.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
@@ -38683,8 +38749,8 @@
   </programme>
   <programme start="20250210180900 +0100" stop="20250210185600 +0100" channel="DOC-HGTV (Z)(1080)">
     <title lang="es">Joe, el inspector de propiedades</title>
-    <sub-title lang="es">Una victoriana irritante</sub-title>
-    <desc lang="es">Los propietarios se están adaptando a la vida suburbana en su casa victoriana con encanto y preocupaciones de seguridad. Joe Mazza tiene las manos ocupadas con un exterior destruido y Noel Gatts busca honrar su carácter histórico.</desc>
+    <sub-title lang="es">Problemas de agua</sub-title>
+    <desc lang="es">Una pareja de Nueva York está abrumada por los problemas de agua. Joe Mazza descubre el origen de sus problemas mientras el diseñador Noel Gatts convierte su casa de Cabo Cod de amontonada a clásica.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
@@ -41021,8 +41087,8 @@
   </programme>
   <programme start="20250210180900 +0100" stop="20250210185600 +0100" channel="DOC-Discovery HGTV (TV)(1080)">
     <title lang="es">Joe, el inspector de propiedades</title>
-    <sub-title lang="es">Una victoriana irritante</sub-title>
-    <desc lang="es">Los propietarios se están adaptando a la vida suburbana en su casa victoriana con encanto y preocupaciones de seguridad. Joe Mazza tiene las manos ocupadas con un exterior destruido y Noel Gatts busca honrar su carácter histórico.</desc>
+    <sub-title lang="es">Problemas de agua</sub-title>
+    <desc lang="es">Una pareja de Nueva York está abrumada por los problemas de agua. Joe Mazza descubre el origen de sus problemas mientras el diseñador Noel Gatts convierte su casa de Cabo Cod de amontonada a clásica.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0..</episode-num>
   </programme>
@@ -50501,6 +50567,564 @@
   </programme>
   <programme start="20250211230000 -0300" stop="20250212000000 -0300" channel="NOT-NTN24 (T)(SD)">
     <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20250210000000 -0400" stop="20250210000500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210000500 -0400" stop="20250210003000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Latitud Brasil</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210003000 -0400" stop="20250210010000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entre fronteras</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250210010000 -0400" stop="20250210013000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">La magia de los pueblos</title>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20250210013000 -0400" stop="20250210020000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210020000 -0400" stop="20250210020500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210020500 -0400" stop="20250210023000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Texto y contexto</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210023000 -0400" stop="20250210030000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210030000 -0400" stop="20250210030500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210030500 -0400" stop="20250210033000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Destino verde</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210033000 -0400" stop="20250210040000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Reportajes Telesur</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20250210040000 -0400" stop="20250210043000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Atomun</title>
+    <category lang="es">Documentales</category>
+    <category lang="es">Tecnología</category>
+  </programme>
+  <programme start="20250210043000 -0400" stop="20250210050000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210050000 -0400" stop="20250210050500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210050500 -0400" stop="20250210053000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entrevista especial</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20250210053000 -0400" stop="20250210060000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210060000 -0400" stop="20250210060500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210060500 -0400" stop="20250210063000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entre fronteras</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250210063000 -0400" stop="20250210070000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210070000 -0400" stop="20250210073000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">La magia de los pueblos</title>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20250210073000 -0400" stop="20250210080000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Conexión digital - Matutino</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250210080000 -0400" stop="20250210083000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Matutino</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20250210083000 -0400" stop="20250210093000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Agenda abierta</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250210093000 -0400" stop="20250210100000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Reportes 360 - Matutino</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210100000 -0400" stop="20250210100500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210100500 -0400" stop="20250210103000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Vidas</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20250210103000 -0400" stop="20250210110000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210110000 -0400" stop="20250210110500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210110500 -0400" stop="20250210113000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Deportes Telesur</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20250210113000 -0400" stop="20250210123000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Conexión global</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210123000 -0400" stop="20250210130000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mapa</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20250210130000 -0400" stop="20250210133000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Matutino</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20250210133000 -0400" stop="20250210140000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Conexión digital - Vespertino</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250210140000 -0400" stop="20250210140500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210140500 -0400" stop="20250210143000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Notables</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210143000 -0400" stop="20250210150000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Lenguaje de señas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210150000 -0400" stop="20250210150500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210150500 -0400" stop="20250210153000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Somos</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210153000 -0400" stop="20250210160000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210160000 -0400" stop="20250210160500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210160500 -0400" stop="20250210163000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Vidas</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20250210163000 -0400" stop="20250210170000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Temas del día</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210170000 -0400" stop="20250210170500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210170500 -0400" stop="20250210173000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Deportes Telesur</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20250210173000 -0400" stop="20250210180000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210180000 -0400" stop="20250210180500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210180500 -0400" stop="20250210183000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Texto y contexto</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210183000 -0400" stop="20250210190000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Reportes 360 - Estelar</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250210190000 -0400" stop="20250210193000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Estelar</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210193000 -0400" stop="20250210210000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Edición central</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210210000 -0400" stop="20250210213000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mundo desde el sur</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210213000 -0400" stop="20250210220000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Notables</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250210220000 -0400" stop="20250210223000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El punto en la I</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20250210223000 -0400" stop="20250210230000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Te lo cuento</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210230000 -0400" stop="20250210230500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250210230500 -0400" stop="20250210233000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mapa</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20250210233000 -0400" stop="20250211000000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entre fronteras</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250211000000 -0400" stop="20250211000500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211000500 -0400" stop="20250211003000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Notables</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250211003000 -0400" stop="20250211010000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211010000 -0400" stop="20250211013000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entrevista especial</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20250211013000 -0400" stop="20250211020000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211020000 -0400" stop="20250211020500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211020500 -0400" stop="20250211023000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Somos</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211023000 -0400" stop="20250211030000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211030000 -0400" stop="20250211030500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211030500 -0400" stop="20250211033000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Estelar</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211033000 -0400" stop="20250211040000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mundo desde el sur</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211040000 -0400" stop="20250211043000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El punto en la I</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20250211043000 -0400" stop="20250211050000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211050000 -0400" stop="20250211050500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211050500 -0400" stop="20250211053000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mapa</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20250211053000 -0400" stop="20250211060000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211060000 -0400" stop="20250211060500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211060500 -0400" stop="20250211063000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Somos</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211063000 -0400" stop="20250211070000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211070000 -0400" stop="20250211073000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Reportajes Telesur</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20250211073000 -0400" stop="20250211080000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Conexión digital - Matutino</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250211080000 -0400" stop="20250211083000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Matutino</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20250211083000 -0400" stop="20250211093000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Agenda abierta</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250211093000 -0400" stop="20250211100000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Reportes 360 - Matutino</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211100000 -0400" stop="20250211100500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211100500 -0400" stop="20250211103000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Guía tu cuerpo</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20250211103000 -0400" stop="20250211110000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211110000 -0400" stop="20250211110500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211110500 -0400" stop="20250211113000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Deportes Telesur</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20250211113000 -0400" stop="20250211123000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Conexión global</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211123000 -0400" stop="20250211130000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mapa</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20250211130000 -0400" stop="20250211133000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Matutino</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20250211133000 -0400" stop="20250211140000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Conexión digital - Vespertino</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250211140000 -0400" stop="20250211140500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211140500 -0400" stop="20250211143000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Notables</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250211143000 -0400" stop="20250211150000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Lenguaje de señas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250211150000 -0400" stop="20250211150500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211150500 -0400" stop="20250211153000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Somos</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211153000 -0400" stop="20250211160000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211160000 -0400" stop="20250211160500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211160500 -0400" stop="20250211163000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Guía tu cuerpo</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20250211163000 -0400" stop="20250211170000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Temas del día</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211170000 -0400" stop="20250211170500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211170500 -0400" stop="20250211173000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Deportes Telesur</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20250211173000 -0400" stop="20250211180000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Telesur Noticias</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211180000 -0400" stop="20250211180500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211180500 -0400" stop="20250211183000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El punto en la I</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20250211183000 -0400" stop="20250211190000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Reportes 360 - Estelar</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250211190000 -0400" stop="20250211193000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Impacto económico - Estelar</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211193000 -0400" stop="20250211210000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Edición central</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211210000 -0400" stop="20250211213000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mundo desde el sur</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211213000 -0400" stop="20250211220000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Notables</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20250211220000 -0400" stop="20250211223000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entre fronteras</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20250211223000 -0400" stop="20250211230000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Te lo cuento</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211230000 -0400" stop="20250211230500 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Titulares</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20250211230500 -0400" stop="20250211233000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">El mapa</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20250211233000 -0400" stop="20250212000000 -0400" channel="NOT-TeleSur (M)(SD)">
+    <title lang="es">Entrevista especial</title>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
   </programme>
   <programme start="20250210003000 -0300" stop="20250210010000 -0300" channel="NOT-Wobi (TV)(SD)">
     <title lang="es">Spotlight Steve Levitt</title>
