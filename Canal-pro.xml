@@ -25,7 +25,7 @@
     <icon src="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png"/>
   </channel>
   <channel id="ZCL• DISCOVERY TLC (HD)">
-    <display-name lang="es">#offset#-120</display-name>
+    <display-name lang="es">ZCL• DISCOVERY TLC (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_discovery-tlc_m.png"/>
   </channel>
   <programme start="20250313035500 +0100" stop="20250313042000 +0100" channel="ZCL• NICK JR (HD)">
