@@ -248,6 +248,10 @@
     <display-name lang="es">ZCL• ESPN (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png"/>
   </channel>
+  <channel id="ZCL• ESPN 3 (HD)">
+    <display-name lang="es">ZCL• ESPN 3 (HD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png"/>
+  </channel>
   <channel id="ZCL• HTV (HD)">
     <display-name lang="es">ZCL• HTV (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_htv_m.png"/>
@@ -449,8 +453,8 @@
   </programme>
   <programme start="20250324111500 +0100" stop="20250324112500 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Baby Shark, el gran show</title>
-    <sub-title lang="es">Lo que sube</sub-title>
-    <desc lang="es">Tiburón Bebé está encantado de tener un nuevo amigo burbujeante, hasta que se enfrenta a la posibilidad de perderlo.</desc>
+    <sub-title lang="es">La bailatón</sub-title>
+    <desc lang="es">Lannie visita Carnivore Cove y se une a Tiburón Bebé y sus amigos para un maratón de baile.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_baby-shark-el-gran-show-s03e01-la-bailaton-lo-que-sube_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.0.</episode-num>
   </programme>
@@ -659,8 +663,8 @@
   </programme>
   <programme start="20250324213000 +0100" stop="20250324215000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Baby Shark, el gran show</title>
-    <sub-title lang="es">Lo que sube</sub-title>
-    <desc lang="es">Tiburón Bebé está encantado de tener un nuevo amigo burbujeante, hasta que se enfrenta a la posibilidad de perderlo.</desc>
+    <sub-title lang="es">La bailatón</sub-title>
+    <desc lang="es">Lannie visita Carnivore Cove y se une a Tiburón Bebé y sus amigos para un maratón de baile.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_baby-shark-el-gran-show-s03e01-la-bailaton-lo-que-sube_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.0.</episode-num>
   </programme>
@@ -2094,8 +2098,8 @@
   </programme>
   <programme start="20250324103000 +0100" stop="20250324105000 +0100" channel="ZCL• NICKELODEON (HD)">
     <title lang="es">The Loud House: una verdadera familia ruidosa</title>
-    <sub-title lang="es">El blues de los Loud</sub-title>
-    <desc lang="es">Luna intenta devolver una guitarra, que encontró a su legítimo propietario, aunque Lincoln después se arrepiente de haberle prestado Bun Bun a Lily e intenta la menera de recuperarlo.</desc>
+    <sub-title lang="es">El novio se queda en la película</sub-title>
+    <desc lang="es">Lincoln McCloud vuelve al cine junto a Bobby, el novio de Lori como estrella. Aunque luego, Bobby y Lori cortan su relación, pero lo peor es que les falta grabar una escena más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
@@ -2514,8 +2518,8 @@
   </programme>
   <programme start="20250325094500 +0100" stop="20250325100500 +0100" channel="ZCL• NICKELODEON (HD)">
     <title lang="es">The Loud House: una verdadera familia ruidosa</title>
-    <sub-title lang="es">El blues de los Loud</sub-title>
-    <desc lang="es">Luna intenta devolver una guitarra, que encontró a su legítimo propietario, aunque Lincoln después se arrepiente de haberle prestado Bun Bun a Lily e intenta la menera de recuperarlo.</desc>
+    <sub-title lang="es">El novio se queda en la película</sub-title>
+    <desc lang="es">Lincoln McCloud vuelve al cine junto a Bobby, el novio de Lori como estrella. Aunque luego, Bobby y Lori cortan su relación, pero lo peor es que les falta grabar una escena más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
@@ -2689,8 +2693,8 @@
   </programme>
   <programme start="20250325193000 +0100" stop="20250325195000 +0100" channel="ZCL• NICKELODEON (HD)">
     <title lang="es">The Loud House: una verdadera familia ruidosa</title>
-    <sub-title lang="es">El blues de los Loud</sub-title>
-    <desc lang="es">Luna intenta devolver una guitarra, que encontró a su legítimo propietario, aunque Lincoln después se arrepiente de haberle prestado Bun Bun a Lily e intenta la menera de recuperarlo.</desc>
+    <sub-title lang="es">El novio se queda en la película</sub-title>
+    <desc lang="es">Lincoln McCloud vuelve al cine junto a Bobby, el novio de Lori como estrella. Aunque luego, Bobby y Lori cortan su relación, pero lo peor es que les falta grabar una escena más.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.12.</episode-num>
   </programme>
@@ -2927,8 +2931,8 @@
   </programme>
   <programme start="20250324064500 +0100" stop="20250324065700 +0100" channel="ZCL• CARTOON NETWORK (HD)">
     <title lang="es">Clarence</title>
-    <sub-title lang="es">Una mente sumo-villosa</sub-title>
-    <desc lang="es">Cuando Jeff se da cuenta de que Sumo está incorporando lo que aprende en sus nuevas clases, ¡intenta promover aún más a este nuevo Sumo intelectual! ¿Pero podrán las travesuras incultas de Clarence revertir el trabajo duro de Jeff?</desc>
+    <sub-title lang="es">La compostera</sub-title>
+    <desc lang="es">Cuando su mamá se compra una compostera llena de lombrices, Jeff se enfrenta a la asquerosa realidad de tener un montón de insectos que viven en su cocina y Clarence se obsesiona con la alimentación de las lombrices.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_clarence-s03e28-la-compostera_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.27.</episode-num>
   </programme>
@@ -4411,8 +4415,8 @@
   </programme>
   <programme start="20250324052700 +0100" stop="20250324053100 +0100" channel="ZCL• CARTOONITO (HD)">
     <title lang="es">Blippi quiere saber</title>
-    <sub-title lang="es">Planetas</sub-title>
-    <desc lang="es">¡El BlippiMobile se convierte en una nave espacial en esta misión para descubrir qué planetas hay en el sistema solar!</desc>
+    <sub-title lang="es">Copo de nieve</sub-title>
+    <desc lang="es">Blippi vuela al cielo invernal para ver un copo de nieve crera su diseño único.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
@@ -4488,8 +4492,8 @@
   </programme>
   <programme start="20250324063400 +0100" stop="20250324064700 +0100" channel="ZCL• CARTOONITO (HD)">
     <title lang="es">Meekah</title>
-    <sub-title lang="es">Meekah conoce a Stanley, el dinosaurio</sub-title>
-    <desc lang="es">Meekah y su prehistórico compañero, Stanley el raptor, se dirigen al Parque de Diversiones Triple Play para correr a gran velocidad... ¡así es, es hora de ir a los Go Karts!</desc>
+    <sub-title lang="es">Meekah Skyzone - Rebotes</sub-title>
+    <desc lang="es">Meekah se dirige al SkyZone para responder una pregunta... ¿cómo funcionan los rebotes?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
@@ -6459,8 +6463,8 @@
   </programme>
   <programme start="20250326024000 +0100" stop="20250326025000 +0100" channel="ZCL• CARTOONITO (HD)">
     <title lang="es">Batiautos</title>
-    <sub-title lang="es">El caballero oscuro</sub-title>
-    <desc lang="es">Bam, Redbird, Bibi, Batwing y Buff se ven envueltos en travesuras y acción, mientras aprenden lecciones importantes. Para sorpresa de todos, Bam secretamente le tiene miedo a la oscuridad pero debe enfrentar su miedo.</desc>
+    <sub-title lang="es">El apodo de Buff</sub-title>
+    <desc lang="es">Después de derribar al Acertijo de un impresionante empujón con la rueda, los Batiautos le dan a Buff el apodo de "Buff el Duro". Pero a Buff le molesta que lo llamen así.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.32.</episode-num>
   </programme>
@@ -8073,8 +8077,8 @@
   </programme>
   <programme start="20250324052700 +0100" stop="20250324053100 +0100" channel="ZCL• TOONCAST (HD)">
     <title lang="es">Blippi quiere saber</title>
-    <sub-title lang="es">Planetas</sub-title>
-    <desc lang="es">¡El BlippiMobile se convierte en una nave espacial en esta misión para descubrir qué planetas hay en el sistema solar!</desc>
+    <sub-title lang="es">Copo de nieve</sub-title>
+    <desc lang="es">Blippi vuela al cielo invernal para ver un copo de nieve crera su diseño único.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
@@ -8150,8 +8154,8 @@
   </programme>
   <programme start="20250324063400 +0100" stop="20250324064700 +0100" channel="ZCL• TOONCAST (HD)">
     <title lang="es">Meekah</title>
-    <sub-title lang="es">Meekah conoce a Stanley, el dinosaurio</sub-title>
-    <desc lang="es">Meekah y su prehistórico compañero, Stanley el raptor, se dirigen al Parque de Diversiones Triple Play para correr a gran velocidad... ¡así es, es hora de ir a los Go Karts!</desc>
+    <sub-title lang="es">Meekah Skyzone - Rebotes</sub-title>
+    <desc lang="es">Meekah se dirige al SkyZone para responder una pregunta... ¿cómo funcionan los rebotes?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
@@ -10121,8 +10125,8 @@
   </programme>
   <programme start="20250326024000 +0100" stop="20250326025000 +0100" channel="ZCL• TOONCAST (HD)">
     <title lang="es">Batiautos</title>
-    <sub-title lang="es">El caballero oscuro</sub-title>
-    <desc lang="es">Bam, Redbird, Bibi, Batwing y Buff se ven envueltos en travesuras y acción, mientras aprenden lecciones importantes. Para sorpresa de todos, Bam secretamente le tiene miedo a la oscuridad pero debe enfrentar su miedo.</desc>
+    <sub-title lang="es">El apodo de Buff</sub-title>
+    <desc lang="es">Después de derribar al Acertijo de un impresionante empujón con la rueda, los Batiautos le dan a Buff el apodo de "Buff el Duro". Pero a Buff le molesta que lo llamen así.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.32.</episode-num>
   </programme>
@@ -10700,7 +10704,7 @@
   </programme>
   <programme start="20250324194000 +0100" stop="20250324203000 +0100" channel="ZCL• MEGA (HD)">
     <title lang="es">El jardín de Olivia</title>
-    <desc lang="es">Diana se infiltra como terapeuta ocupacional en una poderosa familia santiaguina para investigar la muerte de su madre. Al trabajar con Olivia, descubre oscuros secretos que amenazan con destruir la imagen perfecta de la familia Walker.</desc>
+    <desc lang="es">Diana tuvo un difícil día intentando esconderse de Karina en casa de Clemente. Ignacia se sorprendió al verla agitada y Clemente también notó su nerviosismo. Sin embargo, tuvo suerte y no fue vista por su prima.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">.4.</episode-num>
   </programme>
@@ -13698,7 +13702,7 @@
   </programme>
   <programme start="20250324111600 +0100" stop="20250324113000 +0100" channel="ZCL• FRANCE 24 (HD)">
     <title lang="es">Talking Europe</title>
-    <desc lang="es">Desde Bruselas, dos diputados se enfrentan cara a cara acompañados por Catherine Nicholson, que es la encargada de llevar adelante el debate. Además, se presentan entrevistas con importantes líderes europeos.</desc>
+    <desc lang="es">Políticos, activistas e investigadores debaten sobre los problemas que enfrenta la Unión Europea. Cada episodio presenta un "invitado de la semana", que ofrece perspectivas únicas a través de una entrevista en profundidad.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_talking-europe_l_l.jpg"/>
   </programme>
@@ -14391,7 +14395,7 @@
   </programme>
   <programme start="20250325111600 +0100" stop="20250325113000 +0100" channel="ZCL• FRANCE 24 (HD)">
     <title lang="es">Talking Europe</title>
-    <desc lang="es">Desde Bruselas, dos diputados se enfrentan cara a cara acompañados por Catherine Nicholson, que es la encargada de llevar adelante el debate. Además, se presentan entrevistas con importantes líderes europeos.</desc>
+    <desc lang="es">Políticos, activistas e investigadores debaten sobre los problemas que enfrenta la Unión Europea. Cada episodio presenta un "invitado de la semana", que ofrece perspectivas únicas a través de una entrevista en profundidad.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_talking-europe_l_l.jpg"/>
   </programme>
@@ -14537,7 +14541,7 @@
   </programme>
   <programme start="20250325154200 +0100" stop="20250325155400 +0100" channel="ZCL• FRANCE 24 (HD)">
     <title lang="es">Talking Europe</title>
-    <desc lang="es">Desde Bruselas, dos diputados se enfrentan cara a cara acompañados por Catherine Nicholson, que es la encargada de llevar adelante el debate. Además, se presentan entrevistas con importantes líderes europeos.</desc>
+    <desc lang="es">Políticos, activistas e investigadores debaten sobre los problemas que enfrenta la Unión Europea. Cada episodio presenta un "invitado de la semana", que ofrece perspectivas únicas a través de una entrevista en profundidad.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_talking-europe_l_l.jpg"/>
   </programme>
@@ -23297,8 +23301,8 @@
     <sub-title lang="es">Grandes ambiciones</sub-title>
   </programme>
   <programme start="20250324125000 -0300" stop="20250324134200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
-    <title lang="es">Las renovadoras</title>
-    <sub-title lang="es">La nueva sede de Two Chicks</sub-title>
+    <title lang="es">Christina en la playa</title>
+    <sub-title lang="es">¡No hay paredes, no hay problema!</sub-title>
   </programme>
   <programme start="20250324134200 -0300" stop="20250324143400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
     <title lang="es">Un chef de otro nivel</title>
@@ -23343,6 +23347,110 @@
   <programme start="20250324223000 -0300" stop="20250324234400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
     <title lang="es">Cirugías al borde de la vida</title>
     <sub-title lang="es">Cirugías sala de traumatología</sub-title>
+  </programme>
+  <programme start="20250324234400 -0300" stop="20250325005800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Cirugías al borde de la vida</title>
+    <sub-title lang="es">Calidad de Vida</sub-title>
+  </programme>
+  <programme start="20250325005800 -0300" stop="20250325015000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+    <sub-title lang="es">Puro músculo / El anillo / El tiroteo</sub-title>
+  </programme>
+  <programme start="20250325015000 -0300" stop="20250325024000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Pies de caimán</sub-title>
+  </programme>
+  <programme start="20250325024000 -0300" stop="20250325032800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Las renovadoras</title>
+    <sub-title lang="es">La nueva sede de Two Chicks</sub-title>
+  </programme>
+  <programme start="20250325032800 -0300" stop="20250325041600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Vívala o véndala Vancouver</title>
+    <sub-title lang="es">Kim y Tei</sub-title>
+  </programme>
+  <programme start="20250325041600 -0300" stop="20250325050500 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">La casa del mal</title>
+    <sub-title lang="es">Ansiedad por matar</sub-title>
+  </programme>
+  <programme start="20250325050500 -0300" stop="20250325060000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Sandra Lee especialista en piel</title>
+    <sub-title lang="es">Meterle velocidad</sub-title>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325062400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Rescatando propiedades Atlanta</title>
+    <sub-title lang="es">De chatarra a aclamada</sub-title>
+  </programme>
+  <programme start="20250325062400 -0300" stop="20250325071200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">La casa del mal</title>
+    <sub-title lang="es">Nuestra pequeña hermana, el monstruo</sub-title>
+  </programme>
+  <programme start="20250325071200 -0300" stop="20250325073600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Shelly</sub-title>
+  </programme>
+  <programme start="20250325073600 -0300" stop="20250325080000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Los Obrien</sub-title>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325082400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Melody y Marlin</sub-title>
+  </programme>
+  <programme start="20250325082400 -0300" stop="20250325084800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Stephanie y Larry</sub-title>
+  </programme>
+  <programme start="20250325084800 -0300" stop="20250325102800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Todo en 90 días</title>
+    <sub-title lang="es">Para amar y atesorar</sub-title>
+  </programme>
+  <programme start="20250325102800 -0300" stop="20250325111800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Como en casa</title>
+    <sub-title lang="es">De Texas al rancho de caballos</sub-title>
+  </programme>
+  <programme start="20250325111800 -0300" stop="20250325120800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Como en casa</title>
+    <sub-title lang="es">Renovación de una acogedora casa del lago</sub-title>
+  </programme>
+  <programme start="20250325120800 -0300" stop="20250325125800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+    <sub-title lang="es">Puro músculo / El anillo / El tiroteo</sub-title>
+  </programme>
+  <programme start="20250325125800 -0300" stop="20250325135000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+    <sub-title lang="es">El zombi / ¿Quién es la víctima? / Ataques misteriosos</sub-title>
+  </programme>
+  <programme start="20250325135000 -0300" stop="20250325144200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Mi vida con 300 kilos Italia</title>
+    <sub-title lang="es">Antonio</sub-title>
+  </programme>
+  <programme start="20250325144200 -0300" stop="20250325162600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">La historia de Julian</sub-title>
+  </programme>
+  <programme start="20250325162600 -0300" stop="20250325181000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">My 600-Lb Life Where Are They Now?</title>
+    <sub-title lang="es">Julian y Cindy</sub-title>
+  </programme>
+  <programme start="20250325181000 -0300" stop="20250325190200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Hermanos a la obra Un hogar para siempre</title>
+    <sub-title lang="es">Todos crecidos</sub-title>
+  </programme>
+  <programme start="20250325190200 -0300" stop="20250325195400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Como en casa</title>
+    <sub-title lang="es">Cabaña histórica tiene una renovación moderna</sub-title>
+  </programme>
+  <programme start="20250325195400 -0300" stop="20250325204600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Sandra Lee especialista en piel</title>
+    <sub-title lang="es">Adormecido</sub-title>
+  </programme>
+  <programme start="20250325204600 -0300" stop="20250325213800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">MasterChef Generaciones</title>
+    <sub-title lang="es">La tormenta se está gestando</sub-title>
+  </programme>
+  <programme start="20250325213800 -0300" stop="20250325223000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">MasterChef Generaciones</title>
+    <sub-title lang="es">Siento el fuego - Caja misteriosa</sub-title>
   </programme>
   <programme start="20250324040000 +0100" stop="20250324043000 +0100" channel="ZCL• MAS CHIC (HD)">
     <title lang="es">Minipisos asombrosos</title>
@@ -24712,6 +24820,78 @@
     <desc lang="es">Vive los partidos del torneo que determinará las selecciones nacionales que asistirán por parte de la CONMEBOL al torneo Mundial que se celebrará en Canadá, Estados Unidos y México.</desc>
     <category lang="es">Fecha 14</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324040000 +0100" stop="20250324060000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Manchester City vs. Chelsea</title>
+    <desc lang="es">La Superliga Femenina es la máxima liga de fútbol femenino de Inglaterra. Establecido en 2010, está dirigido por la Asociación de Fútbol y cuenta con doce equipos completamente profesionales.</desc>
+    <category lang="es">FA WSL Women's Soccer</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324060000 +0100" stop="20250324070000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">ESPN Compact - Miami Open</title>
+    <desc lang="es">Vive el segundo Masters 1000 del año, uno de los torneos más prestigiosos de la temporada que se celebra todos los años con sede en Estados Unidos, y que reúne a destacadas figuras del deporte en una competencia llena de emoción.</desc>
+    <category lang="es">ESPN Compact - Miami Open</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324070000 +0100" stop="20250324080000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">ESPN Compact - Miami Open</title>
+    <desc lang="es">Vive el segundo Masters 1000 del año, uno de los torneos más prestigiosos de la temporada que se celebra todos los años con sede en Estados Unidos, y que reúne a destacadas figuras del deporte en una competencia llena de emoción.</desc>
+    <category lang="es">ESPN Compact - Miami Open</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324080000 +0100" stop="20250324100000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Irlanda vs. Francia</title>
+    <desc lang="es">El tradicional Six Nations integrado por Francia, Irlanda, Escocia, Inglaterra, Gales e Italia consagra al mejor seleccionado de rugby del Hemisferio Norte.</desc>
+    <category lang="es">Ronda 1</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_rugby-irlanda-vs-francia-ronda-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324100000 +0100" stop="20250324120000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Clermont vs. Racing 92</title>
+    <desc lang="es">El Top 14 es un campeonato masculino de equipos de rugby de Francia que se disputa desde 1892. Se dice que es la mejor liga del mundo a nivel de clubes, y atrae a los más importantes jugadores del planeta.</desc>
+    <category lang="es">Ronda 19, Stade Jean-Bouin, Paris, France</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324120000 +0100" stop="20250324140000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Bristol Bears vs. Exeter Chiefs</title>
+    <desc lang="es">La Premiership Inglesa, conocida como Aviva Premiership, es la máxima competición oficial de rugby unión de Inglaterra y cuenta con doce equipos. Los participantes se clasifican para la Heineken Cup y la European Challenge Cup.</desc>
+    <category lang="es">Ronda 12</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324140000 +0100" stop="20250324150000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">UEFA Nations League Match Night Highlights</title>
+    <desc lang="es">Todos los mejores momentos, los mejores tiros, grandes goles y un completo resumen de la UEFA Nations League.</desc>
+    <category lang="es">UEFA Nations League Match Night Highlights</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324150000 +0100" stop="20250324160000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Alemania vs. Italia</title>
+    <desc lang="es">Vive los partidos de la la cuarta edición de la Liga de Naciones de la UEFA. La competición será parte de la clasificación de la UEFA para la Copa Mundial de Fútbol de 2026.</desc>
+    <category lang="es">Cuartos de final - Vuelta</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324160000 +0100" stop="20250325000000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Tercera ronda, Hard Rock Stadium, Miami, FL, USA</title>
+    <desc lang="es">Torneo masculino de tenis que se juega todos los años en Miami Gardens. Esta competencia es una de las más prestigiosas de la temporada, y reúne a los deportistas más destacados así como a sus fanáticos en un encuentro muy esperado.</desc>
+    <category lang="es">Miami Open</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250325000000 +0100" stop="20250325020000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Dogos XV vs. Tarucas</title>
+    <desc lang="es">Un torneo con un modelo similar al rugby de primer nivel, con seis equipos pertenecientes al continente americano: Argentina, Brasil, Chile, Colombia, Paraguay y Uruguay. El equipo ganador compite por el título Interamericano en México.</desc>
+    <category lang="es">Ronda 6, Córdoba Athletic, Cordoba, Argentina</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250325020000 +0100" stop="20250326020000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Boston Red Sox vs. Sultanes de Monterrey</title>
+    <desc lang="es">El entrenamiento de primavera es una serie de prácticas y juegos de exhibición que preceden al inicio de la temporada regular.</desc>
+    <category lang="es">Exhibición, Estadio Mobil Super, Monterrey, Mexico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_beisbol-boston-red-sox-vs-sultanes-de-monterrey-exhibicion-estadio-mobil-super-monterrey-mexico_l_l.jpg"/>
+  </programme>
+  <programme start="20250326020000 +0100" stop="20250326050000 +0100" channel="ZCL• ESPN 3 (HD)">
+    <title lang="es">Boston Red Sox vs. Sultanes de Monterrey</title>
+    <desc lang="es">El entrenamiento de primavera es una serie de prácticas y juegos de exhibición que preceden al inicio de la temporada regular.</desc>
+    <category lang="es">Exhibición, Estadio Mobil Super, Monterrey, Mexico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/pe_beisbol-boston-red-sox-vs-sultanes-de-monterrey-exhibicion-estadio-mobil-super-monterrey-mexico_l_l.jpg"/>
   </programme>
   <programme start="20250324180000 +0100" stop="20250325050000 +0100" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
@@ -26427,309 +26607,309 @@
     <title lang="es">Exhumed Killer Revealed</title>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20250323212500 -0300" stop="20250323214500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250323211500 -0300" stop="20250323213500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250323214500 -0300" stop="20250323221000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250323213500 -0300" stop="20250323220000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20250323221000 -0300" stop="20250323223000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250323220000 -0300" stop="20250323222000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
-  <programme start="20250323223000 -0300" stop="20250323231500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250323222000 -0300" stop="20250323230500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S8 E14</episode-num>
   </programme>
-  <programme start="20250323231500 -0300" stop="20250324000000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250323230500 -0300" stop="20250323235000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S8 E15</episode-num>
   </programme>
-  <programme start="20250324000000 -0300" stop="20250324004500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250323235000 -0300" stop="20250324003500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S8 E16</episode-num>
   </programme>
-  <programme start="20250324004500 -0300" stop="20250324013000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324003500 -0300" stop="20250324012000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E1</episode-num>
   </programme>
-  <programme start="20250324013000 -0300" stop="20250324021500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324012000 -0300" stop="20250324020500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E2</episode-num>
   </programme>
-  <programme start="20250324021500 -0300" stop="20250324030000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324020500 -0300" stop="20250324025000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E3</episode-num>
   </programme>
-  <programme start="20250324030000 -0300" stop="20250324034500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324025000 -0300" stop="20250324033500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E4</episode-num>
   </programme>
-  <programme start="20250324034500 -0300" stop="20250324043000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324033500 -0300" stop="20250324042000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E5</episode-num>
   </programme>
-  <programme start="20250324043000 -0300" stop="20250324045500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324042000 -0300" stop="20250324044500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250324045500 -0300" stop="20250324051500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324044500 -0300" stop="20250324050500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250324051500 -0300" stop="20250324054000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324050500 -0300" stop="20250324053000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20250324054000 -0300" stop="20250324060000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324053000 -0300" stop="20250324055000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
-  <programme start="20250324060000 -0300" stop="20250324064500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324055000 -0300" stop="20250324063500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Voice</title>
     <desc lang="es">Temporada 24 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
     <episode-num system="onscreen">S24 E6</episode-num>
   </programme>
-  <programme start="20250324064500 -0300" stop="20250324071000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324063500 -0300" stop="20250324070000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20250324071000 -0300" stop="20250324073500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324070000 -0300" stop="20250324072500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20250324073500 -0300" stop="20250324080000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324072500 -0300" stop="20250324075000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
-  <programme start="20250324080000 -0300" stop="20250324082500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324075000 -0300" stop="20250324081500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E8</episode-num>
   </programme>
-  <programme start="20250324082500 -0300" stop="20250324085000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324081500 -0300" stop="20250324084000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250324085000 -0300" stop="20250324091500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324084000 -0300" stop="20250324090500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250324091500 -0300" stop="20250324100000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324090500 -0300" stop="20250324095000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E3</episode-num>
   </programme>
-  <programme start="20250324100000 -0300" stop="20250324104500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324095000 -0300" stop="20250324103500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E4</episode-num>
   </programme>
-  <programme start="20250324104500 -0300" stop="20250324113000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324103500 -0300" stop="20250324112000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E5</episode-num>
   </programme>
-  <programme start="20250324113000 -0300" stop="20250324123000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324112000 -0300" stop="20250324122000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E1</episode-num>
   </programme>
-  <programme start="20250324123000 -0300" stop="20250324132500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324122000 -0300" stop="20250324131500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E2</episode-num>
   </programme>
-  <programme start="20250324132500 -0300" stop="20250324141000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324131500 -0300" stop="20250324140000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E3</episode-num>
   </programme>
-  <programme start="20250324141000 -0300" stop="20250324145500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324140000 -0300" stop="20250324144500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E4</episode-num>
   </programme>
-  <programme start="20250324145500 -0300" stop="20250324155000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324144500 -0300" stop="20250324154000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20250324155000 -0300" stop="20250324165000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324154000 -0300" stop="20250324164000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20250324165000 -0300" stop="20250324171500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324164000 -0300" stop="20250324170500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20250324171500 -0300" stop="20250324173500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324170500 -0300" stop="20250324172500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
-  <programme start="20250324173500 -0300" stop="20250324180000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324172500 -0300" stop="20250324175000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20250324180000 -0300" stop="20250324182000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324175000 -0300" stop="20250324181000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E16</episode-num>
   </programme>
-  <programme start="20250324182000 -0300" stop="20250324184500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324181000 -0300" stop="20250324183500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20250324184500 -0300" stop="20250324193000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324183500 -0300" stop="20250324192000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E6</episode-num>
   </programme>
-  <programme start="20250324193000 -0300" stop="20250324201500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324192000 -0300" stop="20250324200500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E7</episode-num>
   </programme>
-  <programme start="20250324201500 -0300" stop="20250324210000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324200500 -0300" stop="20250324205000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E8</episode-num>
   </programme>
-  <programme start="20250324210000 -0300" stop="20250324214500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324205000 -0300" stop="20250324213500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E9</episode-num>
   </programme>
-  <programme start="20250324214500 -0300" stop="20250324231500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324213500 -0300" stop="20250324230500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Real Housewives of Salt L</title>
     <episode-num system="onscreen">E19</episode-num>
   </programme>
-  <programme start="20250324231500 -0300" stop="20250325000000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324230500 -0300" stop="20250324235000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E3</episode-num>
   </programme>
-  <programme start="20250325000000 -0300" stop="20250325004500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250324235000 -0300" stop="20250325003500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E4</episode-num>
   </programme>
-  <programme start="20250325004500 -0300" stop="20250325022500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325003500 -0300" stop="20250325021500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Real Housewives of Salt L</title>
     <episode-num system="onscreen">E19</episode-num>
   </programme>
-  <programme start="20250325022500 -0300" stop="20250325031000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325021500 -0300" stop="20250325030000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Voice</title>
     <desc lang="es">Temporada 24 | Episodio 6</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
     <episode-num system="onscreen">S24 E6</episode-num>
   </programme>
-  <programme start="20250325031000 -0300" stop="20250325033500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325030000 -0300" stop="20250325032500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E11</episode-num>
   </programme>
-  <programme start="20250325033500 -0300" stop="20250325040000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325032500 -0300" stop="20250325035000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S6 E12</episode-num>
   </programme>
-  <programme start="20250325040000 -0300" stop="20250325042500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325035000 -0300" stop="20250325041500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20250325042500 -0300" stop="20250325045000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325041500 -0300" stop="20250325044000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
-  <programme start="20250325045000 -0300" stop="20250325051500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325044000 -0300" stop="20250325050500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20250325051500 -0300" stop="20250325053500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325050500 -0300" stop="20250325052500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E16</episode-num>
   </programme>
-  <programme start="20250325053500 -0300" stop="20250325060000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325052500 -0300" stop="20250325055000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20250325060000 -0300" stop="20250325073000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325055000 -0300" stop="20250325072000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Voice</title>
     <desc lang="es">Temporada 24 | Episodio 7</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
     <episode-num system="onscreen">S24 E7</episode-num>
   </programme>
-  <programme start="20250325073000 -0300" stop="20250325075500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325072000 -0300" stop="20250325074500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E13</episode-num>
   </programme>
-  <programme start="20250325075500 -0300" stop="20250325082000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325074500 -0300" stop="20250325081000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E14</episode-num>
   </programme>
-  <programme start="20250325082000 -0300" stop="20250325084500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325081000 -0300" stop="20250325083500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20250325084500 -0300" stop="20250325091000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325083500 -0300" stop="20250325090000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E16</episode-num>
   </programme>
-  <programme start="20250325091000 -0300" stop="20250325093500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325090000 -0300" stop="20250325092500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20250325093500 -0300" stop="20250325102000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325092500 -0300" stop="20250325101000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E6</episode-num>
   </programme>
-  <programme start="20250325102000 -0300" stop="20250325110500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325101000 -0300" stop="20250325105500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E7</episode-num>
   </programme>
-  <programme start="20250325110500 -0300" stop="20250325115000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325105500 -0300" stop="20250325114000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E8</episode-num>
   </programme>
-  <programme start="20250325115000 -0300" stop="20250325123500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325114000 -0300" stop="20250325122500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E3</episode-num>
   </programme>
-  <programme start="20250325123500 -0300" stop="20250325132000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325122500 -0300" stop="20250325131000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E4</episode-num>
   </programme>
-  <programme start="20250325132000 -0300" stop="20250325140500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325131000 -0300" stop="20250325135500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E5</episode-num>
   </programme>
-  <programme start="20250325140500 -0300" stop="20250325145000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325135500 -0300" stop="20250325144000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Top chef</title>
     <episode-num system="onscreen">S16 E6</episode-num>
   </programme>
-  <programme start="20250325145000 -0300" stop="20250325155000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325144000 -0300" stop="20250325154000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20250325155000 -0300" stop="20250325164000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325154000 -0300" stop="20250325163000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">The Real Housewives Ultimate</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20250325164000 -0300" stop="20250325170500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325163000 -0300" stop="20250325165500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E19</episode-num>
   </programme>
-  <programme start="20250325170500 -0300" stop="20250325172500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325165500 -0300" stop="20250325171500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E20</episode-num>
   </programme>
-  <programme start="20250325172500 -0300" stop="20250325175000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325171500 -0300" stop="20250325174000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E21</episode-num>
   </programme>
-  <programme start="20250325175000 -0300" stop="20250325181000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325174000 -0300" stop="20250325180000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E22</episode-num>
   </programme>
-  <programme start="20250325181000 -0300" stop="20250325183500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325180000 -0300" stop="20250325182500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">La Familia Chrisley</title>
     <episode-num system="onscreen">S7 E23</episode-num>
   </programme>
-  <programme start="20250325183500 -0300" stop="20250325193000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325182500 -0300" stop="20250325192000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E10</episode-num>
   </programme>
-  <programme start="20250325193000 -0300" stop="20250325201500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325192000 -0300" stop="20250325200500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E11</episode-num>
   </programme>
-  <programme start="20250325201500 -0300" stop="20250325210000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+  <programme start="20250325200500 -0300" stop="20250325205000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E12</episode-num>
   </programme>
