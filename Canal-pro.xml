@@ -244,6 +244,10 @@
     <display-name lang="es">ZCL• EL GOURMET (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png"/>
   </channel>
+  <channel id="ZCL• ESPN (HD)">
+    <display-name lang="es">ZCL• ESPN (HD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png"/>
+  </channel>
   <channel id="ZCL• HTV (HD)">
     <display-name lang="es">ZCL• HTV (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_htv_m.png"/>
@@ -279,6 +283,22 @@
   <channel id="ZCL• UNIVERSAL PREMIERE (HD)">
     <display-name lang="es">ZCL• UNIVERSAL PREMIERE (HD)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere.png"/>
+  </channel>
+  <channel id="ZCL• UNIVERSAL CINEMA (HD)">
+    <display-name lang="es">ZCL• UNIVERSAL CINEMA (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema.png"/>
+  </channel>
+  <channel id="ZCL• UNIVERSAL COMEDY (HD)">
+    <display-name lang="es">ZCL• UNIVERSAL COMEDY (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy.png"/>
+  </channel>
+  <channel id="ZCL• UNIVERSAL CRIME (HD)">
+    <display-name lang="es">ZCL• UNIVERSAL CRIME (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime.png"/>
+  </channel>
+  <channel id="ZCL• UNIVERSAL REALITY (HD)">
+    <display-name lang="es">ZCL• UNIVERSAL REALITY (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality.png"/>
   </channel>
   <programme start="20250324035500 +0100" stop="20250324042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
@@ -24486,6 +24506,213 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
+  <programme start="20250324040000 +0100" stop="20250324050000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324050000 +0100" stop="20250324060000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324060000 +0100" stop="20250324070000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324070000 +0100" stop="20250324080000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324080000 +0100" stop="20250324090000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324090000 +0100" stop="20250324100000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324100000 +0100" stop="20250324110000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324110000 +0100" stop="20250324140000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324140000 +0100" stop="20250324150000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324150000 +0100" stop="20250324160000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324160000 +0100" stop="20250324183000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324183000 +0100" stop="20250324203000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324203000 +0100" stop="20250324224000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">Inglaterra vs. Letonia</title>
+    <sub-title lang="es">Grupo K</sub-title>
+    <desc lang="es">Vive los partidos de la clasificación de UEFA para la Copa Mundial de Fútbol de 2026. Será el torneo que determinará a los clasificados a la Copa Mundial de Fútbol de 2026.</desc>
+    <category lang="es">Fecha 2 - Grupo K</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250324224000 +0100" stop="20250325000000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos.</desc>
+    <category lang="es">ESPN F360</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f360_l_l.jpg"/>
+  </programme>
+  <programme start="20250325000000 +0100" stop="20250325010000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325010000 +0100" stop="20250325023000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">El análisis más profundo y caliente. Un espacio abierto para el debate y la opinión, que acompaña las noches de los amantes del fútbol nacional en las pantallas de ESPN, con reconocidos y respetados comentaristas colombianos.</desc>
+    <category lang="es">ESPN F90</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f90_l_l.jpg"/>
+  </programme>
+  <programme start="20250325023000 +0100" stop="20250325040000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">El fútbol nacional e internacional es el actor principal de Fútbol Show, pero también hay un espacio muy importante para la actualidad de los otros deportes, con énfasis en los deportistas chilenos que se destacan internacionalmente.</desc>
+    <category lang="es">ESPN F Show</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-espn-f-show_l_l.jpg"/>
+  </programme>
+  <programme start="20250325040000 +0100" stop="20250325050000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325050000 +0100" stop="20250325060000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325060000 +0100" stop="20250325070000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325070000 +0100" stop="20250325080000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325080000 +0100" stop="20250325090000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325090000 +0100" stop="20250325100000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325100000 +0100" stop="20250325110000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325110000 +0100" stop="20250325140000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325140000 +0100" stop="20250325150000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325150000 +0100" stop="20250325160000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325160000 +0100" stop="20250325174500 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325174500 +0100" stop="20250325195500 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">Moldavia vs. Estonia</title>
+    <sub-title lang="es">Grupo I</sub-title>
+    <desc lang="es">Vive los partidos de la clasificación de UEFA para la Copa Mundial de Fútbol de 2026. Será el torneo que determinará a los clasificados a la Copa Mundial de Fútbol de 2026.</desc>
+    <category lang="es">Fecha 2 - Grupo I</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250325195500 +0100" stop="20250325203000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250325203000 +0100" stop="20250325224000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">Israel vs. Noruega</title>
+    <sub-title lang="es">Grupo I</sub-title>
+    <desc lang="es">Vive los partidos de la clasificación de UEFA para la Copa Mundial de Fútbol de 2026. Será el torneo que determinará a los clasificados a la Copa Mundial de Fútbol de 2026.</desc>
+    <category lang="es">Fecha 2 - Grupo I</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250325224000 +0100" stop="20250326000000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">La Champions League, las grandes ligas europeas, la Copa Libertadores y las estrellas del fútbol mundial brillan en ESPN Fútbol 360. Una vuelta por el planeta fútbol con el análisis a fondo y el debate de nuestro panel de expertos.</desc>
+    <category lang="es">ESPN F360</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-espn-f360_l_l.jpg"/>
+  </programme>
+  <programme start="20250326000000 +0100" stop="20250326005000 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+    <category lang="es">SportsCenter</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250326005000 +0100" stop="20250326025500 +0100" channel="ZCL• ESPN (HD)">
+    <title lang="es">Chile vs. Ecuador</title>
+    <desc lang="es">Vive los partidos del torneo que determinará las selecciones nacionales que asistirán por parte de la CONMEBOL al torneo Mundial que se celebrará en Canadá, Estados Unidos y México.</desc>
+    <category lang="es">Fecha 14</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
   <programme start="20250324180000 +0100" stop="20250325050000 +0100" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
     <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
@@ -25673,5 +25900,837 @@
   <programme start="20250326030000 -0300" stop="20250326035000 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
     <title lang="es">The Ex-Wife</title>
     <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250323220000 -0300" stop="20250323234000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Kubo y la búsqueda samurai</title>
+  </programme>
+  <programme start="20250323234000 -0300" stop="20250324012000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">El Rey Escorpión 5</title>
+  </programme>
+  <programme start="20250324012000 -0300" stop="20250324030500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">El escándalo</title>
+  </programme>
+  <programme start="20250324030500 -0300" stop="20250324053500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Transformers 5</title>
+    <desc lang="es">Humanos y Transformers están en guerra, Optimus Prime se ha ido. La clave para salvar nuestro futuro se encuentra en un artefacto enterrado en la tierra.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/transformers_el_ultimo_caballero.jpg"/>
+  </programme>
+  <programme start="20250324053500 -0300" stop="20250324060000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Hollywood on Set</title>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324063000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Hollywood on Set</title>
+  </programme>
+  <programme start="20250324063000 -0300" stop="20250324070000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Hollywood on Set</title>
+  </programme>
+  <programme start="20250324070000 -0300" stop="20250324084500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">La casa con un reloj en sus</title>
+  </programme>
+  <programme start="20250324084500 -0300" stop="20250324103500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Los amigos del barrio</title>
+  </programme>
+  <programme start="20250324103500 -0300" stop="20250324121500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Cuenta final</title>
+  </programme>
+  <programme start="20250324121500 -0300" stop="20250324140000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Las madres de la revolución</title>
+  </programme>
+  <programme start="20250324140000 -0300" stop="20250324154000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Vidas separadas</title>
+  </programme>
+  <programme start="20250324154000 -0300" stop="20250324175500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Golpes del destino</title>
+  </programme>
+  <programme start="20250324175500 -0300" stop="20250324193500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Swordfish Acceso autorizado</title>
+  </programme>
+  <programme start="20250324193500 -0300" stop="20250324220000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Sueño de fuga</title>
+  </programme>
+  <programme start="20250325193500 -0300" stop="20250325220000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Sueño de fuga</title>
+  </programme>
+  <programme start="20250325220000 -0300" stop="20250326000000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Inhala</title>
+  </programme>
+  <programme start="20250326000000 -0300" stop="20250326022500 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">Buenos muchachos</title>
+  </programme>
+  <programme start="20250326022500 -0300" stop="20250326035000 -0300" channel="ZCL• UNIVERSAL CINEMA (HD)">
+    <title lang="es">El hijo del diablo</title>
+  </programme>
+  <programme start="20250324011500 -0300" stop="20250324014000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Superstore</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20250324014000 -0300" stop="20250324020500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Superstore</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20250324020500 -0300" stop="20250324034000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Super Agente Canino</title>
+  </programme>
+  <programme start="20250324034000 -0300" stop="20250324040500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20250324040500 -0300" stop="20250324043000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20250324043000 -0300" stop="20250324045500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20250324045500 -0300" stop="20250324052000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20250324052000 -0300" stop="20250324054500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20250324054500 -0300" stop="20250324061000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20250324061000 -0300" stop="20250324063500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme>
+  <programme start="20250324063500 -0300" stop="20250324070000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20250324070000 -0300" stop="20250324072000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20250324072000 -0300" stop="20250324074500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20250324074500 -0300" stop="20250324081000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20250324081000 -0300" stop="20250324083500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20250324083500 -0300" stop="20250324090000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324092500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20250324092500 -0300" stop="20250324095000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20250324095000 -0300" stop="20250324101500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20250324101500 -0300" stop="20250324104000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20250324104000 -0300" stop="20250324111000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20250324111000 -0300" stop="20250324113500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The office</title>
+    <episode-num system="onscreen">S7 E15</episode-num>
+  </programme>
+  <programme start="20250324113500 -0300" stop="20250324120000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The office</title>
+    <episode-num system="onscreen">S7 E16</episode-num>
+  </programme>
+  <programme start="20250324120000 -0300" stop="20250324122500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The office</title>
+    <episode-num system="onscreen">S7 E17</episode-num>
+  </programme>
+  <programme start="20250324122500 -0300" stop="20250324125000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The office</title>
+    <episode-num system="onscreen">S7 E18</episode-num>
+  </programme>
+  <programme start="20250324125000 -0300" stop="20250324131500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Superstore</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20250324131500 -0300" stop="20250324134000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Superstore</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20250324134000 -0300" stop="20250324140500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20250324140500 -0300" stop="20250324143000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20250324143000 -0300" stop="20250324145500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20250324145500 -0300" stop="20250324152000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20250324152000 -0300" stop="20250324171500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20250324171500 -0300" stop="20250324174500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20250324174500 -0300" stop="20250324181000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20250324181000 -0300" stop="20250324183500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20250324183500 -0300" stop="20250324190000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20250324190000 -0300" stop="20250324192500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20250324192500 -0300" stop="20250324195000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20250324195000 -0300" stop="20250324201500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme start="20250324201500 -0300" stop="20250324204500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20250324204500 -0300" stop="20250324211000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The Good Place</title>
+    <desc lang="es">Temporada 4 | Episodio 6</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20250324211000 -0300" stop="20250324213500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The Good Place</title>
+    <desc lang="es">Temporada 4 | Episodio 7</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20250324213500 -0300" stop="20250324225500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">The Good Place</title>
+    <desc lang="es">Temporada 4 | Episodio 8</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_good_place.jpg"/>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20250324225500 -0300" stop="20250325010000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20250325225500 -0300" stop="20250326010000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Brooklyn nine-nine</title>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20250326010000 -0300" stop="20250326014000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ted</title>
+    <desc lang="es">Temporada 1 | Episodio 4</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/ted.jpg"/>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20250326014000 -0300" stop="20250326025000 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Saturday night live</title>
+    <episode-num system="onscreen">S50 E11</episode-num>
+  </programme>
+  <programme start="20250326025000 -0300" stop="20250326031500 -0300" channel="ZCL• UNIVERSAL COMEDY (HD)">
+    <title lang="es">Ghosts</title>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20250323214500 -0300" stop="20250323223000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20250323223000 -0300" stop="20250323231500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20250323231500 -0300" stop="20250324000000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed</title>
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20250324000000 -0300" stop="20250324004500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250324004500 -0300" stop="20250324013000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250324013000 -0300" stop="20250324021500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20250324021500 -0300" stop="20250324030000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20250324030000 -0300" stop="20250324034500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20250324034500 -0300" stop="20250324041000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E37</episode-num>
+  </programme>
+  <programme start="20250324041000 -0300" stop="20250324043000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E38</episode-num>
+  </programme>
+  <programme start="20250324043000 -0300" stop="20250324051500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Licencia para matar</title>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20250324051500 -0300" stop="20250324060000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Licencia para matar</title>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324064500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Robos Impresionantes</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250324064500 -0300" stop="20250324073000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250324073000 -0300" stop="20250324081500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20250324081500 -0300" stop="20250324090000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324092500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250324092500 -0300" stop="20250324094500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250324094500 -0300" stop="20250324103000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20250324103000 -0300" stop="20250324111500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20250324111500 -0300" stop="20250324120000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Parejas asesinas</title>
+    <episode-num system="onscreen">S17 E1</episode-num>
+  </programme>
+  <programme start="20250324120000 -0300" stop="20250324124500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Parejas asesinas</title>
+    <episode-num system="onscreen">S17 E2</episode-num>
+  </programme>
+  <programme start="20250324124500 -0300" stop="20250324133000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250324133000 -0300" stop="20250324141500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20250324141500 -0300" stop="20250324150000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250324150000 -0300" stop="20250324154500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250324154500 -0300" stop="20250324163000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20250324163000 -0300" stop="20250324171500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20250324171500 -0300" stop="20250324180000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20250324180000 -0300" stop="20250324184500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20250324184500 -0300" stop="20250324193000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Robos Impresionantes</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250324193000 -0300" stop="20250324201500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20250324201500 -0300" stop="20250324210000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250324214500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20250324214500 -0300" stop="20250324223000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20250324223000 -0300" stop="20250324231500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20250324231500 -0300" stop="20250325000000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325004500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250325004500 -0300" stop="20250325013000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">The Real Murders of Atlanta T</title>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20250325013000 -0300" stop="20250325015500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20250325015500 -0300" stop="20250325021500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250325021500 -0300" stop="20250325030000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Parejas asesinas</title>
+    <episode-num system="onscreen">S17 E1</episode-num>
+  </programme>
+  <programme start="20250325030000 -0300" stop="20250325034500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Parejas asesinas</title>
+    <episode-num system="onscreen">S17 E2</episode-num>
+  </programme>
+  <programme start="20250325034500 -0300" stop="20250325043000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Robos Impresionantes</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20250325043000 -0300" stop="20250325051500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20250325051500 -0300" stop="20250325060000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325064500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Robos Impresionantes</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20250325064500 -0300" stop="20250325073000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Sectas mortales</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20250325073000 -0300" stop="20250325081500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20250325081500 -0300" stop="20250325090000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20250325090000 -0300" stop="20250325092500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20250325092500 -0300" stop="20250325094500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">It takes a killer</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20250325094500 -0300" stop="20250325103000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20250325103000 -0300" stop="20250325111500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20250325111500 -0300" stop="20250325120000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Parejas asesinas</title>
+    <episode-num system="onscreen">S17 E3</episode-num>
+  </programme>
+  <programme start="20250325120000 -0300" stop="20250325124500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Parejas asesinas</title>
+    <episode-num system="onscreen">S17 E4</episode-num>
+  </programme>
+  <programme start="20250325124500 -0300" stop="20250325133000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Sectas mortales</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20250325133000 -0300" stop="20250325141500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Sectas mortales</title>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20250325141500 -0300" stop="20250325150000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20250325150000 -0300" stop="20250325154500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20250325154500 -0300" stop="20250325163000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20250325163000 -0300" stop="20250325171500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Un asesino inesperado</title>
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20250325171500 -0300" stop="20250325180000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20250325180000 -0300" stop="20250325184500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Hermanos Asesinos</title>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20250325184500 -0300" stop="20250325193000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Robos Impresionantes</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20250325193000 -0300" stop="20250325201500 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20250325201500 -0300" stop="20250325210000 -0300" channel="ZCL• UNIVERSAL CRIME (HD)">
+    <title lang="es">Exhumed Killer Revealed</title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20250323212500 -0300" stop="20250323214500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20250323214500 -0300" stop="20250323221000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20250323221000 -0300" stop="20250323223000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E12</episode-num>
+  </programme>
+  <programme start="20250323223000 -0300" stop="20250323231500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S8 E14</episode-num>
+  </programme>
+  <programme start="20250323231500 -0300" stop="20250324000000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S8 E15</episode-num>
+  </programme>
+  <programme start="20250324000000 -0300" stop="20250324004500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S8 E16</episode-num>
+  </programme>
+  <programme start="20250324004500 -0300" stop="20250324013000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E1</episode-num>
+  </programme>
+  <programme start="20250324013000 -0300" stop="20250324021500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20250324021500 -0300" stop="20250324030000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20250324030000 -0300" stop="20250324034500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E4</episode-num>
+  </programme>
+  <programme start="20250324034500 -0300" stop="20250324043000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E5</episode-num>
+  </programme>
+  <programme start="20250324043000 -0300" stop="20250324045500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E9</episode-num>
+  </programme>
+  <programme start="20250324045500 -0300" stop="20250324051500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20250324051500 -0300" stop="20250324054000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20250324054000 -0300" stop="20250324060000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E12</episode-num>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324064500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Voice</title>
+    <desc lang="es">Temporada 24 | Episodio 6</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
+    <episode-num system="onscreen">S24 E6</episode-num>
+  </programme>
+  <programme start="20250324064500 -0300" stop="20250324071000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E5</episode-num>
+  </programme>
+  <programme start="20250324071000 -0300" stop="20250324073500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E6</episode-num>
+  </programme>
+  <programme start="20250324073500 -0300" stop="20250324080000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20250324080000 -0300" stop="20250324082500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  <programme start="20250324082500 -0300" stop="20250324085000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E9</episode-num>
+  </programme>
+  <programme start="20250324085000 -0300" stop="20250324091500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20250324091500 -0300" stop="20250324100000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E3</episode-num>
+  </programme>
+  <programme start="20250324100000 -0300" stop="20250324104500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E4</episode-num>
+  </programme>
+  <programme start="20250324104500 -0300" stop="20250324113000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E5</episode-num>
+  </programme>
+  <programme start="20250324113000 -0300" stop="20250324123000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E1</episode-num>
+  </programme>
+  <programme start="20250324123000 -0300" stop="20250324132500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E2</episode-num>
+  </programme>
+  <programme start="20250324132500 -0300" stop="20250324141000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20250324141000 -0300" stop="20250324145500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  <programme start="20250324145500 -0300" stop="20250324155000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Real Housewives Ultimate</title>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme start="20250324155000 -0300" stop="20250324165000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Real Housewives Ultimate</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20250324165000 -0300" stop="20250324171500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20250324171500 -0300" stop="20250324173500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20250324173500 -0300" stop="20250324180000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E15</episode-num>
+  </programme>
+  <programme start="20250324180000 -0300" stop="20250324182000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E16</episode-num>
+  </programme>
+  <programme start="20250324182000 -0300" stop="20250324184500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E17</episode-num>
+  </programme>
+  <programme start="20250324184500 -0300" stop="20250324193000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E6</episode-num>
+  </programme>
+  <programme start="20250324193000 -0300" stop="20250324201500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E7</episode-num>
+  </programme>
+  <programme start="20250324201500 -0300" stop="20250324210000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E8</episode-num>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250324214500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E9</episode-num>
+  </programme>
+  <programme start="20250324214500 -0300" stop="20250324231500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Real Housewives of Salt L</title>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20250324231500 -0300" stop="20250325000000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325004500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  <programme start="20250325004500 -0300" stop="20250325022500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Real Housewives of Salt L</title>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20250325022500 -0300" stop="20250325031000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Voice</title>
+    <desc lang="es">Temporada 24 | Episodio 6</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
+    <episode-num system="onscreen">S24 E6</episode-num>
+  </programme>
+  <programme start="20250325031000 -0300" stop="20250325033500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20250325033500 -0300" stop="20250325040000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S6 E12</episode-num>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325042500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20250325042500 -0300" stop="20250325045000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20250325045000 -0300" stop="20250325051500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E15</episode-num>
+  </programme>
+  <programme start="20250325051500 -0300" stop="20250325053500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E16</episode-num>
+  </programme>
+  <programme start="20250325053500 -0300" stop="20250325060000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E17</episode-num>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325073000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Voice</title>
+    <desc lang="es">Temporada 24 | Episodio 7</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/the_voice.jpg"/>
+    <episode-num system="onscreen">S24 E7</episode-num>
+  </programme>
+  <programme start="20250325073000 -0300" stop="20250325075500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E13</episode-num>
+  </programme>
+  <programme start="20250325075500 -0300" stop="20250325082000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E14</episode-num>
+  </programme>
+  <programme start="20250325082000 -0300" stop="20250325084500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E15</episode-num>
+  </programme>
+  <programme start="20250325084500 -0300" stop="20250325091000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E16</episode-num>
+  </programme>
+  <programme start="20250325091000 -0300" stop="20250325093500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E17</episode-num>
+  </programme>
+  <programme start="20250325093500 -0300" stop="20250325102000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E6</episode-num>
+  </programme>
+  <programme start="20250325102000 -0300" stop="20250325110500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E7</episode-num>
+  </programme>
+  <programme start="20250325110500 -0300" stop="20250325115000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E8</episode-num>
+  </programme>
+  <programme start="20250325115000 -0300" stop="20250325123500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E3</episode-num>
+  </programme>
+  <programme start="20250325123500 -0300" stop="20250325132000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E4</episode-num>
+  </programme>
+  <programme start="20250325132000 -0300" stop="20250325140500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E5</episode-num>
+  </programme>
+  <programme start="20250325140500 -0300" stop="20250325145000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Top chef</title>
+    <episode-num system="onscreen">S16 E6</episode-num>
+  </programme>
+  <programme start="20250325145000 -0300" stop="20250325155000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Real Housewives Ultimate</title>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20250325155000 -0300" stop="20250325164000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">The Real Housewives Ultimate</title>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20250325164000 -0300" stop="20250325170500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E19</episode-num>
+  </programme>
+  <programme start="20250325170500 -0300" stop="20250325172500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E20</episode-num>
+  </programme>
+  <programme start="20250325172500 -0300" stop="20250325175000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E21</episode-num>
+  </programme>
+  <programme start="20250325175000 -0300" stop="20250325181000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E22</episode-num>
+  </programme>
+  <programme start="20250325181000 -0300" stop="20250325183500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">La Familia Chrisley</title>
+    <episode-num system="onscreen">S7 E23</episode-num>
+  </programme>
+  <programme start="20250325183500 -0300" stop="20250325193000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E10</episode-num>
+  </programme>
+  <programme start="20250325193000 -0300" stop="20250325201500 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E11</episode-num>
+  </programme>
+  <programme start="20250325201500 -0300" stop="20250325210000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
+    <title lang="es">Bajo cubierta</title>
+    <episode-num system="onscreen">S9 E12</episode-num>
   </programme>
 </tv>
