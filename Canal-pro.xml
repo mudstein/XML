@@ -252,6 +252,26 @@
     <display-name lang="es">ZCL• ESPN 3 (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png"/>
   </channel>
+  <channel id="ZCL• ESPN EXTRA (HD)">
+    <display-name lang="es">ZCL• ESPN EXTRA (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4.png"/>
+  </channel>
+  <channel id="ZCL• ESPN 4 (HD)">
+    <display-name lang="es">ZCL• ESPN 4 (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4.png"/>
+  </channel>
+  <channel id="ZCL• FOX SPORTS 1 (HD)">
+    <display-name lang="es">ZCL• FOX SPORTS 1 (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium.png"/>
+  </channel>
+  <channel id="ZCL• FOX SPORTS 2 (HD)">
+    <display-name lang="es">ZCL• FOX SPORTS 2 (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png"/>
+  </channel>
+  <channel id="ZCL• FOX SPORTS 3 (HD)">
+    <display-name lang="es">ZCL• FOX SPORTS 3 (HD)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png"/>
+  </channel>
   <channel id="ZCL• HTV (HD)">
     <display-name lang="es">ZCL• HTV (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_htv_m.png"/>
@@ -303,6 +323,23 @@
   <channel id="ZCL• UNIVERSAL REALITY (HD)">
     <display-name lang="es">ZCL• UNIVERSAL REALITY (HD)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality.png"/>
+  </channel>
+  <channel id="ZCL• RT EN ESPANOL (HD)">
+    <display-name lang="es">ZCL• RT EN ESPANOL (HD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_rt-tv-russia-today_m.png"/>
+  </channel>
+  <channel id="ZCL• TELETRAK (HD)">
+    <display-name lang="es">ZCL• TELETRAK (HD)</display-name>
+    <display-name lang="es">#offset#-120</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png"/>
+  </channel>
+  <channel id="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <display-name lang="es">ZCL• CAMARA DE DIPUTADOS (HD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_tv-diputados_m.png"/>
+  </channel>
+  <channel id="ZCL• ZONA LATINA (HD)">
+    <display-name lang="es">ZCL• ZONA LATINA (HD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_zona-latina_m.png"/>
   </channel>
   <programme start="20250324035500 +0100" stop="20250324042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
@@ -24893,6 +24930,418 @@
     <category lang="es">Exhibición, Estadio Mobil Super, Monterrey, Mexico</category>
     <icon src="https://cdn.mitvstatic.com/programs/pe_beisbol-boston-red-sox-vs-sultanes-de-monterrey-exhibicion-estadio-mobil-super-monterrey-mexico_l_l.jpg"/>
   </programme>
+  <programme start="20250324010000 -0300" stop="20250324020000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">UEFA Nations League Matchnight Highlights</title>
+  </programme>
+  <programme start="20250324020000 -0300" stop="20250324043000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Women's College Hockey</title>
+    <sub-title lang="es">NCAA Tournament: Minnesota vs. Wisconsin</sub-title>
+  </programme>
+  <programme start="20250324043000 -0300" stop="20250324070000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Hockey Universitario Femenino</title>
+  </programme>
+  <programme start="20250324070000 -0300" stop="20250324090000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Fútbol Femenino Super League</title>
+    <sub-title lang="es">Manchester City vs. Chelsea</sub-title>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324105500 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Rugby Top 14 de Francia</title>
+    <sub-title lang="es">ASM Clermont vs. Racing 92</sub-title>
+  </programme>
+  <programme start="20250324105500 -0300" stop="20250324125000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Rugby Premiership</title>
+    <sub-title lang="es">Bristol Bears vs. Exeter Chiefs</sub-title>
+  </programme>
+  <programme start="20250324125000 -0300" stop="20250324135000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Kings League Américas</title>
+    <sub-title lang="es">Club de Cuervos vs. Galácticos del Caribe</sub-title>
+  </programme>
+  <programme start="20250324135000 -0300" stop="20250324160000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Lituania vs. Finlandia</sub-title>
+  </programme>
+  <programme start="20250324160000 -0300" stop="20250324180000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Super Rugby Américas</title>
+    <sub-title lang="es">Dogos XV vs. Tarucas</sub-title>
+  </programme>
+  <programme start="20250324180000 -0300" stop="20250324200000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Fútbol UEFA Nations League</title>
+    <sub-title lang="es">Alemania vs. Italia</sub-title>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324220000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Inglaterra vs. Letonia</sub-title>
+  </programme>
+  <programme start="20250324220000 -0300" stop="20250324230000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Scrum</title>
+    <episode-num system="onscreen">S2025</episode-num>
+  </programme>
+  <programme start="20250324230000 -0300" stop="20250324233000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Moto Grand Prix F.I.M. Highlights</title>
+    <episode-num system="onscreen">S2021 E3</episode-num>
+  </programme>
+  <programme start="20250324233000 -0300" stop="20250325013000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Lituania vs. Finlandia</sub-title>
+  </programme>
+  <programme start="20250325233000 -0300" stop="20250326013000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Lituania vs. Finlandia</sub-title>
+  </programme>
+  <programme start="20250326013000 -0300" stop="20250326033000 -0300" channel="ZCL• ESPN EXTRA (HD)">
+    <title lang="es">Super Rugby Américas</title>
+    <sub-title lang="es">Dogos XV vs. Tarucas</sub-title>
+  </programme>
+  <programme start="20250324010000 -0300" stop="20250324020000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">UEFA Nations League Matchnight Highlights</title>
+  </programme>
+  <programme start="20250324020000 -0300" stop="20250324043000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Women's College Hockey</title>
+    <sub-title lang="es">NCAA Tournament: Minnesota vs. Wisconsin</sub-title>
+  </programme>
+  <programme start="20250324043000 -0300" stop="20250324070000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Hockey Universitario Femenino</title>
+  </programme>
+  <programme start="20250324070000 -0300" stop="20250324090000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Fútbol Femenino Super League</title>
+    <sub-title lang="es">Manchester City vs. Chelsea</sub-title>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324105500 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Rugby Top 14 de Francia</title>
+    <sub-title lang="es">ASM Clermont vs. Racing 92</sub-title>
+  </programme>
+  <programme start="20250324105500 -0300" stop="20250324125000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Rugby Premiership</title>
+    <sub-title lang="es">Bristol Bears vs. Exeter Chiefs</sub-title>
+  </programme>
+  <programme start="20250324125000 -0300" stop="20250324135000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Kings League Américas</title>
+    <sub-title lang="es">Club de Cuervos vs. Galácticos del Caribe</sub-title>
+  </programme>
+  <programme start="20250324135000 -0300" stop="20250324160000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Lituania vs. Finlandia</sub-title>
+  </programme>
+  <programme start="20250324160000 -0300" stop="20250324180000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Super Rugby Américas</title>
+    <sub-title lang="es">Dogos XV vs. Tarucas</sub-title>
+  </programme>
+  <programme start="20250324180000 -0300" stop="20250324200000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Fútbol UEFA Nations League</title>
+    <sub-title lang="es">Alemania vs. Italia</sub-title>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324220000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Inglaterra vs. Letonia</sub-title>
+  </programme>
+  <programme start="20250324220000 -0300" stop="20250324230000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Scrum</title>
+    <episode-num system="onscreen">S2025</episode-num>
+  </programme>
+  <programme start="20250324230000 -0300" stop="20250324233000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Moto Grand Prix F.I.M. Highlights</title>
+    <episode-num system="onscreen">S2021 E3</episode-num>
+  </programme>
+  <programme start="20250324233000 -0300" stop="20250325013000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Lituania vs. Finlandia</sub-title>
+  </programme>
+  <programme start="20250325233000 -0300" stop="20250326013000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">FIFA Eliminatorias Copa Mundial 2026</title>
+    <sub-title lang="es">Lituania vs. Finlandia</sub-title>
+  </programme>
+  <programme start="20250326013000 -0300" stop="20250326033000 -0300" channel="ZCL• ESPN 4 (HD)">
+    <title lang="es">Super Rugby Américas</title>
+    <sub-title lang="es">Dogos XV vs. Tarucas</sub-title>
+  </programme>
+  <programme start="20250324010000 -0300" stop="20250324040000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20250324040000 -0300" stop="20250324060000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Alianza Lima vs. Deportes Iquique</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324063000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de la Champions League</title>
+  </programme>
+  <programme start="20250324063000 -0300" stop="20250324070000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de la Champions League</title>
+  </programme>
+  <programme start="20250324070000 -0300" stop="20250324090000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324100000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">ESPN Compact - Moto GP</title>
+  </programme>
+  <programme start="20250324100000 -0300" stop="20250324130000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20250324130000 -0300" stop="20250324150000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Fútbol femenino FA Cup</title>
+  </programme>
+  <programme start="20250324150000 -0300" stop="20250324170000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Alianza Lima vs. Deportes Iquique</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250324170000 -0300" stop="20250324190000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Fútbol femenino FA Cup</title>
+  </programme>
+  <programme start="20250324190000 -0300" stop="20250324193000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de la Champions League</title>
+  </programme>
+  <programme start="20250324193000 -0300" stop="20250324200000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de la Champions League</title>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324220000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20250324220000 -0300" stop="20250325000000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325003000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de la Champions League</title>
+  </programme>
+  <programme start="20250325003000 -0300" stop="20250325010000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de la Champions League</title>
+  </programme>
+  <programme start="20250325010000 -0300" stop="20250325020000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325020000 -0300" stop="20250325040000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Americas Rugby Championship</title>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325060000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Cerro Porteño vs. Melgar</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325070000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Goles de LA Bundesliga</title>
+  </programme>
+  <programme start="20250325070000 -0300" stop="20250325080000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">ESPN Compact - Moto GP</title>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325100000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Americas Rugby Championship</title>
+  </programme>
+  <programme start="20250325100000 -0300" stop="20250325130000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20250325130000 -0300" stop="20250325150000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Bahia vs. Boston River</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250325150000 -0300" stop="20250325170000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Alianza Lima vs. Deportes Iquique</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250325170000 -0300" stop="20250325190000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Octavos de final Vuelta Inter vs. Feyenoord</title>
+    <sub-title lang="es">UEFA Champions League</sub-title>
+  </programme>
+  <programme start="20250325190000 -0300" stop="20250325220000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Octavos de final Vuelta Club Atlético de Madrid vs. Real Madrid</title>
+    <sub-title lang="es">UEFA Champions League</sub-title>
+  </programme>
+  <programme start="20250325220000 -0300" stop="20250326000000 -0300" channel="ZCL• FOX SPORTS 1 (HD)">
+    <title lang="es">Bahia vs. Boston River</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250324010000 -0300" stop="20250324030000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Fútbol UEFA Nations League</title>
+  </programme>
+  <programme start="20250324030000 -0300" stop="20250324040000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20250324040000 -0300" stop="20250324050000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20250324050000 -0300" stop="20250324060000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324080000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20250324080000 -0300" stop="20250324090000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">European Qualifiers Match Day Highlights</title>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324110000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20250324110000 -0300" stop="20250324130000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Octavos de final Vuelta,Bayer Leverkusen vs. Bayern Munich</title>
+    <sub-title lang="es">UEFA Champions League</sub-title>
+  </programme>
+  <programme start="20250324130000 -0300" stop="20250324140000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20250324140000 -0300" stop="20250324143000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20250324143000 -0300" stop="20250324150000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20250324150000 -0300" stop="20250324170000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Bahia vs. Boston River</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250324170000 -0300" stop="20250324180000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">European Qualifiers Match Night Highlights</title>
+  </programme>
+  <programme start="20250324180000 -0300" stop="20250324200000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324210000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250325000000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325020000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325020000 -0300" stop="20250325040000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325050000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325050000 -0300" stop="20250325060000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325080000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325090000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Goles de LA Bundesliga</title>
+  </programme>
+  <programme start="20250325090000 -0300" stop="20250325110000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Pádel</title>
+  </programme>
+  <programme start="20250325110000 -0300" stop="20250325130000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325130000 -0300" stop="20250325140000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325140000 -0300" stop="20250325150000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Goles de LA Bundesliga</title>
+  </programme>
+  <programme start="20250325150000 -0300" stop="20250325160000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">ESPN Compact - UEFA Europa League</title>
+  </programme>
+  <programme start="20250325160000 -0300" stop="20250325170000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">ESPN Compact - UEFA Europa League</title>
+  </programme>
+  <programme start="20250325170000 -0300" stop="20250325180000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+  </programme>
+  <programme start="20250325180000 -0300" stop="20250325200000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325200000 -0300" stop="20250325210000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325210000 -0300" stop="20250326000000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250324010000 -0300" stop="20250324030000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Fútbol UEFA Nations League</title>
+  </programme>
+  <programme start="20250324030000 -0300" stop="20250324040000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Deporte Será Anunciado</title>
+  </programme>
+  <programme start="20250324040000 -0300" stop="20250324050000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20250324050000 -0300" stop="20250324060000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+  </programme>
+  <programme start="20250324060000 -0300" stop="20250324080000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20250324080000 -0300" stop="20250324090000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">European Qualifiers Match Day Highlights</title>
+  </programme>
+  <programme start="20250324090000 -0300" stop="20250324110000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UEFA Europa league</title>
+  </programme>
+  <programme start="20250324110000 -0300" stop="20250324130000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Octavos de final Vuelta,Bayer Leverkusen vs. Bayern Munich</title>
+    <sub-title lang="es">UEFA Champions League</sub-title>
+  </programme>
+  <programme start="20250324130000 -0300" stop="20250324140000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20250324140000 -0300" stop="20250324143000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20250324143000 -0300" stop="20250324150000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20250324150000 -0300" stop="20250324170000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Bahia vs. Boston River</title>
+    <sub-title lang="es">Fútbol Conmebol Libertadores</sub-title>
+  </programme>
+  <programme start="20250324170000 -0300" stop="20250324180000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">European Qualifiers Match Night Highlights</title>
+  </programme>
+  <programme start="20250324180000 -0300" stop="20250324200000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20250324200000 -0300" stop="20250324210000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC Countdown</title>
+  </programme>
+  <programme start="20250324210000 -0300" stop="20250325000000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20250325000000 -0300" stop="20250325020000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325020000 -0300" stop="20250325040000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325040000 -0300" stop="20250325050000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325050000 -0300" stop="20250325060000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+  </programme>
+  <programme start="20250325060000 -0300" stop="20250325080000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325080000 -0300" stop="20250325090000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Goles de LA Bundesliga</title>
+  </programme>
+  <programme start="20250325090000 -0300" stop="20250325110000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Pádel</title>
+  </programme>
+  <programme start="20250325110000 -0300" stop="20250325130000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325130000 -0300" stop="20250325140000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325140000 -0300" stop="20250325150000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Goles de LA Bundesliga</title>
+  </programme>
+  <programme start="20250325150000 -0300" stop="20250325160000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">ESPN Compact - UEFA Europa League</title>
+  </programme>
+  <programme start="20250325160000 -0300" stop="20250325170000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">ESPN Compact - UEFA Europa League</title>
+  </programme>
+  <programme start="20250325170000 -0300" stop="20250325180000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">ESPN Compact - UEFA Champions League</title>
+  </programme>
+  <programme start="20250325180000 -0300" stop="20250325200000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">Eliminatorias Copa Mundial de la FIFA 2026</title>
+  </programme>
+  <programme start="20250325200000 -0300" stop="20250325210000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20250325210000 -0300" stop="20250326000000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
+    <title lang="es">UFC</title>
+  </programme>
   <programme start="20250324180000 +0100" stop="20250325050000 +0100" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
     <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
@@ -26912,5 +27361,773 @@
   <programme start="20250325200500 -0300" stop="20250325205000 -0300" channel="ZCL• UNIVERSAL REALITY (HD)">
     <title lang="es">Bajo cubierta</title>
     <episode-num system="onscreen">S9 E12</episode-num>
+  </programme>
+  <programme start="20250324040000 +0100" stop="20250324043000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">La otra Italia: voces anti-Otan</title>
+    <desc lang="es">La activista italiana Marinella Correggia hace campaña apasionadamente contra la OTAN, culpando a la alianza de la inestabilidad política y económica en los países donde ha intervenido.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324043000 +0100" stop="20250324050000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">El África de Lumumba</title>
+    <desc lang="es">En este documental, el presentador se centra en los problemas políticos pasados y actuales del continente africano. Filmado en medio de los hermosos paisajes de Kenia, el programa analiza las numerosas dicotomías de los países de África.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324050000 +0100" stop="20250324053000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324053000 +0100" stop="20250324060000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324060000 +0100" stop="20250324063000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324063000 +0100" stop="20250324070000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324070000 +0100" stop="20250324073000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">El rugido de Kursk</title>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324073000 +0100" stop="20250324080000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">El rugido de Kursk</title>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324080000 +0100" stop="20250324083000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">La otra Italia: voces anti-Otan</title>
+    <desc lang="es">La activista italiana Marinella Correggia hace campaña apasionadamente contra la OTAN, culpando a la alianza de la inestabilidad política y económica en los países donde ha intervenido.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324083000 +0100" stop="20250324090000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">El África de Lumumba</title>
+    <desc lang="es">En este documental, el presentador se centra en los problemas políticos pasados y actuales del continente africano. Filmado en medio de los hermosos paisajes de Kenia, el programa analiza las numerosas dicotomías de los países de África.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324090000 +0100" stop="20250324093000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324093000 +0100" stop="20250324100000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324100000 +0100" stop="20250324103000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324103000 +0100" stop="20250324110000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Alaska: ecos rusos</title>
+    <desc lang="es">En EE. UU. hay un lugar donde abundan los nombres rusos, un idioma aún presente en el vocabulario y las costumbres de muchos de sus habitantes. La naturaleza agreste y la mezcla de culturas fomentaron en Alaska un singular legado.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324110000 +0100" stop="20250324113000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">El rugido de Kursk</title>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324113000 +0100" stop="20250324120000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">El rugido de Kursk</title>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324120000 +0100" stop="20250324123000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324123000 +0100" stop="20250324130000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250324130000 +0100" stop="20250324133000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324133000 +0100" stop="20250324140000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324140000 +0100" stop="20250324143000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Dogmas en común</title>
+    <desc lang="es">En el frente, la fe adquiere una importancia clave. Independientemente de la religión que se practique, cuando los soldados pasan horas, días y meses exponiendo su vida, las oraciones sirven de escudo psicológico y del alma.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250324143000 +0100" stop="20250324150000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250324150000 +0100" stop="20250324153000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324153000 +0100" stop="20250324160000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324160000 +0100" stop="20250324163000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324163000 +0100" stop="20250324170000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Mercenarios, la ruleta ucraniana</title>
+    <desc lang="es">Un documental sobre los mercenarios de Ucrania.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324170000 +0100" stop="20250324173000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324173000 +0100" stop="20250324180000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250324180000 +0100" stop="20250324183000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324183000 +0100" stop="20250324190000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324190000 +0100" stop="20250324193000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324193000 +0100" stop="20250324200000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Dogmas en común</title>
+    <desc lang="es">En el frente, la fe adquiere una importancia clave. Independientemente de la religión que se practique, cuando los soldados pasan horas, días y meses exponiendo su vida, las oraciones sirven de escudo psicológico y del alma.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250324200000 +0100" stop="20250324203000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324203000 +0100" stop="20250324210000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250324210000 +0100" stop="20250324213000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324213000 +0100" stop="20250324220000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324220000 +0100" stop="20250324223000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324223000 +0100" stop="20250324230000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Mercenarios, la ruleta ucraniana</title>
+    <desc lang="es">Un documental sobre los mercenarios de Ucrania.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324230000 +0100" stop="20250324233000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324233000 +0100" stop="20250325000000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325000000 +0100" stop="20250325003000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325003000 +0100" stop="20250325010000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325010000 +0100" stop="20250325013000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325013000 +0100" stop="20250325020000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Dogmas en común</title>
+    <desc lang="es">En el frente, la fe adquiere una importancia clave. Independientemente de la religión que se practique, cuando los soldados pasan horas, días y meses exponiendo su vida, las oraciones sirven de escudo psicológico y del alma.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250325020000 +0100" stop="20250325023000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325023000 +0100" stop="20250325030000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325030000 +0100" stop="20250325033000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325033000 +0100" stop="20250325040000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325040000 +0100" stop="20250325043000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325043000 +0100" stop="20250325050000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Mercenarios, la ruleta ucraniana</title>
+    <desc lang="es">Un documental sobre los mercenarios de Ucrania.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325050000 +0100" stop="20250325053000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325053000 +0100" stop="20250325060000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Dogmas en común</title>
+    <desc lang="es">En el frente, la fe adquiere una importancia clave. Independientemente de la religión que se practique, cuando los soldados pasan horas, días y meses exponiendo su vida, las oraciones sirven de escudo psicológico y del alma.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250325060000 +0100" stop="20250325063000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325063000 +0100" stop="20250325070000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325070000 +0100" stop="20250325073000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Mercenarios, la ruleta ucraniana</title>
+    <desc lang="es">Un documental sobre los mercenarios de Ucrania.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325073000 +0100" stop="20250325080000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325080000 +0100" stop="20250325083000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325083000 +0100" stop="20250325090000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Dogmas en común</title>
+    <desc lang="es">En el frente, la fe adquiere una importancia clave. Independientemente de la religión que se practique, cuando los soldados pasan horas, días y meses exponiendo su vida, las oraciones sirven de escudo psicológico y del alma.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250325090000 +0100" stop="20250325093000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325093000 +0100" stop="20250325100000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325100000 +0100" stop="20250325103000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Mercenarios, la ruleta ucraniana</title>
+    <desc lang="es">Un documental sobre los mercenarios de Ucrania.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325103000 +0100" stop="20250325110000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Ramón Orlando Valoy, Músico Dominicano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-ramon-orlando-valoy-musico-dominicano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325110000 +0100" stop="20250325113000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Zoom+</title>
+    <desc lang="es">Este proyecto llega con un formato de pódcast audiovisual cargado de análisis para profundizar en las entrañas de los principales temas de actualidad charlando de una forma distendida con especialistas en las más diversas materias.</desc>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325113000 +0100" stop="20250325120000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Dogmas en común</title>
+    <desc lang="es">En el frente, la fe adquiere una importancia clave. Independientemente de la religión que se practique, cuando los soldados pasan horas, días y meses exponiendo su vida, las oraciones sirven de escudo psicológico y del alma.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250325120000 +0100" stop="20250325123000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325123000 +0100" stop="20250325130000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Pavel Égüez, Pintor Ecuatoriano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-pavel-eguez-pintor-ecuatoriano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325130000 +0100" stop="20250325133000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325133000 +0100" stop="20250325140000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Cartas sobre la mesa</title>
+    <desc lang="es">Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20250325140000 +0100" stop="20250325143000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Ahí les va</title>
+    <desc lang="es">Información, pero con algo de humor. Humor, pero con mucha información.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ahi-les-va_l_l.jpg"/>
+  </programme>
+  <programme start="20250325143000 +0100" stop="20250325150000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Pavel Égüez, Pintor Ecuatoriano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-pavel-eguez-pintor-ecuatoriano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325150000 +0100" stop="20250325153000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325153000 +0100" stop="20250325160000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Cartas sobre la mesa</title>
+    <desc lang="es">Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20250325160000 +0100" stop="20250325163000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325163000 +0100" stop="20250325170000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Ahí les va</title>
+    <desc lang="es">Información, pero con algo de humor. Humor, pero con mucha información.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ahi-les-va_l_l.jpg"/>
+  </programme>
+  <programme start="20250325170000 +0100" stop="20250325173000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325173000 +0100" stop="20250325180000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Pavel Égüez, Pintor Ecuatoriano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-pavel-eguez-pintor-ecuatoriano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325180000 +0100" stop="20250325183000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325183000 +0100" stop="20250325190000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Cartas sobre la mesa</title>
+    <desc lang="es">Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20250325190000 +0100" stop="20250325193000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325193000 +0100" stop="20250325200000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Ahí les va</title>
+    <desc lang="es">Información, pero con algo de humor. Humor, pero con mucha información.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ahi-les-va_l_l.jpg"/>
+  </programme>
+  <programme start="20250325200000 +0100" stop="20250325203000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325203000 +0100" stop="20250325210000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Pavel Égüez, Pintor Ecuatoriano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-pavel-eguez-pintor-ecuatoriano_l_l.jpg"/>
+  </programme>
+  <programme start="20250325210000 +0100" stop="20250325213000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325213000 +0100" stop="20250325220000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Cartas sobre la mesa</title>
+    <desc lang="es">Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20250325220000 +0100" stop="20250325223000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325223000 +0100" stop="20250325230000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Ahí les va</title>
+    <desc lang="es">Información, pero con algo de humor. Humor, pero con mucha información.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ahi-les-va_l_l.jpg"/>
+  </programme>
+  <programme start="20250325230000 +0100" stop="20250325233000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250325233000 +0100" stop="20250326000000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Pavel Égüez, Pintor Ecuatoriano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-pavel-eguez-pintor-ecuatoriano_l_l.jpg"/>
+  </programme>
+  <programme start="20250326000000 +0100" stop="20250326003000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250326003000 +0100" stop="20250326010000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Cartas sobre la mesa</title>
+    <desc lang="es">Luis Castro se reúne en un informal debate con expertos y especialistas para comentar junto a una taza de café las jugadas políticas de la actualidad latinoamericana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.347.</episode-num>
+  </programme>
+  <programme start="20250326010000 +0100" stop="20250326013000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250326013000 +0100" stop="20250326020000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Ahí les va</title>
+    <desc lang="es">Información, pero con algo de humor. Humor, pero con mucha información.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ahi-les-va_l_l.jpg"/>
+  </programme>
+  <programme start="20250326020000 +0100" stop="20250326023000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250326023000 +0100" stop="20250326030000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Entrevista</title>
+    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
+    <category lang="es">- Pavel Égüez, Pintor Ecuatoriano</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_entrevista-pavel-eguez-pintor-ecuatoriano_l_l.jpg"/>
+  </programme>
+  <programme start="20250326030000 +0100" stop="20250326033000 +0100" channel="ZCL• RT EN ESPANOL (HD)">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticias_l_l.jpg"/>
+  </programme>
+  <programme start="20250324040000 +0100" stop="20250324160000 +0100" channel="ZCL• TELETRAK (HD)">
+    <title lang="es">Teletrak</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324160000 +0100" stop="20250325040000 +0100" channel="ZCL• TELETRAK (HD)">
+    <title lang="es">Teletrak</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325040000 +0100" stop="20250325160000 +0100" channel="ZCL• TELETRAK (HD)">
+    <title lang="es">Teletrak</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324033000 +0100" stop="20250324043000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión de hacienda</title>
+    <category lang="es">- Emisión del día 19/03/25</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-hacienda-emision-del-dia-19-03-25_l_l.jpg"/>
+  </programme>
+  <programme start="20250324043000 +0100" stop="20250324110000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Cierre</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cierre_l_l.jpg"/>
+  </programme>
+  <programme start="20250324110000 +0100" stop="20250324130000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">CNTV Infantil: Televisión educativa</title>
+    <desc lang="es">Videos educativos, infantiles y culturales para todo público, disponibles para ver online y descargar. Material educativo gratuito y de libre uso escolar.</desc>
+    <category lang="es">Infantil</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cntv-infantil-television-educativa-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324130000 +0100" stop="20250324131000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Resumen informativo en lengua de señas</title>
+    <desc lang="es">Se presentan las informaciones más recientes referidas a los principales ámbitos de la sociedad, realizando un recorrido por aquellos hechos que mayor impacto han generado. Todo articulado en el lenguaje universal de señas.</desc>
+    <category lang="es">Noticiero</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_resumen-informativo-en-lengua-de-senas_l_l.jpg"/>
+  </programme>
+  <programme start="20250324131000 +0100" stop="20250324133000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Semana en la cámara</title>
+    <category lang="es">Periodístico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_semana-en-la-camara_l_l.jpg"/>
+  </programme>
+  <programme start="20250324133000 +0100" stop="20250324144500 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión de hacienda</title>
+    <category lang="es">- Emisión del día 19/03/25</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-hacienda-emision-del-dia-19-03-25_l_l.jpg"/>
+  </programme>
+  <programme start="20250324144500 +0100" stop="20250324150000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">La cámara en la radio</title>
+    <category lang="es">- Diputado Tomás Hirsch</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-camara-en-la-radio-diputado-tomas-hirsch_l_l.jpg"/>
+  </programme>
+  <programme start="20250324150000 +0100" stop="20250324164500 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión investigadora compra casa Allende</title>
+    <desc lang="es">Se muestra la sesión de Comisión Investigadora por la compra de la casa Allende de los Diputados y Diputadas de Chile, en marzo del 2025.</desc>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324164500 +0100" stop="20250324190000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión investigadora: caso Monsalve</title>
+    <desc lang="es">Un espacio con el objetivo de obtener mayores antecedentes en relación con la presunta participación del exsubsecretario del Interior, Manuel Monsalve, en el delito de violación perpetrado en contra de una funcionaria gubernamental.</desc>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324190000 +0100" stop="20250324210000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión de seguridad ciudadana</title>
+    <desc lang="es">Debates y conversaciones sobre el sistema de seguridad de la nación. Es una reunión que tiene como prioridad discutir los proyectos en marcha y la planificación en función del bienestar de los ciudadanos.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-seguridad-ciudadana_l_l.jpg"/>
+  </programme>
+  <programme start="20250324210000 +0100" stop="20250324231500 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Sesión de sala</title>
+    <desc lang="es">Espacio donde se muestra el debate de los proyectos, diferentes opiniones y posturas de los Diputados. Entrevistas a sus autores y a quienes han participado en la elaboración de la norma.</desc>
+    <category lang="es">- Sesión Nº 6</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sesion-de-sala-sesion-n-6-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250324231500 +0100" stop="20250325013000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión INDE - Zonas extremas</title>
+    <desc lang="es">Transmisión de la comisión donde se analizan los problemas que afectan al sistema público de atención primaria municipal y sus trabajadores y las acciones que corresponda adoptar para otorgar solución a los mismos.</desc>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250325013000 +0100" stop="20250325020000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Mentes brillantes</title>
+    <desc lang="es">Apasionado por la vida y por las matemáticas, Eric Goles ha dedicado su vida a trabajar en el área de las matemáticas discretas con aplicaciones en la informática, posicionando a Chile en esta área de investigación en el mundo.</desc>
+    <category lang="es">- Eric Goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_mentes-brillantes-eric-goles_l_l.jpg"/>
+  </programme>
+  <programme start="20250325020000 +0100" stop="20250325023000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Puntos de vista</title>
+    <desc lang="es">Segmento en el cual el periodista Guillermo Navarro conversa sobre actualidad y política, con diferentes parlamentarios chilenos, quienes exponen su opinión y apreciaciones sobre los acontecimientos tanto nacionales como internacionales.</desc>
+    <category lang="es">Político</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_puntos-de-vista_l_l.jpg"/>
+  </programme>
+  <programme start="20250325023000 +0100" stop="20250326023000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión de pesca</title>
+    <desc lang="es">Espacio institucional en el cual podrás conocer los planes, proyectos y estrategias llevadas a cabo por la Comisión de Pesca, con el fin de informar a la ciudadanía chilena sobre la gestión realizada.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-pesca_l_l.jpg"/>
+  </programme>
+  <programme start="20250326023000 +0100" stop="20250326043000 +0100" channel="ZCL• CAMARA DE DIPUTADOS (HD)">
+    <title lang="es">Comisión de pesca</title>
+    <desc lang="es">Espacio institucional en el cual podrás conocer los planes, proyectos y estrategias llevadas a cabo por la Comisión de Pesca, con el fin de informar a la ciudadanía chilena sobre la gestión realizada.</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_comision-de-pesca_l_l.jpg"/>
+  </programme>
+  <programme start="20250324033000 +0100" stop="20250324053000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Que te lo digo</title>
+    <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20250324053000 +0100" stop="20250324063000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Bloque de a dos</title>
+    <desc lang="es">Un espacio donde se puede seguir a los artistas y bandas preferidas. Además de ver sus mejores interpretaciones a través de los más exitosos videos de sus producciones elegidos por partida doble para volver a enloquecer al escucharlos.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324063000 +0100" stop="20250324080000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Videos musicales</title>
+    <desc lang="es">Revisa los mejores videos, música e imagen para acompañarte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_videos-musicales_l_l.jpg"/>
+  </programme>
+  <programme start="20250324080000 +0100" stop="20250324103000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Zona de estrellas</title>
+    <desc lang="es">Una conversación íntima y única con los más destacados personajes de la política, la televisión y las artes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zona-de-estrellas-s15e15_l_l.jpg"/>
+    <episode-num system="xmltv_ns">14.14.</episode-num>
+  </programme>
+  <programme start="20250324103000 +0100" stop="20250324120000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Sabores</title>
+    <desc lang="es">Los más rico y entretenido de la mañana en el Matinal Alegre de Zona Latina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">13.14.</episode-num>
+  </programme>
+  <programme start="20250324120000 +0100" stop="20250324140000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Que te lo digo</title>
+    <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20250324140000 +0100" stop="20250324153000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Sabores</title>
+    <desc lang="es">Los más rico y entretenido de la mañana en el Matinal Alegre de Zona Latina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">13.15.</episode-num>
+  </programme>
+  <programme start="20250324153000 +0100" stop="20250324160000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Videos musicales</title>
+    <desc lang="es">Revisa los mejores videos, música e imagen para acompañarte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_videos-musicales_l_l.jpg"/>
+  </programme>
+  <programme start="20250324160000 +0100" stop="20250324180000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Que te lo digo</title>
+    <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.14.</episode-num>
+  </programme>
+  <programme start="20250324180000 +0100" stop="20250324183000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Videos musicales</title>
+    <desc lang="es">Revisa los mejores videos, música e imagen para acompañarte.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_videos-musicales_l_l.jpg"/>
+  </programme>
+  <programme start="20250324183000 +0100" stop="20250324190000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Bloque de a dos</title>
+    <desc lang="es">Un espacio donde se puede seguir a los artistas y bandas preferidas. Además de ver sus mejores interpretaciones a través de los más exitosos videos de sus producciones elegidos por partida doble para volver a enloquecer al escucharlos.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250324190000 +0100" stop="20250324213000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Zona de estrellas</title>
+    <desc lang="es">Una conversación íntima y única con los más destacados personajes de la política, la televisión y las artes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zona-de-estrellas-s15e15_l_l.jpg"/>
+    <episode-num system="xmltv_ns">14.14.</episode-num>
+  </programme>
+  <programme start="20250324213000 +0100" stop="20250324230000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Sabores</title>
+    <desc lang="es">Los más rico y entretenido de la mañana en el Matinal Alegre de Zona Latina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">13.15.</episode-num>
+  </programme>
+  <programme start="20250324230000 +0100" stop="20250325010000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Que te lo digo</title>
+    <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
+  </programme>
+  <programme start="20250325010000 +0100" stop="20250325033000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Zona de estrellas</title>
+    <desc lang="es">Una conversación íntima y única con los más destacados personajes de la política, la televisión y las artes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_zona-de-estrellas-s15e16_l_l.jpg"/>
+    <episode-num system="xmltv_ns">14.15.</episode-num>
+  </programme>
+  <programme start="20250325033000 +0100" stop="20250326033000 +0100" channel="ZCL• ZONA LATINA (HD)">
+    <title lang="es">Que te lo digo</title>
+    <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.15.</episode-num>
   </programme>
 </tv>
