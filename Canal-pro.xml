@@ -330,7 +330,6 @@
   </channel>
   <channel id="ZCL• TELETRAK (HD)">
     <display-name lang="es">ZCL• TELETRAK (HD)</display-name>
-    <display-name lang="es">#offset#-120</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_teletrak_m.png"/>
   </channel>
   <channel id="ZCL• CAMARA DE DIPUTADOS (HD)">
