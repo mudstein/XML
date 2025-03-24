@@ -104,6 +104,10 @@
     <display-name lang="es">ZCL• ANTENA 3 (HD)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3.png"/>
   </channel>
+  <channel id="ZCL• A&amp;E (HD)">
+    <display-name lang="es">ZCL• A&amp;E (HD)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_a-e_m.png"/>
+  </channel>
   <channel id="ZCL• DISCOVERY TLC (HD)">
     <display-name lang="es">ZCL• DISCOVERY TLC (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_discovery-tlc_m.png"/>
@@ -14697,6 +14701,470 @@
   </programme>
   <programme start="20250325220000 -0300" stop="20250326020000 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Programa a determinar</title>
+  </programme>
+  <programme start="20250324032000 +0100" stop="20250324050000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Colonia V</title>
+    <title lang="xx">The Colony</title>
+    <desc lang="es">En un futuro alrededor del año 2045, un grupo de supervivientes vive bajo tierra después de que una nueva edad de hielo inundara el planeta, en lo que se podría considerar la última época glacial en la Tierra.</desc>
+    <date>2013</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_colonia-v-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250324050000 +0100" stop="20250324055100 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Casas del terror: Secretos de la vida universitaria</title>
+    <sub-title lang="es">El racismo y la máquina</sub-title>
+    <desc lang="es">En la Universidad de Alabama, un grupo de integrantes de una fraternidad secreta, controlaba los poderes políticos para mantener la supremacía blanca entre sus filas. ¿Cómo fue que se descubrió este secreto infame?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250324055100 +0100" stop="20250324064200 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Casas del terror: Secretos de la vida universitaria</title>
+    <sub-title lang="es">Cultura de abuso</sub-title>
+    <desc lang="es">En 2014, Abby Honold, una estudiante de tercer año de la Universidad de Minnesota, fue brutalmente violada por un joven que era parte de los Sigma Phi Epsilon.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250324064200 +0100" stop="20250324072900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Casas del terror: Secretos de la vida universitaria</title>
+    <sub-title lang="es">Operación caída repentina</sub-title>
+    <desc lang="es">En 2007, una serie de jóvenes comienza a morir de sobredosis, en la Universidad Estatal de San Diego. Entonces, la DEA lanza un operativo encubierto para atrapar a un miembro de Theta Chi, que se había convertido en narcotraficante.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250324072900 +0100" stop="20250324081400 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Secretos de Playboy</title>
+    <sub-title lang="es">El juego corporativo</sub-title>
+    <desc lang="es">La Playmate y eventual Directora de Promociones de Playboy, Miki Garcia, y la Conejita Madre, PJ Masten, revelan el acoso sexual desenfrenado al que se enfrentaron cuando intentaron ascender en la escala corporativa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250324081400 +0100" stop="20250324085900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Secretos de Playboy</title>
+    <sub-title lang="es">La gran mentira de Playboy</sub-title>
+    <desc lang="es">Las mujeres de la mansión cuentan cómo muchas chicas llegaban a la revista con la esperanza de una carrera lucrativa y segura, pero en cambio se encontraban con un entorno hostil, plagado de drogas, pornografía y prostitución.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250324085900 +0100" stop="20250324094500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Secretos de Playboy</title>
+    <sub-title lang="es">Pelota de depredadores</sub-title>
+    <desc lang="es">Desde las primeras fiestas en la Mansión, famosos que más tarde fueron condenados por violación como Roman Polanski y Bill Cosby fueron usados para promocionar la marca Playboy.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250324094500 +0100" stop="20250324103000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Shanna y Lynda</sub-title>
+    <desc lang="es">La casa de Shanna está cubierto con botellas de desperdicios humanos. Por otro lado, a Lynda no le va mucho mejor, cree que ascenderá al paraíso y quiere dejar miles de cosas para el resto de los mortales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e04-shanna-y-lynda_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.3.</episode-num>
+  </programme>
+  <programme start="20250324103000 +0100" stop="20250324111500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Joni y Millie</sub-title>
+    <desc lang="es">Joni y Millie reciben un ultimatum y deben dejar de acumular o perderan a sus seres más queridos. Joni debe hacerlo para que no le quiten la custodia de su nieta.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e05-joni-y-millie_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.4.</episode-num>
+  </programme>
+  <programme start="20250324111500 +0100" stop="20250324120000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Manuel y Carla</sub-title>
+    <desc lang="es">Manual vivía en su casa atesorada con sus cuatro hijos. Ellos son el amor de su vida, pero fueron retirados por los Servicios de Protección Infantil y el Manuel y no los recuperará a menos que él limpie su casa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e06-manuel-y-carla_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.5.</episode-num>
+  </programme>
+  <programme start="20250324120000 +0100" stop="20250324123100 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¡Alto! Frontera</title>
+    <desc lang="es">En el aeropuerto de Bogotá, Colombia, perfilan a una pasajera de origen mexicano con destino a su país, que genera sospechas por su escaso equipaje para tener una estadía tan extensa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_alto-frontera-s03e11_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+  </programme>
+  <programme start="20250324123100 +0100" stop="20250324131500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Jeff y Marlene</sub-title>
+    <desc lang="es">Marlene y Jeff lo tenían todo: dinero, amor y confort. Pero su vida de cuento de hadas se esfumó al perder lo que más amaban y ahora ella acumula basura y él atiborra su hogar con materiales de construcción.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e11-jeff-y-marlene_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.10.</episode-num>
+  </programme>
+  <programme start="20250324131500 +0100" stop="20250324140000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Diana y Dolores</sub-title>
+    <desc lang="es">Diana perdió el control sobre su manía de acumular cosas. Ahora, la denuncia de un vecino puede hacerle perder su casa si no la limpia. Dolores, por su parte, solía vender antigüedades hasta que su hobby se convirtió en enfermedad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e12-diana-y-dolores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+  </programme>
+  <programme start="20250324140000 +0100" stop="20250324150000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20250324150000 +0100" stop="20250324160000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20250324160000 +0100" stop="20250324162300 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Ira en el camino</title>
+    <sub-title lang="es">Camino equivocado</sub-title>
+    <desc lang="es">En Washington, una discusión sobre las reglas de conducción termina con múltiples disparos. Además, un conductor con ganas de pelear empuja a sus amigos al límite y otro en una SUV persigue a alguien que supuestamente rompió su ventana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250324162300 +0100" stop="20250324171400 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48: minutos críticos</title>
+    <sub-title lang="es">Los profesionales</sub-title>
+    <desc lang="es">Repasamos tres casos donde detectives veteranos muestran sus habilidades. En Dallas, una mujer es brutalmente asesinada en su casa. En Memphis, un investigador experimentado busca convencer a un testigo crucial.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.32.</episode-num>
+  </programme>
+  <programme start="20250324171400 +0100" stop="20250324180500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48: minutos críticos</title>
+    <sub-title lang="es">En el nombre del amor</sub-title>
+    <desc lang="es">Examinamos tres homicidios cometidos en nombre del amor. En Dallas, una pareja es asesinada en la puerta de su casa. En Louisville, un hombre con discapacidad auditiva es apuñalado. En Tulsa, el cuerpo de una mujer se halla en la basura.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.33.</episode-num>
+  </programme>
+  <programme start="20250324180500 +0100" stop="20250324185900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48: minutos críticos</title>
+    <sub-title lang="es">Negocios inconclusos</sub-title>
+    <desc lang="es">Repasamos tres casos de personas obsesionadas con la venganza. En Cleveland, un hombre es acribillado a plena luz del día. En Texas, una adolescente muere en manos de alguien a quien consideraba su amiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.34.</episode-num>
+  </programme>
+  <programme start="20250324185900 +0100" stop="20250324195500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Star Trek: Picard</title>
+    <sub-title lang="es">Dificultades en ciudad Polvoestelar</sub-title>
+    <desc lang="es">La tripulación de La Sirena comienza una expedición impredecible y llena de aventuras en Freecloud para buscar a Bruce Maddox.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250324195500 +0100" stop="20250324204900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48 horas</title>
+    <sub-title lang="es">Deslizadores</sub-title>
+    <desc lang="es">En el condado de Gwinnett, un querido maestro de educación especial es asesinado a plena luz del día, ante el fallido plan de unos ladrones por conseguir algo de dinero fácil, se les va de control.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-primeras-48-horas-s25e501-deslizadores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.500.</episode-num>
+  </programme>
+  <programme start="20250324204900 +0100" stop="20250324214300 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48 horas</title>
+    <sub-title lang="es">Amigo necesitado y asesino de buen corazón</sub-title>
+    <desc lang="es">Un hombre que se hospedaba en un hotel en estadías prolongadas, es asesinado a tiros en su habitación, luego de una noche de apuestas que se salió de control.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-primeras-48-horas-s25e503-amigo-necesitado-y-asesino-de-buen-corazon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.502.</episode-num>
+  </programme>
+  <programme start="20250324214300 +0100" stop="20250324220800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Hora de meditar</sub-title>
+    <desc lang="es">Mary está demasiado estresada por las subastas, así que decide introducir un poco de Yoga a su rutina. Mientras tanto, Ivy y Dave se disputan un par de unidades gigantes. ¿Quién ganará?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e06-hora-de-meditar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.5.</episode-num>
+  </programme>
+  <programme start="20250324220800 +0100" stop="20250324223300 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Compras divertidas</sub-title>
+    <desc lang="es">Ivy decide ir más despacio y dejar que su hijo se haga cargo. Kenny está agotado pero se llevará una gran sorpresa en uno de sus depósitos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e07-compras-divertidas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.6.</episode-num>
+  </programme>
+  <programme start="20250324223300 +0100" stop="20250324225800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Con chances de ganar</sub-title>
+    <desc lang="es">Darrel saca provecho en Van Nuys, Ivy recibe una sorpresa inesperada. Brandi y Jarrod dudan acerca del verdadero valor de su contenedor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e08-con-chances-de-ganar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.7.</episode-num>
+  </programme>
+  <programme start="20250324225800 +0100" stop="20250324232300 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Los contrincantes también ofertan</sub-title>
+    <desc lang="es">Hay un depósito que todos quieren comprar, pero solo Dave puede moverlo. Mary tiene un golpe de suerte y encuentra un pequeño tesoro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e09-los-contrincantes-tambien-ofertan_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.8.</episode-num>
+  </programme>
+  <programme start="20250324232300 +0100" stop="20250324234800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">El tour</sub-title>
+    <desc lang="es">Dave se queda con un depósito que resulta ser "terapéutico", y Justin quiere enseñarle a todos cómo sacar el máximo provecho de una unidad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s11e27-el-tour_l_l.jpg"/>
+    <episode-num system="xmltv_ns">10.26.</episode-num>
+  </programme>
+  <programme start="20250324234800 +0100" stop="20250325011800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Gente de bien</title>
+    <title lang="xx">Good People</title>
+    <desc lang="es">Historia de una joven pareja que encuentran 200.000 libras en una casa en Londres. La pareja decide quedarse con el dinero, pero a partir de entonces empiezan a ocurrir toda clase de desgracias.</desc>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_gente-de-bien-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250325011800 +0100" stop="20250325030700 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Sentenciado a morir</title>
+    <title lang="xx">Death Sentence</title>
+    <desc lang="es">Un ejecutivo tiene una vida perfecta hasta que su hijo mayor es asesinado a sangre fría por una pandilla. Desde ese momento, el hombre sólo pensará en cobrarse venganza, aunque acabe destruyendo todo lo que ama.</desc>
+    <date>2007</date>
+    <category lang="es">Crimen</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sentenciado-a-morir-2007_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250325030700 +0100" stop="20250325040000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Star Trek: Picard</title>
+    <sub-title lang="es">Dificultades en ciudad Polvoestelar</sub-title>
+    <desc lang="es">La tripulación de La Sirena comienza una expedición impredecible y llena de aventuras en Freecloud para buscar a Bruce Maddox.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250325040000 +0100" stop="20250325050200 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Star Trek: Picard</title>
+    <sub-title lang="es">La caja imposible</sub-title>
+    <desc lang="es">Picard y la tripulación siguen a Soji hasta el cubo Borg en el espacio romulano, donde Picard se enfrenta a unos recuerdos inquietantes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250325050200 +0100" stop="20250325055300 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Dime como me morí</title>
+    <sub-title lang="es">Despiadado</sub-title>
+    <desc lang="es">Tras la muerte de la segunda esposa de un pastor, muere en un trágico accidente automovilístico, surgen sospechas sobre las causas de la muerte de su primera esposa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250325055300 +0100" stop="20250325064400 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Dime como me morí</title>
+    <sub-title lang="es">Sospecha aplastante</sub-title>
+    <desc lang="es">Una joven muere en un accidente automovilístico y responsabilidad de la oficina del forense iniciar una investigación, para determinar si realmente se trató de un accidente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250325064400 +0100" stop="20250325070800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Hora de meditar</sub-title>
+    <desc lang="es">Mary está demasiado estresada por las subastas, así que decide introducir un poco de Yoga a su rutina. Mientras tanto, Ivy y Dave se disputan un par de unidades gigantes. ¿Quién ganará?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e06-hora-de-meditar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.5.</episode-num>
+  </programme>
+  <programme start="20250325070800 +0100" stop="20250325073000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Compras divertidas</sub-title>
+    <desc lang="es">Ivy decide ir más despacio y dejar que su hijo se haga cargo. Kenny está agotado pero se llevará una gran sorpresa en uno de sus depósitos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e07-compras-divertidas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.6.</episode-num>
+  </programme>
+  <programme start="20250325073000 +0100" stop="20250325075200 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Con chances de ganar</sub-title>
+    <desc lang="es">Darrel saca provecho en Van Nuys, Ivy recibe una sorpresa inesperada. Brandi y Jarrod dudan acerca del verdadero valor de su contenedor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e08-con-chances-de-ganar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.7.</episode-num>
+  </programme>
+  <programme start="20250325075200 +0100" stop="20250325081400 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Los contrincantes también ofertan</sub-title>
+    <desc lang="es">Hay un depósito que todos quieren comprar, pero solo Dave puede moverlo. Mary tiene un golpe de suerte y encuentra un pequeño tesoro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e09-los-contrincantes-tambien-ofertan_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.8.</episode-num>
+  </programme>
+  <programme start="20250325081400 +0100" stop="20250325085900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Intervención</title>
+    <sub-title lang="es">Danielle</sub-title>
+    <desc lang="es">Al no superar el desamor de su alcohólico padre, Danielle se inflingía cortaduras que la hicieron dependiente al calmante Percocet, cuys efectos destroza los corazones de sus seres queridos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_intervencion-s06e09-danielle_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+  </programme>
+  <programme start="20250325085900 +0100" stop="20250325094400 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Intervención</title>
+    <sub-title lang="es">Canada: Shannon</sub-title>
+    <desc lang="es">Shannon, una devota rescatadora de animales, desarrolló una adicción a las drogas como consecuencia del trauma infantil, el abuso sexual y las relaciones tóxicas. Es una mezcla explosiva que alimenta su adicción y arriezga su vida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_intervencion-s21e76-canada-shannon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">20.75.</episode-num>
+  </programme>
+  <programme start="20250325094400 +0100" stop="20250325102900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48 horas</title>
+    <sub-title lang="es">Callejón</sub-title>
+    <desc lang="es">detective Jason White, del departamento de homicidios de Tulsa, se enfrenta a su caso número 100. Para poder resolver el asesinato de un hombre que fue baleado al borde de la carretera, deberá analizar las pistas de una ola de crímenes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-primeras-48-horas-s25e500-callejon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.499.</episode-num>
+  </programme>
+  <programme start="20250325102900 +0100" stop="20250325111500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48 horas</title>
+    <sub-title lang="es">Deslizadores</sub-title>
+    <desc lang="es">En el condado de Gwinnett, un querido maestro de educación especial es asesinado a plena luz del día, ante el fallido plan de unos ladrones por conseguir algo de dinero fácil, se les va de control.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-primeras-48-horas-s25e501-deslizadores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.500.</episode-num>
+  </programme>
+  <programme start="20250325111500 +0100" stop="20250325120000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Las primeras 48 horas</title>
+    <sub-title lang="es">Amigo necesitado y asesino de buen corazón</sub-title>
+    <desc lang="es">Un hombre que se hospedaba en un hotel en estadías prolongadas, es asesinado a tiros en su habitación, luego de una noche de apuestas que se salió de control.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_las-primeras-48-horas-s25e503-amigo-necesitado-y-asesino-de-buen-corazon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.502.</episode-num>
+  </programme>
+  <programme start="20250325120000 +0100" stop="20250325122700 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¡Alto! Frontera</title>
+    <desc lang="es">En Colombia, los efectivos se disponen a realizar el control de rutina de pasajeros, antes de abordar un vuelo con destino a Buenos Aires. Entonces, los agentes sospechan de una pasajera que viaja con una menor de edad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_alto-frontera-s03e12_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+  </programme>
+  <programme start="20250325122700 +0100" stop="20250325123000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Preso: primer día</title>
+    <desc lang="es">El hombre mayor que fue arrestado por conducir ebrio un carro de golf pasa su resaca en la estación y al despertar se le notifica acerca de su negación a presentar la prueba de alcohol y de los cargos que le imputaron.</desc>
+    <category lang="es">- Un viejo terco</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+  </programme>
+  <programme start="20250325123000 +0100" stop="20250325131500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Diana y Dolores</sub-title>
+    <desc lang="es">Diana perdió el control sobre su manía de acumular cosas. Ahora, la denuncia de un vecino puede hacerle perder su casa si no la limpia. Dolores, por su parte, solía vender antigüedades hasta que su hobby se convirtió en enfermedad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e12-diana-y-dolores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.11.</episode-num>
+  </programme>
+  <programme start="20250325131500 +0100" stop="20250325140000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Acumuladores compulsivos</title>
+    <sub-title lang="es">Fuzzie y Fredd / Nancy</sub-title>
+    <desc lang="es">Un par de ex-rockeros punk, Fuzzie y Fred, que viven como si fueran adolescentes de mediana edad, trabajan en una tienda pornografica y han llenado su casa con discos, juguetes, cómics, máscaras macabras y maniquíes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_acumuladores-compulsivos-s06e13-fuzzie-y-fredd-nancy_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.12.</episode-num>
+  </programme>
+  <programme start="20250325140000 +0100" stop="20250325150000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20250325150000 +0100" stop="20250325160000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20250325160000 +0100" stop="20250325162200 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Clientes en furia</title>
+    <sub-title lang="es">¡Estás fuera!</sub-title>
+    <desc lang="es">Un repartidor atraviesa una ventana en una pizzería de Nueva York y un espectador lanza objetos de vidrio al escenario durante un show. Además, un fanático que corre en el estadio de los Dodgers es derribado por la recogepelotas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250325162200 +0100" stop="20250325164600 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Clientes en furia</title>
+    <sub-title lang="es">Pelea en luna llena</sub-title>
+    <desc lang="es">La amabilidad de un cliente desencadena una pelea en una tienda mientras la policía interviene en una pelea entre clientes por papel higiénico. Además, un oficial de policía retirado bloquea a un presunto ladrón para que no huya.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250325164600 +0100" stop="20250325171000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Clientes en furia</title>
+    <sub-title lang="es">Trasero en el deli</sub-title>
+    <desc lang="es">En Michigan, una mujer se cansa de esperar indefinidamente y enseña el trasero en una tienda. Luego, en Río de Janeiro, una pareja inicia una pelea en un resort de lujo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250325171000 +0100" stop="20250325173500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Más grande más sabio</sub-title>
+    <desc lang="es">Barry Weiss y Kenny se sientan junto a Brandi y los Dotson para revivir viejos tiempos para averiguar qué han estado haciendo y reunir información, ya que planea volver al mundo de las subastas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e11-mas-grande-mas-sabio_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.10.</episode-num>
+  </programme>
+  <programme start="20250325173500 +0100" stop="20250325180000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Payaso triste</sub-title>
+    <desc lang="es">En Victorville, California, Ivy y Pops compiten e intentan demostrar la mejor rentabilidad. El arma secreta de Brandi le trae problemas, pero afortunadamente Kenny está allí para alegrarle el día.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e282-payaso-triste_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.281.</episode-num>
+  </programme>
+  <programme start="20250325180000 +0100" stop="20250325182500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Viejo joven</sub-title>
+    <desc lang="es">Un grupo de peculiares oportunistas participa de subastas de unidades de almacenamiento no reclamadas con la esperanza de encontrar oro. Los postores solo pueden observar el interior unos breves instantes antes de ofertar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e283-viejo-joven_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.282.</episode-num>
+  </programme>
+  <programme start="20250325182500 +0100" stop="20250325185000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Los motociclistas</sub-title>
+    <desc lang="es">Barry llega a Riverside con un postor aliado y enmascarado. ¿Qué estrategia desarrollarán para quedarse con los contenedores subastados? Mientras tanto, Brandi y Danielle reciben bolas misteriosas que las transportan a Sudamérica.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e284-los-motociclistas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.283.</episode-num>
+  </programme>
+  <programme start="20250325185000 +0100" stop="20250325191500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Oferta científica</sub-title>
+    <desc lang="es">Ivy y su hijo intentan quedarse con un casillero que parece contener un equipo deportivo misterioso, por lo que René no permite que se aprovechen de él y consigue una gran victoria.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e16-oferta-cientifica_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.15.</episode-num>
+  </programme>
+  <programme start="20250325191500 +0100" stop="20250325202000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Star Trek: Picard</title>
+    <sub-title lang="es">La caja imposible</sub-title>
+    <desc lang="es">Picard y la tripulación siguen a Soji hasta el cubo Borg en el espacio romulano, donde Picard se enfrenta a unos recuerdos inquietantes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250325202000 +0100" stop="20250325204500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Un austríaco suelto en Perris</sub-title>
+    <desc lang="es">Brandi se mantiene con actitud positiva en la subasta de Perris. Mientras tanto, Darrell consigue una unidad llena de bolsos vintage y Gunter</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e18-un-austriaco-suelto-en-perris_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.17.</episode-num>
+  </programme>
+  <programme start="20250325204500 +0100" stop="20250325211000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Nada mal para un día de subastas</sub-title>
+    <desc lang="es">San Bernardino, California, saca al guerrero interno de Ivy, que se enfrenta a un comprador difícil. Kenny tiene el ojo puesto en un casillero que lo deja necesitando un masaje.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e19-nada-mal-para-un-dia-de-subastas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.18.</episode-num>
+  </programme>
+  <programme start="20250325211000 +0100" stop="20250325213500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Tesoros de Asia</sub-title>
+    <desc lang="es">En Santa Ana, Brandi deja que Danielle tome las riendas del asunto y sus subastas se terminan convirtiendo en toda una experiencia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e20-tesoros-de-asia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.19.</episode-num>
+  </programme>
+  <programme start="20250325213500 +0100" stop="20250325220000 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Vestida para ganar</sub-title>
+    <desc lang="es">En la subasta de Riverside, Brandi decide presentarse vestida de forma llamativa para atraer todas las miradas y distraer a la competencia. ¿Funcionará? Más tarde, René podría apostar por más de lo que es capaz de manejar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s13e21-vestida-para-ganar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.20.</episode-num>
+  </programme>
+  <programme start="20250325220000 +0100" stop="20250325222500 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Con chances de ganar</sub-title>
+    <desc lang="es">Darrel saca provecho en Van Nuys, Ivy recibe una sorpresa inesperada. Brandi y Jarrod dudan acerca del verdadero valor de su contenedor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e08-con-chances-de-ganar_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.7.</episode-num>
+  </programme>
+  <programme start="20250325222500 +0100" stop="20250325224900 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">¿Quién da má$?</title>
+    <sub-title lang="es">Los contrincantes también ofertan</sub-title>
+    <desc lang="es">Hay un depósito que todos quieren comprar, pero solo Dave puede moverlo. Mary tiene un golpe de suerte y encuentra un pequeño tesoro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_quien-da-ma-s12e09-los-contrincantes-tambien-ofertan_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.8.</episode-num>
+  </programme>
+  <programme start="20250325224900 +0100" stop="20250326003800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Sentenciado a morir</title>
+    <title lang="xx">Death Sentence</title>
+    <desc lang="es">Un ejecutivo tiene una vida perfecta hasta que su hijo mayor es asesinado a sangre fría por una pandilla. Desde ese momento, el hombre sólo pensará en cobrarse venganza, aunque acabe destruyendo todo lo que ama.</desc>
+    <date>2007</date>
+    <category lang="es">Crimen</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_sentenciado-a-morir-2007_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250326003800 +0100" stop="20250326025800 +0100" channel="ZCL• A&amp;E (HD)">
+    <title lang="es">Jack Reacher</title>
+    <desc lang="es">Jack Reacher, un antiguo policía militar que vive como un vagabundo y que trabaja por su cuenta, decide investigar el caso de un francotirador que ha sido acusado de matar a cinco personas en un tiroteo.</desc>
+    <date>2012</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_jack-reacher-2012_l_l.jpg"/>
   </programme>
   <programme start="20250324035500 +0100" stop="20250324044200 +0100" channel="ZCL• DISCOVERY TLC (HD)">
     <title lang="es">Gran-diosa</title>
