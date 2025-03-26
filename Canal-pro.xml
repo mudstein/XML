@@ -194,7 +194,7 @@
   </channel>
   <channel id="ZCL• NATGEO (HD)">
     <display-name lang="es">ZCL• NATGEO (HD)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png"/>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_national-geographic_m.png"/>
   </channel>
   <channel id="ZCL• DISCOVERY TURBO (HD)">
     <display-name lang="es">ZCL• DISCOVERY TURBO (HD)</display-name>
@@ -278,7 +278,7 @@
   </channel>
   <channel id="ZCL• HTV (HD)">
     <display-name lang="es">ZCL• HTV (HD)</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/cl_htv_m.png"/>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/htv.png"/>
   </channel>
   <channel id="ZCL• HBO (HD)">
     <display-name lang="es">ZCL• HBO (HD)</display-name>
@@ -343,6 +343,14 @@
   <channel id="ZCL• ZONA LATINA (HD)">
     <display-name lang="es">ZCL• ZONA LATINA (HD)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_zona-latina_m.png"/>
+  </channel>
+  <channel id="TNT Sports - Chile">
+    <display-name lang="es">TNT Sports - Chile</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
+  <channel id="TNT Sports Premium - Chile">
+    <display-name lang="es">TNT Sports Premium - Chile</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
   </channel>
   <programme start="20250326035500 +0100" stop="20250326042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
@@ -13995,29 +14003,79 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_news_l_l.jpg"/>
   </programme>
-  <programme start="20250326020000 -0300" stop="20250326060000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326020000 -0300" stop="20250326021500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">La Tienda en Casa</title>
   </programme>
-  <programme start="20250326060000 -0300" stop="20250326100000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326021500 -0300" stop="20250326045500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Noticias de la mañana</title>
   </programme>
-  <programme start="20250326100000 -0300" stop="20250326140000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326045500 -0300" stop="20250326092000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Espejo Público</title>
   </programme>
-  <programme start="20250326140000 -0300" stop="20250326180000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326092000 -0300" stop="20250326094500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
   </programme>
-  <programme start="20250326180000 -0300" stop="20250326220000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326094500 -0300" stop="20250326110000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/la_ruleta_de_la_suerte.jpg"/>
   </programme>
-  <programme start="20250326220000 -0300" stop="20250327020000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326110000 -0300" stop="20250326113000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Noticias 1</title>
   </programme>
-  <programme start="20250327220000 -0300" stop="20250328020000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326113000 -0300" stop="20250326113500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Deportes</title>
   </programme>
-  <programme start="20250328020000 -0300" stop="20250328060000 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">Programa a determinar</title>
+  <programme start="20250326113500 -0300" stop="20250326114500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Tu Tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20250326114500 -0300" stop="20250326130000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Sueños de libertad</title>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20250326130000 -0300" stop="20250326160000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Y ahora Sonsoles</title>
+  </programme>
+  <programme start="20250326160000 -0300" stop="20250326170000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Pasapalabra</title>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20250326170000 -0300" stop="20250326173000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20250326173000 -0300" stop="20250326173500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Deportes</title>
+  </programme>
+  <programme start="20250326173500 -0300" stop="20250326174500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Tu Tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20250326174500 -0300" stop="20250326185000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">El hormiguero</title>
+    <episode-num system="onscreen">S19 E109</episode-num>
+  </programme>
+  <programme start="20250326185000 -0300" stop="20250326210500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">La madre del novio</title>
+  </programme>
+  <programme start="20250326210500 -0300" stop="20250326224000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20250326224000 -0300" stop="20250326232500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">The game show</title>
+  </programme>
+  <programme start="20250326232500 -0300" stop="20250327002500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Play Uzu Nights</title>
+  </programme>
+  <programme start="20250327232500 -0300" stop="20250328002500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Play Uzu Nights</title>
+  </programme>
+  <programme start="20250328002500 -0300" stop="20250328020000 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Ventaprime</title>
+  </programme>
+  <programme start="20250328020000 -0300" stop="20250328021500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">La Tienda en Casa</title>
+  </programme>
+  <programme start="20250328021500 -0300" stop="20250328045500 -0300" channel="ZCL• ANTENA 3 (HD)">
+    <title lang="es">Noticias de la mañana</title>
   </programme>
   <programme start="20250326040000 +0100" stop="20250326051000 +0100" channel="ZCL• A&amp;E (HD)">
     <title lang="es">Star Trek: Picard</title>
@@ -14438,28 +14496,22 @@
   <programme start="20250326020000 -0300" stop="20250326024000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Más de series</title>
   </programme>
-  <programme start="20250326024000 -0300" stop="20250326035500 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250326024000 -0300" stop="20250326051500 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Con El Culo Al Aire</title>
   </programme>
-  <programme start="20250326035500 -0300" stop="20250326064500 -0300" channel="ZCL• A3 SERIES (HD)">
-    <title lang="es">Con El Culo Al Aire</title>
-  </programme>
-  <programme start="20250326064500 -0300" stop="20250326091000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250326051500 -0300" stop="20250326083000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-  <programme start="20250326091000 -0300" stop="20250326150000 -0300" channel="ZCL• A3 SERIES (HD)">
-    <title lang="es">Rex, un policía diferente</title>
-  </programme>
-  <programme start="20250326150000 -0300" stop="20250326182000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250326083000 -0300" stop="20250326170000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">El Mentalista</title>
     <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
   </programme>
-  <programme start="20250326182000 -0300" stop="20250326220000 -0300" channel="ZCL• A3 SERIES (HD)">
-    <title lang="es">Vera</title>
+  <programme start="20250326170000 -0300" stop="20250326220000 -0300" channel="ZCL• A3 SERIES (HD)">
+    <title lang="es">Los misterios de laura</title>
   </programme>
   <programme start="20250326220000 -0300" stop="20250326224500 -0300" channel="ZCL• A3 SERIES (HD)">
-    <title lang="es">Live Casino</title>
+    <title lang="es">The game show</title>
   </programme>
   <programme start="20250326224500 -0300" stop="20250327020000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
@@ -19725,7 +19777,7 @@
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Islandia increíble</sub-title>
     <desc lang="es">Gordon visita la costa oeste de Islandia para descubrir ingredientes y técnicas de cocina que utilizan el paisaje volcánico nativo de la tierra del fuego y el hielo.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_gordon-ramsay-sabores-extremos-s03e06-puerto-rico_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gordon-ramsay-sabores-extremos-s03e06-puerto-rico_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.5.</episode-num>
   </programme>
   <programme start="20250326043900 +0100" stop="20250326053500 +0100" channel="ZCL• NATGEO (HD)">
@@ -19739,7 +19791,7 @@
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Bajo el Pacífico</sub-title>
     <desc lang="es">Este episodio investigará el misterio del vuelo 261 de Alaska Airlines, que de pronto se volteó y cayó en picada hacia el Pacífico.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_mayday-catastrofes-aereas-s22e05-catastrofe-en-control_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mayday-catastrofes-aereas-s22e05-catastrofe-en-control_l_l.jpg"/>
     <episode-num system="xmltv_ns">21.4.</episode-num>
   </programme>
   <programme start="20250326061900 +0100" stop="20250326070300 +0100" channel="ZCL• NATGEO (HD)">
@@ -19753,48 +19805,48 @@
     <title lang="es">Solo contra el mundo</title>
     <sub-title lang="es">En el desierto</sub-title>
     <desc lang="es">Hazen Audel sale a realizar una épica travesía que imita el tradicional viaje de los nómades bereber desde el abrasador desierto a una de las pocas fuentes de agua en esta parte del Sahara: un oasis.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_solo-contra-el-mundo-s01e08-dentro-de-aguas-violentas_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_solo-contra-el-mundo-s01e08-dentro-de-aguas-violentas_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
   <programme start="20250326074700 +0100" stop="20250326083100 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Corte y confesión</sub-title>
     <desc lang="es">Un pasajero que lleva una abultada mochila de alta montaña y dos ciudadanos nigerianos, llaman la atención de los agentes de estupefacientes; y un joven es investigado cuando los oficiales sospechan de su verdadera identidad.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_alerta-aeropuerto-s04e02-corte-y-confesion_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s04e02-corte-y-confesion_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.1.</episode-num>
   </programme>
   <programme start="20250326083100 +0100" stop="20250326091600 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Reincidentes</sub-title>
     <desc lang="es">La Policía Nacional detecta a posibles pasantes y debe revisarlos hasta confirmar o descartar sus sospechas. El grupo de extranjería investiga la verdadera identidad de una pasajera que dice ser colombiana.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_alerta-aeropuerto-s04e04-reincidentes_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s04e04_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.3.</episode-num>
   </programme>
   <programme start="20250326091600 +0100" stop="20250326100000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">El salvaje oeste</sub-title>
     <desc lang="es">En este episodio descubriremos cómo era realmente la vida en el Salvaje Oeste.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_secreto-en-los-oceanos-s04e04-el-salvaje-oeste_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_secreto-en-los-oceanos-s04e04-el-salvaje-oeste_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.3.</episode-num>
   </programme>
   <programme start="20250326100000 +0100" stop="20250326104400 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Traficantes</title>
     <sub-title lang="es">Laboratorio desmantelado</sub-title>
     <desc lang="es">La Oficina de Aduanas y Protección Fronteriza encuentra fentanilo y un baúl lleno de metanfetamina. Después, la HSI confisca 50 kilos de metanfetamina líquida. Y la Oficina de Atlanta encuentra más contrabando en vuelos internacionales.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_traficantes-s03e12-laboratorio-desmantelado_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_traficantes-s03e12-laboratorio-desmantelado_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.11.</episode-num>
   </programme>
   <programme start="20250326104400 +0100" stop="20250326110000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Programación especial</title>
     <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
     <category lang="es">Especial</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_programacion-especial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_programacion-especial_l_l.jpg"/>
   </programme>
   <programme start="20250326110000 +0100" stop="20250326115000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Secreto en los océanos</title>
     <sub-title lang="es">Rescate en cueva tailandesa</sub-title>
     <desc lang="es">Secreto en los Océanos realiza el primer estudio preciso en 3D de una caverna tailandesa, donde se planeo una misión de vida o muerte para salvar a 12 niños de la cueva inundada.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_secreto-en-los-oceanos-s02e08-thai-cave-rescue_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_secreto-en-los-oceanos-s02e08-thai-cave-rescue_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.7.</episode-num>
   </programme>
   <programme start="20250326115000 +0100" stop="20250326130000 +0100" channel="ZCL• NATGEO (HD)">
@@ -19808,131 +19860,131 @@
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326133000 +0100" stop="20250326140000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326140000 +0100" stop="20250326143000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326143000 +0100" stop="20250326150000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326150000 +0100" stop="20250326153000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326153000 +0100" stop="20250326160000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326160000 +0100" stop="20250326163000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326163000 +0100" stop="20250326172000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
     <category lang="es">Publicidad</category>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_infomercial_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
   </programme>
   <programme start="20250326172000 +0100" stop="20250326182000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Salvajemente famosos</title>
     <sub-title lang="es">Cara Delevingne en las montañas de Cerdeña</sub-title>
     <desc lang="es">Cara Delevingne, actriz, supermodelo e influencer, cumple su sueño de acompañar a Bear Grylls en una aventura. Bear le muestra a Cara cómo superar obstáculos y a hacer rappel en una peligrosa cascada..</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_salvajemente-famosos-s05e04-cara-delevingne-en-las-montanas-de-cerdena_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_salvajemente-famosos-s05e04-cara-delevingne-en-las-montanas-de-cerdena_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.3.</episode-num>
   </programme>
   <programme start="20250326182000 +0100" stop="20250326191800 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Solo contra el mundo</title>
     <sub-title lang="es">Emboscada en la selva</sub-title>
     <desc lang="es">Hazen viaja en busca de la tribu Mani, antiguos cazadores-recolectores que usan cerbatanas armadas con dardos con punta venenosa. Antes de unirse a la cacería, Hazen debe demostrar que puede sobrevivir solo en esta peligrosa tierra.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_solo-contra-el-mundo-s05e02-emboscada-en-la-selva_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_solo-contra-el-mundo-s05e02-emboscada-en-la-selva_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.1.</episode-num>
   </programme>
   <programme start="20250326191800 +0100" stop="20250326201300 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Imperio salvaje</title>
     <sub-title lang="es">La rebelión</sub-title>
     <desc lang="es">Los residentes de la selva se vuelven contra un leopardo huérfano, Motsidi, mientras las hienas causan estragos, aprovechando la debilidad de Mogolo, un perro salvaje africano.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_imperio-salvaje-s04e02-la-rebelion_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_imperio-salvaje-s04e02-la-rebelion_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.1.</episode-num>
   </programme>
   <programme start="20250326201300 +0100" stop="20250326211000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Serpientes en la ciudad</title>
     <sub-title lang="es">Monstruo bajo la cama</sub-title>
     <desc lang="es">Los audaces cazadores de serpientes Simon Keys y Siouxsie Gillett corren por la ciudad para salvar la vida de un niño. Una mortal cobra de Mozambique escupe a Siouxsie, y Simon rescata una serpiente con una lesión en el pene.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_serpientes-en-la-ciudad-s04e05-monstruo-bajo-la-cama_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_serpientes-en-la-ciudad-s04e05-monstruo-bajo-la-cama_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.4.</episode-num>
   </programme>
   <programme start="20250326211000 +0100" stop="20250326220800 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Despegues trágicos</sub-title>
     <desc lang="es">Un vuelo temprano en la mañana desde Lexington, Kentucky, termina en desastre cuando un avión bimotor se sale de la pista.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_mayday-catastrofes-aereas-s21e03-accidente-costoso_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mayday-catastrofes-aereas-s21e03-accidente-costoso_l_l.jpg"/>
     <episode-num system="xmltv_ns">20.2.</episode-num>
   </programme>
   <programme start="20250326220800 +0100" stop="20250326230500 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Ciudades perdidas con Albert Lin</title>
     <sub-title lang="es">El Dorado: la ciudad de oro</sub-title>
     <desc lang="es">El explorador y científico Albert Lin viaja a Colombia, en América del Sur, para descubrir la verdad detrás de las leyendas de El Dorado.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_ciudades-perdidas-con-albert-lin-s01e02-el-dorado-la-ciudad-de-oro_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ciudades-perdidas-con-albert-lin-s01e02-el-dorado-la-ciudad-de-oro_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
   <programme start="20250326230500 +0100" stop="20250327000300 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Alerta aeropuerto</title>
     <desc lang="es">Tres extranjeros intentan dejar el país con documentos falsos, un pasajero que lleva cocaína asegura haber sido engañado, y un vuelo con ciudadanos deportados de Estados Unidos alerta a la seguridad.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_alerta-aeropuerto-s01e03_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s01e03_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
   <programme start="20250327000300 +0100" stop="20250327010000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Alerta aeropuerto</title>
     <sub-title lang="es">Destino criminal</sub-title>
     <desc lang="es">Los oficiales de la Dirección Antidrogas hacen frente a un pasante que se niega a colaborar y detienen otros intentos de tráfico que podrían ser claves para rastrear a los narcotraficantes detrás de los riesgosos envíos.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_alerta-aeropuerto-s03e12-crimen-oculto_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s03e12-destino-criminal_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.11.</episode-num>
   </programme>
   <programme start="20250327010000 +0100" stop="20250327020000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Mayday: catástrofes aéreas</title>
     <sub-title lang="es">Colisión catastrófica</sub-title>
     <desc lang="es">Investigadores alemanes quedan desconcertados cuando dos aviones colisionan en vuelo, en el sur de Alemania.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_mayday-catastrofes-aereas-s24e81-colision-catastrofica_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mayday-catastrofes-aereas-s24e81-colision-catastrofica_l_l.jpg"/>
     <episode-num system="xmltv_ns">23.80.</episode-num>
   </programme>
   <programme start="20250327020000 +0100" stop="20250327025500 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Traficantes</title>
     <sub-title lang="es">Que el aguacate no te delate</sub-title>
     <desc lang="es">La Oficina de Investigaciones de Seguridad Nacional rastrea un camión de carga hasta Los Ángeles, donde encuentra cocaína oculta en aguacates. A su vez la CBP descubre hongos psicodélicos y desmantela una red de autos robados.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_traficantes-s08e01-que-el-aguacate-no-te-delate_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_traficantes-s08e01-que-el-aguacate-no-te-delate_l_l.jpg"/>
     <episode-num system="xmltv_ns">7.0.</episode-num>
   </programme>
   <programme start="20250327025500 +0100" stop="20250327035000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Traficantes</title>
     <sub-title lang="es">Cargamentos picantes</sub-title>
     <desc lang="es">La Oficina de Aduanas y Protección Fronteriza de los Estados Unidos en El Paso, encuentra numerosos paquetes de drogas ocultos en el interior de compartimentos improvisados de vehículos.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_traficantes-s08e04-cargamentos-picantes_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_traficantes-s08e04-cargamentos-picantes_l_l.jpg"/>
     <episode-num system="xmltv_ns">7.3.</episode-num>
   </programme>
   <programme start="20250327035000 +0100" stop="20250328035000 +0100" channel="ZCL• NATGEO (HD)">
     <title lang="es">Gordon Ramsay: sabores extremos</title>
     <sub-title lang="es">Costa accidentada de Portugal</sub-title>
     <desc lang="es">El chef Ramsay desafía olas gigantes, pesca en mar abierto y cultiva el campo para explorar y descubrir la cruda sencillez de la cocina portuguesa.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/cl_gordon-ramsay-sabores-extremos-s03e02-el-ingrediente-de-maine_l_l.jpg"/>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gordon-ramsay-sabores-extremos-s03e02-el-ingrediente-de-maine_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
   <programme start="20250326033000 +0100" stop="20250326042200 +0100" channel="ZCL• DISCOVERY TURBO (HD)">
@@ -23084,6 +23136,50 @@
     <title lang="es">Hermanos a la obra Un hogar para siempre</title>
     <sub-title lang="es">Rockeando la renovación</sub-title>
   </programme>
+  <programme start="20250326190200 -0300" stop="20250326195400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Como en casa</title>
+    <sub-title lang="es">Granero se convierte en casa familiar</sub-title>
+  </programme>
+  <programme start="20250326195400 -0300" stop="20250326204600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Sandra Lee especialista en piel</title>
+    <sub-title lang="es">Paseando a la señorita bultos</sub-title>
+  </programme>
+  <programme start="20250326204600 -0300" stop="20250326213800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Transformando casas con los El Moussa</title>
+    <sub-title lang="es">El primer viaje de Brayden</sub-title>
+  </programme>
+  <programme start="20250326213800 -0300" stop="20250326223000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Hasta que el diseño nos separe</title>
+    <sub-title lang="es">Worth the Wait</sub-title>
+  </programme>
+  <programme start="20250327213800 -0300" stop="20250327223000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Hasta que el diseño nos separe</title>
+    <sub-title lang="es">Worth the Wait</sub-title>
+  </programme>
+  <programme start="20250327223000 -0300" stop="20250327232200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Renovación sin demolición</title>
+    <sub-title lang="es">Contemporáneo personalizado</sub-title>
+  </programme>
+  <programme start="20250327232200 -0300" stop="20250328001400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Despierto en la cirugía</title>
+    <sub-title lang="es">Rubi reduce sus caderas</sub-title>
+  </programme>
+  <programme start="20250328001400 -0300" stop="20250328010600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Despierto en la cirugía</title>
+    <sub-title lang="es">Derrick se quita sus senos masculinos</sub-title>
+  </programme>
+  <programme start="20250328010600 -0300" stop="20250328015800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+    <sub-title lang="es">La religiosa; Ensangrentada; La bomba de tiempo</sub-title>
+  </programme>
+  <programme start="20250328015800 -0300" stop="20250328024800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Los doce dedos</sub-title>
+  </programme>
+  <programme start="20250328024800 -0300" stop="20250328033600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Las renovadoras</title>
+    <sub-title lang="es">Destrozando el presupuesto</sub-title>
+  </programme>
   <programme start="20250326040000 +0100" stop="20250326043000 +0100" channel="ZCL• MAS CHIC (HD)">
     <title lang="es">Fashion Week: Madrid 2024</title>
     <desc lang="es">En el segundo capítulo del MBFW Madrid, México se presentó con la firma Yakampot, HUA, con Blooming y Prima Volta llevó: Bronco a la pasarela.</desc>
@@ -25225,29 +25321,29 @@
   <programme start="20250328010000 -0300" stop="20250328040000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
     <title lang="es">Motociclismo</title>
   </programme>
-  <programme start="20250326180000 +0100" stop="20250327050000 +0100" channel="ZCL• HTV (HD)">
+  <programme start="20250326030000 -0300" stop="20250326070000 -0300" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
-    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
-    <category lang="es">Interés general</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250327050000 +0100" stop="20250327130000 +0100" channel="ZCL• HTV (HD)">
+  <programme start="20250326070000 -0300" stop="20250326110000 -0300" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
-    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
-    <category lang="es">Interés general</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250327130000 +0100" stop="20250327180000 +0100" channel="ZCL• HTV (HD)">
+  <programme start="20250326110000 -0300" stop="20250326150000 -0300" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
-    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
-    <category lang="es">Interés general</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250327180000 +0100" stop="20250328180000 +0100" channel="ZCL• HTV (HD)">
+  <programme start="20250326150000 -0300" stop="20250326190000 -0300" channel="ZCL• HTV (HD)">
     <title lang="es">HTV</title>
-    <desc lang="es">Desde su nacimiento en 1995 HTV ha sido la señal vanguardia, por excelencia, del estilo de vida "latino". Un vehículo de la cultura latina con los videoclips de ayer y hoy de los ritmos musicales más contagiosos de Latinoámerica.</desc>
-    <category lang="es">Interés general</category>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250326190000 -0300" stop="20250326230000 -0300" channel="ZCL• HTV (HD)">
+    <title lang="es">HTV</title>
+  </programme>
+  <programme start="20250326230000 -0300" stop="20250327030000 -0300" channel="ZCL• HTV (HD)">
+    <title lang="es">HTV</title>
+  </programme>
+  <programme start="20250327230000 -0300" stop="20250328030000 -0300" channel="ZCL• HTV (HD)">
+    <title lang="es">HTV</title>
+  </programme>
+  <programme start="20250328030000 -0300" stop="20250328070000 -0300" channel="ZCL• HTV (HD)">
+    <title lang="es">HTV</title>
   </programme>
   <programme start="20250326010000 +0100" stop="20250326040500 +0100" channel="ZCL• HBO (HD)">
     <title lang="es">Oppenheimer</title>
@@ -26396,11 +26492,11 @@
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20250325233500 -0300" stop="20250326002500 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
-    <title lang="es">FBI Most Wanted</title>
+    <title lang="es">FBI: Most Wanted</title>
     <episode-num system="onscreen">S4 E8</episode-num>
   </programme>
   <programme start="20250326002500 -0300" stop="20250326011500 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
-    <title lang="es">FBI Most Wanted</title>
+    <title lang="es">FBI: Most Wanted</title>
     <episode-num system="onscreen">S4 E9</episode-num>
   </programme>
   <programme start="20250326011500 -0300" stop="20250326021500 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
@@ -26466,11 +26562,11 @@
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
   <programme start="20250326143000 -0300" stop="20250326151500 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
-    <title lang="es">FBI Most Wanted</title>
+    <title lang="es">FBI: Most Wanted</title>
     <episode-num system="onscreen">S4 E8</episode-num>
   </programme>
   <programme start="20250326151500 -0300" stop="20250326160000 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
-    <title lang="es">FBI Most Wanted</title>
+    <title lang="es">FBI: Most Wanted</title>
     <episode-num system="onscreen">S4 E9</episode-num>
   </programme>
   <programme start="20250326160000 -0300" stop="20250326164500 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
@@ -26516,11 +26612,11 @@
     <episode-num system="onscreen">S7 E3</episode-num>
   </programme>
   <programme start="20250327232000 -0300" stop="20250328000500 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
-    <title lang="es">FBI Most Wanted</title>
+    <title lang="es">FBI: Most Wanted</title>
     <episode-num system="onscreen">S4 E10</episode-num>
   </programme>
   <programme start="20250328000500 -0300" stop="20250328005000 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
-    <title lang="es">FBI Most Wanted</title>
+    <title lang="es">FBI: Most Wanted</title>
     <episode-num system="onscreen">S4 E11</episode-num>
   </programme>
   <programme start="20250328005000 -0300" stop="20250328015000 -0300" channel="ZCL• UNIVERSAL PREMIERE (HD)">
@@ -28142,5 +28238,158 @@
     <desc lang="es">Entretención, farándula y exclusivas del mundo del espectáculo, donde toda la comunidad puede participar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.17.</episode-num>
+  </programme>
+  <programme start="20250326040000 +0100" stop="20250326053000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326053000 +0100" stop="20250326063000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">Post partido</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-post-partido-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250326063000 +0100" stop="20250326080000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250326080000 +0100" stop="20250326100000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250326100000 +0100" stop="20250326143000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326143000 +0100" stop="20250326153000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250326153000 +0100" stop="20250326163000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250326163000 +0100" stop="20250326180000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326180000 +0100" stop="20250326203000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250326203000 +0100" stop="20250326213000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250326213000 +0100" stop="20250326230000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326230000 +0100" stop="20250327010000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250327010000 +0100" stop="20250328010000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250328010000 +0100" stop="20250328073000 +0100" channel="TNT Sports - Chile">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326040000 +0100" stop="20250326050000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">Post partido</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-post-partido-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250326050000 +0100" stop="20250326055500 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">Hernán "Clavito" Godoy</title>
+    <desc lang="es">Un espacio dedicado a los verdaderos hinchas del deporte y cada acontecimiento que ocurre en este apasioanante mundo. Noticias,información y entrevistas con los protagonistas de cada disciplina para estar al día con la actualidad deportiva.</desc>
+    <category lang="es">Te quiero ver</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250326055500 +0100" stop="20250326072500 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326072500 +0100" stop="20250326082500 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">Post partido</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-post-partido-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250326082500 +0100" stop="20250326100000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250326100000 +0100" stop="20250326123500 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250326123500 +0100" stop="20250326223000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">TNT Sports</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250326223000 +0100" stop="20250326233000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250326233000 +0100" stop="20250327010000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250327010000 +0100" stop="20250327030000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250327030000 +0100" stop="20250328030000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">TNT Sports</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250328030000 +0100" stop="20250328090000 +0100" channel="TNT Sports Premium - Chile">
+    <title lang="es">TNT Sports</title>
+    <category lang="es">Variedades</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_tnt-sports_l_l.jpg"/>
   </programme>
 </tv>
