@@ -381,7 +381,7 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png"/>
   </channel>
   <channel id="Canal Discovery Investigation">
-    <display-name lang="es">Discovery Investigation</display-name>
+    <display-name lang="es">Canal Discovery Investigation</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png"/>
   </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
