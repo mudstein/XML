@@ -368,6 +368,10 @@
     <display-name lang="es">Canal TLC - México</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tlc.png"/>
   </channel>
+  <channel id="Canal History - Mexico">
+    <display-name lang="es">Canal History - Mexico</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_history_m.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -27435,5 +27439,375 @@
   <programme start="20250329021700 -0300" stop="20250329030800 -0300" channel="Canal TLC - México">
     <title lang="es">Todo en 90 días desde casa ¿f</title>
     <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20250327040000 +0100" stop="20250327045400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Mil maneras de morir</sub-title>
+    <desc lang="es">¿Sabías que las barbas pueden ser mortales? ¿O que una vez una cortadora de césped, mató a un espectador en un partido de fútbol? Éstas son solo algunas de las muertes más raras, locas y salvajemente increíbles que hayan ocurrido.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+  </programme>
+  <programme start="20250327045400 +0100" stop="20250327054800 +0100" channel="Canal History - Mexico">
+    <title lang="es">Maravillas siniestras</title>
+    <sub-title lang="es">Dispositivos mortales</sub-title>
+    <desc lang="es">Los oscuros orígenes de algunos de los métodos de ejecución más famosos de la historia de la humanidad, desde la guillotina hasta la escalofriante silla eléctrica. Además, los investigadores se preguntan cuál técnica fue más eficiente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250327054800 +0100" stop="20250327064200 +0100" channel="Canal History - Mexico">
+    <title lang="es">Secretos de guerra</title>
+    <sub-title lang="es">Luz en lo oscuro</sub-title>
+    <desc lang="es">El contraespionaje crece en cada una de las capitales latinoamericanas y agentes atraviesan fronteras y fogonean en los gabinetes presidenciales. Las redes clandestinas expanden sus conexiones con la sociedad civil y el mundo industrial.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_secretos-de-guerra-s01e03-luz-en-lo-oscuro_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327064200 +0100" stop="20250327074400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Mitos: los grandes misterios de la humanidad</title>
+    <sub-title lang="es">El Santo Grial</sub-title>
+    <desc lang="es">El Santo Grial es uno de los objetos de culto más buscados en los últimos dos mil años. La historiadora del arte Ana Mafe García y el historiador Michael Hesemann siguen su pista milenaria desde Jerusalén, hasta Roma y España.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327074400 +0100" stop="20250327083000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">NBA de colección</sub-title>
+    <desc lang="es">Un vendedor llega a la tienda con algunos de los artículos de la NBA, más coleccionables de todos los tiempos. Rick y su equipo sienten que tendrán que dar el 110% para ganar este juego.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s25e93-nba-de-coleccion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.92.</episode-num>
+  </programme>
+  <programme start="20250327083000 +0100" stop="20250327090000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Top 10: secretos y misterios</title>
+    <sub-title lang="es">Desapariciones sin resolver</sub-title>
+    <desc lang="es">A lo largo de la historia ha habido desapariciones de personas que, tras ser objeto de búsquedas masivas y callejones sin salida, fueron declaradas legalmente muertas. Sin embargo, sus cuerpos nunca fueron recuperados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20250327090000 +0100" stop="20250327093100 +0100" channel="Canal History - Mexico">
+    <title lang="es">Top 10: secretos y misterios</title>
+    <sub-title lang="es">Misterios de la Segunda Guerra Mundial</sub-title>
+    <desc lang="es">Ningún período de la época moderna ha sido objeto de mayor escrutinio, por parte de los historiadores que la segunda guerra mundial. Sin embargo, aún existen varias preguntas sin respuesta sobre este conflicto armado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20250327093100 +0100" stop="20250327103400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Hombres de la montaña</title>
+    <sub-title lang="es">Marea cambiante</sub-title>
+    <desc lang="es">En Wyoming, Josh protege a una bisonte durante el parto. En Alaska, Mike ve osos enormes en la Isla Kodiak. Martha y Elli recogen almejas y exploran sus raíces nativas en la costa. Jake construye su taller a pesar de los vientos en Montana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hombres-de-la-montana-s11e12-marea-cambiante_l_l.jpg"/>
+    <episode-num system="xmltv_ns">10.11.</episode-num>
+  </programme>
+  <programme start="20250327103400 +0100" stop="20250327112400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Exploración Azteca</title>
+    <sub-title lang="es">El choque de dos mundos</sub-title>
+    <desc lang="es">¿Porqué habría caido el imperio más poderoso de América ante los españoles?. Iremos de buceo en busca de los restos de los antiguos bergantines españoles.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_exploracion-azteca-s01e04-el-choque-de-dos-mundos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327112400 +0100" stop="20250327120600 +0100" channel="Canal History - Mexico">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Lo que no vemos allá abajo</sub-title>
+    <desc lang="es">A veces, las cosas más extrañas del planeta se encuentran bajo tierra. Desde túneles tallados por perezosos gigantes, hasta trucos para evitar que los muertos vuelvan a levantarse.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20250327120600 +0100" stop="20250327130000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Gigantes de la industria</title>
+    <sub-title lang="es">El automóvil</sub-title>
+    <desc lang="es">Un joven ingeniero llamado Henry Ford, idea los planos para un automóvil propulsado por gasolina. McKinley es asesinado y su vicepresidente Theodore Roosevelt asume el cargo, generando regulaciónes para las empresas privadas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_gigantes-de-la-industria-s05e08-el-automovil_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.7.</episode-num>
+  </programme>
+  <programme start="20250327130000 +0100" stop="20250327134500 +0100" channel="Canal History - Mexico">
+    <title lang="es">Gigantes de la industria: Mega marcas</title>
+    <sub-title lang="es">Higiene personal</sub-title>
+    <desc lang="es">James Gamble y Harley Procter crearon un jabón que lo cambió todo y abrieron un nuevo mercado para los emprendedores de la industria del cuidado personal, al igual que King Gillette y Jacob Schick.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327134500 +0100" stop="20250327143100 +0100" channel="Canal History - Mexico">
+    <title lang="es">Gigantes de las máquinas</title>
+    <sub-title lang="es">Reyes de las motocicletas</sub-title>
+    <desc lang="es">A finales del siglo XIX, William Harley y Arthur Davidson idean una novedosa y audaz forma de viajar en solitario: conectar un motor a una bicicleta.Juntos, lucharán contra la Indian Motorcycle de George Hendee para dominar el mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327143100 +0100" stop="20250327151700 +0100" channel="Canal History - Mexico">
+    <title lang="es">Gigantes de la ingeniería</title>
+    <sub-title lang="es">El canal de Panamá</sub-title>
+    <desc lang="es">Francia y Estados Unidos compiten para construir un camino que conecte los océanos Atlántico y Pacífico. Llevarlo a cabo se cobrará más de 30 mil vidas, costará 600 millones de dólares y requerirá superar obstáculos imaginables.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327151700 +0100" stop="20250327160800 +0100" channel="Canal History - Mexico">
+    <title lang="es">¿Qué salió mal?</title>
+    <sub-title lang="es">Descarrilamiento</sub-title>
+    <desc lang="es">Un moderno tren de alta velocidad se estrella catastróficamente en España. Con solo un año en servicio, su descarrilamiento conmociona al mundo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327160800 +0100" stop="20250327165300 +0100" channel="Canal History - Mexico">
+    <title lang="es">Triángulo de las Bermudas: aguas malditas</title>
+    <sub-title lang="es">Abismo alienígena</sub-title>
+    <desc lang="es">El equipo recluta dispositivos especiales para su búsqueda más peligrosa hasta el momento, la de dos grandes aviones de la fuerza aérea que desaparecieron sin dejar rastro con docenas de personas a bordo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250327165300 +0100" stop="20250327174200 +0100" channel="Canal History - Mexico">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
+    <sub-title lang="es">Los otros sentidos</sub-title>
+    <desc lang="es">Oír, ver, saborear, oler y tocar, los cinco sentidos básicos. Algunos no los poseen todos pero otros tienen muchos más. Sanación, clarividencia, premonición, espiritismo. Son muchas las personas dotadas con facultades extrasensoriales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inexplicable-latinoamerica-con-john-leguizamo-s01e06-los-otros-sentidos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250327174200 +0100" stop="20250327183500 +0100" channel="Canal History - Mexico">
+    <title lang="es">Archivos alienígenas: reabiertos</title>
+    <sub-title lang="es">Proyecto siete corderos</sub-title>
+    <desc lang="es">Un hombre descubrió un laboratorio subterráneo pero fue engañado por la Fuerza Aérea y otro afirmó ver alienígenas y humanos, pero murió. Los investigadores se preguntan si existen casos de desinformación o verdades tapadas con mentiras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327183500 +0100" stop="20250327192700 +0100" channel="Canal History - Mexico">
+    <title lang="es">Ciudades ocultas</title>
+    <sub-title lang="es">La Tierra Santa secreta (Etiopía)</sub-title>
+    <desc lang="es">Etiopía es el hogar de algunos de los asentamientos más antiguos del mundo. Esta cuna de la humanidad es un país que nació envuelto en misterios y rodeado de leyendas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ciudades-ocultas-s03e04-la-tierra-santa-secreta-etiopia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+  </programme>
+  <programme start="20250327192700 +0100" stop="20250327211000 +0100" channel="Canal History - Mexico">
+    <title lang="es">101 objetos que cambiaron al mundo</title>
+    <desc lang="es">Algunos objetos son únicos en su especie y otros son universales, y todos nos afectan muy personalmente. Son símbolos y sin ellos definitivamente el mundo no sería el mismo.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_101-objetos-que-cambiaron-al-mundo_l_l.jpg"/>
+  </programme>
+  <programme start="20250327211000 +0100" stop="20250327225000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Revelaciones</title>
+    <sub-title lang="es">Camino a Babilonia</sub-title>
+    <desc lang="es">Dos reporteros intentan descifrar el Apocalipsis y descubrir al Anticristo. ¿Lograrán sobrevivir para ver la segunda venida de Cristo?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revelaciones-s01e02-asesinos-sonambulos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327225000 +0100" stop="20250327234000 +0100" channel="Canal History - Mexico">
+    <title lang="es">¿Qué salió mal?</title>
+    <sub-title lang="es">Explosión</sub-title>
+    <desc lang="es">Un avión explota en pleno vuelo y el piloto logra salvar la vida de 184 pasajeros. ¿Cómo pudo ocurrir este desastre?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327234000 +0100" stop="20250328003400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Gigantes de la industria: Mega marcas</title>
+    <sub-title lang="es">Competencia de Sneakers</sub-title>
+    <desc lang="es">Dos compañías de calzado deportivo se convierten en titanes de la industria, a través de una batalla de décadas por la dominación global. Ambas lanzan calzado icónico que convertirá a las zapatillas deportivas en un producto vital.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20250328003400 +0100" stop="20250328010000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Desastre del Challenger</sub-title>
+    <desc lang="es">En 1986, 2,5 millones de alumnos vieron por televisión cómo el transbordador espacial Challenger explotaba en el cielo y se cobraba la vida de siete astronautas (entre ellos, un profesor).</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250328010000 +0100" stop="20250328012600 +0100" channel="Canal History - Mexico">
+    <title lang="es">Testigo de la historia</title>
+    <sub-title lang="es">Asesino en la ciudad blanca</sub-title>
+    <desc lang="es">Theo Wilson viaja al Chicago de 1893 y se encuentra en la guarida del primer asesino en serie famoso de Estados Unidos: H.H. Holmes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250328012600 +0100" stop="20250328030600 +0100" channel="Canal History - Mexico">
+    <title lang="es">La historia del mundo en dos horas</title>
+    <desc lang="es">En este especial te contaremos catorce mil millones de años de historia en tan sólo dos horas: desde la formación de la Tierra, el inicio de la vida y toda la evolución del género humano.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-historia-del-mundo-en-dos-horas_l_l.jpg"/>
+  </programme>
+  <programme start="20250328030600 +0100" stop="20250328040000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Ciudades ocultas</title>
+    <sub-title lang="es">La colonia Azteca perdida</sub-title>
+    <desc lang="es">En su búsqueda de nuevas claves sobre la vida de las civilizaciones antiguas, Don sigue las pistas ocultas bajo tierra en busca de evidencia sobre un grupo de más de diez mil aztecas que huyeron de México durante la conquista española.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ciudades-ocultas-s04e06-la-colonia-azteca-perdida_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20250328040000 +0100" stop="20250328045400 +0100" channel="Canal History - Mexico">
+    <title lang="es">La muerte de Jesús: una investigación médica</title>
+    <desc lang="es">Gracias a la aportación de dermatólogos, forenses y expertos en historia, desmonta algunas representaciones tradicionales de la crucifixión, como la imagen de los clavos que atraviesan a Jesús.</desc>
+    <category lang="es">Religioso</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250328045400 +0100" stop="20250328054700 +0100" channel="Canal History - Mexico">
+    <title lang="es">Misterios inexplorados con Danny Trejo</title>
+    <sub-title lang="es">Cámara de los secretos</sub-title>
+    <desc lang="es">Desde un tesoro invaluable encontrado dentro de una ciudad perdida, hasta un manuscrito antiguo escondido detrás de una pared. Explora misteriosos secretos perdidos en las profundidades de varias cámaras ocultas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250328054700 +0100" stop="20250328072700 +0100" channel="Canal History - Mexico">
+    <title lang="es">Desaparecidos</title>
+    <desc lang="es">El expolicía Dave Paulides investiga una serie de extrañas desapariciones en diversos parques nacionales. ¿Podrá encontrarlas?</desc>
+    <category lang="es">Interés general</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_desaparecidos_l_l.jpg"/>
+  </programme>
+  <programme start="20250328072700 +0100" stop="20250328081200 +0100" channel="Canal History - Mexico">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Palabra de Chum</sub-title>
+    <desc lang="es">Las payasadas de Chumlee le pasan factura cuando tras una mala decisión de compra termina haciendo que la tienda pierda una gran cantidad de dinero. ¿Será este el fin de Chumlee en el Precio de la Historia?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s25e94-palabra-de-chum_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.93.</episode-num>
+  </programme>
+  <programme start="20250328081200 +0100" stop="20250328083900 +0100" channel="Canal History - Mexico">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Aire caliente</sub-title>
+    <desc lang="es">Corey compra un globo de aire caliente para 12 personas a un precio bastánte alto. Un hombre intenta venderles su guitarra Gibson Les Paul de 1960 y otro les lleva una botella de Whiskey medicinal de la época de la prohibición.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s01e19-las-joyas-del-rey_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250328083900 +0100" stop="20250328092900 +0100" channel="Canal History - Mexico">
+    <title lang="es">OVNIs: Proyectos de alto secreto desclasificados</title>
+    <sub-title lang="es">El encubrimiento de la Casa Blanca</sub-title>
+    <desc lang="es">Se cree que la organización ultrasecreta Majestic 12 fue fundada por orden de Harry Truman en 1947. ¿Qué papel juegan los presidentes de los EE. UU. allí? ¿Cuál de los líderes de la posguerra estuvo más involucrado?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250328092900 +0100" stop="20250328101300 +0100" channel="Canal History - Mexico">
+    <title lang="es">Maravillas siniestras</title>
+    <sub-title lang="es">Templos de la perdición</sub-title>
+    <desc lang="es">Abrimos las puertas de algunas de las edificaciones más siniestras de la historia. Desde la aterradora Torre de Londres, hasta un hotel de los horrores capaz de asustar al mismísimo Diablo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250328101300 +0100" stop="20250328110000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Grandes escapes con Morgan Freeman</title>
+    <sub-title lang="es">Fuga del prisionero de guerra de Vietnam</sub-title>
+    <desc lang="es">Un piloto de origen germano-americano, Dieter Dengler, logra poner en práctica las habilidades de supervivencia que perfeccionó a lo largo de su infancia, para poder escapar de una prisión secreta ubicada en Laos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20250328110000 +0100" stop="20250328112700 +0100" channel="Canal History - Mexico">
+    <title lang="es">Ruta ovni</title>
+    <sub-title lang="es">La ciudad de cobre</sub-title>
+    <desc lang="es">Frederico Morsch investiga las luces que aparecen en una ciudad abandonada que tuvo su apogeo en la época de la extracción de cobre y, además, el informe de dos hermanos leñadores que afirman mantener contacto con naves extraterrestres.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250328112700 +0100" stop="20250328121400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+    <sub-title lang="es">Rockeando en la carretera</sub-title>
+    <desc lang="es">Mike y Frank salen a recorrer las rutas de Estados Unidos y quedan completamente impresionados cuando se cruzan con verdaderas leyendas de la música Rock and Roll.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-cazadores-de-tesoros-s05e16-rockeando-en-la-carretera_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.15.</episode-num>
+  </programme>
+  <programme start="20250328121400 +0100" stop="20250328130000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Tratos dulces</sub-title>
+    <desc lang="es">Un episodio extremadamente dulce, la tienda recibe a un coleccionista de Pez que busca vender cincuenta piezas clásicas. Además, se suma un vendedor con dos exhibidores gigantes de M&amp;M.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s24e79-tratos-dulces_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.78.</episode-num>
+  </programme>
+  <programme start="20250328130000 +0100" stop="20250328134500 +0100" channel="Canal History - Mexico">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Encuentro con superhéroes</sub-title>
+    <desc lang="es">El sentido arácnido de Rick se activa con un Spiderman de tamaño real y algunos cómics originales de las series Avengers y X-Men.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s23e46-encuentro-con-superheroes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.45.</episode-num>
+  </programme>
+  <programme start="20250328134500 +0100" stop="20250328143000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Alienígenas ancestrales Latinoamérica</title>
+    <sub-title lang="es">Ciudad de dioses</sub-title>
+    <desc lang="es">En México, el sitio arqueológico de Teotihuacan, llamada por los aztecas La Ciudad de los Dioses, es uno de los misterios más grandes del mundo. Nadie sabe quién la construyó o qué sucedió con sus ocupantes, pero hay nueva evidencia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250328143000 +0100" stop="20250328151500 +0100" channel="Canal History - Mexico">
+    <title lang="es">Ciudades ocultas</title>
+    <sub-title lang="es">La Tierra Santa secreta (Etiopía)</sub-title>
+    <desc lang="es">Etiopía es el hogar de algunos de los asentamientos más antiguos del mundo. Esta cuna de la humanidad es un país que nació envuelto en misterios y rodeado de leyendas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ciudades-ocultas-s03e04-la-tierra-santa-secreta-etiopia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+  </programme>
+  <programme start="20250328151500 +0100" stop="20250328160000 +0100" channel="Canal History - Mexico">
+    <title lang="es">La historia no contada de México</title>
+    <sub-title lang="es">El muro y el machete</sub-title>
+    <desc lang="es">Llega el fin de la Revolución mexicana y muchos jóvenes regresan a su patria del exilio europeo. Entre ellos decenas de intelectuales y artistas impregnados con ideas vanguardistas y con la necesidad de plasmarlas en un arte popular</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-historia-no-contada-de-mexico-s01e01-el-muro-y-el-machete_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250328160000 +0100" stop="20250328164800 +0100" channel="Canal History - Mexico">
+    <title lang="es">Rescates extremos</title>
+    <sub-title lang="es">Escalada de roca</sub-title>
+    <desc lang="es">Al recibir un llamado de auxilio, Nikolás se une al grupo de rescatistas en roca, en busca de unos escaladores que han sufrido un accidente en el Cerro López, en la Patagonia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250328164800 +0100" stop="20250328173600 +0100" channel="Canal History - Mexico">
+    <title lang="es">Inexplicable</title>
+    <sub-title lang="es">Ingeniería extraordinaria</sub-title>
+    <desc lang="es">Durante siglos, la humanidad se ha visto obligada a construir estructuras notables que son mucho más que simples lugares de refugio o trabajo. Los investigadores se preguntan qué nos lleva a construirlos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inexplicable-s02e30-ingenieria-extraordinaria_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.29.</episode-num>
+  </programme>
+  <programme start="20250328173600 +0100" stop="20250328182400 +0100" channel="Canal History - Mexico">
+    <title lang="es">Ciudades ocultas</title>
+    <sub-title lang="es">Túneles de muerte</sub-title>
+    <desc lang="es">El experto Don Wildman utiliza una nueva tecnología de punta capaz de construir mapas súper precisos, para dejar al descubierto una serie de oscuros y mortales espacios inexplorados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_ciudades-ocultas-s04e03-tuneles-de-muerte_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20250328182400 +0100" stop="20250328191200 +0100" channel="Canal History - Mexico">
+    <title lang="es">Desastres en tiempo real</title>
+    <sub-title lang="es">Volcanes</sub-title>
+    <desc lang="es">La furia de un volcán es uno de los desastres naturales más arrasadores. Varias civilizaciones han desaparecido por la actividad de estas montañas de fuego. Recordamos el desastre del Volcán de fuego, en Guatemala, el tres de junio de 2018.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_desastres-en-tiempo-real-s01e04-avalanchas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250328191200 +0100" stop="20250328200400 +0100" channel="Canal History - Mexico">
+    <title lang="es">¡México! Hasta la raíz</title>
+    <desc lang="es">A 200 años de la independencia de México, Paola Rojas y los historiadores Raquel Urroz, Alejandro Rosas y Úrsula Camba, recorren sitios que dejaron huella en la construcción del ADN mexicano para saber qué los hace únicos.</desc>
+    <category lang="es">Cultural</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250328200400 +0100" stop="20250328205600 +0100" channel="Canal History - Mexico">
+    <title lang="es">Terremoto en tiempo real</title>
+    <desc lang="es">En el primer aniversario del trágico terremoto que afectó varios Estados del centro de México, este documental narra en primera persona el sismo de 7.1 grados en la escala Richter, las evacuaciones y las arduas tareas de rescate.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_terremoto-en-tiempo-real_l_l.jpg"/>
+  </programme>
+  <programme start="20250328205600 +0100" stop="20250328214900 +0100" channel="Canal History - Mexico">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Mil maneras de morir</sub-title>
+    <desc lang="es">¿Sabías que las barbas pueden ser mortales? ¿O que una vez una cortadora de césped, mató a un espectador en un partido de fútbol? Éstas son solo algunas de las muertes más raras, locas y salvajemente increíbles que hayan ocurrido.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+  </programme>
+  <programme start="20250328214900 +0100" stop="20250328224300 +0100" channel="Canal History - Mexico">
+    <title lang="es">Inexplicable</title>
+    <sub-title lang="es">Artefactos bíblicos</sub-title>
+    <desc lang="es">Desde los antiguos babilonios hasta los exploradores urbanos de hoy en día, la humanidad siempre le fascinó los lugares abandonados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inexplicable-s04e04-lugares-abandonados_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20250328224300 +0100" stop="20250328233800 +0100" channel="Canal History - Mexico">
+    <title lang="es">Ataque a la Embajada</title>
+    <desc lang="es">Una serie documental que relata los hechos cronológicos del ataque a la Embajada de Israel en Argentina y causó 22 muertes y 242 heridos. El ataque destruyó completamente la sede de la embajada y del consulado ubicados en Buenos Aires.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250328233800 +0100" stop="20250329003200 +0100" channel="Canal History - Mexico">
+    <title lang="es">Esperanza en la frontera</title>
+    <desc lang="es">En las migraciones haitianas participan familias enteras que salieron de Haití después del terremoto del 2010. Con la llegada de Biden se aceleró una migración masiva hacia Estados Unidos, siendo México la última parte de esta travesía.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250329003200 +0100" stop="20250329012600 +0100" channel="Canal History - Mexico">
+    <title lang="es">Búsqueda alienígena</title>
+    <sub-title lang="es">El misterio del lago Ness</sub-title>
+    <desc lang="es">El monstruo de la laguna Loch Ness es uno de los eternos misterios del mundo. Sin embargo, se han reportado casos de criaturas similares en todo el planeta.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_busqueda-alienigena-s01e04-el-misterio-del-lago-ness_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250329012600 +0100" stop="20250329022000 +0100" channel="Canal History - Mexico">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+    <sub-title lang="es">¿Apocalipsis?</sub-title>
+    <desc lang="es">Durante milenios, ha habido especulaciones sobre cómo será el final del mundo. Desde el relato detallado del Apocalipsis, hasta las profecías de Nostradamus o la creencia de una extraña estrella azul devastadora.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
 </tv>
