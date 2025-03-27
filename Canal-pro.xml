@@ -376,6 +376,10 @@
     <display-name lang="es">Canal NATGEO México</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png"/>
   </channel>
+  <channel id="Canal Discovery Channel (Colombia)">
+    <display-name lang="es">Canal Discovery Channel (Colombia)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -28131,5 +28135,97 @@
     <desc lang="es">La policía de El Dorado debe detectar los más creativos intentos delictivos para traficar droga mientras despliega un operativo de seguridad para deportar a ocho ciudadanos de Bangladesh.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_alerta-aeropuerto-s01e05_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250327005100 -0300" stop="20250327014300 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Contraband Seized at the Border</title>
+    <sub-title lang="es">El sicario</sub-title>
+  </programme>
+  <programme start="20250327014300 -0300" stop="20250327023500 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Contraband Seized at the Border</title>
+    <sub-title lang="es">La verdad entre las mentiras</sub-title>
+  </programme>
+  <programme start="20250327023500 -0300" stop="20250327032700 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">En la ruta de la destrucción</sub-title>
+  </programme>
+  <programme start="20250327032700 -0300" stop="20250327041800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Desafío X2</title>
+    <sub-title lang="es">vórtice invernal, parte II</sub-title>
+  </programme>
+  <programme start="20250327041800 -0300" stop="20250327050800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Bultos, trabajo y problemas</sub-title>
+  </programme>
+  <programme start="20250327050800 -0300" stop="20250327055800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Momentos de muerte</sub-title>
+  </programme>
+  <programme start="20250327055800 -0300" stop="20250327064600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">En la ruta de la destrucción</sub-title>
+  </programme>
+  <programme start="20250327064600 -0300" stop="20250327073400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El Rastro</title>
+    <sub-title lang="es">Hallazgo en la cueva</sub-title>
+  </programme>
+  <programme start="20250327073400 -0300" stop="20250327080000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Neighborhood Wars</title>
+    <sub-title lang="es">¡Un hermoso día en el vecindario!</sub-title>
+  </programme>
+  <programme start="20250327080000 -0300" stop="20250327083000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Neighborhood Wars</title>
+    <sub-title lang="es">Nada bueno pasa después de las 2 a.m.</sub-title>
+  </programme>
+  <programme start="20250327083000 -0300" stop="20250327092000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Desafío X2</title>
+    <sub-title lang="es">Avión en el mar, parte 2</sub-title>
+  </programme>
+  <programme start="20250327092000 -0300" stop="20250327101000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Masa de misterio</sub-title>
+  </programme>
+  <programme start="20250327101000 -0300" stop="20250327110000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">La espera</sub-title>
+  </programme>
+  <programme start="20250327110000 -0300" stop="20250327124400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid Last One Stan</title>
+    <sub-title lang="es">Capricho de Gary en el lago</sub-title>
+  </programme>
+  <programme start="20250327124400 -0300" stop="20250327142800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">La historia de Tommy</sub-title>
+  </programme>
+  <programme start="20250327142800 -0300" stop="20250327152000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Nick y Aaron Carter Ídolos caídos</title>
+    <sub-title lang="es">Sueños adolescentes</sub-title>
+  </programme>
+  <programme start="20250327152000 -0300" stop="20250327161200 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Nick y Aaron Carter Ídolos caídos</title>
+    <sub-title lang="es">En la oscuridad</sub-title>
+  </programme>
+  <programme start="20250327161200 -0300" stop="20250327170400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Nick y Aaron Carter Ídolos caídos</title>
+    <sub-title lang="es">Oh, Aaron</sub-title>
+  </programme>
+  <programme start="20250327170400 -0300" stop="20250327175600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Nick y Aaron Carter Ídolos caídos</title>
+    <sub-title lang="es">Silenciar y alzar la voz</sub-title>
+  </programme>
+  <programme start="20250327175600 -0300" stop="20250327184800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Glee triunfo, verdad y tragedia</title>
+    <sub-title lang="es">Los chicos nuevos del barrio</sub-title>
+  </programme>
+  <programme start="20250327184800 -0300" stop="20250327194000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Glee triunfo, verdad y tragedia</title>
+    <sub-title lang="es">El show debe continuar</sub-title>
+  </programme>
+  <programme start="20250327194000 -0300" stop="20250327203200 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Glee triunfo, verdad y tragedia</title>
+    <sub-title lang="es">Cuando la música se detiene</sub-title>
+  </programme>
+  <programme start="20250327203200 -0300" stop="20250327221600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid Last One Stan</title>
+    <sub-title lang="es">Chamuscado y quemado</sub-title>
   </programme>
 </tv>
