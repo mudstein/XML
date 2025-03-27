@@ -356,6 +356,10 @@
     <display-name lang="es">Cinecanal - Argentina</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png"/>
   </channel>
+  <channel id="Cinecanal - Mexico">
+    <display-name lang="es">Cinecanal - Mexico</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -27014,6 +27018,142 @@
     <icon src="https://cdn.mitvstatic.com/programs/ar_la-propuesta-2009_l_l.jpg"/>
     <star-rating system="IMDb">
       <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327031000 +0100" stop="20250327050000 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">The Thing About Harry</title>
+    <desc lang="es">Sam es un joven gay que se ve obligado a compartir un viaje en coche con Harry, un deportista popular que fue su enemigo en la escuela secundaria. Pero cuando Sam se entera de que Harry es gay, todo cambia.</desc>
+    <date>2020</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_the-thing-about-harry-2020_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327050000 +0100" stop="20250327072400 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Harriet</title>
+    <desc lang="es">Basada en la emocionante vida de un ícono de la lucha por la libertad, cuenta la historia extraordinaria del escape de Harriet Tubman de la esclavitud y su transformación en una de las heroínas más grandes de los EE.UU.</desc>
+    <date>2019</date>
+    <category lang="es">Biográfico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_harriet-2019_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327072400 +0100" stop="20250327093100 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Bring Your Own Brigade</title>
+    <desc lang="es">Una investigación sobre los catastróficos incendios en las ciudades de Malibu y Paradise, en Estados Unidos, en 2018, con el testimonio de los bomberos que trabajaron arduamente, arriesgando sus vidas, para apagar el fuego.</desc>
+    <date>2021</date>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327093100 +0100" stop="20250327111600 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Jiu Jitsu</title>
+    <desc lang="es">Una antigua orden de luchadores de jiu-jitsu une fuerzas para pelear contra una despiadada raza de invasores alienígenas. Sin embargo, cuando uno de ellos caiga derrotado, el destino del planeta y de la humanidad correrá peligro.</desc>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_jiu-jitsu-2020_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>2.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327111600 +0100" stop="20250327125200 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Imparable</title>
+    <title lang="xx">Unstoppable</title>
+    <desc lang="es">Una formación de tren cargada de material altamente tóxico avanza descontrolada, llevándose todo lo que se le pone por delante. Un veterano ingeniero y un joven conductor intentarán pararla antes de que sea tarde.</desc>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_imparable-2010_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327125200 +0100" stop="20250327132700 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_programacion-especial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327132700 +0100" stop="20250327140000 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_programacion-especial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327140000 +0100" stop="20250327181300 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Corazón valiente</title>
+    <title lang="xx">Braveheart</title>
+    <desc lang="es">William Wallace, un rebelde escocés lleno de vigor, vuelve a su tierra después de muchos años y forma un ejército al cual conduce contra el ejército inglés para la liberación de su pueblo, sometido por el rey Eduardo I de Inglaterra.</desc>
+    <date>1995</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_corazon-valiente-1995_l_l.jpg"/>
+  </programme>
+  <programme start="20250327181300 +0100" stop="20250327200800 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Todopoderoso</title>
+    <title lang="xx">Bruce Almighty</title>
+    <desc lang="es">Bruce es un reportero de TV que después de tener un mal día cree que todo el universo está en su contra. En un extraño encuentro, Dios mismo le entrega sus poderes divinos y lo reta a realizar sus funciones para ver si puede hacerlo mejor.</desc>
+    <date>2003</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_todopoderoso-2003_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327200800 +0100" stop="20250327215800 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Chicas pesadas</title>
+    <title lang="xx">Mean Girls</title>
+    <desc lang="es">Después de crecer en la selva africana con sus padres zoólogos, Cady cree estar preparada para todo, hasta que llega a una escuela pública en los EE UU. Ahí descubrirá que la vida en la ciudad puede ser tan salvaje como la jungla.</desc>
+    <date>2004</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_chicas-pesadas-2004_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327215800 +0100" stop="20250328001000 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Mujer bonita</title>
+    <title lang="xx">Pretty Woman</title>
+    <desc lang="es">Edward es un hombre de negocios que se especializa en comprar compañías para luego venderlas por partes. Sin embargo, en un viaje de trabajo, decide contratar una prostituta para que haga de su acompañante en reuniones sociales.</desc>
+    <date>1990</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mujer-bonita-1990_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250328001000 +0100" stop="20250328023800 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Harriet</title>
+    <desc lang="es">Basada en la emocionante vida de un ícono de la lucha por la libertad, cuenta la historia extraordinaria del escape de Harriet Tubman de la esclavitud y su transformación en una de las heroínas más grandes de los EE.UU.</desc>
+    <date>2019</date>
+    <category lang="es">Biográfico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_harriet-2019_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250328023800 +0100" stop="20250329023800 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Chicas armadas y peligrosas</title>
+    <title lang="xx">The Heat</title>
+    <desc lang="es">La arrogante detective del FBI Sarah Ashburn será obligada a trabajar junto a la excéntrica e impulsiva Shannon Mullins, agente de policía de Boston. Deberán resolver sus diferencias, para dar con un peligroso terrorista ruso.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_chicas-armadas-y-peligrosas-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250329023800 +0100" stop="20250329050000 +0100" channel="Cinecanal - Mexico">
+    <title lang="es">Chicas armadas y peligrosas</title>
+    <title lang="xx">The Heat</title>
+    <desc lang="es">La arrogante detective del FBI Sarah Ashburn será obligada a trabajar junto a la excéntrica e impulsiva Shannon Mullins, agente de policía de Boston. Deberán resolver sus diferencias, para dar con un peligroso terrorista ruso.</desc>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_chicas-armadas-y-peligrosas-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.6/10</value>
     </star-rating>
   </programme>
 </tv>
