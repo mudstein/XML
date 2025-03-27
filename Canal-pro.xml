@@ -380,9 +380,17 @@
     <display-name lang="es">Canal Discovery Channel (Colombia)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png"/>
   </channel>
-  <channel id="Canal Discovery Investigation">
-    <display-name lang="es">Canal Discovery Investigation</display-name>
+  <channel id="Canal Discovery Investigation - México">
+    <display-name lang="es">Canal Discovery Investigation - México</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png"/>
+  </channel>
+  <channel id="Canal Discovery H&amp;H - Chile">
+    <display-name lang="es">Canal Discovery H&amp;H - Chile</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_discovery-home-and-health_m.png"/>
+  </channel>
+  <channel id="Canal Discovery H&amp;H - México">
+    <display-name lang="es">Canal Discovery H&amp;H - México</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_discovery-home-and-health_m.png"/>
   </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
@@ -28232,263 +28240,620 @@
     <title lang="es">Naked and Afraid Last One Stan</title>
     <sub-title lang="es">Chamuscado y quemado</sub-title>
   </programme>
-  <programme start="20250327033800 +0100" stop="20250327042700 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327033800 +0100" stop="20250327042700 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Prometo amarte, honrarte y traicionarte</title>
     <sub-title lang="es">El sospechoso inusual</sub-title>
     <desc lang="es">Jeanne y Stephen Trantel tienen una vida soñada. Pero Stephen pierde su trabajo después del atentado del 11/9/2001 y con ello el final de su relación.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20250327042700 +0100" stop="20250327051600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327042700 +0100" stop="20250327051600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Asesinatos en el campo de juego</title>
     <sub-title lang="es">Aplausos robados</sub-title>
     <desc lang="es">La joven Alicia DeBolt desaparece poco después de formar parte del equipo de porristas. La policía interroga a los miembros del equipo de fútbol y a las porristas, pero la verdad detrás de este misterio es más siniestra de lo que creen.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.5.</episode-num>
   </programme>
-  <programme start="20250327051600 +0100" stop="20250327060600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327051600 +0100" stop="20250327060600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
     <sub-title lang="es">Sobreviviendo al diablo hermoso</sub-title>
     <desc lang="es">En los suburbios de Chicago, un hombre con ardientes ojos azules resulta ser un monstruo sediento de sangre que se esconde a plena vista y ataca a mujeres jóvenes.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20250327060600 +0100" stop="20250327065600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327060600 +0100" stop="20250327065600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
     <sub-title lang="es">Sobreviviendo al asesino casanova</sub-title>
     <desc lang="es">Una madre vuelve a casa y descubre que un asesino en serie tiene secuestrada a su hermana discapacitada. Luego él intenta secuestrar a su hijo, pero le suplica que se la lleve a ella. Para sobrevivir, debe conseguir que se enamore de ella.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20250327065600 +0100" stop="20250327074300 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327065600 +0100" stop="20250327074300 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
     <sub-title lang="es">Sobreviviendo al asesino del ferrocarril</sub-title>
     <desc lang="es">Un incipiente romance entre dos estudiantes universitarios se desbarata cuando un sádico los ataca durante un paseo nocturno cerca de las vías del tren. Solo una de las víctimas sobrevive al ataque.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20250327074300 +0100" stop="20250327083100 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327074300 +0100" stop="20250327083100 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Enlace mortal</title>
     <sub-title lang="es">El bosque</sub-title>
     <desc lang="es">En 1990, en Portland, Oregón, una joven sobrevive a un ataque. Una madre vive su peor pesadilla. Un detective conoce al asesino del caso que investiga.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_enlace-mortal-s01e04-el-bosque_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20250327083100 +0100" stop="20250327091900 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327083100 +0100" stop="20250327091900 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Enlace mortal</title>
     <sub-title lang="es">Asesino a la deriva</sub-title>
     <desc lang="es">En 1994, una mujer pierde a su hermana. Un detective descubre que el incendio no es un accidente, sino un asesinato. Un hombre descubre la verdadera naturaleza de su hermano.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_enlace-mortal-s01e05-asesino-a-la-deriva_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20250327091900 +0100" stop="20250327100700 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327091900 +0100" stop="20250327100700 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Enlace mortal</title>
     <sub-title lang="es">Los pecados del padre</sub-title>
     <desc lang="es">En 1993, Una mujer encuentra a su hermana y a su sobrino asesinados a sangre fría. Además, una hija está involucrada en un asesinato. Luego, un caso se torna personal.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_enlace-mortal-s01e06-los-pecados-del-padre_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20250327100700 +0100" stop="20250327105600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327100700 +0100" stop="20250327105600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">La casa del mal</title>
     <sub-title lang="es">Llamó para decir: "Los maté"</sub-title>
     <desc lang="es">Ron Youngblood siempre soñó con tener una familia. Cuando conoce a Verónica, cree que sus sueños se están haciendo realidad. Pero resulta ser una pesadilla.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_la-casa-del-mal-s09e01-y-si-era-inocente_l_l.jpg"/>
     <episode-num system="xmltv_ns">8.0.</episode-num>
   </programme>
-  <programme start="20250327105600 +0100" stop="20250327114400 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327105600 +0100" stop="20250327114400 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Prometo amarte, honrarte y traicionarte</title>
     <sub-title lang="es">El sospechoso inusual</sub-title>
     <desc lang="es">Jeanne y Stephen Trantel tienen una vida soñada. Pero Stephen pierde su trabajo después del atentado del 11/9/2001 y con ello el final de su relación.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20250327114400 +0100" stop="20250327123400 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327114400 +0100" stop="20250327123400 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Asesinatos en el campo de juego</title>
     <sub-title lang="es">Aplausos robados</sub-title>
     <desc lang="es">La joven Alicia DeBolt desaparece poco después de formar parte del equipo de porristas. La policía interroga a los miembros del equipo de fútbol y a las porristas, pero la verdad detrás de este misterio es más siniestra de lo que creen.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.5.</episode-num>
   </programme>
-  <programme start="20250327123400 +0100" stop="20250327130000 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327123400 +0100" stop="20250327130000 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Encuentros infernales</title>
     <sub-title lang="es">Bala para mi amor</sub-title>
     <desc lang="es">Eddie y Melinda son novios y se encuentran en un lugar secreto: una cueva debajo de un puente. Pero una noche fatídica el refugio de los jóvenes amantes se transforma en una trampa mortal y deja al descubierto un perverso secreto familiar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_encuentros-infernales-s02e04-bala-para-mi-amor_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20250327130000 +0100" stop="20250327134800 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327130000 +0100" stop="20250327134800 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Víctimas del amor</title>
     <sub-title lang="es">Siempre juntos</sub-title>
     <desc lang="es">Una adolescente a la que no le dejan tener citas conoce a un hombre. Los dos llegan al extremo para mantener su relación en secreto, pero cuando hay posibilidades de que salga a la luz, querrán ocultarlo a cualquier costo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_victimas-del-amor-s04e06-el-turno-nocturno_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.5.</episode-num>
   </programme>
-  <programme start="20250327134800 +0100" stop="20250327141200 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327134800 +0100" stop="20250327141200 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Detrás de los crímenes virales</title>
     <sub-title lang="es">No te metas con mi hija</sub-title>
     <desc lang="es">Dos ladrones armados se acercan a una joven para robarle el auto. Pero se sorprenden cuando ella se defiende. El padre de una niña de 15 años organiza a su familia para detener al hombre de 33 años que intenta seducirla.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20250327141200 +0100" stop="20250327143600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327141200 +0100" stop="20250327143600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Detrás de los crímenes virales</title>
     <sub-title lang="es">Corre con eso</sub-title>
     <desc lang="es">En un acuario, unos ladrones roban un tiburón de un estanque abierto y se escapan. Dos convictos se escapan y se esconden en botes de basura. Luego, comienza la cacería para encontrarlos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20250327143600 +0100" stop="20250327150000 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327143600 +0100" stop="20250327150000 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Detrás de los crímenes virales</title>
     <sub-title lang="es">Toma todo y vete</sub-title>
     <desc lang="es">Un ladrón intenta detener a cuatro jóvenes a punta de pistola, pero se sorprende cuando ellos se defienden. Un hombre con una escopeta aparece en un garaje, pero un empleado lo enfrenta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20250327150000 +0100" stop="20250327152500 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327150000 +0100" stop="20250327152500 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Detrás de los crímenes virales</title>
     <sub-title lang="es">Movimientos atrevidos</sub-title>
     <desc lang="es">Se desata un tiroteo cuando una madre y su hija se ven obligadas a defender su negocio de un ladrón armado. Un hombre intenta robarle a un instructor de artes marciales, pero se da cuenta de que se metió con la persona equivocada.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.2.</episode-num>
   </programme>
-  <programme start="20250327152500 +0100" stop="20250327155000 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327152500 +0100" stop="20250327155000 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Detrás de los crímenes virales</title>
     <sub-title lang="es">Ataque sorpresa</sub-title>
     <desc lang="es">Un paseo en motocicleta durante la tarde se convierte en un violento incidente cuando una pareja es atacada por un conductor enfadado. Le roban con un cuchillo a una mujer que trabaja sola, pero ella se defiende.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
   </programme>
-  <programme start="20250327155000 +0100" stop="20250327161400 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327155000 +0100" stop="20250327161400 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Detrás de los crímenes virales</title>
     <sub-title lang="es">Atrapado en el acto</sub-title>
     <desc lang="es">Un extraño intenta secuestrar a los hijos de una mujer, pero un luchador de 16 años lo evita. Se produce un robo aterrador en un taxi a plena luz del día, y alguien inesperado llega al rescate.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20250327161400 +0100" stop="20250327163800 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327161400 +0100" stop="20250327163800 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">Soy solo un asesino enfermo</sub-title>
     <desc lang="es">Un oficial responde a una llamada al 911 realizada por un ladrón prófugo que se siente obligado a entregarse. Sin embargo, cuando el oficial llega a la escena, el criminal confiesa mucho más que haber entrado a una casa ilegalmente.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.6.</episode-num>
   </programme>
-  <programme start="20250327163800 +0100" stop="20250327170200 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327163800 +0100" stop="20250327170200 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">Conociste al ángel de la muerte</sub-title>
     <desc lang="es">Cuando un estudiante de posgrado desaparece repentinamente, la familia con la que se está quedando se comunica inmediatamente con la policía.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.7.</episode-num>
   </programme>
-  <programme start="20250327170200 +0100" stop="20250327172600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327170200 +0100" stop="20250327172600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">Soy extraño</sub-title>
     <desc lang="es">Un asesino dispara a un hombre y a una mujer que regresan a su casa desde el gimnasio donde trabajan. Mientras interrogan a un sospechoso, los detectives descubren que no se trata de un ataque al azar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.8.</episode-num>
   </programme>
-  <programme start="20250327172600 +0100" stop="20250327175100 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327172600 +0100" stop="20250327175100 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">A veces la gente recibe un disparo</sub-title>
     <desc lang="es">Un joven de 17 años roba un arma y comienza un horrible viaje por la ruta. Asesina a dos empleados de una gasolinera a sangre fría, riéndose mientras dispara a sus víctimas en la cara.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">3.9.</episode-num>
   </programme>
-  <programme start="20250327175100 +0100" stop="20250327181500 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327175100 +0100" stop="20250327181500 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">Las mujeres en su lista</sub-title>
     <desc lang="es">En el transcurso de unas horas, un hombre desquiciado estalla, desatando un furioso alboroto que deja a tres mujeres muertas en sus casas.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.10.</episode-num>
   </programme>
-  <programme start="20250327181500 +0100" stop="20250327184000 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327181500 +0100" stop="20250327184000 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">Dios me iba a usar</sub-title>
     <desc lang="es">Una enfermera confiesa haber ayudado a acabar con la vida de muchos pacientes en múltiples hogares de ancianos. Pronto descubren que no es un ángel de la misericordia.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.11.</episode-num>
   </programme>
-  <programme start="20250327184000 +0100" stop="20250327193400 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327184000 +0100" stop="20250327193400 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Megan Thee Stallion vs. Tory Lanez: el juicio</title>
     <sub-title lang="es">La historia de Megan</sub-title>
     <desc lang="es">El fiscal adjunto que procesó el caso cuenta la historia del ataque del rapero Tory Lanez a la estrella del hip-hop Megan Thee Stallion en 2020.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20250327193400 +0100" stop="20250327202400 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327193400 +0100" stop="20250327202400 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Megan Thee Stallion vs. Tory Lanez: el juicio</title>
     <sub-title lang="es">La historia de Tory</sub-title>
     <desc lang="es">Las pruebas del juicio ponen en duda las acusaciones contra Tory, y sus seguidores desafían la narrativa y apuntan a un sistema legal defectuoso.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20250327202400 +0100" stop="20250327211100 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327202400 +0100" stop="20250327211100 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">El curioso caso de Natalia Grace</title>
     <sub-title lang="es">El enredo del infierno</sub-title>
     <desc lang="es">Natalia se muda con los DePaul, pero el control de Cynthia y Antwon se intensifica desde lejos. La presencia de Natalia enciende el caos, abre una brecha entre Nicole y Vince y empuja a Vince a querer irse.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.2.</episode-num>
   </programme>
-  <programme start="20250327211100 +0100" stop="20250327220000 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327211100 +0100" stop="20250327220000 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">El precio de la fama</title>
     <sub-title lang="es">Un día en la corte</sub-title>
     <desc lang="es">Un comisario convertido en actor alcanza nuevas alturas de fama como alguacil en un programa ganador de un Emmy. Cuando un tiroteo en su casa lo deja herido y a su esposa muerta, la policía descubre que la estrella oculta algo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20250327220000 +0100" stop="20250327224900 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327220000 +0100" stop="20250327224900 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">El precio de la fama</title>
     <sub-title lang="es">Guion de un asesinato</sub-title>
     <desc lang="es">El comediante Jim Jefferies relata sus experiencias con un becario que parece tenerlo todo: autos de lujo, vacaciones exóticas y mujeres hermosas. Pero en mayo de 2016, todo se viene abajo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  <programme start="20250327224900 +0100" stop="20250327233800 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327224900 +0100" stop="20250327233800 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">El precio de la fama</title>
     <sub-title lang="es">Fuera del registro</sub-title>
     <desc lang="es">Jam Master Jay, mejor conocido como DJ de Run-DMC, se convierte en una leyenda del hip-hop. Su vida se trunca cuando lo ejecutan en su estudio de grabación. Una entrevista con un testigo arroja luz sobre este caso que lleva décadas abierto.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.5.</episode-num>
   </programme>
-  <programme start="20250327233800 +0100" stop="20250328002700 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250327233800 +0100" stop="20250328002700 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Investigación en curso</title>
     <sub-title lang="es">Nuevos comienzos, finales violentos</sub-title>
     <desc lang="es">Dorian Bluford se muda a una nueva ciudad para estar más cerca de un amigo que su familia no conoce, pero es brutalmente asesinado y apuñalado 37 veces en el pecho. La policía descarta al nuevo amigo.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_investigacion-en-curso-s05e20-nuevos-comienzos-finales-violentos_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.19.</episode-num>
   </programme>
-  <programme start="20250328002700 +0100" stop="20250328011600 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250328002700 +0100" stop="20250328011600 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Investigación en curso</title>
     <sub-title lang="es">Profundidades de depravación</sub-title>
     <desc lang="es">Aparece el cuerpo de una mujer de 20 años descuartizado en bolsas de residuos. La persecución frustrada de un detective al principal sospechoso hace que surja la siguiente pregunta ¿podría este hombre ser un asesino en serie?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.20.</episode-num>
   </programme>
-  <programme start="20250328011600 +0100" stop="20250328020500 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250328011600 +0100" stop="20250328020500 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Revista People investiga</title>
     <sub-title lang="es">La extraña desaparición de Karlie Guse</sub-title>
     <desc lang="es">En 2018, una chica de 16 años desaparece después de asistir a una fiesta de secundaria en un pueblo aislado del norte de California. El extraño misterio deja a todos preguntándose: ¿qué pasó con Karlie Guse?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_revista-people-investiga-s07e07-o-estranho-desaparecimento-de-karlie-guse_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.6.</episode-num>
   </programme>
-  <programme start="20250328020500 +0100" stop="20250328025400 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250328020500 +0100" stop="20250328025400 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Revista People investiga</title>
     <sub-title lang="es">En cautiverio: la desaparición de Tanya Kach</sub-title>
     <desc lang="es">Después de mudarse a una nueva ciudad tras el divorcio de sus padres, una niña de 14 años comienza a huir de casa hasta que un día nunca regresa. Se necesitan diez años antes de que se descubran oscuros secretos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_revista-people-investiga-s07e08-en-cautiverio-la-desaparicion-de-tanya-kach_l_l.jpg"/>
     <episode-num system="xmltv_ns">6.7.</episode-num>
   </programme>
-  <programme start="20250328025400 +0100" stop="20250328034900 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250328025400 +0100" stop="20250328034900 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Taylor Swift vs. Scooter Braun: Bad Blood</title>
     <sub-title lang="es">Taylor</sub-title>
     <desc lang="es">La versión de los hechos de Taylor Swift mientras aborda la misoginia de la industria musical y presenta una lucha feminista cuando su catálogo de música se vende en contra de sus deseos a su viejo enemigo, Scooter Braun.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20250328034900 +0100" stop="20250329034900 +0100" channel="Canal Discovery Investigation">
+  <programme start="20250328034900 +0100" stop="20250329034900 +0100" channel="Canal Discovery Investigation - México">
     <title lang="es">Taylor Swift vs. Scooter Braun: Bad Blood</title>
     <sub-title lang="es">Scooter</sub-title>
     <desc lang="es">La versión de Scooter Braun de los acontecimientos de la disputa pública entre él y Taylor Swift. ¿Por qué recibió amenazas de muerte de Swifties?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327035600 +0100" stop="20250327045100 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">La casa de tus sueños en 100 días</title>
+    <sub-title lang="es">Registro de salida</sub-title>
+    <desc lang="es">Solo quedan cuarenta días para terminar la posada Sunburst y gran parte del trabajo aún está pendiente. Con las habitaciones frente al mar completas, Brian y Mika ahora centran su atención en el exterior.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.13.</episode-num>
+  </programme>
+  <programme start="20250327045100 +0100" stop="20250327054200 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Dra. Sandra Lee: datos explosivos</title>
+    <sub-title lang="es">Datos explosivos: Un villancico de granos</sub-title>
+    <desc lang="es">La Dra. Lee está abrumada antes de las vacaciones y esta vez no está tan alegre como siempre. El espíritu navideño está por todas partes, pero ella lucha por encontrarlo dentro de sí misma.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.20.</episode-num>
+  </programme>
+  <programme start="20250327054200 +0100" stop="20250327064800 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Cirugías: al borde de la vida</title>
+    <sub-title lang="es">Traspasando los límites</sub-title>
+    <desc lang="es">Tim Martin opera a una mujer con una enfermedad tan rara que podría ser el primero en el país en realizar el procedimiento. El neurocirujano Alex Paluzzi se enfrenta a uno de los casos más difíciles de su carrera.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20250327064800 +0100" stop="20250327075300 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Cirugías: al borde de la vida</title>
+    <sub-title lang="es">¿Vale el riesgo?</sub-title>
+    <desc lang="es">Los cirujanos del sistema de salud pública necesitan satisfacer las necesidades de los pacientes que necesitan cirugía para mejorar su calidad de vida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250327075300 +0100" stop="20250327083800 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Juanete de película de terror</sub-title>
+    <desc lang="es">La Dra. Ebonie se enfrenta a un juanete que parece sacado de una película de terror. El Dr. Brad ayuda a un patinador con enormes masas en la planta del pie y la Dra. Sarah trata un caso grave de hongos y uñas de los pies desfiguradas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_especialistas-en-pies-s04e09-juanete-de-pelicula-de-terror_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+  </programme>
+  <programme start="20250327083800 +0100" stop="20250327093600 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Dra. Sandra Lee: especialista en piel</title>
+    <sub-title lang="es">Las caderas no mienten</sub-title>
+    <desc lang="es">Juliet tiene bultos en el pecho y el cuello. La han molestado durante toda su vida y su dermatólogo le dijo que no había ninguna solución. Tuvo que enfrentarse a un trauma emocional cuando le dijeron que nunca nadie la amaría.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_dra-sandra-lee-especialista-en-piel-s03e03-rio-de-quistes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20250327093600 +0100" stop="20250327100000 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Los caza minihogares</title>
+    <sub-title lang="es">Jeremy y Allie</sub-title>
+    <desc lang="es">El pastor de jóvenes Jeremy y su esposa, Allie, tienen grandes planes para el futuro. Buscan una casa pequeña con terreno, o que se pueda trasladar fácilmente a una propiedad grande con espacio para que Allie imparta clases de equitación.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_los-caza-minihogares-s02e18-jeremy-and-allie_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+  </programme>
+  <programme start="20250327100000 +0100" stop="20250327105000 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Pesadilla en la cocina</title>
+    <sub-title lang="es">Diwan</sub-title>
+    <desc lang="es">Gordon interviene para ayudar a transformar Diwan, un restaurante indio establecido en Port Washington, Nueva York, que también dirige un restaurante mexicano en la misma cocina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pesadilla-en-la-cocina-s08e10-diwan_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.9.</episode-num>
+  </programme>
+  <programme start="20250327105000 +0100" stop="20250327113900 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Pesadilla en la cocina</title>
+    <sub-title lang="es">Bel Aire</sub-title>
+    <desc lang="es">Gordon Ramsay ayuda a dos hermanos a resolver sus conflictos para salvar sus restaurantes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pesadilla-en-la-cocina-s08e01_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.0.</episode-num>
+  </programme>
+  <programme start="20250327113900 +0100" stop="20250327122900 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Pesadilla en la cocina</title>
+    <sub-title lang="es">Bask 46</sub-title>
+    <desc lang="es">Cuando el gastropub de seis meses de una pareja de Nueva Jersey está en peligro debido a su apasionado jefe de cocina y su menú disfuncional, Gordon Ramsay ofrece su experiencia y trabaja para transformarlo en un negocio exitoso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_pesadilla-en-la-cocina-s08e02-bask-46_l_l.jpg"/>
+    <episode-num system="xmltv_ns">7.1.</episode-num>
+  </programme>
+  <programme start="20250327122900 +0100" stop="20250327131800 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Kilos mortales: las hermanas Slaton</title>
+    <sub-title lang="es">Lo mejor desde el pan en rebanadas</sub-title>
+    <desc lang="es">Después de hacer lo impensable, Tammy le dice al Dr. Smith que alcanzó su meta de peso y le da una gran noticia a su familia. Chris sirve un plato principal inusual en una reunión familiar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_kilos-mortales-las-hermanas-slaton-s04e05-lo-mejor-desde-el-pan-en-rebanadas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20250327131800 +0100" stop="20250327141700 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Kilos mortales: las hermanas Slaton</title>
+    <sub-title lang="es">Demasiadas ideas</sub-title>
+    <desc lang="es">Amy se tambalea por dar a luz y descubrir que Michael tiene COVID-19. Después de 20 años, Chris vuelve a hacerse cargo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_kilos-mortales-las-hermanas-slaton-s04e06-demasiadas-ideas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20250327141700 +0100" stop="20250327151900 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">El chef desequilibrado</sub-title>
+    <desc lang="es">En Rome, Nueva York, Brian, propietario de The Balanced Chef, se enfrenta a muchos problemas, incluidos problemas de salud muy graves. Hay mucho en juego, ya que Robert debe ayudar a Brian a idear un plan para reducir el estrés.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rescata-mi-restaurante-s20e26-el-chef-desequilibrado_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.25.</episode-num>
+  </programme>
+  <programme start="20250327151900 +0100" stop="20250327162000 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Caída de ventas en San José</sub-title>
+    <desc lang="es">Robert encuentra al The Breakfast Place en San José, California, luchando por sobrevivir. Los copropietarios están agotados y no tienen la confianza para liderar a su personal. Robert debe salvar su amistad y su negocio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rescata-mi-restaurante-s19e06-caida-de-ventas-en-san-jose_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.5.</episode-num>
+  </programme>
+  <programme start="20250327162000 +0100" stop="20250327171900 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">MasterChef</title>
+    <sub-title lang="es">Audiciones de la generación X</sub-title>
+    <desc lang="es">Es la última noche de audiciones generacionales en las que los cocineros de la Generación X luchan por uno de los cinco delantales finales. Se une al grupo de jueces la chef y exganadora de MasterChef de la Generación X, Christine Ha.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_masterchef-s14e04-gen-x-auditions_l_l.jpg"/>
+    <episode-num system="xmltv_ns">13.3.</episode-num>
+  </programme>
+  <programme start="20250327171900 +0100" stop="20250327181700 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">24 horas en el infierno, con Gordon Ramsay</title>
+    <sub-title lang="es">Stone's Throw</sub-title>
+    <desc lang="es">Ramsay y su equipo intentan renovar Stone's Throw, un elegante restaurante familiar ubicado en el río Housatonic en Seymour, Connecticut. A pesar de los años de experiencia, este negocio familiar no logra sorprender a la multitud.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-en-el-infierno-con-gordon-ramsay-s02e05-stone-s-throw_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20250327181700 +0100" stop="20250327191500 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">24 horas en el infierno, con Gordon Ramsay</title>
+    <sub-title lang="es">Bayou on the Vine</sub-title>
+    <desc lang="es">Gordon Ramsay está en Kansas City para ayudar a un restaurante cajún en apuros, Bayou on the Vine. Con una gestión familiar, la falta de éxito está destrozando a la familia sin experiencia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_24-horas-en-el-infierno-con-gordon-ramsay-s02e06-bayou-on-the-vine_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20250327191500 +0100" stop="20250327201600 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Un chef de otro nivel</title>
+    <sub-title lang="es">Infinitas opciones de pasta</sub-title>
+    <desc lang="es">Los chefs tienen la tarea de cocinar con todo su corazón y crear un plato que transporte a los mentores a Italia. A cada equipo se le asigna aleatoriamente una cocina donde deben demostrar que pueden crear magia en cualquier entorno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327201600 +0100" stop="20250327211700 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Un chef de otro nivel</title>
+    <sub-title lang="es">Juego de aves</sub-title>
+    <desc lang="es">Los 13 chefs restantes tienen el desafío de crear un plato usando aves. Las cosas salen mal cuando algunos de los concursantes van a lo seguro, mientras que otros toman grandes riesgos por la gran recompensa de la seguridad de su equipo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327211700 +0100" stop="20250327221600 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Gordon Ramsay: reto culinario</title>
+    <sub-title lang="es">Café</sub-title>
+    <desc lang="es">Los emprendedores demuestran su conocimiento de mercado y sus habilidades de servicio al cliente en el desafío de esta semana, cuando se dividen en equipos y se les asigna la tarea de administrar una cafetería en el centro de Seattle.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250327221600 +0100" stop="20250327231600 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Gordon Ramsay: reto culinario</title>
+    <sub-title lang="es">Como se ve en la televisión</sub-title>
+    <desc lang="es">Los seis concursantes se dividen en equipos para enfrentar un desafío televisivo en vivo en el que venden productos de cocina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250327231600 +0100" stop="20250328001800 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Estar a la altura de mamá</sub-title>
+    <desc lang="es">Robert Irvine viaja al Amigo Café en la Reserva Navajo de Arizona, donde la lucha de la propietaria Julene por obtener ganancias ha afectado su salud. Robert debe ayudar a su hija a ganar la confianza necesaria para ponerse en el lugar de s</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rescata-mi-restaurante-s20e15-estar-a-la-altura-de-mama_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.14.</episode-num>
+  </programme>
+  <programme start="20250328001800 +0100" stop="20250328012000 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Sin ideas en Idaho</sub-title>
+    <desc lang="es">Robert visita Nampa, Idaho, para rescatar a Island Kine Grinds de la quiebra. Los problemas de salud del copropietario Renus han dejado a su esposa Ludi abrumada y Robert debe ayudarlo a sanar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_rescata-mi-restaurante-s20e16-sin-ideas-en-idaho_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.15.</episode-num>
+  </programme>
+  <programme start="20250328012000 +0100" stop="20250328022100 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Remodelaciones con celebridades</title>
+    <sub-title lang="es">El Condominio sorpresa de Lisa Kudrow</sub-title>
+    <desc lang="es">La prima y mejor amiga de Lisa Kudrow, ha pasado por unos años difíciles. Aún así, ella continúa abriendo su corazón y su hogar a las mascotas rescatadas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_remodelaciones-con-celebridades-s04e05-el-condominio-sorpresa-de-lisa-kudrow_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20250328022100 +0100" stop="20250328032300 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Remodelaciones con celebridades</title>
+    <sub-title lang="es">La sorpresa de Kris Jenner en su patio trasero</sub-title>
+    <desc lang="es">Kris Jenner y sus hijas, Kim y Kendall, se unen a Jonathan y Drew para sorprender a una amiga de la familia que quiere empezar de nuevo. Con la ayuda de los hermanos, Kris, Kim y Kendall transforman el terreno baldío de su patio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_remodelaciones-con-celebridades-s03e01-el-condominio-sorpresa-de-lisa-kudrow_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20250328032300 +0100" stop="20250329032300 +0100" channel="Canal Discovery H&amp;H - Chile">
+    <title lang="es">Vender para comprar</title>
+    <sub-title lang="es">Kylah y Jon</sub-title>
+    <desc lang="es">Unos padres ocupados están desesperados por mudarse a una casa más grande con sus tres hijas. Los hermanos intervienen con un plan y la pareja se enfrenta a una elección cuando la búsqueda de casa se topa con un problema.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_vender-para-comprar-s07e07-kylah-y-jon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+  </programme>
+  <programme start="20250327034100 +0100" stop="20250327043200 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Angustia en Abilene</sub-title>
+    <desc lang="es">Robert Irvine viaja a Texas Cowboy BBQ para conocer a George y Taylor, copropietarios del restaurante. Taylor quiere ser una parte más importante del restaurante, pero George se muestra cerrado y enojado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescata-mi-restaurante-s20e10-angustia-en-abilene_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.9.</episode-num>
+  </programme>
+  <programme start="20250327043200 +0100" stop="20250327052400 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Hermanos a la obra: un hogar para siempre</title>
+    <sub-title lang="es">Seguir la corriente</sub-title>
+    <desc lang="es">A una pareja le encanta vivir en su bungaló de Los Ángeles desde hace más de veinte años, pero la deteriorada casa necesita una renovación para adaptarse a la evolución de sus necesidades.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hermanos-a-la-obra-un-hogar-para-siempre-s05e01-seguir-la-corriente-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+  <programme start="20250327052400 +0100" stop="20250327061600 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Hermanos a la obra: un hogar para siempre</title>
+    <sub-title lang="es">Espacio para moverse</sub-title>
+    <desc lang="es">Una pareja se enamoró de un bungaló de época en Los Ángeles. Ahora, con dos hijos, la distribución irregular de la casa no puede ser ignorada, así que Drew y Jonathan intervienen para dar a esta familia más espacio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hermanos-a-la-obra-un-hogar-para-siempre-s05e02-espacio-para-moverse-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+  </programme>
+  <programme start="20250327061600 +0100" stop="20250327070800 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescatando propiedades con Tarek</title>
+    <sub-title lang="es">Hacer una adición o no</sub-title>
+    <desc lang="es">Un contratista que alguna vez trabajó para Tarek ahora renueva casas multimillonarias por su cuenta, pero admite haber sobrediseñado. Tarek comparte cómo hacer un diseño consciente de los costos que mantendrá intacto su margen de ganancias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescatando-propiedades-con-tarek-s03e112-hacer-una-adicion-o-no_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.111.</episode-num>
+  </programme>
+  <programme start="20250327070800 +0100" stop="20250327075900 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Como en casa</title>
+    <sub-title lang="es">De un granero rústico a una habitación de lujo</sub-title>
+    <desc lang="es">Los Marr buscan convertir un granero en una habitación para los suegros y lugar de celebración de bodas para Gabrielle Mooney. Después de sobrevivir a una crisis de salud, el hermano de Gabrielle, Shay Mooney y su familia ayudan.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_como-en-casa-s05e11-de-un-granero-rustico-a-una-habitacion-de-lujo_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.10.</episode-num>
+  </programme>
+  <programme start="20250327075900 +0100" stop="20250327085000 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Casas imposibles de vender</title>
+    <sub-title lang="es">Problemas con gemelos</sub-title>
+    <desc lang="es">Dos hermanas tienen la tarea de vender la casa anterior de sus padres y buscan aumentar su valor con algunas actualizaciones. Lyndsay y Leslie intervienen con otro par de gemelos, Bryce y Colby, para ayudarlas a renovar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20250327085000 +0100" stop="20250327094000 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Legado en la línea</sub-title>
+    <desc lang="es">Robert Irvine viaja a Luisiana para conocer a Mavice, la propietaria del restaurante Eddie's, el cual heredó de su padre. El lugar es célebre por sus camarones rellenos, pero la resistencia de Mavice a modernizarse lo lleva a la ruina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescata-mi-restaurante-s20e09-legacy-on-the-line_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.8.</episode-num>
+  </programme>
+  <programme start="20250327094000 +0100" stop="20250327103000 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Angustia en Abilene</sub-title>
+    <desc lang="es">Robert Irvine viaja a Texas Cowboy BBQ para conocer a George y Taylor, copropietarios del restaurante. Taylor quiere ser una parte más importante del restaurante, pero George se muestra cerrado y enojado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescata-mi-restaurante-s20e10-angustia-en-abilene_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.9.</episode-num>
+  </programme>
+  <programme start="20250327103000 +0100" stop="20250327112000 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Hermanos a la obra: un hogar para siempre</title>
+    <sub-title lang="es">Seguir la corriente</sub-title>
+    <desc lang="es">A una pareja le encanta vivir en su bungaló de Los Ángeles desde hace más de veinte años, pero la deteriorada casa necesita una renovación para adaptarse a la evolución de sus necesidades.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hermanos-a-la-obra-un-hogar-para-siempre-s05e01-seguir-la-corriente-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+  <programme start="20250327112000 +0100" stop="20250327121000 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Hermanos a la obra: un hogar para siempre</title>
+    <sub-title lang="es">Espacio para moverse</sub-title>
+    <desc lang="es">Una pareja se enamoró de un bungaló de época en Los Ángeles. Ahora, con dos hijos, la distribución irregular de la casa no puede ser ignorada, así que Drew y Jonathan intervienen para dar a esta familia más espacio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hermanos-a-la-obra-un-hogar-para-siempre-s05e02-espacio-para-moverse-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+  </programme>
+  <programme start="20250327121000 +0100" stop="20250327130000 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescatando propiedades con Tarek</title>
+    <sub-title lang="es">Hacer una adición o no</sub-title>
+    <desc lang="es">Un contratista que alguna vez trabajó para Tarek ahora renueva casas multimillonarias por su cuenta, pero admite haber sobrediseñado. Tarek comparte cómo hacer un diseño consciente de los costos que mantendrá intacto su margen de ganancias.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescatando-propiedades-con-tarek-s03e112-hacer-una-adicion-o-no_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.111.</episode-num>
+  </programme>
+  <programme start="20250327130000 +0100" stop="20250327132600 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Maletas</sub-title>
+    <desc lang="es">La sobrecargo Steffanie lleva a su novio al centro de maletas sin reclamar para llevar su relación al siguiente nivel. El portero profesional RJ Andrews no tiene dirección fija, pero vive sin pagar alquiler cuidando casas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_tacanos-extremos-s03e99-maletas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.98.</episode-num>
+  </programme>
+  <programme start="20250327132600 +0100" stop="20250327141600 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">Brandi y Kandi</sub-title>
+    <desc lang="es">Entre las dos, Kandi y Brandi pesan casi 500 kilos. Estas gemelas inseparables saben que la obesidad pone en riesgo su vida y deciden cambiar juntas. Pero un episodio riesgoso puede llegar a separarlas para siempre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-s05e01-brandi-y-kandi_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+  <programme start="20250327141600 +0100" stop="20250327150600 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">Erica</sub-title>
+    <desc lang="es">Erica pesa casi 300 kilos y sufre por no haber cumplido la promesa que hizo a su madre. Sus hermanos dudan en ayudarla debido a sus fracasos anteriores. Cada cena revive su peor miedo: morir como vive, sola y rodeada de comida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-s05e06-diana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.5.</episode-num>
+  </programme>
+  <programme start="20250327150600 +0100" stop="20250327155600 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Casos asombrosos</title>
+    <sub-title lang="es">Mis piernas gigantes</sub-title>
+    <desc lang="es">A través de las historias inspiradoras de tres mujeres jóvenes, varias condiciones físicas que causan crecimiento excesivo o hinchazón en las extremidades inferiores.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_casos-asombrosos-s01e03-mis-piernas-gigantes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327155600 +0100" stop="20250327173700 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">El desafío de Buddy</title>
+    <sub-title lang="es">El rey de los pasteleros</sub-title>
+    <desc lang="es">Con dos nuevos expertos a su lado, Buddy, el Jefe del Pastel, juzga a tres pares de pasteleros en la primera fase de la temporada cuatro. Cada equipo visitará la Gran Manzana y otras ciudades icónicas para inspirarse para su primer desafío.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-desafio-de-buddy-s04e01-el-rey-de-los-pasteleros_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+  </programme>
+  <programme start="20250327173700 +0100" stop="20250327200300 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">MasterChef Celebrity México</title>
+    <sub-title lang="es">Semifinal</sub-title>
+    <desc lang="es">La semifinal se pone más picante que nunca y habrá dos retos desafiantes. Las celebridades tendrán que reutilizar los ingredientes del peor y el mejor platillo de la temporada para convertirse en finalistas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+  </programme>
+  <programme start="20250327200300 +0100" stop="20250327214300 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Campeonato de reposteros: delicias de primavera</title>
+    <sub-title lang="es">¿Por qué amas?</sub-title>
+    <desc lang="es">Jesse Palmer da la bienvenida a 12 pasteleros a la cocina, donde crean postres que demuestran su pasión por la repostería a los jueces. Vuelven al postre que despertó su amor por la repostería y hacen pasteles inspirados en un ser querido.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_campeonato-de-reposteros-delicias-de-primavera-s09e01-por-que-amas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">8.0.</episode-num>
+  </programme>
+  <programme start="20250327214300 +0100" stop="20250327223400 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">La historia de Olivia</sub-title>
+    <desc lang="es">Olivia lucha con una depresión severa a raíz de un intento de suicidio y en dos años no ha salido de su sótano en Chicago. Olivia viajará a Houston con la esperanza de someterse a una operación que puede cambiar su vida para siempre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-s02e02-la-historia-de-olivia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20250327223400 +0100" stop="20250327232500 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">La historia de Penny</sub-title>
+    <desc lang="es">Penny, de 46 años, ha pasado los últimos cuatro en cama. Sabe que su exceso de peso la matará si no toma medidas drásticas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-s02e03-la-historia-de-penny_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250327232500 +0100" stop="20250328001600 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales: sus vidas hoy</title>
+    <sub-title lang="es">Olivia y James</sub-title>
+    <desc lang="es">Olivia vive sola por primera vez y se esfuerza por alcanzar el peso ideal mientras sufre una pérdida inesperada. James, en tanto, lucha contra una serie de decepciones para alcanzar su objetivo de operarse la piel.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-sus-vidas-hoy-s01e02-olivia-y-james_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250328001600 +0100" stop="20250328010700 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales: sus vidas hoy</title>
+    <sub-title lang="es">Zsalynn y Christina</sub-title>
+    <desc lang="es">Zsalynn no sabe si luchar contra su peso o luchar por su matrimonio. Christina se deshace de la negatividad en su vida y finalmente puede relajarse.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-sus-vidas-hoy-s00e02-zsalynn-y-christina_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+  </programme>
+  <programme start="20250328010700 +0100" stop="20250328015800 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">Tanisha</sub-title>
+    <desc lang="es">Tanisha, de 32 años, pesa 270 kilos y está desesperada por mejorar su salud, no solo por sus hijos, sino también para no repetir la trágica historia de su madre, que murió joven por su obesidad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_kilos-mortales-s05e10-michael_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.9.</episode-num>
+  </programme>
+  <programme start="20250328015800 +0100" stop="20250328031500 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Lío en el pueblo de la montaña</sub-title>
+    <desc lang="es">En Lincoln, Nueva Hampshire, Robert Irvine debe ayudar a los copropietarios de White Mountain Tavern que tienen una relación volátil y una posición tóxica en la comunidad, lo que le da a Robert solo dos días para solucionar dos problemas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescata-mi-restaurante-s20e28-lio-en-el-pueblo-de-la-montana_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.27.</episode-num>
+  </programme>
+  <programme start="20250328031500 +0100" stop="20250329031500 +0100" channel="Canal Discovery H&amp;H - México">
+    <title lang="es">Rescata mi restaurante</title>
+    <sub-title lang="es">Quedarse sin nada</sub-title>
+    <desc lang="es">Robert se enfrenta a un desafío único en Opelika, Alabama, donde debe salvar un restaurante ubicado en una gasolinera. La salud y el sueño de Penny están fracasando y debe hacer grandes cambios en algo más que en su negocio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_rescata-mi-restaurante-s20e23-quedarse-sin-nada_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.22.</episode-num>
   </programme>
 </tv>
