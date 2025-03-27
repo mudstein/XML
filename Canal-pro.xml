@@ -372,6 +372,10 @@
     <display-name lang="es">Canal History - Mexico</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_history_m.png"/>
   </channel>
+  <channel id="Canal NATGEO México">
+    <display-name lang="es">Canal NATGEO México</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_national-geographic_m.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -27737,5 +27741,228 @@
     <desc lang="es">Durante milenios, ha habido especulaciones sobre cómo será el final del mundo. Desde el relato detallado del Apocalipsis, hasta las profecías de Nostradamus o la creencia de una extraña estrella azul devastadora.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327035000 +0100" stop="20250327044800 +0100" channel="Canal NATGEO México">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+    <sub-title lang="es">Costa accidentada de Portugal</sub-title>
+    <desc lang="es">El chef Ramsay desafía olas gigantes, pesca en mar abierto y cultiva el campo para explorar y descubrir la cruda sencillez de la cocina portuguesa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gordon-ramsay-sabores-extremos-s03e02-el-ingrediente-de-maine_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+  </programme>
+  <programme start="20250327044800 +0100" stop="20250327044900 +0100" channel="Canal NATGEO México">
+    <title lang="es">Salvajemente famosos: el desafìo</title>
+    <sub-title lang="es">Florence Pugh en las selvas volcánicas de Costa Rica</sub-title>
+    <desc lang="es">Bear y la actriz Florence Pugh se aventuran a Costa Rica. Ella se reencuentra con la naturaleza, donde Bear le ensañará habilidades esenciales y ella intentará replicarlas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.5.</episode-num>
+  </programme>
+  <programme start="20250327044900 +0100" stop="20250327054500 +0100" channel="Canal NATGEO México">
+    <title lang="es">Salvajemente famosos: el desafìo</title>
+    <sub-title lang="es">Florence Pugh en las selvas volcánicas de Costa Rica</sub-title>
+    <desc lang="es">Bear y la actriz Florence Pugh se aventuran a Costa Rica. Ella se reencuentra con la naturaleza, donde Bear le ensañará habilidades esenciales y ella intentará replicarlas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.5.</episode-num>
+  </programme>
+  <programme start="20250327054500 +0100" stop="20250327062900 +0100" channel="Canal NATGEO México">
+    <title lang="es">Mayday: catástrofes aéreas</title>
+    <sub-title lang="es">Terror sobre Michigan</sub-title>
+    <desc lang="es">Este episodio investigará el misterio de un Boeing 727 que cayó en un espiral incontrolable desde el cielo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mayday-catastrofes-aereas-s22e06-terror-sobre-michigan_l_l.jpg"/>
+    <episode-num system="xmltv_ns">21.5.</episode-num>
+  </programme>
+  <programme start="20250327062900 +0100" stop="20250327071300 +0100" channel="Canal NATGEO México">
+    <title lang="es">Los primeros habitantes de Alaska</title>
+    <sub-title lang="es">Fuerza de familia</sub-title>
+    <desc lang="es">Los habitantes nativos de Alaska buscan recursos con métodos transmitidos de generación en generación.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20250327071300 +0100" stop="20250327075700 +0100" channel="Canal NATGEO México">
+    <title lang="es">Solo contra el mundo</title>
+    <sub-title lang="es">Dentro de aguas violentas</sub-title>
+    <desc lang="es">En las selvas del sureste de Asia, Hazen debe hacer uso de las temerarias técnicas de los pescadores de las tierras bajas de Laos para meterse en el corazón de imponentes cataratas y pescar en los peligrosísimos rápidos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_solo-contra-el-mundo-s01e04-frio-de-muerte_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327075700 +0100" stop="20250327084100 +0100" channel="Canal NATGEO México">
+    <title lang="es">Alerta aeropuerto</title>
+    <sub-title lang="es">Carne de exportación</sub-title>
+    <desc lang="es">Los policías de extranjería enfrentan a un joven ofuscado cuando intentan controlar su documentación; mientras un matrimonio danés debe explicar el inusual cargamento de sus maletas al grupo de estupefacientes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s04e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20250327084100 +0100" stop="20250327092500 +0100" channel="Canal NATGEO México">
+    <title lang="es">Alerta aeropuerto</title>
+    <sub-title lang="es">Un policía en apuros</sub-title>
+    <desc lang="es">Un pasajero pretende hacer creer a los oficiales que él también es policía antinarcóticos, intentando así esquivar el control de su equipaje, y el grupo extranjería tendrá un tenso enfrentamiento con un flasificador de documentos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s04e05-un-policia-en-apuros_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.4.</episode-num>
+  </programme>
+  <programme start="20250327092500 +0100" stop="20250327100900 +0100" channel="Canal NATGEO México">
+    <title lang="es">Secreto en los océanos</title>
+    <sub-title lang="es">Hollywood</sub-title>
+    <desc lang="es">En este episodio descubriremos cómo capturó Hollywood la imaginación del mundo y estableció una de las industrias más exitosas de Estados Unidos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_secreto-en-los-oceanos-s04e02-hollywood_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+  </programme>
+  <programme start="20250327100900 +0100" stop="20250327105300 +0100" channel="Canal NATGEO México">
+    <title lang="es">Traficantes</title>
+    <sub-title lang="es">Tráfico de cachorros</sub-title>
+    <desc lang="es">Los agentes de Aduanas y Protección de Fronteras de Nogales descubren cocaína en el parachoques de un automóvil que intenta cruzar desde México. Además, los agentes de Atlanta detienen a una mujer que trafica cachorros desde Brasil.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_traficantes-s03e111-trafico-de-cachorros_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.110.</episode-num>
+  </programme>
+  <programme start="20250327105300 +0100" stop="20250327110000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_programacion-especial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327110000 +0100" stop="20250327114700 +0100" channel="Canal NATGEO México">
+    <title lang="es">Secreto en los océanos</title>
+    <sub-title lang="es">La guerra del Pacífico</sub-title>
+    <desc lang="es">Una expedición busca los restos de la Batalla del Pacífico, incluido el barco que entregó la bomba de Hiroshima, el USS Indianapolis.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_secreto-en-los-oceanos-s02e09-la-guerra-del-pacifico_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20250327114700 +0100" stop="20250327123000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Ciudades encontradas con Albert Lin</title>
+    <sub-title lang="es">Tribu de bárbaros</sub-title>
+    <desc lang="es">En Escocia, Albert Lin emplea tecnología para rastrear la base de poder de los Pictos, una tribu de bárbaros que luchó contra el impero Romano.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327123000 +0100" stop="20250327130000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
+    <sub-title lang="es">Goma de mascar y cupcakes</sub-title>
+    <desc lang="es">En este episodio, goma de mascar Big League Chew, un rábano picante y cupcakes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+  </programme>
+  <programme start="20250327130000 +0100" stop="20250327133000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327133000 +0100" stop="20250327140000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327140000 +0100" stop="20250327143000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327143000 +0100" stop="20250327150000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327150000 +0100" stop="20250327153000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327153000 +0100" stop="20250327160000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327160000 +0100" stop="20250327170000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_infomercial_l_l.jpg"/>
+  </programme>
+  <programme start="20250327170000 +0100" stop="20250327175100 +0100" channel="Canal NATGEO México">
+    <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
+    <sub-title lang="es">Dounuts y pepperoni</sub-title>
+    <desc lang="es">En este episodio, donas, rollos de pepperoni, y snacks multicereales coreanos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20250327175100 +0100" stop="20250327185400 +0100" channel="Canal NATGEO México">
+    <title lang="es">Solo contra el mundo</title>
+    <sub-title lang="es">Boda tribal</sub-title>
+    <desc lang="es">Hazen viaja a Papúa Nueva Guinea para encontrarse con la tribu Mirr, cazadores-recolectores famosos por su rica cultura y por ser protectores feroces de su tierra y su gente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_solo-contra-el-mundo-s05e03-boda-tribal_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.2.</episode-num>
+  </programme>
+  <programme start="20250327185400 +0100" stop="20250327195700 +0100" channel="Canal NATGEO México">
+    <title lang="es">Imperio salvaje</title>
+    <sub-title lang="es">El final de un sueño</sub-title>
+    <desc lang="es">La leona Tsebe mantiene a raya a los Hermanos del Norte hasta que demuestren ser dignos de engendrar su nueva dinastía.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_imperio-salvaje-s04e03-el-final-de-un-sueno_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20250327195700 +0100" stop="20250327210000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Serpientes en la ciudad</title>
+    <sub-title lang="es">Di tus oraciones</sub-title>
+    <desc lang="es">Una inmensa mamba negra se esconde dentro de un televisor, una monja huye de una cobra escupidora y una pitón bebé está atascada dentro de una red de aire acondicionado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_serpientes-en-la-ciudad-s04e06-twice-bitten_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20250327210000 +0100" stop="20250327220000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Mayday: catástrofes aéreas</title>
+    <sub-title lang="es">Conectado a Tierra: Boeing Max 8</sub-title>
+    <desc lang="es">Investigadores indonesios deben determinar por qué un Boeing 737 Max8, uno de los aviones nuevos más vendidos en la Tierra, se precipitó al mar de Java.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_mayday-catastrofes-aereas-s21e04-doble-problema_l_l.jpg"/>
+    <episode-num system="xmltv_ns">20.3.</episode-num>
+  </programme>
+  <programme start="20250327220000 +0100" stop="20250327230000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+    <sub-title lang="es">Nan Madol: la isla perdida del Pacífico</sub-title>
+    <desc lang="es">Albert Lin viaja a Micronesia en el corazón del Océano Pacífico para descubrir la antigua ciudad de Nan Madol. Explorará tumbas, templos y sitios sagrados; todo edificado sobre islas creadas por el hombre hace siglos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_ciudades-perdidas-con-albert-lin-s01e03-nan-madol-la-isla-perdida-del-pacifico_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327230000 +0100" stop="20250328000200 +0100" channel="Canal NATGEO México">
+    <title lang="es">Alerta aeropuerto</title>
+    <sub-title lang="es">Falsa inocencia</sub-title>
+    <desc lang="es">En el Aeropuerto El Dorado todo puede ser un artificio para el contrabando de drogas: libros, alimentos y hasta implantes de glúteos. El Comando Antinarcóticos trabaja para descubrirlos a todos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s02e04-falsa-inocencia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250328000200 +0100" stop="20250328010000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Alerta aeropuerto</title>
+    <sub-title lang="es">Los paquetes de la abuela</sub-title>
+    <desc lang="es">Una anciana intenta traficar cocaína en uno de los más grandes cargamentos confiscados en el aeropuerto, una pasante de indonesia dice ser víctima de un engaño, y tres jóvenes son detenidos al intentar pasar droga en distintas modalidades.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_alerta-aeropuerto-s03e13_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+  </programme>
+  <programme start="20250328010000 +0100" stop="20250328020100 +0100" channel="Canal NATGEO México">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+    <sub-title lang="es">Los acantilados de Irlanda</sub-title>
+    <desc lang="es">Gordon explora la impresionante costa irlandesa de Connemara, en busca de cangrejos, cordero fresco, ostras, orejas de mar y algas. Luego, se enfrenta a su antigua alumna, la chef Anna Haugh, en los emblemáticos acantilados de Moher.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gordon-ramsay-sabores-extremos-s04e02-los-acantilados-de-irlanda_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+  </programme>
+  <programme start="20250328020100 +0100" stop="20250328025500 +0100" channel="Canal NATGEO México">
+    <title lang="es">Sabores caseros con Antoni Porowski</title>
+    <sub-title lang="es">James Marsden y el sabor de Alemania</sub-title>
+    <desc lang="es">En busca de los orígenes de un preciado plato de la familia Marsden, Antoni lleva a James a Alemania, donde desentierran una sorprendente historia familiar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250328025500 +0100" stop="20250328035000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Los mejores trenes de la historia</title>
+    <sub-title lang="es">Ferrocarril Darjeeling del Himalaya</sub-title>
+    <desc lang="es">El Ferrocarril Darjeeling del Himalaya tiene 140 años y es una maravilla de la ingeniería.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250328035000 +0100" stop="20250329035000 +0100" channel="Canal NATGEO México">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+    <sub-title lang="es">Sol de medianoche de Finlandia</sub-title>
+    <desc lang="es">En el norte de Finlandia, el chef Ramsay juega fútbol de pantano, navega por rápidos feroces, consigue pescado blanco y cocina en una sauna. Y después, se enfrenta al prestigioso chef, Kim Mikkola, en una épica cocina a orillas del río.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gordon-ramsay-sabores-extremos-s03e10-costa-accidentada-de-portugal_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.9.</episode-num>
   </programme>
 </tv>
