@@ -360,6 +360,10 @@
     <display-name lang="es">Cinecanal - Mexico</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png"/>
   </channel>
+  <channel id="HBO 2 - Mexico">
+    <display-name lang="es">HBO 2 - Mexico</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -27154,6 +27158,158 @@
     <icon src="https://cdn.mitvstatic.com/programs/mx_chicas-armadas-y-peligrosas-2013_l_l.jpg"/>
     <star-rating system="IMDb">
       <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327022800 +0100" stop="20250327042000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Cazafantasmas - Imperio helado</title>
+    <title lang="xx">Ghostbusters: Frozen Empire</title>
+    <desc lang="es">Cuando el descubrimiento de un antiguo artefacto desata una fuerza maligna, los Cazafantasmas nuevos y veteranos deben unir sus fuerzas para proteger su hogar y salvar al mundo de una segunda edad de hielo.</desc>
+    <date>2024</date>
+    <category lang="es">Fantasía</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327042000 +0100" stop="20250327050000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Los Gemstone</title>
+    <sub-title lang="es">Entristezcan como esos otros que no tienen esperanza</sub-title>
+    <desc lang="es">Cuando sus archienemigos invaden el territorio Gemstone, Jesse se prepara para contraatacar, mientras Kelvin recibe un honor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-gemstone-s04e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20250327050000 +0100" stop="20250327060100 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Culiacanazo: herederos del narco</title>
+    <sub-title lang="es">Los Chapitos</sub-title>
+    <desc lang="es">Tras la fallida detención del "Culiacanazo", la DEA intenta hallar evidencia que vincule a la familia Guzmán con una de las mayores operaciones de distribución de fentanilo. Entretanto, los Chapitos se enfrentan a sus poderosos rivales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327060100 +0100" stop="20250327074800 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Priscilla</title>
+    <desc lang="es">La adolescente Priscilla Beaulieu conoce a Elvis Presley en una fiesta y la estrella se convierte inesperadamente en su pareja. Ella experimenta una pasión arrolladora con el Rey del Rock, ganando un aliado en su soledad y un mejor amigo.</desc>
+    <date>2023</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327074800 +0100" stop="20250327085800 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">The White Lotus</title>
+    <sub-title lang="es">Negación</sub-title>
+    <desc lang="es">Tras el festival, Laurie se siente engañada por Jaclyn, y Saxon intenta enterrar lo ocurrido la noche anterior. Más tarde, el hijo de Belinda llega en un momento inoportuno, Chloe enfrenta preguntas de su novio y Rick continúa su artimaña.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20250327085800 +0100" stop="20250327104000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Resident Evil 3: La extinción</title>
+    <title lang="xx">Resident Evil: Extinction</title>
+    <desc lang="es">Alice y el resto de los supervivientes de la catástrofe de Raccoon se disponen a cruzar el desierto de Nevada con la esperanza de llegar a Alaska antes de que la Corporación Umbrella los alcance.</desc>
+    <date>2007</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_resident-evil-3-la-extincion-2007_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327104000 +0100" stop="20250327130000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Hannibal</title>
+    <desc lang="es">El Dr. Lecter está de regreso y debe enfrentarse a una antigua víctima que busca venganza y está dispuesta a conseguir lo que más le gusta a Hannibal, el cebo más exquisito e inocente: Clarice Starling.</desc>
+    <date>2001</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_hannibal-2001_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327130000 +0100" stop="20250327144000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Campamento de verano</title>
+    <title lang="xx">Summer Camp</title>
+    <desc lang="es">Ginny, Nora y Mary solían pasar los veranos juntas en un campamento. Cincuenta años después, sus vidas han cambiado mucho, pero aún se necesitan mutuamente. Un reencuentro en un campamento de verano reaviva los sentimientos de la infancia.</desc>
+    <date>2024</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>4.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327144000 +0100" stop="20250327165500 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">La Biblia de Clarence</title>
+    <title lang="xx">The Book of Clarence</title>
+    <desc lang="es">Luchando por encontrar una vida mejor, Clarence queda cautivado por el poder del Mesías en ascenso y lo arriesga todo para abrirse camino hacia una existencia divina. El viaje le lleva a explorar la fe y a recorrer un camino inesperado.</desc>
+    <date>2024</date>
+    <category lang="es">Aventura</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250327165500 +0100" stop="20250327185500 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Terremoto: la falla de San Andrés</title>
+    <title lang="xx">San Andreas</title>
+    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud nueve en California. Ray y su ex esposa Emma viajarán a San Francisco para salvar a su única hija, Blake.</desc>
+    <date>2015</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_terremoto-la-falla-de-san-andres-2015-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327185500 +0100" stop="20250327210000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Misántropo</title>
+    <title lang="xx">Misanthrope</title>
+    <desc lang="es">En Baltimore, en la noche de Año Nuevo, un feroz ataque perpetrado por un hombre deja 29 muertos y ni una sola pista de lo ocurrido. Eleanor Falco, una polícia de bajo rango, será reclutada para identificar y capturar al homicida.</desc>
+    <date>2023</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250327210000 +0100" stop="20250327232800 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Rápidos y furiosos X</title>
+    <title lang="xx">Fast X</title>
+    <desc lang="es">Dom Toretto y su familia han sobrepasado con éxito toda clase de retos y poderosos enemigos. Sin embargo, ahora han quedado en la mira del vengativo hijo del capo narcotraficante Hernán Reyes.</desc>
+    <date>2023</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250327232800 +0100" stop="20250328000800 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Los Gemstone</title>
+    <sub-title lang="es">Entristezcan como esos otros que no tienen esperanza</sub-title>
+    <desc lang="es">Cuando sus archienemigos invaden el territorio Gemstone, Jesse se prepara para contraatacar, mientras Kelvin recibe un honor.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-gemstone-s04e03_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+  </programme>
+  <programme start="20250328000800 +0100" stop="20250328023800 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">Animales fantásticos: Los secretos de Dumbledore</title>
+    <title lang="xx">Fantastic Beasts: The Secrets of Dumbledore</title>
+    <desc lang="es">Dumbledore sabe que Gellert Grindelwald quiere apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en Newt Scamander para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa.</desc>
+    <date>2022</date>
+    <category lang="es">Fantasía</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250328023800 +0100" stop="20250329023800 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">El señor de los anillos: la guerra de los Rohirrim</title>
+    <title lang="xx">The Lord of the Rings: The War of the Rohirrim</title>
+    <desc lang="es">Hera, hija de Helm Manomartillo, el legendario rey de Rohan, debe liderar la resistencia contra un enemigo mortal y librar una última y audaz batalla.</desc>
+    <date>2024</date>
+    <category lang="es">Aventura</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250329023800 +0100" stop="20250329050000 +0100" channel="HBO 2 - Mexico">
+    <title lang="es">El señor de los anillos: la guerra de los Rohirrim</title>
+    <title lang="xx">The Lord of the Rings: The War of the Rohirrim</title>
+    <desc lang="es">Hera, hija de Helm Manomartillo, el legendario rey de Rohan, debe liderar la resistencia contra un enemigo mortal y librar una última y audaz batalla.</desc>
+    <date>2024</date>
+    <category lang="es">Aventura</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
     </star-rating>
   </programme>
 </tv>
