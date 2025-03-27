@@ -380,6 +380,10 @@
     <display-name lang="es">Canal Discovery Channel (Colombia)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel.png"/>
   </channel>
+  <channel id="Canal Discovery Investigation">
+    <display-name lang="es">Discovery Investigation</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -28227,5 +28231,264 @@
   <programme start="20250327203200 -0300" stop="20250327221600 -0300" channel="Canal Discovery Channel (Colombia)">
     <title lang="es">Naked and Afraid Last One Stan</title>
     <sub-title lang="es">Chamuscado y quemado</sub-title>
+  </programme>
+  <programme start="20250327033800 +0100" stop="20250327042700 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <sub-title lang="es">El sospechoso inusual</sub-title>
+    <desc lang="es">Jeanne y Stephen Trantel tienen una vida soñada. Pero Stephen pierde su trabajo después del atentado del 11/9/2001 y con ello el final de su relación.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327042700 +0100" stop="20250327051600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Asesinatos en el campo de juego</title>
+    <sub-title lang="es">Aplausos robados</sub-title>
+    <desc lang="es">La joven Alicia DeBolt desaparece poco después de formar parte del equipo de porristas. La policía interroga a los miembros del equipo de fútbol y a las porristas, pero la verdad detrás de este misterio es más siniestra de lo que creen.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20250327051600 +0100" stop="20250327060600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
+    <sub-title lang="es">Sobreviviendo al diablo hermoso</sub-title>
+    <desc lang="es">En los suburbios de Chicago, un hombre con ardientes ojos azules resulta ser un monstruo sediento de sangre que se esconde a plena vista y ataca a mujeres jóvenes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250327060600 +0100" stop="20250327065600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
+    <sub-title lang="es">Sobreviviendo al asesino casanova</sub-title>
+    <desc lang="es">Una madre vuelve a casa y descubre que un asesino en serie tiene secuestrada a su hermana discapacitada. Luego él intenta secuestrar a su hijo, pero le suplica que se la lleve a ella. Para sobrevivir, debe conseguir que se enamore de ella.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327065600 +0100" stop="20250327074300 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
+    <sub-title lang="es">Sobreviviendo al asesino del ferrocarril</sub-title>
+    <desc lang="es">Un incipiente romance entre dos estudiantes universitarios se desbarata cuando un sádico los ataca durante un paseo nocturno cerca de las vías del tren. Solo una de las víctimas sobrevive al ataque.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327074300 +0100" stop="20250327083100 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Enlace mortal</title>
+    <sub-title lang="es">El bosque</sub-title>
+    <desc lang="es">En 1990, en Portland, Oregón, una joven sobrevive a un ataque. Una madre vive su peor pesadilla. Un detective conoce al asesino del caso que investiga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_enlace-mortal-s01e04-el-bosque_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250327083100 +0100" stop="20250327091900 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Enlace mortal</title>
+    <sub-title lang="es">Asesino a la deriva</sub-title>
+    <desc lang="es">En 1994, una mujer pierde a su hermana. Un detective descubre que el incendio no es un accidente, sino un asesinato. Un hombre descubre la verdadera naturaleza de su hermano.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_enlace-mortal-s01e05-asesino-a-la-deriva_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250327091900 +0100" stop="20250327100700 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Enlace mortal</title>
+    <sub-title lang="es">Los pecados del padre</sub-title>
+    <desc lang="es">En 1993, Una mujer encuentra a su hermana y a su sobrino asesinados a sangre fría. Además, una hija está involucrada en un asesinato. Luego, un caso se torna personal.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_enlace-mortal-s01e06-los-pecados-del-padre_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250327100700 +0100" stop="20250327105600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">La casa del mal</title>
+    <sub-title lang="es">Llamó para decir: "Los maté"</sub-title>
+    <desc lang="es">Ron Youngblood siempre soñó con tener una familia. Cuando conoce a Verónica, cree que sus sueños se están haciendo realidad. Pero resulta ser una pesadilla.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-casa-del-mal-s09e01-y-si-era-inocente_l_l.jpg"/>
+    <episode-num system="xmltv_ns">8.0.</episode-num>
+  </programme>
+  <programme start="20250327105600 +0100" stop="20250327114400 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+    <sub-title lang="es">El sospechoso inusual</sub-title>
+    <desc lang="es">Jeanne y Stephen Trantel tienen una vida soñada. Pero Stephen pierde su trabajo después del atentado del 11/9/2001 y con ello el final de su relación.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250327114400 +0100" stop="20250327123400 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Asesinatos en el campo de juego</title>
+    <sub-title lang="es">Aplausos robados</sub-title>
+    <desc lang="es">La joven Alicia DeBolt desaparece poco después de formar parte del equipo de porristas. La policía interroga a los miembros del equipo de fútbol y a las porristas, pero la verdad detrás de este misterio es más siniestra de lo que creen.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20250327123400 +0100" stop="20250327130000 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Encuentros infernales</title>
+    <sub-title lang="es">Bala para mi amor</sub-title>
+    <desc lang="es">Eddie y Melinda son novios y se encuentran en un lugar secreto: una cueva debajo de un puente. Pero una noche fatídica el refugio de los jóvenes amantes se transforma en una trampa mortal y deja al descubierto un perverso secreto familiar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_encuentros-infernales-s02e04-bala-para-mi-amor_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250327130000 +0100" stop="20250327134800 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Víctimas del amor</title>
+    <sub-title lang="es">Siempre juntos</sub-title>
+    <desc lang="es">Una adolescente a la que no le dejan tener citas conoce a un hombre. Los dos llegan al extremo para mantener su relación en secreto, pero cuando hay posibilidades de que salga a la luz, querrán ocultarlo a cualquier costo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_victimas-del-amor-s04e06-el-turno-nocturno_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+  </programme>
+  <programme start="20250327134800 +0100" stop="20250327141200 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Detrás de los crímenes virales</title>
+    <sub-title lang="es">No te metas con mi hija</sub-title>
+    <desc lang="es">Dos ladrones armados se acercan a una joven para robarle el auto. Pero se sorprenden cuando ella se defiende. El padre de una niña de 15 años organiza a su familia para detener al hombre de 33 años que intenta seducirla.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250327141200 +0100" stop="20250327143600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Detrás de los crímenes virales</title>
+    <sub-title lang="es">Corre con eso</sub-title>
+    <desc lang="es">En un acuario, unos ladrones roban un tiburón de un estanque abierto y se escapan. Dos convictos se escapan y se esconden en botes de basura. Luego, comienza la cacería para encontrarlos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327143600 +0100" stop="20250327150000 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Detrás de los crímenes virales</title>
+    <sub-title lang="es">Toma todo y vete</sub-title>
+    <desc lang="es">Un ladrón intenta detener a cuatro jóvenes a punta de pistola, pero se sorprende cuando ellos se defienden. Un hombre con una escopeta aparece en un garaje, pero un empleado lo enfrenta.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250327150000 +0100" stop="20250327152500 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Detrás de los crímenes virales</title>
+    <sub-title lang="es">Movimientos atrevidos</sub-title>
+    <desc lang="es">Se desata un tiroteo cuando una madre y su hija se ven obligadas a defender su negocio de un ladrón armado. Un hombre intenta robarle a un instructor de artes marciales, pero se da cuenta de que se metió con la persona equivocada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20250327152500 +0100" stop="20250327155000 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Detrás de los crímenes virales</title>
+    <sub-title lang="es">Ataque sorpresa</sub-title>
+    <desc lang="es">Un paseo en motocicleta durante la tarde se convierte en un violento incidente cuando una pareja es atacada por un conductor enfadado. Le roban con un cuchillo a una mujer que trabaja sola, pero ella se defiende.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250327155000 +0100" stop="20250327161400 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Detrás de los crímenes virales</title>
+    <sub-title lang="es">Atrapado en el acto</sub-title>
+    <desc lang="es">Un extraño intenta secuestrar a los hijos de una mujer, pero un luchador de 16 años lo evita. Se produce un robo aterrador en un taxi a plena luz del día, y alguien inesperado llega al rescate.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250327161400 +0100" stop="20250327163800 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Rasgos de un psicópata</title>
+    <sub-title lang="es">Soy solo un asesino enfermo</sub-title>
+    <desc lang="es">Un oficial responde a una llamada al 911 realizada por un ladrón prófugo que se siente obligado a entregarse. Sin embargo, cuando el oficial llega a la escena, el criminal confiesa mucho más que haber entrado a una casa ilegalmente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20250327163800 +0100" stop="20250327170200 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Rasgos de un psicópata</title>
+    <sub-title lang="es">Conociste al ángel de la muerte</sub-title>
+    <desc lang="es">Cuando un estudiante de posgrado desaparece repentinamente, la familia con la que se está quedando se comunica inmediatamente con la policía.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20250327170200 +0100" stop="20250327172600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Rasgos de un psicópata</title>
+    <sub-title lang="es">Soy extraño</sub-title>
+    <desc lang="es">Un asesino dispara a un hombre y a una mujer que regresan a su casa desde el gimnasio donde trabajan. Mientras interrogan a un sospechoso, los detectives descubren que no se trata de un ataque al azar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20250327172600 +0100" stop="20250327175100 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Rasgos de un psicópata</title>
+    <sub-title lang="es">A veces la gente recibe un disparo</sub-title>
+    <desc lang="es">Un joven de 17 años roba un arma y comienza un horrible viaje por la ruta. Asesina a dos empleados de una gasolinera a sangre fría, riéndose mientras dispara a sus víctimas en la cara.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+  </programme>
+  <programme start="20250327175100 +0100" stop="20250327181500 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Rasgos de un psicópata</title>
+    <sub-title lang="es">Las mujeres en su lista</sub-title>
+    <desc lang="es">En el transcurso de unas horas, un hombre desquiciado estalla, desatando un furioso alboroto que deja a tres mujeres muertas en sus casas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+  </programme>
+  <programme start="20250327181500 +0100" stop="20250327184000 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Rasgos de un psicópata</title>
+    <sub-title lang="es">Dios me iba a usar</sub-title>
+    <desc lang="es">Una enfermera confiesa haber ayudado a acabar con la vida de muchos pacientes en múltiples hogares de ancianos. Pronto descubren que no es un ángel de la misericordia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20250327184000 +0100" stop="20250327193400 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Megan Thee Stallion vs. Tory Lanez: el juicio</title>
+    <sub-title lang="es">La historia de Megan</sub-title>
+    <desc lang="es">El fiscal adjunto que procesó el caso cuenta la historia del ataque del rapero Tory Lanez a la estrella del hip-hop Megan Thee Stallion en 2020.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250327193400 +0100" stop="20250327202400 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Megan Thee Stallion vs. Tory Lanez: el juicio</title>
+    <sub-title lang="es">La historia de Tory</sub-title>
+    <desc lang="es">Las pruebas del juicio ponen en duda las acusaciones contra Tory, y sus seguidores desafían la narrativa y apuntan a un sistema legal defectuoso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250327202400 +0100" stop="20250327211100 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">El curioso caso de Natalia Grace</title>
+    <sub-title lang="es">El enredo del infierno</sub-title>
+    <desc lang="es">Natalia se muda con los DePaul, pero el control de Cynthia y Antwon se intensifica desde lejos. La presencia de Natalia enciende el caos, abre una brecha entre Nicole y Vince y empuja a Vince a querer irse.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+  <programme start="20250327211100 +0100" stop="20250327220000 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">El precio de la fama</title>
+    <sub-title lang="es">Un día en la corte</sub-title>
+    <desc lang="es">Un comisario convertido en actor alcanza nuevas alturas de fama como alguacil en un programa ganador de un Emmy. Cuando un tiroteo en su casa lo deja herido y a su esposa muerta, la policía descubre que la estrella oculta algo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250327220000 +0100" stop="20250327224900 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">El precio de la fama</title>
+    <sub-title lang="es">Guion de un asesinato</sub-title>
+    <desc lang="es">El comediante Jim Jefferies relata sus experiencias con un becario que parece tenerlo todo: autos de lujo, vacaciones exóticas y mujeres hermosas. Pero en mayo de 2016, todo se viene abajo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20250327224900 +0100" stop="20250327233800 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">El precio de la fama</title>
+    <sub-title lang="es">Fuera del registro</sub-title>
+    <desc lang="es">Jam Master Jay, mejor conocido como DJ de Run-DMC, se convierte en una leyenda del hip-hop. Su vida se trunca cuando lo ejecutan en su estudio de grabación. Una entrevista con un testigo arroja luz sobre este caso que lleva décadas abierto.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20250327233800 +0100" stop="20250328002700 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Investigación en curso</title>
+    <sub-title lang="es">Nuevos comienzos, finales violentos</sub-title>
+    <desc lang="es">Dorian Bluford se muda a una nueva ciudad para estar más cerca de un amigo que su familia no conoce, pero es brutalmente asesinado y apuñalado 37 veces en el pecho. La policía descarta al nuevo amigo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_investigacion-en-curso-s05e20-nuevos-comienzos-finales-violentos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.19.</episode-num>
+  </programme>
+  <programme start="20250328002700 +0100" stop="20250328011600 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Investigación en curso</title>
+    <sub-title lang="es">Profundidades de depravación</sub-title>
+    <desc lang="es">Aparece el cuerpo de una mujer de 20 años descuartizado en bolsas de residuos. La persecución frustrada de un detective al principal sospechoso hace que surja la siguiente pregunta ¿podría este hombre ser un asesino en serie?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.20.</episode-num>
+  </programme>
+  <programme start="20250328011600 +0100" stop="20250328020500 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Revista People investiga</title>
+    <sub-title lang="es">La extraña desaparición de Karlie Guse</sub-title>
+    <desc lang="es">En 2018, una chica de 16 años desaparece después de asistir a una fiesta de secundaria en un pueblo aislado del norte de California. El extraño misterio deja a todos preguntándose: ¿qué pasó con Karlie Guse?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revista-people-investiga-s07e07-o-estranho-desaparecimento-de-karlie-guse_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+  </programme>
+  <programme start="20250328020500 +0100" stop="20250328025400 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Revista People investiga</title>
+    <sub-title lang="es">En cautiverio: la desaparición de Tanya Kach</sub-title>
+    <desc lang="es">Después de mudarse a una nueva ciudad tras el divorcio de sus padres, una niña de 14 años comienza a huir de casa hasta que un día nunca regresa. Se necesitan diez años antes de que se descubran oscuros secretos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_revista-people-investiga-s07e08-en-cautiverio-la-desaparicion-de-tanya-kach_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+  </programme>
+  <programme start="20250328025400 +0100" stop="20250328034900 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Taylor Swift vs. Scooter Braun: Bad Blood</title>
+    <sub-title lang="es">Taylor</sub-title>
+    <desc lang="es">La versión de los hechos de Taylor Swift mientras aborda la misoginia de la industria musical y presenta una lucha feminista cuando su catálogo de música se vende en contra de sus deseos a su viejo enemigo, Scooter Braun.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250328034900 +0100" stop="20250329034900 +0100" channel="Canal Discovery Investigation">
+    <title lang="es">Taylor Swift vs. Scooter Braun: Bad Blood</title>
+    <sub-title lang="es">Scooter</sub-title>
+    <desc lang="es">La versión de Scooter Braun de los acontecimientos de la disputa pública entre él y Taylor Swift. ¿Por qué recibió amenazas de muerte de Swifties?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
 </tv>
