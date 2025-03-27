@@ -182,7 +182,7 @@
   </channel>
   <channel id="ZCL• HISTORY (HD)">
     <display-name lang="es">ZCL• HISTORY (HD)</display-name>
-    <icon src="https://www.reportv.com.ar/buscador/img/Logos/19233374.gif"/>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_history_m.png"/>
   </channel>
   <channel id="ZCL• HISTORY 2 (HD)">
     <display-name lang="es">ZCL• HISTORY 2 (HD)</display-name>
@@ -17395,305 +17395,233 @@
       <value>7.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20250327003900 -0400" stop="20250327010500 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327055500 +0100" stop="20250327064700 +0100" channel="ZCL• HISTORY (HD)">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+    <sub-title lang="es">Lo mejor de: Fuera del camino de los recolectores</sub-title>
+    <desc lang="es">Durante uno de sus típicos recorridos en busca de artículos coleccionables, Mike y Frank se adentran en el bosque. Lo que en principio les parece un cuento de terror, termina convirtiéndose en una aventura repleta de oro oxidado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-cazadores-de-tesoros-s20e157-lo-mejor-de-fuera-del-camino-de-los-recolectores_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.156.</episode-num>
+  </programme>
+  <programme start="20250327064700 +0100" stop="20250327073900 +0100" channel="ZCL• HISTORY (HD)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Reliquias de Disney</sub-title>
+    <desc lang="es">La tienda de empeño se convierte en el lugar más feliz del mundo cuando unos vendedores llegan con artículos de Disney, incluyendo una réplica restaurada del famoso paseo Jungle Cruise.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s23e44-reliquias-de-disney_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.43.</episode-num>
+  </programme>
+  <programme start="20250327073900 +0100" stop="20250327080500 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Crónicas de prisión</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Leavenworth</sub-title>
+    <desc lang="es">Leavenworth fue la prisión federal de máxima seguridad más grande de EE.UU. durante más de cien años. Allí el recluso, Carl Panzram, atacó a su capataz. Luego, el asesino Robert Stroud se volvió famoso por su trabajo con las aves.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20250327010500 -0400" stop="20250327012900 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327080500 +0100" stop="20250327082900 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Crónicas de prisión</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">La torre de Londres</sub-title>
+    <desc lang="es">La Torre de Londres es famosa por su reputación de torturas y decapitaciones. Aquí, la reina Ana Bolena se enfrentó a la espada del verdugo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
-  <programme start="20250327012900 -0400" stop="20250327015300 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327082900 +0100" stop="20250327085300 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Pinturas rupestres alienígenas y Pie Grande</sub-title>
+    <desc lang="es">Tony y su equipo de expertos investigan si un hombre que recolectaba hongos grabó realmente la llamada de Pie Grande.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e28-el-primo-de-nessie-y-los-ovnis-de-nueva-york_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.27.</episode-num>
   </programme>
-  <programme start="20250327015300 -0400" stop="20250327021500 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327085300 +0100" stop="20250327091500 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">El merodeador nocturno y la bestia del árbol</sub-title>
+    <desc lang="es">¿Ha habido un nuevo avistamiento de Pie Grande en California? ¿Acaso las rayas en el cielo nocturno de Australia son la prueba de la existencia de extraterrestres?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e26-el-yeti-y-el-ovni-de-italia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.25.</episode-num>
   </programme>
-  <programme start="20250327021500 -0400" stop="20250327023700 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327091500 +0100" stop="20250327093700 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Criatura del terror y acróbatas virales</sub-title>
+    <desc lang="es">Tony y su equipo de expertos investigan si los increíbles videos de acróbatas volteando autos a toda velocidad son reales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e27-el-monstruo-marino-y-el-supersoldado_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.26.</episode-num>
   </programme>
-  <programme start="20250327023700 -0400" stop="20250327032100 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327093700 +0100" stop="20250327102100 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">El secreto de Skinwalker</title>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Escuchando la frecuencia</sub-title>
+    <desc lang="es">Cuando se realiza un ritual de sonido indígena en el Rancho Skinwalker, el equipo decide recurrir a experimentos alternativos y quedan asombrados por los fenómenos que se revelan. Además, se preguntan si existe una conexión ancestral allí.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-secreto-de-skinwalker-s04e39-escuchando-la-frecuencia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.38.</episode-num>
   </programme>
-  <programme start="20250327032100 -0400" stop="20250327040500 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327102100 +0100" stop="20250327110500 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Alienígenas ancestrales</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">El misterio de la civilización perdida</sub-title>
+    <desc lang="es">Un antiguo sitio megalítico ubicado en el sur de Turquía, el yacimiento arqueológico prehistórico Karahan Tepe, contiene técnicas y habilidades de ingeniería mucho más avanzadas de lo que se pensaba que eran capaces de alcanzar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_alienigenas-ancestrales-s19e03-el-misterio-de-la-civilizacion-perdida_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.2.</episode-num>
   </programme>
-  <programme start="20250327040500 -0400" stop="20250327044800 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Hombres de montaña</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+  <programme start="20250327110500 +0100" stop="20250327114800 +0100" channel="ZCL• HISTORY (HD)">
+    <title lang="es">Hombres de la montaña</title>
+    <sub-title lang="es">Callejón del león</sub-title>
+    <desc lang="es">La moto de nieve de Jake se estropea en medio de Lion Alley mientras Paul se ocupa del problema de un vecino con un castor y una rata almizclera. Luego, Tom y Nancy confeccionan un chaleco de piel de ante especial para Hank.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_hombres-de-la-montana-s12e05-callejon-del-leon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.4.</episode-num>
   </programme>
-  <programme start="20250327044800 -0400" stop="20250327053200 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327114800 +0100" stop="20250327123200 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Cazadores de tesoros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Interés general</category>
+    <sub-title lang="es">Tesoros fotográficos</sub-title>
+    <desc lang="es">Los hermanos Wolfe tras recorrer las carreteras más escondidas de Estados Unidos, llegan a California, donde examinan el escondite ecléctico de un fotógrafo recién fallecido y visitan un rancho que tiene una ineludible señal de neón.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cazadores-de-tesoros-s23e07-tesoros-fotograficos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.6.</episode-num>
   </programme>
-  <programme start="20250327053200 -0400" stop="20250327061600 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327123200 +0100" stop="20250327131600 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Cazadores de tesoros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Interés general</category>
+    <sub-title lang="es">Los flippers de Jack</sub-title>
+    <desc lang="es">Los hermanos Wolfe encuentran una mina de oro de artículos cerveceros, además, hallan la máquina de pinball más grande de todas y a un Elvis en la casa de un coleccionista de Milwaukee.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_cazadores-de-tesoros-s23e09-los-flippers-de-jack_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.8.</episode-num>
   </programme>
-  <programme start="20250327061600 -0400" stop="20250327070000 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327131600 +0100" stop="20250327140000 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Alienígenas ancestrales</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Los dioses de Grecia</sub-title>
+    <desc lang="es">Hace más de tres mil años, los antiguos griegos construyeron un imperio que se considera la cuna de la civilización occidental. Ellos atribuyeron sus monumentales logros a sus dioses: Zeus, Apolo y Poseidón.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_alienigenas-ancestrales-s19e16-los-dioses-de-grecia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">18.15.</episode-num>
   </programme>
-  <programme start="20250327070000 -0400" stop="20250327074800 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327140000 +0100" stop="20250327144800 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">El precio de la historia</title>
-    <category lang="es">Reality Show</category>
+    <sub-title lang="es">Documentales desde la Luna</sub-title>
+    <desc lang="es">Un vendedor llega a la tienda con documentos del Apolo XI. Además, Chum busca quedarse con una Harley Davidson Topper del año 1962. Además, Rick revisa un supuesto grabado de Renoir.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-precio-de-la-historia-s18e07-documentales-desde-la-luna_l_l.jpg"/>
+    <episode-num system="xmltv_ns">17.6.</episode-num>
   </programme>
-  <programme start="20250327074800 -0400" stop="20250327083600 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327144800 +0100" stop="20250327153600 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">El precio de la historia</title>
-    <category lang="es">Reality Show</category>
+    <sub-title lang="es">Béisbol bajo la lupa</sub-title>
+    <desc lang="es">Corey juega a la pelota cuando recibe una carta firmada que lo deja fuera de juego. Rick mira un póster de John Wilkes Booth que no va a querer colgar en su dormitorio.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-precio-de-la-historia-s18e10-beisbol-bajo-la-lupa_l_l.jpg"/>
+    <episode-num system="xmltv_ns">17.9.</episode-num>
   </programme>
-  <programme start="20250327083600 -0400" stop="20250327090000 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327153600 +0100" stop="20250327160000 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Lo mejor de El precio de la historia</title>
-    <category lang="es">Reality Show</category>
+    <sub-title lang="es">Basura o tesoro</sub-title>
+    <desc lang="es">Estos artículos pueden valer millones o quizás centavos: un viejo violín, una litografía de Picasso, y un cofre del tesoro nunca antes abierto.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s12e41-basura-o-tesoro_l_l.jpg"/>
+    <episode-num system="xmltv_ns">11.40.</episode-num>
   </programme>
-  <programme start="20250327090000 -0400" stop="20250327100000 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327160000 +0100" stop="20250327170000 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Infomerciales</title>
-    <category lang="es">Venta y Publicidad</category>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
   </programme>
-  <programme start="20250327100000 -0400" stop="20250327110000 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327170000 +0100" stop="20250327180000 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Infomerciales</title>
-    <category lang="es">Venta y Publicidad</category>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
     <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
   </programme>
-  <programme start="20250327110000 -0400" stop="20250327112400 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327180000 +0100" stop="20250327182400 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Criatura del terror y acróbatas virales</sub-title>
+    <desc lang="es">Tony y su equipo de expertos investigan si los increíbles videos de acróbatas volteando autos a toda velocidad son reales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e27-el-monstruo-marino-y-el-supersoldado_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.26.</episode-num>
   </programme>
-  <programme start="20250327112400 -0400" stop="20250327114900 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327182400 +0100" stop="20250327184900 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Ovni en llamas y el dinosaurio en la playa</sub-title>
+    <desc lang="es">Tony y su equipo investigan si una criatura prehistórica en la costa de Georgia podría ser un hallazgo histórico.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e23-la-momia-mutante-y-el-monolito-alienigena_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.22.</episode-num>
   </programme>
-  <programme start="20250327114900 -0400" stop="20250327123700 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327184900 +0100" stop="20250327193700 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Grandes misterios de la historia</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Decodificando los secretos de Stonehenge</sub-title>
+    <desc lang="es">Stonehenge es uno de los monumentos prehistóricos más famosos de la Tierra. Un misterioso grupo de piedras colocado cuidadosamente en medio de un campo inglés que, hasta la fecha, nadie sabe quién construyó.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_grandes-misterios-de-la-historia-s04e42-decodificando-los-secretos-de-stonehenge_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.41.</episode-num>
   </programme>
-  <programme start="20250327123700 -0400" stop="20250327132700 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327193700 +0100" stop="20250327202700 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Gigantes de la comida</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Revolución del helado</sub-title>
+    <desc lang="es">Un taxista se convierte en un empresario de los helados, al combinar caramelos con helado de alta calidad. Su idea termina revolucionando el mercado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_gigantes-de-la-comida-s05e02-revolucion-del-helado_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
   </programme>
-  <programme start="20250327132700 -0400" stop="20250327141700 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327202700 +0100" stop="20250327211700 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Lo mejor de El precio de la historia</title>
-    <category lang="es">Reality Show</category>
+    <sub-title lang="es">NBA de colección</sub-title>
+    <desc lang="es">Un vendedor llega a la tienda con algunos de los artículos de la NBA, más coleccionables de todos los tiempos. Rick y su equipo sienten que tendrán que dar el 110% para ganar este juego.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s25e93-nba-de-coleccion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.92.</episode-num>
   </programme>
-  <programme start="20250327141700 -0400" stop="20250327155700 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327211700 +0100" stop="20250327225700 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Gigantes de la industria: Titanes</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Unidos venceremos</sub-title>
+    <desc lang="es">Alemania inicia la Segunda Guerra Mundial en Europa y Japón ataca Pearl Harbor. Ahora, el mismo presidente que estuvo años atras compitiendo con los sectores industriales, deberá pedirles que unan sus fuerzas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20250327155700 -0400" stop="20250327164800 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327225700 +0100" stop="20250327234800 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Inexplicable</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Artefactos bíblicos</sub-title>
+    <desc lang="es">Desde los antiguos babilonios hasta los exploradores urbanos de hoy en día, la humanidad siempre le fascinó los lugares abandonados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_inexplicable-s04e04-lugares-abandonados_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
   </programme>
-  <programme start="20250327164800 -0400" stop="20250327173800 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250327234800 +0100" stop="20250328003800 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">El Pie Grande de la montaña de mármol y los susurros de la mina Waldek</sub-title>
+    <desc lang="es">Posibles evidencias de la existencia de Pie Grande en California del Norte. Un hombre dice oír los susurros de los muertos en una mina de oro abandonada en Australia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s03e05-el-pie-grande-de-la-montana-de-marmol-y-los-susurros-de-la-mina-waldek_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
   </programme>
-  <programme start="20250327173800 -0400" stop="20250327182900 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328003800 +0100" stop="20250328012900 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Aztecas: el oro perdido</title>
-    <category lang="es">Reality Show</category>
+    <sub-title lang="es">Descubrimientos explosivos</sub-title>
+    <desc lang="es">En Uthah, los Dillman creen haber encontrado la cámara del tesoro, pero deben tener cuidado de no activar una trampa de agua azteca mientras excavan. En Nuevo México, la familia Villescas descubre diversos secretos bajo tierra.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
   </programme>
-  <programme start="20250327182900 -0400" stop="20250327192100 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328012900 +0100" stop="20250328022100 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Persiguiendo a Hitler</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Guardia nazi secreta</sub-title>
+    <desc lang="es">Tim Kennedy, de las Fuerzas Especiales del ejército estadounidense, explora junto con los arqueólogos Philip Kiernan y Daniel Schavelzon un misterioso complejo en Argentina donde hay elementos nazis y pruebas de una opulencia inexplicable.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_persiguiendo-a-hitler-s01e02-guardia-nazi-secreta_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20250327192100 -0400" stop="20250327201600 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328022100 +0100" stop="20250328031600 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">MysteryQuest</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">El ascenso del cuarto Reich</sub-title>
+    <desc lang="es">Los Oficiales de la SS, la unidad paramilitar más temida de Hitler, fueron los criminales más notorios de la segunda guerra mundial. Muchos de ellos fueron llevados ante el juicio de Nüremberg, luego de que finalizara la guerra.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
   </programme>
-  <programme start="20250327201600 -0400" stop="20250327210800 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328031600 +0100" stop="20250328040800 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Inexplicable: misterios del universo con William Shatner</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Terrícolas alienígenas</sub-title>
+    <desc lang="es">Mientras hacemos planes para viajar más allá de la Luna, hacia nuevos mundos. ¿Cómo nos preparamos para convertirnos en una raza mixta de humanos-alienigenas? ¿Cómo sobreviviremos a este viaje hacia lo desconocido?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20250327210800 -0400" stop="20250327220300 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328040800 +0100" stop="20250328050300 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Los expedientes secretos</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">No estamos solos: el caso Campeche</sub-title>
+    <desc lang="es">En el año 2004, en Campeche, un avión de la Fuerza Aérea que patrullaba la costa detectó una serie de OVNIS en sus radares. Esto desencadenó una intensa investigación que resultó ser el primer caso oficial desclasificado de México.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20250327220300 -0400" stop="20250327225500 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328050300 +0100" stop="20250328055500 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Ciudades milenarias</title>
-    <category lang="es">Documentales</category>
+    <desc lang="es">El periodista y ufólogo Jaime Maussán explora tres de las ciudades milenarias más importantes de Latinoamérica y su conexión con el fenómeno OVNI.</desc>
     <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_ciudades-milenarias_l_l.jpg"/>
   </programme>
-  <programme start="20250327225500 -0400" stop="20250327234700 -0400" channel="ZCL• HISTORY (HD)">
+  <programme start="20250328055500 +0100" stop="20250329055500 +0100" channel="ZCL• HISTORY (HD)">
     <title lang="es">Alienígenas ancestrales</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250327234700 -0400" stop="20250328003700 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328003700 -0400" stop="20250328012900 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">No identificado</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328012900 -0400" stop="20250328015300 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328015300 -0400" stop="20250328021700 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328021700 -0400" stop="20250328030100 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">El secreto de Skinwalker</title>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328030100 -0400" stop="20250328034500 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Alienígenas ancestrales</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328034500 -0400" stop="20250328042800 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Hombres de montaña</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328042800 -0400" stop="20250328051200 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Cazadores de tesoros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20250328051200 -0400" stop="20250328055600 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Cazadores de tesoros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Interés general</category>
-  </programme>
-  <programme start="20250328055600 -0400" stop="20250328063900 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Alienígenas ancestrales</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328063900 -0400" stop="20250328070000 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328070000 -0400" stop="20250328074800 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Lo mejor de Cazadores de tesoros</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20250328074800 -0400" stop="20250328083600 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Lo mejor de Cazadores de tesoros</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20250328083600 -0400" stop="20250328090000 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Lo mejor de El precio de la historia</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20250328090000 -0400" stop="20250328100000 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Infomerciales</title>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20250328100000 -0400" stop="20250328110000 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Infomerciales</title>
-    <category lang="es">Venta y Publicidad</category>
-    <category lang="es">Publicidad</category>
-  </programme>
-  <programme start="20250328110000 -0400" stop="20250328114700 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328114700 -0400" stop="20250328123500 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Grandes misterios de la historia</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328123500 -0400" stop="20250328132300 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Gigantes de la comida</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328132300 -0400" stop="20250328141400 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Lo mejor de El precio de la historia</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20250328141400 -0400" stop="20250328155200 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Triunfo: Jesse Owens y los Juegos de Berlín</title>
-    <category lang="es">Cine</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328155200 -0400" stop="20250328164300 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Inexplicable</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328164300 -0400" stop="20250328173300 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">La evidencia está entre nosotros</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328173300 -0400" stop="20250328182300 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Alienígenas ancestrales</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328182300 -0400" stop="20250328192600 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Mitos: los grandes misterios de la humanidad</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328192600 -0400" stop="20250328202000 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Inexplicable latinoamérica</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328202000 -0400" stop="20250328211200 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Triángulo de las Bermudas: aguas malditas</title>
-    <category lang="es">Reality Show</category>
-  </programme>
-  <programme start="20250328211200 -0400" stop="20250328220300 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Grandes misterios de la historia</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328220300 -0400" stop="20250328225500 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Misterios inexplorados con danny trejo</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328225500 -0400" stop="20250328234700 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Increíble con Dan Aykroyd</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
-  </programme>
-  <programme start="20250328234700 -0400" stop="20250329003900 -0400" channel="ZCL• HISTORY (HD)">
-    <title lang="es">Inexplicable</title>
-    <category lang="es">Series</category>
-    <category lang="es">Documental</category>
+    <sub-title lang="es">Tumba de los toros cósmicos</sub-title>
+    <desc lang="es">Documental que explora setenta y cinco millones de años de pruebas contundentes sobre la posible vida de los extraterrestres en el planeta Tierra, desde la era de los dinosaurios hasta hoy en día.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_alienigenas-ancestrales-s16e253-tumba-de-los-toros-cosmicos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">15.252.</episode-num>
   </programme>
   <programme start="20250327035500 +0100" stop="20250327044600 +0100" channel="ZCL• HISTORY 2 (HD)">
     <title lang="es">Submarinos perdidos de la Segunda Guerra Mundial</title>
