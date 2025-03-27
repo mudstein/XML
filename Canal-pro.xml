@@ -364,6 +364,10 @@
     <display-name lang="es">HBO 2 - Mexico</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
   </channel>
+  <channel id="Canal TLC - México">
+    <display-name lang="es">Canal TLC - México</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tlc.png"/>
+  </channel>
   <programme start="20250327035500 +0100" stop="20250327042000 +0100" channel="ZCL• NICK JR (HD)">
     <title lang="es">Patrulla canina</title>
     <sub-title lang="es">Los cachorros salvan las elecciones / Los cachorros salvan a los monos globo</sub-title>
@@ -27311,5 +27315,125 @@
     <star-rating system="IMDb">
       <value>6.5/10</value>
     </star-rating>
+  </programme>
+  <programme start="20250327003000 -0300" stop="20250327012200 -0300" channel="Canal TLC - México">
+    <title lang="es">Invasores</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20250327012200 -0300" stop="20250327021400 -0300" channel="Canal TLC - México">
+    <title lang="es">Invasores</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20250327021400 -0300" stop="20250327030800 -0300" channel="Canal TLC - México">
+    <title lang="es">Alaska Hombres primitivo</title>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20250327030800 -0300" stop="20250327035900 -0300" channel="Canal TLC - México">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20250327035900 -0300" stop="20250327045000 -0300" channel="Canal TLC - México">
+    <title lang="es">Un gran mundo pequeño</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20250327045000 -0300" stop="20250327054000 -0300" channel="Canal TLC - México">
+    <title lang="es">Un gran mundo pequeño</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20250327054000 -0300" stop="20250327063000 -0300" channel="Canal TLC - México">
+    <title lang="es">La gran familia Derrico</title>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20250327063000 -0300" stop="20250327072000 -0300" channel="Canal TLC - México">
+    <title lang="es">Una Gran Familia</title>
+    <episode-num system="onscreen">S9 E7</episode-num>
+  </programme>
+  <programme start="20250327072000 -0300" stop="20250327081000 -0300" channel="Canal TLC - México">
+    <title lang="es">Una Gran Familia</title>
+    <episode-num system="onscreen">S9 E8</episode-num>
+  </programme>
+  <programme start="20250327081000 -0300" stop="20250327090000 -0300" channel="Canal TLC - México">
+    <title lang="es">Regreso al mundo Amish</title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20250327090000 -0300" stop="20250327094800 -0300" channel="Canal TLC - México">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S6 E7</episode-num>
+  </programme>
+  <programme start="20250327094800 -0300" stop="20250327103600 -0300" channel="Canal TLC - México">
+    <title lang="es">Una Gran Familia</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20250327103600 -0300" stop="20250327112500 -0300" channel="Canal TLC - México">
+    <title lang="es">Los Busby</title>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20250327112500 -0300" stop="20250327121400 -0300" channel="Canal TLC - México">
+    <title lang="es">Un gran mundo pequeño la gran</title>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20250327121400 -0300" stop="20250327130200 -0300" channel="Canal TLC - México">
+    <title lang="es">Un gran mundo pequeño la gran</title>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20250327130200 -0300" stop="20250327135100 -0300" channel="Canal TLC - México">
+    <title lang="es">Soy Jazz</title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20250327135100 -0300" stop="20250327144000 -0300" channel="Canal TLC - México">
+    <title lang="es">Soy Jazz</title>
+    <episode-num system="onscreen">S4 E4</episode-num>
+  </programme>
+  <programme start="20250327144000 -0300" stop="20250327152800 -0300" channel="Canal TLC - México">
+    <title lang="es">Gran-diosa</title>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20250327152800 -0300" stop="20250327161800 -0300" channel="Canal TLC - México">
+    <title lang="es">Gran-diosa</title>
+    <episode-num system="onscreen">S3 E14</episode-num>
+  </programme>
+  <programme start="20250327161800 -0300" stop="20250327170800 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días solteros otr</title>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20250327170800 -0300" stop="20250327175800 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días solteros otr</title>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20250327175800 -0300" stop="20250327184800 -0300" channel="Canal TLC - México">
+    <title lang="es">Mi gran boda gitana</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20250327184800 -0300" stop="20250327193700 -0300" channel="Canal TLC - México">
+    <title lang="es">Una Gran Familia</title>
+    <episode-num system="onscreen">S7 E11</episode-num>
+  </programme>
+  <programme start="20250327193700 -0300" stop="20250327202700 -0300" channel="Canal TLC - México">
+    <title lang="es">Un gran mundo pequeño la gran</title>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20250327202700 -0300" stop="20250327211700 -0300" channel="Canal TLC - México">
+    <title lang="es">Un gran mundo pequeño</title>
+    <episode-num system="onscreen">S16 E1</episode-num>
+  </programme>
+  <programme start="20250327211700 -0300" stop="20250327225700 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días ¿Felices por</title>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20250327225700 -0300" stop="20250328003600 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días Antes del via</title>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20250328225700 -0300" stop="20250329003600 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días Antes del via</title>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20250329003600 -0300" stop="20250329021700 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días Antes del via</title>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20250329021700 -0300" stop="20250329030800 -0300" channel="Canal TLC - México">
+    <title lang="es">Todo en 90 días desde casa ¿f</title>
+    <episode-num system="onscreen">E23</episode-num>
   </programme>
 </tv>
