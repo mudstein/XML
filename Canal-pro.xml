@@ -13771,9 +13771,6 @@
     <category lang="es">Noticiero</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_news_l_l.jpg"/>
   </programme>
-  <programme start="20250404010000 -0300" stop="20250404011500 -0300" channel="ZCL• ANTENA 3 (HD)">
-    <title lang="es">La Tienda en Casa</title>
-  </programme>
   <programme start="20250404011500 -0300" stop="20250404035500 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Noticias de la mañana</title>
   </programme>
@@ -13808,9 +13805,11 @@
   </programme>
   <programme start="20250404175000 -0300" stop="20250405010000 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Angela</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20250405175000 -0300" stop="20250406010000 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Angela</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20250406010000 -0300" stop="20250406014500 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Teletienda</title>
@@ -13821,7 +13820,7 @@
   <programme start="20250406020000 -0300" stop="20250406031500 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Pelopicopata</title>
   </programme>
-  <programme start="20250406031500 -0300" stop="20250406074500 -0300" channel="ZCL• ANTENA 3 (HD)">
+  <programme start="20250406031500 -0300" stop="20250406050000 -0300" channel="ZCL• ANTENA 3 (HD)">
     <title lang="es">Los Más...</title>
   </programme>
   <programme start="20250404050000 +0200" stop="20250404055500 +0200" channel="ZCL• A&amp;E (HD)">
@@ -14220,19 +14219,19 @@
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_camino-a-estambul-2014_l_l.jpg"/>
   </programme>
-  <programme start="20250404005000 -0300" stop="20250404015000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250404005000 -0300" stop="20250404010000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Más de series</title>
   </programme>
-  <programme start="20250404015000 -0300" stop="20250404044500 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250404010000 -0300" stop="20250404014000 -0300" channel="ZCL• A3 SERIES (HD)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20250404014000 -0300" stop="20250404041500 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Con El Culo Al Aire</title>
   </programme>
-  <programme start="20250404044500 -0300" stop="20250404064500 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250404041500 -0300" stop="20250404073000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-  <programme start="20250404064500 -0300" stop="20250404131500 -0300" channel="ZCL• A3 SERIES (HD)">
-    <title lang="es">Rex, un policía diferente</title>
-  </programme>
-  <programme start="20250404131500 -0300" stop="20250404160000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250404073000 -0300" stop="20250404160000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">El Mentalista</title>
     <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon.</desc>
     <icon src="https://imagenes.gatotv.com/categorias/programas/the_mentalist.jpg"/>
@@ -14240,19 +14239,25 @@
   <programme start="20250404160000 -0300" stop="20250404200500 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Crimen en el paraíso</title>
   </programme>
-  <programme start="20250404200500 -0300" stop="20250404205000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250404200500 -0300" stop="20250404210000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Live Casino</title>
   </programme>
-  <programme start="20250404205000 -0300" stop="20250404233000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250404210000 -0300" stop="20250404214500 -0300" channel="ZCL• A3 SERIES (HD)">
+    <title lang="es">The game show</title>
+  </programme>
+  <programme start="20250404214500 -0300" stop="20250405005000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-  <programme start="20250404233000 -0300" stop="20250404233500 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250405214500 -0300" stop="20250406005000 -0300" channel="ZCL• A3 SERIES (HD)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20250406005000 -0300" stop="20250406010000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Más de series</title>
   </programme>
-  <programme start="20250404233500 -0300" stop="20250405053000 -0300" channel="ZCL• A3 SERIES (HD)">
-    <title lang="es">Allí abajo</title>
+  <programme start="20250406010000 -0300" stop="20250406013000 -0300" channel="ZCL• A3 SERIES (HD)">
+    <title lang="es">Más de series</title>
   </programme>
-  <programme start="20250405233500 -0300" stop="20250406053000 -0300" channel="ZCL• A3 SERIES (HD)">
+  <programme start="20250406013000 -0300" stop="20250406053000 -0300" channel="ZCL• A3 SERIES (HD)">
     <title lang="es">Allí abajo</title>
   </programme>
   <programme start="20250404045900 +0200" stop="20250404052500 +0200" channel="ZCL• WARNER (HD)">
@@ -22081,6 +22086,139 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.2.</episode-num>
   </programme>
+  <programme start="20250403233000 -0300" stop="20250404002200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tu Casa Un Hogar Con Mabel Cartagena</title>
+  </programme>
+  <programme start="20250404002200 -0300" stop="20250404011400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Hermanos a la obra desafío</title>
+    <sub-title lang="es">Magia en el dormitorio principal</sub-title>
+  </programme>
+  <programme start="20250404011400 -0300" stop="20250404020600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Remodelaciones con celebridades</title>
+    <sub-title lang="es">Brad Pitt y la renovación del patio trasero</sub-title>
+  </programme>
+  <programme start="20250404020600 -0300" stop="20250404025800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+    <sub-title lang="es">Brocheta de paracaidistas</sub-title>
+  </programme>
+  <programme start="20250404025800 -0300" stop="20250404034800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">El sexto dedo</sub-title>
+  </programme>
+  <programme start="20250404034800 -0300" stop="20250404043600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Las renovadoras</title>
+    <sub-title lang="es">Hermandad es ganar</sub-title>
+  </programme>
+  <programme start="20250404043600 -0300" stop="20250404052400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Vívala o véndala Vancouver</title>
+    <sub-title lang="es">Randi y Neil</sub-title>
+  </programme>
+  <programme start="20250404052400 -0300" stop="20250404061200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">La casa del mal</title>
+    <sub-title lang="es">Mi hijo está perdido</sub-title>
+  </programme>
+  <programme start="20250404061200 -0300" stop="20250404070000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Sandra Lee especialista en piel</title>
+    <sub-title lang="es">Nace un lipoma</sub-title>
+  </programme>
+  <programme start="20250404070000 -0300" stop="20250404072400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Rescatando propiedades</title>
+    <sub-title lang="es">La remodelación ilegal</sub-title>
+  </programme>
+  <programme start="20250404072400 -0300" stop="20250404081200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">La casa del mal</title>
+    <sub-title lang="es">Mi madre me tendió una trampa</sub-title>
+  </programme>
+  <programme start="20250404081200 -0300" stop="20250404090000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Mercy cuestión de piel</title>
+    <sub-title lang="es">Protuberancias en las axilas</sub-title>
+  </programme>
+  <programme start="20250404090000 -0300" stop="20250404094800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Mercy cuestión de piel</title>
+    <sub-title lang="es">Los queloides</sub-title>
+  </programme>
+  <programme start="20250404094800 -0300" stop="20250404112800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">90 días la vida de soltero</title>
+    <sub-title lang="es">Chantel recupera su ritmo</sub-title>
+  </programme>
+  <programme start="20250404112800 -0300" stop="20250404121800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">¿Vacaciones?</sub-title>
+  </programme>
+  <programme start="20250404121800 -0300" stop="20250404130800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tacaños extremos</title>
+    <sub-title lang="es">Feliz navidad</sub-title>
+  </programme>
+  <programme start="20250404130800 -0300" stop="20250404135800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Mi vida con 300 kilos Italia</title>
+    <sub-title lang="es">Cosimo</sub-title>
+  </programme>
+  <programme start="20250404135800 -0300" stop="20250404145000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Mi vida con 300 kilos Italia</title>
+  </programme>
+  <programme start="20250404145000 -0300" stop="20250404154200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Corrige mi cirugía</title>
+    <sub-title lang="es">Holy Moly</sub-title>
+  </programme>
+  <programme start="20250404154200 -0300" stop="20250404163400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Clínica de la piel</title>
+    <sub-title lang="es">Cuerpos grandes</sub-title>
+  </programme>
+  <programme start="20250404163400 -0300" stop="20250404172600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Clínica de la piel</title>
+    <sub-title lang="es">No eres una bruja</sub-title>
+  </programme>
+  <programme start="20250404172600 -0300" stop="20250404181800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tu Casa Un Hogar Con Mabel Cartagena</title>
+  </programme>
+  <programme start="20250404181800 -0300" stop="20250404191000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Tu Casa Un Hogar Con Mabel Cartagena</title>
+  </programme>
+  <programme start="20250404191000 -0300" stop="20250404200200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Hermanos a la obra Un hogar para siempre</title>
+    <sub-title lang="es">Renovación con vista</sub-title>
+  </programme>
+  <programme start="20250404200200 -0300" stop="20250404205400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Como en casa</title>
+    <sub-title lang="es">Una familia de militares logra la renovación de sus sueños</sub-title>
+  </programme>
+  <programme start="20250404205400 -0300" stop="20250404214600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Sandra Lee especialista en piel</title>
+    <sub-title lang="es">En carne viva</sub-title>
+  </programme>
+  <programme start="20250404214600 -0300" stop="20250404223800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Dra. Sandra Lee especialista en piel</title>
+    <sub-title lang="es">Bulto de California</sub-title>
+  </programme>
+  <programme start="20250404223800 -0300" stop="20250404233000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Cirugías de pesadilla</title>
+  </programme>
+  <programme start="20250405223800 -0300" stop="20250405233000 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Cirugías de pesadilla</title>
+  </programme>
+  <programme start="20250405233000 -0300" stop="20250406002200 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Cirugías de pesadilla</title>
+  </programme>
+  <programme start="20250406002200 -0300" stop="20250406011400 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Clínica de pies</title>
+    <sub-title lang="es">Impresionar</sub-title>
+  </programme>
+  <programme start="20250406011400 -0300" stop="20250406020600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Un olor muy fuerte</sub-title>
+  </programme>
+  <programme start="20250406020600 -0300" stop="20250406025800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Sala de emergencias historias inéditas</title>
+    <sub-title lang="es">Dra. Epinefrina</sub-title>
+  </programme>
+  <programme start="20250406025800 -0300" stop="20250406034800 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Situación de amputación</sub-title>
+  </programme>
+  <programme start="20250406034800 -0300" stop="20250406043600 -0300" channel="ZCL• Discovery H&amp;H (HD)">
+    <title lang="es">Las renovadoras</title>
+    <sub-title lang="es">La tienda de bodas</sub-title>
+  </programme>
   <programme start="20250404060000 +0200" stop="20250404063000 +0200" channel="ZCL• MAS CHIC (HD)">
     <title lang="es">Espacios con estilo</title>
     <desc lang="es">Un programa para disfrutar del diseño y la arquitectura urbana junto a Laura Kalmus y Samantha Kuperschmit. Madre e hija arquitectas muestran espacios con estilos sumamente inspiradores.</desc>
@@ -23412,7 +23550,7 @@
   </programme>
   <programme start="20250404090000 -0300" stop="20250404100000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">ESPN Compact</title>
-    <episode-num system="onscreen">S2025 E130</episode-num>
+    <episode-num system="onscreen">S2025 E132</episode-num>
   </programme>
   <programme start="20250404100000 -0300" stop="20250404110000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">Goles de la Eredivisie</title>
@@ -23432,11 +23570,11 @@
   </programme>
   <programme start="20250404133000 -0300" stop="20250404143000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">ESPN Compact</title>
-    <episode-num system="onscreen">S2025 E130</episode-num>
+    <episode-num system="onscreen">S2025 E132</episode-num>
   </programme>
   <programme start="20250404143000 -0300" stop="20250404153000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">ESPN Compact</title>
-    <episode-num system="onscreen">S2025 E131</episode-num>
+    <episode-num system="onscreen">S2025 E133</episode-num>
   </programme>
   <programme start="20250404153000 -0300" stop="20250404174000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">Fútbol Ligue 1</title>
@@ -23451,16 +23589,19 @@
     <sub-title lang="es">Genoa vs. Udinese</sub-title>
   </programme>
   <programme start="20250404200000 -0300" stop="20250404220000 -0300" channel="ZCL• ESPN EXTRA (HD)">
-    <title lang="es">2025 NCAA Women's Basketball Tournament</title>
+    <title lang="es">Torneo del Baloncesto Universitario Femenino de la NCAA 2025</title>
+    <sub-title lang="es">First Semifinal: Texas vs. South Carolina</sub-title>
   </programme>
   <programme start="20250404220000 -0300" stop="20250404223000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">Acción de la NBA</title>
   </programme>
   <programme start="20250404223000 -0300" stop="20250405003000 -0300" channel="ZCL• ESPN EXTRA (HD)">
-    <title lang="es">2025 NCAA Women's Basketball Tournament</title>
+    <title lang="es">Torneo del Baloncesto Universitario Femenino de la NCAA 2025</title>
+    <sub-title lang="es">Second Semifinal: Connecticut vs. UCLA</sub-title>
   </programme>
   <programme start="20250405223000 -0300" stop="20250406003000 -0300" channel="ZCL• ESPN EXTRA (HD)">
-    <title lang="es">2025 NCAA Women's Basketball Tournament</title>
+    <title lang="es">Torneo del Baloncesto Universitario Femenino de la NCAA 2025</title>
+    <sub-title lang="es">Second Semifinal: Connecticut vs. UCLA</sub-title>
   </programme>
   <programme start="20250406003000 -0300" stop="20250406010000 -0300" channel="ZCL• ESPN EXTRA (HD)">
     <title lang="es">UEFA Champions League Magazine</title>
@@ -23504,7 +23645,7 @@
   </programme>
   <programme start="20250404090000 -0300" stop="20250404100000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">ESPN Compact</title>
-    <episode-num system="onscreen">S2025 E130</episode-num>
+    <episode-num system="onscreen">S2025 E132</episode-num>
   </programme>
   <programme start="20250404100000 -0300" stop="20250404110000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">Goles de la Eredivisie</title>
@@ -23524,11 +23665,11 @@
   </programme>
   <programme start="20250404133000 -0300" stop="20250404143000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">ESPN Compact</title>
-    <episode-num system="onscreen">S2025 E130</episode-num>
+    <episode-num system="onscreen">S2025 E132</episode-num>
   </programme>
   <programme start="20250404143000 -0300" stop="20250404153000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">ESPN Compact</title>
-    <episode-num system="onscreen">S2025 E131</episode-num>
+    <episode-num system="onscreen">S2025 E133</episode-num>
   </programme>
   <programme start="20250404153000 -0300" stop="20250404174000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">Fútbol Ligue 1</title>
@@ -23543,16 +23684,19 @@
     <sub-title lang="es">Genoa vs. Udinese</sub-title>
   </programme>
   <programme start="20250404200000 -0300" stop="20250404220000 -0300" channel="ZCL• ESPN 4 (HD)">
-    <title lang="es">2025 NCAA Women's Basketball Tournament</title>
+    <title lang="es">Torneo del Baloncesto Universitario Femenino de la NCAA 2025</title>
+    <sub-title lang="es">First Semifinal: Texas vs. South Carolina</sub-title>
   </programme>
   <programme start="20250404220000 -0300" stop="20250404223000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">Acción de la NBA</title>
   </programme>
   <programme start="20250404223000 -0300" stop="20250405003000 -0300" channel="ZCL• ESPN 4 (HD)">
-    <title lang="es">2025 NCAA Women's Basketball Tournament</title>
+    <title lang="es">Torneo del Baloncesto Universitario Femenino de la NCAA 2025</title>
+    <sub-title lang="es">Second Semifinal: Connecticut vs. UCLA</sub-title>
   </programme>
   <programme start="20250405223000 -0300" stop="20250406003000 -0300" channel="ZCL• ESPN 4 (HD)">
-    <title lang="es">2025 NCAA Women's Basketball Tournament</title>
+    <title lang="es">Torneo del Baloncesto Universitario Femenino de la NCAA 2025</title>
+    <sub-title lang="es">Second Semifinal: Connecticut vs. UCLA</sub-title>
   </programme>
   <programme start="20250406003000 -0300" stop="20250406010000 -0300" channel="ZCL• ESPN 4 (HD)">
     <title lang="es">UEFA Champions League Magazine</title>
@@ -23655,7 +23799,8 @@
     <title lang="es">ESPN Compact - UEFA Champions League</title>
   </programme>
   <programme start="20250404020000 -0300" stop="20250404040000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
-    <title lang="es">Deporte Será Anunciado</title>
+    <title lang="es">Chelsea vs. West Ham</title>
+    <sub-title lang="es">Fútbol: Premier League</sub-title>
   </programme>
   <programme start="20250404040000 -0300" stop="20250404050000 -0300" channel="ZCL• FOX SPORTS 2 (HD)">
     <title lang="es">UFC Countdown</title>
@@ -23725,7 +23870,8 @@
     <title lang="es">ESPN Compact - UEFA Champions League</title>
   </programme>
   <programme start="20250404020000 -0300" stop="20250404040000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
-    <title lang="es">Deporte Será Anunciado</title>
+    <title lang="es">Chelsea vs. West Ham</title>
+    <sub-title lang="es">Fútbol: Premier League</sub-title>
   </programme>
   <programme start="20250404040000 -0300" stop="20250404050000 -0300" channel="ZCL• FOX SPORTS 3 (HD)">
     <title lang="es">UFC Countdown</title>
@@ -27651,37 +27797,29 @@
     <title lang="es">Todo en 90 días ¿Felices por</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20250404225700 -0300" stop="20250404234700 -0300" channel="Canal TLC - México">
+  <programme start="20250404225700 -0300" stop="20250405001200 -0300" channel="Canal TLC - México">
     <title lang="es">El amor después de prisió</title>
     <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
-  <programme start="20250404234700 -0300" stop="20250405003600 -0300" channel="Canal TLC - México">
+  <programme start="20250405225700 -0300" stop="20250406001200 -0300" channel="Canal TLC - México">
+    <title lang="es">El amor después de prisió</title>
+    <episode-num system="onscreen">S7 E9</episode-num>
+  </programme>
+  <programme start="20250406001200 -0300" stop="20250406012700 -0300" channel="Canal TLC - México">
     <title lang="es">El amor después de prisi</title>
     <episode-num system="onscreen">S7 E10</episode-num>
   </programme>
-  <programme start="20250405234700 -0300" stop="20250406003600 -0300" channel="Canal TLC - México">
-    <title lang="es">El amor después de prisi</title>
-    <episode-num system="onscreen">S7 E10</episode-num>
-  </programme>
-  <programme start="20250406003600 -0300" stop="20250406012700 -0300" channel="Canal TLC - México">
+  <programme start="20250406012700 -0300" stop="20250406021800 -0300" channel="Canal TLC - México">
     <title lang="es">4 Esposas, 1 marido</title>
     <episode-num system="onscreen">S12 E3</episode-num>
   </programme>
-  <programme start="20250406012700 -0300" stop="20250406021700 -0300" channel="Canal TLC - México">
+  <programme start="20250406021800 -0300" stop="20250406030800 -0300" channel="Canal TLC - México">
     <title lang="es">4 Esposas, 1 marido</title>
     <episode-num system="onscreen">S12 E4</episode-num>
   </programme>
-  <programme start="20250406021700 -0300" stop="20250406030800 -0300" channel="Canal TLC - México">
-    <title lang="es">4 Esposas, 1 marido</title>
-    <episode-num system="onscreen">S11 E1</episode-num>
-  </programme>
-  <programme start="20250406030800 -0300" stop="20250406035900 -0300" channel="Canal TLC - México">
+  <programme start="20250406030800 -0300" stop="20250406044900 -0300" channel="Canal TLC - México">
     <title lang="es">Mi gran boda gitana</title>
     <episode-num system="onscreen">S5 E1</episode-num>
-  </programme>
-  <programme start="20250406035900 -0300" stop="20250406045000 -0300" channel="Canal TLC - México">
-    <title lang="es">El amor después de prisió</title>
-    <episode-num system="onscreen">S7 E9</episode-num>
   </programme>
   <programme start="20250404050000 +0200" stop="20250404055400 +0200" channel="Canal History - Mexico">
     <title lang="es">Grandes misterios de la historia</title>
@@ -28445,6 +28583,210 @@
     <desc lang="es">El explorador y escritor de National Geographic, Paul Salopek, camina desde Yunnan hasta la vecina provincia de Sichuan, acompañado por sus compañeros de caminata chinos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250404014400 -0300" stop="20250404032800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid Last One Stan</title>
+    <sub-title lang="es">Atrápame, si Puedes</sub-title>
+  </programme>
+  <programme start="20250404032800 -0300" stop="20250404041800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Desafío X2</title>
+    <sub-title lang="es">Dunas mortales</sub-title>
+  </programme>
+  <programme start="20250404041800 -0300" stop="20250404050800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Problemas con los dedos</sub-title>
+  </programme>
+  <programme start="20250404050800 -0300" stop="20250404055800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">El filo del cuchillo</sub-title>
+  </programme>
+  <programme start="20250404055800 -0300" stop="20250404064600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Máxima seguridad cárceles extremas</title>
+    <sub-title lang="es">La prisión de hombres Taiwán Taichung</sub-title>
+  </programme>
+  <programme start="20250404064600 -0300" stop="20250404073400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid</title>
+    <sub-title lang="es">Sangre, sudor y miedos</sub-title>
+  </programme>
+  <programme start="20250404073400 -0300" stop="20250404080000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Neighborhood Wars</title>
+    <sub-title lang="es">Buenas cercas, malos vecinos</sub-title>
+  </programme>
+  <programme start="20250404080000 -0300" stop="20250404082400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Neighborhood Wars</title>
+    <sub-title lang="es">Gatos callejeros, vecino salvaje</sub-title>
+  </programme>
+  <programme start="20250404082400 -0300" stop="20250404091400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Desafío X2</title>
+    <sub-title lang="es">Rompimiento en el hielo</sub-title>
+  </programme>
+  <programme start="20250404091400 -0300" stop="20250404100400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Pies de caimán</sub-title>
+  </programme>
+  <programme start="20250404100400 -0300" stop="20250404105400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Cazado</sub-title>
+  </programme>
+  <programme start="20250404105400 -0300" stop="20250404114600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">The Ghost Town Terror</title>
+    <sub-title lang="es">La Presa</sub-title>
+  </programme>
+  <programme start="20250404114600 -0300" stop="20250404123800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Historias de fantasmas casas embrujadas</title>
+    <sub-title lang="es">Maldición familiar en Jacksonville</sub-title>
+  </programme>
+  <programme start="20250404123800 -0300" stop="20250404141400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Kilos mortales</title>
+    <sub-title lang="es">La historia de J.T</sub-title>
+  </programme>
+  <programme start="20250404141400 -0300" stop="20250404150500 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Supervivencia al desnudo México</title>
+    <sub-title lang="es">Sobrevivir al compañero</sub-title>
+  </programme>
+  <programme start="20250404150500 -0300" stop="20250404155500 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Supervivencia al desnudo México</title>
+    <sub-title lang="es">Cambiar para sobrevivir</sub-title>
+  </programme>
+  <programme start="20250404155500 -0300" stop="20250404164600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Supervivencia al desnudo México</title>
+    <sub-title lang="es">¡La unión NO hace la fuerza!</sub-title>
+  </programme>
+  <programme start="20250404164600 -0300" stop="20250404175600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Supervivencia al desnudo México</title>
+    <sub-title lang="es">¡Salgamos de aquí!</sub-title>
+  </programme>
+  <programme start="20250404175600 -0300" stop="20250404184800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El camino de los espíritus</title>
+    <sub-title lang="es">Sombra en la noche</sub-title>
+  </programme>
+  <programme start="20250404184800 -0300" stop="20250404194000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El camino de los espíritus</title>
+    <sub-title lang="es">El regreso del enterrador</sub-title>
+  </programme>
+  <programme start="20250404194000 -0300" stop="20250404203200 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid</title>
+    <sub-title lang="es">Sacudidos</sub-title>
+  </programme>
+  <programme start="20250404203200 -0300" stop="20250404212400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">The Ghost Town Terror</title>
+    <sub-title lang="es">Los Lazos que Unen</sub-title>
+  </programme>
+  <programme start="20250404212400 -0300" stop="20250404221600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Historias de fantasmas casas embrujadas</title>
+    <sub-title lang="es">Invasión a un hogar en Ellington</sub-title>
+  </programme>
+  <programme start="20250404221600 -0300" stop="20250404230800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Historias de fantasmas casas embrujadas</title>
+    <sub-title lang="es">Pánico en Palatka</sub-title>
+  </programme>
+  <programme start="20250404230800 -0300" stop="20250405000000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Historias de fantasmas casas embrujadas</title>
+    <sub-title lang="es">Caos en Emmaus</sub-title>
+  </programme>
+  <programme start="20250405000000 -0300" stop="20250405005200 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Ghost Adventures</title>
+    <sub-title lang="es">Venganza en Oxnard</sub-title>
+  </programme>
+  <programme start="20250405005200 -0300" stop="20250405014400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Alto Impacto</sub-title>
+  </programme>
+  <programme start="20250405014400 -0300" stop="20250405023600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">¡Atrápame!</sub-title>
+  </programme>
+  <programme start="20250405023600 -0300" stop="20250405032800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">El filo del cuchillo</sub-title>
+  </programme>
+  <programme start="20250405032800 -0300" stop="20250405041800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Desafío X2</title>
+    <sub-title lang="es">Rompimiento en el hielo</sub-title>
+  </programme>
+  <programme start="20250405041800 -0300" stop="20250405050800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Pies de caimán</sub-title>
+  </programme>
+  <programme start="20250405050800 -0300" stop="20250405055800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Cazado</sub-title>
+  </programme>
+  <programme start="20250405055800 -0300" stop="20250405064600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Máxima seguridad cárceles extremas</title>
+    <sub-title lang="es">Mauricio</sub-title>
+  </programme>
+  <programme start="20250405064600 -0300" stop="20250405073400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">El filo del cuchillo</sub-title>
+  </programme>
+  <programme start="20250405073400 -0300" stop="20250405080000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Neighborhood Wars</title>
+    <sub-title lang="es">¡Conozca a los vecinos!</sub-title>
+  </programme>
+  <programme start="20250405080000 -0300" stop="20250405083000 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Neighborhood Wars</title>
+    <sub-title lang="es">El bully de la cuadra</sub-title>
+  </programme>
+  <programme start="20250405083000 -0300" stop="20250405092200 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Desafío X2</title>
+    <sub-title lang="es">Un nuevo inicio</sub-title>
+  </programme>
+  <programme start="20250405092200 -0300" stop="20250405101300 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Especialistas en pies</title>
+    <sub-title lang="es">Más dedos, más problemas</sub-title>
+  </programme>
+  <programme start="20250405101300 -0300" stop="20250405110300 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Mirada policial</title>
+    <sub-title lang="es">Código 30</sub-title>
+  </programme>
+  <programme start="20250405110300 -0300" stop="20250405115500 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Alaska paranormal</title>
+    <sub-title lang="es">Los secretos del Monte Hayes</sub-title>
+  </programme>
+  <programme start="20250405115500 -0300" stop="20250405124700 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Alaska paranormal</title>
+    <sub-title lang="es">Pie grande de Alaska y el misterioso triángulo</sub-title>
+  </programme>
+  <programme start="20250405124700 -0300" stop="20250405133900 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El Rastro</title>
+    <sub-title lang="es">El mal oculto</sub-title>
+  </programme>
+  <programme start="20250405133900 -0300" stop="20250405143100 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El Rastro</title>
+    <sub-title lang="es">Enemigo cercano</sub-title>
+  </programme>
+  <programme start="20250405143100 -0300" stop="20250405161500 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid Last One Stan</title>
+    <sub-title lang="es">Chamuscado y quemado</sub-title>
+  </programme>
+  <programme start="20250405161500 -0300" stop="20250405175900 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid Last One Stan</title>
+    <sub-title lang="es">Tiene que irse de África</sub-title>
+  </programme>
+  <programme start="20250405175900 -0300" stop="20250405194300 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid Last One Stan</title>
+    <sub-title lang="es">Hirvientes ganas de pelear</sub-title>
+  </programme>
+  <programme start="20250405194300 -0300" stop="20250405203500 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">Naked and Afraid</title>
+    <sub-title lang="es">34 kilómetros, 21 días</sub-title>
+  </programme>
+  <programme start="20250405203500 -0300" stop="20250405212400 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El Rastro</title>
+    <sub-title lang="es">La búsqueda de Danna</sub-title>
+  </programme>
+  <programme start="20250405212400 -0300" stop="20250405221600 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El Rastro</title>
+    <sub-title lang="es">Crimen en el paraíso</sub-title>
+  </programme>
+  <programme start="20250405221600 -0300" stop="20250405230800 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">El Rastro</title>
+    <sub-title lang="es">El monstruo de la soga</sub-title>
+  </programme>
+  <programme start="20250405230800 -0300" stop="20250405235200 -0300" channel="Canal Discovery Channel (Colombia)">
+    <title lang="es">My 600-Lb Life Where Are They Now?</title>
+    <sub-title lang="es">Ontreon y Wess</sub-title>
   </programme>
   <programme start="20250404043900 +0200" stop="20250404053200 +0200" channel="Canal Discovery Investigation - México">
     <title lang="es">Kim vs. Kanye: El divorcio</title>
