@@ -348,6 +348,70 @@
     <display-name lang="es">FCL• FUTBÓL CHILENO I (HD) »1«</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
   </channel>
+  <channel id="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <display-name lang="es">FCL• FUTBÓL CHILENO I (HD) »2«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <display-name lang="es">FCL• FUTBÓL CHILENO I (HD) »3«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <display-name lang="es">FCL• FUTBÓL CHILENO I (HD) »4«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <display-name lang="es">FCL• FUTBÓL CHILENO II (HD) »1«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
+  <channel id="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <display-name lang="es">FCL• FUTBÓL CHILENO II (HD) »2«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM (HD) »3«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM (HD) »4«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM 2 (HD) »3«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM 2 (HD) »4«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS (HD) »1«">
+    <display-name lang="es">FCL• TNT SPORTS (HD) »1«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS (HD) »2«">
+    <display-name lang="es">FCL• TNT SPORTS (HD) »2«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS (HD) »3«">
+    <display-name lang="es">FCL• TNT SPORTS (HD) »3«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS (HD) »4«">
+    <display-name lang="es">FCL• TNT SPORTS (HD) »4«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM (HD) »1«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM (HD) »2«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
+  <channel id="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <display-name lang="es">FCL• TNT SPORTS PREMIUM 2 (HD) »1«</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-hd_m.png"/>
+  </channel>
   <channel id="TNT Sports - Chile">
     <display-name lang="es">TNT Sports - Chile</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_cdf-basico_m.png"/>
@@ -27179,6 +27243,2169 @@
     <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
   </programme>
   <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• FUTBÓL CHILENO I (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430042500 +0200" stop="20250430054000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430054000 +0200" stop="20250430071000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430071000 +0200" stop="20250430091000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430100000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Rafael Caroca</title>
+    <desc lang="es">Un espacio dedicado a los verdaderos hinchas del deporte y cada acontecimiento que ocurre en este apasioanante mundo. Noticias,información y entrevistas con los protagonistas de cada disciplina para estar al día con la actualidad deportiva.</desc>
+    <category lang="es">Te quiero ver</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430100000 +0200" stop="20250430120000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430153000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430153000 +0200" stop="20250430163000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Goles</title>
+    <desc lang="es">El más completo resumen de los goles anotados en las últimas fechas del campeonato nacional y de las principales ligas del mundo. Información y tablas de posiciones de los equipos, análisis, comentarios y estadísticas.</desc>
+    <category lang="es">Goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-goles_l_l.jpg"/>
+  </programme>
+  <programme start="20250430163000 +0200" stop="20250430183000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430183000 +0200" stop="20250430200000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430200000 +0200" stop="20250430223000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430223000 +0200" stop="20250430233000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430233000 +0200" stop="20250501010000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501030000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501093000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501093000 +0200" stop="20250501100000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501120000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501163500 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501163500 +0200" stop="20250501180000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501180000 +0200" stop="20250501200000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501200000 +0200" stop="20250501210000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250501210000 +0200" stop="20250501230000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501230000 +0200" stop="20250502003000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250502003000 +0200" stop="20250502020000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250502020000 +0200" stop="20250502040000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430042500 +0200" stop="20250430054000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430054000 +0200" stop="20250430071000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430071000 +0200" stop="20250430091000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430100000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Rafael Caroca</title>
+    <desc lang="es">Un espacio dedicado a los verdaderos hinchas del deporte y cada acontecimiento que ocurre en este apasioanante mundo. Noticias,información y entrevistas con los protagonistas de cada disciplina para estar al día con la actualidad deportiva.</desc>
+    <category lang="es">Te quiero ver</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430100000 +0200" stop="20250430120000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430153000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430153000 +0200" stop="20250430163000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Goles</title>
+    <desc lang="es">El más completo resumen de los goles anotados en las últimas fechas del campeonato nacional y de las principales ligas del mundo. Información y tablas de posiciones de los equipos, análisis, comentarios y estadísticas.</desc>
+    <category lang="es">Goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-goles_l_l.jpg"/>
+  </programme>
+  <programme start="20250430163000 +0200" stop="20250430183000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430183000 +0200" stop="20250430200000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430200000 +0200" stop="20250430223000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430223000 +0200" stop="20250430233000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430233000 +0200" stop="20250501010000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501030000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501093000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501093000 +0200" stop="20250501100000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501120000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501163500 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501163500 +0200" stop="20250501180000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501180000 +0200" stop="20250501200000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501200000 +0200" stop="20250501210000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250501210000 +0200" stop="20250501230000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501230000 +0200" stop="20250502003000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250502003000 +0200" stop="20250502020000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250502020000 +0200" stop="20250502040000 +0200" channel="FCL• FUTBÓL CHILENO II (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430042500 +0200" stop="20250430054000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430054000 +0200" stop="20250430071000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430071000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430100000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Rafael Caroca</title>
+    <desc lang="es">Un espacio dedicado a los verdaderos hinchas del deporte y cada acontecimiento que ocurre en este apasioanante mundo. Noticias,información y entrevistas con los protagonistas de cada disciplina para estar al día con la actualidad deportiva.</desc>
+    <category lang="es">Te quiero ver</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430100000 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430153000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430153000 +0200" stop="20250430163000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Goles</title>
+    <desc lang="es">El más completo resumen de los goles anotados en las últimas fechas del campeonato nacional y de las principales ligas del mundo. Información y tablas de posiciones de los equipos, análisis, comentarios y estadísticas.</desc>
+    <category lang="es">Goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-goles_l_l.jpg"/>
+  </programme>
+  <programme start="20250430163000 +0200" stop="20250430183000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430183000 +0200" stop="20250430200000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430200000 +0200" stop="20250430223000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430223000 +0200" stop="20250430233000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430233000 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501093000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501093000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501163500 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Sports</title>
+    <desc lang="es">Disfrute de las mejores y más completas emisiones deportivas.</desc>
+    <category lang="es">TNT Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501163500 +0200" stop="20250501180000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501180000 +0200" stop="20250501200000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501200000 +0200" stop="20250501210000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250501210000 +0200" stop="20250501230000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501230000 +0200" stop="20250502003000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250502003000 +0200" stop="20250502020000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250502020000 +0200" stop="20250502040000 +0200" channel="FCL• TNT SPORTS (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS (HD) »3«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS (HD) »4«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM (HD) »2«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430040000 +0200" stop="20250430060000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430060000 +0200" stop="20250430062500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Fernando Zampedri</title>
+    <desc lang="es">El presentador viaja y pasea con invitados excepcionales del mundo del deporte. En el programa, debaten y conversan sobre la trayectoria del entrevistado y sobre la actualidad de su disciplina y del mundo del deporte en general.</desc>
+    <category lang="es">Íntimo</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430062500 +0200" stop="20250430074000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Fecha 9, Liga de Primera 2025</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250430074000 +0200" stop="20250430091000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250430091000 +0200" stop="20250430110500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250430110500 +0200" stop="20250430120000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">TNT Data Sports - Primera edición</title>
+    <desc lang="es">Un noticiero diario que brinda no solo noticias sino el más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo y con el foco puesto en las estadísticas.</desc>
+    <category lang="es">TNT Data Sports - Primera edición</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_deportivo-tnt-data-sports-primera-edicion_l_l.jpg"/>
+  </programme>
+  <programme start="20250430120000 +0200" stop="20250430143500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250430143500 +0200" stop="20250501010000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501010000 +0200" stop="20250501013000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501013000 +0200" stop="20250501030000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">TNT Data Sports</title>
+    <desc lang="es">Dos ediciones de noticias, con mucho análisis y todas las imágenes del deporte en todo el mundo. Pero además, un fuerte acento de las estadísticas y los datos que permiten comprender mejor los hechos.</desc>
+    <category lang="es">TNT Data Sports</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-tnt-data-sports_l_l.jpg"/>
+  </programme>
+  <programme start="20250501030000 +0200" stop="20250501050000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501050000 +0200" stop="20250501070000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501070000 +0200" stop="20250501080000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Show de goles</title>
+    <desc lang="es">Programa con más de 25 años de trayectoria que reúne a hinchas de los equipos de Primera y Primera B, para debatir y analizar el desarrollo de cada fecha.</desc>
+    <category lang="es">Show de goles</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-show-de-goles-1_l_l.jpg"/>
+  </programme>
+  <programme start="20250501080000 +0200" stop="20250501100000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Todos somos técnicos</title>
+    <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
+    <category lang="es">Todos somos técnicos</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-todos-somos-tecnicos_l_l.jpg"/>
+  </programme>
+  <programme start="20250501100000 +0200" stop="20250501102500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501102500 +0200" stop="20250501103000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501103000 +0200" stop="20250501120000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">#NoEsParaTanto</title>
+    <desc lang="es">Un espacio en el que se habla de fútbol y de otras cosas también. Información, móviles en la calle, risas y mucho más.</desc>
+    <category lang="es">#NoEsParaTanto</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501120000 +0200" stop="20250501140500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Pelota parada</title>
+    <desc lang="es">Programa de móviles, que vive de la información consolidada, exclusiva y de supuestos diarios de los equipos y la transmite de una forma entretenida.</desc>
+    <category lang="es">Pelota parada</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_magazine-pelota-parada_l_l.jpg"/>
+  </programme>
+  <programme start="20250501140500 +0200" stop="20250501161000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501161000 +0200" stop="20250501181000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">Replay</title>
+    <desc lang="es">La mejor forma de revivir los partidos del fútbol chileno de la máxima categoría.</desc>
+    <category lang="es">Replay</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg"/>
+  </programme>
+  <programme start="20250501181000 +0200" stop="20250501202500 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
+    <title lang="es">TNT Sports HD</title>
+    <category lang="es">TNT Sports HD</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_futbol-tnt-sports-hd_l_l.jpg"/>
+  </programme>
+  <programme start="20250501202500 +0200" stop="20250501223000 +0200" channel="FCL• TNT SPORTS PREMIUM 2 (HD) »1«">
     <title lang="es">Todos somos técnicos</title>
     <desc lang="es">Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
     <category lang="es">Todos somos técnicos</category>
