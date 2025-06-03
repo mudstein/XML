@@ -1,1290 +1,1290 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-  <channel id="ENT | Pasiones">
-    <display-name lang="es">ENT | Pasiones</display-name>
+  <channel id="ENT| Pasiones">
+    <display-name lang="es">ENT| Pasiones</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png"/>
   </channel>
-  <channel id="ENT | Pasiones TV HD">
-    <display-name lang="es">ENT | Pasiones TV HD</display-name>
+  <channel id="ENT| Pasiones TV HD">
+    <display-name lang="es">ENT| Pasiones TV HD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png"/>
   </channel>
-  <channel id="ENT | Pasiones OP">
-    <display-name lang="es">ENT | Pasiones OP</display-name>
+  <channel id="ENT| Pasiones OP">
+    <display-name lang="es">ENT| Pasiones OP</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png"/>
   </channel>
-  <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603060000 +0200" stop="20250603070000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603060000 +0200" stop="20250603070000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603070000 +0200" stop="20250603080000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603070000 +0200" stop="20250603080000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603080000 +0200" stop="20250603090000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603080000 +0200" stop="20250603090000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603090000 +0200" stop="20250603100000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603090000 +0200" stop="20250603100000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603100000 +0200" stop="20250603110000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603100000 +0200" stop="20250603110000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603110000 +0200" stop="20250603120000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603110000 +0200" stop="20250603120000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603120000 +0200" stop="20250603130000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603120000 +0200" stop="20250603130000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603130000 +0200" stop="20250603140000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603130000 +0200" stop="20250603140000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603140000 +0200" stop="20250603150000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603140000 +0200" stop="20250603150000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603150000 +0200" stop="20250603160000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603150000 +0200" stop="20250603160000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603160000 +0200" stop="20250603170000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603160000 +0200" stop="20250603170000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603170000 +0200" stop="20250603180000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603170000 +0200" stop="20250603180000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603180000 +0200" stop="20250603190000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603180000 +0200" stop="20250603190000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603190000 +0200" stop="20250603200000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603190000 +0200" stop="20250603200000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603200000 +0200" stop="20250603210000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603200000 +0200" stop="20250603210000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603210000 +0200" stop="20250603220000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603210000 +0200" stop="20250603220000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603220000 +0200" stop="20250603230000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603220000 +0200" stop="20250603230000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603230000 +0200" stop="20250604000000 +0200" channel="ENT | Pasiones">
+  <programme start="20250603230000 +0200" stop="20250604000000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604010000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604000000 +0200" stop="20250604010000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604010000 +0200" stop="20250604020000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604010000 +0200" stop="20250604020000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604020000 +0200" stop="20250604030000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604020000 +0200" stop="20250604030000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604030000 +0200" stop="20250604040000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604030000 +0200" stop="20250604040000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604040000 +0200" stop="20250604050000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604040000 +0200" stop="20250604050000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604050000 +0200" stop="20250604060000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604050000 +0200" stop="20250604060000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604060000 +0200" stop="20250604070000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604060000 +0200" stop="20250604070000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604070000 +0200" stop="20250604080000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604070000 +0200" stop="20250604080000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604080000 +0200" stop="20250604090000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604080000 +0200" stop="20250604090000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604090000 +0200" stop="20250604100000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604090000 +0200" stop="20250604100000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604100000 +0200" stop="20250604110000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604100000 +0200" stop="20250604110000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604110000 +0200" stop="20250604120000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604110000 +0200" stop="20250604120000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604120000 +0200" stop="20250604130000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604120000 +0200" stop="20250604130000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604130000 +0200" stop="20250604140000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604130000 +0200" stop="20250604140000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604140000 +0200" stop="20250604150000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604140000 +0200" stop="20250604150000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604150000 +0200" stop="20250604160000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604150000 +0200" stop="20250604160000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604160000 +0200" stop="20250604170000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604160000 +0200" stop="20250604170000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604170000 +0200" stop="20250604180000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604170000 +0200" stop="20250604180000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604180000 +0200" stop="20250604190000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604180000 +0200" stop="20250604190000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604190000 +0200" stop="20250604200000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604190000 +0200" stop="20250604200000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604200000 +0200" stop="20250604210000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604200000 +0200" stop="20250604210000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604210000 +0200" stop="20250604220000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604210000 +0200" stop="20250604220000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604220000 +0200" stop="20250604230000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604220000 +0200" stop="20250604230000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604230000 +0200" stop="20250605000000 +0200" channel="ENT | Pasiones">
+  <programme start="20250604230000 +0200" stop="20250605000000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250605010000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605000000 +0200" stop="20250605010000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605010000 +0200" stop="20250605020000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605010000 +0200" stop="20250605020000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605020000 +0200" stop="20250605030000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605020000 +0200" stop="20250605030000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605030000 +0200" stop="20250605040000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605030000 +0200" stop="20250605040000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605040000 +0200" stop="20250605050000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605040000 +0200" stop="20250605050000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605050000 +0200" stop="20250605060000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605050000 +0200" stop="20250605060000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605060000 +0200" stop="20250605070000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605060000 +0200" stop="20250605070000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605070000 +0200" stop="20250605080000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605070000 +0200" stop="20250605080000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605080000 +0200" stop="20250605090000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605080000 +0200" stop="20250605090000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605090000 +0200" stop="20250605100000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605090000 +0200" stop="20250605100000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605100000 +0200" stop="20250605110000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605100000 +0200" stop="20250605110000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605110000 +0200" stop="20250605120000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605110000 +0200" stop="20250605120000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605120000 +0200" stop="20250605130000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605120000 +0200" stop="20250605130000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605130000 +0200" stop="20250605140000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605130000 +0200" stop="20250605140000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605140000 +0200" stop="20250605150000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605140000 +0200" stop="20250605150000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605150000 +0200" stop="20250605160000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605150000 +0200" stop="20250605160000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605160000 +0200" stop="20250605170000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605160000 +0200" stop="20250605170000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605170000 +0200" stop="20250605180000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605170000 +0200" stop="20250605180000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605180000 +0200" stop="20250605190000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605180000 +0200" stop="20250605190000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605190000 +0200" stop="20250605200000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605190000 +0200" stop="20250605200000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605200000 +0200" stop="20250605210000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605200000 +0200" stop="20250605210000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605210000 +0200" stop="20250605220000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605210000 +0200" stop="20250605220000 +0200" channel="ENT| Pasiones">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605220000 +0200" stop="20250605230000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605220000 +0200" stop="20250605230000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605230000 +0200" stop="20250606000000 +0200" channel="ENT | Pasiones">
+  <programme start="20250605230000 +0200" stop="20250606000000 +0200" channel="ENT| Pasiones">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250606000000 +0200" stop="20250606010000 +0200" channel="ENT | Pasiones">
+  <programme start="20250606000000 +0200" stop="20250606010000 +0200" channel="ENT| Pasiones">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250606010000 +0200" stop="20250606020000 +0200" channel="ENT | Pasiones">
+  <programme start="20250606010000 +0200" stop="20250606020000 +0200" channel="ENT| Pasiones">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250606020000 +0200" stop="20250606030000 +0200" channel="ENT | Pasiones">
+  <programme start="20250606020000 +0200" stop="20250606030000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250606030000 +0200" stop="20250606040000 +0200" channel="ENT | Pasiones">
+  <programme start="20250606030000 +0200" stop="20250606040000 +0200" channel="ENT| Pasiones">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603060000 +0200" stop="20250603070000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603060000 +0200" stop="20250603070000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603070000 +0200" stop="20250603080000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603070000 +0200" stop="20250603080000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603080000 +0200" stop="20250603090000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603080000 +0200" stop="20250603090000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603090000 +0200" stop="20250603100000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603090000 +0200" stop="20250603100000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603100000 +0200" stop="20250603110000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603100000 +0200" stop="20250603110000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603110000 +0200" stop="20250603120000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603110000 +0200" stop="20250603120000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603120000 +0200" stop="20250603130000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603120000 +0200" stop="20250603130000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603130000 +0200" stop="20250603140000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603130000 +0200" stop="20250603140000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603140000 +0200" stop="20250603150000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603140000 +0200" stop="20250603150000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603150000 +0200" stop="20250603160000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603150000 +0200" stop="20250603160000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603160000 +0200" stop="20250603170000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603160000 +0200" stop="20250603170000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603170000 +0200" stop="20250603180000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603170000 +0200" stop="20250603180000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603180000 +0200" stop="20250603190000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603180000 +0200" stop="20250603190000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603190000 +0200" stop="20250603200000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603190000 +0200" stop="20250603200000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603200000 +0200" stop="20250603210000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603200000 +0200" stop="20250603210000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603210000 +0200" stop="20250603220000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603210000 +0200" stop="20250603220000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603220000 +0200" stop="20250603230000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603220000 +0200" stop="20250603230000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603230000 +0200" stop="20250604000000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250603230000 +0200" stop="20250604000000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604010000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604000000 +0200" stop="20250604010000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604010000 +0200" stop="20250604020000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604010000 +0200" stop="20250604020000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604020000 +0200" stop="20250604030000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604020000 +0200" stop="20250604030000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604030000 +0200" stop="20250604040000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604030000 +0200" stop="20250604040000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604040000 +0200" stop="20250604050000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604040000 +0200" stop="20250604050000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604050000 +0200" stop="20250604060000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604050000 +0200" stop="20250604060000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604060000 +0200" stop="20250604070000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604060000 +0200" stop="20250604070000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604070000 +0200" stop="20250604080000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604070000 +0200" stop="20250604080000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604080000 +0200" stop="20250604090000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604080000 +0200" stop="20250604090000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604090000 +0200" stop="20250604100000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604090000 +0200" stop="20250604100000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604100000 +0200" stop="20250604110000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604100000 +0200" stop="20250604110000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604110000 +0200" stop="20250604120000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604110000 +0200" stop="20250604120000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604120000 +0200" stop="20250604130000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604120000 +0200" stop="20250604130000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604130000 +0200" stop="20250604140000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604130000 +0200" stop="20250604140000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604140000 +0200" stop="20250604150000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604140000 +0200" stop="20250604150000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604150000 +0200" stop="20250604160000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604150000 +0200" stop="20250604160000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604160000 +0200" stop="20250604170000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604160000 +0200" stop="20250604170000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604170000 +0200" stop="20250604180000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604170000 +0200" stop="20250604180000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604180000 +0200" stop="20250604190000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604180000 +0200" stop="20250604190000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604190000 +0200" stop="20250604200000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604190000 +0200" stop="20250604200000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604200000 +0200" stop="20250604210000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604200000 +0200" stop="20250604210000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604210000 +0200" stop="20250604220000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604210000 +0200" stop="20250604220000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604220000 +0200" stop="20250604230000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604220000 +0200" stop="20250604230000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604230000 +0200" stop="20250605000000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250604230000 +0200" stop="20250605000000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250605010000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605000000 +0200" stop="20250605010000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605010000 +0200" stop="20250605020000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605010000 +0200" stop="20250605020000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605020000 +0200" stop="20250605030000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605020000 +0200" stop="20250605030000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605030000 +0200" stop="20250605040000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605030000 +0200" stop="20250605040000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605040000 +0200" stop="20250605050000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605040000 +0200" stop="20250605050000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605050000 +0200" stop="20250605060000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605050000 +0200" stop="20250605060000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605060000 +0200" stop="20250605070000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605060000 +0200" stop="20250605070000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605070000 +0200" stop="20250605080000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605070000 +0200" stop="20250605080000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605080000 +0200" stop="20250605090000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605080000 +0200" stop="20250605090000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605090000 +0200" stop="20250605100000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605090000 +0200" stop="20250605100000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605100000 +0200" stop="20250605110000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605100000 +0200" stop="20250605110000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605110000 +0200" stop="20250605120000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605110000 +0200" stop="20250605120000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605120000 +0200" stop="20250605130000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605120000 +0200" stop="20250605130000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605130000 +0200" stop="20250605140000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605130000 +0200" stop="20250605140000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605140000 +0200" stop="20250605150000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605140000 +0200" stop="20250605150000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605150000 +0200" stop="20250605160000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605150000 +0200" stop="20250605160000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605160000 +0200" stop="20250605170000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605160000 +0200" stop="20250605170000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605170000 +0200" stop="20250605180000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605170000 +0200" stop="20250605180000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605180000 +0200" stop="20250605190000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605180000 +0200" stop="20250605190000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605190000 +0200" stop="20250605200000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605190000 +0200" stop="20250605200000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605200000 +0200" stop="20250605210000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605200000 +0200" stop="20250605210000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605210000 +0200" stop="20250605220000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605210000 +0200" stop="20250605220000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605220000 +0200" stop="20250605230000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605220000 +0200" stop="20250605230000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605230000 +0200" stop="20250606000000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250605230000 +0200" stop="20250606000000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250606000000 +0200" stop="20250606010000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250606000000 +0200" stop="20250606010000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250606010000 +0200" stop="20250606020000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250606010000 +0200" stop="20250606020000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250606020000 +0200" stop="20250606030000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250606020000 +0200" stop="20250606030000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250606030000 +0200" stop="20250606040000 +0200" channel="ENT | Pasiones TV HD">
+  <programme start="20250606030000 +0200" stop="20250606040000 +0200" channel="ENT| Pasiones TV HD">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603060000 +0200" stop="20250603070000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603060000 +0200" stop="20250603070000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603070000 +0200" stop="20250603080000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603070000 +0200" stop="20250603080000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603080000 +0200" stop="20250603090000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603080000 +0200" stop="20250603090000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603090000 +0200" stop="20250603100000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603090000 +0200" stop="20250603100000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603100000 +0200" stop="20250603110000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603100000 +0200" stop="20250603110000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603110000 +0200" stop="20250603120000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603110000 +0200" stop="20250603120000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603120000 +0200" stop="20250603130000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603120000 +0200" stop="20250603130000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603130000 +0200" stop="20250603140000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603130000 +0200" stop="20250603140000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603140000 +0200" stop="20250603150000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603140000 +0200" stop="20250603150000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603150000 +0200" stop="20250603160000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603150000 +0200" stop="20250603160000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603160000 +0200" stop="20250603170000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603160000 +0200" stop="20250603170000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603170000 +0200" stop="20250603180000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603170000 +0200" stop="20250603180000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603180000 +0200" stop="20250603190000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603180000 +0200" stop="20250603190000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250603190000 +0200" stop="20250603200000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603190000 +0200" stop="20250603200000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250603200000 +0200" stop="20250603210000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603200000 +0200" stop="20250603210000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603210000 +0200" stop="20250603220000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603210000 +0200" stop="20250603220000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250603220000 +0200" stop="20250603230000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603220000 +0200" stop="20250603230000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250603230000 +0200" stop="20250604000000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250603230000 +0200" stop="20250604000000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604000000 +0200" stop="20250604010000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604000000 +0200" stop="20250604010000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604010000 +0200" stop="20250604020000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604010000 +0200" stop="20250604020000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604020000 +0200" stop="20250604030000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604020000 +0200" stop="20250604030000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604030000 +0200" stop="20250604040000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604030000 +0200" stop="20250604040000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604040000 +0200" stop="20250604050000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604040000 +0200" stop="20250604050000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604050000 +0200" stop="20250604060000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604050000 +0200" stop="20250604060000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604060000 +0200" stop="20250604070000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604060000 +0200" stop="20250604070000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604070000 +0200" stop="20250604080000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604070000 +0200" stop="20250604080000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604080000 +0200" stop="20250604090000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604080000 +0200" stop="20250604090000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604090000 +0200" stop="20250604100000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604090000 +0200" stop="20250604100000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604100000 +0200" stop="20250604110000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604100000 +0200" stop="20250604110000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604110000 +0200" stop="20250604120000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604110000 +0200" stop="20250604120000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604120000 +0200" stop="20250604130000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604120000 +0200" stop="20250604130000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604130000 +0200" stop="20250604140000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604130000 +0200" stop="20250604140000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604140000 +0200" stop="20250604150000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604140000 +0200" stop="20250604150000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604150000 +0200" stop="20250604160000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604150000 +0200" stop="20250604160000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604160000 +0200" stop="20250604170000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604160000 +0200" stop="20250604170000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604170000 +0200" stop="20250604180000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604170000 +0200" stop="20250604180000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604180000 +0200" stop="20250604190000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604180000 +0200" stop="20250604190000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250604190000 +0200" stop="20250604200000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604190000 +0200" stop="20250604200000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250604200000 +0200" stop="20250604210000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604200000 +0200" stop="20250604210000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604210000 +0200" stop="20250604220000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604210000 +0200" stop="20250604220000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250604220000 +0200" stop="20250604230000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604220000 +0200" stop="20250604230000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250604230000 +0200" stop="20250605000000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250604230000 +0200" stop="20250605000000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605000000 +0200" stop="20250605010000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605000000 +0200" stop="20250605010000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605010000 +0200" stop="20250605020000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605010000 +0200" stop="20250605020000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605020000 +0200" stop="20250605030000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605020000 +0200" stop="20250605030000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605030000 +0200" stop="20250605040000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605030000 +0200" stop="20250605040000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605040000 +0200" stop="20250605050000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605040000 +0200" stop="20250605050000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605050000 +0200" stop="20250605060000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605050000 +0200" stop="20250605060000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605060000 +0200" stop="20250605070000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605060000 +0200" stop="20250605070000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605070000 +0200" stop="20250605080000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605070000 +0200" stop="20250605080000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605080000 +0200" stop="20250605090000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605080000 +0200" stop="20250605090000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605090000 +0200" stop="20250605100000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605090000 +0200" stop="20250605100000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605100000 +0200" stop="20250605110000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605100000 +0200" stop="20250605110000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605110000 +0200" stop="20250605120000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605110000 +0200" stop="20250605120000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605120000 +0200" stop="20250605130000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605120000 +0200" stop="20250605130000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605130000 +0200" stop="20250605140000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605130000 +0200" stop="20250605140000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605140000 +0200" stop="20250605150000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605140000 +0200" stop="20250605150000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605150000 +0200" stop="20250605160000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605150000 +0200" stop="20250605160000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605160000 +0200" stop="20250605170000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605160000 +0200" stop="20250605170000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605170000 +0200" stop="20250605180000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605170000 +0200" stop="20250605180000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605180000 +0200" stop="20250605190000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605180000 +0200" stop="20250605190000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250605190000 +0200" stop="20250605200000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605190000 +0200" stop="20250605200000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250605200000 +0200" stop="20250605210000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605200000 +0200" stop="20250605210000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605210000 +0200" stop="20250605220000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605210000 +0200" stop="20250605220000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Moisés y los 10 mandamientos</title>
     <desc lang="es">Revive la vida de uno de los héroes más importantes de la Biblia desde su nacimiento hasta las plagas, la apertura del mar Rojo y la entrega de las tablas de la ley. Además, nos sumerge en una historia llena de pasión, intriga y amor.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_moises-y-los-10-mandamientos_l_l.jpg"/>
   </programme>
-  <programme start="20250605220000 +0200" stop="20250605230000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605220000 +0200" stop="20250605230000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250605230000 +0200" stop="20250606000000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250605230000 +0200" stop="20250606000000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Memorias adolescentes</title>
     <desc lang="es">Choi Joon-Woo, un reservado chico de dieciocho años, es transferido a una nueva escuela donde conoce a una brillante estudiante llamada Yoo Soo-Bin, quien cambia su vida y su manera de relacionarse con los demás.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250606000000 +0200" stop="20250606010000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250606000000 +0200" stop="20250606010000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Oro Verde</title>
     <desc lang="es">Dado por muerto durante más de 15 años, Jorge Monforte, un ahora rico hombre de negocios, regresa de Brasil con una nueva identidad para vengar la muerte de su familia a manos de un poderoso banquero portugués.</desc>
     <category lang="es">Comedia</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20250606010000 +0200" stop="20250606020000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250606010000 +0200" stop="20250606020000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Les Misérables</title>
     <desc lang="es">Adaptación de la clásica novela de Victor Hugo que sigue a Jean Valjean mientras evade la captura del incansable inspector Javert. Con un telón de fondo de la Francia post-napoleónica.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_les-miserables_l_l.jpg"/>
   </programme>
-  <programme start="20250606020000 +0200" stop="20250606030000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250606020000 +0200" stop="20250606030000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_pasion-y-poder_l_l.jpg"/>
   </programme>
-  <programme start="20250606030000 +0200" stop="20250606040000 +0200" channel="ENT | Pasiones OP">
+  <programme start="20250606030000 +0200" stop="20250606040000 +0200" channel="ENT| Pasiones OP">
     <title lang="es">Mi nombre es Melek</title>
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
