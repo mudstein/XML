@@ -12,6 +12,10 @@
     <display-name lang="es">ENT| Pasiones OP</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png"/>
   </channel>
+  <channel id="Golden (lat)">
+    <display-name lang="es">Golden (lat)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_golden_m.png"/>
+  </channel>
   <programme start="20250603050000 +0200" stop="20250603060000 +0200" channel="ENT| Pasiones">
     <title lang="es">Pasión y poder</title>
     <desc lang="es">Dos empresarios rivales y enemigos acérrimos descubren que se han enamorado de la misma mujer.</desc>
@@ -1289,5 +1293,236 @@
     <desc lang="es">Melek intenta reconstruir su vida con su familia y sus hijos.</desc>
     <category lang="es">Drama</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250603050000 +0200" stop="20250603082200 +0200" channel="Golden (lat)">
+    <title lang="es">¿Conoces a Joe Black?</title>
+    <title lang="xx">Meet Joe Black</title>
+    <desc lang="es">William Parrish es un poderoso magnate cuya vida se ve alterada por la llegada de un enigmático joven llamado Joe Black. Se trata, en realidad, de la personificación de la muerte con una misión que cumplir en dicho hogar.</desc>
+    <date>1998</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conoces-a-joe-black-1998_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250603082200 +0200" stop="20250603105100 +0200" channel="Golden (lat)">
+    <title lang="es">Secreto en la montaña</title>
+    <title lang="xx">Brokeback Mountain</title>
+    <desc lang="es">En el verano de 1963, dos vaqueros forjan inesperadamente, y para toda la vida, una relación muy íntima pero inaceptable en su medio. Este lazo les traerá complicaciones, alegrías y tragedias.</desc>
+    <date>2005</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_secreto-en-la-montana-2005_l_l.jpg"/>
+  </programme>
+  <programme start="20250603105100 +0200" stop="20250603120700 +0200" channel="Golden (lat)">
+    <title lang="es">Historia de un asesinato</title>
+    <title lang="xx">The Private Life of a Modern Woman</title>
+    <desc lang="es">Vera, una famosa actriz de Nueva York, deja que su problemático exnovio entre a su apartamento. Todo se complica cuando él decide atacarla.</desc>
+    <date>2017</date>
+    <category lang="es">Thriller</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250603120700 +0200" stop="20250603134900 +0200" channel="Golden (lat)">
+    <title lang="es">Siempre a tu lado</title>
+    <title lang="xx">Hachiko: A Dog's Story</title>
+    <desc lang="es">Un profesor de universidad adopta a Hachiko, un perro vagabundo de una estación del tren. Hachiko cambiará su vida cuando él descubra los lazos que se pueden crear entre un animal y una persona. Basada en una historia real.</desc>
+    <date>2009</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_siempre-a-tu-lado-2009_l_l.jpg"/>
+  </programme>
+  <programme start="20250603134900 +0200" stop="20250603161200 +0200" channel="Golden (lat)">
+    <title lang="es">La cabaña</title>
+    <title lang="xx">The Shack</title>
+    <desc lang="es">Mack cae en una profunda depresión luego de sufrir una tragedia familiar. Cuando comienza a cuestionar todas sus creencias recibe una carta, donde un desconocido lo cita en una cabaña abandonada en lo profundo de los bosques de Oregón.</desc>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-cabana-2017_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250603161200 +0200" stop="20250603180600 +0200" channel="Golden (lat)">
+    <title lang="es">Amor eterno</title>
+    <title lang="xx">Endless Love</title>
+    <desc lang="es">Jade, una tímida joven de familia privilegiada, y David, un chico carismático y divertido, se enamoran perdidamente durante un verano. Cuando el padre de ella intenta separarlos, su pasión los llevará a arrastrar situaciones temerarias.</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_amor-eterno-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250603180600 +0200" stop="20250603200600 +0200" channel="Golden (lat)">
+    <title lang="es">Serena</title>
+    <desc lang="es">En Carolina del Norte, durante 1920, George y Serena, una feliz pareja de recién casados, empiezan a levantar un imperio maderero. Sin embargo, cuando Serena descubre el pasado secreto de George, el matrimonio comienza a tambalear.</desc>
+    <date>2014</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_serena-2014_l_l.jpg"/>
+  </programme>
+  <programme start="20250603200600 +0200" stop="20250603220000 +0200" channel="Golden (lat)">
+    <title lang="es">Otoño en Nueva York</title>
+    <title lang="xx">Autumn in New York</title>
+    <desc lang="es">Un hombre maduro y adinerado, reticente al compromiso, se enamora de una bonita veinteañera estudiante de artes. Ambos quedarán marcados desde su primer y casual encuentro.</desc>
+    <date>2000</date>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_otono-en-nueva-york-2000_l_l.jpg"/>
+  </programme>
+  <programme start="20250603220000 +0200" stop="20250603234200 +0200" channel="Golden (lat)">
+    <title lang="es">Siempre a tu lado</title>
+    <title lang="xx">Hachiko: A Dog's Story</title>
+    <desc lang="es">Un profesor de universidad adopta a Hachiko, un perro vagabundo de una estación del tren. Hachiko cambiará su vida cuando él descubra los lazos que se pueden crear entre un animal y una persona. Basada en una historia real.</desc>
+    <date>2009</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_siempre-a-tu-lado-2009_l_l.jpg"/>
+  </programme>
+  <programme start="20250603234200 +0200" stop="20250604025800 +0200" channel="Golden (lat)">
+    <title lang="es">¿Conoces a Joe Black?</title>
+    <title lang="xx">Meet Joe Black</title>
+    <desc lang="es">William Parrish es un poderoso magnate cuya vida se ve alterada por la llegada de un enigmático joven llamado Joe Black. Se trata, en realidad, de la personificación de la muerte con una misión que cumplir en dicho hogar.</desc>
+    <date>1998</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_conoces-a-joe-black-1998_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250604025800 +0200" stop="20250604050000 +0200" channel="Golden (lat)">
+    <title lang="es">Top Gun, reto a la gloria</title>
+    <title lang="xx">Top Gun</title>
+    <desc lang="es">Pete Mitchell, un impetuoso y temerario piloto naval, es aceptado en la escuela de élite Fighter School de Miramar, también conocida como Top Gun. Allí, competirá con sus compañeros por quedarse con el prestigioso Top Gun Trophy.</desc>
+    <date>1986</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_top-gun-reto-a-la-gloria-1986_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250604050000 +0200" stop="20250605050000 +0200" channel="Golden (lat)">
+    <title lang="es">Amar te duele</title>
+    <desc lang="es">Una joven de clase apuesta que le dará un beso a un chico humilde. Lo que comienza como un juego termina en un romance ensombrecido por la diferencia de clases. Lucharán para conservar su amor, pero el precio a pagar será alto.</desc>
+    <date>2002</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_amar-te-duele-2002_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605050000 +0200" stop="20250605065700 +0200" channel="Golden (lat)">
+    <title lang="es">Amar te duele</title>
+    <desc lang="es">Una joven de clase apuesta que le dará un beso a un chico humilde. Lo que comienza como un juego termina en un romance ensombrecido por la diferencia de clases. Lucharán para conservar su amor, pero el precio a pagar será alto.</desc>
+    <date>2002</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_amar-te-duele-2002_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605065700 +0200" stop="20250605091200 +0200" channel="Golden (lat)">
+    <title lang="es">No se aceptan devoluciones</title>
+    <title lang="xx">Instructions Not Included</title>
+    <desc lang="es">Narra la historia de Valentín, mujeriego, soltero y egoísta que sorpresivamente tiene que hacerse cargo de su pequeña hija a la que no conocía, producto de una aventura ocasional...</desc>
+    <date>2013</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_no-se-aceptan-devoluciones-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605091200 +0200" stop="20250605110800 +0200" channel="Golden (lat)">
+    <title lang="es">Otoño en Nueva York</title>
+    <title lang="xx">Autumn in New York</title>
+    <desc lang="es">Un hombre maduro y adinerado, reticente al compromiso, se enamora de una bonita veinteañera estudiante de artes. Ambos quedarán marcados desde su primer y casual encuentro.</desc>
+    <date>2000</date>
+    <category lang="es">Romántica</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_otono-en-nueva-york-2000_l_l.jpg"/>
+  </programme>
+  <programme start="20250605110800 +0200" stop="20250605131700 +0200" channel="Golden (lat)">
+    <title lang="es">Cómo ser un Latin Lover</title>
+    <title lang="xx">How to Be a Latin Lover</title>
+    <desc lang="es">Máximo, un gigoló especializado en la seducción de mujeres ancianas ricas, se casa con una mujer que le dobla en edad. Veinticinco años después recibe la sorpresa de su vida cuando ella termina abandonándolo.</desc>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_como-ser-un-latin-lover-2017-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605131700 +0200" stop="20250605145400 +0200" channel="Golden (lat)">
+    <title lang="es">Cosas imposibles</title>
+    <desc lang="es">Matilde es una mujer que, tras la muerte de su esposo, un hombre que abusó de ella constantemente, encuentra a su nuevo gran amigo en Miguel, su vecino joven, inseguro, desorientado y hasta dealer.</desc>
+    <date>2021</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605145400 +0200" stop="20250605164700 +0200" channel="Golden (lat)">
+    <title lang="es">A ciegas</title>
+    <title lang="xx">Blind</title>
+    <desc lang="es">Bill Oakland es un famoso novelista que se quedó ciego tras un accidente en el que también falleció su mujer. Varios años más tarde redescubre su pasión por la vida y la escritura cuando conoce a la esposa de un empresario encarcelado.</desc>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+  </programme>
+  <programme start="20250605164700 +0200" stop="20250605190000 +0200" channel="Golden (lat)">
+    <title lang="es">No se aceptan devoluciones</title>
+    <title lang="xx">Instructions Not Included</title>
+    <desc lang="es">Narra la historia de Valentín, mujeriego, soltero y egoísta que sorpresivamente tiene que hacerse cargo de su pequeña hija a la que no conocía, producto de una aventura ocasional...</desc>
+    <date>2013</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_no-se-aceptan-devoluciones-2013_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605190000 +0200" stop="20250605205600 +0200" channel="Golden (lat)">
+    <title lang="es">Amar te duele</title>
+    <desc lang="es">Una joven de clase apuesta que le dará un beso a un chico humilde. Lo que comienza como un juego termina en un romance ensombrecido por la diferencia de clases. Lucharán para conservar su amor, pero el precio a pagar será alto.</desc>
+    <date>2002</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_amar-te-duele-2002_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250605205600 +0200" stop="20250605224900 +0200" channel="Golden (lat)">
+    <title lang="es">Aloha</title>
+    <desc lang="es">Un contratista en materia de defensa supervisa el lanzamiento de un satélite desde Hawai. En la isla, además, se reencontrará con el viejo el amor de su vida Tracy Woodside, que ahora está casada y tiene dos hijos.</desc>
+    <date>2015</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_aloha-2015_l_l.jpg"/>
+  </programme>
+  <programme start="20250605224900 +0200" stop="20250606004900 +0200" channel="Golden (lat)">
+    <title lang="es">Top Gun, reto a la gloria</title>
+    <title lang="xx">Top Gun</title>
+    <desc lang="es">Pete Mitchell, un impetuoso y temerario piloto naval, es aceptado en la escuela de élite Fighter School de Miramar, también conocida como Top Gun. Allí, competirá con sus compañeros por quedarse con el prestigioso Top Gun Trophy.</desc>
+    <date>1986</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_top-gun-reto-a-la-gloria-1986_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250606004900 +0200" stop="20250606024800 +0200" channel="Golden (lat)">
+    <title lang="es">Milagros del cielo</title>
+    <title lang="xx">Miracles from Heaven</title>
+    <desc lang="es">Cuando Christy descubre que su hija de diez años, Anna, tiene una enfermedad rara e incurable, buscará una solución. Pero entonces un gran accidente ocurre, y un milagro sobreviene, sorprendiendo a los médicos y a toda la comunidad.</desc>
+    <date>2016</date>
+    <category lang="es">Drama</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_milagros-del-cielo-2016-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250606024800 +0200" stop="20250606050000 +0200" channel="Golden (lat)">
+    <title lang="es">En busca de la felicidad</title>
+    <title lang="xx">The Pursuit of Happyness</title>
+    <desc lang="es">Chris es un padre soltero que enfrenta problemas financieros. A pesar de las dificultades, Chris mantiene su compromiso como padre protector y amoroso, y usa el afecto y confianza de su hijo para superar los obstáculos que enfrenta.</desc>
+    <date>2006</date>
+    <category lang="es">Biográfico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_en-busca-de-la-felicidad-2006_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>8.0/10</value>
+    </star-rating>
   </programme>
 </tv>
