@@ -12,6 +12,10 @@
     <display-name lang="es">CINE | HBO 2 SD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
   </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="es">CINE | HBO 2 HD</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"/>
+  </channel>
   <programme start="20250610031300 +0200" stop="20250610060000 +0200" channel="CINE | HBO 2 FHD">
     <title lang="es">Elvis</title>
     <desc lang="es">Explora la vida y la música de la leyenda del rock Elvis Presley a través de su relación con el coronel Tom Parker, su enigmático mánager.</desc>
@@ -413,6 +417,143 @@
     </star-rating>
   </programme>
   <programme start="20250611034100 +0200" stop="20250612034100 +0200" channel="CINE | HBO 2 SD">
+    <title lang="es">¡Shazam!</title>
+    <title lang="xx">Shazam!</title>
+    <desc lang="es">Billy explora alegremente sus nuevos poderes ya que fue dotado de la capacidad de convertirse instantáneamente en un superhéroe adulto al pronunciar el nombre Shazam. Pronto se entera de que tiene un enemigo mortal, el Dr. Thaddeus Sivana.</desc>
+    <date>2019</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_shazam-2019-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610031300 +0200" stop="20250610060000 +0200" channel="HBO 2 HD">
+    <title lang="es">Elvis</title>
+    <desc lang="es">Explora la vida y la música de la leyenda del rock Elvis Presley a través de su relación con el coronel Tom Parker, su enigmático mánager.</desc>
+    <date>2022</date>
+    <category lang="es">Biográfico</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610060000 +0200" stop="20250610081300 +0200" channel="HBO 2 HD">
+    <title lang="es">Black Adam</title>
+    <desc lang="es">Black Adam es liberado de su tumba casi cinco mil años después de haber sido encarcelado y recibir sus poderes de los antiguos dioses. Ahora está listo para desatar su forma única de justicia en el mundo.</desc>
+    <date>2022</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610081300 +0200" stop="20250610103300 +0200" channel="HBO 2 HD">
+    <title lang="es">El justiciero</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">McCall está convencido de haber dejado atrás su misterioso pasado y ahora se dedica a construir una vida nueva y tranquila. Pero cuando conoce a una joven que está en manos de gánsteres rusos ultra violentos, se sentirá obligado a ayudarla.</desc>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-justiciero-2014_l_l.jpg"/>
+  </programme>
+  <programme start="20250610103300 +0200" stop="20250610120700 +0200" channel="HBO 2 HD">
+    <title lang="es">La huida</title>
+    <title lang="xx">Shoot 'em Up</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+    <date>2007</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-huida-2007_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610120700 +0200" stop="20250610140100 +0200" channel="HBO 2 HD">
+    <title lang="es">El maestro luchador</title>
+    <title lang="xx">Here Comes the Boom</title>
+    <desc lang="es">Scott es profesor de un colegio con problemas económicos. Pero cuando la crisis amenaza con la eliminación de las clases extracurriculares, se convertirá en un luchador de artes marciales mixtas para recaudar fondos.</desc>
+    <date>2012</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-maestro-luchador-2012_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610140100 +0200" stop="20250610155000 +0200" channel="HBO 2 HD">
+    <title lang="es">¿Y... dónde están los Morgan?</title>
+    <title lang="xx">Did You Hear About the Morgans?</title>
+    <desc lang="es">Meryl y Paul son dos novios en crisis que presencian un asesinato en Nueva York. Como no tienen nada que ver, la policía les sugiere que se acojan al programa de protección de testigos hasta que el homicida sea encarcelado.</desc>
+    <date>2009</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_y-donde-estan-los-morgan-2009_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610155000 +0200" stop="20250610173800 +0200" channel="HBO 2 HD">
+    <title lang="es">Píxeles</title>
+    <title lang="xx">Pixels</title>
+    <desc lang="es">Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. Solo Sam tiene tiene la estrategia para vencerlos.</desc>
+    <date>2015</date>
+    <category lang="es">Comedia</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_pixeles-2015_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610173800 +0200" stop="20250610193200 +0200" channel="HBO 2 HD">
+    <title lang="es">Los agentes del destino</title>
+    <title lang="xx">The Adjustment Bureau</title>
+    <desc lang="es">Un congresista, que es una figura emergente en la escena política, está extasiado con una hermosa bailarina. Pero una fuerza misteriosa y omnipotente se asegura por todos los medios de que ese romance esté predestinado a no comenzar nunca.</desc>
+    <date>2011</date>
+    <category lang="es">C.Ficción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-agentes-del-destino-2011_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610193200 +0200" stop="20250610220300 +0200" channel="HBO 2 HD">
+    <title lang="es">Diamante de sangre</title>
+    <title lang="xx">Blood Diamond</title>
+    <desc lang="es">En medio de la guerra civil de Sierra Leona, se cruzan las historia de Danny Archer, un ex mercenario, y Solomon Vandy, un pescador de Mende. Ambos hombres son africanos, pero sus historias y sus circunstancias son completamente diferentes.</desc>
+    <date>2006</date>
+    <category lang="es">Aventura</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_diamante-de-sangre-2006_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610220300 +0200" stop="20250610235300 +0200" channel="HBO 2 HD">
+    <title lang="es">Observados</title>
+    <title lang="xx">The Watchers</title>
+    <desc lang="es">Mina, una joven de 28 años, queda varada en un bosque en el oeste de Irlanda. Encuentra refugio en un edificio, pero al llegar allí queda atrapada junto a tres extraños que son observados por misteriosas criaturas todas las noches.</desc>
+    <date>2024</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_movies_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250610235300 +0200" stop="20250611013900 +0200" channel="HBO 2 HD">
+    <title lang="es">Annabelle</title>
+    <desc lang="es">Una pareja comienza a experimentar aterradores sucesos sobrenaturales relacionados con una antigua muñeca adquirida por el padre del hogar, poco tiempo después de que un culto satánico haya irrumpido en su casa.</desc>
+    <date>2014</date>
+    <category lang="es">Terror</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_annabelle-2014_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250611013900 +0200" stop="20250611034100 +0200" channel="HBO 2 HD">
+    <title lang="es">Terremoto: la falla de San Andrés</title>
+    <title lang="xx">San Andreas</title>
+    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud nueve en California. Ray y su ex esposa Emma viajarán a San Francisco para salvar a su única hija, Blake.</desc>
+    <date>2015</date>
+    <category lang="es">Acción</category>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_terremoto-la-falla-de-san-andres-2015-1_l_l.jpg"/>
+    <star-rating system="IMDb">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20250611034100 +0200" stop="20250612034100 +0200" channel="HBO 2 HD">
     <title lang="es">¡Shazam!</title>
     <title lang="xx">Shazam!</title>
     <desc lang="es">Billy explora alegremente sus nuevos poderes ya que fue dotado de la capacidad de convertirse instantáneamente en un superhéroe adulto al pronunciar el nombre Shazam. Pronto se entera de que tiene un enemigo mortal, el Dr. Thaddeus Sivana.</desc>
