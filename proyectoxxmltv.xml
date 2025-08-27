@@ -98,13 +98,17 @@
     <icon src="https://cdn.mitvstatic.com/channels/ar_h2_m.png"/>
   </channel>
   <channel id="DOC-History (L)(1080)  (1080p)">
-    <display-name lang="es">DOC-History (L)(1080)  (1080p)</display-name>
+    <display-name lang="es">DOC-History (L)(1080) (1080p)</display-name>
     <display-name lang="es">DOC-History Channel (TV)(1080)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_history_m.png"/>
   </channel>
   <channel id="DOC-History Channel (M)(1080)">
     <display-name lang="es">DOC-History Channel (M)(1080)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_history_m.png"/>
+  </channel>
+  <channel id="DOC-Hola TV (Z)(720)">
+    <display-name lang="es">DOC-Hola TV (Z)(720)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_hola-tv_m.png"/>
   </channel>
   <programme start="20250827045000 +0200" stop="20250827054000 +0200" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Viento del Everest</title>
@@ -6094,5 +6098,366 @@
     <desc lang="es">La creación de un artefacto nace de la conjugación entre la invención y el estilo de vida del hombre. En esta oportunidad la revista Mecánica Popular y History se unen conocer cuáles son los 101 artefactos que han cambiado al mundo.</desc>
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_101-artefactos-que-cambiaron-al-mundo_l_l.jpg"/>
+  </programme>
+  <programme start="20250827050000 +0200" stop="20250827060000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">Cinco mujeres deben competir, con un tiempo y presupuesto limitado, para conseguir un atuendo completo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e382_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.381.</episode-num>
+  </programme>
+  <programme start="20250827060000 +0200" stop="20250827070000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2176.</episode-num>
+  </programme>
+  <programme start="20250827070000 +0200" stop="20250827080000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Especiales realeza</title>
+    <sub-title lang="es">El estilo de la reina</sub-title>
+    <desc lang="es">La reina Isabel II dedicó su vida al servicio de la corona y su guardarropa siempre fue un reflejo de su deber.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-realeza-s00e114-el-estilo-de-la-reina_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20250827080000 +0200" stop="20250827090000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Especiales realeza</title>
+    <sub-title lang="es">Fotografiando a Isabel II, su vida en imágenes</sub-title>
+    <desc lang="es">El álbum más completo de la vida de la reina más influyente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-realeza-s00e115-fotografiando-a-isabel-ii-su-vida-en-imagenes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20250827090000 +0200" stop="20250827093000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Coronas y palacios</title>
+    <desc lang="es">Nos acercamos al itinerario de la realeza, todas las novedades de las familias reales, sus agendas, viajes y mitines sociales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.319.</episode-num>
+  </programme>
+  <programme start="20250827093000 +0200" stop="20250827100000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Tendencias del siglo XXI</title>
+    <desc lang="es">Tendencias del Siglo XXI nos muestra los secretos de un saber que evoluciona a tono con los nuevos tiempos, en ocasiones incluso anticipándolos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tendencias-del-siglo-xxi-s01e292_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.291.</episode-num>
+  </programme>
+  <programme start="20250827100000 +0200" stop="20250827110000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2176.</episode-num>
+  </programme>
+  <programme start="20250827110000 +0200" stop="20250827113000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La lista VIP</title>
+    <desc lang="es">Un espacio que nos permite espiar el día a día de los ricos y los famosos. Una mirada íntima a sus hobbies, rutinas de belleza, vacaciones y todo lo que disfrutan en su vida cotidiana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.35.</episode-num>
+  </programme>
+  <programme start="20250827113000 +0200" stop="20250827120000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Coronas y palacios</title>
+    <desc lang="es">Nos acercamos al itinerario de la realeza, todas las novedades de las familias reales, sus agendas, viajes y mitines sociales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.319.</episode-num>
+  </programme>
+  <programme start="20250827120000 +0200" stop="20250827130000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2176.</episode-num>
+  </programme>
+  <programme start="20250827130000 +0200" stop="20250827133000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Coronas y palacios</title>
+    <desc lang="es">Nos acercamos al itinerario de la realeza, todas las novedades de las familias reales, sus agendas, viajes y mitines sociales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.319.</episode-num>
+  </programme>
+  <programme start="20250827133000 +0200" stop="20250827140000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">¡Espléndida!</title>
+    <desc lang="es">Con la presentadora, influencer y emprendedora Alessandra Villegas, lograremos una nueva y mejorada versión de nosotras mismas, con estupendos consejos de salud, belleza y bienestar en hermosos escenarios naturales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.76.</episode-num>
+  </programme>
+  <programme start="20250827140000 +0200" stop="20250827143000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Video Fashion</title>
+    <desc lang="es">Un segmento para ingresar dentro del universo de la moda y los diseñadores. Se presentarán las últimas tendencias sobre indumentaria, make up y mucho más.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_video-fashion-s00e10_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20250827143000 +0200" stop="20250827150000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Coronas y palacios</title>
+    <desc lang="es">Un recorrido en detalle sobre la realeza, protagonizada por los miembros de las monarquías, incluyendo sus actividades y el seguimiento de los actos a los que acuden, según sus agendas oficiales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.224.</episode-num>
+  </programme>
+  <programme start="20250827150000 +0200" stop="20250827160000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íconos ¡HOLA! TV</title>
+    <sub-title lang="es">Claudia Schiffer</sub-title>
+    <desc lang="es">Tras sus 50 natalicios, la modelo Claudia Schiffer es una de las modelos que continua siendo tendencia hoy en día. Te mostramos su historia y su trayecto a la fama.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_iconos-hola-tv-s01e99-claudia-schiffer_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.98.</episode-num>
+  </programme>
+  <programme start="20250827160000 +0200" stop="20250827170000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2176.</episode-num>
+  </programme>
+  <programme start="20250827170000 +0200" stop="20250827180000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">En un tiempo establecido y con un presupuesto limitado, las participantes deberán completar un look que incluye vestuario, maquillaje y peinado para la ocasión que le sea asignada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e353_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.352.</episode-num>
+  </programme>
+  <programme start="20250827180000 +0200" stop="20250827190000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">Cristina Cordula, modelo y consultora de moda, será jueza y organiza los desafíos, para las cinco mujeres que poseen diferentes estilos. Con una cantidad de presupuesto determinado, deberán destacar con sus elecciones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e378_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.377.</episode-num>
+  </programme>
+  <programme start="20250827190000 +0200" stop="20250827200000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2176.</episode-num>
+  </programme>
+  <programme start="20250827200000 +0200" stop="20250827210000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Especiales realeza</title>
+    <sub-title lang="es">El estilo de la reina</sub-title>
+    <desc lang="es">La reina Isabel II dedicó su vida al servicio de la corona y su guardarropa siempre fue un reflejo de su deber.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-realeza-s00e114-el-estilo-de-la-reina_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.113.</episode-num>
+  </programme>
+  <programme start="20250827210000 +0200" stop="20250827220000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Especiales realeza</title>
+    <sub-title lang="es">Fotografiando a Isabel II, su vida en imágenes</sub-title>
+    <desc lang="es">El álbum más completo de la vida de la reina más influyente.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-realeza-s00e115-fotografiando-a-isabel-ii-su-vida-en-imagenes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.114.</episode-num>
+  </programme>
+  <programme start="20250827220000 +0200" stop="20250827223000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Coronas y palacios</title>
+    <desc lang="es">Nos acercamos al itinerario de la realeza, todas las novedades de las familias reales, sus agendas, viajes y mitines sociales.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.319.</episode-num>
+  </programme>
+  <programme start="20250827223000 +0200" stop="20250827230000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Top de estilo</title>
+    <desc lang="es">Un espacio que analiza muy de cerca el look de las grandes estrellas del espectáculo al mejor estilo. Una producción que recorre todas las alfombras rojas para lograr un acercamiento a las celebridades y su top de estilo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_top-de-estilo-s00e28_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.27.</episode-num>
+  </programme>
+  <programme start="20250827230000 +0200" stop="20250828000000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Los hoteles más increíbles del mundo</title>
+    <desc lang="es">Un recorrido por algunos de los hoteles más increíbles del mundo para descubrir todos sus secretos y mostrar el esfuerzo de sus propietarios y del personal, quienes buscan crear la mejor experiencia para sus huéspedes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828003000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La lista VIP</title>
+    <desc lang="es">Un espacio que nos permite espiar el día a día de los ricos y los famosos. Una mirada íntima a sus hobbies, rutinas de belleza, vacaciones y todo lo que disfrutan en su vida cotidiana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  </programme>
+  <programme start="20250828003000 +0200" stop="20250828010000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Tendencias del siglo XXI</title>
+    <desc lang="es">Tendencias del Siglo XXI nos muestra los secretos de un saber que evoluciona a tono con los nuevos tiempos, en ocasiones incluso anticipándolos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tendencias-del-siglo-xxi-s01e293_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.292.</episode-num>
+  </programme>
+  <programme start="20250828010000 +0200" stop="20250828020000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">Cinco mujeres deben competir, con un tiempo y presupuesto limitado, para conseguir un atuendo completo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e383_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.382.</episode-num>
+  </programme>
+  <programme start="20250828020000 +0200" stop="20250828030000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2177.</episode-num>
+  </programme>
+  <programme start="20250828030000 +0200" stop="20250828040000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íntimo y personal</title>
+    <sub-title lang="es">Taylor Swift</sub-title>
+    <desc lang="es">Un especial para conocer la intimidad y la carrera artística de la popular cantante,Taylor Swift. Te mostramos toda la intimidad y lo más saliente de sus grandes éxitos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.35.</episode-num>
+  </programme>
+  <programme start="20250828040000 +0200" stop="20250828050000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íntimo y personal</title>
+    <sub-title lang="es">Camila Cabello</sub-title>
+    <desc lang="es">Un espacio de cercanía, donde conoceremos en profundidad la intimidad y la carrera de la cantante: Camila Cabello.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme start="20250828050000 +0200" stop="20250828060000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">Cinco mujeres deben competir, con un tiempo y presupuesto limitado, para conseguir un atuendo completo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e383_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.382.</episode-num>
+  </programme>
+  <programme start="20250828060000 +0200" stop="20250828070000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2177.</episode-num>
+  </programme>
+  <programme start="20250828070000 +0200" stop="20250828080000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íntimo y personal</title>
+    <sub-title lang="es">Taylor Swift</sub-title>
+    <desc lang="es">Un especial para conocer la intimidad y la carrera artística de la popular cantante,Taylor Swift. Te mostramos toda la intimidad y lo más saliente de sus grandes éxitos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.35.</episode-num>
+  </programme>
+  <programme start="20250828080000 +0200" stop="20250828090000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íntimo y personal</title>
+    <sub-title lang="es">Camila Cabello</sub-title>
+    <desc lang="es">Un espacio de cercanía, donde conoceremos en profundidad la intimidad y la carrera de la cantante: Camila Cabello.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme start="20250828090000 +0200" stop="20250828093000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Video Fashion</title>
+    <desc lang="es">Conocemos la historia en detalle de la supermodelo, Carmen Kass, quien reflexiona sobre su fabulosa carrera, en una entrevista exclusiva. Luego, vemos algunos de los nuevos rostros en el mundo de la moda.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_video-fashion-s00e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20250828093000 +0200" stop="20250828100000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Tendencias del siglo XXI</title>
+    <desc lang="es">Tendencias del Siglo XXI nos muestra los secretos de un saber que evoluciona a tono con los nuevos tiempos, en ocasiones incluso anticipándolos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tendencias-del-siglo-xxi-s01e293_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.292.</episode-num>
+  </programme>
+  <programme start="20250828100000 +0200" stop="20250828110000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2177.</episode-num>
+  </programme>
+  <programme start="20250828110000 +0200" stop="20250828113000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La lista VIP</title>
+    <desc lang="es">Un espacio que nos permite espiar el día a día de los ricos y los famosos. Una mirada íntima a sus hobbies, rutinas de belleza, vacaciones y todo lo que disfrutan en su vida cotidiana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.36.</episode-num>
+  </programme>
+  <programme start="20250828113000 +0200" stop="20250828120000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Video Fashion</title>
+    <desc lang="es">Conocemos la historia en detalle de la supermodelo, Carmen Kass, quien reflexiona sobre su fabulosa carrera, en una entrevista exclusiva. Luego, vemos algunos de los nuevos rostros en el mundo de la moda.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_video-fashion-s00e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.19.</episode-num>
+  </programme>
+  <programme start="20250828120000 +0200" stop="20250828130000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2177.</episode-num>
+  </programme>
+  <programme start="20250828130000 +0200" stop="20250828140000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Especiales ¡HOLA! TV</title>
+    <sub-title lang="es">Alfombras rojas 2023</sub-title>
+    <desc lang="es">María José Barraza presenta el mejor resumen de los looks más impactantes. Las alfombras rojas de 2023.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_especiales-hola-tv-s00e60-alfombras-rojas-2023_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.59.</episode-num>
+  </programme>
+  <programme start="20250828140000 +0200" stop="20250828143000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Video Fashion</title>
+    <desc lang="es">Un segmento para ingresar dentro del universo de la moda y los diseñadores. Se presentarán las últimas tendencias sobre indumentaria, make up y mucho más.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_video-fashion-s00e11_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.10.</episode-num>
+  </programme>
+  <programme start="20250828143000 +0200" stop="20250828150000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Coronas y palacios</title>
+    <desc lang="es">Nos sumamos a la agenda de actividades sociales del príncipe Guillermo (príncipe William de Gales).</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.225.</episode-num>
+  </programme>
+  <programme start="20250828150000 +0200" stop="20250828160000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íconos ¡HOLA! TV</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <desc lang="es">Recorremos la vida y obra del cantante mexicano Juan Gabriel, el Divo de Juárez. Además, de la primicia de su hijo mayor, Iván Aguilera, sobre el documental biográfico del artista.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_iconos-hola-tv-s01e63-juan-gabriel_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.62.</episode-num>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828170000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2177.</episode-num>
+  </programme>
+  <programme start="20250828170000 +0200" stop="20250828180000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">En un tiempo establecido y con un presupuesto limitado, las participantes deberán completar un look que incluye vestuario, maquillaje y peinado para la ocasión que le sea asignada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e354_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.353.</episode-num>
+  </programme>
+  <programme start="20250828180000 +0200" stop="20250828190000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">Las participantes deberán tener sumo cuidado a la hora de elegir la vestimenta, en favor al desafío que Cristina Córdula tiene para ofrecerles.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e379_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.378.</episode-num>
+  </programme>
+  <programme start="20250828190000 +0200" stop="20250828200000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2177.</episode-num>
+  </programme>
+  <programme start="20250828200000 +0200" stop="20250828210000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íntimo y personal</title>
+    <sub-title lang="es">Taylor Swift</sub-title>
+    <desc lang="es">Un especial para conocer la intimidad y la carrera artística de la popular cantante,Taylor Swift. Te mostramos toda la intimidad y lo más saliente de sus grandes éxitos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.35.</episode-num>
+  </programme>
+  <programme start="20250828210000 +0200" stop="20250828220000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Íntimo y personal</title>
+    <sub-title lang="es">Camila Cabello</sub-title>
+    <desc lang="es">Un espacio de cercanía, donde conoceremos en profundidad la intimidad y la carrera de la cantante: Camila Cabello.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.48.</episode-num>
+  </programme>
+  <programme start="20250828220000 +0200" stop="20250828223000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Cóctel de noticias</title>
+    <desc lang="es">Un toque de celebridades, un poco de realeza, destellos de moda… los ingredientesimprescindibles para el coctel de noticias perfecto. Un resumen semanal de las noticias más destacadas de la realeza, la moda y las celebridades.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.9.</episode-num>
+  </programme>
+  <programme start="20250828223000 +0200" stop="20250828230000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Top de estilo</title>
+    <desc lang="es">Un espacio que analiza muy de cerca el look de las grandes estrellas del espectáculo al mejor estilo. Una producción que recorre todas las alfombras rojas para lograr un acercamiento a las celebridades y su top de estilo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_top-de-estilo-s00e29_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.28.</episode-num>
+  </programme>
+  <programme start="20250828230000 +0200" stop="20250829000000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Los hoteles más increíbles del mundo</title>
+    <desc lang="es">Un recorrido por algunos de los hoteles más increíbles del mundo para descubrir todos sus secretos y mostrar el esfuerzo de sus propietarios y del personal, quienes buscan crear la mejor experiencia para sus huéspedes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.45.</episode-num>
+  </programme>
+  <programme start="20250829000000 +0200" stop="20250829003000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La lista VIP</title>
+    <desc lang="es">Un espacio que nos permite espiar el día a día de los ricos y los famosos. Una mirada íntima a sus hobbies, rutinas de belleza, vacaciones y todo lo que disfrutan en su vida cotidiana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.37.</episode-num>
+  </programme>
+  <programme start="20250829003000 +0200" stop="20250829010000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Tendencias del siglo XXI</title>
+    <desc lang="es">Tendencias del Siglo XXI nos muestra los secretos de un saber que evoluciona a tono con los nuevos tiempos, en ocasiones incluso anticipándolos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_tendencias-del-siglo-xxi-s01e294_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.293.</episode-num>
+  </programme>
+  <programme start="20250829010000 +0200" stop="20250829020000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Las reinas del Shopping</title>
+    <desc lang="es">Todas las participantes ansían poder demostrar sus destrezas, a la hora de comprar y conceptualizar sus vestuarios. ¿Podrán superar el desafío que Cristina Córdula les ofrecerá?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_las-reinas-del-shopping-s01e384_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.383.</episode-num>
+  </programme>
+  <programme start="20250829020000 +0200" stop="20250829030000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">La hora ¡HOLA!</title>
+    <desc lang="es">Espacio dedicado para informar las noticias de la actualidad, desde un enfoque humano y positivo. También cuenta con una plataforma especialmente diseñada para realizar entrevistas a invitados exclusivos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.2178.</episode-num>
+  </programme>
+  <programme start="20250829030000 +0200" stop="20250829033000 +0200" channel="DOC-Hola TV (Z)(720)">
+    <title lang="es">Sí quiero</title>
+    <desc lang="es">Historias de parejas que han cruzado fronteras culturales, religiosas y geográficas para llegar al altar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">.6.</episode-num>
   </programme>
 </tv>
