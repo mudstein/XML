@@ -31,6 +31,7 @@
   </channel>
   <channel id="DOC-Discovery HGTV (TV)(1080)">
     <display-name lang="es">DOC-Discovery HGTV (TV)(1080)</display-name>
+    <display-name lang="es">DOC-HGTV (Z)(1080)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_hgtv_m.png"/>
   </channel>
   <channel id="DOC-Discovery Home &amp; Health (M)(1080)">
@@ -69,7 +70,7 @@
   <channel id="DOC-Discovery TURBO (L)(1080)">
     <display-name lang="es">DOC-Discovery TURBO (L)(1080)</display-name>
     <display-name lang="es">DOC-Discovery Turbo (M)(1080)</display-name>
-    <display-name lang="es">DOC-Discovery Turbo (Z)(710)</display-name>
+    <display-name lang="es">DOC-Discovery Turbo (Z)(720)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_discovery-turbo_m.png"/>
   </channel>
   <channel id="DOC-Discovery World (L)(1080)">
@@ -80,9 +81,30 @@
     <display-name lang="es">DOC-Discovery World (Z)(1080)</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_discovery-world-hd_m.png"/>
   </channel>
-  <channel id="DOC-DW En Español">
-    <display-name lang="es">DOC-DW En Español</display-name>
+  <channel id="DOC-DW En Español (Z)(1080)">
+    <display-name lang="es">DOC-DW En Español (Z)(1080)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle.png"/>
+  </channel>
+  <channel id="DOC-Gourmet (Z)(1080)">
+    <display-name lang="es">DOC-Gourmet (Z)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png"/>
+  </channel>
+  <channel id="DOC-H2 (M)(1080)">
+    <display-name lang="es">DOC-H2 (M)(1080)</display-name>
+    <display-name lang="es">DOC-H2 (TV)(720)</display-name>
+    <display-name lang="es">DOC-History (Z)(1080)</display-name>
+    <display-name lang="es">DOC-History 2 (L)(1080)</display-name>
+    <display-name lang="es">DOC-History 2 (Z)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/ar_h2_m.png"/>
+  </channel>
+  <channel id="DOC-History (L)(1080)  (1080p)">
+    <display-name lang="es">DOC-History (L)(1080)  (1080p)</display-name>
+    <display-name lang="es">DOC-History Channel (TV)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/mx_history_m.png"/>
+  </channel>
+  <channel id="DOC-History Channel (M)(1080)">
+    <display-name lang="es">DOC-History Channel (M)(1080)</display-name>
+    <icon src="https://cdn.mitvstatic.com/channels/cl_history_m.png"/>
   </channel>
   <programme start="20250827045000 +0200" stop="20250827054000 +0200" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Viento del Everest</title>
@@ -4397,319 +4419,1680 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20250827001500 -0400" stop="20250827010200 -0400" channel="DOC-DW En Español">
+  <programme start="20250827001500 -0400" stop="20250827010200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">TikTok in China's Shadow</title>
   </programme>
-  <programme start="20250827010200 -0400" stop="20250827013000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827010200 -0400" stop="20250827013000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250827013000 -0400" stop="20250827020000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827013000 -0400" stop="20250827020000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250827020000 -0400" stop="20250827021500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827020000 -0400" stop="20250827021500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827021500 -0400" stop="20250827023000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827021500 -0400" stop="20250827023000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">HER - Women in Asia</title>
   </programme>
-  <programme start="20250827023000 -0400" stop="20250827030000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827023000 -0400" stop="20250827030000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">In good shape</title>
   </programme>
-  <programme start="20250827030000 -0400" stop="20250827033000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827030000 -0400" stop="20250827033000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827033000 -0400" stop="20250827040000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827033000 -0400" stop="20250827040000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Close upThe Current Affairs</title>
   </programme>
-  <programme start="20250827040000 -0400" stop="20250827043000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827040000 -0400" stop="20250827043000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827043000 -0400" stop="20250827050000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827043000 -0400" stop="20250827050000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Eco India</title>
   </programme>
-  <programme start="20250827050000 -0400" stop="20250827051500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827050000 -0400" stop="20250827051500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827051500 -0400" stop="20250827060000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827051500 -0400" stop="20250827060000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Children in Elite Sports</title>
   </programme>
-  <programme start="20250827060000 -0400" stop="20250827063000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827060000 -0400" stop="20250827063000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827063000 -0400" stop="20250827070000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827063000 -0400" stop="20250827070000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Close upThe Current Affairs</title>
   </programme>
-  <programme start="20250827070000 -0400" stop="20250827073000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827070000 -0400" stop="20250827073000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827073000 -0400" stop="20250827080000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827073000 -0400" stop="20250827080000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250827080000 -0400" stop="20250827081500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827080000 -0400" stop="20250827081500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827081500 -0400" stop="20250827090000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827081500 -0400" stop="20250827090000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Surviving Globalization, p-1</title>
   </programme>
-  <programme start="20250827090000 -0400" stop="20250827091500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827090000 -0400" stop="20250827091500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827091500 -0400" stop="20250827093000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827091500 -0400" stop="20250827093000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Asia 2050</title>
   </programme>
-  <programme start="20250827093000 -0400" stop="20250827100000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827093000 -0400" stop="20250827100000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Eco Africa</title>
   </programme>
-  <programme start="20250827100000 -0400" stop="20250827103000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827100000 -0400" stop="20250827103000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827103000 -0400" stop="20250827110000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827103000 -0400" stop="20250827110000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250827110000 -0400" stop="20250827113000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827110000 -0400" stop="20250827113000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827113000 -0400" stop="20250827120000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827113000 -0400" stop="20250827120000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Eco India</title>
   </programme>
-  <programme start="20250827120000 -0400" stop="20250827121500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827120000 -0400" stop="20250827121500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827121500 -0400" stop="20250827130000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827121500 -0400" stop="20250827130000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Children in Elite Sports</title>
   </programme>
-  <programme start="20250827130000 -0400" stop="20250827131500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827130000 -0400" stop="20250827131500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827131500 -0400" stop="20250827133000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827131500 -0400" stop="20250827133000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Asia 2050</title>
   </programme>
-  <programme start="20250827133000 -0400" stop="20250827140000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827133000 -0400" stop="20250827140000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Close upThe Current Affairs</title>
   </programme>
-  <programme start="20250827140000 -0400" stop="20250827143000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827140000 -0400" stop="20250827143000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827143000 -0400" stop="20250827150200 -0400" channel="DOC-DW En Español">
+  <programme start="20250827143000 -0400" stop="20250827150200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Environmental Crime</title>
   </programme>
-  <programme start="20250827150200 -0400" stop="20250827153000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827150200 -0400" stop="20250827153000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">In good shape</title>
   </programme>
-  <programme start="20250827153000 -0400" stop="20250827160000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827153000 -0400" stop="20250827160000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The 77 Percent</title>
   </programme>
-  <programme start="20250827160000 -0400" stop="20250827163000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827160000 -0400" stop="20250827163000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827163000 -0400" stop="20250827170000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827163000 -0400" stop="20250827170000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250827170000 -0400" stop="20250827171500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827170000 -0400" stop="20250827171500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Asia 2050</title>
   </programme>
-  <programme start="20250827171500 -0400" stop="20250827180200 -0400" channel="DOC-DW En Español">
+  <programme start="20250827171500 -0400" stop="20250827180200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Children in Elite Sports</title>
   </programme>
-  <programme start="20250827180200 -0400" stop="20250827183000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827180200 -0400" stop="20250827183000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250827183000 -0400" stop="20250827190000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827183000 -0400" stop="20250827190000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250827190000 -0400" stop="20250827191500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827190000 -0400" stop="20250827191500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827191500 -0400" stop="20250827193000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827191500 -0400" stop="20250827193000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Asia 2050</title>
   </programme>
-  <programme start="20250827193000 -0400" stop="20250827200200 -0400" channel="DOC-DW En Español">
+  <programme start="20250827193000 -0400" stop="20250827200200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Focus on Europe spotlight on</title>
   </programme>
-  <programme start="20250827200200 -0400" stop="20250827203000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827200200 -0400" stop="20250827203000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250827203000 -0400" stop="20250827210000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827203000 -0400" stop="20250827210000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Arts Unveiled</title>
   </programme>
-  <programme start="20250827210000 -0400" stop="20250827211500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827210000 -0400" stop="20250827211500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827211500 -0400" stop="20250827220200 -0400" channel="DOC-DW En Español">
+  <programme start="20250827211500 -0400" stop="20250827220200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Smart Insects</title>
   </programme>
-  <programme start="20250827220200 -0400" stop="20250827223000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827220200 -0400" stop="20250827223000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250827223000 -0400" stop="20250827230000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827223000 -0400" stop="20250827230000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250827230000 -0400" stop="20250827231500 -0400" channel="DOC-DW En Español">
+  <programme start="20250827230000 -0400" stop="20250827231500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250827231500 -0400" stop="20250827233000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827231500 -0400" stop="20250827233000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Asia 2050</title>
   </programme>
-  <programme start="20250827233000 -0400" stop="20250828000000 -0400" channel="DOC-DW En Español">
+  <programme start="20250827233000 -0400" stop="20250828000000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Eco India</title>
   </programme>
-  <programme start="20250828000000 -0400" stop="20250828001500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828000000 -0400" stop="20250828001500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828001500 -0400" stop="20250828010200 -0400" channel="DOC-DW En Español">
+  <programme start="20250828001500 -0400" stop="20250828010200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Smart Insects</title>
   </programme>
-  <programme start="20250828010200 -0400" stop="20250828013000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828010200 -0400" stop="20250828013000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250828013000 -0400" stop="20250828020000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828013000 -0400" stop="20250828020000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Focus on Europe spotlight on</title>
   </programme>
-  <programme start="20250828020000 -0400" stop="20250828021500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828020000 -0400" stop="20250828021500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828021500 -0400" stop="20250828023000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828021500 -0400" stop="20250828023000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Asia 2050</title>
   </programme>
-  <programme start="20250828023000 -0400" stop="20250828030000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828023000 -0400" stop="20250828030000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250828030000 -0400" stop="20250828033000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828030000 -0400" stop="20250828033000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828033000 -0400" stop="20250828040000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828033000 -0400" stop="20250828040000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Focus on Europe spotlight on</title>
   </programme>
-  <programme start="20250828040000 -0400" stop="20250828043000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828040000 -0400" stop="20250828043000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828043000 -0400" stop="20250828050000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828043000 -0400" stop="20250828050000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Tomorrow today the science</title>
   </programme>
-  <programme start="20250828050000 -0400" stop="20250828051500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828050000 -0400" stop="20250828051500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828051500 -0400" stop="20250828060000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828051500 -0400" stop="20250828060000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">TikTok in China's Shadow</title>
   </programme>
-  <programme start="20250828060000 -0400" stop="20250828063000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828060000 -0400" stop="20250828063000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828063000 -0400" stop="20250828070000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828063000 -0400" stop="20250828070000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Eco India</title>
   </programme>
-  <programme start="20250828070000 -0400" stop="20250828073000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828070000 -0400" stop="20250828073000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828073000 -0400" stop="20250828080000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828073000 -0400" stop="20250828080000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Focus on Europe spotlight on</title>
   </programme>
-  <programme start="20250828080000 -0400" stop="20250828081500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828080000 -0400" stop="20250828081500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828081500 -0400" stop="20250828090000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828081500 -0400" stop="20250828090000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Children in Elite Sports</title>
   </programme>
-  <programme start="20250828090000 -0400" stop="20250828091500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828090000 -0400" stop="20250828091500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828091500 -0400" stop="20250828093000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828091500 -0400" stop="20250828093000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Mapped Out</title>
   </programme>
-  <programme start="20250828093000 -0400" stop="20250828100000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828093000 -0400" stop="20250828100000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Rev</title>
   </programme>
-  <programme start="20250828100000 -0400" stop="20250828103000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828100000 -0400" stop="20250828103000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828103000 -0400" stop="20250828110000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828103000 -0400" stop="20250828110000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Focus on Europe spotlight on</title>
   </programme>
-  <programme start="20250828110000 -0400" stop="20250828113000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828110000 -0400" stop="20250828113000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828113000 -0400" stop="20250828120000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828113000 -0400" stop="20250828120000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">In good shape</title>
   </programme>
-  <programme start="20250828120000 -0400" stop="20250828121500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828120000 -0400" stop="20250828121500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828121500 -0400" stop="20250828130000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828121500 -0400" stop="20250828130000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">TikTok in China's Shadow</title>
   </programme>
-  <programme start="20250828130000 -0400" stop="20250828131500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828130000 -0400" stop="20250828131500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828131500 -0400" stop="20250828133000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828131500 -0400" stop="20250828133000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Mapped Out</title>
   </programme>
-  <programme start="20250828133000 -0400" stop="20250828140000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828133000 -0400" stop="20250828140000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828140000 -0400" stop="20250828143000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828140000 -0400" stop="20250828143000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828143000 -0400" stop="20250828150200 -0400" channel="DOC-DW En Español">
+  <programme start="20250828143000 -0400" stop="20250828150200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Global Us</title>
   </programme>
-  <programme start="20250828150200 -0400" stop="20250828153000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828150200 -0400" stop="20250828153000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
   </programme>
-  <programme start="20250828153000 -0400" stop="20250828160000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828153000 -0400" stop="20250828160000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">To the Point</title>
   </programme>
-  <programme start="20250828160000 -0400" stop="20250828163000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828160000 -0400" stop="20250828163000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828163000 -0400" stop="20250828170000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828163000 -0400" stop="20250828170000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250828170000 -0400" stop="20250828171500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828170000 -0400" stop="20250828171500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Mapped Out</title>
   </programme>
-  <programme start="20250828171500 -0400" stop="20250828180200 -0400" channel="DOC-DW En Español">
+  <programme start="20250828171500 -0400" stop="20250828180200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">TikTok in China's Shadow</title>
   </programme>
-  <programme start="20250828180200 -0400" stop="20250828183000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828180200 -0400" stop="20250828183000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250828183000 -0400" stop="20250828190000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828183000 -0400" stop="20250828190000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">To the Point</title>
   </programme>
-  <programme start="20250828190000 -0400" stop="20250828191500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828190000 -0400" stop="20250828191500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828191500 -0400" stop="20250828193000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828191500 -0400" stop="20250828193000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Mapped Out</title>
   </programme>
-  <programme start="20250828193000 -0400" stop="20250828200200 -0400" channel="DOC-DW En Español">
+  <programme start="20250828193000 -0400" stop="20250828200200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Best of DW Podcasts</title>
   </programme>
-  <programme start="20250828200200 -0400" stop="20250828203000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828200200 -0400" stop="20250828203000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250828203000 -0400" stop="20250828210000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828203000 -0400" stop="20250828210000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">To the Point</title>
   </programme>
-  <programme start="20250828210000 -0400" stop="20250828211500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828210000 -0400" stop="20250828211500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828211500 -0400" stop="20250828220200 -0400" channel="DOC-DW En Español">
+  <programme start="20250828211500 -0400" stop="20250828220200 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Surviving Globalization, p-2</title>
   </programme>
-  <programme start="20250828220200 -0400" stop="20250828223000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828220200 -0400" stop="20250828223000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">The Day</title>
   </programme>
-  <programme start="20250828223000 -0400" stop="20250828230000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828223000 -0400" stop="20250828230000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Focus on Europe spotlight on</title>
   </programme>
-  <programme start="20250828230000 -0400" stop="20250828231500 -0400" channel="DOC-DW En Español">
+  <programme start="20250828230000 -0400" stop="20250828231500 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">DW News</title>
   </programme>
-  <programme start="20250828231500 -0400" stop="20250828233000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828231500 -0400" stop="20250828233000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Mapped Out</title>
   </programme>
-  <programme start="20250828233000 -0400" stop="20250829000000 -0400" channel="DOC-DW En Español">
+  <programme start="20250828233000 -0400" stop="20250829000000 -0400" channel="DOC-DW En Español (Z)(1080)">
     <title lang="es">Made in Germany</title>
+  </programme>
+  <programme start="20250827050000 +0200" stop="20250827053000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Maestros de la pasta</title>
+    <desc lang="es">Julieta prueba unos ñoquis fritos y rellenos y en Calabria disfruta de otra receta tradicional. Además, preparamos unos dopio. Luego, junto a una especialista, conoce los secretos del queso. Además, prueba el mejor pesto genovés</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250827053000 +0200" stop="20250827060000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Cocina de mar Pacífico</title>
+    <sub-title lang="es">Quesadilla de papa - Chileatole con pescado</sub-title>
+    <desc lang="es">El chef Alex Ruiz prepara unas quesadillas de papa con ceviche de camarón. Luego, nos muestra otra variedad para cocinar maíz combinado con pescado. Más tarde, hace un chileatole con pescado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+  </programme>
+  <programme start="20250827060000 +0200" stop="20250827070000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Me voy a comer el mundo</title>
+    <sub-title lang="es">Polonia</sub-title>
+    <desc lang="es">Verónica llega a Varsovia acompañada por Artur, un abogado polaco que la introduce en el mundo de los pierogi, el plato emblemático.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s04e11-polonia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+  </programme>
+  <programme start="20250827070000 +0200" stop="20250827073000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los fogones tradicionales: España</title>
+    <sub-title lang="es">Arroz con costilla - Caballas en escaberche - Solomillo relleno</sub-title>
+    <desc lang="es">En la Ciudad Rodrigo, en un hogar de leña, Bene, Paquita y Milagros, pertenecientes a la Asociación Cultural de mujeres Amanecer, preparan tres de sus guisos populares: Arroz con costilla, Caballas en escabeche y Solomillo relleno.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-espana-s05e07-arroz-con-costilla-caballas-en-escaberche-solomillo-relleno_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.6.</episode-num>
+  </programme>
+  <programme start="20250827073000 +0200" stop="20250827080000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Ruta 40</title>
+    <sub-title lang="es">Dina Huapi - Bariloche</sub-title>
+    <desc lang="es">Tupac llega a Río Negro y su primera parada es en Dina Huapi, donde conoce a un productor de vermut con hierbas silvestres. Ya en Bariloche, conoce a un chef que lo invita a cocinar conejo, visita el famoso Cerro Campanario y un ahumadero.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+  </programme>
+  <programme start="20250827080000 +0200" stop="20250827083000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de los recuerdos</title>
+    <sub-title lang="es">Lasaña - Picaditas de Veracruz</sub-title>
+    <desc lang="es">Sergio Camacho enseña cómo hacer una clásica lasaña y luego nos comparte la receta de unas típicas picaditas estilo Veracruz.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827083000 +0200" stop="20250827090000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Productos de mi tierra México</title>
+    <sub-title lang="es">Cacao</sub-title>
+    <desc lang="es">Enrique Cervantes visita a productores de cacao en La Chonita, Tabasco y hablan de su producción. En una cocina chontal, en Comalcalco, Tabasco, Beatriz Fernández cocina pozol y Nelly Córdova Morillo cocina mole tabasqueño.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e07_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827090000 +0200" stop="20250827093000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Con vistas al mar</title>
+    <desc lang="es">Viajamos hasta las Asturias, para visitar: Mi Candelita y degusta un pastel de centollo. Luego, en Formentera, conocemos el restaurante: Sol Post, donde nos preparan unas navajas con hinojo marino y lubina a la parrilla.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827093000 +0200" stop="20250827100000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Productos de mi tierra México</title>
+    <sub-title lang="es">Aguacate</sub-title>
+    <desc lang="es">Enrique visita la huerta El Capulín, en el municipio de Tenancingo, San Miguel Tecomatlán, Estado de México. Allí, cultivan aguacates y el productor, Homero Serna Pérez, habla sobre todo lo referido a su producción y cocción.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e12_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+  </programme>
+  <programme start="20250827100000 +0200" stop="20250827103000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Cocina de mar Pacífico</title>
+    <sub-title lang="es">Tortitas de papa con camarón - Taco estilo Baja</sub-title>
+    <desc lang="es">El chef Alex Ruiz nos enseña los secretos para hacer unas deliciosas tortitas de papa con camarón. Por otro lado, nos enseña a preparar el taco al estilo Baja California, por ser un plato típico de la zona.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827103000 +0200" stop="20250827110000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Pueblos para comérselos</title>
+    <sub-title lang="es">Besalú</sub-title>
+    <desc lang="es">Hoy conoceremos la cocina de entorno volcánico de Besalú, donde degustaremos canelones, embutidos, el rabo de toro y el fesol de Santa Pau. También, descubrimos las preparaciones hechas con ratafía, un licor de elaboración local.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.8.</episode-num>
+  </programme>
+  <programme start="20250827110000 +0200" stop="20250827113000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Mapa de los sabores de México</title>
+    <sub-title lang="es">Chuli-buul - Arroz blanco con plátano - Chirmol de res</sub-title>
+    <desc lang="es">Viajamos al mundo maya, Eduardo nos enseñara de una manera sencilla para preparar el clásico Chuli-buul acompañado de un arroz blanco con tostones de plátano. Además, un plato típico del estado de Tabasco: el chirmol de res.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827113000 +0200" stop="20250827120000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Como pan caliente</title>
+    <sub-title lang="es">Ciabatta de fermentación lenta - Conchas</sub-title>
+    <desc lang="es">Irving Quiroz trae dos recetas imperdibles que vas a poder incorporar a muchísimos menúes y opciones: la Ciabatta, un pan tan nuevo como rico, y también un clásico mexicano esponjoso y crujiente a la vez, las conchas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_como-pan-caliente-s01e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827120000 +0200" stop="20250827123000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los favoritos de Sonia Ortiz en Monterrey</title>
+    <sub-title lang="es">Bread</sub-title>
+    <desc lang="es">Recorremos las calles de Monterrey. Visitamos la icónica panadería de especialidad "Bread". Luego, conocemos "Tacos del Valle", "Montacometa" y "Pangea", un restaurante de cocina fusión.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827123000 +0200" stop="20250827130000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Maestros del taco</title>
+    <sub-title lang="es">Palapa</sub-title>
+    <desc lang="es">En su paso por Campeche Poncho Cadena visita La palapa del Tio Fito donde prueba unos tacos de pulpo ranchera, Luego viajamos con el a Cuernavaca, en el estado de Morelos donde prueba un delicioso taco al pastor en El Chiringuito.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_maestros-del-taco-s01e19-palapa_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827130000 +0200" stop="20250827133000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Delicias de la antigua Europa</title>
+    <sub-title lang="es">Burdeos</sub-title>
+    <desc lang="es">Participamos de un día de vendimia en la famosa región de Médoc, donde se elaboran algunos de los vinos más prestigiosos del mundo. Además, conocemos a uno de los cultivadores de ostras de Arcachon y probaremos los canelés.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827133000 +0200" stop="20250827140000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los infalibles de Gross</title>
+    <sub-title lang="es">Alfajor mar del plata - Alfajor cordobés</sub-title>
+    <desc lang="es">Los alfajores tienen que estar presentes en tus recetas infalibles, por eso Osvaldo te muestra cómo hacer el clásico alfajor Mar del Plata y el delicioso alfajor cordobés.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827140000 +0200" stop="20250827143000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+    <sub-title lang="es">Guisado de coles con carne - Enchiladas - Chocoflan</sub-title>
+    <desc lang="es">Seguimos aprendiendo ideas para lograr un menú completo, de la mano de Sonia Ortiz. La chef nos invita a preparar sus recetas de guisado de coles con carne, enchiladas y chocoflan. Tres opciones para disfrutar con quienes más quieras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s02e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20250827143000 +0200" stop="20250827150000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Escapadas gastronómicas. Francisco en el Caribe mexicano</title>
+    <sub-title lang="es">Pulpo frito</sub-title>
+    <desc lang="es">En este último episodio de Escapadas gastronómicas, Francisco del Piero nos trae la receta de un delicioso pulpo frito.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_escapadas-gastronomicas-francisco-en-el-caribe-mexicano-s01e09-pulpo-frito_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20250827150000 +0200" stop="20250827153000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de los recuerdos</title>
+    <sub-title lang="es">Lasaña - Picaditas de Veracruz</sub-title>
+    <desc lang="es">Sergio Camacho enseña cómo hacer una clásica lasaña y luego nos comparte la receta de unas típicas picaditas estilo Veracruz.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827153000 +0200" stop="20250827160000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Productos de mi tierra México</title>
+    <sub-title lang="es">Cacao</sub-title>
+    <desc lang="es">Enrique Cervantes visita a productores de cacao en La Chonita, Tabasco y hablan de su producción. En una cocina chontal, en Comalcalco, Tabasco, Beatriz Fernández cocina pozol y Nelly Córdova Morillo cocina mole tabasqueño.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e07_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827160000 +0200" stop="20250827163000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Mercados del mundo</title>
+    <sub-title lang="es">Insectos y animales vivos</sub-title>
+    <desc lang="es">Hoy damos la vuelta al planeta en busca de insectos y animales vivos ¿Sabías que son una gran fuente de proteína?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mercados-del-mundo-s01e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827163000 +0200" stop="20250827170000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Guardianes de tradición. México</title>
+    <sub-title lang="es">Arroyo</sub-title>
+    <desc lang="es">El restaurante Arroyo nace en 1940, al sur de la Ciudad de México en Tlalpan. Al día de hoy ese rancho se convirtió en uno de los restaurantes más tradicionales de la ciudad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e04-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827170000 +0200" stop="20250827173000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Menú para todos los días</title>
+    <sub-title lang="es">Milanesa de arrachera y risotto poblano</sub-title>
+    <desc lang="es">Antonio de Livier te prepara dos propuestas, platos tradicionales de la cocina mexicana y por que no, de la cocina internacional: Milanesa de Arrachera y puré y risotto poblano.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_menu-para-todos-los-dias-s01e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827173000 +0200" stop="20250827180000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Devuélveme los tápers</title>
+    <sub-title lang="es">Maricarmen - Carolina - Emilia</sub-title>
+    <desc lang="es">Felicitas conoce a Maricarmen y ella le prepara una tortilla a su vecina Carolina. Mientras tanto, ella le cocina empanadas santiagueñas. Luego, visita a Emilia, quien prepara arroz y niños envueltos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250827180000 +0200" stop="20250827183000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">El sabor de las fiestas mexicanas</title>
+    <sub-title lang="es">Xantolo</sub-title>
+    <desc lang="es">En la Huasteca Potosina, en el pueblo de Teenek, se festeja el Xantolo, festividad tradicional sobre la que nos cuenta su historia y significado Benito Taibo. Zahie Téllez cocina platillos para esta fiesta única en la tradición del país.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250827183000 +0200" stop="20250827190000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los fogones tradicionales: México</title>
+    <desc lang="es">Visitamos los más remotos parajes en busca de los tesoros culinarios de cada región. San Juan Atzingo, Malinalco y Toluca son algunos de los lugares que visitamos en busca de las recetas emblemáticas de estas cocinas familiares.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-mexico-s02e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20250827190000 +0200" stop="20250827193000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Maestros del pan</title>
+    <sub-title lang="es">Andalucía - Parte 2</sub-title>
+    <desc lang="es">En Andalucía conoceremos el pan más famoso de la comunidad: el mollete. Viajaremos hasta Benaoján, un pequeño pueblo malagueño donde Pedro Heras, nieto y bisnieto de panaderos, elabora un mollete antológico, famoso por su esponjosa miga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827193000 +0200" stop="20250827200000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Mapa de los sabores de México</title>
+    <sub-title lang="es">Chuli-buul - Arroz blanco con plátano - Chirmol de res</sub-title>
+    <desc lang="es">Viajamos al mundo maya, Eduardo nos enseñara de una manera sencilla para preparar el clásico Chuli-buul acompañado de un arroz blanco con tostones de plátano. Además, un plato típico del estado de Tabasco: el chirmol de res.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250827200000 +0200" stop="20250827203000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Carne y papa</title>
+    <sub-title lang="es">Ñoquis a la bolognesa - Bife de cuadril con papines</sub-title>
+    <desc lang="es">Los hermanos Petersen nos comparten dos recetas simples con carne y papa. Christian hace ñoquis de papa a la bolognesa, mientras que Roberto nos deleita con un exquisito bife de cuadril con papines hasselback.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250827203000 +0200" stop="20250827210000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+    <sub-title lang="es">Guisado de coles con carne - Enchiladas - Chocoflan</sub-title>
+    <desc lang="es">Seguimos aprendiendo ideas para lograr un menú completo, de la mano de Sonia Ortiz. La chef nos invita a preparar sus recetas de guisado de coles con carne, enchiladas y chocoflan. Tres opciones para disfrutar con quienes más quieras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s02e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20250827210000 +0200" stop="20250827220000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Jamie Oliver: Cocina de temporada</title>
+    <sub-title lang="es">Otoño - Parte 3</sub-title>
+    <desc lang="es">Jamie cocina unas calabazas en una salsa mantecosa con queso, para servir con unos tallarines caseros. Luego, prepara un curry con hongos y arroz crujiente, infusionado con jengibre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20250827220000 +0200" stop="20250827223000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Platos de cuchara</title>
+    <sub-title lang="es">Platos de Venezuela</sub-title>
+    <desc lang="es">Zahie prepara dos platos de cuchara: Sopa de caraotas con pisca andina.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_platos-de-cuchara-s02e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20250827223000 +0200" stop="20250827230000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Carne y papa</title>
+    <sub-title lang="es">Ñoquis a la bolognesa - Bife de cuadril con papines</sub-title>
+    <desc lang="es">Los hermanos Petersen nos comparten dos recetas simples con carne y papa. Christian hace ñoquis de papa a la bolognesa, mientras que Roberto nos deleita con un exquisito bife de cuadril con papines hasselback.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250827230000 +0200" stop="20250827233000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los favoritos de Sonia Ortiz en Monterrey</title>
+    <sub-title lang="es">Bread</sub-title>
+    <desc lang="es">Recorremos las calles de Monterrey. Visitamos la icónica panadería de especialidad "Bread". Luego, conocemos "Tacos del Valle", "Montacometa" y "Pangea", un restaurante de cocina fusión.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827233000 +0200" stop="20250828000000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Con pocos ingredientes</title>
+    <sub-title lang="es">Arrollado de carne - Mousse de dulce de leche - Corn Dog</sub-title>
+    <desc lang="es">Estefi Colombo presenta nuevas recetas con pocos ingredientes: un arrollado de carne para la cena. Luego, un mousse de dulce de leche para los golosos. Además, un corn dog ideal para un día de festejo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250828000000 +0200" stop="20250828003000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+    <sub-title lang="es">Guisado de coles con carne - Enchiladas - Chocoflan</sub-title>
+    <desc lang="es">Seguimos aprendiendo ideas para lograr un menú completo, de la mano de Sonia Ortiz. La chef nos invita a preparar sus recetas de guisado de coles con carne, enchiladas y chocoflan. Tres opciones para disfrutar con quienes más quieras.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s02e19_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20250828003000 +0200" stop="20250828010000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Guardianes de tradición. México</title>
+    <sub-title lang="es">Arroyo</sub-title>
+    <desc lang="es">El restaurante Arroyo nace en 1940, al sur de la Ciudad de México en Tlalpan. Al día de hoy ese rancho se convirtió en uno de los restaurantes más tradicionales de la ciudad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e04-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828010000 +0200" stop="20250828020000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Me voy a comer el mundo</title>
+    <sub-title lang="es">Tokio</sub-title>
+    <desc lang="es">En Tokio, Verónica se atreve a probar el peligroso pez fugu, que puede ocasionar la muerte. Además, toma un aperitivo nipón, aprende a hacer tempura y prueba los típicos wagashi, unos dulces nipones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s01e01-tokio_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250828020000 +0200" stop="20250828023000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">El sabor de las fiestas mexicanas</title>
+    <sub-title lang="es">Xantolo</sub-title>
+    <desc lang="es">En la Huasteca Potosina, en el pueblo de Teenek, se festeja el Xantolo, festividad tradicional sobre la que nos cuenta su historia y significado Benito Taibo. Zahie Téllez cocina platillos para esta fiesta única en la tradición del país.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250828023000 +0200" stop="20250828030000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los fogones tradicionales: México</title>
+    <desc lang="es">Visitamos los más remotos parajes en busca de los tesoros culinarios de cada región. San Juan Atzingo, Malinalco y Toluca son algunos de los lugares que visitamos en busca de las recetas emblemáticas de estas cocinas familiares.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-mexico-s02e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20250828030000 +0200" stop="20250828033000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los favoritos de Sonia Ortiz en Monterrey</title>
+    <sub-title lang="es">Bread</sub-title>
+    <desc lang="es">Recorremos las calles de Monterrey. Visitamos la icónica panadería de especialidad "Bread". Luego, conocemos "Tacos del Valle", "Montacometa" y "Pangea", un restaurante de cocina fusión.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828033000 +0200" stop="20250828043000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Jamie Oliver: Cocina de temporada</title>
+    <sub-title lang="es">Otoño - Parte 3</sub-title>
+    <desc lang="es">Jamie cocina unas calabazas en una salsa mantecosa con queso, para servir con unos tallarines caseros. Luego, prepara un curry con hongos y arroz crujiente, infusionado con jengibre.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20250828043000 +0200" stop="20250828050000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Las mejores recetas de Zahie</title>
+    <sub-title lang="es">Sopa pistou - Tapenade - Pissalardiere</sub-title>
+    <desc lang="es">En sus múltiples viajes a Francia, Zahie aprendió de primera mano estas tres delicias de la cocina mediterránea francesa. Hoy nos prepara: sopa pistou, tapenade y pissalardiere.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250828050000 +0200" stop="20250828053000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Maestros del pan</title>
+    <sub-title lang="es">Andalucía - Parte 2</sub-title>
+    <desc lang="es">En Andalucía conoceremos el pan más famoso de la comunidad: el mollete. Viajaremos hasta Benaoján, un pequeño pueblo malagueño donde Pedro Heras, nieto y bisnieto de panaderos, elabora un mollete antológico, famoso por su esponjosa miga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250828053000 +0200" stop="20250828060000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Cocina de mar Pacífico</title>
+    <sub-title lang="es">Tortitas de papa con camarón - Taco estilo Baja</sub-title>
+    <desc lang="es">El chef Alex Ruiz nos enseña los secretos para hacer unas deliciosas tortitas de papa con camarón. Por otro lado, nos enseña a preparar el taco al estilo Baja California, por ser un plato típico de la zona.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+  </programme>
+  <programme start="20250828060000 +0200" stop="20250828070000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Me voy a comer el mundo</title>
+    <sub-title lang="es">Tokio</sub-title>
+    <desc lang="es">En Tokio, Verónica se atreve a probar el peligroso pez fugu, que puede ocasionar la muerte. Además, toma un aperitivo nipón, aprende a hacer tempura y prueba los típicos wagashi, unos dulces nipones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s01e01-tokio_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250828070000 +0200" stop="20250828073000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los fogones tradicionales: México</title>
+    <desc lang="es">Visitamos los más remotos parajes en busca de los tesoros culinarios de cada región. San Juan Atzingo, Malinalco y Toluca son algunos de los lugares que visitamos en busca de las recetas emblemáticas de estas cocinas familiares.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-mexico-s02e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+  </programme>
+  <programme start="20250828073000 +0200" stop="20250828080000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Ruta 40</title>
+    <sub-title lang="es">Bariloche - El Bolsón</sub-title>
+    <desc lang="es">Tupac viaja a Bariloche y conoce a una pareja que crea sus propios vinagres, allí aprende a hacer la famosa Selva Negra. Ya en el límite sur de Río Negro, llega hasta El Bolsón, donde la cerveza es un ícono.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+  </programme>
+  <programme start="20250828080000 +0200" stop="20250828083000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de los recuerdos</title>
+    <sub-title lang="es">Chamorro en pipian - Dulce de calabaza</sub-title>
+    <desc lang="es">No hay colonia en el centro de México donde en cada esquina no se instale un puesto de tacos de carnitas del que se despiden los más aromáticos recuerdos. Por eso, Sergio enseña a cocinarlos, así como un postre de dulce de calabaza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828083000 +0200" stop="20250828090000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Productos de mi tierra México</title>
+    <sub-title lang="es">Chaya</sub-title>
+    <desc lang="es">Enrique Cervantes visita Cupilco, Tabasco. Allí, Ely Osorio cocina carne salada con chaya y plátano verde. En Tamulté de las sabanas y también en Tabasco, Lupita Vidal cocina filete de róbalo envuelto en chaya con verde de chaya.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250828090000 +0200" stop="20250828093000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Con vistas al mar</title>
+    <desc lang="es">Viajamos hasta Cantabria y probamos las imprescindibles ostras de: La Ostrería. Luego, en Gipuzkoa, descubrimos el restaurante: Kaia Kaipe, donde preparan deliciosos pescados a la brasa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828093000 +0200" stop="20250828100000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Guardianes de tradición. México</title>
+    <sub-title lang="es">Arroyo</sub-title>
+    <desc lang="es">El restaurante Arroyo nace en 1940, al sur de la Ciudad de México en Tlalpan. Al día de hoy ese rancho se convirtió en uno de los restaurantes más tradicionales de la ciudad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_guardianes-de-tradicion-mexico-s01e04-1_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828100000 +0200" stop="20250828103000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Cocina de mar Pacífico</title>
+    <sub-title lang="es">Aguachile verde con camarones - Mariscada - Cachoreadas</sub-title>
+    <desc lang="es">Alex Ruiz nos guía en la preparación de un aguachile verde con camarones. Luego, nos enseña a hacer una mariscada, preparado con mariscos sazonados y cocinados a la leña.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828103000 +0200" stop="20250828110000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Pueblos para comérselos</title>
+    <sub-title lang="es">Morella</sub-title>
+    <desc lang="es">Visitamos Morella y probamos sus embutidos junto a su producto más preciado: el queso. Además, conocemos la elaboración del flaon de Morella y degustamos sus platos típicos, en los mejores restaurantes del pueblo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20250828110000 +0200" stop="20250828113000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Mapa de los sabores de México</title>
+    <sub-title lang="es">Huauzontles con caldillo - Tacos campechanos</sub-title>
+    <desc lang="es">Eduardo nos compartirá la receta de la abuelita, para hacer los mejores Huauzontles con caldillo. Además, prepara unos deliciosos tacos de ensalada de habas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828113000 +0200" stop="20250828120000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Como pan caliente</title>
+    <sub-title lang="es">Fugasse - Pan de muerto</sub-title>
+    <desc lang="es">Hoy de la mano de Irving Quiroz: todos los secretos de la fugasse, la mejor amiga de las pastas. Y desde México para todo el mundo, te contamos todo sobre el pan más tradicional de esta cultura, el famoso pan de muerto.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_como-pan-caliente-s01e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828120000 +0200" stop="20250828123000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los favoritos de Alex Ruiz en Oaxaca</title>
+    <desc lang="es">Seguimos descubriendo los favoritos de Alex. El Mercado de Tlacolula ofrece Cocina de Humo y el Chef Alex Ruiz nos muestra cómo se prepara un taco "placero".</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828123000 +0200" stop="20250828130000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Maestros del taco</title>
+    <sub-title lang="es">Tradición</sub-title>
+    <desc lang="es">Poncho continúa de viaje por su país en busca de los mejores maestros del taco. En este episodio descubre el taco de cochinita de la taquería La Tradicion de la ciudad de Mérida.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_maestros-del-taco-s01e20-tradicion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828130000 +0200" stop="20250828133000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Delicias de la antigua Europa</title>
+    <sub-title lang="es">Reikiavik</sub-title>
+    <desc lang="es">Hoy, en Delicias de la antigua Europa, conocemos Reikiavik. Allí, probaremos la carne de ballena a las brasas como un filete de res. La probaremos en un viejo restaurante hecho de madera y metal para combatir los hielos del polo norte.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828133000 +0200" stop="20250828140000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los infalibles de Gross</title>
+    <sub-title lang="es">Isla flotante - Cake de banana</sub-title>
+    <desc lang="es">Osvaldo Gross enseña la receta de su famosa isla flotante con preparaciones con merengue y sabayón, y luego, un cake de banana para satisfacer todas tus tentaciones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828140000 +0200" stop="20250828143000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+    <sub-title lang="es">Pollo en crema de champiñones - Rollitos de acelga - Tortillas de avena con calabacitas</sub-title>
+    <desc lang="es">Muchas ideas para el menú de todos los días, de la mano de Sonia Ortiz. Hoy, la chef nos deleita con un pollo en crema de champiñón, unos rollitos de acelga y una imperdible tortillas de avena.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s02e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+  </programme>
+  <programme start="20250828143000 +0200" stop="20250828150000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Escapadas gastronómicas. Francisco en el Caribe mexicano</title>
+    <sub-title lang="es">Tacos de jaiba en tempura</sub-title>
+    <desc lang="es">Cancún y la Riviera Maya son los dos paraísos del caribe mexicano en los que Francisco del Piero nos invita a disfrutas de sus principales atractivos turísticos y de sabores increíbles. Hoy: tacos de jaiba en tempura y chocolate de metate.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_escapadas-gastronomicas-francisco-en-el-caribe-mexicano-s01e01-tacos-de-jaiba-en-tempura_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250828150000 +0200" stop="20250828153000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de los recuerdos</title>
+    <sub-title lang="es">Chamorro en pipian - Dulce de calabaza</sub-title>
+    <desc lang="es">No hay colonia en el centro de México donde en cada esquina no se instale un puesto de tacos de carnitas del que se despiden los más aromáticos recuerdos. Por eso, Sergio enseña a cocinarlos, así como un postre de dulce de calabaza.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828153000 +0200" stop="20250828160000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Productos de mi tierra México</title>
+    <sub-title lang="es">Chaya</sub-title>
+    <desc lang="es">Enrique Cervantes visita Cupilco, Tabasco. Allí, Ely Osorio cocina carne salada con chaya y plátano verde. En Tamulté de las sabanas y también en Tabasco, Lupita Vidal cocina filete de róbalo envuelto en chaya con verde de chaya.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_productos-de-mi-tierra-mexico-s01e08_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250828160000 +0200" stop="20250828163000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Mercados del mundo</title>
+    <sub-title lang="es">Mariscos</sub-title>
+    <desc lang="es">En algunas culturas pueden ser lo más caro de la mesa, en otras se pueden comprar vivos. Damos la vuelta al mundo en busca de los más curiosos mariscos. Empezaremos en Hong Kong con el rey de los mares, el King Crab.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_mercados-del-mundo-s01e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828163000 +0200" stop="20250828170000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Asado de obra</title>
+    <sub-title lang="es">Buñuelos fritos - Asado</sub-title>
+    <desc lang="es">Julián, maestro de obra y especialista en asados, agasaja a todos con buñuelos fritos para el desayuno. Luego, prepara el clásico asado de obra para el almuerzo de los viernes, convirtiendose en un banquete lleno de camaradería.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+  </programme>
+  <programme start="20250828170000 +0200" stop="20250828173000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Menú para todos los días</title>
+    <sub-title lang="es">Estofado de pollo con ñoquis y hongos</sub-title>
+    <desc lang="es">el chef Antonio De Livier prepara un estofado de pollo con ñoquis y hongos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_menu-para-todos-los-dias-s01e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828173000 +0200" stop="20250828180000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Devuélveme los tápers</title>
+    <sub-title lang="es">Esperanza - Carlos</sub-title>
+    <desc lang="es">Visitaremos a Esperanza. Ella suele cocinar para su hijo tres veces por semana. Por su parte, Carlos, que cuida con amor a sus padres, María y Pedro, a quienes sorprende con unos platos que evocan el sabor de su pueblo natal.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828180000 +0200" stop="20250828183000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Pasión, arte y cocina</title>
+    <sub-title lang="es">Frida y Diego</sub-title>
+    <desc lang="es">Desde el corazón de la colonia de Coyoacán nace y crece esta historia que une a los dos más grandes artistas plásticos de la historia de México.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_pasion-arte-y-cocina-s01e02_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250828183000 +0200" stop="20250828190000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los fogones tradicionales: España</title>
+    <sub-title lang="es">Lentejas a lo pobre - Tortilla - Gachas de almortas</sub-title>
+    <desc lang="es">En Fontiveros, en la provincia de Ávila, Ifi prepara Lentejas a lo pobre. En Robres, en la provincia de Huesca, Ángela y Vicenta cocinan Tortilla de patata con salsa verde.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-espana-s26e03-lentejas-a-lo-pobre-tortilla-gachas-de-almortas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">25.2.</episode-num>
+  </programme>
+  <programme start="20250828190000 +0200" stop="20250828193000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Maestros del sushi</title>
+    <desc lang="es">Iwao Komiyama prepara el clásico futomaki sushi junto a su familia. Luego, conoce a Akira, un chef japonés que cocina en Buenos Aires. Además, descubre el usuzukuri, el sashimi más delicado.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250828193000 +0200" stop="20250828200000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Mapa de los sabores de México</title>
+    <sub-title lang="es">Huauzontles con caldillo - Tacos campechanos</sub-title>
+    <desc lang="es">Eduardo nos compartirá la receta de la abuelita, para hacer los mejores Huauzontles con caldillo. Además, prepara unos deliciosos tacos de ensalada de habas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250828200000 +0200" stop="20250828203000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los Petersen en Chile</title>
+    <sub-title lang="es">Puerto Natales</sub-title>
+    <desc lang="es">Puerto Natales aún conserva muchas sorpresas gastronómicas, para los hermanos Petersen en Chile. Ellos terminan sus días disfrutando de dos clásicos: la centolla y el cordero magallánico.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250828203000 +0200" stop="20250828210000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+    <sub-title lang="es">Pollo en crema de champiñones - Rollitos de acelga - Tortillas de avena con calabacitas</sub-title>
+    <desc lang="es">Muchas ideas para el menú de todos los días, de la mano de Sonia Ortiz. Hoy, la chef nos deleita con un pollo en crema de champiñón, unos rollitos de acelga y una imperdible tortillas de avena.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s02e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+  </programme>
+  <programme start="20250828210000 +0200" stop="20250828220000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Jamie Oliver: Cocina de temporada</title>
+    <sub-title lang="es">Invierno - Navidad - Parte 1</sub-title>
+    <desc lang="es">Jamie comienza la víspera de Navidad, preparando unos rollos de masa filo con queso y ensalada. Luego, cocina una lasaña de coliflor y unas verduras al estilo hasselback, junto a unas brochetas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250828220000 +0200" stop="20250828223000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Platos de cuchara</title>
+    <sub-title lang="es">Platos de cuchara a base de frutas</sub-title>
+    <desc lang="es">Zahie Tellez prepara sopa fria de manzana y peras en vino espumoso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_platos-de-cuchara-s02e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+  </programme>
+  <programme start="20250828223000 +0200" stop="20250828230000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los Petersen en Chile</title>
+    <sub-title lang="es">Puerto Natales</sub-title>
+    <desc lang="es">Puerto Natales aún conserva muchas sorpresas gastronómicas, para los hermanos Petersen en Chile. Ellos terminan sus días disfrutando de dos clásicos: la centolla y el cordero magallánico.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250828230000 +0200" stop="20250828233000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los favoritos de Alex Ruiz en Oaxaca</title>
+    <desc lang="es">Seguimos descubriendo los favoritos de Alex. El Mercado de Tlacolula ofrece Cocina de Humo y el Chef Alex Ruiz nos muestra cómo se prepara un taco "placero".</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828233000 +0200" stop="20250829000000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Con pocos ingredientes</title>
+    <sub-title lang="es">Revuelto gramajo - Pinchos agridulces - Buñuelos</sub-title>
+    <desc lang="es">Estefi Colombo pone a prueba la simpleza de cocinar con pocos ingredientes y prepara un revuelto gramajo, con pinchos agridulces y buñuelos de banana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+  </programme>
+  <programme start="20250829000000 +0200" stop="20250829003000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de Sonia Ortiz</title>
+    <sub-title lang="es">Pollo en crema de champiñones - Rollitos de acelga - Tortillas de avena con calabacitas</sub-title>
+    <desc lang="es">Muchas ideas para el menú de todos los días, de la mano de Sonia Ortiz. Hoy, la chef nos deleita con un pollo en crema de champiñón, unos rollitos de acelga y una imperdible tortillas de avena.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-cocina-de-sonia-ortiz-s02e20_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+  </programme>
+  <programme start="20250829003000 +0200" stop="20250829010000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">La cocina de los clubes</title>
+    <sub-title lang="es">Club Trebolense - Club Unión</sub-title>
+    <desc lang="es">Los bodegones de los clubes y restaurantes de barrio, siempre fueron un hito argentino. Por eso, hoy te mostramos la cocina de dos clubes, que destacan por su gastronomía: el Club Trebolense y el Club Unión.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250829010000 +0200" stop="20250829020000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Me voy a comer el mundo</title>
+    <sub-title lang="es">Cabo verde</sub-title>
+    <desc lang="es">Verónica viaja a Cabo Verde, donde descubre su cultura y sus platos más genuinos. En Praia, ella aprende a cocinar cachupa con Tatianne. Luego viaja a Assomada, para probar las delicias callejeras como torresmo y pasteles de atún.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_me-voy-a-comer-el-mundo-s04e17-cabo-verde_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+  </programme>
+  <programme start="20250829020000 +0200" stop="20250829023000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Pasión, arte y cocina</title>
+    <sub-title lang="es">Frida y Diego</sub-title>
+    <desc lang="es">Desde el corazón de la colonia de Coyoacán nace y crece esta historia que une a los dos más grandes artistas plásticos de la historia de México.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_pasion-arte-y-cocina-s01e02_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250829023000 +0200" stop="20250829030000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los fogones tradicionales: España</title>
+    <sub-title lang="es">Lentejas a lo pobre - Tortilla - Gachas de almortas</sub-title>
+    <desc lang="es">En Fontiveros, en la provincia de Ávila, Ifi prepara Lentejas a lo pobre. En Robres, en la provincia de Huesca, Ángela y Vicenta cocinan Tortilla de patata con salsa verde.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_los-fogones-tradicionales-espana-s26e03-lentejas-a-lo-pobre-tortilla-gachas-de-almortas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">25.2.</episode-num>
+  </programme>
+  <programme start="20250829030000 +0200" stop="20250829033000 +0200" channel="DOC-Gourmet (Z)(1080)">
+    <title lang="es">Los favoritos de Alex Ruiz en Oaxaca</title>
+    <desc lang="es">Seguimos descubriendo los favoritos de Alex. El Mercado de Tlacolula ofrece Cocina de Humo y el Chef Alex Ruiz nos muestra cómo se prepara un taco "placero".</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827045800 +0200" stop="20250827055000 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Persiguiendo a Hitler</title>
+    <sub-title lang="es">La guarida de Hitler</sub-title>
+    <desc lang="es">En Persiguiendo a Hitler, Lenny DePaul y Gerrard Williams encuentran en las Islas Canarias túneles secretos donde los alemanes dejaron desde armas hasta un centro médico y pistas de un viaje a America del Sur.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_persiguiendo-a-hitler-s01e06-la-guarida-de-hitler_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250827055000 +0200" stop="20250827064200 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Persiguiendo a Hitler</title>
+    <sub-title lang="es">Amigos en las buenas</sub-title>
+    <desc lang="es">A raíz de los archivos del FBI desclasificados, Bob Baer y el Dr. John Cencich descubren posibles movimientos de Hitler en Argentina, donde está un confidente cercano del Führer que opera en un hotel misterioso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_persiguiendo-a-hitler-s01e07-amigos-en-las-buenas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827064200 +0200" stop="20250827073800 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Imperios de Asia</title>
+    <sub-title lang="es">Los mercaderes de Ryukyu</sub-title>
+    <desc lang="es">Peter viaja a las islas de Ryukyu, en el sur de Japón, para ver cómo su antiguo Reino influenció su vibrante identidad. Para eso visita un estudio de tatuajes que da nueva vida al arte tradicional. También cabalga caballos en la playa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_imperios-de-asia-s02e03-los-mercaderes-de-ryukyu_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250827073800 +0200" stop="20250827083700 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Nazis en el Ártico: guerra desconocida</title>
+    <sub-title lang="es">Operaciones árticas especiales</sub-title>
+    <desc lang="es">Con el ingreso de los EE.UU., la guerra en el Ártico aumenta. Las tropas aliadas establecen sus bases de espionaje en Noruega. Mientras, Hitler refuerza el norte pero la posición alemana se desmorona entre intensas batallas en Finlandia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827083700 +0200" stop="20250827100700 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Profecías reveladas</title>
+    <desc lang="es">Desde las Torres Gemelas hasta los devastadores tsunamis: ¿cómo pudo Nostradamus predecir tantos desastres modernos con tanta precisión? A través de una mirada distinta, el secreto de Nostradamus finalmente sale a la luz.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_profecias-reveladas_l_l.jpg"/>
+  </programme>
+  <programme start="20250827100700 +0200" stop="20250827105300 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Gigantes de la comida</title>
+    <sub-title lang="es">Perros calientes</sub-title>
+    <desc lang="es">Cuando el mercado de la comida para mascotas no existía, un grupo de visionarios crea los primeros premios, alimentos secos y muchos más productos, principalmente para perros y gatos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gigantes-de-la-comida-s04e15-perros-calientes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+  </programme>
+  <programme start="20250827105300 +0200" stop="20250827113900 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Maravillas siniestras</title>
+    <sub-title lang="es">Dolor y castigo</sub-title>
+    <desc lang="es">Las retorcidas historias del origen de algunos de los dispositivos de tortura más diabólicamente creativos y brutales de la historia de la humanidad, desde la Doncella de Hierro hasta la pera de la angustia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827113900 +0200" stop="20250827123100 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Exploración Maya</title>
+    <sub-title lang="es">Comercio y navegación</sub-title>
+    <desc lang="es">Para explorar la hipótesis de una caída de las rutas comerciales como causa del colapso de los Mayas del Clásico, Drakic viaja a los senderos prehispánicos de las montañas del altiplano guatemalteco, a Xcaret y a Tixacal Guardia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_exploracion-maya-s01e04-comercio-y-navegacion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827123100 +0200" stop="20250827130000 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">La Ilíada y la Odisea</title>
+    <sub-title lang="es">Tiempo de sacrificio</sub-title>
+    <desc lang="es">Agamenón llama a los ejércitos, todos los reyes griegos responden a su llamado. Con excepción de Odiseo finge estar loco para no participar en una guerra en la que no se siente parte y Aquiles, el guerrero más grande de todos los tiempos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250827130000 +0200" stop="20250827134800 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Persiguiendo a Hitler</title>
+    <sub-title lang="es">Amigos en las buenas</sub-title>
+    <desc lang="es">A raíz de los archivos del FBI desclasificados, Bob Baer y el Dr. John Cencich descubren posibles movimientos de Hitler en Argentina, donde está un confidente cercano del Führer que opera en un hotel misterioso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_persiguiendo-a-hitler-s01e07-amigos-en-las-buenas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827134800 +0200" stop="20250827143900 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Imperios de Asia</title>
+    <sub-title lang="es">Los mercaderes de Ryukyu</sub-title>
+    <desc lang="es">Peter viaja a las islas de Ryukyu, en el sur de Japón, para ver cómo su antiguo Reino influenció su vibrante identidad. Para eso visita un estudio de tatuajes que da nueva vida al arte tradicional. También cabalga caballos en la playa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_imperios-de-asia-s02e03-los-mercaderes-de-ryukyu_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250827143900 +0200" stop="20250827152500 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Gigantes de la comida</title>
+    <sub-title lang="es">Perros calientes</sub-title>
+    <desc lang="es">Cuando el mercado de la comida para mascotas no existía, un grupo de visionarios crea los primeros premios, alimentos secos y muchos más productos, principalmente para perros y gatos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gigantes-de-la-comida-s04e15-perros-calientes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+  </programme>
+  <programme start="20250827152500 +0200" stop="20250827161100 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Maravillas siniestras</title>
+    <sub-title lang="es">Dolor y castigo</sub-title>
+    <desc lang="es">Las retorcidas historias del origen de algunos de los dispositivos de tortura más diabólicamente creativos y brutales de la historia de la humanidad, desde la Doncella de Hierro hasta la pera de la angustia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827161100 +0200" stop="20250827174000 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Profecías reveladas</title>
+    <desc lang="es">Desde las Torres Gemelas hasta los devastadores tsunamis: ¿cómo pudo Nostradamus predecir tantos desastres modernos con tanta precisión? A través de una mirada distinta, el secreto de Nostradamus finalmente sale a la luz.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_profecias-reveladas_l_l.jpg"/>
+  </programme>
+  <programme start="20250827174000 +0200" stop="20250827183700 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Imperios de Asia</title>
+    <sub-title lang="es">Los mercaderes de Ryukyu</sub-title>
+    <desc lang="es">Peter viaja a las islas de Ryukyu, en el sur de Japón, para ver cómo su antiguo Reino influenció su vibrante identidad. Para eso visita un estudio de tatuajes que da nueva vida al arte tradicional. También cabalga caballos en la playa.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_imperios-de-asia-s02e03-los-mercaderes-de-ryukyu_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250827183700 +0200" stop="20250827194000 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Nazis en el Ártico: guerra desconocida</title>
+    <sub-title lang="es">Operaciones árticas especiales</sub-title>
+    <desc lang="es">Con el ingreso de los EE.UU., la guerra en el Ártico aumenta. Las tropas aliadas establecen sus bases de espionaje en Noruega. Mientras, Hitler refuerza el norte pero la posición alemana se desmorona entre intensas batallas en Finlandia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827194000 +0200" stop="20250827203500 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Persiguiendo a Hitler</title>
+    <sub-title lang="es">La guarida de Hitler</sub-title>
+    <desc lang="es">En Persiguiendo a Hitler, Lenny DePaul y Gerrard Williams encuentran en las Islas Canarias túneles secretos donde los alemanes dejaron desde armas hasta un centro médico y pistas de un viaje a America del Sur.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_persiguiendo-a-hitler-s01e06-la-guarida-de-hitler_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250827203500 +0200" stop="20250827213000 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Persiguiendo a Hitler</title>
+    <sub-title lang="es">Amigos en las buenas</sub-title>
+    <desc lang="es">A raíz de los archivos del FBI desclasificados, Bob Baer y el Dr. John Cencich descubren posibles movimientos de Hitler en Argentina, donde está un confidente cercano del Führer que opera en un hotel misterioso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_persiguiendo-a-hitler-s01e07-amigos-en-las-buenas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827213000 +0200" stop="20250827222800 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Exploración Maya</title>
+    <sub-title lang="es">Comercio y navegación</sub-title>
+    <desc lang="es">Para explorar la hipótesis de una caída de las rutas comerciales como causa del colapso de los Mayas del Clásico, Drakic viaja a los senderos prehispánicos de las montañas del altiplano guatemalteco, a Xcaret y a Tixacal Guardia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_exploracion-maya-s01e04-comercio-y-navegacion_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827222800 +0200" stop="20250827232100 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Gigantes de la comida</title>
+    <sub-title lang="es">Perros calientes</sub-title>
+    <desc lang="es">Cuando el mercado de la comida para mascotas no existía, un grupo de visionarios crea los primeros premios, alimentos secos y muchos más productos, principalmente para perros y gatos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gigantes-de-la-comida-s04e15-perros-calientes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+  </programme>
+  <programme start="20250827232100 +0200" stop="20250828001300 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Recuperando la historia</title>
+    <sub-title lang="es">La Casa Blanca</sub-title>
+    <desc lang="es">Brad Meltzer busca la piedra angular de la Casa Blanca, colocada por los masones; las cartas de un soldado en Vietnam, robadas para propaganda enemiga; y una pistola que puede ser clave para resolver los infames asesinatos de Amityville.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_recuperando-la-historia-s01e17-la-casa-blanca_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+  </programme>
+  <programme start="20250828001300 +0200" stop="20250828011200 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Gigantes de México</title>
+    <sub-title lang="es">Carlos Slim</sub-title>
+    <desc lang="es">La historia de los comienzos del grupo CARSO, fundado por Carlos Slim. La guía que le dió su padre de joven, fue crucial para luego generar los cimientos de uno de los conglomerados industriales más importantes de México.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_gigantes-de-mexico-s01e04-slim_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828011200 +0200" stop="20250828020600 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">El efecto Nostradamus</title>
+    <sub-title lang="es">El ejército de Satán</sub-title>
+    <desc lang="es">Cien años después de la muerte de Jesús, el Apóstol Juan recibió una terrorífica visión de la última batalla entre Satán y Dios, que llevará destrucción y el fin de la humanidad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_el-efecto-nostradamus-s01e10-el-ejercito-de-satan_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250828020600 +0200" stop="20250828030000 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Batalla de los dioses</title>
+    <sub-title lang="es">Quetzalcóatl</sub-title>
+    <desc lang="es">El es el dios más poderoso de Mesoamérica y se encuentra de una u otra forma en todas las culturas de la región. Aquí conocerás la historia de su nacimiento, la creación del mundo y del hombre y su trágico destino.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_batalla-de-los-dioses-s01e01-hercules_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250828030000 +0200" stop="20250828040100 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Faraones: Ascenso y caída</title>
+    <sub-title lang="es">Akenatón: El faraón hereje</sub-title>
+    <desc lang="es">Durante miles de años los faraones respetaron las tradiciones y rituales, pero un faraón cambia las reglas del juego. ¿Qué ocurre cuando un rey desafía a las instituciones que le otorgaron el poder?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828040100 +0200" stop="20250829040100 +0200" channel="DOC-H2 (M)(1080)">
+    <title lang="es">Leyendas de los faraones</title>
+    <sub-title lang="es">Akenatón: el enigma</sub-title>
+    <desc lang="es">Akhenaten es una de las figuras más controvertidas de la Antigüedad. Coronado como Amenhotep IV, desafió las creencias religiosas tradicionales e impuso un culto monoteísta al dios Atón.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250827042600 +0200" stop="20250827052400 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Inexplicable: misterios del universo con William Shatner</title>
+    <sub-title lang="es">En búsqueda de la próxima frontera</sub-title>
+    <desc lang="es">Los humanos queremos adentrarnos en territorios inexplorados para hacer nuevos descubrimientos. Pero a medida que comienza la nueva era de la exploración espacial, nos preguntamos qué encontraremos cuando lleguemos a otros planetas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250827052400 +0200" stop="20250827065400 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes misterios de la historia</title>
+    <sub-title lang="es">La muerte de Bruce Lee</sub-title>
+    <desc lang="es">El hermano de Bruce Lee, Robert Lee recluta al un ex detective de la policía de Hong Kong para descubrir qué o quién mató a la superestrella del kung fu basándose en testimonios de personas cercanas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_grandes-misterios-de-la-historia-s02e03-la-muerte-de-bruce-lee_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250827065400 +0200" stop="20250827075200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes misterios de la historia</title>
+    <sub-title lang="es">Roswell</sub-title>
+    <desc lang="es">El incidente de Roswell, donde restos de una nave aterrizaron en el desierto en 1947, sigue intrigando a todos en los Estados Unidos. ¿Acaso fue una nave alienígena? ¿O se trató de un experimento secreto del gobierno? Tras casi 80 años, est</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_grandes-misterios-de-la-historia-s06e01-roswell_l_l.jpg"/>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+  </programme>
+  <programme start="20250827075200 +0200" stop="20250827084800 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes misterios de la historia</title>
+    <sub-title lang="es">La desaparición de Jimmy Hoffa</sub-title>
+    <desc lang="es">Un poderoso activista sindical desaparece de un suburbio de Detroit. 45 años después, sigue siendo uno de los casos de personas desaparecidas más infames de la historia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_grandes-misterios-de-la-historia-s03e02-la-desaparicion-de-jimmy-hoffa_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+  </programme>
+  <programme start="20250827084800 +0200" stop="20250827093500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Simplemente empeñalo</sub-title>
+    <desc lang="es">Rick prueba un Bricklin SV-1 con mucho estilo. Mientras tanto, Chumlee examina una enorme vértebra de ballena. Más tarde, Corey y Chumlee reciben un maletin y elementos para rafting de la marca Nike, de una edición limitada.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s23e02-simplemente-empenalo_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.1.</episode-num>
+  </programme>
+  <programme start="20250827093500 +0200" stop="20250827102200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Triángulo de las Bermudas: aguas malditas</title>
+    <sub-title lang="es">Un gran hallazgo</sub-title>
+    <desc lang="es">Con la ayuda de un mapa secreto que llevan décadas elaborando, los miembros de un equipo de élite investigan los misterios del Triángulo de las Bermudas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20250827102200 +0200" stop="20250827110600 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Triángulo de las Bermudas: aguas malditas</title>
+    <sub-title lang="es">Agujeros en el océano</sub-title>
+    <desc lang="es">El equipo busca los restos de una flota de barcos piratas que fue succionada por el océano en el Triángulo de las Bermudas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250827110600 +0200" stop="20250827115000 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Búsqueda alienígena</title>
+    <sub-title lang="es">La fundación de EE.UU.</sub-title>
+    <desc lang="es">La arquitectura de la capital de EE. UU. tiene una clara influencia del mundo antiguo, pero ¿acaso en su planificación y construcción influyeron también fuerzas de otro mundo?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_busqueda-alienigena-s01e08-la-fundacion-de-ee-uu_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+  </programme>
+  <programme start="20250827115000 +0200" stop="20250827123400 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Búsqueda alienígena</title>
+    <sub-title lang="es">El misterio de Nazca</sub-title>
+    <desc lang="es">El vasto terreno desértico de Nazca está repleto de jeroglíficos y extrañas figuras, muchas de ellas tan grandes que solo pueden apreciarse por completo desde el cielo. Pareciera que algo hubiera cortado el pico de sus montañas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_busqueda-alienigena-s01e09-el-misterio-de-nazca_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+  </programme>
+  <programme start="20250827123400 +0200" stop="20250827131700 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+    <sub-title lang="es">¿Apocalipsis?</sub-title>
+    <desc lang="es">Durante milenios, ha habido especulaciones sobre cómo será el final del mundo. Desde el relato detallado del Apocalipsis, hasta las profecías de Nostradamus o la creencia de una extraña estrella azul devastadora.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250827131700 +0200" stop="20250827140000 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Maravillas sagradas con Dennis Quaid</title>
+    <sub-title lang="es">Reliquias de la crucifixión</sub-title>
+    <desc lang="es">Las reliquias de la crucifixión de Jesucristo han fascinado a los fieles cristianos: desde la cruz de madera y los clavos de hierro, hasta la corona de espinas y la Lanza del Destino. Pero, ¿aún existen estos artefactos sagrados?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250827140000 +0200" stop="20250827144900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Armas poco convencionales</sub-title>
+    <desc lang="es">En cada guerra aparecen armas innovadoras, pero algunas son tan inusuales que dejan perplejos a sus enemigos. Repasamos algunas de las armas más extrañas de la historia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+  </programme>
+  <programme start="20250827144900 +0200" stop="20250827153500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes misterios de la historia</title>
+    <sub-title lang="es">El vuelo de Malasia 370</sub-title>
+    <desc lang="es">Repasamos uno de los misterios aeronáuticos más escalofriantes de los últimos tiempos: un Boeing 777 que transportaba a 239 personas desapareció repentinamente en el Océano Índico.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_grandes-misterios-de-la-historia-s03e07-el-vuelo-de-malasia-370_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.6.</episode-num>
+  </programme>
+  <programme start="20250827153500 +0200" stop="20250827162100 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+    <sub-title lang="es">De la mano de Jersey</sub-title>
+    <desc lang="es">Jersey llegó para quedarse. En Carolina del Sur, Jersey y Mike encuentran tesoros ocultos en un granero derrumbado, al que todos conocen como: la trampa mortal.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-cazadores-de-tesoros-s20e167-de-la-mano-de-jersey_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.166.</episode-num>
+  </programme>
+  <programme start="20250827162100 +0200" stop="20250827170800 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Juguetes codiciados</sub-title>
+    <desc lang="es">Asómbrate con algunos de los juguetes más alucinantes y raros que hayan entrado a la tienda: Una pieza única de Hot Wheels, una colección skateboards, un tren de edición limitada y uno de los juguetes más populares de Elon Musk.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s24e71-juguetes-codiciados_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.70.</episode-num>
+  </programme>
+  <programme start="20250827170800 +0200" stop="20250827175600 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Desastres en tiempo real</title>
+    <sub-title lang="es">Huracanes</sub-title>
+    <desc lang="es">La temporada 2017 de huracanes fue la más terrible en el continente desde 1935. En esa temporada tres huracanes arrasaron las costas como nunca lo habían hecho. Primero Harvey, seguido de Irma.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_desastres-en-tiempo-real-s01e05-volcanes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250827175600 +0200" stop="20250827185600 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Gigantes de la industria: Mega marcas</title>
+    <sub-title lang="es">El fin de las líneas fijas</sub-title>
+    <desc lang="es">Motorola presenta el primer teléfono portátil y las empresas de telecomunicaciones compiten por crear el celular más popular. El cambio se produjo con el Blackberry, que combinaba las funciones de una computadora dentro de un celular.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+  </programme>
+  <programme start="20250827185600 +0200" stop="20250827195100 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes robos de la historia</title>
+    <sub-title lang="es">El robo al depósito blindado Dunbar</sub-title>
+    <desc lang="es">Un empleado de un depósito de vehículos blindados usa su conocimiento interno para planear un atraco, que podría generarle a él y a sus viejos colegas más de dieciocho millones de dólares en efectivo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827195100 +0200" stop="20250827204300 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Inexplicable</title>
+    <sub-title lang="es">Artefactos bíblicos</sub-title>
+    <desc lang="es">Desde los antiguos babilonios hasta los exploradores urbanos de hoy en día, la humanidad siempre le fascinó los lugares abandonados.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inexplicable-s04e04-lugares-abandonados_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+  </programme>
+  <programme start="20250827204300 +0200" stop="20250827213700 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El efecto Nostradamus</title>
+    <sub-title lang="es">El hijo de Nostradamus</sub-title>
+    <desc lang="es">En 1994, un manuscrito oculto en la Biblioteca Vaticana reveló un apocalipsis de profecías acreditado a Michel Nostradamus. ¿De dónde proviene este libro perdido y quién fue su autor?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-efecto-nostradamus-s01e14-el-hijo-de-nostradamus_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+  </programme>
+  <programme start="20250827213700 +0200" stop="20250827220200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">La evidencia está entre nosotros</title>
+    <sub-title lang="es">El monstruo del inodoro y el zumbador ruso</sub-title>
+    <desc lang="es">Tony Harris analiza si una criatura negra que emerge de un baño familiar podría ser un ser mítico. Además, inspecciona si una misteriosa emisora de radio que fue parte de un plan militar ruso y examina el video de un astronauta.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_la-evidencia-esta-entre-nosotros-s02e04-el-monstruo-del-inodoro-y-el-zumbador-ruso_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250827220200 +0200" stop="20250827225900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">No identificado</title>
+    <sub-title lang="es">OVNI vs. Armas nucleares</sub-title>
+    <desc lang="es">El equipo investiga un alarmante patrón: la presencia de OVNIS sobrevolando las bases de la fuerza aérea de EE.UU. que alojan armas nucleares.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_no-identificado-s02e03-ovni-vs-armas-nucleares_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250827225900 +0200" stop="20250828002900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia en la carretera</title>
+    <sub-title lang="es">Negocios en Boston</sub-title>
+    <desc lang="es">Rick, Corey y Chum visitan Boston para intentar llevar a cabo algunos tratos revolucionarios. Allí examinan una pintura patriótica y luego prueban suerte con el remo e intentan quedarse con un mosquete Brown Bess de la década de 1700.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+  </programme>
+  <programme start="20250828002900 +0200" stop="20250828012600 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Estados Unidos de Empeñamerica</sub-title>
+    <desc lang="es">En esta edición patriótica de El Precio de la Historia, Rick, Corey y Chum exploran una de las colecciones más nacionalistas de la historia del programa: decenas de artículos icónicos que representan el espíritu de este país.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s25e104-estados-unidos-de-empenamerica_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.103.</episode-num>
+  </programme>
+  <programme start="20250828012600 +0200" stop="20250828022300 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Estrellas de empeño: Boyz II Pawn</sub-title>
+    <desc lang="es">Rick se lanza a todo por recuerdos de béisbol. Luego, Corey y Chum autentican una chaqueta de Boyz II Men, lo que los deja de rodillas. Más tarde, Corey "urna" una antigüedad china mientras Chum admira la época dorada de Hollywood.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s22e09-estrellas-de-empeno-boyz-ii-pawn_l_l.jpg"/>
+    <episode-num system="xmltv_ns">21.8.</episode-num>
+  </programme>
+  <programme start="20250828022300 +0200" stop="20250828032000 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Transacciones locas</sub-title>
+    <desc lang="es">¿Rick estará dispuesto a cambiar noventa mil dólares en oro por un clásico Roadster de 1932? ¿O una guitarra por una escopeta de dos cañones extremadamente rara del siglo XVIII?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s24e76-transacciones-locas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.75.</episode-num>
+  </programme>
+  <programme start="20250828032000 +0200" stop="20250828050000 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia en la carretera</title>
+    <sub-title lang="es">Diversión en San Francisco</sub-title>
+    <desc lang="es">Rick, Corey y Chum visitan San Francisco junto a su grupo de expertos. Navegan por aguas desconocidas con la esperanza de volver a casa con nuevos tesoros.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250828050000 +0200" stop="20250828055200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Percepción extrasensorial</sub-title>
+    <desc lang="es">Un vendedor intenta empeñar un prototipo de las Tortugas Ninja de 1991. Más tarde, Rick prueba una pistola Manstopper, del año 1800. Además, Chum apuesta por un modelo del hotel Desert Inn, de Las Vegas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s25e642-percepcion-extrasensorial_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.641.</episode-num>
+  </programme>
+  <programme start="20250828055200 +0200" stop="20250828064900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Negocio de otro planeta</sub-title>
+    <desc lang="es">Rick se emociona al recibir increíbles artículos del programa espacial: una bandera autografiada del Apolo 16, un asiento de inodoro del transbordador espacial, un libro del programa Apolo firmado por Schultz y un remoto meteoroide.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s13e12-negocio-de-otro-planeta_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.11.</episode-num>
+  </programme>
+  <programme start="20250828064900 +0200" stop="20250828073400 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">¿Dónde están las estrellas de empeño?</sub-title>
+    <desc lang="es">Rick negocia por una antigua boya de pesca de vidrio japones. Mientras tanto, Chum revisa un raro fósil de dinosaurio. Más tarde, un cliente llega con un poster de la película: ¿Dónde está el bufalo?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s24e614-donde-estan-las-estrellas-de-empeno_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.613.</episode-num>
+  </programme>
+  <programme start="20250828073400 +0200" stop="20250828081900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">El revólver</sub-title>
+    <desc lang="es">Rick prueba un revólver de la Guerra Civil estadounidense. Mientras tanto, Chum se babea por un artículo personal de Lebron James. Además, Rick se vuelve loco cuando descubre un meteorito de 4500 años de antigüedad.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s17e01-el-revolver_l_l.jpg"/>
+    <episode-num system="xmltv_ns">16.0.</episode-num>
+  </programme>
+  <programme start="20250828081900 +0200" stop="20250828090700 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Empeña mi corazón</sub-title>
+    <desc lang="es">La icónica cantante de los '80 Taylor Dayne le ofrece a Rick una colección de recuerdos de sus giras. Más tarde, Chum pone a prueba la fuerza cuando un vendedor llega con un cascanueces con la forma de Darth Vader.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s23e01-empena-mi-corazon_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.0.</episode-num>
+  </programme>
+  <programme start="20250828090700 +0200" stop="20250828092900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Mi ciudad</sub-title>
+    <desc lang="es">A calentar las cuerdas vocales cuando las letras de "My Country, Tis of Thee" entran en la tienda. ¿Se sentirá Rick patriota o va a cometer traición a la oferta?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s13e23-mi-ciudad_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.22.</episode-num>
+  </programme>
+  <programme start="20250828092900 +0200" stop="20250828101700 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Chum se va a Hollywood</sub-title>
+    <desc lang="es">Rick intenta conseguir un casco de fútbol firmado por 28 ganadores del Trofeo Heisman. Más tarde, Corey busca comprar un juguete de la serie Transformers. Rick se desespera por un póster de Alfred Hitchcock.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s21e05-chum-se-va-a-hollywood_l_l.jpg"/>
+    <episode-num system="xmltv_ns">20.4.</episode-num>
+  </programme>
+  <programme start="20250828101700 +0200" stop="20250828110200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Ronda de negocios</sub-title>
+    <desc lang="es">Corey se entusiasma con un juguete japonés de Godzilla. Más tarde, Chum lucha por una chaqueta de cuero de la Segunda Guerra Mundial y Rick recibe un video promocional de El Padrino. Además todos se preguntan si hará una oferta.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s24e603-ronda-de-negocios_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.602.</episode-num>
+  </programme>
+  <programme start="20250828110200 +0200" stop="20250828114700 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Para fanáticos del baseball</sub-title>
+    <desc lang="es">Rick visita Boston para examinar una histórica colección de béisbol de los Red Sox. Mientras tanto, Corey se interesa en una chaqueta de la Segunda Guerra Mundial y junto a Chum aprenden nuevos trucos con un antiguo set de magia.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s17e18-para-fanaticos-del-baseball_l_l.jpg"/>
+    <episode-num system="xmltv_ns">16.17.</episode-num>
+  </programme>
+  <programme start="20250828114700 +0200" stop="20250828123200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">La nada misma</sub-title>
+    <desc lang="es">Un actor de Seinfeld visita la tienda con un valioso suvenir de la serie. Además, Rick viaja hacia el este del país en busca de un nuevo vehículo, pero tendrá una difícil decisión: ¿Se quedará con el extraño auto deportivo de los '60?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-precio-de-la-historia-s17e02-la-nada-misma_l_l.jpg"/>
+    <episode-num system="xmltv_ns">16.1.</episode-num>
+  </programme>
+  <programme start="20250828123200 +0200" stop="20250828140000 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El precio de la historia en la carretera</title>
+    <sub-title lang="es">Fortunas en Fort Worth</sub-title>
+    <desc lang="es">Rick, Corey y Chum montan sus caballos y cabalgan hasta Texas, donde todo es más grande. Incluso las negociaciones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.11.</episode-num>
+  </programme>
+  <programme start="20250828140000 +0200" stop="20250828144700 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Mil maneras de morir</sub-title>
+    <desc lang="es">¿Sabías que las barbas pueden ser mortales? ¿O que una vez una cortadora de césped, mató a un espectador en un partido de fútbol? Éstas son solo algunas de las muertes más raras, locas y salvajemente increíbles que hayan ocurrido.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+  </programme>
+  <programme start="20250828144700 +0200" stop="20250828153300 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes misterios de la historia</title>
+    <sub-title lang="es">El hombre de Somerton</sub-title>
+    <desc lang="es">Durante la Guerra Fría, un hombre bien vestido es hallado muerto relativamente cerca de un sitio de pruebas nucleares en una tranquila playa australiana.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_grandes-misterios-de-la-historia-s03e04-el-hombre-de-somerton_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+  </programme>
+  <programme start="20250828153300 +0200" stop="20250828161900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+    <sub-title lang="es">Tesoros en el lado salvaje</sub-title>
+    <desc lang="es">Mike y Frank se encuentran en una jungla, tras emprenden el camino en busca de oro oxidado. Hallan una colección de animales disecados, donde hay un emú, un cerdo y un burro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-cazadores-de-tesoros-s20e161-tesoros-en-el-lado-salvaje_l_l.jpg"/>
+    <episode-num system="xmltv_ns">19.160.</episode-num>
+  </programme>
+  <programme start="20250828161900 +0200" stop="20250828170600 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Juguetes codiciados</sub-title>
+    <desc lang="es">Asómbrate con algunos de los juguetes más alucinantes y raros que hayan entrado a la tienda: Una pieza única de Hot Wheels, una colección skateboards, un tren de edición limitada y uno de los juguetes más populares de Elon Musk.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_lo-mejor-de-el-precio-de-la-historia-s24e71-juguetes-codiciados_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.70.</episode-num>
+  </programme>
+  <programme start="20250828170600 +0200" stop="20250828175400 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Desastres en tiempo real</title>
+    <sub-title lang="es">Volcanes</sub-title>
+    <desc lang="es">La furia de un volcán es uno de los desastres naturales más arrasadores. Varias civilizaciones han desaparecido por la actividad de estas montañas de fuego. Recordamos el desastre del Volcán de fuego, en Guatemala, el tres de junio de 2018.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_desastres-en-tiempo-real-s01e04-avalanchas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+  </programme>
+  <programme start="20250828175400 +0200" stop="20250828184200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Gigantes de la industria: Mega marcas</title>
+    <sub-title lang="es">Competencia de Sneakers</sub-title>
+    <desc lang="es">Dos compañías de calzado deportivo se convierten en titanes de la industria, a través de una batalla de décadas por la dominación global. Ambas lanzan calzado icónico que convertirá a las zapatillas deportivas en un producto vital.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+  </programme>
+  <programme start="20250828184200 +0200" stop="20250828193200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Grandes robos de la historia</title>
+    <sub-title lang="es">El robo del Hotel Pierre</sub-title>
+    <desc lang="es">Pierce Brosnan nos muestra cómo un dúo de ladrones especializados en hoteles, logró el objetivo más grande de sus carreras: el Hotel Pierre de Nueva York.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+  </programme>
+  <programme start="20250828193200 +0200" stop="20250828202400 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Inexplicable</title>
+    <sub-title lang="es">Hazañas de superhumanos</sub-title>
+    <desc lang="es">Ya sea sobrevivir a temperaturas gélidas, bucear en profundidad en una sola respiración o levantar objetos pesados, las hazañas sobrehumanas no dejan de sorprender. Pueden ser cuestión de entrenamiento, voluntad, o algo más misterioso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_inexplicable-s04e09-hazanas-de-superhumanos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+  </programme>
+  <programme start="20250828202400 +0200" stop="20250828211800 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">El efecto Nostradamus</title>
+    <sub-title lang="es">La profecía perdida de Fátima</sub-title>
+    <desc lang="es">En 1917, tres niños pastores del pueblo de Fátima declararon haber visto a la Virgen María y ser portadores de su mensaje</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_el-efecto-nostradamus-s01e15-la-profecia-perdida-de-fatima_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+  </programme>
+  <programme start="20250828211800 +0200" stop="20250828221500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">No identificado</title>
+    <sub-title lang="es">El misterio de los triángulos</sub-title>
+    <desc lang="es">El ex oficial de inteligencia Chris Mellon encabeza una investigación sobre los enormes OVNIS triangulares que han podido verse en todo el mundo acelerando a velocidades increíbles. Sin embargo, se pregunta qué tipo de naves son.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_no-identificado-s02e02-el-misterio-de-los-triangulos_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20250828221500 +0200" stop="20250828224500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Top 10: secretos y misterios</title>
+    <sub-title lang="es">Personas sin identidad</sub-title>
+    <desc lang="es">Repasamos una lista de diez personas que surgieron de la nada y cuyas identidades nunca se han confirmado. ¿Por qué son consideradas las personas más misteriosas de la Tierra?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20250828224500 +0200" stop="20250828231500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Top 10: secretos y misterios</title>
+    <sub-title lang="es">La magia de la naturaleza</sub-title>
+    <desc lang="es">A lo largo de la historia, ciertos de lugares naturales cobraron importancia espiritual o religiosa para algunas civilizaciones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20250828231500 +0200" stop="20250828234500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Top 10: secretos y misterios</title>
+    <sub-title lang="es">Las misteriosas obras de arte de la historia</sub-title>
+    <desc lang="es">Algunos misterios relacionados con el gran arte y sus creadores no tienen nada que envidiarle a las mejores telenovelas o series de TV. En especial los que involucran robos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250828234500 +0200" stop="20250829001500 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Top 10: secretos y misterios</title>
+    <sub-title lang="es">Secretos y magia de la medicina alternativa</sub-title>
+    <desc lang="es">Exploramos las diez disciplinas más impresionantes de la medicina alternativa. Métodos curativos no tradicionales, consagrados por el tiempo pero no siempre científicamente aceptados, como remedios a base de hierbas y terapia de regresión.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250829001500 +0200" stop="20250829011200 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Búsqueda alienígena</title>
+    <sub-title lang="es">Código extraterrestre</sub-title>
+    <desc lang="es">En todo el mundo existe evidencia física que sugiere que no estamos solos en el universo. ¿Acaso han dejado estas pruebas a propósito, como una suerte de código extraterrestre?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/mx_busqueda-alienigena-s01e10-codigo-extraterrestre_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250829011200 +0200" stop="20250829020900 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Más allá de Skinwalker</title>
+    <sub-title lang="es">Arma humeante</sub-title>
+    <desc lang="es">Andy y Paul regresan a un rancho ganadero en Colorado, donde se produjeron dieciseis mutilaciones de animales en los últimos veinticinco años. Además, allí existe un misterioso puente, que podría contener un portal entre dimensiones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20250829020900 +0200" stop="20250829030600 +0200" channel="DOC-History (L)(1080)  (1080p)">
+    <title lang="es">Más allá de Skinwalker</title>
+    <sub-title lang="es">Dimensiones antiguas</sub-title>
+    <desc lang="es">El ex-agente de la CIA, Andy Bustamante, junto al periodista Paul Beban, visitan uno de los mayores sitios de petroglifos de nativos americanos del mundo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+  </programme>
+  <programme start="20250827045500 +0200" stop="20250827055100 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Soldados Nisei de la 2da Guerra Mundial</title>
+    <desc lang="es">Revela la historia anónima de los guerreros Nisei de Estados Unidos durante la 2da Guerra Mundial. Mediante imágenes de archivo y entrevistas reconstruimos su historia.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
+  </programme>
+  <programme start="20250827055100 +0200" stop="20250827073200 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">La guerra aérea</title>
+    <desc lang="es">Siente el temor y la aceleración de la batalla a 30.000 pies de altura. Sigues las huellas del aclamado especial de 2 horas, sobre las Películas Perdidas de la Segunda Guerra Mundial.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-guerra-aerea_l_l.jpg"/>
+  </programme>
+  <programme start="20250827073200 +0200" stop="20250827081900 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Maravillas siniestras</title>
+    <sub-title lang="es">Trampas traicioneras</sub-title>
+    <desc lang="es">Ya sea que se utilicen para detener a cazadores de tesoros, ladrones de cuerpos o enemigos en tiempos de guerra, las trampas explosivas son dispositivos diabólicos que esperan matar.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250827081900 +0200" stop="20250827084000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">La evidencia está entre nosotros</title>
+    <sub-title lang="es">El monstruo marino de Alaska y el misterio del avión en la jungla</sub-title>
+    <desc lang="es">Junto a sus expertos, Tony analiza si los extraterrestres podrían ser en realidad viajeros del futuro.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e10-el-monstruo-marino-de-alaska-y-el-misterio-del-avion-en-la-jungla_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20250827084000 +0200" stop="20250827090100 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">La evidencia está entre nosotros</title>
+    <sub-title lang="es">La espada Excalibur y la teletransportación de Texas</sub-title>
+    <desc lang="es">Tony Harris analiza si una espada descubierta en el fondo de un río podría ser la famosa Excalibur. Más tarde, examina la supuesta prueba fílmica de una teletransportación.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_la-evidencia-esta-entre-nosotros-s02e05-la-espada-excalibur-y-la-teletransportacion-de-texas_l_l.jpg"/>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+  </programme>
+  <programme start="20250827090100 +0200" stop="20250827094700 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Los expedientes secretos</title>
+    <sub-title lang="es">Los contactados y sus fotos imposibles</sub-title>
+    <desc lang="es">Existen miles de fotografías de OVNIS, pero pocas son sorprendentes. Desde los años 50 hasta hoy, algunas personas han logrado capturar imágenes no solo de las naves, sino también de sus tripulantes.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827094700 +0200" stop="20250827103100 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Increíble con Dan Aykroyd</title>
+    <sub-title lang="es">Sobreviviendo lo imposible</sub-title>
+    <desc lang="es">Repasamos algunas de las historias más improbables de la gente que sobrevivió a eventos extraordinarios: Desde una caída libre de más de nueve mil metros sin paracaídas, hasta ser enterrado vivo y vivir para contarlo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+  </programme>
+  <programme start="20250827103100 +0200" stop="20250827111300 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Trucos en el camino</sub-title>
+    <desc lang="es">Rick busca un enfrentamiento con Hulk Hogan, en Chicago. Chum viaja a Pensilvania para comprar un rifle especial. Hay un viaje de padre e hijo hacia Los Ángeles, un cañón giratorio en Utah y una celebración muy especial en Sturgis.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s25e108-trucos-en-el-camino_l_l.jpg"/>
+    <episode-num system="xmltv_ns">24.107.</episode-num>
+  </programme>
+  <programme start="20250827111300 +0200" stop="20250827115500 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Llegué vi empeñé</sub-title>
+    <desc lang="es">Un vendedor le ofrece a Chum una colección de figuras de acción de The Walking Dead. Más tarde, Corey negocia un póster de Rock n Roll High School y Chum intenta conseguir una tarjeta Pokemón inusual.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-precio-de-la-historia-s24e621-llegue-vi-empene_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.620.</episode-num>
+  </programme>
+  <programme start="20250827115500 +0200" stop="20250827121700 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Hecho en Hollywood</sub-title>
+    <desc lang="es">Una carta que termina con el contrato de Marilyn Monroe, un Chevy 1951 convertible que manejó Steve McQueen en su último film, fotografías de Paul Newman. También les ofrecen el látigo de Indiana Jones.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s18e28-hecho-en-hollywood_l_l.jpg"/>
+    <episode-num system="xmltv_ns">17.27.</episode-num>
+  </programme>
+  <programme start="20250827121700 +0200" stop="20250827123800 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Grandes negociaciones</sub-title>
+    <desc lang="es">Un par de botas de Elton John, una moneda del Imperio Romano, un libro de Isaac Newton, un poco de oro vikingo, un auto juguete del agente 007, son los elementos que fueron realmente difíciles de conseguir.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s13e10-grandes-negociaciones_l_l.jpg"/>
+    <episode-num system="xmltv_ns">12.9.</episode-num>
+  </programme>
+  <programme start="20250827123800 +0200" stop="20250827130000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Empeños más caros</sub-title>
+    <desc lang="es">Recuerde algunos de los artículos más caros jamás vistos en PawnStars: un Ford Shelby GT350 de 1967 en impecables condiciones, un cañón rotativo Hotchkiss de 1800 y una extraordinaria máquina Enigma alemana de la Segunda Guerra Mundial.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s16e04-empenos-mas-caros_l_l.jpg"/>
+    <episode-num system="xmltv_ns">15.3.</episode-num>
+  </programme>
+  <programme start="20250827130000 +0200" stop="20250827134800 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Trato indiscreto</sub-title>
+    <desc lang="es">Chum puede comprar un artículo de Austin Powers y Rick intenta llegar a un trato por un boceto autografiado de un héroe americano.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-precio-de-la-historia-s16e05-trato-indiscreto_l_l.jpg"/>
+    <episode-num system="xmltv_ns">15.4.</episode-num>
+  </programme>
+  <programme start="20250827134800 +0200" stop="20250827143600 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">El precio de la historia</title>
+    <sub-title lang="es">Documentales desde la Luna</sub-title>
+    <desc lang="es">Un vendedor llega a la tienda con documentos del Apolo XI. Además, Chum busca quedarse con una Harley Davidson Topper del año 1962. Además, Rick revisa un supuesto grabado de Renoir.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-precio-de-la-historia-s18e07-documentales-desde-la-luna_l_l.jpg"/>
+    <episode-num system="xmltv_ns">17.6.</episode-num>
+  </programme>
+  <programme start="20250827143600 +0200" stop="20250827150000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Lo mejor de los 80</sub-title>
+    <desc lang="es">El fuego de los 80 se enciende otra vez en el Precio de la Historia con una antorcha de los Juegos Olímpicos de 1984, una carta firmada de Ronald Reagan, un poster de "La Venganza del Jedi".</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s17e18-lo-mejor-de-los-80_l_l.jpg"/>
+    <episode-num system="xmltv_ns">16.17.</episode-num>
+  </programme>
+  <programme start="20250827150000 +0200" stop="20250827160000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20250827160000 +0200" stop="20250827170000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+    <category lang="es">Publicidad</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_infomerciales_l_l.jpg"/>
+  </programme>
+  <programme start="20250827170000 +0200" stop="20250827184000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Profecías reveladas</title>
+    <desc lang="es">Desde las Torres Gemelas hasta los devastadores tsunamis: ¿cómo pudo Nostradamus predecir tantos desastres modernos con tanta precisión? A través de una mirada distinta, el secreto de Nostradamus finalmente sale a la luz.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_profecias-reveladas_l_l.jpg"/>
+  </programme>
+  <programme start="20250827184000 +0200" stop="20250827193400 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Gigantes de los juguetes</title>
+    <sub-title lang="es">Accidentes felices</sub-title>
+    <desc lang="es">Dos descubrimientos fortuitos realizados durante la década de los cincuentas, convierten unos materiales industriales mundanos en unos juguetes legendarios. Hablamos de la Pizarra Mágica y las masas de plastilina de Play-Doh.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.16.</episode-num>
+  </programme>
+  <programme start="20250827193400 +0200" stop="20250827202900 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Reliquias inusuales</sub-title>
+    <desc lang="es">Prepárate para una búsqueda del tesoro histórica en la casa de empeño, cuando Rick y su equipo tienen en sus manos algunas piezas que podrían ser tan antiguas como el mismísimo tiempo.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s24e60-reliquias-inusuales_l_l.jpg"/>
+    <episode-num system="xmltv_ns">23.59.</episode-num>
+  </programme>
+  <programme start="20250827202900 +0200" stop="20250827212700 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">El efecto Nostradamus</title>
+    <sub-title lang="es">El código apocalíptico</sub-title>
+    <desc lang="es">Sir Isaac Newton es considerado uno de los mayores genios de la historia, pero pocos saben que también predijo la fecha del Apocalipsis. Newton tenía un lado muy oscuro y misterioso.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_el-efecto-nostradamus-s01e05-los-jeroglificos-del-dia-final_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+  </programme>
+  <programme start="20250827212700 +0200" stop="20250827222100 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Grandes misterios de la historia</title>
+    <sub-title lang="es">El desastre del Hindenburg</sub-title>
+    <desc lang="es">Durante décadas, los expertos creyeron saber qué fue lo que causó el desastre del Hindenburg: el hidrógeno con fugas se encendió, causando que el dirigible estallara en llamas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_grandes-misterios-de-la-historia-s05e60-el-desastre-del-hindenburg_l_l.jpg"/>
+    <episode-num system="xmltv_ns">4.59.</episode-num>
+  </programme>
+  <programme start="20250827222100 +0200" stop="20250827231600 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Inexplicable</title>
+    <sub-title lang="es">Huesos sagrados</sub-title>
+    <desc lang="es">La humanidad siempre se ha preguntado qué sucede después de la muerte. Algunos creen que nuestros huesos pueden traer buena suerte o incluso permitirnos hablar con los muertos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_inexplicable-s03e06-huesos-sagrados_l_l.jpg"/>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+  </programme>
+  <programme start="20250827231600 +0200" stop="20250828002200 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Mitos: los grandes misterios de la humanidad</title>
+    <sub-title lang="es">Hombres lobo</sub-title>
+    <desc lang="es">Los científicos buscan respuestas a una misteriosa ola de asesinatos del siglo XVIII que involucra a una bestia que mata como un animal y actúa como un humano. ¿Podría ser un hombre lobo?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+  </programme>
+  <programme start="20250828002200 +0200" stop="20250828011600 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Inexplicable: misterios del universo con William Shatner</title>
+    <sub-title lang="es">En búsqueda de la próxima frontera</sub-title>
+    <desc lang="es">Los humanos queremos adentrarnos en territorios inexplorados para hacer nuevos descubrimientos. Pero a medida que comienza la nueva era de la exploración espacial, nos preguntamos qué encontraremos cuando lleguemos a otros planetas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250828011600 +0200" stop="20250828021100 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Misterios inexplorados con Danny Trejo</title>
+    <sub-title lang="es">Cámara de los secretos</sub-title>
+    <desc lang="es">Desde un tesoro invaluable encontrado dentro de una ciudad perdida, hasta un manuscrito antiguo escondido detrás de una pared. Explora misteriosos secretos perdidos en las profundidades de varias cámaras ocultas.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+  </programme>
+  <programme start="20250828021100 +0200" stop="20250828030500 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+    <sub-title lang="es">Encuentro con superhéroes</sub-title>
+    <desc lang="es">El sentido arácnido de Rick se activa con un Spiderman de tamaño real y algunos cómics originales de las series Avengers y X-Men.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-el-precio-de-la-historia-s23e46-encuentro-con-superheroes_l_l.jpg"/>
+    <episode-num system="xmltv_ns">22.45.</episode-num>
+  </programme>
+  <programme start="20250828030500 +0200" stop="20250828040000 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+    <sub-title lang="es">Cacerias de provincia</sub-title>
+    <desc lang="es">Abróchese el cinturón mientras el equipo de Arqueología Antigua recorre el Medio Oeste en busca del raro oro oxidado local del corazón de Estados Unidos.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_lo-mejor-de-cazadores-de-tesoros-s07e182-cacerias-de-provincia_l_l.jpg"/>
+    <episode-num system="xmltv_ns">6.181.</episode-num>
+  </programme>
+  <programme start="20250828040000 +0200" stop="20250828045600 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">¿Qué salió mal?</title>
+    <sub-title lang="es">Derrumbe</sub-title>
+    <desc lang="es">Un gigantesco hotel en construcción se derrumba inesperadamente en el centro de Nueva Orleans. ¿Porque sucedió?</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+  </programme>
+  <programme start="20250828045600 +0200" stop="20250829045600 +0200" channel="DOC-History Channel (M)(1080)">
+    <title lang="es">101 artefactos que cambiaron al mundo</title>
+    <desc lang="es">La creación de un artefacto nace de la conjugación entre la invención y el estilo de vida del hombre. En esta oportunidad la revista Mecánica Popular y History se unen conocer cuáles son los 101 artefactos que han cambiado al mundo.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://cdn.mitvstatic.com/programs/cl_101-artefactos-que-cambiaron-al-mundo_l_l.jpg"/>
   </programme>
 </tv>
