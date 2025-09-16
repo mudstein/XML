@@ -13429,12 +13429,6 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.17.</episode-num>
   </programme>
-  <programme start="20250916020000 +0000" stop="20250916030000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
-    <title lang="es">Los cuenteros</title>
-    <desc lang="es">La narración oral de los cuentos y las historias más increíbles para niños y niñas.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/71/14718151_F8BA290EEEFFF63C.jpg"/>
-  </programme>
   <programme start="20250916030000 +0000" stop="20250916040000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">En Algún Lugar de la Tierra</title>
     <desc lang="es">Un programa que muestra las historias y las vidas cotidianas de habitantes que viven en lugares excepcionalmente hermosos.</desc>
@@ -13502,6 +13496,9 @@
     <desc lang="es">Programa infantil de iniciación musical para niñas y niños guiado por profesores de la Fundación de Orquestas Juveniles e Infantiles.</desc>
     <date>2022</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/36/13367181_637F53B42077F9E4.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20250916153000 +0000" stop="20250916160000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Yogui yoguini</title>
@@ -13610,9 +13607,6 @@
     <desc lang="es">Un espacio para explorar la ciencia desde lo cotidiano de una manera amena y amigable, con temas como la música, la inteligencia artificial, el envejecimiento, la memoria, la realidad, y muchos más.</desc>
     <date>2025</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/23/22235744_693d57034e4d849d47a29e3cdf8075d3.jpg"/>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
   </programme>
   <programme start="20250917013000 +0000" stop="20250917023000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Chile circular</title>
@@ -29007,99 +29001,6 @@
     <desc lang="es">En este episodio, los Petersen van a Kinich, un restaurante de comida tradicional maya en Izamal, Yucatán.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20250915190000 -0300" stop="20250915200000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
-    <title lang="es">DSPORTS Noticias</title>
-    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
-    <category lang="es">Live</category>
-    <category lang="es">Audio</category>
-    <category lang="es">Tipos de Programas</category>
-    <category lang="es">En Vivo</category>
-    <category lang="es">Formato Panorámico</category>
-    <category lang="es">Primera vez</category>
-    <category lang="es">Series</category>
-    <video>
-      <quality>HD</quality>
-    </video>
-    <rating system="MPAA">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20250915200000 -0300" stop="20250915210000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
-    <title lang="es">El juego</title>
-    <desc lang="es">El mejor debate y análisis del fútbol argentino, junto a todas las novedades del fútbol sudamericano, de la mano de Sergio Goycochea y un gran equipo.</desc>
-    <category lang="es">Live</category>
-    <category lang="es">Audio</category>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tipos de Programas</category>
-    <category lang="es">En Vivo</category>
-    <category lang="es">Formato Panorámico</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
-    <category lang="es">Series</category>
-    <video>
-      <quality>HD</quality>
-    </video>
-    <rating system="MPAA">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20250915210000 -0300" stop="20250915220000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
-    <title lang="es">De Fútbol Se Habla Así Chile</title>
-    <desc lang="es">l debate futbolero más caliente de una nueva fecha de Eliminatorias de la mano de Pablo Flamm y un gran equipo. Además, toda la información del fútbol chileno.</desc>
-    <category lang="es">Live</category>
-    <category lang="es">Audio</category>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tipos de Programas</category>
-    <category lang="es">En Vivo</category>
-    <category lang="es">Formato Panorámico</category>
-    <category lang="es">Fútbol</category>
-    <category lang="es">Primera vez</category>
-    <category lang="es">Series</category>
-    <video>
-      <quality>HD</quality>
-    </video>
-    <rating system="MPAA">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20250915220000 -0300" stop="20250915223000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
-    <title lang="es">Voleibol: Previa - Argentina vs. Corea del Sur</title>
-    <desc lang="es">La información más relevante de cara al juego Argentina contra Corea del Sur, del Grupo E, por la fase preliminar del Campeonato Mundial de Voleibol Masculino. Disputado en Quezon City, Filipinas.</desc>
-    <category lang="es">Live</category>
-    <category lang="es">Audio</category>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tipos de Programas</category>
-    <category lang="es">En Vivo</category>
-    <category lang="es">Formato Panorámico</category>
-    <category lang="es">Primera vez</category>
-    <category lang="es">Series</category>
-    <category lang="es">Vóleibol</category>
-    <video>
-      <quality>HD</quality>
-    </video>
-    <rating system="MPAA">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20250915223000 -0300" stop="20250916003000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
-    <title lang="es">Argentina vs. Corea : Campeonato Mundial de Voleibol de la FIVB 2025 - Argentina vs. Corea</title>
-    <desc lang="es">Fecha 1 de la ronda preliminar del Grupo C del Campeonato Mundial FIVB 2025. Argentina se enfrenta a Corea del Sur. Desde el Coliseo Araneta, en Quezón, Filipinas.</desc>
-    <category lang="es">Live</category>
-    <category lang="es">Audio</category>
-    <category lang="es">Deportes</category>
-    <category lang="es">Tipos de Programas</category>
-    <category lang="es">En Vivo</category>
-    <category lang="es">Formato Panorámico</category>
-    <category lang="es">Primera vez</category>
-    <category lang="es">Series</category>
-    <category lang="es">Vóleibol</category>
-    <video>
-      <quality>HD</quality>
-    </video>
-    <rating system="MPAA">
-      <value>NR</value>
-    </rating>
   </programme>
   <programme start="20250916003000 -0300" stop="20250916013000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
     <title lang="es">De Fútbol Se Habla Así Chile</title>

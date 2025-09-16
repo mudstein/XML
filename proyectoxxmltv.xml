@@ -5166,56 +5166,6 @@
       <value>6.1/10</value>
     </star-rating>
   </programme>
-  <programme start="20250915232000 +0000" stop="20250916001400 +0000" channel="TNT Novelas">
-    <title lang="es">La promesa</title>
-    <desc lang="es">Manuel se enfrenta a su madre por el anuncio de su relación con Jimena. Él, acorralado, acepta darle una oportunidad, pero desconoce que la joven sigue en secreto las instrucciones de Cruz. A Jana le duele especialmente el anuncio y decide alejarse.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/35/22354730_aeff1217f800c2a6a36e24f8d94840ac.jpg"/>
-    <episode-num system="xmltv_ns">0.30.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20250916001400 +0000" stop="20250916011000 +0000" channel="TNT Novelas">
-    <title lang="es">La promesa</title>
-    <desc lang="es">Rómulo echa una reprimenda a Mauro por la confianza que muestra a Leonor y él dice que lo tendrá en cuenta, pero pronto Rómulo descubre no le ha hecho caso y que vive un romance con la hija de los marqueses.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/36/22360395_aa56824e9dba7263e9070cb22d4bab64.jpg"/>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20250916011000 +0000" stop="20250916015900 +0000" channel="TNT Novelas">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Ferit Korhan es un joven heredero mujeriego e irresponsable. Al ver su comportamiento, su abuelo Halis arregla su matrimonio con una joven adecuada.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/24/22244474_b7ad151612d94610060381e5b8a948be.jpg"/>
-    <episode-num system="xmltv_ns">0.201.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20250916015900 +0000" stop="20250916024900 +0000" channel="TNT Novelas">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Ferit Korhan es un joven heredero mujeriego e irresponsable. Al ver su comportamiento, su abuelo Halis arregla su matrimonio con una joven adecuada.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/28/22283888_23ffacd2e667337be596509fe4558bbd.jpg"/>
-    <episode-num system="xmltv_ns">0.202.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20250916024900 +0000" stop="20250916033600 +0000" channel="TNT Novelas">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Ferit Korhan es un joven heredero mujeriego e irresponsable. Al ver su comportamiento, su abuelo Halis arregla su matrimonio con una joven adecuada.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/28/22283890_11a0d6ab05349387f39b7c40bc26484c.jpg"/>
-    <episode-num system="xmltv_ns">0.203.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20250916033600 +0000" stop="20250916042100 +0000" channel="TNT Novelas">
     <title lang="es">Bahar</title>
     <desc lang="es">Tras evitar una experiencia cercana a la muerte, la existencia de una devota ama de casa se llena de decepciones cuando descubre un nuevo aspecto de su familia y de su cónyuge, un cirujano que parecía intachable.</desc>
@@ -13354,44 +13304,6 @@
   <programme start="20250918024000 -0300" stop="20250918042000 -0300" channel="DOC-Lifetime (Z)(720)">
     <title lang="es">Sepultando el pasado</title>
   </programme>
-  <programme start="20250915231000 +0000" stop="20250916000500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Escuela selvática de orangutanes : Segundas oportunidades</title>
-    <sub-title lang="es">Segundas oportunidades</sub-title>
-    <desc lang="es">Comienzan los planes para devolver a doce orangutanes a la naturaleza. Además, los veterinarios afrontan el severo problema de desnutrición de Topan.</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/20/19201059_B7A4F3D19CC67181.jpg"/>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-  </programme>
-  <programme start="20250916000500 +0000" stop="20250916010000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nacido para la tormenta : Afuera de la oscuridad</title>
-    <sub-title lang="es">Afuera de la oscuridad</sub-title>
-    <desc lang="es">Una mirada al aullido de las tormentas de marzo mientras el invierno relaja lentamente su férreo control sobre el Atlántico norte. Una familia de nutrias juguetonas, un zorro ártico enamorado y una manada de renos que emigran para el parto.</desc>
-    <date>2020</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/83/21830700_CC2E01A799B2BADF.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20250916010000 +0000" stop="20250916015500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nacido para la tormenta : El retorno de la luz</title>
-    <sub-title lang="es">El retorno de la luz</sub-title>
-    <desc lang="es">El intenso verano del norte del Atlántico. Seguimiento a crías de zorro ártico que aprenden a cazar para sobrevivir, una cría de nutria aventurándose sola por primera vez, un frailecillo que busca pareja y unos renos que dan sus primeros pasos.</desc>
-    <date>2020</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/29/22297326_67105d478f6b6920b9cb0410f669cb26.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20250916015500 +0000" stop="20250916025000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nuevos niños en la naturaleza : Frida, la cachorra de jaguar</title>
-    <sub-title lang="es">Frida, la cachorra de jaguar</sub-title>
-    <desc lang="es">La cachorra de jaguar Frida está perfeccionando sus habilidades de supervivencia en la Reserva Caiman Lodge de Brasil.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/34/22349989_f44a54132479636451af57e52fa405be.jpg"/>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20250916025000 +0000" stop="20250916034500 +0000" channel="DOC-Love Nature (TV)(1080)">
     <title lang="es">Gladiadores : Río de la jungla</title>
     <sub-title lang="es">Río de la jungla</sub-title>
@@ -13525,6 +13437,9 @@
     <date>2022</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/34/22349991_96bc90d73d3a435422d47f3bfdac05cc.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20250916141000 +0000" stop="20250916150500 +0000" channel="DOC-Love Nature (TV)(1080)">
     <title lang="es">Mundos macro : Pradera de terror</title>
