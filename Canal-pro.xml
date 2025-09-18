@@ -12514,18 +12514,6 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.64.</episode-num>
   </programme>
-  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
-    <title lang="es">En la rueda</title>
-    <desc lang="es">Daniel Muñoz hace un recorrido al ritmo de la cueca donde conoce en profundidad sus orígenes, variaciones e influencias, además de disfrutar de las interpretaciones de los artistas más reconocidos de la escena chilena.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/55/22554440_55ca3680468d8739b61ba7cebe68935d.jpg"/>
-  </programme>
-  <programme start="20250918030000 +0000" stop="20250918040000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
-    <title lang="es">En la rueda</title>
-    <desc lang="es">Daniel Muñoz hace un recorrido al ritmo de la cueca donde conoce en profundidad sus orígenes, variaciones e influencias, además de disfrutar de las interpretaciones de los artistas más reconocidos de la escena chilena.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/55/22554440_55ca3680468d8739b61ba7cebe68935d.jpg"/>
-  </programme>
   <programme start="20250918040000 +0000" stop="20250918090000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Fuera del aire</title>
     <desc lang="es">Fin de emisión.</desc>
@@ -12543,15 +12531,15 @@
     <desc lang="es">Un sorteo digital decide qué programación se verá en el segmento sorpresa de NTV.</desc>
     <date>2022</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/36/13368991_A505CBE898A64893.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20250918103000 +0000" stop="20250918113000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Wow Lisa</title>
     <desc lang="es">Las aventuras diarias de Lisa, una ratona curiosa, en las que la creatividad y el juego son los protagonistas. Esta serie en 3D con maquetas reales aborda temas como la sostenibilidad y el cuidado del medio ambiente.</desc>
     <date>2025</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/54/21547391_8D33827DF435670F.jpg"/>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
   </programme>
   <programme start="20250918113000 +0000" stop="20250918123000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Mi perro Chocolo</title>
@@ -12702,6 +12690,9 @@
     <desc lang="es">Un sorteo digital decide qué programación se verá en el segmento sorpresa de NTV.</desc>
     <date>2022</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/36/13368991_A505CBE898A64893.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20250919103000 +0000" stop="20250919113000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Guitarra y Tambor</title>
@@ -12800,12 +12791,18 @@
     <desc lang="es">La narración oral de los cuentos y las historias más increíbles para niños y niñas.</desc>
     <date>2022</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/71/14718151_F8BA290EEEFFF63C.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20250920000000 +0000" stop="20250920010000 +0000" channel="ZCL• NTV (HD)ZCL• NTV (HD)">
     <title lang="es">Los cuenteros</title>
     <desc lang="es">La narración oral de los cuentos y las historias más increíbles para niños y niñas.</desc>
     <date>2022</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/71/14718151_F8BA290EEEFFF63C.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20250918050000 +0000" stop="20250918053000 +0000" channel="ZCL• TV+ (HD)">
     <title lang="es">Infieles</title>
@@ -15115,21 +15112,6 @@
     <desc lang="es">Manténgase informado sobre todo el acontecer local e internacional de la mano de un equipo de profesionales.</desc>
     <category lang="es">Periodístico</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_conexion-global-prime_l_l.jpg"/>
-  </programme>
-  <programme start="20250918030000 +0000" stop="20250918040000 +0000" channel="ZCL• T13 (HD)">
-    <title lang="es">Teletrece noche</title>
-    <desc lang="es">Noticias de actualidad nacionales e internacionales.</desc>
-    <date>2002</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/35/13358232_2BB5A4C7B36A89A0.jpg"/>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20250918040000 +0000" stop="20250918043000 +0000" channel="ZCL• T13 (HD)">
-    <title lang="es">Conversaciones T13</title>
-    <desc lang="es">Entrevistas con los protagonistas de las noticias. Además, análisis de contingencias nacionales e internacionales con los profesionales de T13.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/02/16025436_A98B0D6DAED37824.jpg"/>
   </programme>
   <programme start="20250918043000 +0000" stop="20250918050000 +0000" channel="ZCL• T13 (HD)">
     <title lang="es">Más 100cia</title>
@@ -41758,17 +41740,6 @@
     <desc lang="es">Divertido como barrenar un médano. Actual, como el diario de la mañana. Y bien completo, como el mejor de los menús. Así es "Top Motor", el programa curado por Pablo Epifanio que pasa por todos los segmentos sin atascarse en ninguno.</desc>
     <category lang="es">Top Motor</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-top-motor_l_l.jpg"/>
-  </programme>
-  <programme start="20250918025500 +0000" stop="20250918035000 +0000" channel="ENT | Telemundo Internacional">
-    <title lang="es">Caso cerrado : Viviendo con asesino; Violada por sí misma</title>
-    <sub-title lang="es">Viviendo con asesino; Violada por sí misma</sub-title>
-    <desc lang="es">Miriam pide la custodia de sus sobrinos, acusa al amante de su cuñada, Rosa, de matar a su hermano. Un chico se mete en la cama de Alejandra y tienen relaciones, ella pensó que era su novio.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/37/22371699_cbdd80029e5b651ca6a3964f7b73b36d.jpg"/>
-    <episode-num system="xmltv_ns">.129.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
   </programme>
   <programme start="20250918035000 +0000" stop="20250918044500 +0000" channel="ENT | Telemundo Internacional">
     <title lang="es">Caso cerrado : Secreto húmedo; Nos hicimos millonarios</title>
