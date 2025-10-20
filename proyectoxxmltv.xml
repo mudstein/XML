@@ -5729,183 +5729,6 @@
     <category lang="es">Acción</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_non-stop-sin-escalas-2014_l_l.jpg"/>
   </programme>
-  <programme start="20251020021700 +0000" stop="20251020030500 +0000" channel="TNT Novelas">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Ferit Korhan es un joven heredero mujeriego e irresponsable. Al ver su comportamiento, su abuelo Halis arregla su matrimonio con una joven adecuada.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/35/22355224_a72eca6ea8bffca5dcc307b87a09c5bb.jpg"/>
-    <episode-num system="xmltv_ns">0.119.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020030500 +0000" stop="20251020035200 +0000" channel="TNT Novelas">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Ferit Korhan es un joven heredero mujeriego e irresponsable. Al ver su comportamiento, su abuelo Halis arregla su matrimonio con una joven adecuada.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/36/22360703_3cd9e04140be91cb8ea6d42f22f17e55.jpg"/>
-    <episode-num system="xmltv_ns">0.120.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020035200 +0000" stop="20251020043900 +0000" channel="TNT Novelas">
-    <title lang="es">Bahar</title>
-    <desc lang="es">Tras evitar una experiencia cercana a la muerte, la existencia de una devota ama de casa se llena de decepciones cuando descubre un nuevo aspecto de su familia y de su cónyuge, un cirujano que parecía intachable.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/66/22666074_8abd9e3d629e475b3cf6492ee4dfa2fb.jpg"/>
-    <episode-num system="xmltv_ns">0.68.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020043900 +0000" stop="20251020052800 +0000" channel="TNT Novelas">
-    <title lang="es">Bahar</title>
-    <desc lang="es">Tras evitar una experiencia cercana a la muerte, la existencia de una devota ama de casa se llena de decepciones cuando descubre un nuevo aspecto de su familia y de su cónyuge, un cirujano que parecía intachable.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/72/22725114_fba986e4ac378f755576b7275da32e26.jpg"/>
-    <episode-num system="xmltv_ns">0.69.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020052800 +0000" stop="20251020063100 +0000" channel="TNT Novelas">
-    <title lang="es">La promesa</title>
-    <desc lang="es">Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/72/22724990_ee2b97e8dc1f532b8b5a7829aaa0c0c2.jpg"/>
-    <episode-num system="xmltv_ns">1.152.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020063100 +0000" stop="20251020073100 +0000" channel="TNT Novelas">
-    <title lang="es">La promesa</title>
-    <desc lang="es">Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/72/22724992_2749b3b2b70c8d21e01e0a911ff0ecc0.jpg"/>
-    <episode-num system="xmltv_ns">1.153.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020073100 +0000" stop="20251020083400 +0000" channel="TNT Novelas">
-    <title lang="es">La promesa</title>
-    <desc lang="es">Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/72/22724994_dd5255f81fa2b21e5542666b4a21faff.jpg"/>
-    <episode-num system="xmltv_ns">1.154.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020083400 +0000" stop="20251020093500 +0000" channel="TNT Novelas">
-    <title lang="es">La promesa</title>
-    <desc lang="es">Una mujer es recompensada con un trabajo en el Palacio La Promesa tras salvar al hijo del Marqués de Luján. Ahora, esta se prepara para fraguar lentamente una venganza.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/46/22464681_22a6b9d32e2d81bb4f50042867c1fe35.jpg"/>
-    <episode-num system="xmltv_ns">1.139.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020093500 +0000" stop="20251020102000 +0000" channel="TNT Novelas">
-    <title lang="es">Bahar</title>
-    <desc lang="es">Tras evitar una experiencia cercana a la muerte, la existencia de una devota ama de casa se llena de decepciones cuando descubre un nuevo aspecto de su familia y de su cónyuge, un cirujano que parecía intachable.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/66/22661407_fffb4ee3c0191200390e3d9eda316932.jpg"/>
-    <episode-num system="xmltv_ns">0.67.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020102000 +0000" stop="20251020111500 +0000" channel="TNT Novelas">
-    <title lang="es">Bahar</title>
-    <desc lang="es">Tras evitar una experiencia cercana a la muerte, la existencia de una devota ama de casa se llena de decepciones cuando descubre un nuevo aspecto de su familia y de su cónyuge, un cirujano que parecía intachable.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/66/22666074_8abd9e3d629e475b3cf6492ee4dfa2fb.jpg"/>
-    <episode-num system="xmltv_ns">0.68.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020111500 +0000" stop="20251020120000 +0000" channel="TNT Novelas">
-    <title lang="es">Bahar</title>
-    <desc lang="es">Tras evitar una experiencia cercana a la muerte, la existencia de una devota ama de casa se llena de decepciones cuando descubre un nuevo aspecto de su familia y de su cónyuge, un cirujano que parecía intachable.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/72/22725114_fba986e4ac378f755576b7275da32e26.jpg"/>
-    <episode-num system="xmltv_ns">0.69.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020120000 +0000" stop="20251020122000 +0000" channel="TNT Novelas">
-    <title lang="es">Yo soy Betty, la fea</title>
-    <desc lang="es">Armando agarra el costal e impide que el personal saque la basura.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22761243_6697a28afba00e55f0ee3c7a1898c1be.jpg"/>
-    <episode-num system="xmltv_ns">0.290.</episode-num>
-  </programme>
-  <programme start="20251020122000 +0000" stop="20251020124000 +0000" channel="TNT Novelas">
-    <title lang="es">Yo soy Betty, la fea</title>
-    <desc lang="es">Daniel invita a Betty a comer. Nicolás se enfrenta a Daniel para defender a Patricia.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22761245_aa15cad4fac9d7484d08f647b30c564c.jpg"/>
-    <episode-num system="xmltv_ns">0.291.</episode-num>
-  </programme>
-  <programme start="20251020124000 +0000" stop="20251020130400 +0000" channel="TNT Novelas">
-    <title lang="es">Yo soy Betty, la fea</title>
-    <desc lang="es">Betty llega con el carro nuevo a Ecomoda y reúne al cuartel en la sala de juntas para que le expliquen la conversación en el baño. Estas confiesan y Betty se dispone a contarles todo.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22766379_6c8b3eb5b4caf31013561915cb77a589.jpg"/>
-    <episode-num system="xmltv_ns">0.292.</episode-num>
-  </programme>
-  <programme start="20251020130400 +0000" stop="20251020132900 +0000" channel="TNT Novelas">
-    <title lang="es">Yo soy Betty, la fea</title>
-    <desc lang="es">Betty les revela todo al grupo y les pide a sus amigas que no digan nada.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22766381_19a2cb4422ab93f880178f6c73e4e3d4.jpg"/>
-    <episode-num system="xmltv_ns">0.293.</episode-num>
-  </programme>
-  <programme start="20251020132900 +0000" stop="20251020141800 +0000" channel="TNT Novelas">
-    <title lang="es">¿Y tú quién eres? : Pendiendo de un hilo</title>
-    <sub-title lang="es">Pendiendo de un hilo</sub-title>
-    <desc lang="es">El rescate de Cemal se complica, mientras Oyku despierta alterada por una pesadilla. Demir le explica a su hija lo que pasó con el donante, pero ella no le cree. Murat presiona a Candan.</desc>
-    <date>2020</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/72/22724877_9921aa3744cd59b7ea8c38113732f4e7.jpg"/>
-    <episode-num system="xmltv_ns">0.73.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020141800 +0000" stop="20251020150700 +0000" channel="TNT Novelas">
-    <title lang="es">¿Y tú quién eres? : Suertudo</title>
-    <sub-title lang="es">Suertudo</sub-title>
-    <desc lang="es">Candan y Oyku sorprenden a Demir con un nuevo integrante de la familia. Demir confiesa abiertamente sus sentimientos hacia Candan. Ugur llama a su amigo. Una noticia definirá la suerte de Oyku.</desc>
-    <date>2021</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765829_8330fe8622d3888328752f3d371b65f8.jpg"/>
-    <episode-num system="xmltv_ns">0.74.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020150700 +0000" stop="20251020155700 +0000" channel="TNT Novelas">
-    <title lang="es">¿Y tú quién eres? : Al quirófano</title>
-    <sub-title lang="es">Al quirófano</sub-title>
-    <desc lang="es">Demir está a la expectativa: salvar a Oyku depende de la recuperación de Cemal. Una confesión deja a Ugur libre de culpa. Al recordar las palabras de su hija, Demir evita cometer un grave error.</desc>
-    <date>2021</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765831_a1e875c1fdb8f429bb38c5da8eba369b.jpg"/>
-    <episode-num system="xmltv_ns">0.75.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020155700 +0000" stop="20251020165300 +0000" channel="TNT Novelas">
-    <title lang="es">Sueños de libertad</title>
-    <desc lang="es">Begoña le miente a Jesús sobre una llamada que recibe y este muestra otra cara por su mujer. Además, la afinidad entre Begoña y Andrés va creciendo.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/35/20356560_C27765699292E4DD.jpg"/>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20251020165300 +0000" stop="20251020174800 +0000" channel="TNT Novelas">
     <title lang="es">Sueños de libertad</title>
     <desc lang="es">Jesús le confiesa a su familia que Begoña está embarazada y ella se muestra molesta porque no lo ha confirmado. Por otro lado, Andrés anuncia su compromiso con María.</desc>
@@ -13843,156 +13666,6 @@
   <programme start="20251022024000 -0300" stop="20251022042000 -0300" channel="DOC-Lifetime (Z)(720)">
     <title lang="es">Venganza diagnosticada</title>
   </programme>
-  <programme start="20251020025000 +0000" stop="20251020034500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : Batalla por la bahía</title>
-    <sub-title lang="es">Batalla por la bahía</sub-title>
-    <desc lang="es">La matriarca de la familia Bay expulsa a los Nómadas de su territorio para siempre. Examinan la sorprendente guarida donde se instala la líder de los Townies, Mia. La familia Mangrove se hace amiga de perros callejeros.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765865_f2f2e77ea48aabdac0de661d30cc123d.jpg"/>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-  <programme start="20251020034500 +0000" stop="20251020044000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : La reina de la bahía</title>
-    <sub-title lang="es">La reina de la bahía</sub-title>
-    <desc lang="es">Ver las primeras lecciones de natación de los bebés antes de que el clan se mude a nuevas excavaciones y dar la bienvenida a una era de paz para las nutrias mientras la familia Mangrove se convierte en la principal atracción del parque.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765867_19b870341f7d0608d70089bfb3c7ca16.jpg"/>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20251020044000 +0000" stop="20251020053500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Extraño, salvaje y maravilloso</title>
-    <desc lang="es">Un viaje por África para mostrar las coloridas y únicas estrategias de supervivencia de sus animales.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22760872_2877e3e7ea5ec741d6910fccf200c6b3.jpg"/>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020053500 +0000" stop="20251020062500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : Ciudad de riquezas</title>
-    <sub-title lang="es">Ciudad de riquezas</sub-title>
-    <desc lang="es">Las diversas familias de nutrias de Singapur a medida que entran en conflicto entre sí: la familia Bay, los Townies rivales y la familia Mangrove, más aislada.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22760964_0ad8acb1f4399e7a2c826279dd7c66d4.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020062500 +0000" stop="20251020072000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : Hogar lejos del hogar</title>
-    <sub-title lang="es">Hogar lejos del hogar</sub-title>
-    <desc lang="es">Anna, la matriarca de la familia Bay, ayuda a criar a los miembros más nuevos de la comunidad. En otro lugar, una inundación en los manglares casi se lleva a un bebé, y los Townies se comen todos sus recursos.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765859_ef03938742ad9b5deef76ec37347086f.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020072000 +0000" stop="20251020081500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : Una bahía ocupada</title>
-    <sub-title lang="es">Una bahía ocupada</sub-title>
-    <desc lang="es">Surgen problemas en Marina Bay cuando los nómadas y los pueblerinos ocupan el territorio de la familia Bay mientras ellos están río arriba, pero regresan antes de tiempo.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765861_48e88fef97393ff89a9c57d93c22f018.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20251020081500 +0000" stop="20251020091000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : Tres son multitud</title>
-    <sub-title lang="es">Tres son multitud</sub-title>
-    <desc lang="es">La bienvenida de Anna al clan Marina Bay, donde dos familias de nutrias han estado invadiendo. Mia capta el olor de Anna y empuja a los Townies fuera de su alcance. Los Nomads permanecen felices, desconociendo el conflicto que se avecina.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765863_185cfc78dbc53e0ef81eb48d7cd5cf8a.jpg"/>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-  </programme>
-  <programme start="20251020091000 +0000" stop="20251020100500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : Batalla por la bahía</title>
-    <sub-title lang="es">Batalla por la bahía</sub-title>
-    <desc lang="es">La matriarca de la familia Bay expulsa a los Nómadas de su territorio para siempre. Examinan la sorprendente guarida donde se instala la líder de los Townies, Mia. La familia Mangrove se hace amiga de perros callejeros.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765865_f2f2e77ea48aabdac0de661d30cc123d.jpg"/>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-  <programme start="20251020100500 +0000" stop="20251020110000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Nutrias de la zona alta : La reina de la bahía</title>
-    <sub-title lang="es">La reina de la bahía</sub-title>
-    <desc lang="es">Ver las primeras lecciones de natación de los bebés antes de que el clan se mude a nuevas excavaciones y dar la bienvenida a una era de paz para las nutrias mientras la familia Mangrove se convierte en la principal atracción del parque.</desc>
-    <date>2022</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765867_19b870341f7d0608d70089bfb3c7ca16.jpg"/>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-  </programme>
-  <programme start="20251020110000 +0000" stop="20251020112500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Batalla de los alfas : Colores y patrones</title>
-    <sub-title lang="es">Colores y patrones</sub-title>
-    <desc lang="es">Un asiento en primera fila para ver el desfile de moda más espectacular de la naturaleza: las exuberantes melenas rubias de los monos dorados de nariz chata, las deslumbrantes plumas rosadas de los flamencos y las marcas de los guepardos.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/18/19189246_3D3C2D62285D3222.jpg"/>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20251020112500 +0000" stop="20251020122000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">En lo profundo de Norteamérica : Costas insólitas</title>
-    <sub-title lang="es">Costas insólitas</sub-title>
-    <desc lang="es">Acompaña a Lizzie en su aventura atlántica más peligrosa hasta ahora: buceo libre con tiburones toro. Explora los pantanos de la costa del Golfo que parecen de otro mundo, llenos de hambrientos caimanes.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22766215_004f29d13997fb07a95c8ab6c37406cb.jpg"/>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-  </programme>
-  <programme start="20251020122000 +0000" stop="20251020131500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">En lo profundo de Norteamérica : Mareas cambiantes</title>
-    <sub-title lang="es">Mareas cambiantes</sub-title>
-    <desc lang="es">Lizzie se dirige al norte para etiquetar tiburones y presenciar de primera mano la lenta desaparición del hielo marino. Pasa tiempo en la cárcel de osos con osos polares que son sorprendidos atacando una ciudad.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22766219_85f428cb0adeecdc0af1eceffcafbcab.jpg"/>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020131500 +0000" stop="20251020141000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Evolución de la Tierra : Tierra</title>
-    <sub-title lang="es">Tierra</sub-title>
-    <desc lang="es">Historias de cómo los animales reaccionan a los extremos de la Tierra. Desde ballenas jorobadas hasta pequeñas mariposas y chimpancés de la sabana.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22761089_6618616863f03696b3eb032ea6950542.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020141000 +0000" stop="20251020150500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Bestias del Gran Azul : La cima del sur; Te Tau Ihu</title>
-    <sub-title lang="es">La cima del sur; Te Tau Ihu</sub-title>
-    <desc lang="es">Se descubre una tierra de opuestos en la cima de la Isla Sur de Nueva Zelanda, donde un banco de arena atrae a las aves aguja colipinta y a las ballenas piloto. También hay manjares para los delfines oscuros y los lobos marinos de Nueva Zelanda.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765669_3a0f658422cd22975ef1b87d656536e3.jpg"/>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020150500 +0000" stop="20251020160000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Bestias del Gran Azul : El golfo de Hauraki; Te Moananui a Toi</title>
-    <sub-title lang="es">El golfo de Hauraki; Te Moananui a Toi</sub-title>
-    <desc lang="es">En las aguas profundas del Golfo de Hauraki se puede nadar junto a sigilosas mantarrayas, delfines y un caleidoscopio de peces tropicales.</desc>
-    <date>2023</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765671_11a16437aee469f24b3966574c8137f1.jpg"/>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251020160000 +0000" stop="20251020165000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Sobreviviendo al Amazonas : Jóvenes de la selva</title>
-    <sub-title lang="es">Jóvenes de la selva</sub-title>
-    <desc lang="es">Los monos jóvenes de la Isla de los Monos son víctimas del comercio ilegal y la caza furtiva. Ahora, reciben una segunda oportunidad.</desc>
-    <date>2019</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/76/22765833_787f654cefd04beee9ade5d47921890b.jpg"/>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20251020165000 +0000" stop="20251020174000 +0000" channel="DOC-Love Nature (TV)(1080)">
     <title lang="es">Los misterios del Mekong : Laos: Vida silvestre de montaña</title>
     <sub-title lang="es">Laos: Vida silvestre de montaña</sub-title>
@@ -15019,13 +14692,13 @@
   </programme>
   <programme start="20251020003000 +0000" stop="20251020033000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020033000 +0000" stop="20251020050000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -15037,49 +14710,49 @@
   </programme>
   <programme start="20251020063000 +0000" stop="20251020080000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020080000 +0000" stop="20251020093000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020093000 +0000" stop="20251020110000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020110000 +0000" stop="20251020123000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020123000 +0000" stop="20251020140000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020140000 +0000" stop="20251020150000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020150000 +0000" stop="20251020170000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251020170000 +0000" stop="20251020185000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -15097,7 +14770,7 @@
   </programme>
   <programme start="20251020230000 +0000" stop="20251021000000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -15115,37 +14788,37 @@
   </programme>
   <programme start="20251021030000 +0000" stop="20251021040000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021040000 +0000" stop="20251021050000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021050000 +0000" stop="20251021060000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021060000 +0000" stop="20251021070000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021070000 +0000" stop="20251021080000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021080000 +0000" stop="20251021090000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -15163,25 +14836,25 @@
   </programme>
   <programme start="20251021120000 +0000" stop="20251021130000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021130000 +0000" stop="20251021140000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021140000 +0000" stop="20251021150000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251021150000 +0000" stop="20251021163000 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -15205,7 +14878,7 @@
   </programme>
   <programme start="20251021230000 +0000" stop="20251022001500 +0000" channel="[CL] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Repaso de la actualidad deportiva del país, además del presente de los diferentes clubes, analizando la coyuntura actual de la Selección Chilena y el estado de los jugadores de fútbol chilenos en el ámbito internacional.</desc>
+    <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/cl_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
