@@ -757,8 +757,8 @@
   </channel>
   <channel id="C/S• HBO POP (HD) »1«">
     <display-name lang="es">C/S• HBO POP (HD) »1«</display-name>
-    <display-name lang="es">&gt;C/S• HBO POP (HD) »2«</display-name>
-    <display-name lang="es">&gt;C/S• HBO POP (HD) »3«</display-name>
+    <display-name lang="es">C/S• HBO POP (HD) »2«</display-name>
+    <display-name lang="es">C/S• HBO POP (HD) »3«</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/cl_max-up_m.png"/>
   </channel>
   <channel id="C/S• HBO SIGNATURE (HD) »1«">
@@ -13838,6 +13838,9 @@
     <desc lang="es">Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.</desc>
     <date>2023</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/68/17687576_2C19195299BB8826.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20251130230000 +0000" stop="20251130235000 +0000" channel="ZCL• T13 (HD)">
     <title lang="es">Conversaciones T13</title>
@@ -14029,6 +14032,9 @@
     <desc lang="es">Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.</desc>
     <date>2023</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/68/17687576_2C19195299BB8826.jpg"/>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20251202000000 +0000" stop="20251202014500 +0000" channel="ZCL• T13 (HD)">
     <title lang="es">Teletrece central</title>
@@ -26150,6 +26156,104 @@
     <desc lang="es">Tupac Guantay inicia su viaje gastronómico por la mítica Ruta 40. Comienza su recorrido en La Quiaca, Jujuy, y luego visita Yavi para conocer los secretos de la kalapurca y los alfajores yaveños.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
+  </programme>
+  <programme start="20251129180000 -0300" stop="20251129183000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
+    <title lang="es">Atlas, Guardianes Del Fútbol</title>
+    <desc lang="es">El 2024 no fue el esperado para el Marrón. Los malos resultados hacían indicar un fin de ciclo. Sin embargo, la resignación para el equipo de General Rodríguez no es una opción y en 2025 volverá a buscar el ansiado sueño de ascender a Primera B.</desc>
+    <category lang="es">Audio</category>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tipos de Programas</category>
+    <category lang="es">Formato Panorámico</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20251129183000 -0300" stop="20251129203000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
+    <title lang="es">Barcelona vs. Deportivo Alavés : Fútbol LaLiga - Barcelona vs. Deportivo Alavés</title>
+    <desc lang="es">Jornada 14 de la temporada 2025-2026 de LaLiga. Desde el Estadio Olímpico Lluís Companys. El Barça busca mantener su posición en la cima. Alavés necesita desesperadamente sumar para alejarse de la zona de peligro.</desc>
+    <category lang="es">Audio</category>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tipos de Programas</category>
+    <category lang="es">Formato Panorámico</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20251129203000 -0300" stop="20251129210000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
+    <title lang="es">DSPORTS Historias : Diego Maradona: Me verás volver - Diego Maradona: Me verás volver</title>
+    <desc lang="es">T01 | E122 Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos. Temporada:01,Episodio:122</desc>
+    <category lang="es">Audio</category>
+    <category lang="es">Tipos de Programas</category>
+    <category lang="es">Formato Panorámico</category>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20251129210000 -0300" stop="20251129220000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
+    <title lang="es">D Selección</title>
+    <desc lang="es">Sergio Goycochea y el mejor equipo de cronistas en la región te informan sobre el presente de cada combinado nacional, las figuras de hoy y siempre, y todo lo relacionado con cada equipo.</desc>
+    <category lang="es">Audio</category>
+    <category lang="es">Deportes</category>
+    <category lang="es">Tipos de Programas</category>
+    <category lang="es">Formato Panorámico</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">Primera vez</category>
+    <category lang="es">Series</category>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20251129220000 -0300" stop="20251129223000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
+    <title lang="es">DSPORTS Historias : Acertijos en el fútbol - Acertijos en el fútbol</title>
+    <desc lang="es">T01 | E101 Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos. Temporada:01,Episodio:101</desc>
+    <category lang="es">Audio</category>
+    <category lang="es">Tipos de Programas</category>
+    <category lang="es">Formato Panorámico</category>
+    <category lang="es">Pepetición</category>
+    <category lang="es">Series</category>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20251129223000 -0300" stop="20251129233000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
+    <title lang="es">DSPORTS Noticias</title>
+    <desc lang="es">El noticiero más completo de la región con toda la actualidad deportiva y las novedades más importantes.</desc>
+    <category lang="es">Live</category>
+    <category lang="es">Audio</category>
+    <category lang="es">Tipos de Programas</category>
+    <category lang="es">En Vivo</category>
+    <category lang="es">Formato Panorámico</category>
+    <category lang="es">Primera vez</category>
+    <category lang="es">Series</category>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
   </programme>
   <programme start="20251129233000 -0300" stop="20251130003000 -0300" channel="ZCL• DIRECTV SPORTS (HD">
     <title lang="es">D Selección</title>
@@ -39860,17 +39964,6 @@
     <category lang="es">Retromobile</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-retromobile_l_l.jpg"/>
   </programme>
-  <programme start="20251130015500 +0000" stop="20251130025000 +0000" channel="ENT | Telemundo Internacional">
-    <title lang="es">Caso cerrado : Su condición es otra; Enjaulados</title>
-    <sub-title lang="es">Su condición es otra; Enjaulados</sub-title>
-    <desc lang="es">Su hijo padece una discapacidad mental que provoca problemas de comportamiento, llamada X frágil, la madre lo sobreprotege. Por publicidad, encierran a un niño vestido de mexicano en una jaula.</desc>
-    <date>2019</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/95/22953523_687fc2d365e9ee5b4b1b089282ba4c46.jpg"/>
-    <episode-num system="xmltv_ns">.144.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20251130025000 +0000" stop="20251130034500 +0000" channel="ENT | Telemundo Internacional">
     <title lang="es">Caso cerrado : Preñada en coma; El enredo de las maletas</title>
     <sub-title lang="es">Preñada en coma; El enredo de las maletas</sub-title>
@@ -40075,6 +40168,9 @@
     <date>2025</date>
     <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/71/22713977_e980fca2088a73186ec44aabe3b2d537.jpg"/>
     <episode-num system="xmltv_ns">0.84.</episode-num>
+    <rating system="CCC">
+      <value>+14</value>
+    </rating>
   </programme>
   <programme start="20251130202500 +0000" stop="20251130212000 +0000" channel="ENT | Telemundo Internacional">
     <title lang="es">Historias de la Virgen morena : La bondad que hay en tus actos</title>
