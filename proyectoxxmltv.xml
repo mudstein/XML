@@ -2599,7 +2599,7 @@
   </programme>
   <programme start="20251207181700 +0100" stop="20251207185300 +0100" channel="[CL] HBO Pop">
     <title lang="es">La silla</title>
-    <sub-title lang="es">Minnie Mouse Coming Back Wasn't on My Bingo Card.</sub-title>
+    <sub-title lang="es">Minnie Mouse Coming Back Wasn't on My Bingo Card</sub-title>
     <desc lang="es">Ron se enfrenta a las consecuencias de su decisión.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
@@ -2707,7 +2707,7 @@
   </programme>
   <programme start="20251208145000 +0100" stop="20251208152000 +0100" channel="[CL] HBO Pop">
     <title lang="es">Sólo en Florida</title>
-    <sub-title lang="es">Pizza Man</sub-title>
+    <sub-title lang="es">Hombre Pizza</sub-title>
     <desc lang="es">Tras una fiesta intensa, un hombre de Pensacola termina casi desnudo en una pizzería de cadena.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
@@ -2784,7 +2784,7 @@
   </programme>
   <programme start="20251207040300 +0100" stop="20251207044200 +0100" channel="[CL] HBO Signature">
     <title lang="es">La silla</title>
-    <sub-title lang="es">Minnie Mouse Coming Back Wasn't on My Bingo Card.</sub-title>
+    <sub-title lang="es">Minnie Mouse Coming Back Wasn't on My Bingo Card</sub-title>
     <desc lang="es">Ron se enfrenta a las consecuencias de su decisión.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.7.</episode-num>
@@ -2798,7 +2798,7 @@
   </programme>
   <programme start="20251207051900 +0100" stop="20251207054800 +0100" channel="[CL] HBO Signature">
     <title lang="es">Sólo en Florida</title>
-    <sub-title lang="es">Pizza Man</sub-title>
+    <sub-title lang="es">Hombre Pizza</sub-title>
     <desc lang="es">Tras una fiesta intensa, un hombre de Pensacola termina casi desnudo en una pizzería de cadena.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
@@ -5550,165 +5550,6 @@
       <value>6.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20251207034600 +0000" stop="20251207043300 +0000" channel="TNT Novelas">
-    <title lang="es">Aile : The Perfect Answer</title>
-    <sub-title lang="es">The Perfect Answer</sub-title>
-    <desc lang="es">Al cambiar el plan, Aslan busca desviar las sospechas de Ilyas, alguien más cargará con la culpa. Hulya duda de Ibrahim y tiene razón, es hora de actuar. Devin se siente una más de la familia.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002524_440eeb560220e849685857172cc047da.jpg"/>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207043300 +0000" stop="20251207051900 +0000" channel="TNT Novelas">
-    <title lang="es">Aile</title>
-    <desc lang="es">Aslan descubre quién le dio las pastillas a su hermana y no lo dejará pasar. Devin desafía a su suegra, nada la separará del hombre que ama, porque ella ya es una Soykan. Yagmur busca ayuda.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002525_cd9e3974f44249dd495bd84f142ff62e.jpg"/>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207051900 +0000" stop="20251207060800 +0000" channel="TNT Novelas">
-    <title lang="es">Aile</title>
-    <desc lang="es">Devin intenta evitar que la saquen del camino, pero termina frente a frente con el enemigo. Aslan confiesa e Ilyas promete que correrá sangre. Con un video, Hulya deja devastada a su nuera.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002527_131c11539fd0a0575718ab74c9dd2af5.jpg"/>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207060800 +0000" stop="20251207065700 +0000" channel="TNT Novelas">
-    <title lang="es">Aile</title>
-    <desc lang="es">Agobiada por la culpa, Yagmur toma una muy mala decisión, Ekrem interviene. Ilyas le da un ultimátum a Hulya, debe elegir a uno de sus hijos. Cihan comparte las buenas nuevas con la familia.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002529_4c2ec3ebb21a79a7076b424bcf671fcf.jpg"/>
-    <episode-num system="xmltv_ns">0.23.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207065700 +0000" stop="20251207074600 +0000" channel="TNT Novelas">
-    <title lang="es">Aile : Exchange</title>
-    <sub-title lang="es">Exchange</sub-title>
-    <desc lang="es">Ibrahim le da algo a su cuñada a cambio de recuperar su lugar en la mesa familiar. Devin amenaza con contar la verdad, Aslan interviene. La policía se marcha de la granja con las manos vacías.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002531_35e2119d9df0a80816505fc035d5bcbe.jpg"/>
-    <episode-num system="xmltv_ns">0.24.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207074600 +0000" stop="20251207083200 +0000" channel="TNT Novelas">
-    <title lang="es">Fuerza de mujer</title>
-    <desc lang="es">Convencida de que Sarp está vivo, Bahar discute con Sirin y ella toma una dura decisión.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/70/18706127_8CE47FFB3898B976.jpg"/>
-    <episode-num system="xmltv_ns">0.45.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207083200 +0000" stop="20251207094900 +0000" channel="TNT Novelas">
-    <title lang="es">Fuerza de mujer : Mentiras y chantajes</title>
-    <sub-title lang="es">Mentiras y chantajes</sub-title>
-    <desc lang="es">Sirin regresa a su casa fingiendo que sufrió un violento asalto.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/56/18561169_93AEFC5CBE222D1B.jpg"/>
-    <episode-num system="xmltv_ns">0.46.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207094900 +0000" stop="20251207103100 +0000" channel="TNT Novelas">
-    <title lang="es">Fuerza de mujer</title>
-    <desc lang="es">Sirin sigue molestando a Bahar por su presencia.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/70/18706133_89CF97969A7ED8F9.jpg"/>
-    <episode-num system="xmltv_ns">0.47.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207103100 +0000" stop="20251207111400 +0000" channel="TNT Novelas">
-    <title lang="es">Fuerza de mujer</title>
-    <desc lang="es">Hikmet se entera de la verdad sobre la lesión de Sirin y le cuenta todo a Enver.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/28/21286181_3040510A3C948D65.jpg"/>
-    <episode-num system="xmltv_ns">0.48.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207111400 +0000" stop="20251207120000 +0000" channel="TNT Novelas">
-    <title lang="es">Fuerza de mujer</title>
-    <desc lang="es">Mientras Hatice cambia su decisión con respecto a Bahar, Enver finalmente consigue enfrentarse a Sirin.</desc>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/29/21290332_32A4CC840CCDE69E.jpg"/>
-    <episode-num system="xmltv_ns">0.49.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207120000 +0000" stop="20251207130200 +0000" channel="TNT Novelas">
-    <title lang="es">W: Two Worlds Apart</title>
-    <desc lang="es">Oh Yeon Joo es una doctora residente de segundo año. Su padre, un famoso creador de cómics, desaparece súbitamente. Luego ella es secuestrada por un hombre extraño, que la transporta a una nueva dimensión.</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/06/23063551_4de9ac6ff02c0c354907707bf2c4cce8.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207130200 +0000" stop="20251207142300 +0000" channel="TNT Novelas">
-    <title lang="es">W: Two Worlds Apart</title>
-    <desc lang="es">Oh Yeon Joo es una doctora residente de segundo año. Su padre, un famoso creador de cómics, desaparece súbitamente. Luego ella es secuestrada por un hombre extraño, que la transporta a una nueva dimensión.</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/06/23063553_eaeb6e68fc52c0a43a13c4b3fe368272.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207142300 +0000" stop="20251207152500 +0000" channel="TNT Novelas">
-    <title lang="es">W: Two Worlds Apart</title>
-    <desc lang="es">Oh Yeon Joo es una doctora residente de segundo año. Su padre, un famoso creador de cómics, desaparece súbitamente. Luego ella es secuestrada por un hombre extraño, que la transporta a una nueva dimensión.</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/06/23063555_0eac0ac7d99c309240a2dfd13f751678.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207152500 +0000" stop="20251207163300 +0000" channel="TNT Novelas">
-    <title lang="es">W: Two Worlds Apart</title>
-    <desc lang="es">Oh Yeon Joo es una doctora residente de segundo año. Su padre, un famoso creador de cómics, desaparece súbitamente. Luego ella es secuestrada por un hombre extraño, que la transporta a una nueva dimensión.</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/06/23063557_e68e4999ad77645b129b769260c1f2f5.jpg"/>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207163300 +0000" stop="20251207172400 +0000" channel="TNT Novelas">
-    <title lang="es">Aile : The Perfect Answer</title>
-    <sub-title lang="es">The Perfect Answer</sub-title>
-    <desc lang="es">Al cambiar el plan, Aslan busca desviar las sospechas de Ilyas, alguien más cargará con la culpa. Hulya duda de Ibrahim y tiene razón, es hora de actuar. Devin se siente una más de la familia.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002524_440eeb560220e849685857172cc047da.jpg"/>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207172400 +0000" stop="20251207181500 +0000" channel="TNT Novelas">
-    <title lang="es">Aile</title>
-    <desc lang="es">Aslan descubre quién le dio las pastillas a su hermana y no lo dejará pasar. Devin desafía a su suegra, nada la separará del hombre que ama, porque ella ya es una Soykan. Yagmur busca ayuda.</desc>
-    <date>2024</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23002525_cd9e3974f44249dd495bd84f142ff62e.jpg"/>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20251207181500 +0000" stop="20251207191000 +0000" channel="TNT Novelas">
     <title lang="es">Aile</title>
     <desc lang="es">Devin intenta evitar que la saquen del camino, pero termina frente a frente con el enemigo. Aslan confiesa e Ilyas promete que correrá sangre. Con un video, Hulya deja devastada a su nuera.</desc>
@@ -6719,14 +6560,14 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20251207134000 +0100" stop="20251207143000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207134000 +0100" stop="20251207143200 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Criaturas misteriosas</title>
     <sub-title lang="es">Viene durante la noche</sub-title>
     <desc lang="es">Forrest va a Mozambique a buscar un elefante toro que estuvo destruyendo pueblos locales. Cuando encuentra una manada de elefantes, la investigación deviene en uno de los rescates más importantes y desafiantes que ha llevado adelante.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.4.</episode-num>
   </programme>
-  <programme start="20251207143000 +0100" stop="20251207150000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207143200 +0100" stop="20251207150000 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Pequeños gigantes de la naturaleza</title>
     <sub-title lang="es">Anfíbio alienígena</sub-title>
     <desc lang="es">En la selva de Madagascar, Bradley y Billy descubren una criatura única, la rana tomate. En su laboratorio móvil, descubren las increíbles habilidades de esta rana, desde su toxicidad hasta su cuerpo que se infla solo.</desc>
@@ -6754,27 +6595,27 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20251207165000 +0100" stop="20251207174000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207165000 +0100" stop="20251207174200 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Perdido entre gorilas</title>
     <desc lang="es">Frank llega a Bangui. Aquí evalúa la situación en África Central. Luego, busca gorilas en la selva, donde hay peligrosos cazadores furtivos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20251207174000 +0100" stop="20251207183000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207174200 +0100" stop="20251207183200 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">El zoológico del Bronx</title>
     <sub-title lang="es">La danza de la jirafa</sub-title>
     <desc lang="es">Cuando Kip, el langur plateado, se enferma, hay que cuidarlo. Cora, la grulla cuelliblanca, es reubicada y presentada a su posible pareja. Las jirafas Jigsaw y Zizi, se preparan para tener cría. El miniburro Big Man recibe un nuevo juguete.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_el-zoologico-del-bronx-s05e05-cerdito-misterioso_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.4.</episode-num>
   </programme>
-  <programme start="20251207183000 +0100" stop="20251207192000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207183200 +0100" stop="20251207192200 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">El acuario</title>
     <sub-title lang="es">La sorpresa de Big Momma</sub-title>
     <desc lang="es">Un león marino llamado Finn tiene problemas en el estómago y el equipo le da un refrigerio que va a ayudar a descubrir la causa. El dúo de boas, Ripley y Ridley reciben una casa nueva.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_el-acuario-s02e05-la-sorpresa-de-big-momma_l_l.jpg"/>
     <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  <programme start="20251207192000 +0100" stop="20251207201000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207192200 +0100" stop="20251207201000 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">El acuario</title>
     <sub-title lang="es">Maggie la magnífica</sub-title>
     <desc lang="es">Llega al acuario tecnología de California para monitorear la actividad de una ballena beluga. El entrenamiento de Maggie, la nutria enana, hace efecto. Además le hacen un chequeo a Morty, la estrella marina.</desc>
@@ -6802,14 +6643,14 @@
     <icon src="https://cdn.mitvstatic.com/programs/mx_los-irwin-s01e09-la-carrera-para-salvar-a-los-ornitorrincos_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
-  <programme start="20251207224000 +0100" stop="20251207233000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207224000 +0100" stop="20251207232900 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Los Irwin</title>
     <sub-title lang="es">La primera cita de la tortuga</sub-title>
     <desc lang="es">En el zoológico de Australia, Terri ayuda a determinar si Caballe, una rinoceronte, está preñada. Mientras tanto, Robert intenta unir a dos tortugas: Coconut y Goliath. Bindi conoce a unos lémures recién llegados.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_los-irwin-s01e13-bindi-y-las-nutrias_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.12.</episode-num>
   </programme>
-  <programme start="20251207233000 +0100" stop="20251208002000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251207232900 +0100" stop="20251208002000 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Un vínculo especial</title>
     <sub-title lang="es">Viaje con la cabra</sub-title>
     <desc lang="es">Cate y Chad Battles viven con su cabra Frankie, en una casa rodante. Cuando comienza el verano, emprenden un viaje para visitar una conferencia de cabras, explorar la naturaleza y planean esparcir las cenizas de la mejor amiga de Frankie.</desc>
@@ -6823,14 +6664,14 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.2.</episode-num>
   </programme>
-  <programme start="20251208011000 +0100" stop="20251208020000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251208011000 +0100" stop="20251208020200 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">Un vínculo especial</title>
     <sub-title lang="es">Un invitado salvaje</sub-title>
     <desc lang="es">En un santuario en Sudáfrica, Desmond y Elizke Gouws preparan a unos guepardos rescatados para regresar a la naturaleza. Antes de que Kiki, pueda ser liberado, ella y sus cachorros, deben demostrar su habilidad para cazar.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.3.</episode-num>
   </programme>
-  <programme start="20251208020000 +0100" stop="20251208025000 +0100" channel="DOC-Animal Planet (L)(1080)">
+  <programme start="20251208020200 +0100" stop="20251208025000 +0100" channel="DOC-Animal Planet (L)(1080)">
     <title lang="es">El genio de las piscinas</title>
     <sub-title lang="es">Jardín de agua japonés</sub-title>
     <desc lang="es">Una familia de California quiere que Anthony construya un paraíso vacacional estilo japonés en su jardín, pero una cisterna y el clima lluvioso amenazan el proyecto.</desc>
@@ -8312,77 +8153,77 @@
     <icon src="https://cdn.mitvstatic.com/programs/gt_dra-sandra-lee-especialista-en-piel-s05e11-protuberancias-del-demonio_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.10.</episode-num>
   </programme>
-  <programme start="20251207110000 +0100" stop="20251207115500 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207110000 +0100" stop="20251207115300 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Corrige mi cirugía</title>
     <sub-title lang="es">Holy Moly</sub-title>
     <desc lang="es">No sólo un hoyo en uno, sino un hoyo en seis. La fallida extracción de la banda abdominal de AliceJean la dejó con seis ombligos que forman un campo de golf en su estómago. Mientras tanto, Simone busca ayuda para sus vómitos incontrolables.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20251207115500 +0100" stop="20251207133400 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207115300 +0100" stop="20251207133200 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales: sus vidas hoy</title>
     <sub-title lang="es">Tamy y Karina</sub-title>
     <desc lang="es">Tamy se enfrenta a una difícil elección cuando su marido la quiere de vuelta pero sólo si se aleja de Houston y del programa del Dr. Now. La pérdida de peso de Karina comienza a disminuir, pero ella encuentra la felicidad con un chico.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/gt_kilos-mortales-sus-vidas-hoy-s05e08-david-benji-y-erica_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.7.</episode-num>
   </programme>
-  <programme start="20251207133400 +0100" stop="20251207151200 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207133200 +0100" stop="20251207151000 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales: sus vidas hoy</title>
     <sub-title lang="es">David, Benji y Erica</sub-title>
     <desc lang="es">En el tercer año, Erica está teniendo éxito en su pérdida de peso pero desgracia romántica frena su progreso. Benji debe alcanzar su peso objetivo y afrontar sus problemas sin el apoyo de su hermano David.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/gt_kilos-mortales-sus-vidas-hoy-s06e00-jeanne-y-brandon_l_l.jpg"/>
     <episode-num system="xmltv_ns">5..</episode-num>
   </programme>
-  <programme start="20251207151200 +0100" stop="20251207165300 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207151000 +0100" stop="20251207165100 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales: sus vidas hoy</title>
     <sub-title lang="es">Alicia y Pauline</sub-title>
     <desc lang="es">La relación de Alicia con su novio está bajo el microscopio en el segundo año de pérdida de peso. Y ahora en su cuarto año, Pauline debe rogar para volver al programa después de haber dejado de fumar cuando su último pesaje no salió bien.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/gt_kilos-mortales-sus-vidas-hoy-s05e09-alicia-y-pauline_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.8.</episode-num>
   </programme>
-  <programme start="20251207165300 +0100" stop="20251207183500 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207165100 +0100" stop="20251207183400 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales</title>
     <sub-title lang="es">La historia de Syreeta</sub-title>
     <desc lang="es">Syreeta no confía en nadie pero se ha vuelto tan grande que necesita ayuda desesperadamente. Está aprendiendo a bajar la guardia por su esposo, pero la cirugía para perder peso será difícil si no puede aprender a confiar en el cirujano.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/gt_kilos-mortales-s11e04-la-historia-de-syreeta_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.3.</episode-num>
   </programme>
-  <programme start="20251207183500 +0100" stop="20251207201600 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207183400 +0100" stop="20251207201500 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales</title>
     <sub-title lang="es">La historia de Mark</sub-title>
     <desc lang="es">Mark se propone un objetivo para la cirugía, pero a medida que pierde peso, rechaza el consejo médico y decide hacerlo por su cuenta.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/gt_kilos-mortales-s11e05-la-historia-de-mark_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.4.</episode-num>
   </programme>
-  <programme start="20251207201600 +0100" stop="20251207215600 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207201500 +0100" stop="20251207215400 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales</title>
     <sub-title lang="es">La historia de Stephanie</sub-title>
     <desc lang="es">Con su peso que sigue aumentando, Stephanie necesita la ayuda de su madre para cuidar a sus tres hijos. Ahora, está en el punto en el que tendrá que perder peso o arriesgarse a no tener la oportunidad de ver crecer a sus hijos.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/gt_kilos-mortales-s11e06-la-historia-de-stephanie_l_l.jpg"/>
     <episode-num system="xmltv_ns">10.5.</episode-num>
   </programme>
-  <programme start="20251207215600 +0100" stop="20251207224800 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207215400 +0100" stop="20251207224600 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Corrige mi cirugía</title>
     <sub-title lang="es">Deja de decir tonterías</sub-title>
     <desc lang="es">La pesadilla de Sean sigue haciéndose realidad: no puede dejar de defecar en el escenario y le pide ayuda al Dr. Hodges. Latoya quiere volver a pasar tiempo con sus hijos, lo que significa que la masa entre sus piernas debe desparecer.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20251207224800 +0100" stop="20251207234000 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207224600 +0100" stop="20251207233900 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Corrige mi cirugía</title>
     <sub-title lang="es">Holy Moly</sub-title>
     <desc lang="es">No sólo un hoyo en uno, sino un hoyo en seis. La fallida extracción de la banda abdominal de AliceJean la dejó con seis ombligos que forman un campo de golf en su estómago. Mientras tanto, Simone busca ayuda para sus vómitos incontrolables.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.1.</episode-num>
   </programme>
-  <programme start="20251207234000 +0100" stop="20251208003100 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251207233900 +0100" stop="20251208003000 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales: Roomies</title>
     <sub-title lang="es">El ataque de los bocadillos</sub-title>
     <desc lang="es">Jaz y Nesha, las mejores amigas de California, no son las típicas compañeras de piso. Con un peso combinado de 450 kilos, tienen una personalidad fuerte y un entusiasmo aún mayor por la vida pero, por su peso, sus vidas están en juego.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.0.</episode-num>
   </programme>
-  <programme start="20251208003100 +0100" stop="20251208013000 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
+  <programme start="20251208003000 +0100" stop="20251208013000 +0100" channel="DOC-Discovery Home &amp; Health (M)(1080)">
     <title lang="es">Kilos mortales: Brasil</title>
     <sub-title lang="es">Vanessa</sub-title>
     <desc lang="es">Vanessa es madre de cinco hijos y la obesidad dificulta sus tareas diarias. Cuando el médico dice que es una bomba de tiempo a punto de explotar, Vanessa decide cambiar su estilo de vida.</desc>
@@ -8666,14 +8507,14 @@
     <category lang="es">Documental</category>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_l.jpg"/>
   </programme>
-  <programme start="20251207102900 +0100" stop="20251207111300 +0100" channel="DOC-Discovery ID (Z)">
+  <programme start="20251207102900 +0100" stop="20251207111200 +0100" channel="DOC-Discovery ID (Z)">
     <title lang="es">El curioso caso de Natalia Grace</title>
     <sub-title lang="es">El rescate</sub-title>
     <desc lang="es">Natalia escapa de sus manipuladores padres, Cynthia y Antwon, pero su control sobre ella sigue siendo fuerte. Nicole teme que, a pesar de la fuga, Natalia pueda volver al redil de los Mans.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
-  <programme start="20251207111300 +0100" stop="20251207120000 +0100" channel="DOC-Discovery ID (Z)">
+  <programme start="20251207111200 +0100" stop="20251207120000 +0100" channel="DOC-Discovery ID (Z)">
     <title lang="es">Revista People investiga: sobreviviendo al asesino</title>
     <sub-title lang="es">Sobreviviendo al asesino casanova</sub-title>
     <desc lang="es">Una madre vuelve a casa y descubre que un asesino en serie tiene secuestrada a su hermana discapacitada. Luego él intenta secuestrar a su hijo, pero le suplica que se la lleve a ella. Para sobrevivir, debe conseguir que se enamore de ella.</desc>
@@ -8687,19 +8528,12 @@
     <icon src="https://cdn.mitvstatic.com/programs/mx_victimas-del-amor-s03e02-el-libro-de-james_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
-  <programme start="20251207124800 +0100" stop="20251207133700 +0100" channel="DOC-Discovery ID (Z)">
+  <programme start="20251207124800 +0100" stop="20251207142700 +0100" channel="DOC-Discovery ID (Z)">
     <title lang="es">Asesinatos en el campo de juego</title>
     <sub-title lang="es">Aplausos robados</sub-title>
     <desc lang="es">La joven Alicia DeBolt desaparece poco después de formar parte del equipo de porristas. La policía interroga a los miembros del equipo de fútbol y a las porristas, pero la verdad detrás de este misterio es más siniestra de lo que creen.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">2.5.</episode-num>
-  </programme>
-  <programme start="20251207133700 +0100" stop="20251207142700 +0100" channel="DOC-Discovery ID (Z)">
-    <title lang="es">Asesinatos en el campo de juego</title>
-    <sub-title lang="es">Asesinato de bienvenida</sub-title>
-    <desc lang="es">La familia de una porrista la encuentra asesinada en su habitación la noche después del baile de bienvenida.</desc>
-    <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
   </programme>
   <programme start="20251207142700 +0100" stop="20251207151600 +0100" channel="DOC-Discovery ID (Z)">
     <title lang="es">La casa del mal</title>
@@ -8792,14 +8626,14 @@
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">9.6.</episode-num>
   </programme>
-  <programme start="20251208005000 +0100" stop="20251208011500 +0100" channel="DOC-Discovery ID (Z)">
+  <programme start="20251208005000 +0100" stop="20251208011600 +0100" channel="DOC-Discovery ID (Z)">
     <title lang="es">Rasgos de un psicópata</title>
     <sub-title lang="es">Es para que ustedes lo encuentren</sub-title>
     <desc lang="es">Asesinan a tiros a un padre, una madre y dos hijos adolescentes en su casa en un suburbio de Baltimore, y los investigadores se dan cuenta de que no se trata de un robo, sino de la ejecución de una familia llevada a cabo por un psicópata.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_l.jpg"/>
     <episode-num system="xmltv_ns">4.13.</episode-num>
   </programme>
-  <programme start="20251208011500 +0100" stop="20251208020600 +0100" channel="DOC-Discovery ID (Z)">
+  <programme start="20251208011600 +0100" stop="20251208020600 +0100" channel="DOC-Discovery ID (Z)">
     <title lang="es">Un asesino entre amigos</title>
     <sub-title lang="es">Tus sonrisas y tus mentiras</sub-title>
     <desc lang="es">Asesinan a una actriz, que era la estrella que interpretaba la obra de teatro: El violinista sobre el tejado, al día siguiente de una fiesta del elenco artistico.</desc>
@@ -10667,14 +10501,14 @@
     <icon src="https://cdn.mitvstatic.com/programs/cl_adrenalina-extrema-s01e10-en-el-ala-del-avion_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.9.</episode-num>
   </programme>
-  <programme start="20251208143600 +0100" stop="20251208150000 +0100" channel="DOC-Discovery World (L)(1080)">
+  <programme start="20251208143600 +0100" stop="20251208150100 +0100" channel="DOC-Discovery World (L)(1080)">
     <title lang="es">Adrenalina extrema</title>
     <sub-title lang="es">Cañón sudafricano</sub-title>
     <desc lang="es">Sumérjase 160 metros en un cañón de Sudáfrica a 120 kilómetros por hora.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/cl_adrenalina-extrema-s01e11-canon-sudafricano_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.10.</episode-num>
   </programme>
-  <programme start="20251208150000 +0100" stop="20251208152400 +0100" channel="DOC-Discovery World (L)(1080)">
+  <programme start="20251208150100 +0100" stop="20251208152400 +0100" channel="DOC-Discovery World (L)(1080)">
     <title lang="es">Hogares de vacaciones increíbles</title>
     <sub-title lang="es">Miami, Barbados, Los Hamptons y Laguna Beach</sub-title>
     <desc lang="es">Explore un castillo con una fosa en Miami y un escondite en Los Hamptons.</desc>
@@ -13343,183 +13177,6 @@
   <programme start="20251209024000 -0300" stop="20251209042000 -0300" channel="DOC-Lifetime (Z)(720)">
     <title lang="es">Hotel Navidad</title>
   </programme>
-  <programme start="20251207034500 +0000" stop="20251207044000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">La supervivencia de la bestia : Orangután</title>
-    <sub-title lang="es">Orangután</sub-title>
-    <desc lang="es">El arte de construir nidos con el maestro constructor de la selva: el orangután. Shadow Max intenta escapar del suelo plagado de insectos de la selva tropical de Borneo y se inspira en la destreza ingenieril natural de este solitario primate.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/03/23030657_afc85842fd227528ea361182c42e0a7b.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20251207044000 +0000" stop="20251207053500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Sala de emergencias de vida silvestre : El dilema del ornitorrinco</title>
-    <sub-title lang="es">El dilema del ornitorrinco</sub-title>
-    <desc lang="es">Los rescatistas utilizan la técnica de señalización para atrapar a un koala con los ojos peligrosamente inflamados. El veterinario Tim alivia las patas quemadas de una zarigüeya y Karina examina a un ornitorrinco medio ahogado.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/07/23070358_ba979fcfb2c6f2bc62246ca9d9de61fe.jpg"/>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207053500 +0000" stop="20251207062500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Sala de emergencias de vida silvestre : Problemas con la tortuga</title>
-    <sub-title lang="es">Problemas con la tortuga</sub-title>
-    <desc lang="es">Claire debe hacer malabares para cuidar de las crías de koala enfermas y luego ver que hace falta para salvar a una ardilla voladora. Tim debe cuidar a un búho exhausto y se lleva una sorpresa cuando le hace una radiografía a una tortuga atropellada.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/07/23070360_d3411717dee51db8e27d049e38bd7157.jpg"/>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207062500 +0000" stop="20251207065500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Cazadores de serpientes en Australia: persecución mortal : Intrusos mortales</title>
-    <sub-title lang="es">Intrusos mortales</sub-title>
-    <desc lang="es">Un recorrido por el sureste de Queensland mientras se acerca la temporada de cría y captura de serpientes. Adele y Mick se enfrentan a una serpiente marrón oriental, la segunda más mortífera del mundo. Stu y Liv lidian con una pitón alfombra.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/98/22982518_1478be9c7bf128714ca4e7eadde00f0d.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207065500 +0000" stop="20251207072000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Cazadores de serpientes en Australia: persecución mortal : Duelo de serpientes</title>
-    <sub-title lang="es">Duelo de serpientes</sub-title>
-    <desc lang="es">En el auge primaveral de serpientes, Liv y Stu ven a dos machos de serpiente marrón que compiten por aparearse. Dan y Jess rescatan gallinas de una pitón. Mick y Adele rastrean a una serpiente verde.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/97/22972030_daaf85269d40913d1c3f4a9ae96b609e.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207072000 +0000" stop="20251207075000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Cazadores de serpientes en Australia: persecución mortal : Caos reptil</title>
-    <sub-title lang="es">Caos reptil</sub-title>
-    <desc lang="es">Atraviesa el caos costero de Queensland, donde Jess persigue a un varano arborícola hasta un árbol con un panal de abejas. Stu libera a una serpiente marrón oriental atrapada en una cerca y Mick caza una pitón y ayuda a unos propietarios asustados.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/07/23070460_2b79d9c5dd160127b534c5afcac12cb8.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207075000 +0000" stop="20251207081500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Cazadores de serpientes en Australia: persecución mortal</title>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/97/22972030_daaf85269d40913d1c3f4a9ae96b609e.jpg"/>
-  </programme>
-  <programme start="20251207081500 +0000" stop="20251207091000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">La supervivencia de la bestia : Elefante adaptado al desierto</title>
-    <sub-title lang="es">Elefante adaptado al desierto</sub-title>
-    <desc lang="es">Recorrer el desierto de Namibia con el elefante africano para aprender cómo se mantiene fresco en un lugar con poca comida o sombra. Descubrir cómo este gigante consume plantas específicas, cava pozos y camina por dunas en busca de agua.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/46/22464607_e262f7eea8c7fb0cac7391c14489e0b8.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-  </programme>
-  <programme start="20251207091000 +0000" stop="20251207100500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">La supervivencia de la bestia : Cocodrilo de agua salada</title>
-    <sub-title lang="es">Cocodrilo de agua salada</sub-title>
-    <desc lang="es">Navega por un bosque de manglares en Borneo con el cocodrilo de agua salada, que está perfectamente adaptado a la vida entre las raíces acuáticas.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/02/23024835_ef3c7ac581b8229fe8a7c7ec068a3e3e.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-  </programme>
-  <programme start="20251207100500 +0000" stop="20251207110000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">La supervivencia de la bestia : Orangután</title>
-    <sub-title lang="es">Orangután</sub-title>
-    <desc lang="es">El arte de construir nidos con el maestro constructor de la selva: el orangután. Shadow Max intenta escapar del suelo plagado de insectos de la selva tropical de Borneo y se inspira en la destreza ingenieril natural de este solitario primate.</desc>
-    <date>2025</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/03/23030657_afc85842fd227528ea361182c42e0a7b.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-  </programme>
-  <programme start="20251207110000 +0000" stop="20251207112500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Batalla de los alfas : Sudeste Asiático</title>
-    <sub-title lang="es">Sudeste Asiático</sub-title>
-    <desc lang="es">Los campos de batalla del sudeste asiático son tan salvajes como variados. En la isla de Komodo, el superdepredador es un monstruo de verdad.</desc>
-    <date>2021</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23007553_c24aeb83cfe556ab110c07c9586bbdbe.jpg"/>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207112500 +0000" stop="20251207122000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Escuela selvática de orangutanes : Nacido para ser salvaje</title>
-    <sub-title lang="es">Nacido para ser salvaje</sub-title>
-    <desc lang="es">El equipo hace el último intento de reunir a la reticente madre Dilla con su nueva bebé Delilah. Clara y Clarita están en su último viaje hacia la libertad cuando una peligrosa inundación las detiene en su camino y amenaza a todos.</desc>
-    <date>2019</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23007587_314976291bc60207fcb08059f09f6b86.jpg"/>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-  </programme>
-  <programme start="20251207122000 +0000" stop="20251207131500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">África extrema : La montaña del dragón: Sobreviviendo a la cumbre</title>
-    <sub-title lang="es">La montaña del dragón: Sobreviviendo a la cumbre</sub-title>
-    <desc lang="es">El Drakensberg de Sudáfrica alberga gradientes climáticos y ecológicos.</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23007691_b291149c56bad33aa9a3e2f3f0cb4e25.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207131500 +0000" stop="20251207141000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">África extrema : El Parque Nacional del lago Manyara</title>
-    <sub-title lang="es">El Parque Nacional del lago Manyara</sub-title>
-    <desc lang="es">En el norte de Tanzania, imponentes montañas están flanqueadas por un valle único. Enriquecidas por antiguos volcanes, las laderas ofrecen una variedad de hábitats donde la vida puede prosperar.</desc>
-    <date>2016</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23007563_8e01ecc214cf7837a51a9b1951991259.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207141000 +0000" stop="20251207150500 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Dentro de lo salvaje: India : Gibón en crecimiento</title>
-    <sub-title lang="es">Gibón en crecimiento</sub-title>
-    <desc lang="es">Los gibones hoolock viven la buena vida en las selvas tropicales del noreste de la India, mientras saltan a través de los árboles en busca de la comida perfecta.</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/30/19309464_0B5B0FDD45FF5BE3.jpg"/>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207150500 +0000" stop="20251207160000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Dentro de lo salvaje: India : La tierra del rinoceronte secreto</title>
-    <sub-title lang="es">La tierra del rinoceronte secreto</sub-title>
-    <desc lang="es">En las praderas del noreste de la India, una hembra adulta de rinoceronte con un solo cuerno enseña a su nueva cría.</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/84/19844466_2D86B722F8C364EC.jpg"/>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207160000 +0000" stop="20251207165000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Dentro de lo salvaje: India : Los sementales salvajes del Himalaya</title>
-    <sub-title lang="es">Los sementales salvajes del Himalaya</sub-title>
-    <desc lang="es">Un viejo semental de la meseta de Ladakh en India, encuentra la manera de mantenerse un paso adelante de sus rivales.</desc>
-    <date>2018</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/86/19865146_7D4F7F200F4B87A6.jpg"/>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
-  <programme start="20251207165000 +0000" stop="20251207174000 +0000" channel="DOC-Love Nature (TV)(1080)">
-    <title lang="es">Paisajes por descubrir : Islandia: Hielo</title>
-    <sub-title lang="es">Islandia: Hielo</sub-title>
-    <desc lang="es">Islandia es la isla volcánica más grande del mundo. Los treinta volcanes activos de esta ardiente isla generan un tercio de la lava del mundo. Pero si Islandia fue construida por volcanes, fue el hielo el que la esculpió.</desc>
-    <date>2017</date>
-    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/00/23007695_a1d9a3e72616e9886fc4808fd4a696e6.jpg"/>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-    <rating system="CCC">
-      <value>+14</value>
-    </rating>
-  </programme>
   <programme start="20251207174000 +0000" stop="20251207183500 +0000" channel="DOC-Love Nature (TV)(1080)">
     <title lang="es">Temporadas salvajes de África : Primavera</title>
     <sub-title lang="es">Primavera</sub-title>
@@ -14024,8 +13681,8 @@
   </programme>
   <programme start="20251207191900 +0100" stop="20251207202200 +0100" channel="DOC-NatGeo (M)(1080)">
     <title lang="es">Secreto en los océanos</title>
-    <sub-title lang="es">Secretos del Mar Oriental</sub-title>
-    <desc lang="es">En los mares de China, se esconde el buque de guerra más grande que se haya lanzado al mar, una antigua arma infalible que podría destruir la World Wide Web en un instante.</desc>
+    <sub-title lang="es">Los últimos acorazados</sub-title>
+    <desc lang="es">En 1916 sucede el enfrentamiento naval más violento de la historia, La batalla de Jutlandia, entre las poderosas flotas de combate de Gran Bretaña y Alemania. Sin embargo, ambos países declararon la victoria, ¿Quién fue el vencedor real?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/ar_secreto-en-los-oceanos-s01e09-secretos-del-mar-oriental_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
@@ -14440,8 +14097,8 @@
   </programme>
   <programme start="20251207222500 +0100" stop="20251207232600 +0100" channel="DOC-NatGeo (TV)(720)">
     <title lang="es">Secreto en los océanos</title>
-    <sub-title lang="es">Secretos del Mar Oriental</sub-title>
-    <desc lang="es">En los mares de China, se esconde el buque de guerra más grande que se haya lanzado al mar, una antigua arma infalible que podría destruir la World Wide Web en un instante.</desc>
+    <sub-title lang="es">Los últimos acorazados</sub-title>
+    <desc lang="es">En 1916 sucede el enfrentamiento naval más violento de la historia, La batalla de Jutlandia, entre las poderosas flotas de combate de Gran Bretaña y Alemania. Sin embargo, ambos países declararon la victoria, ¿Quién fue el vencedor real?</desc>
     <icon src="https://cdn.mitvstatic.com/programs/mx_secreto-en-los-oceanos-s01e09-secretos-del-mar-oriental_l_l.jpg"/>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
@@ -14676,7 +14333,7 @@
   </programme>
   <programme start="20251207023000 +0100" stop="20251207033000 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -14688,19 +14345,19 @@
   </programme>
   <programme start="20251207060000 +0100" stop="20251207070200 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251207070200 +0100" stop="20251207080400 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251207080400 +0100" stop="20251207090500 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -14712,7 +14369,7 @@
   </programme>
   <programme start="20251207103000 +0100" stop="20251207113000 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
@@ -14765,13 +14422,13 @@
   </programme>
   <programme start="20251208013000 +0100" stop="20251209013000 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
   <programme start="20251209013000 +0100" stop="20251209033000 +0100" channel="[AR] ESPN 2">
     <title lang="es">SportsCenter</title>
-    <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+    <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
     <category lang="es">SportsCenter</category>
     <icon src="https://cdn.mitvstatic.com/programs/ar_noticiero-sportscenter-1_l_l.jpg"/>
   </programme>
